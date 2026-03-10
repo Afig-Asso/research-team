@@ -177,7 +177,7 @@ Rem. Le fichier README.md est généré automatiquement à partir du fichier dat
 ### Reims 
 
 * **[CReSTIC](https://crestic.univ-reims.fr/)** - Centre de Recherche en Sciences et Technologies de l'Information et de la Communication 
-  * **[Ai4M](https://crestic.univ-reims.fr/fr/equipe/ai4m)** - AI for Medicine --TEST 
+  * **[Ai4M](https://crestic.univ-reims.fr/fr/equipe/ai4m)** - AI for Medicine 
     * Correspondant: Eric Desjardin 
     * Thèmes: _Reconstruction 3D/4D et modélisation géométrique, visualisation scientifique, (auto)stéréoscopie, acquisition multi-vues, interaction, réalité virtuelle_ 
 
