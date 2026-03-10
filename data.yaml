@@ -5,7 +5,7 @@ CReSTIC:
   URL: https://crestic.univ-reims.fr/
   Equipes:
     Ai4M:
-      Correspondant: Eric Desjardin
+      Correspondant: Eric Desjardin 
       URL: https://crestic.univ-reims.fr/fr/equipe/ai4m
       Nom: AI for Medicine
       Thèmes: Reconstruction 3D/4D et modélisation géométrique, visualisation scientifique, (auto)stéréoscopie, acquisition multi-vues, interaction, réalité virtuelle
@@ -332,6 +332,7 @@ Inria:
       Ville: Sophia-Antipolis
       Correspondant: Pierre Alliez
       Thèmes: Computerized geometric modeling of complex scenes from physical measurements.
+
 
 
 
