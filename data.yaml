@@ -4,11 +4,18 @@ CReSTIC:
   Ville: Reims
   URL: https://crestic.univ-reims.fr/
   Equipes:
-    RVM:
+    Ai4M:
       Correspondant: Eric Desjardin
       URL: https://crestic.univ-reims.fr/fr/equipe/ai4m
       Nom: AI for Medicine
       Thèmes: Reconstruction 3D/4D et modélisation géométrique, visualisation scientifique, (auto)stéréoscopie, acquisition multi-vues, interaction, réalité virtuelle
+
+LICIIS:
+  Nom: Laboratoire d'informatique en Calcul Intensif et Image pour la Simulation.
+  Ville: Reims
+  Correspondant: Stéphanie Prévost
+  Thèmes: Reconstruction 3D/4D, visualisation scientifique, rendu, imagerie multi-vues, interaction, réalité virtuelle
+  URL: https://www.univ-reims.fr/universite/laboratoire-d-informatique-en-calcul-intensif-et-image-pour-la-simulation-liciis-ur-3690-lrc-digit,7741,18258.html
 
 CRISTAL:
   Nom: Centre de Recherche en Informatique, Signal et Automatique de Lille
@@ -211,17 +218,17 @@ LJK:
       Correspondant: Florence Bertails-Descoubes
       Thèmes: Modélisation numérique de structures élancées, contact en friction, problème inverse des modèles élastiques.
       Inria:
-    MAVERICK:
+    MAVERICK/GRAOUMPH:
       Nom: Models and Algorithms for Visualization and Rendering
       URL: https://maverick.inria.fr/
-      Correspondant: Nicolas Holzschuch
+      Correspondant: Fabrice Neyret
       Thèmes: Visualisation, Rendu expressif, Simulation d'éclairage, Scènes complexes.
       Inria:
-    ANIMA:
-      Nom: Authoring and directing animated story worlds
-      URL: https://team.inria.fr/imagine/
-      Correspondant: Rémi Ronfard
-      Thèmes: Understanding sorties, authoring and directing story worlds
+    CRAFT:
+      Nom: Conception et fabRicAtion computationnelles d'objets FoncTionnels
+      URL: https://team.inria.fr/craft/
+      Correspondant: Melina Skouras
+      Thèmes: Computational design, Sketch based design
       Inria:
 
 LIS:
@@ -325,5 +332,6 @@ Inria:
       Ville: Sophia-Antipolis
       Correspondant: Pierre Alliez
       Thèmes: Computerized geometric modeling of complex scenes from physical measurements.
+
 
 
