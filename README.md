@@ -10,21 +10,22 @@ Rem. Le fichier README.md est généré automatiquement à partir du fichier dat
 ## Résumé 
 
 - [**CRISTAL**](https://www.cristal.univ-lille.fr/) : [3D SAM](https://www.cristal.univ-lille.fr/equipes/3d-sam/), [MINT](http://www.lifl.fr/mint/) (Lille) 
-- [**CReSTIC**](https://crestic.univ-reims.fr/) : [RVM](https://crestic.univ-reims.fr/fr/equipe/ai4m) (Reims) 
+- [**CReSTIC**](https://crestic.univ-reims.fr/) : [Ai4M](https://crestic.univ-reims.fr/fr/equipe/ai4m) (Reims) 
 - [**ICA-ACROE**](https://agora-creative.acroe-ica.org/organisme/grenoble-inp-laboratoire-ica/) (Grenoble) 
 - [**ICUBE**](https://icube.unistra.fr/) : [IGG](https://igg.icube.unistra.fr/index.php?title=Accueil) (Strasbourg) 
 - [**IRISA**](https://www.irisa.fr/) : [EXPRESSION](https://www-expression.irisa.fr/presentation/), [Hybrid](https://team.inria.fr/hybrid/), [Mimetic](https://team.inria.fr/mimetic/), [Percept](http://www-percept.irisa.fr/), [Rainbow](https://team.inria.fr/virtus/) (Rennes) 
 - [**IRIT**](https://www.irit.fr/) : [STORM](https://www.irit.fr/STORM/site/) (Toulouse) 
-- [**Inria**](https://www.inria.fr/fr) : [GraphDeco](https://team.inria.fr/graphdeco/), [Titane](https://team.inria.fr/titane/), [Hybrid](https://team.inria.fr/hybrid/), [Mimetic](https://team.inria.fr/mimetic/), [Rainbow](https://team.inria.fr/virtus/), [ELAN](https://team.inria.fr/elan/), [MAVERICK](https://maverick.inria.fr/), [ANIMA](https://team.inria.fr/imagine/), [MFX](https://mfx.loria.fr/), [PIXEL](https://pixel.inria.fr/), [Manao](http://manao.inria.fr/) 
+- [**Inria**](https://www.inria.fr/fr) : [GraphDeco](https://team.inria.fr/graphdeco/), [Titane](https://team.inria.fr/titane/), [Hybrid](https://team.inria.fr/hybrid/), [Mimetic](https://team.inria.fr/mimetic/), [Rainbow](https://team.inria.fr/virtus/), [ELAN](https://team.inria.fr/elan/), [MAVERICK/GRAOUMPH](https://maverick.inria.fr/), [CRAFT](https://team.inria.fr/craft/), [MFX](https://mfx.loria.fr/), [PIXEL](https://pixel.inria.fr/), [Manao](http://manao.inria.fr/) 
 - [**LIASD**](https://www.univ-paris8.fr/UR-Laboratoire-d-Intelligence-Artificielle-et-Semantique-des-Donnees-LIASD) : [PASTIS](https://informatique.up8.edu/pastis/) (Saint-Denis) 
 - [**LIB**](https://lib.u-bourgogne.fr/) : [MG](https://lib.u-bourgogne.fr/modelisation-geometrique) (Dijon) 
+- [**LICIIS**](https://www.univ-reims.fr/universite/laboratoire-d-informatique-en-calcul-intensif-et-image-pour-la-simulation-liciis-ur-3690-lrc-digit,7741,18258.html) (Reims) 
 - [**LIGM**](http://ligm.u-pem.fr/) : [A3Si](http://ligm.u-pem.fr/equipes/algorithmes-architectures-analyse-et-synthese-dimages/) (Marne-la-Vallée) 
 - [**LIRIS**](https://liris.cnrs.fr/) : [ORIGAMI](https://projet.liris.cnrs.fr/origami/), [SAARA](https://liris.cnrs.fr/equipe/saara) (Lyon) 
 - [**LIRMM**](https://www.lirmm.fr/) : [ICAR](https://www.lirmm.fr/icar/) (Montpellier) 
 - [**LIS**](https://www.lis-lab.fr/) : [G-MOD](https://www.lis-lab.fr/gmod/) (Marseille) 
 - [**LISIC**](http://www-lisic.univ-littoral.fr/) : [Imap](https://lisic-prod.univ-littoral.fr/equipe/imap/) (Calais) 
 - [**LIX**](https://www.lix.polytechnique.fr/) : [Geomerix](https://team.inria.fr/geomerix/), [VISTA](https://www.lix.polytechnique.fr/vista/) (Palaiseau) 
-- [**LJK**](https://ljk.imag.fr/) : [ANIMA](https://team.inria.fr/imagine/), [ELAN](https://team.inria.fr/elan/), [MAVERICK](https://maverick.inria.fr/) (Grenoble) 
+- [**LJK**](https://ljk.imag.fr/) : [CRAFT](https://team.inria.fr/craft/), [ELAN](https://team.inria.fr/elan/), [MAVERICK/GRAOUMPH](https://maverick.inria.fr/) (Grenoble) 
 - [**LMIA**](http://www.lmia.uha.fr/LMIA-Universite_de_Haute_Alsace/Presentation.html) : [MAGE](http://www.mage.fst.uha.fr/) 
 - [**LORIA**](https://www.loria.fr/fr) : [MFX](https://mfx.loria.fr/), [PIXEL](https://pixel.inria.fr/) (Nancy) 
 - [**LTCI**](https://www.telecom-paris.fr/fr/recherche/laboratoires/laboratoire-traitement-et-communication-de-linformation-ltci) : [IMAGES](https://www.telecom-paris.fr/fr/recherche/laboratoires/laboratoire-traitement-et-communication-de-linformation-ltci/les-equipes-de-recherche/image-modelisation-analyse-geometrie-synthese-images/personnes) (Palaiseau) 
@@ -68,16 +69,16 @@ Rem. Le fichier README.md est généré automatiquement à partir du fichier dat
 
 * **[LJK](https://ljk.imag.fr/)** - Laboratoire Jean Kuntzmann 
   * CNRS UMR-5224 
-  * **[ANIMA](https://team.inria.fr/imagine/)** - Authoring and directing animated story worlds 
-    * Correspondant: Rémi Ronfard 
-    * Thèmes: _Understanding sorties, authoring and directing story worlds_ 
+  * **[CRAFT](https://team.inria.fr/craft/)** - Conception et fabRicAtion computationnelles d'objets FoncTionnels 
+    * Correspondant: Melina Skouras 
+    * Thèmes: _Computational design, Sketch based design_ 
     * _Equipe commune Inria_ 
   * **[ELAN](https://team.inria.fr/elan/)** - Modélisation de l'apparence de phénomènes non-linéaires 
     * Correspondant: Florence Bertails-Descoubes 
     * Thèmes: _Modélisation numérique de structures élancées, contact en friction, problème inverse des modèles élastiques._ 
     * _Equipe commune Inria_ 
-  * **[MAVERICK](https://maverick.inria.fr/)** - Models and Algorithms for Visualization and Rendering 
-    * Correspondant: Nicolas Holzschuch 
+  * **[MAVERICK/GRAOUMPH](https://maverick.inria.fr/)** - Models and Algorithms for Visualization and Rendering 
+    * Correspondant: Fabrice Neyret 
     * Thèmes: _Visualisation, Rendu expressif, Simulation d'éclairage, Scènes complexes._ 
     * _Equipe commune Inria_ 
 
@@ -176,9 +177,13 @@ Rem. Le fichier README.md est généré automatiquement à partir du fichier dat
 ### Reims 
 
 * **[CReSTIC](https://crestic.univ-reims.fr/)** - Centre de Recherche en Sciences et Technologies de l'Information et de la Communication 
-  * **[RVM](https://crestic.univ-reims.fr/fr/equipe/ai4m)** - AI for Medicine 
+  * **[Ai4M](https://crestic.univ-reims.fr/fr/equipe/ai4m)** - AI for Medicine 
     * Correspondant: Eric Desjardin 
     * Thèmes: _Reconstruction 3D/4D et modélisation géométrique, visualisation scientifique, (auto)stéréoscopie, acquisition multi-vues, interaction, réalité virtuelle_ 
+
+* **[LICIIS](https://www.univ-reims.fr/universite/laboratoire-d-informatique-en-calcul-intensif-et-image-pour-la-simulation-liciis-ur-3690-lrc-digit,7741,18258.html)** - Laboratoire d'informatique en Calcul Intensif et Image pour la Simulation. 
+  * Correspondant: Stéphanie Prévost 
+  * Thèmes: _Reconstruction 3D/4D, visualisation scientifique, rendu, imagerie multi-vues, interaction, réalité virtuelle_ 
 
 
 ### Rennes 
@@ -256,8 +261,8 @@ Rem. Le fichier README.md est généré automatiquement à partir du fichier dat
   * **[Mimetic](https://team.inria.fr/mimetic/)** - _Equipe commune avec IRISA_ 
   * **[Rainbow](https://team.inria.fr/virtus/)** - _Equipe commune avec IRISA_ 
   * **[ELAN](https://team.inria.fr/elan/)** - _Equipe commune avec LJK_ 
-  * **[MAVERICK](https://maverick.inria.fr/)** - _Equipe commune avec LJK_ 
-  * **[ANIMA](https://team.inria.fr/imagine/)** - _Equipe commune avec LJK_ 
+  * **[MAVERICK/GRAOUMPH](https://maverick.inria.fr/)** - _Equipe commune avec LJK_ 
+  * **[CRAFT](https://team.inria.fr/craft/)** - _Equipe commune avec LJK_ 
   * **[MFX](https://mfx.loria.fr/)** - _Equipe commune avec LORIA_ 
   * **[PIXEL](https://pixel.inria.fr/)** - _Equipe commune avec LORIA_ 
   * **[Manao](http://manao.inria.fr/)** - _Equipe commune avec LaBRI_ 
