@@ -212,7 +212,27 @@ def annuaire(data, ids_fiches, sites_noms={}):
                                     'ville': eq.get('Ville') or lab.get('Ville', ''), 'inria': 'Inria' in eq,
                                     'fiche': fid if fid in ids_fiches else None})
     sans_accent = lambda s: unicodedata.normalize('NFD', s).encode('ascii', 'ignore').decode().lower()
-    return [{'ville': v, 'labos': list(villes[v].values())} for v in sorted(villes, key=lambda x: (x == 'Autre', sans_accent(x)))]
+    # regroupement par région (demande de Damien, 2026-11-08) : un labo dont les équipes sont dans plusieurs villes
+    # d'une même région n'apparaît qu'une fois ; sa ville est affichée dans son en-tête, celle d'une équipe située
+    # ailleurs dans sa tuile. Le champ « ville » du bloc porte le nom de la région (ancre #v-region).
+    regions = {}
+    for v in villes:
+        reg = REGION.get(v, 'Autre')
+        bloc_r = regions.setdefault(reg, {'villes': set(), 'labos': {}})
+        bloc_r['villes'].add(v)
+        for labo, l in villes[v].items():
+            if labo in bloc_r['labos']:
+                bloc_r['labos'][labo]['equipes'] += l.get('equipes', [])
+                continue
+            vl = (l.get('ville') or '').split(',')[0].strip()
+            bloc_r['labos'][labo] = dict(l, equipes=list(l.get('equipes', [])), ville_aff=vl if REGION.get(vl) == reg else '')
+    res = []
+    for reg in sorted(regions, key=lambda x: (x == 'Autre', sans_accent(x))):
+        labos = sorted(regions[reg]['labos'].values(), key=lambda l: (l['ville_aff'] == '', sans_accent(l['ville_aff']), l['sigle'].lower()))
+        for l in labos:
+            l['equipes'].sort(key=lambda e: (sans_accent(e['ville'].split(',')[0]), e['sigle'].lower()))
+        res.append({'ville': reg, 'villes': sorted(regions[reg]['villes'], key=sans_accent), 'labos': labos})
+    return res
 
 
 def charger():
@@ -361,6 +381,7 @@ footer{padding:16px;color:var(--muted);font-size:12px}
 .ann-outils input{font:inherit;font-size:14px;padding:6px 10px;border:1px solid var(--line);border-radius:8px;background:var(--panel);color:var(--ink);width:min(320px,100%)}
 .ann-villes{display:flex;flex-wrap:wrap;gap:4px}.ann-villes a{font-size:12px;text-decoration:none;background:var(--chip);border-radius:999px;padding:2px 9px;color:var(--ink)}
 .ann-villes a:hover{background:var(--accent-soft);color:var(--accent)}
+.labo-ville{font-size:12px;color:var(--muted);font-weight:600;margin:4px 0 0;text-transform:uppercase;letter-spacing:.04em}.ancre-ville{display:block;height:0;scroll-margin-top:12px}
 .ville{margin:18px 0 0}.ville h3{font-size:15px;margin:0 0 8px;color:var(--muted);text-transform:uppercase;letter-spacing:.06em;font-weight:600;
  display:flex;align-items:center;gap:10px}.ville h3::after{content:"";flex:1;height:1px;background:var(--line)}
 .labos{display:grid;grid-template-columns:repeat(auto-fill,minmax(330px,1fr));gap:12px}
@@ -714,7 +735,7 @@ const tuile=(e,v,l)=>{const f=EQ.find(x=>x.id===e.fiche),st=f?f.stats:{};
   <div class="equipe-t">${sig}${e.inria?'<span class="badge badge-inria" title="Équipe commune Inria">Inria</span>':''}${f?`<span class="eq-nb" title="${nIG} permanents en IG${nP?`, +${nP} en partie`:''}"><b>${nIG}</b>${nP?`<small>+${nP}</small>`:''} perm.</span>`:''}</div>
   <div class="nom" title="${esc(e.nom)}">${esc(e.nom)}</div>
   ${f&&f.synthese?`<p class="syn">${esc(f.synthese)}</p>`:(e.themes?`<p class="syn" title="${esc(e.themes)}">${esc(e.themes)}</p>`:'')}${raison(e)}
-  <div class="pied">${e.correspondant?`<span>Correspondant : ${corr(e.correspondant,e.correspondant_site)}</span>`:''}${e.ville&&e.ville!==v.ville?`<span class="badge">${esc(e.ville)}</span>`:''}<span class="actions">${e.url&&e.fiche?`<a class="site" href="${esc(e.url)}" target="_blank" rel="noopener">Site ↗</a>`:''}<a class="site" href="${esc(lienCarte(l.sigle,e.sigle))}" title="Voir l'équipe et les entreprises proches sur la carte de France">Carte ↗</a>${e.fiche?`<button class="btn-fiche" data-eq="${e.fiche}">Fiche →</button>`:''}</span></div>
+  <div class="pied">${e.correspondant?`<span>Correspondant : ${corr(e.correspondant,e.correspondant_site)}</span>`:''}${e.ville&&e.ville.split(',')[0].trim()!==l.ville_aff?`<span class="badge">${esc(e.ville)}</span>`:''}<span class="actions">${e.url&&e.fiche?`<a class="site" href="${esc(e.url)}" target="_blank" rel="noopener">Site ↗</a>`:''}<a class="site" href="${esc(lienCarte(l.sigle,e.sigle))}" title="Voir l'équipe et les entreprises proches sur la carte de France">Carte ↗</a>${e.fiche?`<button class="btn-fiche" data-eq="${e.fiche}">Fiche →</button>`:''}</span></div>
  </li>`};
 // recherche par mot-clé : complétion sur les secteurs (entreprises), domaines (étudiants), thèmes (chercheurs),
 // équipes, laboratoires et villes ; une suggestion choisie devient un filtre (plusieurs filtres : toutes les conditions)
@@ -775,17 +796,17 @@ function texteEq(e){if(!TXT_EQ.has(e)){const f=EQ.find(x=>x.id===e.fiche);
  TXT_EQ.set(e,sansAccent([e.sigle,e.nom,e.themes,e.correspondant,e.ville,f?.synthese,f?.pour_entreprises,...(f?f.themes.flatMap(x=>[T[x.id]?.fr,T[x.id]?.en]):[]),
   ...(f?f.applications.flatMap(a=>[A[a]?.fr,A[a]?.en]):[])].join(' ')))}return TXT_EQ.get(e)}
 function annuaireRendre(){const q=sansAccent($('#ann-q').value.trim());let nE=0;const nL=new Set(),vis=[];
- const html=ANN.map(v=>{const labos=v.labos.map(l=>{const txtL=sansAccent([v.ville,l.sigle,l.nom,l.ville].join(' '));
+ const html=ANN.map(v=>{const labos=v.labos.map(l=>{const txtL=sansAccent([v.ville,l.sigle,l.nom,l.ville,...l.equipes.map(e=>e.ville)].join(' '));
    const eqs=l.equipes.filter(e=>garde(e,l,v)&&(!q||txtL.includes(q)||texteEq(e).includes(q)));
    if((q||FILTRES.length)&&!eqs.length&&!(l.equipes.length===0&&!FILTRES.length&&txtL.includes(q)))return '';
    nL.add(l.sigle);nE+=eqs.length;
    return `<article class="labo">
     <header class="labo-t"><div class="labo-id">${lien(l.url,l.sigle)}${l.umr?`<span class="badge badge-umr">UMR ${esc(l.umr)}</span>`:''}</div>
-     <p class="labo-n">${esc(l.nom)}</p></header>
+     <p class="labo-n">${esc(l.nom)}</p>${l.ville_aff?`<p class="labo-ville">${esc(l.ville_aff)}</p>`:''}</header>
     ${l.equipes.length?`<ul class="equipes">${eqs.map(e=>tuile(e,v,l)).join('')}</ul>`:(l.correspondant?`<p class="labo-vide">Correspondant : ${corr(l.correspondant,l.correspondant_site)}</p>`:'')}
    </article>`}).join('');
   if(!labos)return '';vis.push(v.ville);
-  return `<div class="ville" id="${ancre(v.ville)}"><h3>${esc(v.ville)}</h3><div class="labos">${labos}</div></div>`}).join('');
+  return `<div class="ville" id="${ancre(v.ville)}">${v.villes.map(c=>`<span class="ancre-ville" id="${ancre(c)}"></span>`).join('')}<h3>${esc(v.ville)}</h3><div class="labos">${labos}</div></div>`}).join('');
  $('#ann-liste').innerHTML=html||'<p class="meta">Aucune équipe ne correspond.</p>';bind($('#ann-liste'));
  $('#ann-villes').innerHTML=vis.map(v=>`<a href="#${ancre(v)}">${esc(v)}</a>`).join('');
  $('#ann-resume').textContent=(q||FILTRES.length)?`${nE} équipe${nE>1?'s':''} sur ${ANN.reduce((s,v)=>s+v.labos.reduce((t,l)=>t+l.equipes.length,0),0)} correspondent, dans ${nL.size} laboratoire${nL.size>1?'s':''} et ${vis.length} ville${vis.length>1?'s':''}.`:`${nE} équipes, ${nL.size} laboratoires, ${vis.length} villes. Clic sur le sigle : fiche de l'équipe.`}
