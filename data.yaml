@@ -1,279 +1,265 @@
----
-CReSTIC: 
-  Nom: Centre de Recherche en Sciences et Technologies de l'Information et de la Communication
-  Ville: Reims
-  URL: https://crestic.univ-reims.fr/
-  Equipes:
-    Ai4M:
-      Correspondant: Eric Desjardin 
-      URL: https://crestic.univ-reims.fr/fr/equipe/ai4m
-      Nom: AI for Medicine
-      Thèmes: Reconstruction 3D/4D et modélisation géométrique, visualisation scientifique, (auto)stéréoscopie, acquisition multi-vues, interaction, réalité virtuelle
-
-LICIIS:
-  Nom: Laboratoire d'informatique en Calcul Intensif et Image pour la Simulation.
-  Ville: Reims
-  Correspondant: Stéphanie Prévost
-  Thèmes: Reconstruction 3D/4D, visualisation scientifique, rendu, imagerie multi-vues, interaction, réalité virtuelle
-  URL: https://www.univ-reims.fr/universite/laboratoire-d-informatique-en-calcul-intensif-et-image-pour-la-simulation-liciis-ur-3690-lrc-digit,7741,18258.html
-
-CRISTAL:
+# Équipes de recherche en informatique graphique. Le README et la cartographie sont générés à partir de ce fichier.
+CRIStAL:
   Nom: Centre de Recherche en Informatique, Signal et Automatique de Lille
   Ville: Lille
-  URL: https://www.cristal.univ-lille.fr/
+  Coordonnées: [50.6054, 3.1391]
+  URL: https://cristal.univ-lille.fr/
   UMR: 9189
   Equipes:
-    3D SAM:
-      URL: https://www.cristal.univ-lille.fr/equipes/3d-sam/
-      Nom: Modeling and Analysis of Static and Dynamic Shapes
-      Thèmes: Analyser la forme des objets 3D, Modéliser les variations des formes dans des vidéos 3D
     MINT:
-      URL: http://www.lifl.fr/mint/
-      Nom: Méthodes et outils pour l'Interaction à gestes
-      Thèmes: Gestures captured, Computational representations of gestures, Object manipulations, Feedback mechanisms
-
-ICA-ACROE:
-  Nom: Association pour la Création et la Recherche sur les Outils d'Expression, Ingénierie de la Création Artistique
-  Ville: Grenoble
-  Correspondant: Nicolas Castagné
-  URL: https://agora-creative.acroe-ica.org/organisme/grenoble-inp-laboratoire-ica/
-
-
+      Nom: Méthodes et outils pour les interactions gestuelles
+      URL: https://mint.univ-lille.fr/
+      Thèmes: Interaction humain-machine, interaction étendue en situations observées (espace public, performances artistiques, enseignement, rééducation), interaction gestuelle avec du contenu virtuel.
 ICUBE:
   Nom: Laboratoire des sciences de l'ingénieur, de l'informatique et de l'imagerie
   Ville: Strasbourg
+  Coordonnées: [48.5256, 7.7378]
   URL: https://icube.unistra.fr/
   UMR: 7357
   Equipes:
     IGG:
       Nom: Informatique Géométrique et Graphique
-      Correspondant: Dominique Bechmann
       URL: https://igg.icube.unistra.fr/index.php?title=Accueil
-      Thèmes: Informatique graphique, modélisation géométrique, spécification et preuves, réalité virtuelle, rendu et visualisation, simulation et interaction.
-
-LMIA:
-  Nom: Laboratoire de Mathématiques, Informatique et Applications
-  URL: http://www.lmia.uha.fr/LMIA-Universite_de_Haute_Alsace/Presentation.html
-  Equipes:
-    MAGE:
-      Correspondant: Frédéric Cordier
-      URL: http://www.mage.fst.uha.fr/
-      Thèmes: Géométrie algorithmique et aplications, combinatoire
-
-
+      Correspondant: Dominique Bechmann
+      Thèmes: Informatique graphique, modélisation géométrique, animation, spécification et preuves, réalité virtuelle, rendu et visualisation, simulation et interaction.
+    MIMESIS:
+      Nom: Computational Anatomy and Simulation for Medicine
+      URL: https://team.inria.fr/mimesis/
+      Thèmes: Simulation physique temps réel de tissus déformables, jumeaux numériques d'organes, réalité augmentée et simulateurs VR haptiques pour la chirurgie, traitement de géométrie
+      Inria: null
 IRISA:
   Nom: Institut de Recherche en Informatique et Systèmes Aléatoires
   Ville: Rennes
+  Coordonnées: [48.1155, -1.637]
   URL: https://www.irisa.fr/
   UMR: 6074
   Equipes:
     EXPRESSION:
       Nom: Expressiveness in Human Centered Data/Media
-      Correspondant: Caroline Larboulette
       URL: https://www-expression.irisa.fr/presentation/
-      Thèmes: Expressive gesture synthesis and recognition,  speech synthesis, text and language.
-    Hybrid:
-      Nom: 3D Interaction with Virtual Environments using Body and Mind
-      Correspondant: Anatole Lecuyer
-      URL: https://team.inria.fr/hybrid/
-      Thèmes: Virtual Reality and 3D interaction, Body-based interaction, Brain-based interaction
-      Inria:
-    Mimetic:
-      Correspondant: Ludovic Hoyet
-      Nom: Analysis-Synthesis Approach for Virtual Human Simulation
-      URL: https://team.inria.fr/mimetic/
-      Thèmes: Human motion analysis, Physical activity in VR, Crowd simulation, Virtual cinematography.
-      Inria:
-    Percept:
-      Correspondant: Kadi Bouatouch
-      Nom: Computational Visual Perception and Applications
-      URL: http://www-percept.irisa.fr/
-      Thèmes: Understand and express algorithmically complex phenomena taking place in our visual system
+      Ville: Vannes, Lannion
+      Coordonnées: [47.6456, -2.7462]
+      Correspondant: Caroline Larboulette
+      Thèmes: Expressive gesture synthesis and recognition, speech synthesis, text and language.
+    Seamless:
+      Nom: Seamless interaction and collaboration through the reality-virtuality continuum
+      URL: https://team.inria.fr/seamless/
+      Correspondant: Anatole Lécuyer
+      Thèmes: Réalité virtuelle et augmentée (XR), interaction et incarnation en XR, haptique et pseudo-haptique, interfaces cerveau-ordinateur et neurofeedback.
+      Inria: null
+    COMBO:
+      Nom: Computer and Biomechanics → Out-of-the-Lab
+      URL: https://team.inria.fr/combo/
+      Correspondant: Franck Multon
+      Thèmes: Modèles biomécaniques, analyse du mouvement humain, réalité virtuelle et boucle perception-action, interaction humain-système (exosquelettes).
+      Inria: null
     Rainbow:
-      Correspondant: Maud Marchal
       Nom: Sensor-based and interactive robotics
       URL: https://team.inria.fr/rainbow/
+      Correspondant: Maud Marchal
       Thèmes: Sensor-based robots able to navigate and interact in complex unstructured environments together with human users.
-      Inria:
-    Rainbow:
-      Correspondant: Julien Pettré
-      Nom: VirtUs
+      Inria: null
+    VirtUs:
+      Nom: VirtUs – The Virtual Us
       URL: https://team.inria.fr/virtus/
+      Correspondant: Julien Pettré
       Thèmes: Analysis, modelling and simulation of movement.
-      Inria:
-
+      Inria: null
 IRIT:
   Nom: Institut de Recherche en Informatique de Toulouse
   Ville: Toulouse
+  Coordonnées: [43.5616, 1.463]
   URL: https://www.irit.fr/
   UMR: 5505
   Equipes:
     STORM:
       Nom: Structural Models and Tools in Computer Graphics
-      Correspondant: Mathias Paulin
       URL: https://www.irit.fr/STORM/site/
+      Correspondant: Mathias Paulin
       Thèmes: Modélisation géométrique, Animation 3D, Rendu
-
+    REVA:
+      URL: https://www.irit.fr/departement/calcul-intensif-simulation-optimisation/reva/
+      Thèmes: Reconstruction 3D et stéréophotométrie, réalités mixtes, analyse de données multimodales et restitution visuelle, méthodes variationnelles, vie artificielle
 LaSTIG:
-  Nom: Laboratoire en sciences de l'information géographique
+  Nom: Laboratoire en Sciences et Technologies de l'Information Géographique
   Ville: Saint Mandé, Marne-la-Vallée
+  Coordonnées: [48.8406, 2.587]
   URL: https://www.umr-lastig.fr/
   Equipes:
     GEOVIS:
-      Correspondant: Mathieu Brédif
+      Nom: Visualisation, Interaction et Immersion
       URL: https://www.umr-lastig.fr/geovis/
-      Nom: Géovisualisation, interaction, et immersion
+      Correspondant: Mathieu Brédif
       Thèmes: Visualisation, Interaction, Immersion spatiale, Rendu graphique, Expérimentation utilisateur (UX)
     ACTE:
       Nom: ACquisition et TraitEment de données Image/Lidar/Radar
       URL: https://www.umr-lastig.fr/acte/
       Thèmes: acquisition, instrumentation, capteurs physiques, géométrie radiométrie, métrologie, étalonnage, (géo)localisation, descripteurs, appariement, indexation par contenu, structuration multi-critères, reconstruction de surface et de structure, sémantisation.
-
 LIB:
-  Nom: Laboratoire d'Informatique de Bourgogne
+  Nom: Laboratoire Informatique de Bourgogne
   Ville: Dijon
-  URL: https://lib.u-bourgogne.fr/
-  Equipes: 
+  Coordonnées: [47.3124, 5.0718]
+  URL: https://lib.ube.fr/
+  Equipes:
     MG:
       Nom: Modélisation Géométrique
-      URL: https://lib.u-bourgogne.fr/modelisation-geometrique
-      Correspondant: Chrisitan Gentil
+      URL: https://lib.ube.fr/equipes/modelisation-geometrique/
+      Correspondant: Christian Gentil
       Thèmes: Modélisation (géométrique, itérative et par contraintes)
-
 LIASD:
   Nom: Laboratoire d'Intelligence Artificielle et Sémantique des Données
   Ville: Saint-Denis
+  Coordonnées: [48.9453, 2.3639]
   URL: https://www.univ-paris8.fr/UR-Laboratoire-d-Intelligence-Artificielle-et-Semantique-des-Donnees-LIASD
   Equipes:
     PASTIS:
-      Correspondant: Jean-Jacques Bourdin
-      URL: https://informatique.up8.edu/pastis/
       Nom: Programmation, Apprentissage, Sécurité, Textes, Images, Simulations
+      URL: https://informatique.up8.edu/pastis/
+      Correspondant: Farès Belhadj
       Thèmes: Synthèse d'images expressives
-
 LIGM:
   Nom: Laboratoire d'informatique Gaspard Monge
   Ville: Marne-la-Vallée
-  URL: http://ligm.u-pem.fr/
+  Coordonnées: [48.8399, 2.5865]
+  URL: https://ligm.univ-eiffel.fr/
   UMR: 8049
   Equipes:
-    A3Si:
-      Correspondant: Venceslas Biri
-      URL: http://ligm.u-pem.fr/equipes/algorithmes-architectures-analyse-et-synthese-dimages/
+    A3SI:
       Nom: Algorithmes, Architectures, Analyse et Synthèse d'images
+      URL: https://ligm.univ-eiffel.fr/equipe/a3si/
+      Correspondant: Venceslas Biri
       Thèmes: Synthèse d'images et modélisation, Reconstruction, Géométrie discrète et algorithmique.
-
 LIRIS:
   Nom: Laboratoire d'informatique en image et systèmes d'information
   Ville: Lyon
+  Coordonnées: [45.7821, 4.8657]
   URL: https://liris.cnrs.fr/
   UMR: 5205
-  Equipes: 
+  Equipes:
     ORIGAMI:
+      Nom: Computer Graphics and Geometry Processing
+      URL: https://origami.projet.liris.cnrs.fr/
       Correspondant: Julie Digne
-      URL: https://projet.liris.cnrs.fr/origami/
       Thèmes: Rendering, Geometry Processing, Mathematical tools for CG, Dynamical Meshes, Visual Perception & Interaction, Virtual Worlds.
     SAARA:
       Nom: Simulation, Analyse et Animation pour la Réalité Augmentée
-      URL: https://liris.cnrs.fr/equipe/saara
+      URL: https://saara.projet.liris.cnrs.fr/
+      Correspondant: Alexandre Meyer
       Thèmes: Capture et analyse de données géométriques et cinématiques d'humains, Simulation des interactions/comportements des organes.
-
 LIRMM:
   Nom: Laboratoire d'Informatique, de Robotique et de Microélectronique de Montpellier
   Ville: Montpellier
+  Coordonnées: [43.6368, 3.8407]
   URL: https://www.lirmm.fr/
   UMR: 5506
   Equipes:
     ICAR:
-      Correspondant: Noura Faraj
+      Nom: Image & Interaction
       URL: https://www.lirmm.fr/icar/
+      Correspondant: Noura Faraj
       Thèmes: Interaction, Données visuelles 2D, 3D, nD, images et vidéos, robotique, modélisation paramétrique.
-
 LIX:
   Nom: Laboratoire d'Informatique de l'Ecole Polytechnique
   Ville: Palaiseau
+  Coordonnées: [48.7152, 2.206]
   URL: https://www.lix.polytechnique.fr/
   UMR: 7161
-  Equipes: 
+  Equipes:
     VISTA:
-      Nom: "Visual Worlds: Temporal Analysis, Animation and Authoring"
+      Nom: 'Visual Worlds: Temporal Analysis, Animation and Authoring'
       URL: https://www.lix.polytechnique.fr/vista/
       Correspondant: Damien Rohmer
       Thèmes: Création et interactions de mondes virtuels animés, Analyse de vidéo 2D et animation 3D, Modèles interactifs de formes et mouvements, Simulation visuelles.
-    Geomerix:
-      Nom: Geometry for numeric
+    GeomeriX:
+      Nom: Geometry-powered Numerics
       URL: https://team.inria.fr/geomerix/
       Correspondant: Mathieu Desbrun
       Thèmes: Geometry Processing, Analyse de formes, Simulation physique.
-
+      Inria: null
 LJK:
   Nom: Laboratoire Jean Kuntzmann
   Ville: Grenoble
-  URL: https://ljk.imag.fr/
+  Coordonnées: [45.1907, 5.7673]
+  URL: https://www-ljk.imag.fr/
   UMR: 5224
   Equipes:
-    ELAN: 
-      Nom: Modélisation de l'apparence de phénomènes non-linéaires
+    ELAN:
+      Nom: ModELing the Appearance of Nonlinear phenomena
       URL: https://team.inria.fr/elan/
+      Ville: Montbonnot-Saint-Martin
+      Coordonnées: [45.218, 5.8072]
       Correspondant: Florence Bertails-Descoubes
       Thèmes: Modélisation numérique de structures élancées, contact en friction, problème inverse des modèles élastiques.
-      Inria:
-    MAVERICK/GRAOUMPH:
+      Inria: null
+    MAVERICK:
       Nom: Models and Algorithms for Visualization and Rendering
-      URL: https://maverick.inria.fr/
-      Correspondant: Fabrice Neyret
+      URL: https://team.inria.fr/maverick/
+      Ville: Montbonnot-Saint-Martin
+      Coordonnées: [45.218, 5.8072]
+      Correspondant: Thibault Tricard
       Thèmes: Visualisation, Rendu expressif, Simulation d'éclairage, Scènes complexes.
-      Inria:
+      Inria: null
     CRAFT:
-      Nom: Conception et fabRicAtion computationnelles d'objets FoncTionnels
+      Nom: Computational design and fabrication of functional artefacts
       URL: https://team.inria.fr/craft/
-      Correspondant: Melina Skouras
-      Thèmes: Computational design, Sketch based design
-      Inria:
-
+      Correspondant: Mélina Skouras
+      Thèmes: Conception et fabrication numériques, modélisation par esquisse tenant compte de la physique, métamatériaux non linéaires, problèmes inverses géométriques et mécaniques.
+      Inria: null
+    Kinetix:
+      Nom: Vision 4D et modélisation pour la capture volumétrique et humaine
+      URL: https://team.inria.fr/kinetix/
+      Ville: Montbonnot-Saint-Martin
+      Coordonnées: [45.218, 5.8072]
+      Thèmes: Capture volumétrique 3D/4D, doubles numériques d'humains en mouvement (corps, vêtements, cheveux, peau), modèles d'apparence et génératifs, plateforme Kinovis
+      Inria: null
 LIS:
   Nom: Laboratoire d’Informatique et Systèmes
   Ville: Marseille
+  Coordonnées: [43.282, 5.405]
   URL: https://www.lis-lab.fr/
   UMR: 7020
   Equipes:
-    G-MOD:
+    GMOD:
       Nom: Modélisation Géométrique
-      Correspondant: Jean-Luc Mari
       URL: https://www.lis-lab.fr/gmod/
+      Correspondant: Jean-Luc Mari
       Thèmes: Surfaces paramétriques, maillages, analyse de forme, modélisation par contraintes.
-
 LTCI:
-  Nom: Laboratoire de Traitement et Communication de l'Informatique
-  URL: https://www.telecom-paris.fr/fr/recherche/laboratoires/laboratoire-traitement-et-communication-de-linformation-ltci
+  Nom: Laboratoire Traitement et Communication de l'Information
   Ville: Palaiseau
+  Coordonnées: [48.7123, 2.1986]
+  URL: https://www.telecom-paris.fr/fr/recherche/labos/traitement-information-ltci
   Equipes:
     IMAGES:
-      Nom: Image, Modélisation, Analyse, Géométrique, Synthèse
+      Nom: Image, Modélisation, Analyse, GEométrie, Synthèse
+      URL: https://www.telecom-paris.fr/fr/recherche/labos/traitement-information-ltci/equipes/images
       Correspondant: Amal Dev Parakkat
-      URL: https://www.telecom-paris.fr/fr/recherche/laboratoires/laboratoire-traitement-et-communication-de-linformation-ltci/les-equipes-de-recherche/image-modelisation-analyse-geometrie-synthese-images/personnes
       Thèmes: Modeling, Interaction, Fluid simulation.
-
-XLim:
-  Ville: Limoges
+XLIM:
+  Nom: Institut de recherche XLIM
+  Ville: Limoges, Poitiers
+  Coordonnées: [45.8379, 1.2391]
   URL: https://www.xlim.fr/
   UMR: 7252
   Equipes:
     IG:
       Nom: Informatique Graphique
+      URL: https://www.xlim.fr/ig/
+      Ville: Poitiers
+      Coordonnées: [46.6599, 0.3595]
       Correspondant: Philippe Meseure
-      URL: https://www.xlim.fr/recherche/pole-mathematiques-informatique-image/synthese-analyse-dimages/ig
       Thèmes: Modélisation et animation d'objets géométriques, géométrie discrète, simulation d'éclairage.
     SIR:
-      Nom: Synthèse d'Images Réalistes
-      Correspondant: Benoit Crespin
-      URL: https://www.xlim.fr/recherche/pole-mathematiques-informatique-image/synthese-analyse-dimages/sir
+      Nom: Simulation, Image, Rendu
+      URL: https://www.xlim.fr/sir/
+      Ville: Limoges
+      Coordonnées: [45.8379, 1.2391]
+      Correspondant: Benoît Crespin
       Thèmes: Synthèse de textures procédurales, Représentation d'objets et de phénomènes naturels, Rendu réaliste.
-    
-
 LORIA:
-  Ville: Nancy
   Nom: Laboratoire Lorrain de Recherche en Informatique et ses Applications
+  Ville: Nancy
+  Coordonnées: [48.6661, 6.1567]
   URL: https://www.loria.fr/fr
   UMR: 7503
   Equipes:
@@ -282,57 +268,164 @@ LORIA:
       URL: https://mfx.loria.fr/
       Correspondant: Sylvain Lefebvre
       Thèmes: Formes complexes, Fabrication additive
-      Inria:
+      Inria: null
     PIXEL:
-      Nom: Géométrie et Lumière
+      Nom: Structure geometrical shapes
       URL: https://pixel.inria.fr/
       Correspondant: Dmitry Sokolov
       Thèmes: Paramétrisation, Maillages, Reconstruction.
-      Inria:
-
-
+      Inria: null
 LaBRI:
-  Ville: Bordeaux
   Nom: Laboratoire Bordelais de Recherche en Informatique
-  URL: https://www.labri.fr/index.php
+  Ville: Bordeaux
+  Coordonnées: [44.804, -0.5944]
+  URL: https://www.labri.fr/
   UMR: 5800
-  Equipes: 
+  Equipes:
     Manao:
       Nom: Melting the frontiers between Light, Shape and Matter
+      URL: https://manao.inria.fr/
+      Ville: Talence
+      Coordonnées: [44.8081, -0.6002]
       Correspondant: Pierre Bénard
-      URL: http://manao.inria.fr/
       Thèmes: Convergence of Digital Optics and Computer Graphics.
-      Inria:
-
+      Inria: null
 LISIC:
-  Nom: Laboratoire d'Informatique Signal et Image de la Cote d'Opale
+  Nom: Laboratoire d'Informatique Signal et Image de la Côte d'Opale
   Ville: Calais
-  URL: http://www-lisic.univ-littoral.fr/
+  Coordonnées: [50.9526, 1.878]
+  URL: https://lisic-prod.univ-littoral.fr/
   Equipes:
-    Imap:
-      Nom: Images et Apprentissage
-      URL: https://lisic-prod.univ-littoral.fr/equipe/imap/
-      Thèmes: Classification et simulation d'éclairage.
+    SEPIA:
+      Nom: Simulation d'Éclairage, Perception, Images et Applications
+      URL: https://lisic-prod.univ-littoral.fr/equipe/sepia/
       Correspondant: Christophe Renaud
-  
-
+      Thèmes: Simulation d'éclairage, rendu réaliste, HDR, perception.
 Inria:
-  Nom: Institut national de recherche en sciences et technologies du numérique.
+  Nom: Institut national de recherche en sciences et technologies du numérique
   URL: https://www.inria.fr/fr
   Equipes:
     GraphDeco:
       Nom: Graphics and Design with heterogeneous content
       URL: https://team.inria.fr/graphdeco/
-      Ville: Sophia-Antipolis
-      Thèmes: Design and artistic guided visual content, Unified representation of computer graphics models and algorithms.
+      Ville: Sophia Antipolis
+      Coordonnées: [43.6148, 7.0499]
       Correspondant: George Drettakis
+      Thèmes: Design and artistic guided visual content, Unified representation of computer graphics models and algorithms.
     Titane:
       Nom: Geometric Modeling of 3D Environments
       URL: https://team.inria.fr/titane/
-      Ville: Sophia-Antipolis
+      Ville: Sophia Antipolis
+      Coordonnées: [43.6148, 7.0499]
       Correspondant: Pierre Alliez
       Thèmes: Computerized geometric modeling of complex scenes from physical measurements.
-
-
-
-
+    AVIZ:
+      Nom: Analysis and VIsualiZation
+      URL: https://aviz.saclay.inria.fr/
+      Ville: Saclay
+      Coordonnées: [48.7124, 2.1671]
+      Thèmes: Visualisation d'information, analyse progressive de données, physicalisation, perception et décision, méthodologie de la visualisation.
+LICIIS:
+  Nom: Laboratoire d'informatique en Calcul Intensif et Image pour la Simulation.
+  Ville: Reims
+  Coordonnées: [49.2427, 4.0654]
+  URL: https://www.univ-reims.fr/universite/laboratoire-d-informatique-en-calcul-intensif-et-image-pour-la-simulation-liciis-ur-3690-lrc-digit,7741,18258.html
+  Correspondant: Stéphanie Prévost
+  Thèmes: Reconstruction 3D/4D, visualisation scientifique, rendu, imagerie multi-vues, interaction, réalité virtuelle
+LISN:
+  Nom: Laboratoire Interdisciplinaire des Sciences du Numérique
+  Ville: Orsay
+  Coordonnées: [48.7064, 2.1767]
+  URL: https://www.lisn.upsaclay.fr/
+  UMR: 9015
+  Equipes:
+    VENISE:
+      Nom: Virtual & Augmented ENvironments for Simulation & Experiments
+      URL: https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/interaction-avec-lhumain/virtual-augmented-environments-for-simulation-experiments-venise/
+      Thèmes: Réalité virtuelle et augmentée, interaction 3D, immersion collaborative, réalité mixte pour le patrimoine, XR pour la modélisation moléculaire
+    ILDA:
+      Nom: Interacting with Large DAta
+      URL: https://ilda.saclay.inria.fr/
+      Ville: Gif-sur-Yvette
+      Coordonnées: [48.7124, 2.1671]
+      Thèmes: Visualisation de grandes données, murs d'écrans, réalité mixte (RA à RV), interaction gestuelle et tangible, données spatio-temporelles
+      Inria: null
+IBISC:
+  Nom: Informatique, Bio-informatique et Systèmes Complexes
+  Ville: Évry-Courcouronnes
+  Coordonnées: [48.6135, 2.429]
+  URL: https://www.ibisc.univ-evry.fr/
+  Equipes:
+    IRA2:
+      Nom: Interaction, Réalité virtuelle & Augmentée, Robotique Ambiante
+      URL: https://www.ibisc.univ-evry.fr/equipe/ira2/
+      Thèmes: Réalité virtuelle et augmentée, interaction 3D multimodale, suivi 3D, téléopération, simulateurs immersifs (santé, industrie)
+CAOR:
+  Nom: Centre de Robotique, Mines Paris – PSL
+  Ville: Paris
+  Coordonnées: [48.8456, 2.3397]
+  URL: https://www.caor.minesparis.psl.eu/
+  Thèmes: Nuages de points 3D et modélisation (cartographie mobile Lidar, segmentation sémantique de scènes 3D, reconstruction), réalité virtuelle et augmentée
+Lab-STICC:
+  Nom: Laboratoire des Sciences et Techniques de l'Information, de la Communication et de la Connaissance
+  Ville: Brest
+  Coordonnées: [48.3615, -4.5711]
+  URL: https://labsticc.fr/
+  UMR: 6285
+  Equipes:
+    INUIT:
+      Nom: Immersive Natural User Interaction Team
+      URL: https://labsticc.fr/fr/equipes/inuit/
+      Thèmes: Réalité virtuelle et augmentée, interaction 3D et tangible, collaboration en réalité mixte, visualisation immersive
+LISPEN:
+  Nom: Laboratoire d'Ingénierie des Systèmes Physiques Et Numériques (Arts et Métiers, site de Chalon-sur-Saône)
+  Ville: Chalon-sur-Saône
+  Coordonnées: [46.7762, 4.846]
+  URL: https://lispen.artsetmetiers.fr/index.php/node/19
+  Thèmes: Réalité virtuelle et augmentée, interaction immersive collaborative, environnements virtuels, avatars, ingénierie numérique
+LAMPA:
+  Nom: Laboratoire Angevin de Mécanique, Procédés et innovAtion (Arts et Métiers, EA 1427)
+  Ville: Laval
+  Coordonnées: [48.0886, -0.7522]
+  URL: https://lampa.artsetmetiers.fr/
+  Equipes:
+    Réalités étendues:
+      Nom: Interactions humain-machine et cognition dans les réalités étendues
+      URL: https://lampa.artsetmetiers.fr/interactions-humain-machine-et-cognition-dans-les-realites-etendues
+      Thèmes: Réalité virtuelle, augmentée et mixte, présence et incarnation d'avatars, collaboration multi-utilisateur en environnement virtuel, expérience utilisateur
+LS2N:
+  Nom: Laboratoire des Sciences du Numérique de Nantes
+  Ville: Nantes
+  Coordonnées: [47.2834, -1.5144]
+  URL: https://www.ls2n.fr/
+  UMR: 6004
+  Equipes:
+    IPI:
+      Nom: Image Perception Interaction
+      URL: https://www.ls2n.fr/equipes/ipi-image-perception-interaction/
+      Thèmes: Perception visuelle et qualité d'expérience, qualité des contenus 3D et nuages de points, réalité virtuelle, représentation et formats des contenus visuels
+    PACCE:
+      Nom: Perception, Action, Cognition pour la Conception et l'Ergonomie
+      URL: https://www.ls2n.fr/equipes/pacce-perception-action-cognition-pour-la-conception-et-lergonomie/
+      Thèmes: Réalité virtuelle et augmentée, avatars et incarnation, ergonomie cognitive, collaboration en environnement virtuel
+b<>com:
+  Nom: Institut de Recherche Technologique b<>com
+  Ville: Cesson-Sévigné
+  Coordonnées: [48.1362, -1.6233]
+  URL: https://b-com.com/
+  Equipes:
+    Images & vision:
+      Nom: Axe de R&I Images & vision (image, vision et interaction)
+      URL: https://b-com.com/nous-connaitre/nos-axes-r-i/images-et-vision
+      Thèmes: Holographie numérique temps réel, vidéo volumétrique et Gaussian splatting, réalité augmentée et mixte industrielle, qualité perçue des contenus immersifs
+LAMA:
+  Nom: Laboratoire de Mathématiques de l'Université Savoie Mont Blanc
+  Ville: Le Bourget-du-Lac
+  Coordonnées: [45.6423, 5.8658]
+  URL: https://www.lama.univ-smb.fr/
+  UMR: 5127
+  Equipes:
+    LIMD:
+      Nom: Logique, Informatique et Mathématiques Discrètes
+      URL: https://www.lama.univ-smb.fr/members/limd
+      Thèmes: Géométrie discrète et analyse géométrique pour l'imagerie, surfaces digitales et opérateurs différentiels discrets, convexité digitale, algèbre géométrique conforme
