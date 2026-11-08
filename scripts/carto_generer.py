@@ -205,7 +205,7 @@ def annuaire(data, ids_fiches, sites_noms={}):
             eq = eqs[sigle]
             v = ville_equipe(lab, eq) or 'Autre'
             bloc = villes.setdefault(v, {}).setdefault(labo, dict(info_lab, equipes=[], ville=lab.get('Ville', '')))
-            fid = f'{labo}_{sigle}'
+            fid = re.sub(r'[^A-Za-z0-9]+', '_', f'{labo}/{sigle}').strip('_')  # même nom que le corpus (carto_stats.fichier_equipe)
             bloc['equipes'].append({'sigle': sigle, 'nom': eq.get('Nom', ''), 'url': eq.get('URL'),
                                     'correspondant': eq.get('Correspondant'), 'correspondant_site': sites_noms.get(eq.get('Correspondant')), 'themes': eq.get('Thèmes', ''),
                                     'ville': eq.get('Ville') or lab.get('Ville', ''), 'inria': 'Inria' in eq,
@@ -449,6 +449,7 @@ header .banner{background:color-mix(in srgb,var(--brand) 12%,transparent);color:
 .tag-plus:hover{color:var(--accent);border-color:var(--accent)}
 .equipe .pied{margin-top:auto;padding-top:6px;border-top:1px solid var(--line);display:flex;flex-wrap:wrap;align-items:center;gap:2px 8px;font-size:12px;color:var(--muted)}
 .pied .actions{margin-left:auto;display:flex;gap:12px;align-items:center}
+.dlg-liens{display:flex;flex-wrap:wrap;gap:8px}.dlg-liens .btn{text-decoration:none}.btn-carte{border-color:var(--accent);color:var(--accent)}
 .pied .site{font-size:12px;color:var(--muted);text-decoration:none}.pied .site:hover{color:var(--accent);text-decoration:underline}
 .btn-fiche{font:inherit;font-size:12px;font-weight:600;border:0;background:none;padding:0;margin:0;color:var(--accent);cursor:pointer}
 .btn-fiche:hover{background:none;text-decoration:underline}
@@ -615,7 +616,8 @@ function fiche(id){const e=EQ.find(x=>x.id===id); const s=e.stats; const ys=Obje
  <h2 style="margin-top:0">${esc(e.sigle)}<span class="dlg-labo">${esc(e.labo)} · ${esc(e.ville)}</span></h2>
  <p style="margin:0 0 4px;font-weight:500">${esc(e.nom)}</p>
  <p class="meta">${esc(e.labo_nom)}${e.inria?' · équipe commune Inria':''}</p>
- <p>${e.url?`<a href="${esc(e.url)}" target="_blank" rel="noopener">Site de l'équipe</a> · `:''}<a href="${esc(lienCarte(e.labo,e.sigle))}" target="_blank" rel="noopener">Voir sur la carte</a>${e.correspondant?` · Correspondant AFIG : ${corr(e.correspondant,e.correspondant_site)}`:''}</p>
+ <p class="dlg-liens">${e.url?`<a class="btn" href="${esc(e.url)}" target="_blank" rel="noopener">Site de l'équipe ↗</a>`:''}<a class="btn btn-carte" href="${esc(lienCarte(e.labo,e.sigle))}" title="L'équipe et les entreprises proches sur la carte de France">Voir sur la carte de France ↗</a></p>
+ ${e.correspondant?`<p>Correspondant AFIG : ${corr(e.correspondant,e.correspondant_site)}</p>`:''}
  <p><b>Synthèse :</b> ${esc(e.synthese||e.pour_etudiants)}</p><p><b>Expertise :</b> ${esc(e.pour_entreprises)}</p>
  <div>${doms(e).map((d,i)=>`<span class="tag" style="${i<(e.domaines.principaux||[]).length?'font-weight:700':''}">${esc(D[d].fr)}</span>`).join('')}</div>
  <h3>Thèmes principaux</h3>${e.themes.map(t=>`<div class="theme"><b>${esc(T[t.id].fr)}</b> — ${esc(t.phrase)}</div>`).join('')}
@@ -706,7 +708,7 @@ const tuile=(e,v,l)=>{const f=EQ.find(x=>x.id===e.fiche),st=f?f.stats:{};
   <div class="equipe-t">${sig}${e.inria?'<span class="badge badge-inria" title="Équipe commune Inria">Inria</span>':''}${f?`<span class="eq-nb" title="${nIG} permanents en IG${nP?`, +${nP} en partie`:''}"><b>${nIG}</b>${nP?`<small>+${nP}</small>`:''} perm.</span>`:''}</div>
   <div class="nom" title="${esc(e.nom)}">${esc(e.nom)}</div>
   ${f&&f.synthese?`<p class="syn">${esc(f.synthese)}</p>`:(e.themes?`<p class="syn" title="${esc(e.themes)}">${esc(e.themes)}</p>`:'')}${raison(e)}
-  <div class="pied">${e.correspondant?`<span>Correspondant : ${corr(e.correspondant,e.correspondant_site)}</span>`:''}${e.ville&&e.ville!==v.ville?`<span class="badge">${esc(e.ville)}</span>`:''}<span class="actions">${e.url&&e.fiche?`<a class="site" href="${esc(e.url)}" target="_blank" rel="noopener">Site ↗</a>`:''}${e.fiche?`<button class="btn-fiche" data-eq="${e.fiche}">Fiche →</button>`:''}</span></div>
+  <div class="pied">${e.correspondant?`<span>Correspondant : ${corr(e.correspondant,e.correspondant_site)}</span>`:''}${e.ville&&e.ville!==v.ville?`<span class="badge">${esc(e.ville)}</span>`:''}<span class="actions">${e.url&&e.fiche?`<a class="site" href="${esc(e.url)}" target="_blank" rel="noopener">Site ↗</a>`:''}<a class="site" href="${esc(lienCarte(l.sigle,e.sigle))}" title="Voir l'équipe et les entreprises proches sur la carte de France">Carte ↗</a>${e.fiche?`<button class="btn-fiche" data-eq="${e.fiche}">Fiche →</button>`:''}</span></div>
  </li>`};
 // recherche par mot-clé : complétion sur les secteurs (entreprises), domaines (étudiants), thèmes (chercheurs),
 // équipes, laboratoires et villes ; une suggestion choisie devient un filtre (plusieurs filtres : toutes les conditions)

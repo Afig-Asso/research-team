@@ -1,0 +1,5162 @@
+{
+"equipe": "LS2N/IPI",
+"publications": [
+{
+"id": "pb19ce5a1fa",
+"titre": "A Framework for Event-Level Representation of Wearable Healthcare Time Series",
+"annee": 2026,
+"type": "conférence",
+"lieu": "CORESA",
+"url": "https://hal.science/hal-05571377v1"
+},
+{
+"id": "p477e6849b2",
+"titre": "Assessing the impact of central and peripheral obstructions on visual behavior: Insights from gaze-contingent eye-tracking studies",
+"annee": 2026,
+"type": "journal",
+"lieu": "Signal Processing: Image Communication",
+"url": "https://hal.science/hal-05714193v1",
+"doi": "10.1016/j.image.2026.117623"
+},
+{
+"id": "p02802ec8d6",
+"titre": "Beyond uniform evaluation: Texture-conditioned complementary decomposition and interaction for super-resolution image quality assessment",
+"annee": 2026,
+"type": "journal",
+"lieu": "Digital Signal Processing",
+"url": "https://doi.org/10.1016/j.dsp.2026.106291",
+"doi": "10.1016/j.dsp.2026.106291"
+},
+{
+"id": "p91fbc38dde",
+"titre": "Comparing Reality and Cinematic Virtual Reality for Visual Walkability Evaluation: An Exploratory Study",
+"annee": 2026,
+"type": "conférence",
+"lieu": "NordiCHI '26: Nordic Conference on Human-Computer Interaction",
+"url": "https://hal.science/hal-05771650v1",
+"doi": "10.1145/3821402.3830107"
+},
+{
+"id": "pb623c57c80",
+"titre": "Cross-Modal Spatial Alignment Method for Full-Reference Textured Mesh Quality Assessment",
+"annee": 2026,
+"type": "journal",
+"lieu": "IEEE Transactions on Multimedia",
+"url": "https://doi.org/10.1109/tmm.2026.3746090",
+"doi": "10.1109/tmm.2026.3746090"
+},
+{
+"id": "p6803138311",
+"titre": "Daytime Visual Walkability: A Systematic Review",
+"annee": 2026,
+"type": "journal",
+"lieu": "Transactions in GIS",
+"url": "https://hal.science/hal-05581919v1",
+"doi": "10.1111/tgis.70249"
+},
+{
+"id": "p3aa4fdd78b",
+"titre": "Degradation-aware contrastive learning with frequency-spatial fusion: a two-stage framework for no-reference image quality assessment",
+"annee": 2026,
+"type": "journal",
+"lieu": "The Visual Computer",
+"url": "https://doi.org/10.1007/s00371-026-04633-5",
+"doi": "10.1007/s00371-026-04633-5"
+},
+{
+"id": "pb99a004e45",
+"titre": "Evaluation of the Quality of Experience and Use Phase Footprint of Immersive systems",
+"annee": 2026,
+"type": "conférence",
+"lieu": "COmpression et Représentation des Signaux Audiovisuels (CORESA)",
+"url": "https://hal.science/hal-05795652v1"
+},
+{
+"id": "pa609fcf988",
+"titre": "FMReward: Aligning and Evaluating Audio-Driven 3D Facial Animation with Human Preferences",
+"annee": 2026,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://doi.org/10.1109/tvcg.2026.3725120",
+"doi": "10.1109/tvcg.2026.3725120"
+},
+{
+"id": "p85856934d6",
+"titre": "From Vision to Perception : A Pipeline for Assessing Walkability in Urban Environments",
+"annee": 2026,
+"type": "conférence",
+"lieu": "COmpression et REprésentation des Signaux Audiovisuels (CORESA 2026)",
+"url": "https://hal.science/hal-05781039v1"
+},
+{
+"id": "pd101477f9c",
+"titre": "HarmonyQA: A Unified Framework for Harmonization Quality Assessment",
+"annee": 2026,
+"type": "journal",
+"lieu": "IEEE Transactions on Circuits and Systems for Video Technology",
+"url": "https://hal.science/hal-05714188v1",
+"doi": "10.1109/tcsvt.2026.3695960"
+},
+{
+"id": "p798f0294ff",
+"titre": "Integrating functional accessibility and pedestrian environmental comfort: A spatially explicit framework for urban walkability evaluation",
+"annee": 2026,
+"type": "journal",
+"lieu": "Environment and Planning B: Urban Analytics and City Science",
+"url": "https://hal.science/hal-05448447v1",
+"doi": "10.1177/23998083251413000"
+},
+{
+"id": "p60da107745",
+"titre": "Light-DPCVR: A dataset on the impact of light on dynamic point cloud quality and user behavior in virtual reality",
+"annee": 2026,
+"type": "journal",
+"lieu": "Signal Processing: Image Communication",
+"url": "https://hal.science/hal-05795211v1",
+"doi": "10.1016/j.image.2026.117572"
+},
+{
+"id": "p5d412dd3a3",
+"titre": "Multi-Dimensional Quality Assessment for AI-Generated Human-Centric Videos: Dataset and Model",
+"annee": 2026,
+"type": "journal",
+"lieu": "IEEE Transactions on Circuits and Systems for Video Technology",
+"url": "https://doi.org/10.1109/tcsvt.2026.3716410",
+"doi": "10.1109/tcsvt.2026.3716410"
+},
+{
+"id": "p972f464482",
+"titre": "Multi-Dimensional Quality Assessment for Single-Image-to-3D Contents: Dataset and Model",
+"annee": 2026,
+"type": "journal",
+"lieu": "IEEE Transactions on Image Processing",
+"url": "https://hal.science/hal-05714199v1",
+"doi": "10.1109/tip.2026.3705200"
+},
+{
+"id": "p29fe41030f",
+"titre": "Multi-branch interactive information fusion model for skeleton-based human action recognition",
+"annee": 2026,
+"type": "journal",
+"lieu": "Neurocomputing",
+"url": "https://doi.org/10.1016/j.neucom.2026.134937",
+"doi": "10.1016/j.neucom.2026.134937"
+},
+{
+"id": "pda812c3970",
+"titre": "Rethinking Objective Image Quality Assessment With Federated Learning",
+"annee": 2026,
+"type": "journal",
+"lieu": "IEEE Transactions on Circuits and Systems for Video Technology",
+"url": "https://doi.org/10.1109/tcsvt.2026.3720284",
+"doi": "10.1109/tcsvt.2026.3720284"
+},
+{
+"id": "pc18316a19e",
+"titre": "Revisiting the Volumetric Data of 4DME: Compression, Extension and Benchmarking for Micro-Expression Analysis",
+"annee": 2026,
+"type": "conférence",
+"lieu": "European Conference on Computer Vision (ECCV)",
+"url": "https://hal.science/hal-05795379v1",
+"doi": "10.1007/978-3-032-37553-7_19"
+},
+{
+"id": "p5695d9aa93",
+"titre": "SkimEAR: Summarization of Environmental Audio Recordings Using Greedy Sequencing",
+"annee": 2026,
+"type": "journal",
+"lieu": "IEEE Transactions on Audio Speech and Language Processing",
+"url": "https://doi.org/10.1109/taslpro.2026.3739171",
+"doi": "10.1109/taslpro.2026.3739171"
+},
+{
+"id": "p2a4b35ae78",
+"titre": "SoundSourceViz: A visual analytics tool for soundscape-oriented urban planning with acoustic sensor networks",
+"annee": 2026,
+"type": "journal",
+"lieu": "Computers & Graphics",
+"url": "https://doi.org/10.1016/j.cag.2026.104738",
+"doi": "10.1016/j.cag.2026.104738"
+},
+{
+"id": "p1103ecc698",
+"titre": "Speech Content Privacy in Environmental Sound Recordings Using Segment-wise Waveform Reversal",
+"annee": 2026,
+"type": "conférence",
+"lieu": "EUSIPCO 2026",
+"url": "https://hal.science/hal-05658305v1"
+},
+{
+"id": "p71f2e4e0f6",
+"titre": "Temporal Consistency and Variation-Guided Spatio-Temporal Aggregation for Few-Shot Action Recognition",
+"annee": 2026,
+"type": "journal",
+"lieu": "IEEE Transactions on Circuits and Systems for Video Technology",
+"url": "https://hal.science/hal-05579383v1",
+"doi": "10.1109/tcsvt.2025.3621451"
+},
+{
+"id": "pa487ab52d9",
+"titre": "Toward Semantically Guided ROI Video Coding and Its Impact on Video Quality",
+"annee": 2026,
+"type": "conférence",
+"lieu": "ACM Multimedia Asia",
+"url": "https://hal.science/hal-05788590v1"
+},
+{
+"id": "ped85bcd832",
+"titre": "What Features of the Street Influence Visual Walkability? An Innovative Approach Using Cinematic Virtual Reality",
+"annee": 2026,
+"type": "conférence",
+"lieu": "XXV ISPRS Congress 2026 “From Imagery to Understanding”",
+"url": "https://hal.science/hal-05694741v1",
+"doi": "10.5194/isprs-annals-xi-4-2026-241-2026"
+},
+{
+"id": "p7db0e374e9",
+"titre": "A conceptual framework for immersive behavioral data exploration assisted by a deep learned representation of data",
+"annee": 2025,
+"type": "conférence",
+"lieu": "7th IEEE International Conference on Artificial Intelligence & eXtended and Virtual Reality (IEEE AIxVR 2025)",
+"url": "https://hal.science/hal-04820297v1",
+"doi": "10.1109/aixvr63409.2025.00030"
+},
+{
+"id": "p25ae7e52ef",
+"titre": "A teleclinic for Neuro-psychological Assessment in the Metaverse",
+"annee": 2025,
+"type": "conférence",
+"lieu": "IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR)",
+"url": "https://hal.science/hal-04907281v1"
+},
+{
+"id": "p38b957ef16",
+"titre": "Adaptive Illumination Transfer Network for Shadow Removal",
+"annee": 2025,
+"type": "conférence",
+"lieu": "2025 IEEE International Conference on Multimedia and Expo (ICME)",
+"url": "https://hal.science/hal-05579499v1",
+"doi": "10.1109/icme59968.2025.11209433"
+},
+{
+"id": "p0937e4289b",
+"titre": "Adding Touch to Immersive Media: An Overview of the MPEG Haptics Coding Standard",
+"annee": 2025,
+"type": "journal",
+"lieu": "IEEE Transactions on Haptics (ToH)",
+"url": "https://hal.science/hal-05128660v1",
+"doi": "10.1109/toh.2025.3539026"
+},
+{
+"id": "p9b31551e5f",
+"titre": "An HMM-Based Behavior Analysis Approach for QoE in VR : A Case Study of QoL Assessment via Orientation and Mobility Test",
+"annee": 2025,
+"type": "conférence",
+"lieu": "Visual Communications and Image Processing (VCIP 2025)",
+"url": "https://hal.science/hal-05458431v1"
+},
+{
+"id": "pa8a340e770",
+"titre": "Behavior Metric for Evaluating the Impact of Visual Distortions on User Viewport in a VR Navigation Experience",
+"annee": 2025,
+"type": "conférence",
+"lieu": "European Workshop on Visual Information Processing (EUVIP 2025)",
+"url": "https://hal.science/hal-05232657v1"
+},
+{
+"id": "p4056d9df18",
+"titre": "Beyond the frame: evaluating panoramic vs. perspective images for assessing place perception",
+"annee": 2025,
+"type": "journal",
+"lieu": "International Journal of Geographical Information Science",
+"url": "https://hal.science/hal-05101586v1",
+"doi": "10.1080/13658816.2025.2483857"
+},
+{
+"id": "p31b9ba9213",
+"titre": "Comparison of GNSS LOS/NLOS Labeling Techniques Based on a 3D model and Sky View Imagery for Soft Mobility and Vehicle Data in Urban Areas",
+"annee": 2025,
+"type": "conférence",
+"lieu": "2025 IEEE/ION Position, Location and Navigation Symposium (PLANS)",
+"url": "https://hal.science/hal-05116799v1",
+"doi": "10.1109/plans61210.2025.11028354"
+},
+{
+"id": "pd14aaa8fe3",
+"titre": "Data Augmentation for QoL-Centered Functional Vision Research: Synthetic Human Behavior Generation in Virtual Reality",
+"annee": 2025,
+"type": "conférence",
+"lieu": "Conference on Quality of Multimedia Experience (QoMEX’25)",
+"url": "https://hal.science/hal-05232643v1"
+},
+{
+"id": "pbb418d2443",
+"titre": "Deep Underwater Image Quality Assessment via Progressive Physics-aware Multi-Prior Collaboration",
+"annee": 2025,
+"type": "journal",
+"lieu": "IEEE Transactions on Circuits and Systems for Video Technology",
+"url": "https://hal.science/hal-05579343v1",
+"doi": "10.1109/tcsvt.2025.3639385"
+},
+{
+"id": "pb2fbe1bc61",
+"titre": "Detail-Preserving Diffusion Models for Low-Light Image Enhancement",
+"annee": 2025,
+"type": "journal",
+"lieu": "IEEE Transactions on Circuits and Systems for Video Technology",
+"url": "https://hal.science/hal-05114128v1",
+"doi": "10.1109/tcsvt.2024.3502801"
+},
+{
+"id": "p8e95ab319b",
+"titre": "Diffusion-based spectral super-resolution of third octave acoustic sensor data: is privacy at risk ?",
+"annee": 2025,
+"type": "conférence",
+"lieu": "33rd European Signal Processing Conference (EUSIPCO 2025)",
+"url": "https://hal.science/hal-05096000v2"
+},
+{
+"id": "p21ae958cfc",
+"titre": "ERD: Encoder-Residual-Decoder Neural Network for Underwater Image Enhancement",
+"annee": 2025,
+"type": "journal",
+"lieu": "IEEE Transactions on Circuits and Systems for Video Technology",
+"url": "https://hal.science/hal-05313954v1",
+"doi": "10.1109/tcsvt.2025.3556203"
+},
+{
+"id": "p87dc2847f4",
+"titre": "ESIQA: Perceptual Quality Assessment of Vision-Pro-based Egocentric Spatial Images",
+"annee": 2025,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://hal.science/hal-05313911v1",
+"doi": "10.1109/tvcg.2025.3549174"
+},
+{
+"id": "p4432690c5b",
+"titre": "Emerging challenges in subjective quality assessment of volumetric videos in eXtended Reality",
+"annee": 2025,
+"type": "conférence",
+"lieu": "2025 17th International Conference on Quality of Multimedia Experience (QoMEX)",
+"url": "https://hal.science/hal-05290996v1",
+"doi": "10.1109/qomex65720.2025.11219888"
+},
+{
+"id": "p49dcf9a731",
+"titre": "Enhancing CNN-Based Blind Image Quality Assessment via Deep Cross-Layer Pattern Encoding",
+"annee": 2025,
+"type": "journal",
+"lieu": "IEEE Transactions on Multimedia",
+"url": "https://hal.science/hal-05313878v1",
+"doi": "10.1109/tmm.2025.3618566"
+},
+{
+"id": "p579d9ad9b9",
+"titre": "Evaluating Perceptual Color Preferences in Smartphone Photography: Dataset and Challenges",
+"annee": 2025,
+"type": "conférence",
+"lieu": "MM '25: The 33rd ACM International Conference on Multimedia",
+"url": "https://hal.science/hal-05579358v1",
+"doi": "10.1145/3746027.3758227"
+},
+{
+"id": "p8c1e944ea6",
+"titre": "Exploring The Potential of Vision-Language Models for Pure-Image and Text-Guided-Image Saliency Prediction",
+"annee": 2025,
+"type": "conférence",
+"lieu": "2025 IEEE International Conference on Image Processing (ICIP)",
+"url": "https://hal.science/hal-05579402v1",
+"doi": "10.1109/icip55913.2025.11084645"
+},
+{
+"id": "p2dfe7cf305",
+"titre": "Extracting and clustering human visual strategies from video gaze data with hidden markov models for video-QA performance understanding",
+"annee": 2025,
+"type": "conférence",
+"lieu": "EUVIP 2025 - 13th European Workshop on Visual Information Processing",
+"url": "https://hal.science/hal-05471947v1",
+"doi": "10.1109/euvip66349.2025.11238573"
+},
+{
+"id": "p37d0e62b3e",
+"titre": "Fidelity of Immersive Representations of Luminous Atmospheres in VR HMDs: Comparing Real Daylit Iconic Interiors and their 360° images",
+"annee": 2025,
+"type": "journal",
+"lieu": "LEUKOS",
+"url": "https://hal.science/hal-05268429v1",
+"doi": "10.1080/15502724.2025.2549001"
+},
+{
+"id": "p34c7b101d7",
+"titre": "HarmonyIQA: Pioneering Benchmark and Model for Image Harmonization Quality Assessment",
+"annee": 2025,
+"type": "conférence",
+"lieu": "2025 IEEE International Conference on Multimedia and Expo (ICME)",
+"url": "https://hal.science/hal-05579442v1",
+"doi": "10.1109/icme59968.2025.11209987"
+},
+{
+"id": "p3308301331",
+"titre": "InpaintFormer: Prompt-guided High-Quality Face Inpainting with Mask-Aware Self-Attention",
+"annee": 2025,
+"type": "conférence",
+"lieu": "2025 IEEE International Conference on Multimedia and Expo (ICME)",
+"url": "https://hal.science/hal-05579417v1",
+"doi": "10.1109/icme59968.2025.11209192"
+},
+{
+"id": "p5b52a41179",
+"titre": "Interactions between vibroacoustic discomfort and visual stimuli: Comparison of real, 3D and 360 environments",
+"annee": 2025,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://hal.science/hal-04967453v1"
+},
+{
+"id": "p2a45ff0799",
+"titre": "Is there a relationship between Mean Opinion Score (MOS) and Just Noticeable Difference (JND)?",
+"annee": 2025,
+"type": "conférence",
+"lieu": "2025 International Conference on Visual Communications and Image Processing (VCIP)",
+"url": "https://hal.science/hal-05579351v1",
+"doi": "10.1109/vcip67698.2025.11396801"
+},
+{
+"id": "p7bac7f741d",
+"titre": "Luminous Atmospheres 360: Comparing VR HMDs and UHD Screens for Reproducing Architectural Daylight Atmospheres",
+"annee": 2025,
+"type": "conférence",
+"lieu": "2025 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW 2025)",
+"url": "https://hal.science/hal-05269259v1",
+"doi": "10.1109/vrw66409.2025.00356"
+},
+{
+"id": "p0a4ae80318",
+"titre": "Omni 2 : Unifying Omnidirectional Image Generation and Editing in an Omni Model",
+"annee": 2025,
+"type": "conférence",
+"lieu": "MM '25: The 33rd ACM International Conference on Multimedia",
+"url": "https://hal.science/hal-05579370v1",
+"doi": "10.1145/3746027.3755405"
+},
+{
+"id": "p739f89ea80",
+"titre": "Quality Assessment and Distortion-aware Saliency Prediction for AI-Generated Omnidirectional Images",
+"annee": 2025,
+"type": "journal",
+"lieu": "IEEE Transactions on Circuits and Systems for Video Technology",
+"url": "https://hal.science/hal-05313979v1",
+"doi": "10.1109/tcsvt.2025.3616234"
+},
+{
+"id": "pbc6d6c3f48",
+"titre": "Refining Functional Vision Assessment: Challenges in Adapting Orientation and Mobility Tests to Virtual Reality",
+"annee": 2025,
+"type": "conférence",
+"lieu": "IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR)",
+"url": "https://hal.science/hal-05019809v1"
+},
+{
+"id": "pe388487b64",
+"titre": "Rethinking 3D Robotic Perception: Elastic Voxel Representation with Splatting Distillation",
+"annee": 2025,
+"type": "journal",
+"lieu": "IEEE Journal of Oceanic Engineering",
+"url": "https://hal.science/hal-05579474v1",
+"doi": "10.1109/icme59968.2025.11209070"
+},
+{
+"id": "p15c0ec3bfc",
+"titre": "SemanticLoom: Category-aware Dynamic Fusion for Multi-class Few-shot Image Synthesis",
+"annee": 2025,
+"type": "conférence",
+"lieu": "2025 IEEE International Conference on Multimedia and Expo (ICME)",
+"url": "https://hal.science/hal-05579484v1",
+"doi": "10.1109/icme59968.2025.11209048"
+},
+{
+"id": "p62c7df6b1e",
+"titre": "Spatial–Temporal–Geometric Graph Convolutional Network for 3-D Human Pose Estimation From Multiview Video",
+"annee": 2025,
+"type": "journal",
+"lieu": "IEEE Transactions on Instrumentation and Measurement",
+"url": "https://hal.science/hal-05313939v1",
+"doi": "10.1109/tim.2025.3551025"
+},
+{
+"id": "p13ae3b3f00",
+"titre": "Subjective Quality Assessment for Point Clouds of Digital Humans with Shaded Rendering",
+"annee": 2025,
+"type": "conférence",
+"lieu": "2025 IEEE International Conference on Multimedia & Expo (ICME)",
+"url": "https://hal.science/hal-05290987v1",
+"doi": "10.1109/icme59968.2025.11209489"
+},
+{
+"id": "p6c5816fb8f",
+"titre": "Subjective and Objective Audio-Visual Quality Assessment for Omnidirectional Videos",
+"annee": 2025,
+"type": "journal",
+"lieu": "IEEE Transactions on Image Processing",
+"url": "https://hal.science/hal-05313892v1",
+"doi": "10.1109/tip.2025.3613957"
+},
+{
+"id": "p2ea4ce19dd",
+"titre": "Text to Trajectory: Enhancing and Evaluating LLMs for Embodied Task Planning",
+"annee": 2025,
+"type": "conférence",
+"lieu": "2025 IEEE International Conference on Multimedia and Expo (ICME)",
+"url": "https://hal.science/hal-05579492v1",
+"doi": "10.1109/icme59968.2025.11208991"
+},
+{
+"id": "pe30686136c",
+"titre": "Towards Accessible Visual Field Self-Assessment: An Eye-Tracker-Assisted Virtual Reality Perimetry",
+"annee": 2025,
+"type": "conférence",
+"lieu": "2025 IEEE International Conference on Multimedia and Expo (ICME 2025)",
+"url": "https://hal.science/hal-05232667v1"
+},
+{
+"id": "pa67dfe7b5b",
+"titre": "Towards teleconsultations in the metaverse: design and preliminary study of an immersive teleclinic for neuro-psychological assessment",
+"annee": 2025,
+"type": "journal",
+"lieu": "Frontiers in Virtual Reality",
+"url": "https://hal.science/hal-05253435v1",
+"doi": "10.3389/frvir.2025.1545569"
+},
+{
+"id": "pf14427f8b3",
+"titre": "Uncovering Cross-Cultural Emotional Patterns: t-SNE and PCA on Micro-Expressions",
+"annee": 2025,
+"type": "conférence",
+"lieu": "2025 IEEE International Conference on Multimedia and Expo Workshops (ICMEW)",
+"url": "https://hal.science/hal-05579424v1",
+"doi": "10.1109/icmew68306.2025.11152145"
+},
+{
+"id": "pec30e31e2e",
+"titre": "Utility-Centered Underwater Image Quality Evaluation",
+"annee": 2025,
+"type": "journal",
+"lieu": "IEEE Journal of Oceanic Engineering",
+"url": "https://hal.science/hal-05313927v1",
+"doi": "10.1109/joe.2024.3498273"
+},
+{
+"id": "pc31d70ba51",
+"titre": "VQM4HAS : A Real-Time Quality Metric for HEVC Videos in HTTP Adaptive Streaming",
+"annee": 2025,
+"type": "journal",
+"lieu": "IEEE Transactions on Multimedia",
+"url": "https://hal.science/hal-05520399v1",
+"doi": "10.1109/tmm.2025.3613110"
+},
+{
+"id": "pa771638e28",
+"titre": "A Comparative Study Between a Large Screen and an HMD Using Wind Representations in Virtual Reality",
+"annee": 2024,
+"type": "journal",
+"lieu": "IEEE Computer Graphics and Applications",
+"url": "https://doi.org/10.1109/mcg.2024.3426943",
+"doi": "10.1109/mcg.2024.3426943"
+},
+{
+"id": "p8cec043e35",
+"titre": "A Dataset for Understanding Open UGC Video Datasets",
+"annee": 2024,
+"type": "conférence",
+"lieu": "2024 IEEE International Conference on Image Processing (ICIP)",
+"url": "https://hal.science/hal-05114164v1",
+"doi": "10.1109/icip51287.2024.10647939"
+},
+{
+"id": "p68223ca400",
+"titre": "A toolkit to benchmark point cloud quality metrics with multi-track evaluation criteria",
+"annee": 2024,
+"type": "conférence",
+"lieu": "2024 IEEE International Conference on Image Processing (ICIP 2024)",
+"url": "https://hal.science/hal-04615285v2"
+},
+{
+"id": "pf739a990e7",
+"titre": "AIGCOIQA2024: Perceptual Quality Assessment of AI Generated Omnidirectional Images",
+"annee": 2024,
+"type": "conférence",
+"lieu": "2024 IEEE International Conference on Image Processing (ICIP)",
+"url": "https://hal.science/hal-05114183v1",
+"doi": "10.1109/icip51287.2024.10647885"
+},
+{
+"id": "pafbd514a30",
+"titre": "Asynchronous Particle Filter with Pedestrian Graph Integration for Visually Impaired Navigation",
+"annee": 2024,
+"type": "conférence",
+"lieu": "2024 14th International Conference on Indoor Positioning and Indoor Navigation (IPIN)",
+"url": "https://hal.science/hal-04936797v1",
+"doi": "10.1109/ipin62893.2024.10786110"
+},
+{
+"id": "pe18913fe55",
+"titre": "BASICS: Broad Quality Assessment of Static Point Clouds in a Compression Scenario",
+"annee": 2024,
+"type": "journal",
+"lieu": "IEEE Transactions on Multimedia",
+"url": "https://hal.science/hal-04280304v2",
+"doi": "10.1109/tmm.2024.3355642"
+},
+{
+"id": "p0791046180",
+"titre": "Comparison of Subjective Methodologies For Local Perception of Distortion in Videos and Impact on Objective Metrics Resolving Power",
+"annee": 2024,
+"type": "journal",
+"lieu": "Electronic Imaging",
+"url": "https://doi.org/10.2352/ei.2024.36.11.hvei-217",
+"doi": "10.2352/ei.2024.36.11.hvei-217"
+},
+{
+"id": "pff41cc6059",
+"titre": "Comparison of conditions for omnidirectional video with spatial audio in terms of subjective quality and impacts on objective metrics resolving power",
+"annee": 2024,
+"type": "conférence",
+"lieu": "ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
+"url": "https://hal.science/hal-04243995v3",
+"doi": "10.1109/icassp48485.2024.10448123"
+},
+{
+"id": "p72ee85a698",
+"titre": "Comparison of crowdsourcing and laboratory settings for subjective assessment of video quality and acceptability & annoyance",
+"annee": 2024,
+"type": "conférence",
+"lieu": "2024 IEEE International Conference on Image Processing (ICIP 2024)",
+"url": "https://hal.science/hal-04615320v1"
+},
+{
+"id": "p591f85edf3",
+"titre": "Deep Blind Image Quality Assessment Using Dynamic Neural Model With Dual-Order Statistics",
+"annee": 2024,
+"type": "journal",
+"lieu": "IEEE Transactions on Circuits and Systems for Video Technology",
+"url": "https://hal.science/hal-04635664v1",
+"doi": "10.1109/tcsvt.2024.3359667"
+},
+{
+"id": "pc44d524119",
+"titre": "Estimating Metric Thresholds for Acceptability and Annoyance of User Generated Video Content",
+"annee": 2024,
+"type": "conférence",
+"lieu": "Human Vision and Electronic Imaging 2024",
+"url": "https://hal.science/hal-04472307v1"
+},
+{
+"id": "p9192eadd28",
+"titre": "Geometric Consistency-Guaranteed Spatio-Temporal Transformer for Unsupervised Multiview 3-D Pose Estimation",
+"annee": 2024,
+"type": "journal",
+"lieu": "IEEE Transactions on Instrumentation and Measurement",
+"url": "https://hal.science/hal-04812236v1",
+"doi": "10.1109/tim.2024.3440376"
+},
+{
+"id": "p9bb121f483",
+"titre": "Impact of normal attribute coding on subjective quality assessment of shaded point clouds",
+"annee": 2024,
+"type": "conférence",
+"lieu": "Compression et représentation des signaux audiovisuels (CORESA)",
+"url": "https://hal.science/hal-04807751v1"
+},
+{
+"id": "p28a74a309d",
+"titre": "Impact of point cloud normals compression on objective quality assessment",
+"annee": 2024,
+"type": "conférence",
+"lieu": "2024 32nd European Signal Processing Conference (EUSIPCO)",
+"url": "https://hal.science/hal-04807718v1",
+"doi": "10.23919/eusipco63174.2024.10715168"
+},
+{
+"id": "p247a67c632",
+"titre": "New challenges in point cloud visual quality assessment: a systematic review",
+"annee": 2024,
+"type": "journal",
+"lieu": "Frontiers in Signal Processing",
+"url": "https://hal.science/hal-04815315v1",
+"doi": "10.3389/frsip.2024.1420060"
+},
+{
+"id": "p979c9a21a9",
+"titre": "No-Reference Image Quality Assessment Using Local Binary Patterns: A Comprehensive Performance Evaluation",
+"annee": 2024,
+"type": "conférence",
+"lieu": "MM '24: The 32nd ACM International Conference on Multimedia",
+"url": "https://hal.science/hal-05114144v1",
+"doi": "10.1145/3689093.3689180"
+},
+{
+"id": "pf35ab9a461",
+"titre": "Optimal Quality and Efficiency in Adaptive Live Streaming with JND-Aware Low latency Encoding",
+"annee": 2024,
+"type": "conférence",
+"lieu": "MHV '24: Mile-High Video Conference",
+"url": "https://hal.science/hal-05114285v1",
+"doi": "10.1145/3638036.3640807"
+},
+{
+"id": "p03c8a133a8",
+"titre": "Perceptual Skin Tone Color Difference Measurement for Portrait Photography",
+"annee": 2024,
+"type": "conférence",
+"lieu": "2024 IEEE International Conference on Visual Communications and Image Processing (VCIP)",
+"url": "https://hal.science/hal-05114122v1",
+"doi": "10.1109/vcip63160.2024.10849890"
+},
+{
+"id": "p29d9e2285a",
+"titre": "Pourquoi publier un article de données (data paper) ? Retours d’expériences de chercheurs",
+"annee": 2024,
+"type": "conférence",
+"lieu": "Séminaire So-MSH! - Printemps de la Donnée 2024",
+"url": "https://hal.science/hal-04570819v1"
+},
+{
+"id": "p241ab0206b",
+"titre": "Reinforcement Learning Based Tactile Sensing for Active Point Cloud Acquisition, Recognition and Localization",
+"annee": 2024,
+"type": "journal",
+"lieu": "IEEE Journal of Selected Topics in Signal Processing",
+"url": "https://doi.org/10.1109/jstsp.2024.3431203",
+"doi": "10.1109/jstsp.2024.3431203"
+},
+{
+"id": "p8fa31612b9",
+"titre": "Revitalizing Walkability Scores: A New Assessment Based on Accessibility",
+"annee": 2024,
+"type": "conférence",
+"lieu": "10th International Conference on Geographical Information Systems Theory, Applications and Management",
+"url": "https://hal.science/hal-04572047v1",
+"doi": "10.5220/0012557500003696"
+},
+{
+"id": "p777d11f207",
+"titre": "Sound source classification for soundscape analysis using fast third-octave bands data from an urban acoustic sensor network",
+"annee": 2024,
+"type": "journal",
+"lieu": "Journal of the Acoustical Society of America",
+"url": "https://hal.science/hal-04676606v1",
+"doi": "10.1121/10.0026479"
+},
+{
+"id": "p208ccbb341",
+"titre": "Study on the Relationship Between Quality and Acceptability Annoyance (AccAnn) of UGC Videos",
+"annee": 2024,
+"type": "journal",
+"lieu": "Electronic Imaging",
+"url": "https://doi.org/10.2352/ei.2024.36.11.hvei-216",
+"doi": "10.2352/ei.2024.36.11.hvei-216"
+},
+{
+"id": "p9af80f1d31",
+"titre": "Sustainable Video Streaming using Acceptability and Annoyance Paradigm",
+"annee": 2024,
+"type": "conférence",
+"lieu": "2024 32nd European Signal Processing Conference (EUSIPCO 2024)",
+"url": "https://hal.science/hal-04615336v1"
+},
+{
+"id": "p799c3334e6",
+"titre": "The Salient360! toolbox: Handling gaze data in 3D made easy",
+"annee": 2024,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://hal.science/hal-04584852v1",
+"doi": "10.1016/j.cag.2024.103890"
+},
+{
+"id": "paadd11d2b3",
+"titre": "Three Virtual Reality Environments for the Assessment of Executive Functioning Using Performance Scores and Kinematics: an Embodied and Ecological Approach to Cognition",
+"annee": 2024,
+"type": "journal",
+"lieu": "Cyberpsychology, Behavior, and Social Networking",
+"url": "https://hal.science/hal-04354788v1",
+"doi": "10.1089/cyber.2023.0314"
+},
+{
+"id": "pfc166a7c3c",
+"titre": "Towards better visualizations of urban sound environments: insights from interviews",
+"annee": 2024,
+"type": "conférence",
+"lieu": "INTERNOISE 2024",
+"url": "https://hal.science/hal-04593887v1",
+"doi": "10.3397/in_2024_3502"
+},
+{
+"id": "p316e7d75e2",
+"titre": "Towards immersive teleclinics in the Metaverse: the case of neuropsychological consultation",
+"annee": 2024,
+"type": "conférence",
+"lieu": "Conference A Metaverse for the good",
+"url": "https://hal.science/hal-04520679v1"
+},
+{
+"id": "p1d5c382865",
+"titre": "Vers des mesures subtiles de performance en Réalité Virtuelle: l'exemple d'une tâche de mobilité",
+"annee": 2024,
+"type": "conférence",
+"lieu": "COmpression et REprésentation des Signaux Audiovisuels (CORESA)",
+"url": "https://hal.science/hal-04873725v1"
+},
+{
+"id": "p991c7caa55",
+"titre": "What Will Virtual Reality Bring to the Qualification of Visual Walkability in Cities?",
+"annee": 2024,
+"type": "conférence",
+"lieu": "10th International Conference on Geographical Information Systems Theory, Applications and Management",
+"url": "https://hal.science/hal-04572046v1",
+"doi": "10.5220/0012731200003696"
+},
+{
+"id": "p6cbb4631e3",
+"titre": "“Discriminability–Experimental Cost” Tradeoff in Subjective Video Quality Assessment of Codec: DCR with EVP Rating Scale Versus ACR–HR",
+"annee": 2024,
+"type": "conférence",
+"lieu": "2024 Picture Coding Symposium (PCS)",
+"url": "https://hal.science/hal-05114244v1",
+"doi": "10.1109/pcs60826.2024.10566279"
+},
+{
+"id": "p4ef2aed516",
+"titre": "A Dataset of Gaze and Mouse Patterns in the Context of Facial Expression Recognition",
+"annee": 2023,
+"type": "conférence",
+"lieu": "ACM International Conference on Interactive Media Experiences (IMX)",
+"url": "https://hal.science/hal-04056026v1"
+},
+{
+"id": "p86af899b7b",
+"titre": "A Virtual Mobility Test to Evaluate Functional Vision of Visual Impaired Patients",
+"annee": 2023,
+"type": "conférence",
+"lieu": "IMXw '23: ACM International Conference on Interactive Media Experiences Workshops",
+"url": "https://hal.science/hal-04526290v1"
+},
+{
+"id": "p86e722be0e",
+"titre": "AI-Human Collaboration for in Situ Interactive Exploration of Behaviours From Immersive Environment",
+"annee": 2023,
+"type": "conférence",
+"lieu": "IMX '23: ACM International Conference on Interactive Media Experiences",
+"url": "https://hal.science/hal-04355032v1",
+"doi": "10.1145/3573381.3596506"
+},
+{
+"id": "p37f804ef81",
+"titre": "Behavioral phenotype features of autism",
+"annee": 2023,
+"type": "chapitre",
+"lieu": "Neural Engineering Techniques for Autism Spectrum Disorder, Volume 2",
+"url": "https://hal.science/hal-04633803v1",
+"doi": "10.1016/b978-0-12-824421-0.00018-7"
+},
+{
+"id": "pa54114d54f",
+"titre": "Bridge the Gap between Visual Difference Prediction Model and Just Noticeable Difference Subjective Datasets",
+"annee": 2023,
+"type": "conférence",
+"lieu": "IEEE International Workshop on Multimedia Signal Processing",
+"url": "https://hal.science/hal-04197899v1"
+},
+{
+"id": "pa78d9d355a",
+"titre": "Case study: few-shot pill recognition",
+"annee": 2023,
+"type": "chapitre",
+"lieu": "Meta Learning With Medical Imaging and Health Informatics Applications",
+"url": "https://hal.science/hal-04244016v1",
+"doi": "10.1016/b978-0-32-399851-2.00024-7"
+},
+{
+"id": "p9dbbb2472e",
+"titre": "Construction of immersive and interactive methodology based on physiological indicators to subjectively and objectively assess comfort and performances in work offices",
+"annee": 2023,
+"type": "conférence",
+"lieu": "Immersive media experience (IMX)",
+"url": "https://hal.science/hal-04617871v1",
+"doi": "10.1145/3573381.3597233"
+},
+{
+"id": "p14c0e7799f",
+"titre": "Could the bubbleview metaphor be used to infer visual attention on 3D graphical content ?",
+"annee": 2023,
+"type": "conférence",
+"lieu": "2023 IEEE International Conference on Acoustics, Speech and Signal Processing",
+"url": "https://hal.science/hal-03991889v1",
+"doi": "10.1109/icassp49357.2023.10095500"
+},
+{
+"id": "pd20b2e6b48",
+"titre": "Déploiement de l’IA en situation de travail : une trop faible considération de l’expérience des employé·es ?",
+"annee": 2023,
+"type": "journal",
+"lieu": "Sciences du Design",
+"url": "https://hal.science/hal-04139664v1",
+"doi": "10.3917/sdd.016.0068"
+},
+{
+"id": "pb722a2fd07",
+"titre": "Editorial Advancements in Learning-Based Quality Prediction for Advanced Visual Media",
+"annee": 2023,
+"type": "journal",
+"lieu": "IEEE Journal of Selected Topics in Signal Processing",
+"url": "https://hal.science/hal-05313838v1",
+"doi": "10.1109/jstsp.2023.3337626"
+},
+{
+"id": "p373d285138",
+"titre": "Elevating Your Streaming Experience with Just Noticeable Difference (JND)-based Encoding",
+"annee": 2023,
+"type": "conférence",
+"lieu": "ACM MILE-HIGH VIDEO 2023",
+"url": "https://hal.science/hal-04086578v1",
+"doi": "10.1145/3588444.3591025"
+},
+{
+"id": "pca649738df",
+"titre": "Enhancing Satisfied User Ratio (SUR) Prediction for VMAF Proxy through Video Quality Metrics",
+"annee": 2023,
+"type": "conférence",
+"lieu": "IEEE International Conference on Visual Communications and Image Processing (VCIP 2023)",
+"url": "https://hal.science/hal-04257041v3"
+},
+{
+"id": "p62ac67f408",
+"titre": "Estimating Uncertainty On Video Quality Metrics",
+"annee": 2023,
+"type": "conférence",
+"lieu": "ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
+"url": "https://hal.science/hal-04633837v1",
+"doi": "10.1109/icassp49357.2023.10095545"
+},
+{
+"id": "pd6ef3d2a10",
+"titre": "Evaluation of Urban Perception Using Only Image Segmentation Features",
+"annee": 2023,
+"type": "conférence",
+"lieu": "9th International Conference on Geographical Information Systems Theory, Applications and Management 2023",
+"url": "https://hal.science/hal-04093906v1",
+"doi": "10.5220/0011969700003473"
+},
+{
+"id": "pf09355cb98",
+"titre": "Evaluation of the Human Body Mask Effects on GNSS Wearable Devices for Outdoor Pedestrian Navigation Using Fisheye Sky Views",
+"annee": 2023,
+"type": "conférence",
+"lieu": "IEEE/ION Position Location and Navigation Symposium 2023",
+"url": "https://hal.science/hal-04110732v1"
+},
+{
+"id": "p0777a8e924",
+"titre": "Experimenting in virtual reality with an autistic public having language and intellectual development disorders : Lessons learned and recommendations [Workshop, conference proceedings]",
+"annee": 2023,
+"type": "conférence",
+"lieu": "International Conference on Interactive Media Experiences (Care IMX 2023): Future immersive healthcare experience in medical and home setting",
+"url": "https://hal.science/hal-04472179v1"
+},
+{
+"id": "p5062f689ad",
+"titre": "Experimenting in virtual reality with an autistic public having language and intellectual development disorders: lessons learned and recommendations",
+"annee": 2023,
+"type": "chapitre",
+"lieu": "IMXw '23: Proceedings of the 2023 ACM International Conference on Interactive Media Experiences Workshops",
+"url": "https://nantes-universite.hal.science/hal-04268295v1",
+"doi": "10.1145/3604321.3604380"
+},
+{
+"id": "pf451b529f1",
+"titre": "Exprimer par les langages : modélisations et récits [Table ronde]",
+"annee": 2023,
+"type": "conférence",
+"lieu": "Rencontres AAU, journée 6 : Exprimer les mondes perçus",
+"url": "https://hal.science/hal-05803817v1"
+},
+{
+"id": "p3af9ddb67b",
+"titre": "From Temporal-evolving to Spatial-fixing: A Keypoints-based Learning Paradigm for Visual Robotic Manipulation",
+"annee": 2023,
+"type": "conférence",
+"lieu": "2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023)",
+"url": "https://hal.science/hal-04265635v1"
+},
+{
+"id": "p424052749a",
+"titre": "High-level cinematic knowledge to predict inter-observer visual congruency",
+"annee": 2023,
+"type": "conférence",
+"lieu": "WICED x Cinemotions 2023 - Workshop on Intelligent Cinematography and Editing, and Emotions in Movies",
+"url": "https://hal.science/hal-04139622v1",
+"doi": "10.1145/3604321.3604331"
+},
+{
+"id": "p69cc926188",
+"titre": "Immersions et mises en situations [Table ronde ]",
+"annee": 2023,
+"type": "conférence",
+"lieu": "Rencontre AAU 6 : Exprimer les mondes perçus",
+"url": "https://hal.science/hal-05804822v1"
+},
+{
+"id": "p26a0acea3a",
+"titre": "Just noticeable difference-aware per-scene bitrate-laddering for adaptive video streaming",
+"annee": 2023,
+"type": "conférence",
+"lieu": "IEEE International Conference on Multimedia and Expo",
+"url": "https://hal.science/hal-04086558v1"
+},
+{
+"id": "p3c4bbd6206",
+"titre": "Kinetic particles : from human pose estimation to an immersive and interactive piece of art questionning thought-movement relationships.",
+"annee": 2023,
+"type": "conférence",
+"lieu": "IMX '23: ACM International Conference on Interactive Media Experiences",
+"url": "https://hal.science/hal-04265659v1",
+"doi": "10.1145/3573381.3597228"
+},
+{
+"id": "p29ae4d362a",
+"titre": "LLM-based Interaction for Content Generation: A Case Study on the Perception of Employees in an IT department",
+"annee": 2023,
+"type": "conférence",
+"lieu": "ACM IMX 2023 - Interactive Media Experience",
+"url": "https://hal.science/hal-04616965v1",
+"doi": "10.48550/arxiv.2304.09064"
+},
+{
+"id": "p0f17b4d936",
+"titre": "Perceptual annotation of local distortions in videos: tools and datasets",
+"annee": 2023,
+"type": "conférence",
+"lieu": "14th Conference on ACM Multimedia Systems (MMSys '23)",
+"url": "https://hal.science/hal-04131998v1",
+"doi": "10.1145/3587819.3592559"
+},
+{
+"id": "p35027f947e",
+"titre": "Physically-based Lighting of 3D Point Clouds for Quality Assessment",
+"annee": 2023,
+"type": "conférence",
+"lieu": "IMX '23: ACM International Conference on Interactive Media Experiences",
+"url": "https://hal.science/hal-04247652v1",
+"doi": "10.1145/3573381.3597231"
+},
+{
+"id": "p02e05dbb2d",
+"titre": "Quality evaluation of light fields",
+"annee": 2023,
+"type": "chapitre",
+"lieu": "Elsevier eBooks",
+"url": "https://doi.org/10.1016/b978-0-32-391755-1.00016-x",
+"doi": "10.1016/b978-0-32-391755-1.00016-x"
+},
+{
+"id": "pe451c61f21",
+"titre": "RV-TMO: Large-Scale Dataset for Subjective Quality Assessment of Tone Mapped Images",
+"annee": 2023,
+"type": "journal",
+"lieu": "IEEE Transactions on Multimedia",
+"url": "https://hal.science/hal-03760617v1",
+"doi": "10.1109/tmm.2022.3203211"
+},
+{
+"id": "p08621bd193",
+"titre": "Real-time Multi-map Saliency-driven Gaze Behavior for Non-conversational Characters",
+"annee": 2023,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://hal.science/hal-03796523v3",
+"doi": "10.1109/tvcg.2023.3244679"
+},
+{
+"id": "p09eb964484",
+"titre": "Recovering quality scores in noisy pairwise subjective experiments using Negative log-likelihood",
+"annee": 2023,
+"type": "conférence",
+"lieu": "2023 IEEE International Conference on Image Processing (ICIP)",
+"url": "https://hal.science/hal-04132007v1",
+"doi": "10.1109/icip49359.2023.10222071"
+},
+{
+"id": "p49786bb611",
+"titre": "Rethinking Scene Graphs for Action Recognition",
+"annee": 2023,
+"type": "conférence",
+"lieu": "2023 IEEE International Conference on Visual Communications and Image Processing",
+"url": "https://hal.science/hal-04420416v1"
+},
+{
+"id": "pd4962e3aa1",
+"titre": "Spectral trancoder : using pretrained urban sound classifiers on undersampled spectral representations",
+"annee": 2023,
+"type": "conférence",
+"lieu": "8th Workshop on Detection and Classification of Acoustic Scenes and Events (DCASE)",
+"url": "https://hal.science/hal-04178197v2"
+},
+{
+"id": "p7546f4a3f8",
+"titre": "Subjective Test Environments: A Multifaceted Examination of Their Impact on Test Results",
+"annee": 2023,
+"type": "conférence",
+"lieu": "ACM International Conference on Interactive Media Experiences (IMX) (ACM IMX )",
+"url": "https://hal.science/hal-04116627v2",
+"doi": "10.1145/3573381.3596470"
+},
+{
+"id": "p04c6df9d8b",
+"titre": "Subjective and objective quality assessment for volumetric video",
+"annee": 2023,
+"type": "chapitre",
+"lieu": "Immersive Video Technologies",
+"url": "https://hal.science/hal-04631335v1",
+"doi": "10.1016/b978-0-32-391755-1.00024-9"
+},
+{
+"id": "pc19cbde7b9",
+"titre": "Textured Mesh Quality Assessment: Large-scale Dataset and Deep Learning-based Quality Metric",
+"annee": 2023,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-04120575v1",
+"doi": "10.1145/3592786"
+},
+{
+"id": "p801c75d4a5",
+"titre": "The Salient360! Toolbox: Processing, Visualising and Comparing Gaze Data in 3D",
+"annee": 2023,
+"type": "conférence",
+"lieu": "ETRA '23: 2023 Symposium on Eye Tracking Research and Applications",
+"url": "https://hal.science/hal-04139630v1",
+"doi": "10.1145/3588015.3588406"
+},
+{
+"id": "p9ab4130751",
+"titre": "Towards guidelines for subjective Haptic quality assessment: a case study on quality assessment of compressed haptic signals",
+"annee": 2023,
+"type": "conférence",
+"lieu": "2023 IEEE International Conference on Multimedia and Expo (ICME)",
+"url": "https://hal.science/hal-04132004v1",
+"doi": "10.1109/icme55011.2023.00287"
+},
+{
+"id": "p70a26734ce",
+"titre": "Understanding and Using Spatial Landmarks of Visually Impaired People for Navigation Applications",
+"annee": 2023,
+"type": "conférence",
+"lieu": "13th International Conference on Indoor Positioning and Indoor Navigation (IPIN)",
+"url": "https://hal.science/hal-04372668v1",
+"doi": "10.1109/ipin57070.2023.10332513"
+},
+{
+"id": "pabc7561f50",
+"titre": "Use of immersive and interactive systems to objectively and subjectively characterize user experience in work places",
+"annee": 2023,
+"type": "conférence",
+"lieu": "Immersive Media eXperience (IMX)",
+"url": "https://hal.science/hal-04617880v1",
+"doi": "10.1145/3573381.3597227"
+},
+{
+"id": "p1cd3d0cc8f",
+"titre": "VSGAN: Visual Saliency guided Generative Adversarial Network for data augmentation",
+"annee": 2023,
+"type": "conférence",
+"lieu": "ACM IMX workshop VAMEXP (Visual attention in Multimedia Experience )",
+"url": "https://hal.science/hal-04139629v1",
+"doi": "10.1145/3604321.3604382"
+},
+{
+"id": "peb9bfa45b0",
+"titre": "Video Consumption in Context: Influence of Data Plan Consumption on QoE",
+"annee": 2023,
+"type": "conférence",
+"lieu": "IMX '23: ACM International Conference on Interactive Media Experiences",
+"url": "https://hal.science/hal-04264748v1",
+"doi": "10.1145/3573381.3596474"
+},
+{
+"id": "p2145aa2a27",
+"titre": "ZREC : Robust Recovery of Mean and Percentile Opinion Scores",
+"annee": 2023,
+"type": "conférence",
+"lieu": "IEEE International Conference on Image Processing 2023 (ICIP 2023)",
+"url": "https://hal.science/hal-04017583v1",
+"doi": "10.1109/icip49359.2023.10222033"
+},
+{
+"id": "pd01f6f1dcb",
+"titre": "A Framework to Map VMAF with the Probability of Just Noticeable Difference between Video Encoding Recipes",
+"annee": 2022,
+"type": "conférence",
+"lieu": "IEEE 14th Image, Video, and Multidimensional Signal Processing Workshop",
+"url": "https://hal.science/hal-03788610v1"
+},
+{
+"id": "pacc05d68e0",
+"titre": "AI GADGETS IN PROFESSIONAL SETTINGS: UNREALISTIC EXPECTATIONS AND MISALIGNED UX METHODS ?",
+"annee": 2022,
+"type": "conférence",
+"lieu": "33ème Conférence Internationale Francophone sur l'Interaction Humain-Machine (IHM 2022)",
+"url": "https://hal.science/hal-03789529v1"
+},
+{
+"id": "p59f58a9ada",
+"titre": "Are Facial Expression Recognition Algorithms Reliable in the Context of Interactive Media? A New Metric to Analyse Their Performance",
+"annee": 2022,
+"type": "conférence",
+"lieu": "EmotionIMX: Considering Emotions in Multimedia Experience (ACM IMX 2022 Workshop)",
+"url": "https://hal.science/hal-03789571v1"
+},
+{
+"id": "pdf75e8c9d4",
+"titre": "Citizen Commitment in City-Organized Air Quality Monitoring",
+"annee": 2022,
+"type": "chapitre",
+"lieu": "Advances in electronic government, digital divide, and regional development book series",
+"url": "https://doi.org/10.4018/978-1-7998-9090-4.ch004",
+"doi": "10.4018/978-1-7998-9090-4.ch004"
+},
+{
+"id": "pa6a3d105cc",
+"titre": "Comparing the Robustness of Humans and Deep Neural Networks on Facial Expression Recognition",
+"annee": 2022,
+"type": "journal",
+"lieu": "Electronics",
+"url": "https://hal.science/hal-03889048v1",
+"doi": "10.3390/electronics11234030"
+},
+{
+"id": "pa738786a52",
+"titre": "Confusing Image Quality Assessment: Toward Better Augmented Reality Experience",
+"annee": 2022,
+"type": "journal",
+"lieu": "IEEE Transactions on Image Processing",
+"url": "https://hal.science/hal-04043094v1",
+"doi": "10.1109/tip.2022.3220404"
+},
+{
+"id": "pffe64fff08",
+"titre": "Considering user agreement in learning to predict the aesthetic quality",
+"annee": 2022,
+"type": "conférence",
+"lieu": "ICASSP 2022 - IEEE International Conference on Acoustics, Speech and Signal Processing",
+"url": "https://hal.science/hal-03632996v1",
+"doi": "10.1109/icassp43922.2022.9746258"
+},
+{
+"id": "p82376a1ed0",
+"titre": "Feasibility of combining transcranial direct current stimulation and active fully embodied virtual reality for visual height intolerance : a double-blind randomized controlled study",
+"annee": 2022,
+"type": "journal",
+"lieu": "Journal of Clinical Medicine",
+"url": "https://hal.science/hal-03635206v1",
+"doi": "10.3390/jcm11020345"
+},
+{
+"id": "p22e003f6df",
+"titre": "From Just Noticeable Differences to Image Quality",
+"annee": 2022,
+"type": "conférence",
+"lieu": "2nd Workshop on Quality of Experience in Visual Multimedia Applications (QoEVMA ’22), October 14 2022, Lisboa, Portugal. ACM,",
+"url": "https://hal.science/hal-03127756v2",
+"doi": "10.1145/3552469.3555712"
+},
+{
+"id": "p428d2b635f",
+"titre": "From Olfaction to Emotions: An Interactive and Immersive Experience",
+"annee": 2022,
+"type": "conférence",
+"lieu": "EmotionIMX: Considering Emotions in Multimedia Experience (ACM IMX 2022 Workshop)",
+"url": "https://hal.science/hal-03789598v1"
+},
+{
+"id": "p7a90c1e908",
+"titre": "Imitation from Observation using RL and Graph-based Representation of Demonstrations",
+"annee": 2022,
+"type": "conférence",
+"lieu": "2022 21st IEEE International Conference on Machine Learning and Applications (ICMLA)",
+"url": "https://cea.hal.science/cea-04522907v1",
+"doi": "10.1109/icmla55696.2022.00202"
+},
+{
+"id": "p1a663123ee",
+"titre": "Improving Maximum Likelihood Difference Scaling method to measure inter content scale",
+"annee": 2022,
+"type": "conférence",
+"lieu": "ICASSP 2022 - IEEE International Conference on Acoustics, Speech and Signal Processing",
+"url": "https://hal.science/hal-03632982v1",
+"doi": "10.1109/icassp43922.2022.9746681"
+},
+{
+"id": "p1ac86b3f75",
+"titre": "Morphological Difference of Closings Operator for No-Reference Quality Evaluation of DIBR-Synthesized Images",
+"annee": 2022,
+"type": "conférence",
+"lieu": "2022 IEEE Zooming Innovation in Consumer Technologies Conference (ZINC 2022)",
+"url": "https://hal.science/hal-04043121v1",
+"doi": "10.1109/zinc55034.2022.9840562"
+},
+{
+"id": "p54d98eef66",
+"titre": "ON THE BENEFIT OF PARAMETER-DRIVEN APPROACHES FOR THE MODELING AND THE PREDICTION OF SATISFIED USER RATIO FOR COMPRESSED VIDEO",
+"annee": 2022,
+"type": "conférence",
+"lieu": "IEEE International Conference on Image Processing",
+"url": "https://hal.science/hal-03788606v1"
+},
+{
+"id": "p152bf18445",
+"titre": "On the accuracy of open video quality metrics for local decision in AV1 video codec",
+"annee": 2022,
+"type": "conférence",
+"lieu": "2022 IEEE International Conference on Image Processing (ICIP)",
+"url": "https://hal.science/hal-03850340v1",
+"doi": "10.1109/icip46576.2022.9897469"
+},
+{
+"id": "p5e76473937",
+"titre": "Perception of video quality at a local spatio-temporal horizon",
+"annee": 2022,
+"type": "conférence",
+"lieu": "MMSys '22: 13th ACM Multimedia Systems Conference",
+"url": "https://hal.science/hal-03850347v1",
+"doi": "10.1145/3524273.3533931"
+},
+{
+"id": "p2375427df1",
+"titre": "Perceptual evaluation on audio-visual dataset of 360 content",
+"annee": 2022,
+"type": "conférence",
+"lieu": "2022 IEEE International Conference on Multimedia and Expo Workshops (ICMEW)",
+"url": "https://hal.science/hal-03850338v1",
+"doi": "10.1109/icmew56448.2022.9859426"
+},
+{
+"id": "p916a768eff",
+"titre": "Quality Assessment of DIBR-Synthesized Views Based on Sparsity of Difference of Closings and Difference of Gaussians",
+"annee": 2022,
+"type": "journal",
+"lieu": "IEEE Transactions on Image Processing",
+"url": "https://hal.science/hal-03652566v1",
+"doi": "10.1109/tip.2021.3139238"
+},
+{
+"id": "p1c449f0e35",
+"titre": "REINFORCEMENT LEARNING BASED POINT-CLOUD ACQUISITION AND RECOGNITION USING EXPLORATION-CLASSIFICATION REWARD COMBINATION",
+"annee": 2022,
+"type": "conférence",
+"lieu": "IEEE International Conference on Multimedia and Expo 2022",
+"url": "https://hal.science/hal-03690362v1"
+},
+{
+"id": "pd820710c0e",
+"titre": "Relationship between trust and acceptability in AI",
+"annee": 2022,
+"type": "conférence",
+"lieu": "33ème Conférence Internationale Francophone sur l'Interaction Humain-Machine (IHM 22)",
+"url": "https://hal.science/hal-03789503v1"
+},
+{
+"id": "p73ca6373b9",
+"titre": "SMGEA: A New Ensemble Adversarial Attack Powered by Long-Term Gradient Memories",
+"annee": 2022,
+"type": "journal",
+"lieu": "IEEE Transactions on Neural Networks and Learning Systems",
+"url": "https://hal.science/hal-03652610v1",
+"doi": "10.1109/tnnls.2020.3039295"
+},
+{
+"id": "p437a34fe6c",
+"titre": "Screen Content Quality Assessment: Overview, Benchmark, and Beyond",
+"annee": 2022,
+"type": "journal",
+"lieu": "ACM Computing Surveys",
+"url": "https://hal.science/hal-03652569v1",
+"doi": "10.1145/3470970"
+},
+{
+"id": "p40bbc6cb7f",
+"titre": "Specialised video quality model for enhanced user generated content (ugc) with special effects",
+"annee": 2022,
+"type": "conférence",
+"lieu": "2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2022)",
+"url": "https://hal.science/hal-03592274v1",
+"doi": "10.1109/icassp43922.2022.9746539"
+},
+{
+"id": "p0108150958",
+"titre": "Subjective And Objective Quality Assessment Of Mobile Gaming Video",
+"annee": 2022,
+"type": "conférence",
+"lieu": "2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2022)",
+"url": "https://hal.science/hal-04043195v1",
+"doi": "10.1109/icassp43922.2022.9746547"
+},
+{
+"id": "p2bfed883a5",
+"titre": "Subjective test methodology optimization and prediction framework for Just Noticeable Difference and Satisfied User Ratio for compressed HD video",
+"annee": 2022,
+"type": "conférence",
+"lieu": "2022 Picture Coding Symposium",
+"url": "https://hal.science/hal-03796533v2"
+},
+{
+"id": "pf9270381d3",
+"titre": "THE WHOLE IS OTHER THAN THE SUM OF ITS PARTS: SENSIBILITY ANALYSIS OF 360° URBAN IMAGE SPLITTING",
+"annee": 2022,
+"type": "journal",
+"lieu": "ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences",
+"url": "https://hal.science/hal-03684189v1",
+"doi": "10.5194/isprs-annals-v-4-2022-33-2022"
+},
+{
+"id": "pefbdc19e26",
+"titre": "Towards a Calibrated 360° Stereoscopic HDR Image Dataset for Architectural Lighting Studies",
+"annee": 2022,
+"type": "conférence",
+"lieu": "MM '22: The 30th ACM International Conference on Multimedia",
+"url": "https://hal.science/hal-03880569v1",
+"doi": "10.1145/3552482.3556554"
+},
+{
+"id": "p6527bc818e",
+"titre": "Towards a Sensitive Urban Wind Representation in Virtual Reality",
+"annee": 2022,
+"type": "journal",
+"lieu": "ISPRS International Journal of Geo-Information",
+"url": "https://hal.science/hal-03633359v1",
+"doi": "10.3390/ijgi11040239"
+},
+{
+"id": "pd845775896",
+"titre": "UIF: An Objective Quality Assessment for Underwater Image Enhancement",
+"annee": 2022,
+"type": "journal",
+"lieu": "IEEE Transactions on Image Processing",
+"url": "https://hal.science/hal-04043109v1",
+"doi": "10.1109/tip.2022.3196815"
+},
+{
+"id": "p642e1dd750",
+"titre": "Virtual data sphere: inverse stereographic projection for immersive multi-perspective geovisualization",
+"annee": 2022,
+"type": "journal",
+"lieu": "ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences",
+"url": "https://hal.science/hal-03735799v1",
+"doi": "10.5194/isprs-annals-v-4-2022-235-2022"
+},
+{
+"id": "pbb2cc12c71",
+"titre": "What are the visuo-motor tendencies of omnidirectional scene free-viewing in virtual reality?",
+"annee": 2022,
+"type": "journal",
+"lieu": "Journal of Vision",
+"url": "https://hal.science/hal-03619700v1",
+"doi": "10.1167/jov.22.4.12"
+},
+{
+"id": "p73692bddc4",
+"titre": "When is the cleaning of subjective data relevant to train UGC Video Quality Metrics?",
+"annee": 2022,
+"type": "conférence",
+"lieu": "29th IEEE International Conference on Image Processing (IEEE ICIP)",
+"url": "https://nantes-universite.hal.science/hal-03780839v2",
+"doi": "10.1109/icip46576.2022.9897997"
+},
+{
+"id": "pfa6f04360a",
+"titre": "Where to look at the movies : Analyzing visual attention to understand movie editing",
+"annee": 2022,
+"type": "journal",
+"lieu": "Behavior Research Methods",
+"url": "https://inria.hal.science/hal-03153606v1",
+"doi": "10.3758/s13428-022-01949-7"
+},
+{
+"id": "p9fef1fa181",
+"titre": "A Comprehensive Analysis of Crowdsourcing for Subjective Evaluation of Tone Mapping Operators",
+"annee": 2021,
+"type": "conférence",
+"lieu": "Image Quality and System Performance, IS&T International Symposium on Electronic Imaging (EI 2021)",
+"url": "https://hal.science/hal-03020972v2",
+"doi": "10.2352/issn.2470-1173.2021.9.iqsp-262"
+},
+{
+"id": "p133e3af002",
+"titre": "A machine-learning framework to predict TMO preference based on image and visual attention features",
+"annee": 2021,
+"type": "conférence",
+"lieu": "23rd international workshop on multimedia signal processing",
+"url": "https://hal.science/hal-03373631v1"
+},
+{
+"id": "p01f3b9ebd7",
+"titre": "Adversarial Attack Against Deep Saliency Models Powered by Non-Redundant Priors",
+"annee": 2021,
+"type": "journal",
+"lieu": "IEEE Transactions on Image Processing",
+"url": "https://hal.science/hal-03652608v1",
+"doi": "10.1109/tip.2021.3050303"
+},
+{
+"id": "p339e59f999",
+"titre": "Ambiguity of objective image quality metrics: A new methodology for performance evaluation",
+"annee": 2021,
+"type": "journal",
+"lieu": "Signal Processing: Image Communication",
+"url": "https://hal.science/hal-03205749v1",
+"doi": "10.1016/j.image.2021.116150"
+},
+{
+"id": "p081dd370aa",
+"titre": "Binocular Rivalry Oriented Predictive Autoencoding Network for Blind Stereoscopic Image Quality Measurement",
+"annee": 2021,
+"type": "journal",
+"lieu": "IEEE Transactions on Instrumentation and Measurement",
+"url": "https://hal.science/hal-03652636v1",
+"doi": "10.1109/tim.2020.3026443"
+},
+{
+"id": "peedfbe01a1",
+"titre": "Citizen as Sensors' Commitment in Urban Public Action",
+"annee": 2021,
+"type": "chapitre",
+"lieu": "IGI Global eBooks",
+"url": "https://doi.org/10.4018/978-1-6684-3706-3.ch034",
+"doi": "10.4018/978-1-6684-3706-3.ch034"
+},
+{
+"id": "pf6b4bd651e",
+"titre": "Cmdm-Vac: Improving A Perceptual Quality Metric For 3D Graphics By Integrating A Visual Attention Complexity Measure",
+"annee": 2021,
+"type": "conférence",
+"lieu": "2021 IEEE International Conference on Image Processing (ICIP)",
+"url": "https://hal.science/hal-03356806v1",
+"doi": "10.1109/icip42928.2021.9506662"
+},
+{
+"id": "pb7a32cd15d",
+"titre": "Combining Video Quality Metrics To Select Perceptually Accurate Resolution In A Wide Quality Range: A Case Study",
+"annee": 2021,
+"type": "conférence",
+"lieu": "2021 IEEE International Conference on Image Processing (ICIP)",
+"url": "https://hal.science/hal-03652581v1",
+"doi": "10.1109/icip42928.2021.9506310"
+},
+{
+"id": "pee337469eb",
+"titre": "Deep Saliency Models : the Quest for the Loss Function",
+"annee": 2021,
+"type": "journal",
+"lieu": "Neurocomputing",
+"url": "https://inria.hal.science/hal-02264898v1",
+"doi": "10.1016/j.neucom.2020.06.131"
+},
+{
+"id": "p36e965bd84",
+"titre": "EVALUATION OF THE BUBBLE VIEW METAPHOR FOR THE CROWDSOURCING STUDY OF VISUAL ATTENTION DEPLOYMENT IN TONE-MAPPED IMAGES",
+"annee": 2021,
+"type": "conférence",
+"lieu": "9th European Workshop on Visual Information Processing (EUVIP)",
+"url": "https://hal.science/hal-03373606v1",
+"doi": "10.1109/euvip50544.2021.9483985"
+},
+{
+"id": "pc473fc40d0",
+"titre": "Ethical Principles in Industry 4.0 Automated Decision-Making Systems",
+"annee": 2021,
+"type": "conférence",
+"lieu": "SOHOMA 2021: Service Oriented, Holonic and Multi-agent Manufacturing Systems for Industry of the Future",
+"url": "https://hal.science/hal-05302352v1",
+"doi": "10.1007/978-3-030-99108-1_24"
+},
+{
+"id": "p246a88fccd",
+"titre": "Examining the Academic Trends in Neuropsychological Tests for Executive Functions Using Virtual Reality: Systematic Literature Review",
+"annee": 2021,
+"type": "journal",
+"lieu": "JMIR Serious Games",
+"url": "https://hal.science/hal-03464064v1",
+"doi": "10.2196/30249"
+},
+{
+"id": "p37f641b1e7",
+"titre": "Exploring Crowdsourcing for Subjective Quality Assessment of 3D Graphics",
+"annee": 2021,
+"type": "conférence",
+"lieu": "IEEE International Workshop on Multimedia Signal Processing (MMSP)",
+"url": "https://hal.science/hal-03556845v1",
+"doi": "10.1109/mmsp53017.2021.9733634"
+},
+{
+"id": "pf60cbe4c0c",
+"titre": "Graph Learning Based Head Movement Prediction for Interactive 360 Video Streaming",
+"annee": 2021,
+"type": "journal",
+"lieu": "IEEE Transactions on Image Processing",
+"url": "https://hal.science/hal-03652593v1",
+"doi": "10.1109/tip.2021.3073283"
+},
+{
+"id": "p2b3fe4525c",
+"titre": "Implicitly using Human Skeleton in Self-supervised Learning: Influence on Spatio-temporal Puzzle Solving and on Video Action Recognition",
+"annee": 2021,
+"type": "conférence",
+"lieu": "ROBOVIS 2021 : 2nd International Conference on Robotics, Computer Vision and Intelligent Systems",
+"url": "https://hal.science/hal-03946524v1",
+"doi": "10.5220/0010689500003061"
+},
+{
+"id": "pdb96866a35",
+"titre": "Isovist computation of outdoor environment with semi-dense line SLAM and monocular camera",
+"annee": 2021,
+"type": "conférence",
+"lieu": "SAGEO 2021, 16th Spatial Analysis and Geomatics Conference",
+"url": "https://hal.science/hal-03368466v1"
+},
+{
+"id": "p69fd46959f",
+"titre": "Multi-Modal Aesthetic Assessment for Mobile Gaming Image",
+"annee": 2021,
+"type": "conférence",
+"lieu": "2021 IEEE 23rd International Workshop on Multimedia Signal Processing (MMSP)",
+"url": "https://hal.science/hal-03643558v1",
+"doi": "10.1109/mmsp53017.2021.9733706"
+},
+{
+"id": "pa8642da634",
+"titre": "On Spammer Detection in Crowdsourcing Pairwise Comparison Tasks: Case Study on Two Multimedia QoE Assessment Scenarios.",
+"annee": 2021,
+"type": "conférence",
+"lieu": "ICME 2021 - First International Workshop on Quality of Experience in Interactive Multimedia",
+"url": "https://hal.science/hal-03236236v1",
+"doi": "10.1109/icmew53276.2021.9455992"
+},
+{
+"id": "p8259d73154",
+"titre": "Perceptual Quality Assessment for Asymmetrically Distorted Stereoscopic Video by Temporal Binocular Rivalry",
+"annee": 2021,
+"type": "journal",
+"lieu": "IEEE Transactions on Circuits and Systems for Video Technology",
+"url": "https://hal.science/hal-03652627v1",
+"doi": "10.1109/tcsvt.2020.3035679"
+},
+{
+"id": "p323b837ec4",
+"titre": "Perceptual Quality of Light Field Images and Impact of Visualization Techniques",
+"annee": 2021,
+"type": "journal",
+"lieu": "IEEE Transactions on Broadcasting",
+"url": "https://hal.science/hal-03652614v1",
+"doi": "10.1109/tbc.2020.3034445"
+},
+{
+"id": "pa3638bb99a",
+"titre": "Quality Assessment of Free-Viewpoint Videos by Quantifying the Elastic Changes of Multi-Scale Motion Trajectories",
+"annee": 2021,
+"type": "journal",
+"lieu": "IEEE Transactions on Image Processing",
+"url": "https://hal.science/hal-03652624v1",
+"doi": "10.1109/tip.2020.3037504"
+},
+{
+"id": "ped0036734c",
+"titre": "Re-Visiting Discriminator for Blind Free-Viewpoint Image Quality Assessment",
+"annee": 2021,
+"type": "journal",
+"lieu": "IEEE Transactions on Multimedia",
+"url": "https://hal.science/hal-03652620v1",
+"doi": "10.1109/tmm.2020.3038305"
+},
+{
+"id": "pe95def1460",
+"titre": "Reliability of Crowdsourcing for Subjective Quality Evaluation of Tone Mapping Operators",
+"annee": 2021,
+"type": "conférence",
+"lieu": "IEEE International Workshop on Multimedia Signal Processing (MMSP'2021)",
+"url": "https://hal.science/hal-03298957v2",
+"doi": "10.1109/mmsp53017.2021.9733707"
+},
+{
+"id": "p6d8100b4da",
+"titre": "Saliency4ASD: Challenge, dataset and tools for visual attention modeling for autism spectrum disorder",
+"annee": 2021,
+"type": "journal",
+"lieu": "Signal Processing: Image Communication",
+"url": "https://hal.science/hal-03652595v1",
+"doi": "10.1016/j.image.2020.116092"
+},
+{
+"id": "pbdb06cda3e",
+"titre": "Seeing By Haptic Glance: Reinforcement Learning Based 3d Object Recognition",
+"annee": 2021,
+"type": "conférence",
+"lieu": "2021 IEEE International Conference on Image Processing (ICIP)",
+"url": "https://hal.science/hal-03652589v1",
+"doi": "10.1109/icip42928.2021.9506734"
+},
+{
+"id": "p36f0b44541",
+"titre": "Static and Dynamic 3D Point Cloud Compression by TSPLVQ",
+"annee": 2021,
+"type": "conférence",
+"lieu": "International Conference on Systems, Signals and Image Processing (IWSSIP)",
+"url": "https://hal.science/hal-03423890v1"
+},
+{
+"id": "p0b968d205f",
+"titre": "The Effect of Temporal Sub-sampling on the Accuracy of Volumetric Video Quality Assessment",
+"annee": 2021,
+"type": "conférence",
+"lieu": "Picture Coding Symposium 2021 - Coding and quality evaluation of light-fields Special Session",
+"url": "https://hal.science/hal-03206240v1",
+"doi": "10.1109/pcs50896.2021.9477449"
+},
+{
+"id": "p8352692006",
+"titre": "Tracking motor activity in Virtual Reality to reveal cognitive functioning: A preliminary study",
+"annee": 2021,
+"type": "journal",
+"lieu": "International journal of virtual reality",
+"url": "https://hal.science/hal-03464066v1",
+"doi": "10.20870/ijvr.2021.21.1.4782"
+},
+{
+"id": "p43a96f3a92",
+"titre": "Urban cooling strategies as interaction opportunities in the public space: a methodological proposal",
+"annee": 2021,
+"type": "journal",
+"lieu": "Journal of Physics: Conference Series",
+"url": "https://hal.science/hal-03445642v1",
+"doi": "10.1088/1742-6596/2042/1/012128"
+},
+{
+"id": "p11deb135ec",
+"titre": "VVC partitioning decision driven by machine learning for a comprehensive hardware encoder",
+"annee": 2021,
+"type": "conférence",
+"lieu": "2021 IEEE 23rd International Workshop on Multimedia Signal Processing (MMSP)",
+"url": "https://hal.science/hal-03652577v1",
+"doi": "10.1109/mmsp53017.2021.9733562"
+},
+{
+"id": "p2e928ffbf5",
+"titre": "Visual Quality of 3D Meshes with Diffuse Colors in Virtual Reality: Subjective and Objective Evaluation",
+"annee": 2021,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://hal.science/hal-03043911v1",
+"doi": "10.1109/tvcg.2020.3036153"
+},
+{
+"id": "p2bd8a9740f",
+"titre": "Visual and Visual-Inertial SLAM: State of the Art, Classification, and Experimental Benchmarking",
+"annee": 2021,
+"type": "journal",
+"lieu": "Journal of Sensors",
+"url": "https://hal.science/hal-03187856v2",
+"doi": "10.1155/2021/2054828"
+},
+{
+"id": "p6cc6b91834",
+"titre": "Visualizing navigation difficulties in video game experiences",
+"annee": 2021,
+"type": "conférence",
+"lieu": "International Conference on Quality of Multimedia Experience",
+"url": "https://hal.science/hal-03268862v1",
+"doi": "10.1109/qomex51781.2021.9465423"
+},
+{
+"id": "pb28ed4a351",
+"titre": "Wide Color Gamut Image Content Characterization: Method, Evaluation, and Applications",
+"annee": 2021,
+"type": "journal",
+"lieu": "IEEE Transactions on Multimedia",
+"url": "https://hal.science/hal-03205745v1",
+"doi": "10.1109/tmm.2020.3032026"
+},
+{
+"id": "p7a2a06def2",
+"titre": "A Case Study of Machine Learning Classifiers for Real-Time Adaptive Resolution Prediction in Video Coding",
+"annee": 2020,
+"type": "conférence",
+"lieu": "2020 IEEE International Conference on Multimedia and Expo",
+"url": "https://hal.science/hal-03186419v1",
+"doi": "10.1109/icme46284.2020.9102934"
+},
+{
+"id": "p06f35e3ac0",
+"titre": "A Metric for Light Field Reconstruction, Compression, and Display Quality Evaluation",
+"annee": 2020,
+"type": "journal",
+"lieu": "IEEE Transactions on Image Processing",
+"url": "https://hal.science/hal-02640829v1",
+"doi": "10.1109/tip.2020.2966081"
+},
+{
+"id": "pf178bc4021",
+"titre": "A New Ensemble Adversarial Attack Powered by Long-Term Gradient Memories",
+"annee": 2020,
+"type": "journal",
+"lieu": "Proceedings of the AAAI Conference on Artificial Intelligence",
+"url": "https://hal.science/hal-03652644v1",
+"doi": "10.1609/aaai.v34i04.5743"
+},
+{
+"id": "p098fdc5410",
+"titre": "A Probabilistic Graphical Model for Analyzing the Subjective Visual Quality Assessment Data from Crowdsourcing",
+"annee": 2020,
+"type": "conférence",
+"lieu": "MM '20: The 28th ACM International Conference on Multimedia",
+"url": "https://hal.science/hal-03652634v1",
+"doi": "10.1145/3394171.3413619"
+},
+{
+"id": "pdc39660a03",
+"titre": "A Subjective Study of Multi-Dimensional Aesthetic Assessment for Mobile Game Image",
+"annee": 2020,
+"type": "conférence",
+"lieu": "MM '20: The 28th ACM International Conference on Multimedia",
+"url": "https://hal.science/hal-03652630v1",
+"doi": "10.1145/3423328.3423501"
+},
+{
+"id": "p3dc6222291",
+"titre": "Camera Pose Estimation Using Collaborative Databases and Single Building Image",
+"annee": 2020,
+"type": "journal",
+"lieu": "Journal of Geographic Information System",
+"url": "https://hal.science/hal-03060116v1",
+"doi": "10.4236/jgis.2020.126036"
+},
+{
+"id": "pfacc19dd8f",
+"titre": "Can Visual Scanpath Reveal Personal Image Memorability? Investigation of HMM Tools for Gaze Patterns Analysis",
+"annee": 2020,
+"type": "conférence",
+"lieu": "2020 Twelfth International Conference on Quality of Multimedia Experience (QoMEX 2020)",
+"url": "https://hal.science/hal-02611803v1",
+"doi": "10.1109/qomex48832.2020.9123102"
+},
+{
+"id": "pf4a36d3a49",
+"titre": "Capturing and Explaining Trajectory Singularities using Composite Signal Neural Networks",
+"annee": 2020,
+"type": "conférence",
+"lieu": "European Signal Processing Conference",
+"url": "https://hal.science/hal-02995681v1",
+"doi": "10.23919/eusipco47968.2020.9287403"
+},
+{
+"id": "pe5ea9a107e",
+"titre": "Comparison of Subjective Methods for Quality Assessment of 3D Graphics in Virtual Reality",
+"annee": 2020,
+"type": "journal",
+"lieu": "ACM Transactions on Applied Perception",
+"url": "https://hal.science/hal-03094944v1",
+"doi": "10.1145/3427931"
+},
+{
+"id": "pae86214da1",
+"titre": "Exploring Multiple and Coordinated Views for Multilayered Geospatial Data in Virtual Reality",
+"annee": 2020,
+"type": "journal",
+"lieu": "Information",
+"url": "https://hal.science/hal-02931923v1",
+"doi": "10.3390/info11090425"
+},
+{
+"id": "pbed6f04cc1",
+"titre": "EyeTrackUAV2: a Large-Scale Binocular Eye-Tracking Dataset for UAV Videos",
+"annee": 2020,
+"type": "journal",
+"lieu": "Drones",
+"url": "https://univ-rennes.hal.science/hal-02391832v3",
+"doi": "10.3390/drones4010002"
+},
+{
+"id": "p000fd11e93",
+"titre": "Few-Shot Object Detection in Real Life: Case Study on Auto-Harvest",
+"annee": 2020,
+"type": "conférence",
+"lieu": "2020 IEEE 22nd International Workshop on Multimedia Signal Processing (MMSP)",
+"url": "https://hal.science/hal-03652639v1",
+"doi": "10.1109/mmsp48831.2020.9287053"
+},
+{
+"id": "pfb5036eb09",
+"titre": "Few-Shot Pill Recognition",
+"annee": 2020,
+"type": "conférence",
+"lieu": "2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+"url": "https://hal.science/hal-03633022v1",
+"doi": "10.1109/cvpr42600.2020.00981"
+},
+{
+"id": "pbbc051e6ba",
+"titre": "From Attention to Spatial and Informational Mobility. Towards a Digital Common to Design a Dynamic City Outcomes of Mobiance 4 workshop",
+"annee": 2020,
+"type": "conférence",
+"lieu": "Proceedings of the 4th International Congress on Ambiances, Alloaesthesia: Senses, Inventions, Worlds",
+"url": "https://hal.science/hal-03220357v1",
+"doi": "10.48537/hal-03220357"
+},
+{
+"id": "p56dfdc84a4",
+"titre": "HMM-Based Framework to Measure the Visual Fidelity of Tone Mapping Operators",
+"annee": 2020,
+"type": "conférence",
+"lieu": "IEEE International Conference on Multimedia & Expo Workshops (ICMEW)",
+"url": "https://hal.science/hal-02612844v1",
+"doi": "10.1109/icmew46912.2020.9106029"
+},
+{
+"id": "p25f47680f3",
+"titre": "Influence of Emotions on Eye Behavior in Omnidirectional Content",
+"annee": 2020,
+"type": "conférence",
+"lieu": "Twelfth International Conference on Quality of Multimedia Experience (QoMEX)",
+"url": "https://hal.science/hal-02611564v1",
+"doi": "10.1109/qomex48832.2020.9123126"
+},
+{
+"id": "p81b78d8a54",
+"titre": "Introduction to the Issue on Perception-Driven 360° Video Processing",
+"annee": 2020,
+"type": "journal",
+"lieu": "IEEE Journal of Selected Topics in Signal Processing",
+"url": "https://hal.science/hal-02640807v1",
+"doi": "10.1109/jstsp.2020.2968778"
+},
+{
+"id": "pb7150e77ea",
+"titre": "MapStack: Exploring Multilayered Geospatial Data In Virtual Reality",
+"annee": 2020,
+"type": "conférence",
+"lieu": "11th International Conference on Information Visualization Theory and Applications",
+"url": "https://hal.science/hal-02932169v1",
+"doi": "10.5220/0008978600880099"
+},
+{
+"id": "pafdb49a280",
+"titre": "Modelling effects of S3D visual discomfort in human emotional state using data mining techniques",
+"annee": 2020,
+"type": "journal",
+"lieu": "Multimedia Tools and Applications",
+"url": "https://hal.science/hal-02640787v1",
+"doi": "10.1007/s11042-020-08844-3"
+},
+{
+"id": "p4cf6915b88",
+"titre": "Modélisation sur graphe de la singularité de trajectoires contraintes",
+"annee": 2020,
+"type": "conférence",
+"lieu": "Rencontre des Jeunes Chercheur.se.s en Intelligence Artificielle",
+"url": "https://hal.science/hal-02995845v1"
+},
+{
+"id": "pf11526f8a2",
+"titre": "NO-REFERENCE QUALITY EVALUATION OF LIGHT FIELD CONTENT BASED ON STRUCTURAL REPRESENTATION OF THE EPIPOLAR PLANE IMAGE",
+"annee": 2020,
+"type": "conférence",
+"lieu": "The 1st ICME Workshop on Hyper-Realistic Multimedia for Enhanced Quality of Experience",
+"url": "https://hal.science/hal-02562117v1",
+"doi": "10.1109/icmew46912.2020.9105975"
+},
+{
+"id": "p9df6e793ec",
+"titre": "Perception of Multisensory Wind Representation in Virtual Reality",
+"annee": 2020,
+"type": "conférence",
+"lieu": "ISMAR 2020 - 19th IEEE International Symposium on Mixed and Augmented Reality",
+"url": "https://hal.science/hal-02924372v1",
+"doi": "10.1109/ismar50242.2020.00024"
+},
+{
+"id": "pa3b61c9de0",
+"titre": "Perceptual Characterization of 3D Graphical Contents based on Attention Complexity Measures",
+"annee": 2020,
+"type": "conférence",
+"lieu": "Workshop QoEVMA ‘20, part of MM '20: The 28th ACM International Conference on Multimedia",
+"url": "https://hal.science/hal-02971538v1",
+"doi": "10.1145/3423328.3423498"
+},
+{
+"id": "p3b95586d97",
+"titre": "Physical/Digital Spaces Collisions. So What? Session 9 – Introduction",
+"annee": 2020,
+"type": "conférence",
+"lieu": "Proceedings of the 4th International Congress on Ambiances, Alloaesthesia: Senses, Inventions, Worlds",
+"url": "https://hal.science/hal-03220354v1",
+"doi": "10.48537/hal-03220354"
+},
+{
+"id": "p9deb2bb610",
+"titre": "Quality Evaluation of 3D Objects in Mixed Reality For Different Lighting Conditions",
+"annee": 2020,
+"type": "journal",
+"lieu": "Electronic Imaging",
+"url": "https://hal.science/hal-03652645v1",
+"doi": "10.2352/issn.2470-1173.2020.11.hvei-128"
+},
+{
+"id": "pbb40d554e0",
+"titre": "Rate-distortion video coding and uncertainties: to be blindly chasing marginal improvement or to be greener",
+"annee": 2020,
+"type": "conférence",
+"lieu": "Applications of Digital Image Processing XLIII",
+"url": "https://hal.science/hal-03652640v1",
+"doi": "10.1117/12.2568657"
+},
+{
+"id": "pe4a847162c",
+"titre": "Semi-Reference Sonar Image Quality Assessment Based on Task and Visual Perception",
+"annee": 2020,
+"type": "journal",
+"lieu": "IEEE Transactions on Multimedia",
+"url": "https://hal.science/hal-02640760v1",
+"doi": "10.1109/tmm.2020.2991546"
+},
+{
+"id": "pa0647a988d",
+"titre": "Sparse Directed Graph Learning for Head Movement Prediction in 360 Video Streaming",
+"annee": 2020,
+"type": "conférence",
+"lieu": "ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
+"url": "https://hal.science/hal-02640650v1",
+"doi": "10.1109/icassp40776.2020.9053598"
+},
+{
+"id": "p503d4a7ce1",
+"titre": "State-of-the-Art in 360° Video/Image Processing: Perception, Assessment and Compression",
+"annee": 2020,
+"type": "journal",
+"lieu": "IEEE Journal of Selected Topics in Signal Processing",
+"url": "https://hal.science/hal-02640846v1",
+"doi": "10.1109/jstsp.2020.2966864"
+},
+{
+"id": "p50f016d5b9",
+"titre": "Towards Better Quality Assessment of High-Quality Videos",
+"annee": 2020,
+"type": "conférence",
+"lieu": "MM '20: The 28th ACM International Conference on Multimedia",
+"url": "https://hal.science/hal-03652632v1",
+"doi": "10.1145/3423328.3423496"
+},
+{
+"id": "ped6e47f048",
+"titre": "Towards Perceptually-Optimized Compression Of User Generated Content (UGC): Prediction Of UGC Rate-Distortion Category",
+"annee": 2020,
+"type": "conférence",
+"lieu": "2020 IEEE International Conference on Multimedia and Expo (ICME)",
+"url": "https://hal.science/hal-03652643v1",
+"doi": "10.1109/icme46284.2020.9102752"
+},
+{
+"id": "p08cdf828d6",
+"titre": "Towards Visual Saliency Computation on 3D Graphical Contents for Interactive Visualization",
+"annee": 2020,
+"type": "conférence",
+"lieu": "2020 IEEE International Conference on Image Processing (ICIP)",
+"url": "https://hal.science/hal-03088764v1",
+"doi": "10.1109/icip40778.2020.9191064"
+},
+{
+"id": "pa41d0a4fd2",
+"titre": "Visualizing multilayered geospatial data in virtual reality to access public lighting",
+"annee": 2020,
+"type": "journal",
+"lieu": "ISPRS International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences",
+"url": "https://hal.science/hal-02932206v1",
+"doi": "10.5194/isprs-archives-xliii-b4-2020-623-2020"
+},
+{
+"id": "p8b5dc425f5",
+"titre": "[A research project on an air quality citizen sensing initiative: CapCi project in Rennes]",
+"annee": 2020,
+"type": "journal",
+"lieu": "Environnement, Risques & Santé",
+"url": "https://ehesp.hal.science/hal-03094976v1",
+"doi": "10.1684/ers.2020.1483"
+},
+{
+"id": "p5a92ef5f8a",
+"titre": "3D Visual Content Datasets",
+"annee": 2019,
+"type": "chapitre",
+"lieu": "3D Visual Content Creation, Coding and Delivery",
+"url": "https://hal.science/hal-02420298v1",
+"doi": "10.1007/978-3-319-77842-6_11"
+},
+{
+"id": "pbf2942a601",
+"titre": "A Novel Method for Assessing the Spatial Presence of Omnidirectional Videos: Comparing Virtual and Real World",
+"annee": 2019,
+"type": "journal",
+"lieu": "IEEE Access",
+"url": "https://hal.science/hal-02420248v1",
+"doi": "10.1109/access.2019.2920443"
+},
+{
+"id": "p9b10b66b47",
+"titre": "A Review on interdisciplinary methods for the characterization of thermal perception in public spaces",
+"annee": 2019,
+"type": "conférence",
+"lieu": "CISBAT 2019 – Climate Resilient Cities - Energy Efficiency & Renewables in the Digital Era",
+"url": "https://hal.science/hal-02372284v1",
+"doi": "10.1088/1742-6596/1343/1/012007"
+},
+{
+"id": "p0ec949cadc",
+"titre": "A dataset of eye movements for the children with autism spectrum disorder",
+"annee": 2019,
+"type": "conférence",
+"lieu": "the 10th ACM Multimedia Systems Conference",
+"url": "https://hal.science/hal-02417635v1",
+"doi": "10.1145/3304109.3325818"
+},
+{
+"id": "p721e0ab2ee",
+"titre": "AccAnn: A New Subjective Assessment Methodology for Measuring Acceptability and Annoyance of Quality of Experience",
+"annee": 2019,
+"type": "journal",
+"lieu": "IEEE Transactions on Multimedia",
+"url": "https://hal.science/hal-02420267v1",
+"doi": "10.1109/tmm.2019.2903722"
+},
+{
+"id": "p970f9f5903",
+"titre": "Analysis of public light field datasets for visual quality assessment and new challenges",
+"annee": 2019,
+"type": "conférence",
+"lieu": "European Light Field Imaging Workshop",
+"url": "https://hal.science/hal-02504946v1"
+},
+{
+"id": "pebbde9f1d0",
+"titre": "Citizen as Sensors' Commitment in Urban Public Action : Case Study on Urban Air Pollution",
+"annee": 2019,
+"type": "journal",
+"lieu": "International Journal of E-Planning Research",
+"url": "https://hal.science/hal-02320109v1",
+"doi": "10.4018/ijepr.2019100103"
+},
+{
+"id": "pb3f3076741",
+"titre": "Comparison of subjective methods, with and without explicit reference, for quality assessment of 3D graphics",
+"annee": 2019,
+"type": "conférence",
+"lieu": "ACM Symposium on Applied Perception 2019",
+"url": "https://hal.science/hal-02297220v2",
+"doi": "10.1145/3343036.3352493"
+},
+{
+"id": "pb6631f18ba",
+"titre": "Complexity measurement and characterization of 360-degree content",
+"annee": 2019,
+"type": "journal",
+"lieu": "Journal of Electronic Imaging",
+"url": "https://hal.science/hal-02420288v1",
+"doi": "10.2352/issn.2470-1173.2019.12.hvei-216"
+},
+{
+"id": "pc5aa10cdc4",
+"titre": "Contactless approach for heart rate estimation for QoE assessment",
+"annee": 2019,
+"type": "journal",
+"lieu": "Signal Processing: Image Communication",
+"url": "https://hal.science/hal-02417520v1",
+"doi": "10.1016/j.image.2019.07.004"
+},
+{
+"id": "p23c608a356",
+"titre": "Deep learning for inter-observer congruency prediction",
+"annee": 2019,
+"type": "conférence",
+"lieu": "ICIP 2019 - IEEE International Conference on Image Processing",
+"url": "https://inria.hal.science/hal-02333013v1",
+"doi": "10.1109/icip.2019.8803596"
+},
+{
+"id": "p58b44e1ab5",
+"titre": "FFTMI: Features Fusion for Natural Tone-Mapped Images Quality Evaluation",
+"annee": 2019,
+"type": "journal",
+"lieu": "IEEE Transactions on Multimedia",
+"url": "https://hal.science/hal-02417480v1",
+"doi": "10.1109/tmm.2019.2952256"
+},
+{
+"id": "p47e8f1bfc9",
+"titre": "Fast Blind Quality Assessment of DIBR-Synthesized Video Based on High-High Wavelet Subband",
+"annee": 2019,
+"type": "journal",
+"lieu": "IEEE Transactions on Image Processing",
+"url": "https://hal.science/hal-02420241v1",
+"doi": "10.1109/tip.2019.2919416"
+},
+{
+"id": "pdbe62c3287",
+"titre": "Geometry Compression of 3D Static Point Clouds based on TSPLVQ",
+"annee": 2019,
+"type": "conférence",
+"lieu": "Fifth Sino-French Workshop on Information and Communication Technologies SIFWICT 2019",
+"url": "https://hal.science/hal-02363980v1"
+},
+{
+"id": "p9a72d41173",
+"titre": "HVS based perceptual pre-processing for video coding",
+"annee": 2019,
+"type": "conférence",
+"lieu": "European Signal Processing Conference (EUSIPCO 2019)",
+"url": "https://hal.science/hal-02283750v1",
+"doi": "10.23919/eusipco.2019.8903172"
+},
+{
+"id": "pd2626b7e48",
+"titre": "How is Gaze Influenced by Image Transformations? Dataset and Model",
+"annee": 2019,
+"type": "journal",
+"lieu": "IEEE Transactions on Image Processing",
+"url": "https://hal.science/hal-02417513v1",
+"doi": "10.1109/tip.2019.2945857"
+},
+{
+"id": "p095ede49a0",
+"titre": "INFLUENCE OF VIEWPOINT ON VISUAL SALIENCY MODELS FOR VOLUMETRIC CONTENT",
+"annee": 2019,
+"type": "conférence",
+"lieu": "2019 IEEE International Conference on Image Processing (ICIP)",
+"url": "https://hal.science/hal-02283757v1",
+"doi": "10.1109/icip.2019.8803552"
+},
+{
+"id": "p7b81c70fc8",
+"titre": "Investigating Epipolar Plane Image Representations for Objective Quality Evaluation of Light Field Images",
+"annee": 2019,
+"type": "conférence",
+"lieu": "European Workshop on Visual Information Processing",
+"url": "https://hal.science/hal-02335328v1",
+"doi": "10.1109/euvip47703.2019.8946194"
+},
+{
+"id": "p57b3ec21b7",
+"titre": "Learning a No-Reference Quality Predictor of Stereoscopic Images by Visual Binocular Properties",
+"annee": 2019,
+"type": "journal",
+"lieu": "IEEE Access",
+"url": "https://hal.science/hal-02417603v1",
+"doi": "10.1109/access.2019.2941112"
+},
+{
+"id": "p0ea459737a",
+"titre": "Multiscale Natural Scene Statistical Analysis for No-Reference Quality Evaluation of DIBR-Synthesized Views",
+"annee": 2019,
+"type": "journal",
+"lieu": "IEEE Transactions on Broadcasting",
+"url": "https://hal.science/hal-02420256v1",
+"doi": "10.1109/tbc.2019.2906768"
+},
+{
+"id": "peeaa439374",
+"titre": "On Accuracy of Objective Metrics for Assessment of Perceptual Pre-Processing for Video Coding",
+"annee": 2019,
+"type": "conférence",
+"lieu": "IEEE International Conference on Image Processing (ICIP 2019))",
+"url": "https://hal.science/hal-02417552v1",
+"doi": "10.1109/icip.2019.8802928"
+},
+{
+"id": "p8fc9927b17",
+"titre": "On the usage of visual saliency models for computer generated objects",
+"annee": 2019,
+"type": "conférence",
+"lieu": "2019 IEEE 21st International Workshop on Multimedia Signal Processing (MMSP)",
+"url": "https://hal.science/hal-02390900v1",
+"doi": "10.1109/mmsp.2019.8901782"
+},
+{
+"id": "p7e895149ec",
+"titre": "Perceptual Representations of Structural Information in Images: Application to Quality Assessment of Synthesized View in FTV Scenario",
+"annee": 2019,
+"type": "conférence",
+"lieu": "2019 IEEE International Conference on Image Processing (ICIP)",
+"url": "https://hal.science/hal-02417584v1",
+"doi": "10.1109/icip.2019.8803105"
+},
+{
+"id": "p7dcbe7562c",
+"titre": "Predicting artificial visual field losses: a gaze-based inference study",
+"annee": 2019,
+"type": "journal",
+"lieu": "Journal of Vision",
+"url": "https://hal.science/hal-02289190v1",
+"doi": "10.1167/19.14.22"
+},
+{
+"id": "pdd31284c15",
+"titre": "Prediction of the Influence of Navigation Scan-Path on Perceived Quality of Free-Viewpoint Videos",
+"annee": 2019,
+"type": "journal",
+"lieu": "IEEE Journal on Emerging and Selected Topics in Circuits and Systems",
+"url": "https://hal.science/hal-02420274v1",
+"doi": "10.1109/jetcas.2019.2893484"
+},
+{
+"id": "pa06dfb1f8c",
+"titre": "Quality assessment for view synthesis using low-level and mid-level structural representation",
+"annee": 2019,
+"type": "journal",
+"lieu": "Signal Processing: Image Communication",
+"url": "https://hal.science/hal-02420260v1",
+"doi": "10.1016/j.image.2019.03.005"
+},
+{
+"id": "p3c390c2b14",
+"titre": "Quality of Experience and Quality of Service Metrics for 3D Content",
+"annee": 2019,
+"type": "chapitre",
+"lieu": "3D Visual Content Creation, Coding and Delivery",
+"url": "https://hal.science/hal-02420302v1",
+"doi": "10.1007/978-3-319-77842-6_10"
+},
+{
+"id": "ped1c3d6b96",
+"titre": "Rate-Distortion Optimized Tree-Structured Point-Lattice Vector Quantization for Compression of 3D Point Clouds Geometry",
+"annee": 2019,
+"type": "conférence",
+"lieu": "2019 IEEE International Conference on Image Processing (ICIP)",
+"url": "https://hal.science/hal-02321752v1",
+"doi": "10.1109/icip.2019.8803403"
+},
+{
+"id": "pa2885d568a",
+"titre": "Reference-Free Quality Assessment of Sonar Images via Contour Degradation Measurement",
+"annee": 2019,
+"type": "journal",
+"lieu": "IEEE Transactions on Image Processing",
+"url": "https://hal.science/hal-02420264v1",
+"doi": "10.1109/tip.2019.2910666"
+},
+{
+"id": "pc32321c830",
+"titre": "Semantic label bias in subjective video quality evaluation: a standardization perspective",
+"annee": 2019,
+"type": "conférence",
+"lieu": "ELECTRONIC IMAGING 2019: Image Quality and System Performance XVI",
+"url": "https://hal.science/hal-02420282v1",
+"doi": "10.2352/issn.2470-1173.2019.10.iqsp-311"
+},
+{
+"id": "pdab8183705",
+"titre": "Solving Monocular Visual Odometry Scale Factor with Adaptive Step Length Estimates for Pedestrians Using Handheld Devices",
+"annee": 2019,
+"type": "journal",
+"lieu": "Sensors",
+"url": "https://hal.science/hal-02285819v1",
+"doi": "10.3390/s19040953"
+},
+{
+"id": "pc3ea4fd839",
+"titre": "The art of saliency modeling for multimedia applications",
+"annee": 2019,
+"type": "conférence",
+"lieu": "WebMedia '19 Proceedings of the 25th Brazillian Symposium on Multimedia and the Web",
+"url": "https://hal.science/hal-02417485v1",
+"doi": "10.1145/3323503.3361558"
+},
+{
+"id": "pd5cc4c8c48",
+"titre": "The space-time cube as an effective way of representing and analysing the streetscape along a pedestrian route in an urban environment",
+"annee": 2019,
+"type": "conférence",
+"lieu": "SHS Web of Conferences",
+"url": "https://hal.science/hal-02273348v1",
+"doi": "10.1051/shsconf/20196403005"
+},
+{
+"id": "p5bfa2368fb",
+"titre": "Towards Perceptually Plausible Training of Image Restoration Neural Networks",
+"annee": 2019,
+"type": "conférence",
+"lieu": "International Conference on Image Processing Theory, Tools and Applications",
+"url": "https://hal.science/hal-02335346v1",
+"doi": "10.1109/ipta.2019.8936096"
+},
+{
+"id": "pfcd6db74a8",
+"titre": "Training Objective Image and Video Quality Estimators Using Multiple Databases",
+"annee": 2019,
+"type": "journal",
+"lieu": "IEEE Transactions on Multimedia",
+"url": "https://hal.science/hal-02417611v1",
+"doi": "10.1109/tmm.2019.2935687"
+},
+{
+"id": "pb78a4b9442",
+"titre": "A Blind Quality Measure for Industrial 2D Matrix Symbols Using Shallow Convolutional Neural Network",
+"annee": 2018,
+"type": "conférence",
+"lieu": "25th IEEE International Conference on Image Processing (ICIP)",
+"url": "https://hal.science/hal-01970892v1",
+"doi": "10.1109/icip.2018.8451591"
+},
+{
+"id": "p678a71eccf",
+"titre": "A Dataset of Head and Eye Movements for 360° Videos",
+"annee": 2018,
+"type": "conférence",
+"lieu": "9th ACM Multimedia Systems Conference",
+"url": "https://hal.science/hal-01994923v1"
+},
+{
+"id": "p7cbf75312b",
+"titre": "A Perception-Based Framework for Wide Color Gamut Content Selection",
+"annee": 2018,
+"type": "conférence",
+"lieu": "25th IEEE International Conference on Image Processing (ICIP)",
+"url": "https://hal.science/hal-01970894v1",
+"doi": "10.1109/icip.2018.8451497"
+},
+{
+"id": "p0505e8dd0e",
+"titre": "A Study on the Impact of Visualization Techniques on Light Field Perception",
+"annee": 2018,
+"type": "conférence",
+"lieu": "26th European Signal Processing Conference (EUSIPCO)",
+"url": "https://hal.science/hal-01970895v1",
+"doi": "10.23919/eusipco.2018.8553558"
+},
+{
+"id": "p519ac443a3",
+"titre": "Adaptive Screen Content Image Enhancement Strategy using Layer-based Segmentation",
+"annee": 2018,
+"type": "conférence",
+"lieu": "IEEE International Symposium on Circuits and Systems (ISCAS)",
+"url": "https://hal.science/hal-01970917v1",
+"doi": "10.1109/iscas.2018.8350911"
+},
+{
+"id": "pd2b6826b1c",
+"titre": "Axes and Coordinate Systems Representations for Immersive Analytics of Multi-Dimensional Data",
+"annee": 2018,
+"type": "conférence",
+"lieu": "4th International Symposium on Big Data Visual and Immersive Analytics",
+"url": "https://hal.science/hal-01898445v1",
+"doi": "10.1109/bdva.2018.8533892"
+},
+{
+"id": "pe95139c550",
+"titre": "Caractérisation et restitution vidéographique des ambiances urbaines",
+"annee": 2018,
+"type": "conférence",
+"lieu": "SHS Web of Conferences",
+"url": "https://hal.science/hal-01944413v1",
+"doi": "10.1051/shsconf/20184701012"
+},
+{
+"id": "p5fc6fe8dd5",
+"titre": "Care TVX: Challenges and Design to Improve TV in In-hospital Environment and for Visually Impaired People",
+"annee": 2018,
+"type": "conférence",
+"lieu": "TVX '18 Proceedings of the 2018 ACM International Conference on Interactive Experiences for TV and Online Video",
+"url": "https://hal.science/hal-01970910v1"
+},
+{
+"id": "p1d78d84186",
+"titre": "Complexity and Scientific Challenges",
+"annee": 2018,
+"type": "chapitre",
+"lieu": "Virtual Reality and Augmented Reality - Myths and Realities",
+"url": "https://hal.science/hal-01944915v1",
+"doi": "10.1002/9781119341031.ch3"
+},
+{
+"id": "p9a17b47e6a",
+"titre": "Continuous Pose Estimation for Urban Pedestrian Applications on Hand-held Mobile Device",
+"annee": 2018,
+"type": "conférence",
+"lieu": "2018 International Conference on Indoor Positioning and Indoor Navigation",
+"url": "https://hal.science/hal-02018726v1"
+},
+{
+"id": "p3e69ca72bb",
+"titre": "Data Analysis in Multimedia Quality Assessment: Revisiting the Statistical Tests",
+"annee": 2018,
+"type": "journal",
+"lieu": "IEEE Transactions on Multimedia",
+"url": "https://hal.science/hal-01970897v1",
+"doi": "10.1109/tmm.2018.2794266"
+},
+{
+"id": "p0785760ef2",
+"titre": "Emerging science of QoE in multimedia applications: Concepts, experimental guidelines, and validation of models",
+"annee": 2018,
+"type": "chapitre",
+"lieu": "Academic Press Library in Signal Processing, Volume 6",
+"url": "https://hal.science/hal-01970945v1"
+},
+{
+"id": "pf754c6e58b",
+"titre": "Envisioning Future Urban Scenarios",
+"annee": 2018,
+"type": "conférence",
+"lieu": "36th eCAADe: Computing for a better tomorrow",
+"url": "https://shs.hal.science/halshs-02103285v1"
+},
+{
+"id": "p1936bbce94",
+"titre": "Exploring the effects of subjective methodology on assessing visual discomfort in immersive multimedia",
+"annee": 2018,
+"type": "journal",
+"lieu": "Journal of Electronic Imaging",
+"url": "https://hal.science/hal-01970934v1",
+"doi": "10.2352/issn.2470-1173.2018.14.hvei-527"
+},
+{
+"id": "p25602ef56a",
+"titre": "Fusion of 3D GIS, Vision, Inertial and Magnetic Data for Improved Urban Pedestrian Navigation and Augmented Reality Applications",
+"annee": 2018,
+"type": "journal",
+"lieu": "Navigation",
+"url": "https://hal.science/hal-01896361v1",
+"doi": "10.1002/navi.254"
+},
+{
+"id": "p256e2d754d",
+"titre": "How are ocular behaviours affected by central and peripheral vision loss? A study based on artificial scotomas and gaze-contingent paradigm.",
+"annee": 2018,
+"type": "journal",
+"lieu": "Journal of Electronic Imaging",
+"url": "https://hal.science/hal-01970940v1",
+"doi": "10.2352/issn.2470-1173.2018.14.hvei-504"
+},
+{
+"id": "p9993035d36",
+"titre": "How to Learn the Effect of Non-Uniform Distortion on Perceived Visual Quality? Case Study Using Convolutional Sparse Coding for Quality Assessment of Synthesized Views",
+"annee": 2018,
+"type": "conférence",
+"lieu": "25th IEEE International Conference on Image Processing (ICIP)",
+"url": "https://hal.science/hal-01970888v1",
+"doi": "10.1109/icip.2018.8451151"
+},
+{
+"id": "p5e9e495668",
+"titre": "Hybrid-MST: A Hybrid Active Sampling Strategy for Pairwise Preference Aggregation",
+"annee": 2018,
+"type": "conférence",
+"lieu": "Advances in Neural Information Processing Systems 31 (NIPS 2018)",
+"url": "https://hal.science/hal-01970953v1"
+},
+{
+"id": "pb22725cc0c",
+"titre": "Improved Performance Measures for Video Quality Assessment Algorithms Using Training and Validation Sets",
+"annee": 2018,
+"type": "journal",
+"lieu": "IEEE Transactions on Multimedia",
+"url": "https://hal.science/hal-01965552v1",
+"doi": "10.1109/tmm.2018.2882091"
+},
+{
+"id": "pa4ba954860",
+"titre": "Improving the discriminability of standard subjective quality assessment methods: a case study",
+"annee": 2018,
+"type": "conférence",
+"lieu": "Tenth International Conference on Quality of Multimedia Experience (QoMEX)",
+"url": "https://hal.science/hal-01970915v1",
+"doi": "10.1109/qomex.2018.8463400"
+},
+{
+"id": "pab915e1910",
+"titre": "Introducing UN Salient360! Benchmark: A platform for evaluating visual attention models for 360° contents",
+"annee": 2018,
+"type": "conférence",
+"lieu": "Tenth International Conference on Quality of Multimedia Experience (QoMEX)",
+"url": "https://hal.science/hal-01970916v1",
+"doi": "10.1109/qomex.2018.8463369"
+},
+{
+"id": "pee888277e7",
+"titre": "La Cartopartie, une nouvelle forme de balade urbaine déployée par les villes",
+"annee": 2018,
+"type": "journal",
+"lieu": "Les Cahiers de la recherche architecturale, urbaine et paysagère",
+"url": "https://hal.science/hal-02187403v1",
+"doi": "10.4000/craup.1003"
+},
+{
+"id": "p274910d10e",
+"titre": "MPEG-4 AVC stream-based saliency detection: application to robust watermarking",
+"annee": 2018,
+"type": "journal",
+"lieu": "Signal Processing: Image Communication",
+"url": "https://hal.science/hal-01633823v1",
+"doi": "10.1016/j.image.2017.09.007"
+},
+{
+"id": "pdd431cddfa",
+"titre": "Monitoring Human Visual Behavior during the Observation of Unmanned Aerial Vehicles (UAVs) Videos",
+"annee": 2018,
+"type": "journal",
+"lieu": "Drones",
+"url": "https://hal.science/hal-01928841v1",
+"doi": "10.3390/drones2040036"
+},
+{
+"id": "p212bdc3edf",
+"titre": "New VR platform for the personalization of care in psychiatry: the example of ReViSTIM project",
+"annee": 2018,
+"type": "conférence",
+"lieu": "Care TVX Workshop at ACM TVX 2018",
+"url": "https://hal.science/hal-01988664v1"
+},
+{
+"id": "p7382478e3c",
+"titre": "No-Reference Quality Assessment for Stitched Panoramic Images Using Convolutional Sparse Coding and Compound Feature Selection",
+"annee": 2018,
+"type": "conférence",
+"lieu": "IEEE International Conference on Multimedia and Expo (ICME)",
+"url": "https://hal.science/hal-01970907v1",
+"doi": "10.1109/icme.2018.8486545"
+},
+{
+"id": "pc5e7158c44",
+"titre": "Object Shape Approximation & Contour Adaptive Depth Image Coding for Virtual View Synthesis",
+"annee": 2018,
+"type": "journal",
+"lieu": "IEEE Transactions on Circuits and Systems for Video Technology",
+"url": "https://hal.science/hal-01675118v1",
+"doi": "10.1109/tcsvt.2017.2751589"
+},
+{
+"id": "p9c038dacac",
+"titre": "Proof-of-concept: role of generic content characteristics in optimizing video encoders",
+"annee": 2018,
+"type": "journal",
+"lieu": "Multimedia Tools and Applications",
+"url": "https://hal.science/hal-01675141v1",
+"doi": "10.1007/s11042-017-5180-1"
+},
+{
+"id": "p88bc19c440",
+"titre": "Quantifying the Influence of Devices on Quality of Experience for Video Streaming",
+"annee": 2018,
+"type": "conférence",
+"lieu": "Picture Coding Symposium (PCS)",
+"url": "https://hal.science/hal-01970911v1",
+"doi": "10.1109/pcs.2018.8456304"
+},
+{
+"id": "pa8276524f5",
+"titre": "The Role of Structure and Textural Information in Image Utility and Quality Assessment Tasks",
+"annee": 2018,
+"type": "journal",
+"lieu": "Journal of Electronic Imaging",
+"url": "https://hal.science/hal-01970936v1",
+"doi": "10.2352/j.percept.imaging.2018.1.1.010501"
+},
+{
+"id": "pc7c0c68f0f",
+"titre": "Toolbox and dataset for the development of saliency and scanpath models for omnidirectional/360° still images",
+"annee": 2018,
+"type": "journal",
+"lieu": "Signal Processing: Image Communication",
+"url": "https://hal.science/hal-01970919v1",
+"doi": "10.1016/j.image.2018.05.003"
+},
+{
+"id": "p12d39ffe92",
+"titre": "Toward the Assessment of Quality of Experience for Asymmetric Encoding in Immersive Media",
+"annee": 2018,
+"type": "journal",
+"lieu": "IEEE Transactions on Broadcasting",
+"url": "https://hal.science/hal-01970913v1",
+"doi": "10.1109/tbc.2018.2828607"
+},
+{
+"id": "pf45def8391",
+"titre": "Tree-Structured Point-Lattice Vector Quantization for 3-D Point Cloud Geometry Compression",
+"annee": 2018,
+"type": "conférence",
+"lieu": "CORESA",
+"url": "https://hal.science/hal-01928230v1"
+},
+{
+"id": "p94464f1e69",
+"titre": "Visual attention, visual salience, and perceived interest in multimedia applications",
+"annee": 2018,
+"type": "chapitre",
+"lieu": "Academic Press Library in Signal Processing, Volume 6",
+"url": "https://hal.science/hal-01970944v1"
+},
+{
+"id": "pb53fcca33a",
+"titre": "2D and 3D Visual Attention for Computer Vision",
+"annee": 2017,
+"type": "chapitre",
+"lieu": "3D Printing: Breakthroughs in Research and Practice",
+"url": "https://hal.science/hal-01971132v1"
+},
+{
+"id": "p779eeb9474",
+"titre": "A Dataset of Head and Eye Movements for 360 Degree Images",
+"annee": 2017,
+"type": "conférence",
+"lieu": "MMSys'17 Proceedings of the 8th ACM on Multimedia Systems Conference",
+"url": "https://hal.science/hal-01675791v1",
+"doi": "10.1145/3192974"
+},
+{
+"id": "p188c34870a",
+"titre": "A Study of Virtual Visual Servoing Sensitivity in the Context of Image/GIS Registration for Urban Environments",
+"annee": 2017,
+"type": "conférence",
+"lieu": "Fifteenth IAPR International Conference on Machine Vision Application",
+"url": "https://hal.science/hal-01526972v1",
+"doi": "10.23919/mva.2017.7986915"
+},
+{
+"id": "p7c9f142147",
+"titre": "A geograhic data gathering system for image geolocalization refining",
+"annee": 2017,
+"type": "conférence",
+"lieu": "2nd International Conference on Smart Data and Smart Cities",
+"url": "https://hal.science/hal-01712515v1",
+"doi": "10.5194/isprs-annals-iv-4-w3-63-2017"
+},
+{
+"id": "p992e551ef1",
+"titre": "Analysis of Mojette Transform Projections using Z3 lattice versus A3 lattice",
+"annee": 2017,
+"type": "conférence",
+"lieu": "Sino-French Workshop on Research Collaborations in Informations and Communication Technologies (SIFWICT)",
+"url": "https://hal.science/hal-01644998v1"
+},
+{
+"id": "pa44f6d17fe",
+"titre": "CNN-based transform index prediction in multiple transforms framework to assist entropy coding",
+"annee": 2017,
+"type": "conférence",
+"lieu": "25th European Signal Processing Conference (EUSIPCO)",
+"url": "https://hal.science/hal-01675787v1",
+"doi": "10.23919/eusipco.2017.8081317"
+},
+{
+"id": "p22425be9b8",
+"titre": "Characterization and selection of light field content for perceptual assessment",
+"annee": 2017,
+"type": "conférence",
+"lieu": "2017 Ninth International Conference on Quality of Multimedia Experience (IEEE QoMEX)",
+"url": "https://hal.science/hal-01675803v1",
+"doi": "10.1109/qomex.2017.7965635"
+},
+{
+"id": "p90ff594f10",
+"titre": "Do gaze disruptions indicate the perceived quality of non-uniformly coded natural scenes?",
+"annee": 2017,
+"type": "conférence",
+"lieu": "Electronic Imaging, Human Vision and Electronic Imaging",
+"url": "https://hal.science/hal-01675795v1",
+"doi": "10.2352/issn.2470-1173.2017.14.hvei-124"
+},
+{
+"id": "ped0cb2080a",
+"titre": "Emotional interactive movie: adjusting the scenario according to the emotional response of the viewer",
+"annee": 2017,
+"type": "journal",
+"lieu": "EAI Endorsed Transactions on Creative Technologies",
+"url": "https://hal.science/hal-01675135v1",
+"doi": "10.4108/eai.4-9-2017.153053"
+},
+{
+"id": "p54be30060a",
+"titre": "Image Quality Assessment for DIBR Synthesized Views using Elastic Metric",
+"annee": 2017,
+"type": "conférence",
+"lieu": "Proceedings of the 2017 ACM on Multimedia Conference",
+"url": "https://hal.science/hal-01971127v1",
+"doi": "10.1145/3123266.3123329"
+},
+{
+"id": "p8e5f2642d4",
+"titre": "Image quality assessment for free viewpoint video based on mid-level contours feature",
+"annee": 2017,
+"type": "conférence",
+"lieu": "IEEE International Conference on Multimedia and Expo (ICME)",
+"url": "https://hal.science/hal-01675960v1",
+"doi": "10.1109/icme.2017.8019431"
+},
+{
+"id": "p2a34c81a57",
+"titre": "Impact of viewing immersion on visual behavior in videos",
+"annee": 2017,
+"type": "conférence",
+"lieu": "Sino-French Workshop on information and communication technology",
+"url": "https://inria.hal.science/hal-01655280v1"
+},
+{
+"id": "p0099254b16",
+"titre": "Impact of visual immersion on perception of urban morphology and density in 3D city models",
+"annee": 2017,
+"type": "conférence",
+"lieu": "23rd International Conference on Virtual System & Multimedia (VSMM)",
+"url": "https://hal.science/hal-02068712v1",
+"doi": "10.1109/vsmm.2017.8346303"
+},
+{
+"id": "pcf0568888b",
+"titre": "Inpainting-based error concealment for low-delay video communication",
+"annee": 2017,
+"type": "conférence",
+"lieu": "2017 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
+"url": "https://hal.science/hal-01676083v1",
+"doi": "10.1109/icassp.2017.7952433"
+},
+{
+"id": "p62dd03808c",
+"titre": "Learning visual saliency from human fixations for stereoscopic images",
+"annee": 2017,
+"type": "journal",
+"lieu": "Neurocomputing",
+"url": "https://hal.science/hal-01633835v1",
+"doi": "10.1016/j.neucom.2017.05.050"
+},
+{
+"id": "p6e57fd07d4",
+"titre": "Message from the ISMAR 2017 General Chair and Deputy General Chairs",
+"annee": 2017,
+"type": "conférence",
+"lieu": "IEEE International Symposium on Mixed and Augmented Reality (ISMAR)",
+"url": "https://hal.science/hal-01715813v1",
+"doi": "10.1109/ismar.2017.5"
+},
+{
+"id": "p45686753ab",
+"titre": "Mobile Devices and Urban Ambiances: How Connected Wearable Tools Change the Ways We Perceive and Design Public Spaces",
+"annee": 2017,
+"type": "chapitre",
+"lieu": "Urban Design and Representation. A Multidisciplinary and Multisensory Approach",
+"url": "https://shs.hal.science/halshs-01541102v1",
+"doi": "10.1007/978-3-319-51804-6_16"
+},
+{
+"id": "p4e8a9bd5d7",
+"titre": "Mojette Transform on Densest Lattices in 2D and 3D",
+"annee": 2017,
+"type": "conférence",
+"lieu": "20th International Conference on Discrete Geometry for Computer Imagery (DGCI 2017)",
+"url": "https://hal.science/hal-01644992v1",
+"doi": "10.1007/978-3-319-66272-5_14"
+},
+{
+"id": "p5d0e47fc30",
+"titre": "Motion Perspectives Integration in the Qualification of the Urban Spaces: Towards a 2D- and a 3D-Enrichment of the S-Partition Method",
+"annee": 2017,
+"type": "chapitre",
+"lieu": "Urban Design and Representation",
+"url": "https://hal.science/hal-01491469v1",
+"doi": "10.1007/978-3-319-51804-6_6"
+},
+{
+"id": "p898a28e069",
+"titre": "Participate and transform territories: Interactions between inhabitants, techniques and milieux using the notion of « citizen as sensor »",
+"annee": 2017,
+"type": "journal",
+"lieu": "NETCOM : Réseaux, communication et territoires / Networks and Communications Studies",
+"url": "https://hal.science/hal-01712477v1",
+"doi": "10.4000/netcom.2668"
+},
+{
+"id": "p743b90b7aa",
+"titre": "Pedestrian Track Estimation with Handheld Monocular Camera and Inertial-Magnetic Sensor for Urban Augmented Reality",
+"annee": 2017,
+"type": "conférence",
+"lieu": "2017 INTERNATIONAL CONFERENCE ON INDOOR POSITIONING AND INDOOR NAVIGATION",
+"url": "https://hal.science/hal-01623820v1",
+"doi": "10.1109/ipin.2017.8115934"
+},
+{
+"id": "p18b2941081",
+"titre": "Perceptual Reduced-Reference Visual Quality Assessment for Contrast Alteration",
+"annee": 2017,
+"type": "journal",
+"lieu": "IEEE Transactions on Broadcasting",
+"url": "https://hal.science/hal-01633841v1",
+"doi": "10.1109/tbc.2016.2597545"
+},
+{
+"id": "p630b388cca",
+"titre": "Perceptual Texture Similarity for Machine Intelligence Applications",
+"annee": 2017,
+"type": "chapitre",
+"lieu": "Visual Content Indexing and Retrieval with Psycho-Visual Models",
+"url": "https://hal.science/hal-01645011v1"
+},
+{
+"id": "p423eb1e0be",
+"titre": "Preference of Experience in Image Tone-Mapping: Dataset and Framework for Objective Measures Comparison",
+"annee": 2017,
+"type": "journal",
+"lieu": "IEEE Journal of Selected Topics in Signal Processing",
+"url": "https://hal.science/hal-01633843v1",
+"doi": "10.1109/jstsp.2016.2637168"
+},
+{
+"id": "pf5f97b748c",
+"titre": "Quality Assessment of Sharpened Images: Challenges, Methodology, and Objective Metrics",
+"annee": 2017,
+"type": "journal",
+"lieu": "IEEE Transactions on Image Processing",
+"url": "https://hal.science/hal-01633838v1",
+"doi": "10.1109/tip.2017.2651374"
+},
+{
+"id": "p20e217ee47",
+"titre": "Quality assessment for synthesized view based on variable-length context tree",
+"annee": 2017,
+"type": "conférence",
+"lieu": "2017 IEEE 19th International Workshop on Multimedia Signal Processing (MMSP)",
+"url": "https://hal.science/hal-01675918v1",
+"doi": "10.1109/mmsp.2017.8122240"
+},
+{
+"id": "pe91189987d",
+"titre": "Reduced-reference quality metric for screen content image",
+"annee": 2017,
+"type": "conférence",
+"lieu": "2017 IEEE International Conference on Image Processing (ICIP)",
+"url": "https://hal.science/hal-01771799v1",
+"doi": "10.1109/icip.2017.8296602"
+},
+{
+"id": "p0178b3d1b3",
+"titre": "Study of Video Quality Assessment for Telesurgery",
+"annee": 2017,
+"type": "journal",
+"lieu": "IEEE Access",
+"url": "https://hal.science/hal-01675128v1",
+"doi": "10.1109/access.2017.2704285"
+},
+{
+"id": "p10d4882b8c",
+"titre": "Towards HMD-based Immersive Analytics",
+"annee": 2017,
+"type": "conférence",
+"lieu": "Immersive analytics Workshop, IEEE VIS 2017",
+"url": "https://hal.science/hal-01631306v1"
+},
+{
+"id": "p1ef083595b",
+"titre": "Using multiscale analysis for blind quality assessment of DIBR-synthesized images",
+"annee": 2017,
+"type": "conférence",
+"lieu": "2017 IEEE International Conference on Image Processing (ICIP)",
+"url": "https://hal.science/hal-01771796v1",
+"doi": "10.1109/icip.2017.8296380"
+},
+{
+"id": "p94d2da7f60",
+"titre": "Video quality enhancement via QP adaptation based on perceptual coding maps",
+"annee": 2017,
+"type": "conférence",
+"lieu": "2017 IEEE International Conference on Image Processing (ICIP)",
+"url": "https://hal.science/hal-01971131v1",
+"doi": "10.1109/icip.2017.8296781"
+},
+{
+"id": "p3f7964196f",
+"titre": "Video quality perception in telesurgery",
+"annee": 2017,
+"type": "conférence",
+"lieu": "IEEE 19th International Workshop on Multimedia Signal Processing (MMSP)",
+"url": "https://hal.science/hal-01676077v1",
+"doi": "10.1109/mmsp.2017.8122219"
+},
+{
+"id": "pc0e1b113f1",
+"titre": "Virtually physical presentation of data layers for spatio temporal urban data visualization",
+"annee": 2017,
+"type": "conférence",
+"lieu": "2017 23rd International Conference on Virtual System & Multimedia (VSMM)",
+"url": "https://hal.science/hal-02068700v1",
+"doi": "10.1109/vsmm.2017.8346302"
+},
+{
+"id": "pcdd97091c3",
+"titre": "Visual Attention Modeling for Stereoscopic Video: A Benchmark and Computational Model",
+"annee": 2017,
+"type": "journal",
+"lieu": "IEEE Transactions on Image Processing",
+"url": "https://hal.science/hal-01633826v1",
+"doi": "10.1109/tip.2017.2721112"
+},
+{
+"id": "pfb7250a02a",
+"titre": "Visual Content Indexing and Retrieval with Psycho-Visual Models",
+"annee": 2017,
+"type": "chapitre",
+"lieu": "Visual Content Indexing and Retrieval with Psycho-visual models",
+"url": "https://hal.science/hal-01674941v1",
+"doi": "10.1007/978-3-319-57687-9_1"
+},
+{
+"id": "p1e12597d6e",
+"titre": "Visual Content Indexing and Retrieval with Psycho-Visual Models",
+"annee": 2017,
+"type": "ouvrage",
+"lieu": "",
+"url": "https://hal.science/hal-01674930v1",
+"doi": "10.1007/978-3-319-57687-9"
+},
+{
+"id": "p79f39ee125",
+"titre": "Visual attention as a dimension of QoE: Subtitles in UHD videos",
+"annee": 2017,
+"type": "conférence",
+"lieu": "9th International Conference on Quality of Multimedia Experience (IEEE QoMEX 2017)",
+"url": "https://hal.science/hal-01676116v1",
+"doi": "10.1109/qomex.2016.7498924"
+},
+{
+"id": "p959ebd06d8",
+"titre": "Which saliency weighting for omni directional image quality assessment?",
+"annee": 2017,
+"type": "conférence",
+"lieu": "Ninth International Conference on Quality of Multimedia Experience (IEEE QoMEX)",
+"url": "https://hal.science/hal-01675800v1",
+"doi": "10.1109/qomex.2017.7965659"
+},
+{
+"id": "p31885a0116",
+"titre": "A FOVEATED SHORT TERM DISTORTION MODEL FOR PERCEPTUALLY OPTIMIZED DYNAMIC TEXTURES COMPRESSION IN HEVC",
+"annee": 2016,
+"type": "conférence",
+"lieu": "Picture Coding Symposium (PCS)",
+"url": "https://hal.science/hal-01481689v1"
+},
+{
+"id": "p5e5074ba57",
+"titre": "A Universal Framework for Salient Object Detection",
+"annee": 2016,
+"type": "journal",
+"lieu": "IEEE Transactions on Multimedia",
+"url": "https://hal.science/hal-01675158v1",
+"doi": "10.1109/tmm.2016.2592325"
+},
+{
+"id": "p87078d720b",
+"titre": "A data model for simulation models relying on spatio-temporal urban data",
+"annee": 2016,
+"type": "conférence",
+"lieu": "Eurographics Workshop on Urban Data Modelling and Visualisation",
+"url": "https://hal.science/hal-01521335v1",
+"doi": "10.2312/udmv.20161413"
+},
+{
+"id": "pae11d809f4",
+"titre": "A new HD and UHD video eye tracking dataset",
+"annee": 2016,
+"type": "conférence",
+"lieu": "ACM Multimedia Systems 2016",
+"url": "https://hal.science/hal-01438390v1",
+"doi": "10.1145/2910017.2910622"
+},
+{
+"id": "p5243a35c0d",
+"titre": "An adaptive Lagrange multiplier determination method for dynamic texture in HEVC",
+"annee": 2016,
+"type": "conférence",
+"lieu": "IEEE International Conference on Consumer Electronics-China (ICCE-China)",
+"url": "https://hal.science/hal-01481686v1",
+"doi": "10.1109/icce-china.2016.7849749"
+},
+{
+"id": "pda295cb1de",
+"titre": "Annealed learning based block transforms for HEVC video coding",
+"annee": 2016,
+"type": "conférence",
+"lieu": "IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
+"url": "https://hal.science/hal-01676964v1"
+},
+{
+"id": "p82a12c431a",
+"titre": "Computational modeling of artistic intention: Quantify lighting surprise for painting analysis",
+"annee": 2016,
+"type": "conférence",
+"lieu": "Eighth International Conference on Quality of Multimedia Experience (IEEE QoMEX)",
+"url": "https://hal.science/hal-01676092v1"
+},
+{
+"id": "p8c3f289e76",
+"titre": "DIBR-synthesized image quality assessment based on morphological multi-scale approach",
+"annee": 2016,
+"type": "journal",
+"lieu": "EURASIP Journal on Image and Video Processing",
+"url": "https://hal.science/hal-01675151v1",
+"doi": "10.1186/s13640-016-0124-7"
+},
+{
+"id": "p100fde4a94",
+"titre": "Deep Learning for Image Memorability Prediction : the Emotional Bias",
+"annee": 2016,
+"type": "conférence",
+"lieu": "ACM Multimedia 2016",
+"url": "https://hal.science/hal-01438323v1",
+"doi": "10.1145/2964284.2967269"
+},
+{
+"id": "p672c3af3fd",
+"titre": "Dual modulation for LED-backlit HDR displays",
+"annee": 2016,
+"type": "chapitre",
+"lieu": "High Dynamic Range Video: From Acquisition, to Display and Applications",
+"url": "https://hal.science/hal-01322655v1"
+},
+{
+"id": "p8c3d71b9f2",
+"titre": "Effect of content features on short-term video quality in the visual periphery",
+"annee": 2016,
+"type": "conférence",
+"lieu": "IEEE 18th International Workshop on Multimedia Signal Processing (MMSP)",
+"url": "https://hal.science/hal-01676959v1"
+},
+{
+"id": "p3bb288f37f",
+"titre": "Ego-city. Automatic textual description of urban ambiences’ factors",
+"annee": 2016,
+"type": "conférence",
+"lieu": "Ambiances, tomorrow. Proceedings of 3rd International Congress on Ambiances. Septembre 2016, Volos, Greece",
+"url": "https://hal.science/hal-01404442v1"
+},
+{
+"id": "p202ec2b91d",
+"titre": "Emotional Cities: imaginary future of ambiances explored in the Mobiance workshop",
+"annee": 2016,
+"type": "conférence",
+"lieu": "Ambiances, tomorrow. Proceedings of 3rd International Congress on Ambiances. Septembre 2016, Volos, Greece",
+"url": "https://hal.science/hal-01404443v1"
+},
+{
+"id": "pcf40405579",
+"titre": "Estimation of Perceptual Redundancies of HEVC Encoded Dynamic Textures",
+"annee": 2016,
+"type": "conférence",
+"lieu": "8th International Conference on Quality of Multimedia Experience",
+"url": "https://hal.science/hal-01332130v1"
+},
+{
+"id": "p0296c51f82",
+"titre": "Free viewpoint video quality assessment based on morphological multiscale metrics",
+"annee": 2016,
+"type": "conférence",
+"lieu": "Eighth International Conference on Quality of Multimedia Experience (IEEE QoMEX)",
+"url": "https://hal.science/hal-01676125v1"
+},
+{
+"id": "p0cbc8a01b3",
+"titre": "HDR Image and Video Quality Prediction",
+"annee": 2016,
+"type": "chapitre",
+"lieu": "High Dynamic Range Video – From Acquisition, to Display and Applications",
+"url": "https://hal.science/hal-01436053v1"
+},
+{
+"id": "p2e01f44d33",
+"titre": "HEVC saliency map computation",
+"annee": 2016,
+"type": "conférence",
+"lieu": "ELECTRONIC IMAGING 2016 : Human Vision and Electronic Imaging XX",
+"url": "https://hal.science/hal-01452180v1",
+"doi": "10.2352/issn.2470-1173.2016.16.hvei-107"
+},
+{
+"id": "pb3e703f776",
+"titre": "High Dynamic Range Video",
+"annee": 2016,
+"type": "ouvrage",
+"lieu": "",
+"url": "https://hal.science/hal-01436003v1"
+},
+{
+"id": "p5c558a6b6b",
+"titre": "High Dynamic Range Video - From Acquisition, to Display and Applications",
+"annee": 2016,
+"type": "ouvrage",
+"lieu": "",
+"url": "https://telecom-paris.hal.science/hal-02287218v1"
+},
+{
+"id": "p2fa90a2677",
+"titre": "How to Benchmark Objective Quality Metrics from Paired Comparison Data?",
+"annee": 2016,
+"type": "conférence",
+"lieu": "Eighth International Conference on Quality of Multimedia Experience (IEEE QoMEX)",
+"url": "https://hal.science/hal-01676971v1"
+},
+{
+"id": "pffe2e67c0a",
+"titre": "How to benchmark objective quality metrics from paired comparison data?",
+"annee": 2016,
+"type": "conférence",
+"lieu": "8th International Conference on Quality of Multimedia Experience (QoMEX)",
+"url": "https://nantes-universite.hal.science/hal-01395449v1",
+"doi": "10.1109/qomex.2016.7498960"
+},
+{
+"id": "p6a06c5fc9c",
+"titre": "Hybrid Visual and Inertial Position and Orientation Estimation based on Known Urban 3D Models",
+"annee": 2016,
+"type": "conférence",
+"lieu": "IPIN 2016, International conference on Indoor Positioning and Indoor Navigation",
+"url": "https://hal.science/hal-01451468v1",
+"doi": "10.1109/ipin.2016.7743619"
+},
+{
+"id": "pf01c3834e9",
+"titre": "INFLUENCE DE L'IMMERSION SUR LE COMPORTEMENT VISUEL DES OBSERVATEURS",
+"annee": 2016,
+"type": "conférence",
+"lieu": "ERIS 2016 : Eye, Regard, Interactions et Suppléances",
+"url": "https://hal.science/hal-01438378v1"
+},
+{
+"id": "p126b3e9465",
+"titre": "Impact of visual angle on attention deployment and robustness of visual saliency models in videos: From SD to UHD",
+"annee": 2016,
+"type": "conférence",
+"lieu": "IEEE International Conference on Image Processing 2016 (ICIP)",
+"url": "https://hal.science/hal-01438356v1",
+"doi": "10.1109/icip.2016.7532445"
+},
+{
+"id": "p0fcff00418",
+"titre": "Improved coefficient coding for adaptive transforms in HEVC",
+"annee": 2016,
+"type": "conférence",
+"lieu": "Picture Coding Symposium (IEEE PCS)",
+"url": "https://hal.science/hal-01676961v1"
+},
+{
+"id": "p56cb3248e4",
+"titre": "L'image émotionnelle et son contexte de présentation dans une optique de prédiction de sa mémorabilité",
+"annee": 2016,
+"type": "conférence",
+"lieu": "Digital Intelligence / Intelligences numériques",
+"url": "https://hal.science/hal-01322661v1"
+},
+{
+"id": "p526a1441ae",
+"titre": "Mapping Ambiances: a synopsis of theory and practices in an interdisciplinary perspective",
+"annee": 2016,
+"type": "conférence",
+"lieu": "Ambiances, tomorrow. Proceedings of 3rd International Congress on Ambiances. Septembre 2016, Volos, Greece",
+"url": "https://hal.science/hal-01414063v1"
+},
+{
+"id": "pccac5eaf84",
+"titre": "Modeling the Perceptual Distortion of Dynamic Textures and Its Application in HEVC",
+"annee": 2016,
+"type": "conférence",
+"lieu": "IEEE International Conference on Image Processing (ICIP)",
+"url": "https://hal.science/hal-01361445v1",
+"doi": "10.1109/icip.2016.7533068"
+},
+{
+"id": "pcd2520c29b",
+"titre": "Multi–Scale Synthesized View Assessment Based on Morphological Pyramids",
+"annee": 2016,
+"type": "journal",
+"lieu": "European Journal of Electrical Engineering",
+"url": "https://hal.science/hal-01675149v1",
+"doi": "10.1515/jee-2016-0001"
+},
+{
+"id": "pc924166880",
+"titre": "On the accuracy of objective image and video quality models: New methodology for performance evaluation",
+"annee": 2016,
+"type": "conférence",
+"lieu": "8th International Conference on Quality of Multimedia Experience (QoMEX)",
+"url": "https://nantes-universite.hal.science/hal-01395440v1",
+"doi": "10.1109/qomex.2016.7498936"
+},
+{
+"id": "p9f9ecc193b",
+"titre": "Performance and robustness of HDR objective quality metrics in the context of recent compression scenarios",
+"annee": 2016,
+"type": "conférence",
+"lieu": "Digital Media Industry and Academic Forum 2016",
+"url": "https://hal.science/hal-01438385v1",
+"doi": "10.1109/dmiaf.2016.7574903"
+},
+{
+"id": "p4544936fe4",
+"titre": "Quality of Experience and HDR: concepts and how to measure it",
+"annee": 2016,
+"type": "chapitre",
+"lieu": "High Dynamic Range Video: From Acquisition, to Display and Applications",
+"url": "https://hal.science/hal-01322653v1",
+"doi": "10.1016/b978-0-08-100412-8.00016-4"
+},
+{
+"id": "pea62309b5e",
+"titre": "Quantifying the relation between perceived interest and visual salience during free viewing using trellis based optimization",
+"annee": 2016,
+"type": "conférence",
+"lieu": "IEEE 12th Image, Video, and Multidimensional Signal Processing Workshop (IVMSP)",
+"url": "https://hal.science/hal-01676957v1"
+},
+{
+"id": "p4563abb687",
+"titre": "Role of HEVC coding artifacts on gaze prediction in interactive video streaming systems",
+"annee": 2016,
+"type": "conférence",
+"lieu": "IEEE International Conference on Image Processing (ICIP)",
+"url": "https://hal.science/hal-01676955v1"
+},
+{
+"id": "p7c9f70eca0",
+"titre": "Role of spatio-temporal distortions in the visual periphery in disrupting natural attention deployment",
+"annee": 2016,
+"type": "conférence",
+"lieu": "Electronic Imaging, Human Vision and Electronic Imaging",
+"url": "https://hal.science/hal-01676129v1"
+},
+{
+"id": "p6800b23b76",
+"titre": "Saliency-based stereoscopic image retargeting",
+"annee": 2016,
+"type": "journal",
+"lieu": "Information Sciences",
+"url": "https://hal.science/hal-01633853v1",
+"doi": "10.1016/j.ins.2016.08.062"
+},
+{
+"id": "p0490e85400",
+"titre": "Spatio-temporal error concealment technique for high order multiple description coding schemes including subjective assessment",
+"annee": 2016,
+"type": "conférence",
+"lieu": "2016 Eighth International Conference on Quality of Multimedia Experience (QoMEX)",
+"url": "https://hal.science/hal-01346406v1",
+"doi": "10.1109/qomex.2016.7498929"
+},
+{
+"id": "p6830252fbc",
+"titre": "Technical Note: Gray tracking in medical color displays-A report of Task Group 196",
+"annee": 2016,
+"type": "journal",
+"lieu": "Medical Physics",
+"url": "https://hal.science/hal-01675182v1",
+"doi": "10.1118/1.4953186"
+},
+{
+"id": "pec3cdaaeaa",
+"titre": "The Application of Visual Saliency Models in Objective Image Quality Assessment: A Statistical Evaluation",
+"annee": 2016,
+"type": "journal",
+"lieu": "IEEE Transactions on Neural Networks and Learning Systems",
+"url": "https://hal.science/hal-01675144v1",
+"doi": "10.1109/tnnls.2015.2461603"
+},
+{
+"id": "p3a128ef9de",
+"titre": "Using individual data to characterize emotional user experience and its memorability: focus on gender factor",
+"annee": 2016,
+"type": "conférence",
+"lieu": "Eighth International Conference on Quality of Multimedia Experience (QoMEX), 2016",
+"url": "https://hal.science/hal-01438375v1",
+"doi": "10.1109/qomex.2016.7498969"
+},
+{
+"id": "p229f80aef3",
+"titre": "Visual attention modeling for stereoscopic video",
+"annee": 2016,
+"type": "conférence",
+"lieu": "2016 IEEE International Conference on Multimedia & Expo Workshops (ICMEW)",
+"url": "https://hal.science/hal-01438315v1",
+"doi": "10.1109/icmew.2016.7574768"
+},
+{
+"id": "p5d35947340",
+"titre": "Visual saliency detection via image complexity feature",
+"annee": 2016,
+"type": "conférence",
+"lieu": "IEEE International Conference on Image Processing (ICIP)",
+"url": "https://hal.science/hal-01676970v1"
+},
+{
+"id": "pa92735e63c",
+"titre": "2D & 3D Visual Attention for Computer Vision: Concepts, Measurement, and Modeling",
+"annee": 2015,
+"type": "chapitre",
+"lieu": "Innovative Research in Attention Modeling and Computer Vision Applications.",
+"url": "https://hal.science/hal-01150634v1"
+},
+{
+"id": "pad4e931d0b",
+"titre": "A MULTI-SLICE MODEL OBSERVER FOR MEDICAL IMAGE QUALITY ASSESSMENT",
+"annee": 2015,
+"type": "conférence",
+"lieu": "ICASSP 2015 : International Conference on Acoustics, Speech, and Signal Processing",
+"url": "https://hal.science/hal-01108109v1"
+},
+{
+"id": "p05cebad1a6",
+"titre": "Construction of an individualized sensory space of tastes in water using skin blood flow responses",
+"annee": 2015,
+"type": "journal",
+"lieu": "Journal of Water Supply: Research and Technology - AQUA",
+"url": "https://univ-rennes.hal.science/hal-01329469v2",
+"doi": "10.2166/aqua.2015.073"
+},
+{
+"id": "p04c02d5ae3",
+"titre": "DIBR synthesized image quality assessment based on morphological wavelets",
+"annee": 2015,
+"type": "conférence",
+"lieu": "2015 Seventh International Workshop on Quality of Multimedia Experience (QoMEX)",
+"url": "https://hal.science/hal-01191237v1",
+"doi": "10.1109/qomex.2015.7148143"
+},
+{
+"id": "pcd9ee26a92",
+"titre": "Directional regularity for visual quality estimation",
+"annee": 2015,
+"type": "journal",
+"lieu": "Signal Processing",
+"url": "https://hal.science/hal-01150636v1",
+"doi": "10.1016/j.sigpro.2014.08.048"
+},
+{
+"id": "pbdd729f279",
+"titre": "Fractal Analysis for Reduced Reference Image Quality Assessment",
+"annee": 2015,
+"type": "journal",
+"lieu": "IEEE Transactions on Image Processing",
+"url": "https://hal.science/hal-01150624v1",
+"doi": "10.1109/tip.2015.2413298"
+},
+{
+"id": "p033e72ba4e",
+"titre": "Gérer les informations temporelles dans et par les modèles informatiques",
+"annee": 2015,
+"type": "journal",
+"lieu": "Revue Internationale de Géomatique",
+"url": "https://hal.science/hal-01259330v1",
+"doi": "10.3166/rig.25.415-436"
+},
+{
+"id": "p7365df92e3",
+"titre": "HDR-VQM: An Objective Quality Measure for High Dynamic Range Video",
+"annee": 2015,
+"type": "journal",
+"lieu": "Signal Processing: Image Communication",
+"url": "https://hal.science/hal-01149516v1",
+"doi": "10.1016/j.image.2015.04.009"
+},
+{
+"id": "pf10e88f01b",
+"titre": "High Dynamic Range Visual Quality of Experience Measurement: Challenges and Perspectives",
+"annee": 2015,
+"type": "chapitre",
+"lieu": "Visual Signal Quality Assessment - Quality of Experience (QoE)",
+"url": "https://hal.science/hal-01151591v1",
+"doi": "10.1007/978-3-319-10368-6_5"
+},
+{
+"id": "pd429858b2b",
+"titre": "Impact of Visual Cues on Climate Perception in Virtual Urban Environments: A User Study",
+"annee": 2015,
+"type": "conférence",
+"lieu": "19th International Conference on Information Visualisation",
+"url": "https://hal.science/hal-02478707v1",
+"doi": "10.1109/iv.2015.89"
+},
+{
+"id": "p88ea334391",
+"titre": "Introduction to the Issue on Interactive Media Processing for Immersive Communication",
+"annee": 2015,
+"type": "journal",
+"lieu": "IEEE Journal of Selected Topics in Signal Processing",
+"url": "https://hal.science/hal-01694305v1",
+"doi": "10.1109/jstsp.2015.2406092"
+},
+{
+"id": "p2b6e0dccbc",
+"titre": "Les ambiances du projet urbain à travers les outils numériques mobiles",
+"annee": 2015,
+"type": "conférence",
+"lieu": "Mutation du projet, cultures et milieux numériques",
+"url": "https://hal.science/hal-01521552v1"
+},
+{
+"id": "ped34b99134",
+"titre": "Local texture synthesis: A static texture coding algorithm fully compatible with HEVC",
+"annee": 2015,
+"type": "conférence",
+"lieu": "International Conference on Systems, Signals and Image Processing (IWSSIP)",
+"url": "https://hal.science/hal-01327166v1",
+"doi": "10.1109/iwssip.2015.7313931"
+},
+{
+"id": "p725b22a2d4",
+"titre": "Objective Video Quality Assessment - Towards Large Scale Video Database Enhanced Model Development",
+"annee": 2015,
+"type": "journal",
+"lieu": "IEICE Transactions on Communications",
+"url": "https://hal.science/hal-01149228v1",
+"doi": "10.1587/transcom.e98.b.2"
+},
+{
+"id": "pa838ae52e5",
+"titre": "Objective image quality assessment of 3D synthesized views",
+"annee": 2015,
+"type": "journal",
+"lieu": "Signal Processing: Image Communication",
+"url": "https://hal.science/hal-01150648v1",
+"doi": "10.1016/j.image.2014.10.005"
+},
+{
+"id": "p65955095d4",
+"titre": "Open perceptual binocular and monocular descriptors for stereoscopic 3D images and video characterization",
+"annee": 2015,
+"type": "conférence",
+"lieu": "Seventh International Workshop on Quality of Multimedia Experience (QoMEX) 2015",
+"url": "https://hal.science/hal-01160476v1"
+},
+{
+"id": "pa5e164a4f3",
+"titre": "PERFORMANCE ANALYSIS OF TEXTURE SIMILARITY METRICS IN HEVC INTRA PREDICTION",
+"annee": 2015,
+"type": "conférence",
+"lieu": "Video Processing and Quality Metrics for Consumer Electronics (VPQM)",
+"url": "https://hal.science/hal-01150595v1"
+},
+{
+"id": "p633de08442",
+"titre": "Perceived interest and overt visual attention in natural images",
+"annee": 2015,
+"type": "journal",
+"lieu": "Signal Processing: Image Communication",
+"url": "https://hal.science/hal-01150613v1",
+"doi": "10.1016/j.image.2015.03.004"
+},
+{
+"id": "p18e27a8991",
+"titre": "Perceived interest versus overt visual attention in image quality assessment",
+"annee": 2015,
+"type": "conférence",
+"lieu": "Human Vision and Electronic Imaging XX",
+"url": "https://hal.science/hal-01160456v1",
+"doi": "10.1117/12.2086371"
+},
+{
+"id": "p7f50d0e300",
+"titre": "Rendering of HDR content on LDR displays: An objective approach",
+"annee": 2015,
+"type": "conférence",
+"lieu": "SPIE Optics + Photonics, Applications of Digital Image Processing XXXVIII",
+"url": "https://nantes-universite.hal.science/hal-01395520v1"
+},
+{
+"id": "pa3ec5b07ac",
+"titre": "Study of high dynamic range video quality assessment",
+"annee": 2015,
+"type": "conférence",
+"lieu": "SPIE Optical Engineering + Applications",
+"url": "https://hal.science/hal-03272989v1",
+"doi": "10.1117/12.2189178"
+},
+{
+"id": "p4d74bf1c68",
+"titre": "Subjective quality assessment comparing UHD and HD resolution in HEVC transmission chains",
+"annee": 2015,
+"type": "conférence",
+"lieu": "Seventh International Workshop on Quality of Multimedia Experience (QoMEX) 2015",
+"url": "https://hal.science/hal-01160493v1",
+"doi": "10.1109/qomex.2015.7148114"
+},
+{
+"id": "pf264a2a821",
+"titre": "TEXTURE SIMILARITY METRICS APPLIED TO HEVC INTRA PREDICTION",
+"annee": 2015,
+"type": "conférence",
+"lieu": "The third Sino-French Workshop on Information and Communication Technologies, SIFWICT 2015",
+"url": "https://hal.science/hal-01164951v1"
+},
+{
+"id": "p9de76674f5",
+"titre": "The impact of complexity in the rate-distortion optimization: A visualization tool",
+"annee": 2015,
+"type": "conférence",
+"lieu": "22nd INTERNATIONAL CONFERENCE ON SYSTEMS, SIGNALS AND IMAGE PROCESSING (IWSSIP 2015)",
+"url": "https://hal.science/hal-01346405v1",
+"doi": "10.1109/iwssip.2015.7314173"
+},
+{
+"id": "pdb399cd804",
+"titre": "Think again about my picture: different approaches investigating factors of influence in profile images context perception",
+"annee": 2015,
+"type": "conférence",
+"lieu": "Sino-French Research Center in Information and Communication (SIFWICT) 2015",
+"url": "https://hal.science/hal-01288511v1"
+},
+{
+"id": "p5b88ac7740",
+"titre": "Tomographic reconstruction of rainfall maps using attenuation data from cellular networks: the first results based on the Mojette Transform",
+"annee": 2015,
+"type": "conférence",
+"lieu": "Rainfall in Urban and Natural Systems",
+"url": "https://hal.science/hal-02555735v1"
+},
+{
+"id": "p4bc1fe8097",
+"titre": "UHD image reconstruction by estimating interpolation error",
+"annee": 2015,
+"type": "conférence",
+"lieu": "Image Processing (ICIP), 2015 IEEE International Conference on",
+"url": "https://hal.science/hal-01289204v1",
+"doi": "10.1109/icip.2015.7351707"
+},
+{
+"id": "p31d8cae702",
+"titre": "UrbApp : On-site urban materials acquisition",
+"annee": 2015,
+"type": "conférence",
+"lieu": "Challenges and Applications of Urban Augmented Reality workshop",
+"url": "https://hal.science/hal-01521555v1"
+},
+{
+"id": "p9e9b5833c0",
+"titre": "Video Quality Assessment of HDR Content",
+"annee": 2015,
+"type": "conférence",
+"lieu": "Workshop on Future Video Coding Applications and Technologies",
+"url": "https://hal.science/hal-01289211v1"
+},
+{
+"id": "p3022a8b830",
+"titre": "Video quality assessment of HDR content (and beyond)",
+"annee": 2015,
+"type": "conférence",
+"lieu": "VESA",
+"url": "https://hal.science/hal-01289276v1"
+},
+{
+"id": "p83b2d4f352",
+"titre": "Visual Discomfort in 3DTV: Definitions, Causes, Measurement, and Modeling",
+"annee": 2015,
+"type": "chapitre",
+"lieu": "Novel 3D Media Technologies",
+"url": "https://hal.science/hal-01150699v1",
+"doi": "10.1007/978-1-4939-2026-6_10"
+},
+{
+"id": "pa33253e2c6",
+"titre": "Visual saliency in MPEG-4 AVC video stream",
+"annee": 2015,
+"type": "conférence",
+"lieu": "Human Vision and Electronic Imaging XX",
+"url": "https://hal.science/hal-01160463v1",
+"doi": "10.1117/12.2079407"
+},
+{
+"id": "pe823c99086",
+"titre": "What do you think of my picture? Investigating factors of influence in profile images context perception",
+"annee": 2015,
+"type": "conférence",
+"lieu": "Human Vision and Electronic Imaging XX",
+"url": "https://hal.science/hal-01149535v1",
+"doi": "10.1117/12.2082817"
+},
+{
+"id": "p38d4adab94",
+"titre": "3D Video",
+"annee": 2014,
+"type": "chapitre",
+"lieu": "Advanced Concepts, Applications and Methods",
+"url": "https://hal.science/hal-01150713v1",
+"doi": "10.1007/978-3-319-02681-7_20"
+},
+{
+"id": "p0699f3c711",
+"titre": "3D image quality assessment using Takagi-Sugeno-Kang fuzzy modele",
+"annee": 2014,
+"type": "conférence",
+"lieu": "IEEE 12th International Symposium on Intelligent Systems and Informatics (SISY), 2014",
+"url": "https://hal.science/hal-01160439v1",
+"doi": "10.1109/sisy.2014.6923607"
+},
+{
+"id": "p2a11ddd9c9",
+"titre": "AN EYE TRACKING DATABASE FOR STEREOSCOPIC VIDEO",
+"annee": 2014,
+"type": "conférence",
+"lieu": "Quality of Multimedia Experience (QoMEX 2014)",
+"url": "https://hal.science/hal-01095107v1"
+},
+{
+"id": "p387c187a70",
+"titre": "An automated approach for tone mapping operator parameter adjustment in security applications",
+"annee": 2014,
+"type": "conférence",
+"lieu": "Optics, Photonics, and Digital Technologies for Multimedia Applications III",
+"url": "https://hal.science/hal-01011232v1"
+},
+{
+"id": "pd75ee6381b",
+"titre": "An objective method for High Dynamic Range source content selection",
+"annee": 2014,
+"type": "conférence",
+"lieu": "Sixth International Workshop on Quality of Multimedia Experience (QoMEX)",
+"url": "https://hal.science/hal-01160443v1",
+"doi": "10.1109/qomex.2014.6982279"
+},
+{
+"id": "p209b073b74",
+"titre": "An overview of model observers",
+"annee": 2014,
+"type": "journal",
+"lieu": "Innovation and Research in BioMedical engineering",
+"url": "https://hal.science/hal-01011202v1",
+"doi": "10.1016/j.irbm.2014.04.002"
+},
+{
+"id": "p35982e9452",
+"titre": "Assessing the Quality of Experience of 3DTV and Beyond: Tackling the Multidimensional Sensation",
+"annee": 2014,
+"type": "chapitre",
+"lieu": "3D Future Internet Media",
+"url": "https://hal.science/hal-01150710v1",
+"doi": "10.1007/978-1-4614-8373-1_11"
+},
+{
+"id": "p549f0b4319",
+"titre": "Challenges of Image-Based Crowd-Sourcing for Situation Awareness in Disaster Management",
+"annee": 2014,
+"type": "chapitre",
+"lieu": "Improving Disaster Resilience and Mitigation - IT Means and Tools",
+"url": "https://hal.science/hal-01521560v1",
+"doi": "10.1007/978-94-017-9136-6_7"
+},
+{
+"id": "p823e816979",
+"titre": "Characterization of the quality, the intensity and the pleasantness of the taste of water using physiological data",
+"annee": 2014,
+"type": "conférence",
+"lieu": "6th European Conference on Sensory and Consumer Research",
+"url": "https://hal.science/hal-01192876v1"
+},
+{
+"id": "p29830347e4",
+"titre": "Communication multimodale et collaboration instrumentée pour le design urbain : opportunités et risques des outils mobiles analysés à travers l’expérience du workshop MOBIANCE",
+"annee": 2014,
+"type": "conférence",
+"lieu": "COMMON'14 - Communication multimodale et collaboration instrumentée. Regards croisés sur Énonciations, Représentations, Modalités",
+"url": "https://shs.hal.science/halshs-01246940v1"
+},
+{
+"id": "pb5ad1b1bec",
+"titre": "Comparing upscaling algorithms from HD to ultra HD by evaluating preference of experience",
+"annee": 2014,
+"type": "conférence",
+"lieu": "The International Workshop on Quality of Multimedia Experience (QoMEX) 2014",
+"url": "https://hal.science/hal-01071465v1",
+"doi": "10.1109/qomex.2014.6982320"
+},
+{
+"id": "p0c5f7e6104",
+"titre": "Editorial: Special issue on advances in high dynamic range video research",
+"annee": 2014,
+"type": "journal",
+"lieu": "Signal Processing: Image Communication",
+"url": "https://hal.science/hal-01011219v1",
+"doi": "10.1016/j.image.2014.01.008"
+},
+{
+"id": "pb069ae904f",
+"titre": "Emotional movie: A new art form designed at the heart of human-technology interaction",
+"annee": 2014,
+"type": "conférence",
+"lieu": "Digital Intelligence",
+"url": "https://hal.science/hal-01150756v1"
+},
+{
+"id": "p8112629cd1",
+"titre": "Evaluating complex scales through subjective ranking",
+"annee": 2014,
+"type": "conférence",
+"lieu": "Sixth International Workshop on Quality of Multimedia Experience (QoMEX) 2014",
+"url": "https://hal.science/hal-01160471v1",
+"doi": "10.1109/qomex.2014.6982336"
+},
+{
+"id": "p92c01d431e",
+"titre": "Experimenting Texture Similarity Metric STSIM for Intra Prediction Mode Selection and Block Partitiong in HEVC",
+"annee": 2014,
+"type": "conférence",
+"lieu": "Digital Signal Processing (DSP)",
+"url": "https://hal.science/hal-01101084v1"
+},
+{
+"id": "pa3083ec2a1",
+"titre": "Exploring the effects of 3D visual discomfort on viewers' emotions",
+"annee": 2014,
+"type": "conférence",
+"lieu": "IEEE International Conference on Image Processing (ICIP), 2014",
+"url": "https://hal.science/hal-01160421v1",
+"doi": "10.1109/icip.2014.7025151"
+},
+{
+"id": "p533798eb92",
+"titre": "Free-viewpoint video sequences: A new challenge for objective quality metrics",
+"annee": 2014,
+"type": "conférence",
+"lieu": "IEEE 16th International Workshop on Multimedia Signal Processing (MMSP), 2014",
+"url": "https://hal.science/hal-01160426v1",
+"doi": "10.1109/mmsp.2014.6958832"
+},
+{
+"id": "pbd006265c1",
+"titre": "Global scheme for iterative mojette reconstructions",
+"annee": 2014,
+"type": "conférence",
+"lieu": "International Conference on Image Processing",
+"url": "https://hal.science/hal-01133244v1",
+"doi": "10.1109/icip.2014.7025350"
+},
+{
+"id": "pe0e71b3a92",
+"titre": "HDR-VDP-2.2: a calibrated method for objective quality prediction of high-dynamic range and standard images: a calibrated method for objective quality prediction of high-dynamic range and standard images",
+"annee": 2014,
+"type": "journal",
+"lieu": "Journal of Electronic Imaging",
+"url": "https://hal.science/hal-01149491v1",
+"doi": "10.1117/1.jei.24.1.010501"
+},
+{
+"id": "p3d13215ccf",
+"titre": "Historical Knowledge Management Through Virtual Reality: Theoretical Aspects and Experiment Proposal",
+"annee": 2014,
+"type": "conférence",
+"lieu": "Digital Intelligence",
+"url": "https://hal.science/hal-01062341v1"
+},
+{
+"id": "pb7d079de4f",
+"titre": "How visual discomfort affects 3DTV viewers' emotional arousal",
+"annee": 2014,
+"type": "conférence",
+"lieu": "3DTV-Conference: The True Vision - Capture, Transmission and Display of 3D Video (3DTV-CON), 2014",
+"url": "https://hal.science/hal-01059975v1",
+"doi": "10.1109/3dtv.2014.6874718"
+},
+{
+"id": "pa0ec9ddd93",
+"titre": "IMPACT OF TONE MAPPING IN HIGH DYNAMIC RANGE IMAGE COMPRESSION",
+"annee": 2014,
+"type": "conférence",
+"lieu": "VPQM",
+"url": "https://hal.science/hal-00951331v1"
+},
+{
+"id": "p9795472f6a",
+"titre": "Le comportement oculaire et la réaction émotionnelle pour déterminer le scénario d’un film interactif",
+"annee": 2014,
+"type": "conférence",
+"lieu": "ERIS' 2014 Eye-tracking, Regard, Interaction et Suppléances",
+"url": "https://hal.science/hal-01150751v1"
+},
+{
+"id": "pb6a7011378",
+"titre": "Learning visual saliency for stereoscopic images",
+"annee": 2014,
+"type": "conférence",
+"lieu": "IEEE International Conference on Multimedia and Expo Workshops (ICMEW), 2014",
+"url": "https://hal.science/hal-01160441v1",
+"doi": "10.1109/icmew.2014.6890709"
+},
+{
+"id": "p7dd2435e07",
+"titre": "Measuring perceived depth in natural images and study of its relation with monocular and binocular depth cues",
+"annee": 2014,
+"type": "conférence",
+"lieu": "SPIE Electronic Imaging 2014",
+"url": "https://hal.science/hal-00949945v1"
+},
+{
+"id": "pd2e58e3484",
+"titre": "Numerical Stability issues on Channelized Hotelling Observer under different background assumptions",
+"annee": 2014,
+"type": "journal",
+"lieu": "Journal of the Optical Society of America. A Optics, Image Science, and Vision",
+"url": "https://inserm.hal.science/inserm-00986008v1"
+},
+{
+"id": "p42d01722ee",
+"titre": "Objective evaluation of naturalness, contrast, and colorfulness of tone-mapped images",
+"annee": 2014,
+"type": "conférence",
+"lieu": "SPIE Optics + Photonics, Applications of Digital Image Processing XXXVII",
+"url": "https://nantes-universite.hal.science/hal-01395543v1",
+"doi": "10.1117/12.2075270"
+},
+{
+"id": "p38c22acf2f",
+"titre": "On Improving the Pooling in HDR-VDP-2 towards Better HDR Perceptual Quality Assessment",
+"annee": 2014,
+"type": "conférence",
+"lieu": "Human Vision and Electronic Imaging 2014",
+"url": "https://hal.science/hal-00951337v1"
+},
+{
+"id": "pe3d5445ef9",
+"titre": "On viewing distance and visual quality assessment in the age of Ultra High Definition TV",
+"annee": 2014,
+"type": "journal",
+"lieu": "VQEG eLetter",
+"url": "https://hal.science/hal-01150427v1"
+},
+{
+"id": "paf91ba1e91",
+"titre": "Optimizing feature pooling and prediction models of VQA algorithms",
+"annee": 2014,
+"type": "conférence",
+"lieu": "IEEE International Conference on Image Processing (ICIP), 2014",
+"url": "https://hal.science/hal-01160416v1",
+"doi": "10.1109/icip.2014.7025108"
+},
+{
+"id": "p669e5a1b92",
+"titre": "Outils numériques mobiles, ambiances et design urbain : quelques résultats issus du workshop pluridisciplinaire MOBIANCE",
+"annee": 2014,
+"type": "conférence",
+"lieu": "Scan'14",
+"url": "https://hal.science/hal-01521554v1"
+},
+{
+"id": "p98b32d7dba",
+"titre": "Prédiction de la perception sensorielle des goûts de l’eau par l’utilisation de mesures physiologiques : la microcirculation cutanée",
+"annee": 2014,
+"type": "journal",
+"lieu": "L'Actualité Chimique",
+"url": "https://hal.science/hal-01192869v1"
+},
+{
+"id": "pf1ca716aa5",
+"titre": "Reduced reference image quality assessment using regularity of phase congruency",
+"annee": 2014,
+"type": "journal",
+"lieu": "Signal Processing: Image Communication",
+"url": "https://hal.science/hal-01074889v1",
+"doi": "10.1016/j.image.2014.06.007"
+},
+{
+"id": "p9405e5f5a8",
+"titre": "Robust drift-free bit-rate preserving H.264 watermarking",
+"annee": 2014,
+"type": "journal",
+"lieu": "Multimedia Systems",
+"url": "https://hal.science/hal-00951742v1",
+"doi": "10.1007/s00530-013-0329-x"
+},
+{
+"id": "pbc67059377",
+"titre": "SINGLE EXPOSURE VS TONE MAPPED HIGH DYNAMIC RANGE IMAGES: A STUDY BASED ON QUALITY OF EXPERIENCE",
+"annee": 2014,
+"type": "conférence",
+"lieu": "22nd European Signal Processing Conference (EUSIPCO)",
+"url": "https://hal.science/hal-01160440v1"
+},
+{
+"id": "pbd7ff34847",
+"titre": "Saliency Detection for Stereoscopic Images",
+"annee": 2014,
+"type": "journal",
+"lieu": "IEEE Transactions on Image Processing",
+"url": "https://hal.science/hal-01059986v1",
+"doi": "10.1109/tip.2014.2305100"
+},
+{
+"id": "p3e4ad9fc44",
+"titre": "Stereoscopic image retargeting based on 3D saliency detection",
+"annee": 2014,
+"type": "conférence",
+"lieu": "IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2014",
+"url": "https://hal.science/hal-01160444v1",
+"doi": "10.1109/icassp.2014.6853680"
+},
+{
+"id": "p9589fad27a",
+"titre": "Tastes and odors of water - Quantifying objective analyses: a review",
+"annee": 2014,
+"type": "journal",
+"lieu": "Critical Reviews in Environmental Science and Technology",
+"url": "https://hal.science/hal-00957990v1",
+"doi": "10.1080/10643389.2013.829972"
+},
+{
+"id": "p7b1b77ee9f",
+"titre": "Tone mapping based HDR compression: Does it affect visual experience?",
+"annee": 2014,
+"type": "journal",
+"lieu": "Signal Processing: Image Communication",
+"url": "https://hal.science/hal-00951175v1",
+"doi": "10.1016/j.image.2013.09.005"
+},
+{
+"id": "p9ca1702fd3",
+"titre": "UDMV14: Eurographics Workshop on Urban Data Modelling and Visualisation",
+"annee": 2014,
+"type": "ouvrage",
+"lieu": "",
+"url": "https://hal.science/hal-02068673v1"
+},
+{
+"id": "p87df2960f1",
+"titre": "Un casque EEG grand public pour évaluer la qualité d'image ?",
+"annee": 2014,
+"type": "conférence",
+"lieu": "SNCLF 2014 - L'œil, le cerveau et au-delà",
+"url": "https://hal.science/hal-01150763v1"
+},
+{
+"id": "p436a7530eb",
+"titre": "Using full-reference image quality metrics for automatic image sharpening",
+"annee": 2014,
+"type": "conférence",
+"lieu": "Optics, Photonics, and Digital Technologies for Multimedia Applications III",
+"url": "https://hal.science/hal-01011231v1",
+"doi": "10.1117/12.2052275"
+},
+{
+"id": "p7e686a15c7",
+"titre": "Using metrics to evaluate and improve text-based information visualization in 3D urban environment",
+"annee": 2014,
+"type": "conférence",
+"lieu": "WSCG'2014 - 22nd International Conference in Central Europe on Computer Graphics, Visualization and Computer Vision'2014",
+"url": "https://hal.science/hal-01502814v1"
+},
+{
+"id": "p2768f7009e",
+"titre": "Validation of reliable 3DTV subjective assessment methodology - Establishing a Ground Truth Database",
+"annee": 2014,
+"type": "journal",
+"lieu": "VQEG eLetter",
+"url": "https://hal.science/hal-01150440v1"
+},
+{
+"id": "p4a41cd37bb",
+"titre": "Visual discomfort of stereoscopic 3D videos: Influence of 3D motion",
+"annee": 2014,
+"type": "journal",
+"lieu": "Displays",
+"url": "https://hal.science/hal-00951170v1",
+"doi": "10.1016/j.displa.2014.01.002"
+},
+{
+"id": "p14065c4a2b",
+"titre": "Would you hire me ? Selfie portrait images perception in a recruitment context",
+"annee": 2014,
+"type": "conférence",
+"lieu": "SPIE HVEI XIX",
+"url": "https://hal.science/hal-00952704v1"
+},
+{
+"id": "p4a1e413250",
+"titre": "A Comparative Study of Fixation Density Maps",
+"annee": 2013,
+"type": "journal",
+"lieu": "IEEE Transactions on Image Processing",
+"url": "https://hal.science/hal-00757423v1",
+"doi": "10.1109/tip.2012.2227767"
+},
+{
+"id": "p00e1a080a1",
+"titre": "A QUALITY ASSESSMENT PROTOCOL FOR FREE-VIEWPOINT VIDEO SEQUENCES SYNTHESIZED FROM DECOMPRESSED DEPTH DATA",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Fifth International Workshop on Quality of Multimedia Experience (QoMEX)",
+"url": "https://hal.science/hal-01011243v1",
+"doi": "10.1109/qomex.2013.6603218"
+},
+{
+"id": "pdc1a38469c",
+"titre": "A computational model of stereoscopic 3D visual saliency",
+"annee": 2013,
+"type": "journal",
+"lieu": "IEEE Transactions on Image Processing",
+"url": "https://hal.science/hal-00788847v1",
+"doi": "10.1109/tip.2013.2246176"
+},
+{
+"id": "p5c6a7adf84",
+"titre": "A wavelet-based image quality metric for the assessment of 3D synthesized views",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Stereoscopic Displays and Applications XXIV",
+"url": "https://hal.science/hal-00795062v1"
+},
+{
+"id": "pb46bec38db",
+"titre": "Adaptive Contrast Adjustment for Postprocessing of Tone Mapped High Dynamic Range Images",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Proceedings of the IEEE International Symposium on Circuits and Systems (ISCAS) 2013",
+"url": "https://nantes-universite.hal.science/hal-00825879v1"
+},
+{
+"id": "p8479190f18",
+"titre": "Boosting Paired Comparison methodology in measuring visual discomfort of 3DTV: performances of three di erent designs",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Proceedings of SPIE, the International Society for Optical Engineering",
+"url": "https://hal.science/hal-00789033v1",
+"doi": "10.1117/12.2002075"
+},
+{
+"id": "p24484f82b3",
+"titre": "Channelized model observer for the detection and estimation of signals with unknown amplitude, orientation, and size.",
+"annee": 2013,
+"type": "journal",
+"lieu": "Journal of the Optical Society of America. A Optics, Image Science, and Vision",
+"url": "https://inserm.hal.science/inserm-00954609v1",
+"doi": "10.1364/josaa.30.002422"
+},
+{
+"id": "pc4ace27266",
+"titre": "Concurrent Geometric, Structural and Environmental Design: Louvre Abu Dhabi",
+"annee": 2013,
+"type": "chapitre",
+"lieu": "Advances in Architectural Geometry 2012",
+"url": "https://hal.science/hal-01501962v1",
+"doi": "10.1007/978-3-7091-1251-9_6"
+},
+{
+"id": "pa2d24a4783",
+"titre": "Cross-lab study on Preference of Experiencein 3DTV: Influence from display technology and test environment",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Fifth International Workshop on Quality of Multimedia Experience",
+"url": "https://hal.science/hal-00860265v1"
+},
+{
+"id": "pf6f792bed5",
+"titre": "Cross-lab study on preference of experience in *DTV: influence from display technology and test environment",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Fifth International Workshop on Quality of Multimedia Experience",
+"url": "https://telecom-paris.hal.science/hal-02412495v1"
+},
+{
+"id": "p0919bbaca4",
+"titre": "Design of a Visual Query Language for Geographic Information System on a Touch Screen",
+"annee": 2013,
+"type": "conférence",
+"lieu": "15th International Conference on Human Computer Interaction International (HCI 2013)",
+"url": "https://hal.science/hal-00850386v1",
+"doi": "10.1007/978-3-642-39330-3_57"
+},
+{
+"id": "p91ccd9961d",
+"titre": "Effect of JPEG2000 Compression on the Visual Quality of Virtual Liver Biopsy Slides: Subjective and Objective Measurements",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Medical Image Perception Conference XV (MIPS XV)",
+"url": "https://hal.science/hal-00991962v1"
+},
+{
+"id": "p58900af1a3",
+"titre": "Eurographics Workshop on Urban Data Modelling and Visualisation",
+"annee": 2013,
+"type": "ouvrage",
+"lieu": "",
+"url": "https://hal.science/hal-02068666v1"
+},
+{
+"id": "paabd50e150",
+"titre": "Feeling the urban project: the use of virtual reality for a perceptual approach of the urban climatic environment",
+"annee": 2013,
+"type": "conférence",
+"lieu": "EAEA11 - 11th European Architectural Envisioning Association Conference",
+"url": "https://hal.science/hal-02476418v1"
+},
+{
+"id": "p2275731327",
+"titre": "How Does Image Content Affect the Added Value of Visual Attention in Objective Image Quality Assessment?",
+"annee": 2013,
+"type": "journal",
+"lieu": "IEEE Signal Processing Letters",
+"url": "https://hal.science/hal-00788386v1",
+"doi": "10.1109/lsp.2013.2243725"
+},
+{
+"id": "p7fe1a622d6",
+"titre": "How visual fatigue and discomfort impact 3D-TV quality of experience: a comprehensive review of technological, psychophysical, and psychological factors",
+"annee": 2013,
+"type": "journal",
+"lieu": "Annals of Telecommunications - annales des télécommunications",
+"url": "https://hal.science/hal-00908812v1",
+"doi": "10.1007/s12243-013-0394-3"
+},
+{
+"id": "pdb5a934b06",
+"titre": "Investigating Electrophysiology for Measuring Emotions Triggered by Audio Stimuli",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Asilomar Conference on Signals, Systems and Computers 2013",
+"url": "https://hal.science/hal-00952696v1"
+},
+{
+"id": "pe2e7d78097",
+"titre": "Low-Cost Eye Gaze Prediction System for Interactive Networked Video Streaming",
+"annee": 2013,
+"type": "journal",
+"lieu": "IEEE Transactions on Multimedia",
+"url": "https://hal.science/hal-00951737v1",
+"doi": "10.1109/tmm.2013.2272918"
+},
+{
+"id": "p1ba072b3d9",
+"titre": "Methodologies for Assessing 3D QoE: Standards and Explorative Studies",
+"annee": 2013,
+"type": "journal",
+"lieu": "ZTE Communications",
+"url": "https://hal.science/hal-00816122v1"
+},
+{
+"id": "p3901c2a402",
+"titre": "Modèle numérique pour l'évaluation objective de la qualité d'images médicales 2D",
+"annee": 2013,
+"type": "conférence",
+"lieu": "GRETSI 2013",
+"url": "https://hal.science/hal-00992021v1"
+},
+{
+"id": "pdc93631ca9",
+"titre": "Objectivation des mesures sensorielles des goûts de l'eau par l'utilisation d'indicateurs des systèmes nerveux central et autonome",
+"annee": 2013,
+"type": "conférence",
+"lieu": "4ème colloque recherche de la Fédération Gay-Lussac",
+"url": "https://hal.science/hal-01192880v1"
+},
+{
+"id": "p10fe3d2865",
+"titre": "Objectivation of sensory measurements of off-flavours in water using central and autonomic nervous systems responses",
+"annee": 2013,
+"type": "conférence",
+"lieu": "10th IWA Symposium on Off-Flavours in the Aquatic Environment",
+"url": "https://hal.science/hal-01192878v1"
+},
+{
+"id": "p222bb6576e",
+"titre": "Objective quality, intensity and hedonic dimensions prediction using sensory analysis and physiological measurements",
+"annee": 2013,
+"type": "conférence",
+"lieu": "10th Pangborn Sensory Science Symposium",
+"url": "https://hal.science/hal-01192874v1"
+},
+{
+"id": "p91d263f161",
+"titre": "Perceptual preference of S3D over 2D for HDTV in dependence of video quality and depth",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Proceeding of the 2013 IEEE 11th IVMSP Workshop",
+"url": "https://hal.science/hal-00999659v1",
+"doi": "10.1109/ivmspw.2013.6611905"
+},
+{
+"id": "pbfb1b27a13",
+"titre": "Pertinence des modèles du SVH pour la sensation et la perception des images médicales",
+"annee": 2013,
+"type": "conférence",
+"lieu": "GRETSI 2013",
+"url": "https://hal.science/hal-01061643v1"
+},
+{
+"id": "p622411ce89",
+"titre": "Pertinence des modèles du SVH pour la tâche de détection de lésions SEP sur des IRMs",
+"annee": 2013,
+"type": "conférence",
+"lieu": "GRETSI 2013",
+"url": "https://hal.science/hal-00992007v1"
+},
+{
+"id": "p33011eb634",
+"titre": "QoE for Telemedicine: Challenges and Trends",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Conference on Applications of Digital Image Processing",
+"url": "https://hal.science/hal-00991967v1"
+},
+{
+"id": "p2871e6c177",
+"titre": "QoE in medical imaging",
+"annee": 2013,
+"type": "conférence",
+"lieu": "COST Qualinet Fifth Qualinet General Meeting",
+"url": "https://hal.science/hal-01059646v1"
+},
+{
+"id": "p4de7dd4948",
+"titre": "Recent Advances in Standardization on 3D Quality of Experience",
+"annee": 2013,
+"type": "journal",
+"lieu": "IEEE COMSOCMMTC E-Letter",
+"url": "https://hal.science/hal-00860236v1"
+},
+{
+"id": "p3972d5084a",
+"titre": "SUBJECTIVE ASSESSMENT METHODOLOGY FOR PREFERENCE OF EXPERIENCE IN 3DTV",
+"annee": 2013,
+"type": "conférence",
+"lieu": "11th IEEE IVMSP Workshop : 3D Image/Video Technologies and Applications",
+"url": "https://hal.science/hal-00860258v1"
+},
+{
+"id": "pdfbd02de3a",
+"titre": "Saliency detection for stereoscopic images",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Visual Communications and Image Processing (VCIP), 2013",
+"url": "https://hal.science/hal-00932125v1",
+"doi": "10.1109/vcip.2013.6706346"
+},
+{
+"id": "pbd86f6bddb",
+"titre": "Selecting scenes for 2D and 3D subjective video quality tests",
+"annee": 2013,
+"type": "journal",
+"lieu": "EURASIP Journal on Image and Video Processing",
+"url": "https://hal.science/hal-00950552v1",
+"doi": "10.1186/1687-5281-2013-50"
+},
+{
+"id": "p0fa478d834",
+"titre": "Sensitive suggestion and perception of climatic effects in virtual urban environments",
+"annee": 2013,
+"type": "conférence",
+"lieu": "ACM Symposium on Applied Perception",
+"url": "https://hal.science/hal-01880383v1",
+"doi": "10.1145/2492494.2501896"
+},
+{
+"id": "pe939c13953",
+"titre": "Stereoscopic 3D video coding quality evaluation with 2D objective metrics",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Proceedings of SPIE, the International Society for Optical Engineering",
+"url": "https://hal.science/hal-00789082v1",
+"doi": "10.1117/12.2003664"
+},
+{
+"id": "p6c71a8b8af",
+"titre": "Study of Center-Bias in the Viewing of Stereoscopic Image and a Framework for Extending 2D Visual Attention Models to 3D",
+"annee": 2013,
+"type": "conférence",
+"lieu": "SPIE Electronic Imaging",
+"url": "https://hal.science/hal-01110368v1"
+},
+{
+"id": "p9b12ac0a4a",
+"titre": "Subjective and Objective Visual Quality Assessment in the Context of Stereoscopic 3D-TV",
+"annee": 2013,
+"type": "chapitre",
+"lieu": "3D-TV System with Depth-Image-Based Rendering",
+"url": "https://hal.science/hal-01151297v1",
+"doi": "10.1007/978-1-4419-9964-1_14"
+},
+{
+"id": "p3ef150200e",
+"titre": "Subjective and objective evaluation of an audiovisual subjective dataset for research and development",
+"annee": 2013,
+"type": "conférence",
+"lieu": "2013 Fifth International Workshop on Quality of Multimedia Experience (QoMEX)",
+"url": "https://hal.science/hal-01154352v1",
+"doi": "10.1109/qomex.2013.6603199"
+},
+{
+"id": "p62e180161e",
+"titre": "Tone mapping-based high-dynamic-range image compression: study of optimization criterion and perceptual quality",
+"annee": 2013,
+"type": "journal",
+"lieu": "Optical Engineering",
+"url": "https://hal.science/hal-00905816v1",
+"doi": "10.1117/1.oe.52.10.102008"
+},
+{
+"id": "p51bd5289bd",
+"titre": "Towards standardized 3DTV QoE assessment: Cross-lab study on display technology and viewing environment parameters",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Proceedings of SPIE, the International Society for Optical Engineering",
+"url": "https://hal.science/hal-00789054v1",
+"doi": "10.1117/12.2004050"
+},
+{
+"id": "p2c13c066e6",
+"titre": "VISUAL DISCOMFORT IS NOT ALWAYS PROPORTIONAL TO EYE BLINKING RATE: EXPLORING SOME EFFECTS OF PLANAR AND IN-DEPTH MOTION ON 3DTV QOE",
+"annee": 2013,
+"type": "conférence",
+"lieu": "International Workshop on Video Processing and Quality Metrics for Consumer Electronics VPQM 2013",
+"url": "https://hal.science/hal-00789026v1"
+},
+{
+"id": "p946d9138a3",
+"titre": "Validation of Mojette reconstruction from Radon acquisitions",
+"annee": 2013,
+"type": "conférence",
+"lieu": "International Conference on Image Processing",
+"url": "https://hal.science/hal-01133153v1",
+"doi": "10.1109/icip.2013.6738215"
+},
+{
+"id": "p2e887f7e54",
+"titre": "Video/GIS registration system based on skyline matching method",
+"annee": 2013,
+"type": "conférence",
+"lieu": "20th IEEE International Conference on Image Processing ICIP 2013",
+"url": "https://hal.science/hal-01296969v1",
+"doi": "10.1109/icip.2013.6738749"
+},
+{
+"id": "p2e390bdb53",
+"titre": "Visual Attention and Applications in Multimedia Technologies",
+"annee": 2013,
+"type": "journal",
+"lieu": "Proceedings of the IEEE",
+"url": "https://hal.science/hal-00951728v1",
+"doi": "10.1109/jproc.2013.2265801"
+},
+{
+"id": "pf710afb946",
+"titre": "Visual Comfort and Fatigue in Stereoscopy",
+"annee": 2013,
+"type": "chapitre",
+"lieu": "3D Video : From Capture to Diffusion",
+"url": "https://hal.science/hal-01151319v1",
+"doi": "10.1002/9781118761915.ch16"
+},
+{
+"id": "pb803cea8e6",
+"titre": "Visual quality assessment of synthesized views in the context of 3D-TV",
+"annee": 2013,
+"type": "chapitre",
+"lieu": "3D-TV System with Depth-Image-Based Rendering Architectures, Techniques and Challenges",
+"url": "https://hal.science/hal-00748518v1",
+"doi": "10.1007/978-1-4419-9964-1_15"
+},
+{
+"id": "p68805e16b7",
+"titre": "Visual saliency driven error protection for 3D video",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Multimedia and Expo Workshops (ICMEW)",
+"url": "https://hal.science/hal-01158783v1",
+"doi": "10.1109/icmew.2013.6618386"
+},
+{
+"id": "p06083ee2ef",
+"titre": "Évaluation de la qualité d'images IRM en 2D et 3D",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Journées Démonstrateurs 2013",
+"url": "https://hal.science/hal-00991994v1"
+},
+{
+"id": "pe1014fe83b",
+"titre": "2D NO-REFERENCE VIDEO QUALITY MODEL DEVELOPMENT AND 3D VIDEO TRANSMISSION QUALITY",
+"annee": 2012,
+"type": "conférence",
+"lieu": "Sixth International Workshop on Video Processing and Quality Metrics for Consumer Electronics - VPQM 2012",
+"url": "https://hal.science/hal-00665939v1"
+},
+{
+"id": "p21556cb76c",
+"titre": "3D historical models : the case studies of Liege and Nantes",
+"annee": 2012,
+"type": "conférence",
+"lieu": "COST Action TU801 : Semantic Enrichment of 3D city models for sustainable urban development - Workshop",
+"url": "https://hal.science/hal-00736628v1"
+},
+{
+"id": "p169997c56a",
+"titre": "A 3D-GIS updating method with interaction in an urban environment",
+"annee": 2012,
+"type": "conférence",
+"lieu": "11th Biennial Conference on Engineering Systems Design and Analysis, ESDA 2012",
+"url": "https://hal.science/hal-01521470v1",
+"doi": "10.1115/esda2012-82769"
+},
+{
+"id": "p978965b856",
+"titre": "A Perceptually relevant Channelized Joint Observer (PCJO) for the detection-localization of parametric signals",
+"annee": 2012,
+"type": "journal",
+"lieu": "IEEE Transactions on Medical Imaging",
+"url": "https://hal.science/hal-00724396v2",
+"doi": "10.1109/tmi.2012.2205267"
+},
+{
+"id": "p2c0e371f59",
+"titre": "A generalized approach for historical mock-up acquisition and data modelling: towards historically enriched 3D city models",
+"annee": 2012,
+"type": "conférence",
+"lieu": "3u3d2012: Usage, Usability, and Utility of 3D City models",
+"url": "https://hal.science/hal-00738193v1",
+"doi": "10.1051/3u3d/201202009"
+},
+{
+"id": "p85d5162629",
+"titre": "A new concept of perceptual fidelity to augment virtual urban environments with microclimatic ambiances",
+"annee": 2012,
+"type": "conférence",
+"lieu": "3U3D 2012",
+"url": "https://hal.science/hal-02476304v1",
+"doi": "10.1051/3u3d/201203002"
+},
+{
+"id": "p4a92d14ecf",
+"titre": "A new typology of augmented reality applications",
+"annee": 2012,
+"type": "conférence",
+"lieu": "AH '12 Proceedings of the 3rd Augmented Human International Conference",
+"url": "https://hal.science/hal-01521375v1",
+"doi": "10.1145/2160125.2160143"
+},
+{
+"id": "p8762a583bc",
+"titre": "A subjective and objective evaluation of a realistic 3D IPTV transmission chain",
+"annee": 2012,
+"type": "conférence",
+"lieu": "19th International Packet Video Workshop (PV)",
+"url": "https://hal.science/hal-00724569v1",
+"doi": "10.1109/pv.2012.6229733"
+},
+{
+"id": "p0fab3708d7",
+"titre": "ANALYSIS AND IMPROVEMENT OF A PAIRED COMPARISON METHOD IN THE APPLICATION OF 3DTV SUBJECTIVE EXPERIMENT",
+"annee": 2012,
+"type": "conférence",
+"lieu": "IEEE International Conference on Image Processing",
+"url": "https://hal.science/hal-00789132v1"
+},
+{
+"id": "paac14e1ee4",
+"titre": "All range and heterogeneous multi-scale 3D city models",
+"annee": 2012,
+"type": "conférence",
+"lieu": "3u3d2012: Usage, Usability, and Utility of 3D City Models",
+"url": "https://hal.science/hal-01501831v1",
+"doi": "10.1051/3u3d/201202006"
+},
+{
+"id": "p489131139d",
+"titre": "An edge-based structural distortion indicator for the quality assessment of 3D synthesized views",
+"annee": 2012,
+"type": "conférence",
+"lieu": "Picture Coding Symposium (PCS), 2012",
+"url": "https://hal.science/hal-00724399v1",
+"doi": "10.1109/pcs.2012.6213339"
+},
+{
+"id": "pf81212b0ca",
+"titre": "Confronting architectural design practices and parametric design potentialities - A discussion for the description of lighting design intentions",
+"annee": 2012,
+"type": "conférence",
+"lieu": "Ambiances in action / Ambiances en acte(s) - International Congress on Ambiances, Montreal 2012",
+"url": "https://shs.hal.science/halshs-00745867v1"
+},
+{
+"id": "p3d4fa5cda8",
+"titre": "Developing an ontology of space: Application to 3D city modeling",
+"annee": 2012,
+"type": "conférence",
+"lieu": "Usage, Usability, and Utility of 3D City Models – European COST Action TU0801",
+"url": "https://hal.science/hal-01521445v1",
+"doi": "10.1051/3u3d/201202007"
+},
+{
+"id": "p5ed417a91a",
+"titre": "EXPLORATION OF QUALITY OF EXPERIENCE OF STEREOSCOPIC IMAGES: BINOCULAR DEPTH",
+"annee": 2012,
+"type": "conférence",
+"lieu": "Sixth International Workshop on Video Processing and Quality Metrics for Consumer Electronics - VPQM 2012",
+"url": "https://hal.science/hal-00665917v1"
+},
+{
+"id": "p89c8f96dc2",
+"titre": "Effect of tone mapping operators on visual attention deployment",
+"annee": 2012,
+"type": "conférence",
+"lieu": "SPIE optics +photonics - Applications of Digital Image Processing XXXV",
+"url": "https://hal.science/hal-00724931v1"
+},
+{
+"id": "pfc888a6826",
+"titre": "EnVIE project: A framework to produce urban data at large scale",
+"annee": 2012,
+"type": "conférence",
+"lieu": "3u3d2012: Usage, Usability, and Utility of 3D City Models",
+"url": "https://hal.science/hal-01501907v1",
+"doi": "10.1051/3u3d/201202008"
+},
+{
+"id": "pba3dfaa066",
+"titre": "Evaluating depth perception of 3D stereoscopic videos",
+"annee": 2012,
+"type": "journal",
+"lieu": "IEEE Journal of Selected Topics in Signal Processing",
+"url": "https://hal.science/hal-00724563v1",
+"doi": "10.1109/jstsp.2012.2213236"
+},
+{
+"id": "pc2210d5ff2",
+"titre": "Evaluation of HVS models in the application of medical image quality assessment",
+"annee": 2012,
+"type": "conférence",
+"lieu": "SPIE Human Vision and Electronic Imaging XVII",
+"url": "https://hal.science/hal-00665996v1",
+"doi": "10.1117/12.905892"
+},
+{
+"id": "pb336d78d0a",
+"titre": "Evaluation of HVS models in the application of medical quality assessment",
+"annee": 2012,
+"type": "conférence",
+"lieu": "SPIE Human Vision and Electronic Imaging XVII",
+"url": "https://univ-angers.hal.science/hal-03430434v1"
+},
+{
+"id": "pc5d1964781",
+"titre": "INFLUENCE OF SHOOTING CONDITIONS, RE-ENCODING AND VIEWING CONDITIONS ON THE PERCEIVED QUALITY OF USER-GENERATED VIDEOS",
+"annee": 2012,
+"type": "conférence",
+"lieu": "Sixth International Workshop on Video Processing and Quality Metrics for Consumer Electronics - VPQM 2012",
+"url": "https://hal.science/hal-00665906v1"
+},
+{
+"id": "p520448034f",
+"titre": "Implementation and evaluation of a computational model of attention for computer vision",
+"annee": 2012,
+"type": "chapitre",
+"lieu": "Developing and Applying Biologically-Inspired Vision Systems: Interdisciplinary Concepts",
+"url": "https://hal.science/hal-00695595v1"
+},
+{
+"id": "pb3806b0f0c",
+"titre": "Implémentation et évaluation d'un modèle d'attention pour la vision adaptative",
+"annee": 2012,
+"type": "journal",
+"lieu": "Traitement du Signal",
+"url": "https://hal.science/hal-00688974v1"
+},
+{
+"id": "p4d9df07262",
+"titre": "Influence of the source content and encoding configuration on the perceived quality for scalable video coding",
+"annee": 2012,
+"type": "conférence",
+"lieu": "SPIE Human Vision and Electronic Imaging XVII",
+"url": "https://hal.science/hal-00665993v1"
+},
+{
+"id": "pf5243e00f1",
+"titre": "Intelligent Reverse-Engineering Segmentation: Automatic Semantic Recognition of Large 3D Digitalized Cloud of Points Dedicated to Heritage Objects",
+"annee": 2012,
+"type": "conférence",
+"lieu": "ASME 2012 11th Biennial Conference on Engineering Systems Design and Analysis",
+"url": "https://hal.science/hal-00817295v1",
+"doi": "10.1115/esda2012-82824"
+},
+{
+"id": "pcfff92f84a",
+"titre": "KEY ISSUES AND SPECIFICITIES FOR THE OBJECTIVE MEDICAL IMAGE QUALITY ASSESSMENT",
+"annee": 2012,
+"type": "conférence",
+"lieu": "Sixth International Workshop on Video Processing and Quality Metrics for Consumer Electronics VPQM 2012",
+"url": "https://hal.science/hal-00665902v1"
+},
+{
+"id": "p0efb7273b2",
+"titre": "NAMA3DS1-COSPAD1: Subjective video quality assessment database on coding conditions introducing freely available high quality 3D stereoscopic sequences",
+"annee": 2012,
+"type": "conférence",
+"lieu": "QoMEX - Fourth International Workshop on Quality of Multimedia Experience",
+"url": "https://hal.science/hal-00717865v1"
+},
+{
+"id": "p2eb3ca23b2",
+"titre": "Perceived 3D TV Transmission Quality Assessment: Multi-Laboratory Results Using Absolute Category Rating on Quality of Experience Scale",
+"annee": 2012,
+"type": "journal",
+"lieu": "IEEE Transactions on Broadcasting",
+"url": "https://hal.science/hal-00724397v1",
+"doi": "10.1109/tbc.2012.2191031"
+},
+{
+"id": "pd4ce56e37c",
+"titre": "Perceptual depth indicator for S-3D content based on binocular and monocular cues",
+"annee": 2012,
+"type": "conférence",
+"lieu": "Conference Record of the Forty Sixth Asilomar Conference on Signals, Systems and Computers (ASILOMAR)",
+"url": "https://hal.science/hal-01154284v1",
+"doi": "10.1109/acssc.2012.6489109"
+},
+{
+"id": "pbee8ee1bd0",
+"titre": "Quality of experience model for 3DTV",
+"annee": 2012,
+"type": "conférence",
+"lieu": "SPIE Stereoscopic Displays and Applications XXIII",
+"url": "https://hal.science/hal-00665990v1"
+},
+{
+"id": "p3cb7bac3b1",
+"titre": "RELIABILITY OF 2D QUALITY ASSESSMENT METHODS FOR SYNTHESIZED VIEWS EVALUATION IN STEREOSCOPIC VIEWING CONDITIONS",
+"annee": 2012,
+"type": "conférence",
+"lieu": "3DTV-CONFERENCE 2012 The True Vision Capture, Transmission and Display of 3D Video",
+"url": "https://hal.science/hal-00748517v1"
+},
+{
+"id": "pceb5844d34",
+"titre": "Real Time Dynamic Image Re-targeting Based on a Dynamic Visual Attention Model",
+"annee": 2012,
+"type": "conférence",
+"lieu": "2012 IEEE International Conference on Multimedia and Expo Workshops (ICMEW)",
+"url": "https://hal.science/hal-00724486v1",
+"doi": "10.1109/icmew.2012.119"
+},
+{
+"id": "p797eaf4060",
+"titre": "Real-time computational attention model for dynamic scenes analysis: from implementation to evaluation.",
+"annee": 2012,
+"type": "conférence",
+"lieu": "SPIE Optics, Photonics and Digital Technologies for Multimedia Applications - Visual attention",
+"url": "https://hal.science/hal-00688950v1"
+},
+{
+"id": "pc59bdba634",
+"titre": "Skyline Matching: A robust registration method between Video and GIS",
+"annee": 2012,
+"type": "conférence",
+"lieu": "Conference of the European COST Action TU0801 - Semantic Enrichment of 3D City Models for Sustainable Urban Development Location: Grad Sch Architecture",
+"url": "https://hal.science/hal-00768494v1",
+"doi": "10.1051/3u3d/201203007"
+},
+{
+"id": "p2034a02851",
+"titre": "Study of depth bias of observers in free viewing of still stereoscopic synthetic stimuli",
+"annee": 2012,
+"type": "journal",
+"lieu": "Journal of Eye Movement Research",
+"url": "https://hal.science/hal-00730667v1"
+},
+{
+"id": "p712be65a32",
+"titre": "The Influence of Subjects and Environment on Audiovisual Subjective Tests: An International Study",
+"annee": 2012,
+"type": "journal",
+"lieu": "IEEE Journal of Selected Topics in Signal Processing",
+"url": "https://hal.science/hal-00725992v1",
+"doi": "10.1109/jstsp.2012.2215306"
+},
+{
+"id": "p7562997bda",
+"titre": "Towards a sensory delineation of microclimatic urban ambiances in virtual reality",
+"annee": 2012,
+"type": "conférence",
+"lieu": "Ambiances in action / Ambiances en acte(s) - International Congress on Ambiances, Montreal 2012",
+"url": "https://shs.hal.science/halshs-00745840v1"
+},
+{
+"id": "p2f7dc2ed09",
+"titre": "Using overlapping subjective datasets to assess the performance of objective quality metrics on Scalable Video Coding and error concealment",
+"annee": 2012,
+"type": "conférence",
+"lieu": "2012 Fourth International Workshop on Quality of Multimedia Experience (QoMEX)",
+"url": "https://hal.science/hal-00724398v1",
+"doi": "10.1109/qomex.2012.6263844"
+},
+{
+"id": "p2663089969",
+"titre": "VIRTUAL INTERACTIONS: CAN EEG HELP MAKE THE DIFFERENCE WITH REAL INTERACTION?",
+"annee": 2012,
+"type": "conférence",
+"lieu": "2012 IEEE International Conference on Multimedia & Expo Workshops (ICMEW)",
+"url": "https://hal.science/hal-00724400v1",
+"doi": "10.1109/icmew.2012.33"
+},
+{
+"id": "p391d103fbb",
+"titre": "Video attention deviation estimation using inter-frame visual saliency map analysis",
+"annee": 2012,
+"type": "conférence",
+"lieu": "Visual Information Processing and Communication III",
+"url": "https://hal.science/hal-00666000v1"
+},
+{
+"id": "p71cde70c3b",
+"titre": "A SUBJECTIVE EVALUATION OF 3D IPTV BROADCASTING IMPLEMENTATIONS CONSIDERING CODING AND TRANSMISSION DEGRADATION",
+"annee": 2011,
+"type": "conférence",
+"lieu": "IEEE International Symposium on Multimedia 2011 (ISM)",
+"url": "https://hal.science/hal-00670230v1",
+"doi": "10.1109/ism.2011.89"
+},
+{
+"id": "p0930e3adb9",
+"titre": "A functional typology of augmented reality applications based on their tracking requirements",
+"annee": 2011,
+"type": "conférence",
+"lieu": "Workshop on Location Awareness for Mixed and Dual Reality (LAMDa)",
+"url": "https://hal.science/hal-01521471v1"
+},
+{
+"id": "pb72bf6bff5",
+"titre": "A perceptual comparison of different interpolation algorithms: a study with magnetic resonance images of the cochlear nerve",
+"annee": 2011,
+"type": "conférence",
+"lieu": "Medical Image Perception Conference XIV (MIPS XIV",
+"url": "https://hal.science/hal-00857443v1"
+},
+{
+"id": "p999ee3853b",
+"titre": "AN EFFICIENT NO-REFERENCE METRIC FOR PERCEIVED BLUR",
+"annee": 2011,
+"type": "conférence",
+"lieu": "2011 3rd European Workshop on Visual Information Processing (EUVIP)",
+"url": "https://hal.science/hal-00606007v1"
+},
+{
+"id": "p036e712468",
+"titre": "Aligning subjective tests using a low cost common set",
+"annee": 2011,
+"type": "conférence",
+"lieu": "Euro ITV",
+"url": "https://hal.science/hal-00608310v1"
+},
+{
+"id": "p6e068fbd6c",
+"titre": "Camera tracking by online learning of keypoint arrangements using LLAH in augmented reality applications",
+"annee": 2011,
+"type": "journal",
+"lieu": "Virtual Reality",
+"url": "https://hal.science/hal-01521143v1",
+"doi": "10.1007/s10055-010-0173-7"
+},
+{
+"id": "p40ac258fda",
+"titre": "Can 3D synthesized views be reliably assessed through usual subjective and objective evaluation protocols?",
+"annee": 2011,
+"type": "conférence",
+"lieu": "International Conference on Image Processing",
+"url": "https://hal.science/hal-00628066v1"
+},
+{
+"id": "p1ee491de9a",
+"titre": "Clarifying how defocus blur and disparity affect the perceived depth",
+"annee": 2011,
+"type": "conférence",
+"lieu": "First Sino-French Workshop on Education and Research collaborations in Information and Communication Technologies",
+"url": "https://hal.science/hal-00735782v1"
+},
+{
+"id": "p8e0a26b7eb",
+"titre": "Estimating the usefulness of distorted natural images using an image contour degradation measure",
+"annee": 2011,
+"type": "journal",
+"lieu": "Journal of the Optical Society of America",
+"url": "https://hal.science/hal-00561177v1",
+"doi": "10.1364/josaa.28.000157"
+},
+{
+"id": "p25e75cfce5",
+"titre": "Facades modeling from a ground-view video with map constraints",
+"annee": 2011,
+"type": "conférence",
+"lieu": "Proceedings of the 12th IAPR Conference on Machine Vision Applications, MVA 2011",
+"url": "https://hal.science/hal-01521507v1"
+},
+{
+"id": "p971d030010",
+"titre": "From CIE 2006 Physiological Model to Improved Age-Dependent and Average Colorimetric Observers",
+"annee": 2011,
+"type": "journal",
+"lieu": "Journal of the Optical Society of America. A Optics, Image Science, and Vision",
+"url": "https://hal.science/hal-00616783v1",
+"doi": "10.1364/josaa.28.002033"
+},
+{
+"id": "pdba7502023",
+"titre": "Generic modeling of application and spatiotemporal data : application to the study of pedestrian behavior",
+"annee": 2011,
+"type": "journal",
+"lieu": "Intelligent decision technologies",
+"url": "https://hal.science/hal-01521142v1",
+"doi": "10.3233/idt-2011-0113"
+},
+{
+"id": "pf32218c231",
+"titre": "IMAGE COMPLEXITY MEASURE BASED ON VISUAL ATTENTION",
+"annee": 2011,
+"type": "conférence",
+"lieu": "IEEE International Conference on Image Processing - ICIP",
+"url": "https://hal.science/hal-00617725v1"
+},
+{
+"id": "peecb0b223a",
+"titre": "Implementing Conceptual Spatiotemporal Model into Object DBMS with Semantic Preserving",
+"annee": 2011,
+"type": "conférence",
+"lieu": "ICSDM 2011 & BJ-IWGIS 2011CSDM 2011 & BJ-IWGIS 2011",
+"url": "https://hal.science/hal-01521482v1"
+},
+{
+"id": "p60e1488b46",
+"titre": "Implementing conceptual spatiotemporal model into object DBMS with semantic preserving",
+"annee": 2011,
+"type": "conférence",
+"lieu": "ICSDM 2011 - Proceedings 2011 IEEE International Conference on Spatial Data Mining and Geographical Knowledge Services",
+"url": "https://hal.science/hal-01521483v1",
+"doi": "10.1109/icsdm.2011.5969024"
+},
+{
+"id": "pe0562a3567",
+"titre": "Is visual fatigue changing the perceived depth accuracy on an autostereoscopic display?",
+"annee": 2011,
+"type": "conférence",
+"lieu": "SPIE 2011 Stereoscopic Displays and Applications XXII",
+"url": "https://hal.science/hal-00616686v2",
+"doi": "10.1117/12.872572"
+},
+{
+"id": "p7d99845cc0",
+"titre": "Lattice Vector Quantization for the Analysis of Molecular Data.",
+"annee": 2011,
+"type": "conférence",
+"lieu": "Signal Processing and Applied Mathemathematics for Electronics and Communications (SPAMEC).",
+"url": "https://hal.science/hal-00624283v1"
+},
+{
+"id": "pc1bfa05c89",
+"titre": "Measuring Surrounding Space to Assess the Pedestrian Visual Aperture Angle in the Urban Fabric: Toward a Kurtosis-Based Isovist Indicator",
+"annee": 2011,
+"type": "chapitre",
+"lieu": "Information Fusion and Geographic Information Systems - Towards the Digital Ocean",
+"url": "https://hal.science/hal-01347331v1",
+"doi": "10.1007/978-3-642-19766-6_11"
+},
+{
+"id": "p5478b70870",
+"titre": "Multimedia Quality assessment",
+"annee": 2011,
+"type": "journal",
+"lieu": "IEEE Signal Processing Magazine",
+"url": "https://hal.science/hal-00637560v1",
+"doi": "10.1109/msp.2011.942341"
+},
+{
+"id": "pe370afecd6",
+"titre": "New stereoscopic video shooting rule based on stereoscopic distortion parameters and comfortable viewing zone",
+"annee": 2011,
+"type": "conférence",
+"lieu": "Stereoscopic Displays and Applications XXII, SPIE 2011",
+"url": "https://hal.science/hal-00616713v2",
+"doi": "10.1117/12.872332"
+},
+{
+"id": "p370e9f9ff1",
+"titre": "OBJECTIVE VALIDATION OF A DYNAMICAL AND PLAUSIBLE COMPUTATIONAL MODEL OF VISUAL ATTENTION",
+"annee": 2011,
+"type": "conférence",
+"lieu": "IEEE European workshop on visual information processing",
+"url": "https://hal.science/hal-00617730v1",
+"doi": "10.1109/euvip.2011.6045511"
+},
+{
+"id": "pf1447c3c2b",
+"titre": "Perceived quality of DIBR-based synthesized views",
+"annee": 2011,
+"type": "conférence",
+"lieu": "SPIE Optics + Photonics",
+"url": "https://hal.science/hal-00617534v1"
+},
+{
+"id": "pdd63d4f331",
+"titre": "Quantifying depth bias in free viewing of still stereoscopic synthetic stimuli",
+"annee": 2011,
+"type": "conférence",
+"lieu": "16th European Conference on Eye Movements",
+"url": "https://hal.science/hal-00724395v1"
+},
+{
+"id": "p64f6f8289e",
+"titre": "Quantifying how the combination of blur and disparity affects the perceived depth",
+"annee": 2011,
+"type": "conférence",
+"lieu": "SPIE Electronic Imaging",
+"url": "https://hal.science/hal-00561951v1"
+},
+{
+"id": "p4e3744755d",
+"titre": "STANDARDIZED TOOLCHAIN AND MODEL DEVELOPMENT FOR VIDEO QUALITY ASSESSMENT - THE MISSION OF THE JOINT EFFORT GROUP IN VQEG",
+"annee": 2011,
+"type": "conférence",
+"lieu": "2011 Third International Workshop on Quality of Multimedia Experience (QoMEX)",
+"url": "https://hal.science/hal-00724381v1",
+"doi": "10.1109/qomex.2011.6065713"
+},
+{
+"id": "p9f7c9ac05e",
+"titre": "SUBJECTIVE QUALITY OF SVC-CODED VIDEOS WITH DIFFERENT ERROR-PATTERNS CONCEALED USING SPATIAL SCALABILITY",
+"annee": 2011,
+"type": "conférence",
+"lieu": "Third European Workshop on Visual Information Processing (EUVIP)",
+"url": "https://hal.science/hal-00608300v1"
+},
+{
+"id": "p0f6db64574",
+"titre": "Study on Visual Discomfort induced by Stimulus Movement at Fixed Depth on Stereoscopic Displays using Shutter Glasses",
+"annee": 2011,
+"type": "conférence",
+"lieu": "17th International Conference on Digital Signal Processing 2011",
+"url": "https://hal.science/hal-00616722v1"
+},
+{
+"id": "pcb576a8052",
+"titre": "Subjective evaluation of HDTV stereoscopic videos in IPTV scenarios using absolute category rating",
+"annee": 2011,
+"type": "conférence",
+"lieu": "Stereoscopic Displays and Applications XXII, SPIE 2011",
+"url": "https://hal.science/hal-00616712v2",
+"doi": "10.1117/12.872462"
+},
+{
+"id": "pdc805853cf",
+"titre": "TOWARDS A FRAMEWORK OF INTER-OBSERVER ANALYSIS FOR MULTIMEDIA QUALITY ASSESSMENT",
+"annee": 2011,
+"type": "conférence",
+"lieu": "Third International Workshop on Quality of Multimedia Experience (QoMEX)",
+"url": "https://hal.science/hal-00608314v1",
+"doi": "10.1109/qomex.2011.6065700"
+},
+{
+"id": "p2f7a2b1561",
+"titre": "The Importance of Visual Attention in Improving the 3D-TV Viewing Experience: Overview and New Perspectives",
+"annee": 2011,
+"type": "journal",
+"lieu": "IEEE Transactions on Broadcasting",
+"url": "https://hal.science/hal-00595687v1",
+"doi": "10.1109/tbc.2011.2128250"
+},
+{
+"id": "p01030f6666",
+"titre": "The Influence of Relative Disparity and Planar Motion Velocity on Visual Discomfort of Stereoscopic Videos",
+"annee": 2011,
+"type": "conférence",
+"lieu": "International Workshop on Quality of Multimedia Experience QoMEX",
+"url": "https://hal.science/hal-00637497v1"
+},
+{
+"id": "paf9db2c21b",
+"titre": "The effects of anatomical information and observer expertise on abnormality detection task",
+"annee": 2011,
+"type": "conférence",
+"lieu": "SPIE Medical Imaging 2011",
+"url": "https://hal.science/hal-00724393v1",
+"doi": "10.1117/12.877590"
+},
+{
+"id": "pa35dd4db39",
+"titre": "Towards a New Quality Metric for 3-D Synthesized View Assessment",
+"annee": 2011,
+"type": "journal",
+"lieu": "IEEE Journal of Selected Topics in Signal Processing",
+"url": "https://hal.science/hal-00628070v1"
+},
+{
+"id": "p8b9f32830b",
+"titre": "Transforming Conceptual Spatiotemporal Model into Object Model with Semantic Keeping",
+"annee": 2011,
+"type": "conférence",
+"lieu": "Advances in Conceptual Modeling. Recent Developments and New Directions. Lecture Notes in Computer Science.",
+"url": "https://hal.science/hal-01521481v1",
+"doi": "10.1007/978-3-642-24574-9_35"
+},
+{
+"id": "p658ed95ea2",
+"titre": "Un renouveau des pratiques muséographiques grâce au virtuel : un support à des applications pluridisciplinaire en pédagogie active",
+"annee": 2011,
+"type": "conférence",
+"lieu": "12ème colloque national AIP Primeca",
+"url": "https://hal.science/hal-00585088v1"
+},
+{
+"id": "p26268e49eb",
+"titre": "Un renouveau des pratiques muséographiques grâce au virtuel : un support à des applications pluridisciplinaires en pédagogie active",
+"annee": 2011,
+"type": "conférence",
+"lieu": "Colloque National AIP-PRIMECA",
+"url": "https://hal.science/hal-01521549v1"
+},
+{
+"id": "pdf303a527b",
+"titre": "Une nouvelle mesure de complexité pour les images basée sur l'attention visuelle",
+"annee": 2011,
+"type": "conférence",
+"lieu": "XXIIIème coloque GRETSI - Bordeaux",
+"url": "https://hal.science/hal-00695751v1"
+},
+{
+"id": "p7db28a29ed",
+"titre": "Using AUC to study perceptual di erence model suitability for the detection task on MR image",
+"annee": 2011,
+"type": "conférence",
+"lieu": "MIPS (Medical Imaging Perception Society) XIV Conference",
+"url": "https://hal.science/hal-00724823v1"
+},
+{
+"id": "p6835f40403",
+"titre": "Using AUC to study perceptual difference model suitability for the detection task on MR image",
+"annee": 2011,
+"type": "conférence",
+"lieu": "Medical Image Perception Conference XIV (MIPS XIV",
+"url": "https://hal.science/hal-00857445v1"
+},
+{
+"id": "p395702daea",
+"titre": "Visibility Control and Quality Assessment of Watermarking and Data Hiding Algorithms",
+"annee": 2011,
+"type": "chapitre",
+"lieu": "IGI Global eBooks",
+"url": "https://doi.org/10.4018/978-1-59904-869-7.ch009",
+"doi": "10.4018/978-1-59904-869-7.ch009"
+},
+{
+"id": "p701c4958ca",
+"titre": "Visual Discomfort Induced by Relative Disparity and Planar Motion of Stereoscopic Images",
+"annee": 2011,
+"type": "conférence",
+"lieu": "first Sino French Workshop on Information and Communication Technologies",
+"url": "https://hal.science/hal-00860232v1"
+},
+{
+"id": "p5aa44a1480",
+"titre": "Where Virtual Enhances Physical Mock-Up: A Way to Understand our Heritage",
+"annee": 2011,
+"type": "conférence",
+"lieu": "ISMAR - research, technology and application in Mixed and Augmented Reality",
+"url": "https://hal.science/hal-00671976v1"
+}
+]
+}

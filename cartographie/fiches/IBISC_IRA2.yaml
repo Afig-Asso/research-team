@@ -1,0 +1,74 @@
+equipe: IBISC/IRA2
+domaines:
+  principaux:
+  - rv
+  secondaires:
+  - humains
+themes:
+- id: formation_rv
+  phrase: Simulateurs immersifs d'apprentissage de gestes techniques (microchirurgie, anesthésie échoguidée, maintien de l'ordre),
+    guidage par un mentor et débriefing immersif.
+  preuves:
+  - p4705ce73ec
+  - pfd2d7b71df
+  - p147be61662
+- id: haptique
+  phrase: Rôle du retour haptique dans l'acquisition et le transfert de compétences en RV, rendu haptique de profils d'effort
+    mesurés et calibration de dispositifs à câbles.
+  preuves:
+  - p0507a741d3
+  - pdca47bb64b
+  - p1d17964faf
+- id: interaction_3d
+  phrase: Techniques de sélection et de manipulation 3D d'objets distants ou occultés, sur tablette ou en RV, et saisie de
+    texte en environnement immersif.
+  preuves:
+  - p7a13ba625e
+  - p0cb6590b8d
+  - p8696870b4d
+- id: realite_augmentee
+  phrase: Réalité augmentée pour la rééducation de la marche, la supervision d'opérations industrielles et la perception pseudo-haptique
+    du poids.
+  preuves:
+  - p442b64c4a3
+  - p8b80d2393d
+  - p187f08e226
+- id: incarnation_presence
+  phrase: 'Avatars du partenaire et de soi en environnement virtuel collaboratif : nuages de points, co-incarnation et effet
+    sur la communication spatiale.'
+  preuves:
+  - p9f97ba8173
+  - pb715c13430
+  - p62329c94a2
+applications:
+- id: sante
+  preuves:
+  - p0507a741d3
+  - pfd2d7b71df
+  - p442b64c4a3
+- id: education
+  preuves:
+  - p4705ce73ec
+  - p147be61662
+  - pa2d79cdaa5
+- id: industrie_cao
+  preuves:
+  - p8b80d2393d
+  - pc7576e798f
+- id: robotique
+  preuves:
+  - pd8cefb6158
+  - pb51ddc0be4
+  - pe42c2e946c
+publications_representatives:
+- p4705ce73ec
+- p8696870b4d
+- p0507a741d3
+- pfd2d7b71df
+- pdca47bb64b
+synthese: Simulateurs immersifs de formation aux gestes techniques, retour haptique et multimodal, techniques d'interaction
+  3D, réalité augmentée pour la rééducation et l'industrie, environnements virtuels collaboratifs.
+pour_etudiants: On y conçoit des simulateurs en réalité virtuelle pour apprendre des gestes techniques, par exemple en chirurgie,
+  en ressentant le toucher grâce à des dispositifs haptiques.
+pour_entreprises: Conception et évaluation de simulateurs de formation immersifs à retour haptique, d'outils auteur de scénarios
+  et d'assistance en réalité augmentée pour l'industrie et la santé.

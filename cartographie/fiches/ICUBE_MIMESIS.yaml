@@ -1,0 +1,78 @@
+equipe: ICUBE/MIMESIS
+domaines:
+  principaux:
+  - animation
+  - rv
+  secondaires:
+  - ia
+  - capture
+themes:
+- id: simulation_interactive
+  phrase: 'Simulation par éléments finis en temps réel de tissus mous au sein de la plateforme SOFA : résolution de contacts
+    sur grands maillages, contrôle d''erreur interactif et modèles réduits.'
+  preuves:
+  - p881168a073
+  - pbac040f548
+  - p55d38bbc19
+- id: simulation_deformables
+  phrase: Insertion d'aiguilles flexibles, découpe progressive et lacération de tissus déformables avec changements topologiques
+    sans remaillage coûteux.
+  preuves:
+  - p73c24d8c85
+  - pa04446dbf0
+  - p84d1e84323
+- id: realite_augmentee
+  phrase: 'Réalité augmentée chirurgicale guidée par modèle biomécanique : recalage élastique peropératoire d''organes (foie,
+    cerveau) et superposition des réseaux vasculaires.'
+  preuves:
+  - p46276e65bb
+  - pb7781bd3e7
+  - p6da4cad3e5
+- id: formation_rv
+  phrase: Simulateurs immersifs de formation aux gestes percutanés et interventionnels, avec mouvement respiratoire et réduction
+    de modèle pour des maillages fins.
+  preuves:
+  - peaf23b0336
+  - p2f322928e4
+  - pf0cb551838
+- id: parametres_physiques_vision
+  phrase: Estimation des forces et des conditions aux limites d'organes à partir d'images peropératoires par contrôle optimal
+    et simulation inverse, pour des jumeaux numériques patient.
+  preuves:
+  - pb5d0b69461
+  - p82ade5417b
+  - p74b144190c
+- id: haptique
+  phrase: Rendu haptique de modèles hyperélastiques et hétérogènes avec frottement pour la simulation chirurgicale.
+  preuves:
+  - p4e8a5ac98b
+  - p3113fe75b1
+  - p1580fcd951
+applications:
+- id: sante
+  preuves:
+  - p46276e65bb
+  - p2f322928e4
+  - p8c621e34e8
+- id: robotique
+  preuves:
+  - p286f9c70f5
+  - pb158813dd0
+  - p1f9efd1d1f
+- id: education
+  preuves:
+  - peaf23b0336
+  - p2f322928e4
+  - pf0cb551838
+publications_representatives:
+- p73c24d8c85
+- p286f9c70f5
+- p84d1e84323
+- p881168a073
+- pb7781bd3e7
+synthese: Simulation physique temps réel de tissus déformables (éléments finis, découpe, insertion d'aiguilles), réalité augmentée
+  chirurgicale par recalage biomécanique, simulateurs de formation haptiques et jumeaux numériques d'organes.
+pour_etudiants: On y simule en temps réel le comportement des organes du corps humain pour entraîner les chirurgiens en réalité
+  virtuelle et les guider pendant l'opération en réalité augmentée.
+pour_entreprises: Simulateurs chirurgicaux temps réel, guidage peropératoire par réalité augmentée, commande de robots d'insertion
+  d'aiguilles et modèles de substitution rapides pour les jumeaux numériques médicaux.

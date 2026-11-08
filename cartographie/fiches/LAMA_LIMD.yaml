@@ -1,0 +1,54 @@
+equipe: LAMA/LIMD
+domaines:
+  principaux:
+  - geometrie
+  secondaires:
+  - modelisation
+themes:
+- id: geometrie_discrete
+  phrase: Estimateurs convergents de normales et de courbures, mesures de courbure corrigées et opérateurs de Laplace-Beltrami
+    sur surfaces digitales, régularisation de surfaces voxelisées.
+  preuves:
+  - p004067c633
+  - pf5e25d4f68
+  - pf481af0307
+- id: geometrie_algorithmique
+  phrase: Convexité digitale pleine, décomposition convexe et concave de formes digitalisées, reconnaissance de plans par
+    sondage et propriétés de Delaunay.
+  preuves:
+  - p7c7e7d293b
+  - pa7209c981f
+  - p4840965606
+- id: algebre_geometrique
+  phrase: Algèbres géométriques conformes et projectives pour les quadriques, coniques, diagrammes de puissance et courbes
+    de Bézier rationnelles, avec génération de bibliothèques efficaces.
+  preuves:
+  - p45ec3296fd
+  - p00d6413cca
+  - ped958b6627
+- id: nuages_points
+  phrase: Estimation légère et robuste de courbure sur nuages de points par mesures de courbure corrigées randomisées et mesures
+    de covariance de Voronoï.
+  preuves:
+  - pa0acd88a9d
+  - pfe42e36ec7
+- id: maillages
+  phrase: 'Traitement variationnel de maillages par la fonctionnelle d''Ambrosio-Tortorelli : arêtes vives et paramétrisation
+    avec placement optimal des coupures.'
+  preuves:
+  - p12edb27e98
+  - p993c42f33a
+  - p8640c12a2a
+applications: []
+publications_representatives:
+- pa0acd88a9d
+- p004067c633
+- pf5e25d4f68
+- p7c7e7d293b
+- p8640c12a2a
+synthese: 'Géométrie discrète : estimation de courbure et calcul différentiel sur surfaces digitales, convexité digitale ;
+  algèbre géométrique conforme et projective pour la modélisation de quadriques et de courbes.'
+pour_etudiants: On y étudie les formes faites de pixels et de voxels, comment mesurer leur courbure ou leur convexité, et
+  on utilise une algèbre spéciale pour manipuler simplement cercles, sphères et quadriques.
+pour_entreprises: Algorithmes exacts et robustes d'analyse de formes voxelisées ou numérisées (normales, courbures, décomposition
+  convexe) et bibliothèques d'algèbre géométrique pour la géométrie computationnelle.

@@ -1,0 +1,91 @@
+equipe: LS2N/PACCE
+domaines:
+  principaux:
+  - rv
+  secondaires:
+  - humains
+  - visu
+themes:
+- id: incarnation_presence
+  phrase: Sentiment d'incarnation et avatars dissemblables, co-incarnation partagée, préférence entre apparence, contrôle
+    et point de vue, cohérence entre avatar et objets physicalisés.
+  preuves:
+  - p1af517c635
+  - pde80d33443
+  - p03f9c1eebb
+- id: realite_augmentee
+  phrase: 'Perception et interaction en réalité augmentée optique : perception des distances et des contacts, saisie d''objets
+    réels et virtuels, perception du corps propre et affordances.'
+  preuves:
+  - p619e52c531
+  - p0032ce0d2a
+  - p10ad985755
+- id: haptique
+  phrase: 'Haptique passive et accessoires physiques en RV : masse des répliques d''outils, scénarios modulaires, communication
+    haptique pour les tâches collaboratives.'
+  preuves:
+  - p6b3ff358a0
+  - p964bdd5040
+  - pfd075e9b45
+- id: interaction_3d
+  phrase: Interfaces 3D pour grimper, voler et empiler, saisie de texte manuscrite en RV industrielle et contrôle du corps
+    virtuel sans les mains.
+  preuves:
+  - p74ae77a0c2
+  - pa0ee698189
+  - p1edf300825
+- id: visu_immersive
+  phrase: 'Analytique immersive : état de l''art, partage informel de compétences en analyse collaborative immersive, représentations
+    d''axes pour données multidimensionnelles.'
+  preuves:
+  - pa50f9abbb8
+  - p5a2de9a00f
+  - pd2b6826b1c
+- id: formation_rv
+  phrase: Agents et audiences virtuels pour l'entraînement aux compétences sociales (prise de parole, entretien d'embauche,
+    gestion de conflits) et apprentissage procédural en RV.
+  preuves:
+  - p601601c8d1
+  - pb1805fa31c
+  - pa2d79cdaa5
+applications:
+- id: sante
+  preuves:
+  - p3147fd23bd
+  - p819ab2f126
+  - pa67dfe7b5b
+- id: education
+  preuves:
+  - pb1805fa31c
+  - pa2d79cdaa5
+  - p6b3ff358a0
+- id: industrie_cao
+  preuves:
+  - pa0ee698189
+  - p782cf5b46f
+- id: robotique
+  preuves:
+  - p4bbd937430
+  - p8de50c7bf4
+- id: architecture_urbain
+  preuves:
+  - pc3d4aa4cbe
+  - p64d1712750
+  - p4b2fb9cb40
+- id: art_musique
+  preuves:
+  - p819ab2f126
+  - p43296d7a92
+  - p799d2f12f2
+publications_representatives:
+- p619e52c531
+- p0523d0a0c1
+- pa0ee698189
+- p5a2de9a00f
+- pa50f9abbb8
+synthese: 'Perception, action et cognition en réalité virtuelle et augmentée : incarnation d''avatars, perception et interaction
+  en réalité augmentée optique, haptique passive, analytique immersive et agents virtuels pour la formation.'
+pour_etudiants: On y étudie comment on perçoit son corps, les distances et les objets en réalité virtuelle et augmentée, et
+  comment des avatars ou des personnages virtuels changent notre comportement.
+pour_entreprises: Conception et évaluation d'applications de réalité virtuelle et augmentée (perception, incarnation, accessoires
+  physiques), visualisation immersive de données et simulateurs de formation aux compétences sociales.

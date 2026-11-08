@@ -2178,5 +2178,458 @@
     5
    ]
   ]
+ },
+ "ICUBE/MIMESIS": {
+  "permanents_ig": 0,
+  "permanents_partiel": 2,
+  "publications_via_partiel": 203,
+  "permanents_total": 5,
+  "publications": 203,
+  "par_annee": {
+   "2011": 13,
+   "2012": 11,
+   "2013": 15,
+   "2014": 22,
+   "2015": 20,
+   "2016": 10,
+   "2017": 16,
+   "2018": 14,
+   "2019": 11,
+   "2020": 12,
+   "2021": 7,
+   "2022": 7,
+   "2023": 13,
+   "2024": 14,
+   "2025": 5,
+   "2026": 13
+  },
+  "par_type": {
+   "conférence": 118,
+   "journal": 69,
+   "chapitre": 13,
+   "ouvrage": 3
+  },
+  "lieux_principaux": [
+   [
+    "International Journal of Computer Assisted Radiology and Surgery",
+    9
+   ],
+   [
+    "Medical Image Analysis",
+    8
+   ],
+   [
+    "IEEE",
+    4
+   ],
+   [
+    "ICRA - IEEE International Conference on Robotics and Automation",
+    3
+   ],
+   [
+    "International Conference on Intelligent Robots and Systems",
+    3
+   ],
+   [
+    "MICCAI",
+    3
+   ],
+   [
+    "(lieu inconnu)",
+    3
+   ],
+   [
+    "Strain",
+    3
+   ]
+  ]
+ },
+ "IBISC/IRA2": {
+  "permanents_ig": 6,
+  "permanents_partiel": 6,
+  "publications_via_partiel": 230,
+  "permanents_total": 21,
+  "publications": 445,
+  "par_annee": {
+   "2011": 21,
+   "2012": 41,
+   "2013": 32,
+   "2014": 32,
+   "2015": 33,
+   "2016": 28,
+   "2017": 27,
+   "2018": 21,
+   "2019": 16,
+   "2020": 21,
+   "2021": 23,
+   "2022": 33,
+   "2023": 36,
+   "2024": 25,
+   "2025": 36,
+   "2026": 20
+  },
+  "par_type": {
+   "conférence": 280,
+   "journal": 152,
+   "chapitre": 10,
+   "ouvrage": 3
+  },
+  "lieux_principaux": [
+   [
+    "IEEE",
+    7
+   ],
+   [
+    "Virtual Reality",
+    7
+   ],
+   [
+    "IEEE International Conference on Image Processing",
+    6
+   ],
+   [
+    "Pattern Recognition Letters",
+    6
+   ],
+   [
+    "International Conference on Computer Vision Theory and Applications",
+    6
+   ],
+   [
+    "Surgical Endoscopy",
+    6
+   ],
+   [
+    "Journal of Electronic Imaging",
+    5
+   ],
+   [
+    "Multimedia Tools and Applications",
+    4
+   ]
+  ]
+ },
+ "Lab-STICC/INUIT": {
+  "permanents_ig": 6,
+  "permanents_partiel": 5,
+  "publications_via_partiel": 108,
+  "permanents_total": 13,
+  "publications": 379,
+  "par_annee": {
+   "2011": 38,
+   "2012": 41,
+   "2013": 24,
+   "2014": 28,
+   "2015": 29,
+   "2016": 27,
+   "2017": 20,
+   "2018": 26,
+   "2019": 21,
+   "2020": 18,
+   "2021": 14,
+   "2022": 20,
+   "2023": 24,
+   "2024": 16,
+   "2025": 16,
+   "2026": 17
+  },
+  "par_type": {
+   "journal": 93,
+   "conférence": 264,
+   "chapitre": 17,
+   "ouvrage": 5
+  },
+  "lieux_principaux": [
+   [
+    "IEEE Transactions on Visualization and Computer Graphics",
+    9
+   ],
+   [
+    "Frontiers in Virtual Reality",
+    6
+   ],
+   [
+    "HCI International",
+    6
+   ],
+   [
+    "(lieu inconnu)",
+    5
+   ],
+   [
+    "AVR : 7th International Conference on Augmented Reality, Virtual Reality and Computer Graphics",
+    3
+   ],
+   [
+    "EuroVR - 16th EuroVR International Conference",
+    3
+   ],
+   [
+    "Frontiers in Robotics and AI",
+    3
+   ],
+   [
+    "International Journal of Human-Computer Interaction",
+    3
+   ]
+  ]
+ },
+ "LAMA/LIMD": {
+  "permanents_ig": 2,
+  "permanents_partiel": 0,
+  "publications_via_partiel": 0,
+  "permanents_total": 9,
+  "publications": 96,
+  "par_annee": {
+   "2011": 8,
+   "2012": 6,
+   "2013": 4,
+   "2014": 4,
+   "2015": 4,
+   "2016": 11,
+   "2017": 6,
+   "2018": 4,
+   "2019": 11,
+   "2020": 3,
+   "2021": 5,
+   "2022": 7,
+   "2023": 4,
+   "2024": 6,
+   "2025": 8,
+   "2026": 5
+  },
+  "par_type": {
+   "journal": 46,
+   "conférence": 48,
+   "chapitre": 2
+  },
+  "lieux_principaux": [
+   [
+    "Journal of Mathematical Imaging and Vision",
+    16
+   ],
+   [
+    "Advances in Applied Clifford Algebras",
+    7
+   ],
+   [
+    "International Conference on Discrete Geometry and Mathematical Morphology",
+    4
+   ],
+   [
+    "Computer Graphics Forum",
+    4
+   ],
+   [
+    "Theoretical Computer Science",
+    3
+   ],
+   [
+    "IAPR Third International Conference on Discrete Geometry and Mathematical Morphology",
+    2
+   ],
+   [
+    "CGI ENGAGE",
+    2
+   ],
+   [
+    "CGI",
+    2
+   ]
+  ]
+ },
+ "LAMPA/Réalités étendues": {
+  "permanents_ig": 2,
+  "permanents_partiel": 3,
+  "publications_via_partiel": 125,
+  "permanents_total": 5,
+  "publications": 200,
+  "par_annee": {
+   "2011": 6,
+   "2012": 10,
+   "2013": 21,
+   "2014": 11,
+   "2015": 8,
+   "2016": 7,
+   "2017": 20,
+   "2018": 13,
+   "2019": 11,
+   "2020": 9,
+   "2021": 11,
+   "2022": 15,
+   "2023": 12,
+   "2024": 9,
+   "2025": 17,
+   "2026": 20
+  },
+  "par_type": {
+   "conférence": 98,
+   "journal": 94,
+   "chapitre": 7,
+   "ouvrage": 1
+  },
+  "lieux_principaux": [
+   [
+    "International Journal of Virtual Reality",
+    10
+   ],
+   [
+    "18th International Conference on Computer Supported Education",
+    4
+   ],
+   [
+    "IEEE Transactions on Visualization and Computer Graphics",
+    4
+   ],
+   [
+    "International Journal of Design and Innovation Research",
+    4
+   ],
+   [
+    "CONFERE",
+    4
+   ],
+   [
+    "Virtual Reality International Conference",
+    4
+   ],
+   [
+    "Theoretical Issues in Ergonomics Science",
+    3
+   ],
+   [
+    "Human Behavior and Emerging Technologies",
+    3
+   ]
+  ]
+ },
+ "LS2N/IPI": {
+  "permanents_ig": 1,
+  "permanents_partiel": 7,
+  "publications_via_partiel": 538,
+  "permanents_total": 15,
+  "publications": 593,
+  "par_annee": {
+   "2011": 42,
+   "2012": 39,
+   "2013": 47,
+   "2014": 46,
+   "2015": 33,
+   "2016": 42,
+   "2017": 38,
+   "2018": 34,
+   "2019": 35,
+   "2020": 34,
+   "2021": 34,
+   "2022": 33,
+   "2023": 42,
+   "2024": 31,
+   "2025": 39,
+   "2026": 24
+  },
+  "par_type": {
+   "conférence": 377,
+   "journal": 178,
+   "chapitre": 33,
+   "ouvrage": 5
+  },
+  "lieux_principaux": [
+   [
+    "IEEE International Conference on Image Processing",
+    27
+   ],
+   [
+    "IEEE Transactions on Image Processing",
+    18
+   ],
+   [
+    "IEEE Transactions on Multimedia",
+    15
+   ],
+   [
+    "Signal Processing: Image Communication",
+    14
+   ],
+   [
+    "IEEE International Conference on Multimedia and Expo",
+    14
+   ],
+   [
+    "IEEE Transactions on Circuits and Systems for Video Technology",
+    11
+   ],
+   [
+    "IEEE Journal of Selected Topics in Signal Processing",
+    9
+   ],
+   [
+    "IEEE International Conference on Multimedia and Expo Workshops",
+    7
+   ]
+  ]
+ },
+ "LS2N/PACCE": {
+  "permanents_ig": 3,
+  "permanents_partiel": 5,
+  "publications_via_partiel": 198,
+  "permanents_total": 14,
+  "publications": 288,
+  "par_annee": {
+   "2011": 17,
+   "2012": 15,
+   "2013": 15,
+   "2014": 13,
+   "2015": 10,
+   "2016": 15,
+   "2017": 14,
+   "2018": 20,
+   "2019": 16,
+   "2020": 13,
+   "2021": 10,
+   "2022": 19,
+   "2023": 29,
+   "2024": 25,
+   "2025": 35,
+   "2026": 22
+  },
+  "par_type": {
+   "chapitre": 7,
+   "journal": 93,
+   "conférence": 188
+  },
+  "lieux_principaux": [
+   [
+    "IEEE Transactions on Visualization and Computer Graphics",
+    15
+   ],
+   [
+    "Frontiers in Virtual Reality",
+    5
+   ],
+   [
+    "International Conference on Multimodal Interaction",
+    4
+   ],
+   [
+    "Virtual Reality",
+    3
+   ],
+   [
+    "Proceedings of the ACM on Human-Computer Interaction",
+    3
+   ],
+   [
+    "ISMAR - IEEE International Symposium on Mixed and Augmented Reality",
+    3
+   ],
+   [
+    "Intelligent Virtual Agents",
+    3
+   ],
+   [
+    "VSMM - 23rd International Conference on Virtual Systems and Multimedia",
+    3
+   ]
+  ]
  }
 }

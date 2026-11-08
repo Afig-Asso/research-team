@@ -1,0 +1,80 @@
+equipe: LAMPA/Réalités étendues
+domaines:
+  principaux:
+  - rv
+  secondaires:
+  - humains
+themes:
+- id: incarnation_presence
+  phrase: Incarnation d'avatars humains, biomimétiques ou non organiques, cohérence entre représentation et interactions,
+    présence et identification à l'avatar lors des transitions entre dispositifs.
+  preuves:
+  - p4bab71be92
+  - p709462c2e7
+  - p0a214f5284
+- id: avatars_signeurs
+  phrase: Expressivité faciale et stylisation des avatars et agents virtuels, et leurs effets sur la présence sociale et la
+    reconnaissance des émotions.
+  preuves:
+  - p91920de8c4
+  - p61f40b0c02
+  - p96682b7c6e
+- id: sketching
+  phrase: 'Esquisse 3D en réalité virtuelle pour la conception amont de produits : qualité des esquisses, rôle du mouvement
+    et des compétences de rotation mentale, comparaison avec les outils 2D.'
+  preuves:
+  - pa18ec7393d
+  - p18d8c75338
+  - p52ee179be3
+- id: formation_rv
+  phrase: Apprentissage de savoir-faire professionnels en réalité virtuelle immersive, jumeaux numériques industriels pour
+    la formation d'ingénieurs et tuteurs virtuels.
+  preuves:
+  - p4db3d6e619
+  - pca4e4a06ce
+  - pa7dc382dc5
+- id: interaction_3d
+  phrase: Contrôle du corps virtuel sans les mains, capture sans marqueur des mains et sélection directe d'objets pour l'interaction
+    3D en environnement virtuel.
+  preuves:
+  - p1edf300825
+  - p508e9fc294
+  - pdc0d5ec677
+applications:
+- id: education
+  preuves:
+  - p4db3d6e619
+  - pca4e4a06ce
+  - pa7dc382dc5
+- id: sante
+  preuves:
+  - p308f4b4cd4
+  - p6a3004f194
+  - pb006196c43
+- id: industrie_cao
+  preuves:
+  - pa35dd44c3c
+  - pd8b9e88000
+  - pa18ec7393d
+- id: art_musique
+  preuves:
+  - p2573c9f279
+  - p8bbd6a9ad0
+  - p61a3af1da9
+- id: accessibilite
+  preuves:
+  - p1edf300825
+  - p7e4d573ce0
+  - p678332885d
+publications_representatives:
+- p4bab71be92
+- p709462c2e7
+- p0a214f5284
+- pa18ec7393d
+- p4655384290
+synthese: 'Expérience utilisateur en réalité virtuelle et étendue : incarnation et présence, avatars expressifs, esquisse
+  3D immersive pour la conception de produits, apprentissage et interaction 3D.'
+pour_etudiants: On y étudie ce que l'on ressent quand on habite un avatar en réalité virtuelle, et on y utilise la réalité
+  virtuelle pour dessiner des objets en 3D ou apprendre un métier.
+pour_entreprises: Conception et évaluation d'expériences immersives (présence, incarnation, charge mentale), outils de conception
+  de produits et de formation en réalité virtuelle.

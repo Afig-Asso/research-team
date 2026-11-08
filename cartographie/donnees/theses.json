@@ -5134,5 +5134,922 @@
 "en_preparation": 4,
 "debut": 2011,
 "fin": 2026
+},
+"ICUBE/MIMESIS": {
+"soutenues": [
+{
+"id": "2025STRAD048",
+"titre": "L’insertion robotisée d’aiguille guidée par fluoroscopie pour l’ablation par radiofréquence",
+"titre_en": "Fluoroscopy guided robotic needle insertion for radio frequency ablation",
+"annee": 2025,
+"etablissement": "Strasbourg"
+},
+{
+"id": "2025STRAD046",
+"titre": "Modélisation et résolution d'interactions aiguille-tissus pour un rendu haptique rapide et stable : application aux procédures hépatiques percutanées",
+"titre_en": "Modeling and resolution of needle-tissue interactions for a fast and stable haptic rendering : application to hepatic percutaneous procedures",
+"annee": 2025,
+"etablissement": "Strasbourg"
+},
+{
+"id": "2024STRAD031",
+"titre": "AI-enabled IVUS-guided augmented reality for liver surgery",
+"titre_en": "Réalité augmentée et intelligence artificielle pour une chirurgie hépatique guidée par échographie intravascularie",
+"annee": 2024,
+"etablissement": "Strasbourg"
+},
+{
+"id": "2024STRAD062",
+"titre": "Amélioration des procédures guidées par fluoroscopie à l'aide d'un réseau de neurones pour le recalage déformable des organes",
+"titre_en": "Enhancing fluoroscopy-guided procedures with neural network-based deformable organ registration",
+"annee": 2024,
+"etablissement": "Strasbourg"
+},
+{
+"id": "2024STRAD051",
+"titre": "Towards autonomous endovascular surgery : development of assistance tools for computer-aided interventions",
+"titre_en": "Vers une chirurgie endovasculaire autonome : développement de stratégies pour des interventions assistées par ordinateur",
+"annee": 2024,
+"etablissement": "Strasbourg"
+},
+{
+"id": "2023STRAD070",
+"titre": "Biomécanique computationnelle pilotée par les données à l'aide de réseaux neuronaux profonds : application à la chirurgie augmentée",
+"titre_en": "Data-driven computational biomechanics using deep neural networks : application to augmented surgery",
+"annee": 2023,
+"etablissement": "Strasbourg"
+},
+{
+"id": "2023STRAD029",
+"titre": "Vers des performances en temps réel dans les simulations physiques à grande échelle",
+"titre_en": "Towards real-time performance in large-scale physics-based simulations",
+"annee": 2023,
+"etablissement": "Strasbourg"
+},
+{
+"id": "2022STRAD014",
+"titre": "Contrôle optimal pour le recalage d’organes en chirurgie augmentée",
+"titre_en": "An optimal control formulation for organ registration in augmented surgery",
+"annee": 2022,
+"etablissement": "Strasbourg"
+},
+{
+"id": "2021STRAD037",
+"titre": "Identification et caractérisation des conditions aux limites pour des simulations biomécaniques patient-spécifiques",
+"titre_en": "Identification and characterization of boundary conditions for patient specific biomechanical simulation",
+"annee": 2021,
+"etablissement": "Strasbourg"
+},
+{
+"id": "2020STRAD034",
+"titre": "Combinaison entre simulation numérique et apprentissage automatique : applications à la formation, la planification préopératoire et l'assistance peropératoire",
+"titre_en": "Machine learning meets real-time numerical simulation : application to surgical training, preoperative planning and surgical assistance",
+"annee": 2020,
+"etablissement": "Strasbourg"
+},
+{
+"id": "2020STRAD029",
+"titre": "Nouvelles méthodes numériques pour la simulation temps-réel des déformations des tissus mous dans le cadre de l’assistance peropératoire",
+"titre_en": "Exploring new numerical methods for the simulation of soft tissue deformations in surgery assistance",
+"annee": 2020,
+"etablissement": "Strasbourg"
+},
+{
+"id": "2020STRAD030",
+"titre": "Simulation intéractive guidée par l'image pour la chirurgie endovasculaire",
+"titre_en": "Image-guided interactive simulation for endovascular gurgery",
+"annee": 2020,
+"etablissement": "Strasbourg"
+},
+{
+"id": "2019LORR0238",
+"titre": "Mise en correspondance de graphes utilisant la biomécanique pour le recalage intra-opératoire d’images hépatiques",
+"titre_en": "Biomechanical graph matching for hepatic intra-operative image registration",
+"annee": 2019,
+"etablissement": "Université de Lorraine"
+},
+{
+"id": "2017STRAD009",
+"titre": "Changements topologiques pour la simulation d'objets déformables",
+"titre_en": "Topological changes in simulations of deformable objects",
+"annee": 2017,
+"etablissement": "Strasbourg"
+},
+{
+"id": "2016LIL10039",
+"titre": "Réalité augmentée et simulations numériques dans la résection des tumeurs hépatiques",
+"titre_en": "Augmented reality and numerical simulations for hepatic tumors resection",
+"annee": 2016,
+"etablissement": "Lille 1"
+},
+{
+"id": "2015LIL10014",
+"titre": "Modélisation des interactions entre solides déformables et films fluides pour la simulation médicale temps-réel",
+"titre_en": "Modelling interactions between deformable solids and fluid films for real-time medical simulations",
+"annee": 2015,
+"etablissement": "Lille 1"
+},
+{
+"id": "2015LIL10009",
+"titre": "Simulation guidée par l’image pour la réalité augmentée durant la chirurgie hépatique",
+"titre_en": "Image-guided simulation for augmented reality during hepatic surgery",
+"annee": 2015,
+"etablissement": "Lille 1"
+},
+{
+"id": "2014LIL10044",
+"titre": "Reconstruction robuste des vaisseaux sanguins pour les simulations médicales interactives",
+"titre_en": "Robust blood vessel reconstruction for interactive medical simulations",
+"annee": 2014,
+"etablissement": "Lille 1"
+},
+{
+"id": "2014LIL10136",
+"titre": "Simulation biomécanique pour la stimulation cérébrale profonde",
+"titre_en": "Patient-specific biomechanical simulation for deep brain stimulation",
+"annee": 2014,
+"etablissement": "Lille 1"
+},
+{
+"id": "2014LIL10056",
+"titre": "Simulation interactive et patient-spécifique de l’électrophysiologie cardiaque",
+"titre_en": "Interactive patient-specific simulation of cardiac electrophysiology",
+"annee": 2014,
+"etablissement": "Lille 1"
+},
+{
+"id": "2012LIL10034",
+"titre": "Vers la simulation temps-réel de l’embolisation d’un coil dans un anévrisme par l’utilisation de la méthode du calcul extérieur discret",
+"titre_en": "Toward real-time simulation of aneurysm coil embolization using the discrete exterior calculus method",
+"annee": 2012,
+"etablissement": "Lille 1"
+},
+{
+"id": "2011LIL10108",
+"titre": "Nouvelles architectures parallèles pour simulations interactives médicales",
+"titre_en": "New parallel architectures for interactive medical simulations",
+"annee": 2011,
+"etablissement": "Lille 1"
+}
+],
+"hors_ig": 0,
+"en_preparation": 7,
+"debut": 2011,
+"fin": 2026
+},
+"IBISC/IRA2": {
+"soutenues": [
+{
+"id": "2025UPAST045",
+"titre": "Approches basées sur les variétés pour la reconnaissance des actions et des gestes",
+"titre_en": "Manifold-Based Approaches for Action and Gesture Recognition",
+"annee": 2025,
+"etablissement": "université Paris-Saclay"
+},
+{
+"id": "2025UPASG066",
+"titre": "Deep learning pour l'immersion et l'interaction 3D naturelle dans les expériences de réalité mixte intelligente",
+"titre_en": "Deep learning for immersion and natural 3D interaction within intelligent mixed reality experiences",
+"annee": 2025,
+"etablissement": "université Paris-Saclay"
+},
+{
+"id": "2025UPASG012",
+"titre": "Feedback multisensoriels pour la manipulation d'objets virtuels en réalité augmentée",
+"titre_en": "Multisensory feedback for virtual object manipulation in augmented reality",
+"annee": 2025,
+"etablissement": "université Paris-Saclay"
+},
+{
+"id": "2025UPASG082",
+"titre": "Méthodes et outils de débriefing des simulateurs en réalité virtuelle",
+"titre_en": "Methods and tools for debriefing virtual reality simulators",
+"annee": 2025,
+"etablissement": "université Paris-Saclay"
+},
+{
+"id": "2025UPASG099",
+"titre": "Suivi et certification en réalité augmentée des procédures de maintenance",
+"titre_en": "Monitoring and certification of maintenance procedures in augmented reality",
+"annee": 2025,
+"etablissement": "université Paris-Saclay"
+},
+{
+"id": "2024UPASG073",
+"titre": "Interaction collaborative et multimodalité pour la formation médicale en réalité virtuelle",
+"titre_en": "Collaborative interaction and multimodality for medical training in virtual reality",
+"annee": 2024,
+"etablissement": "université Paris-Saclay"
+},
+{
+"id": "2024UPASG047",
+"titre": "Modèles et outils de conception de techniques d'interaction pour applications d'apprentissage en vidéo panoramique",
+"titre_en": "Design of interaction techniques for learning applications using 360-degree videos",
+"annee": 2024,
+"etablissement": "université Paris-Saclay"
+},
+{
+"id": "2024UPASG066",
+"titre": "Projet AlzVR : Conception et évaluation d'un outil digital multimodal de détection des troubles cognitifs dans la maladie d'Alzheimer",
+"titre_en": "AlzVR project : Design and evaluation of a multimodal digital tool for detecting cognitive disorders in Alzheimer's disease",
+"annee": 2024,
+"etablissement": "université Paris-Saclay"
+},
+{
+"id": "2023UPASG039",
+"titre": "Proposition de mécanismes d'optimisation des données pour la perception temps-réel dans un système embarqué hétérogène",
+"titre_en": "Data optimization mechanisms for real-time perception in a heterogeneous system",
+"annee": 2023,
+"etablissement": "université Paris-Saclay"
+},
+{
+"id": "2022UPAST117",
+"titre": "Odométrie Visio-Inertielle Basée sur Le Flot Optique pour Les Capteurs Neuromorphiques de Vision",
+"titre_en": "Flow-Based Visual-Inertial Odometry for Neuromorphic Vision Sensors",
+"annee": 2022,
+"etablissement": "université Paris-Saclay"
+},
+{
+"id": "2022CYUN1121",
+"titre": "Reconstruction d'objets 3D à partir d'une image monoculaire en utilisant l'apprentissage profond.",
+"titre_en": "3D objet reconstruction from a single monocular image using Deep Learning.",
+"annee": 2022,
+"etablissement": "CY Cergy Paris Université"
+},
+{
+"id": "2022UPASG020",
+"titre": "Retours sensoriels multimodaux en réalité augmentée pour la rééducation de la marche des enfants atteints de paralysie cérébrale",
+"titre_en": "Multimodal sensory feedback in augmented reality for gait rehabilitation in children with cerebral palsy",
+"annee": 2022,
+"etablissement": "université Paris-Saclay"
+},
+{
+"id": "2021CYUN1020",
+"titre": "Reconnaissance de l’identité de véhicules par apprentissage profond",
+"titre_en": "Vehicle identity recognition using deep learning",
+"annee": 2021,
+"etablissement": "CY Cergy Paris Université"
+},
+{
+"id": "2020UPASG031",
+"titre": "Effets de la fidélité dans les simulateurs de réalité virtuelle sur l'apprentissage des compétences techniques en chirurgie",
+"titre_en": "Effects of fidelity in virtual reality simulators on learning technical surgical skills",
+"annee": 2020,
+"etablissement": "université Paris-Saclay"
+},
+{
+"id": "2020UPASG039",
+"titre": "Interaction bi latérale entre un robot humanoïde et un humain assistée par la réalité mixte",
+"titre_en": "Bi-lateral interaction between a humanoid robot and a human in mixed reality",
+"annee": 2020,
+"etablissement": "université Paris-Saclay"
+},
+{
+"id": "2020UPASG047",
+"titre": "Interaction humaine dans une plateforme de robot parallèle de grand espace de travail avec un environnement virtuel",
+"titre_en": "Human Interaction in a large workspace parallel robot platform with a virtual environment",
+"annee": 2020,
+"etablissement": "université Paris-Saclay"
+},
+{
+"id": "2020CYUN1067",
+"titre": "Résolution automatique de puzzles par apprentissage profond",
+"titre_en": "Solving jigsaw puzzles with deep learning",
+"annee": 2020,
+"etablissement": "CY Cergy Paris Université"
+},
+{
+"id": "2019CERG1015",
+"titre": "Apprentissage automatique pour la reconnaissance d'action humaine et l'estimation de pose à partir de l'information 3D",
+"titre_en": "Machine Learning for Human Action Recognition and Pose Estimation based on 3D Information",
+"annee": 2019,
+"etablissement": "Cergy-Pontoise"
+},
+{
+"id": "2019SACLE035",
+"titre": "Conception et évaluation d’un système de réalité virtuelle pour l’assistance à l’auto-rééducation du membre supérieur post-AVC",
+"titre_en": "Design and evaluation of a virtual reality assistance system for the assistance self-rehabilitation of the upper limb after stroke",
+"annee": 2019,
+"etablissement": "Université Paris-Saclay (ComUE)"
+},
+{
+"id": "2018SACLE037",
+"titre": "Reconnaissance des gestes expressifs inspirée du modèle LMA pour une interaction naturelle homme-robot",
+"titre_en": "Expressive gesture recognition inspired by the LMA model for a natural human-robot interaction",
+"annee": 2018,
+"etablissement": "Université Paris-Saclay (ComUE)"
+},
+{
+"id": "s127438",
+"titre": "Analyse et reconnaissance des gestes avec un capteur RGBD",
+"titre_en": "Gesture analysis and recognition with a RGBD sensor",
+"annee": 2017,
+"etablissement": "Cergy-Pontoise"
+},
+{
+"id": "2017SACLE005",
+"titre": "Vers l’immersion mobile en réalité augmentée : une approche basée sur le suivi robuste de cibles naturelles et sur l’interaction 3D",
+"titre_en": "Toward mobile immersion in augmented reality : an approach based on robust natural feature tracking and 3D interaction",
+"annee": 2017,
+"etablissement": "Université Paris-Saclay (ComUE)"
+},
+{
+"id": "2016SACLE051",
+"titre": "Vers un système interactif de réalité augmentée mobile pour la supervision de scénarios de maintenance industrielle",
+"titre_en": "Towards an interactive mobile augmented reality system for industrial maintenance scenario supervision",
+"annee": 2016,
+"etablissement": "Université Paris-Saclay (ComUE)"
+},
+{
+"id": "2015SACLE023",
+"titre": "Etude et conception des techniques d'interaction pour faciliter la sélection et la manipulation d'objets dans des environnements virtuels sur interface mobile",
+"titre_en": "Study and design of interaction techniques to facilitate object selection and manipulation in virtual environments on mobile devices",
+"annee": 2015,
+"etablissement": "Université Paris-Saclay (ComUE)"
+},
+{
+"id": "2015SACLE014",
+"titre": "Modélisation et simulation interactive pour la navigation d'un robot sous-marin de type ROV Observer",
+"titre_en": "Modeling and interactive simulation for navigation of a remotely operated vehicle ROV",
+"annee": 2015,
+"etablissement": "Université Paris-Saclay (ComUE)"
+},
+{
+"id": "2014EVRY0055",
+"titre": "Quelques contributions en localisation et cartographie simultanées multi-capteurs : application à la réalité augmentée",
+"titre_en": "Some contributions to multi-sensor simultaneous localization and mapping : application to augmented reality",
+"annee": 2014,
+"etablissement": "Evry-Val d'Essonne"
+},
+{
+"id": "2013EVRY0002",
+"titre": "Architecture distribuée dédiée aux applications de réalité augmentée mobile",
+"titre_en": "Distributed architected dedicated to mobile augmented reality applications",
+"annee": 2013,
+"etablissement": "Evry-Val d'Essonne"
+},
+{
+"id": "2013EVRY0005",
+"titre": "Méthode d'analyse de grands volumes de données : appliquées à la détection précoce de la maladie d'Alzheimer à partir d'images \"FDG-PET scan\"",
+"titre_en": "Methods for large volume image analysis : applied to early detection of Alzheimer's disease by analysis of FDG-PET scans",
+"annee": 2013,
+"etablissement": "Evry-Val d'Essonne"
+},
+{
+"id": "2013EVRY0010",
+"titre": "Une assistance à l'interaction 3D en réalité virutuelle par un raisonnement sémantique et une conscience du contexte",
+"titre_en": "3D interaction assistance in virual reality by semantic reasoning and context-awareness",
+"annee": 2013,
+"etablissement": "Evry-Val d'Essonne"
+},
+{
+"id": "2011EVRY0003",
+"titre": "Assistance multimodale pour l'interaction 3D collaboratif : étude de la performance pour le travail collaboratif",
+"titre_en": "Multi-modal assistance for collaborative 3D interaction : study and analysis of performance in collaborative work",
+"annee": 2011,
+"etablissement": "Evry-Val d'Essonne"
+},
+{
+"id": "2011EVRY0028",
+"titre": "Interaction en réalité mixte appliquée à l'archéologie sous-marine",
+"titre_en": "Interaction in mixed reality applied to underwater archeology",
+"annee": 2011,
+"etablissement": "Evry-Val d'Essonne"
+}
+],
+"hors_ig": 6,
+"en_preparation": 12,
+"debut": 2011,
+"fin": 2026
+},
+"Lab-STICC/INUIT": {
+"soutenues": [
+{
+"id": "2026IMTA0525",
+"titre": "Améliorer la confiance des utilisateurs dans les véhicules autonomes grâce à la visualisation en réalité augmentée.",
+"titre_en": "Enhancing user trust in autonomous vehicles through augmented reality visualization",
+"annee": 2026,
+"etablissement": "Ecole nationale supérieure Mines-Télécom Atlantique Bretagne Pays de la Loire"
+},
+{
+"id": "2026IMTA0539",
+"titre": "Intelligence en essaim pour déjouer un système de détection adverse",
+"titre_en": "Swarm intelligence to deceive an adversary detection system",
+"annee": 2026,
+"etablissement": "Ecole nationale supérieure Mines-Télécom Atlantique Bretagne Pays de la Loire"
+},
+{
+"id": "2026IMTA0521",
+"titre": "Mesure et modélisation de l’activité collaborative en réalité virtuelle : des signaux sociaux aux indices de collaboration",
+"titre_en": "Measuring and modelling team activity in virtual reality : from social signals to collaboration indices",
+"annee": 2026,
+"etablissement": "Ecole nationale supérieure Mines-Télécom Atlantique Bretagne Pays de la Loire"
+},
+{
+"id": "2025IMTA0480",
+"titre": "Optimisation des retours sensoriels et de l’efficience de l’interaction manuelle dans une expérience de XR",
+"titre_en": "Optimizing sensory feedback and manual interaction efficiency within XR experiments",
+"annee": 2025,
+"etablissement": "Ecole nationale supérieure Mines-Télécom Atlantique Bretagne Pays de la Loire"
+},
+{
+"id": "2024IMTA0407",
+"titre": "Perception des activités collaboratives par la réalité étendue",
+"titre_en": "Perceiving collaborative activity with extended reality : how to improve collaborative work by sharing users' status",
+"annee": 2024,
+"etablissement": "Ecole nationale supérieure Mines-Télécom Atlantique Bretagne Pays de la Loire"
+},
+{
+"id": "2024BRES0073",
+"titre": "Perception et compréhension des essaims de robots : mécanismes d'auto-organisation, perception humaine et visualisations localisées pour appréhender les fragmentations",
+"titre_en": "Perception and comprehension of robot swarms : self-organisation mechanisms, human perception and localised visualisations to understand fragmentations",
+"annee": 2024,
+"etablissement": "Brest"
+},
+{
+"id": "2023UPASG027",
+"titre": "Conception collaborative en réalité augmentée : mise en oeuvre de vues multiples et de versions parallèles de l'espace de conception",
+"titre_en": "Collaborative Design in Augmented Reality : Supporting multiple views and parallel versions of the design space",
+"annee": 2023,
+"etablissement": "université Paris-Saclay"
+},
+{
+"id": "2023IMTA0387",
+"titre": "Cybersécurité en réalité virtuelle : améliorer le processus de détection d’intrusion, d’investigation et de décision via l’utilisation de techniques de visualisations 3D immersives",
+"titre_en": "Virtual reality for cybersecurity : improve intrusion detection, investigation and decision making processes through the use of immersive 3D visualization techniques",
+"annee": 2023,
+"etablissement": "Ecole nationale supérieure Mines-Télécom Atlantique Bretagne Pays de la Loire"
+},
+{
+"id": "2023IMTA0343",
+"titre": "Les interactions multimodales dans le contexte de l’internet des objets",
+"titre_en": "Multimodal interactions in the context of the Internet of Things",
+"annee": 2023,
+"etablissement": "Ecole nationale supérieure Mines-Télécom Atlantique Bretagne Pays de la Loire"
+},
+{
+"id": "2023IMTA0362",
+"titre": "Vers une détection des changements géométriques et sémantiques pour des expériences de réalité mixte",
+"titre_en": "Towards geometric and semantic change detection for mixed reality experiences",
+"annee": 2023,
+"etablissement": "Ecole nationale supérieure Mines-Télécom Atlantique Bretagne Pays de la Loire"
+},
+{
+"id": "2022ENIB0013",
+"titre": "Interactions tangibles pour naviguer spatialement et temporellement en environnements virtuels. : application à la médiation culturelle en histoire des sciences et techniques",
+"titre_en": "Tangible interactions to navigate through space and time in virtual environnements. : application to cultural mediation in the history of science and technology",
+"annee": 2022,
+"etablissement": "École nationale d'ingénieurs de Brest"
+},
+{
+"id": "2022ENIB0015",
+"titre": "Modèle d' interaction liant Modèles d' actions métier et interactions tangibles en environnement virtuel",
+"titre_en": "Interaction model linking activity models and tangible interactions in virtual environment",
+"annee": 2022,
+"etablissement": "École nationale d'ingénieurs de Brest"
+},
+{
+"id": "2022IMTA0299",
+"titre": "Nouvelles visualisations 3D collaboratives de graphes pour l'exploration de relations intra et inter communautés",
+"titre_en": "New 3D collaborative graph visualizations for intra and inter communities'relationships exploration",
+"annee": 2022,
+"etablissement": "Ecole nationale supérieure Mines-Télécom Atlantique Bretagne Pays de la Loire"
+},
+{
+"id": "2022IMTA0340",
+"titre": "Outil d'authoring 3D du jumeau numérique de lignes d'assemblage pour augmenter l'opérateur de l'usine du futur",
+"titre_en": "3D authoring tool of the digital twin of assembly lines to augment the operator of the factory of the future",
+"annee": 2022,
+"etablissement": "Ecole nationale supérieure Mines-Télécom Atlantique Bretagne Pays de la Loire"
+},
+{
+"id": "2021UPASG107",
+"titre": "Cohérence spatiale entre les espaces de travail réels et virtuels pour les tâches individuelles et collaboratives dans les environnements virtuels",
+"titre_en": "Spatial consistency between real and virtual workspaces for individual and collaborative tasks in virtual environments",
+"annee": 2021,
+"etablissement": "université Paris-Saclay"
+},
+{
+"id": "2021BRES0101",
+"titre": "Visualisation et interactions avec une colonie d’abeilles virtuelle : simulation, complexité et pédagogie",
+"titre_en": "Visualisation and interactions with a virtual honey bee colony : simulation, complexity and pedagogy",
+"annee": 2021,
+"etablissement": "Brest"
+},
+{
+"id": "2019IMTA0166",
+"titre": "CyberCOP 3D : visualisation 3D interactive et collaborative de l'état de sécurité d'un système informatique",
+"titre_en": "CyberCOP 3D : interactive and Collaborative 3D visualization of a system’s security state",
+"annee": 2019,
+"etablissement": "Ecole nationale supérieure Mines-Télécom Atlantique Bretagne Pays de la Loire"
+},
+{
+"id": "2018BRES0117",
+"titre": "MEMORIA, un Modèle de rEprésentation de la MémOire de l'appRenant pour les systèmes tutoriels Intelligents et Adaptatifs",
+"titre_en": "MEMORIA, a model of the learner’s memory representation for adaptive and intelligent tutoring systems",
+"annee": 2018,
+"etablissement": "Brest"
+},
+{
+"id": "2018IMTA0068",
+"titre": "Proposition de modes de visualisation et d'interaction innovants pour les grandes masses de données et/ou les données structurées complexes en prenant en compte les limitations perceptives des utilisateurs",
+"titre_en": "Proposal of innovative visualization and interaction metaphors for huge amount of data and / or complex data by taking into account perceptual",
+"annee": 2018,
+"etablissement": "Ecole nationale supérieure Mines-Télécom Atlantique Bretagne Pays de la Loire"
+},
+{
+"id": "2017BRES0156",
+"titre": "Génération des intentions communicatives pour agents virtuels dans un environnement virtuel intelligent : application aux environnements d'apprentissage virtuels",
+"titre_en": "Generation of communicative intentions for virtual agents in an intelligent virtual environment : application to virtual learning environment",
+"annee": 2017,
+"etablissement": "Brest"
+},
+{
+"id": "2017LORIS438",
+"titre": "Évaluation multidimensionnelle et dynamique de la maitrise de la situation par l’opérateur : création d’un indicateur temps réel de charge mentale pour l’activité de supervision de drones",
+"titre_en": "Multidimensional and dynamic evaluation of the control of the situation by the operator : creation of a real-time mental load indicator for drone supervision activity",
+"annee": 2017,
+"etablissement": "Lorient"
+},
+{
+"id": "2016REN1S034",
+"titre": "Plasticité des interfaces de réalité mixte",
+"titre_en": "Plasticity for user interfaces in mixed reality",
+"annee": 2016,
+"etablissement": "Rennes 1"
+},
+{
+"id": "2015SACLE023",
+"titre": "Etude et conception des techniques d'interaction pour faciliter la sélection et la manipulation d'objets dans des environnements virtuels sur interface mobile",
+"titre_en": "Study and design of interaction techniques to facilitate object selection and manipulation in virtual environments on mobile devices",
+"annee": 2015,
+"etablissement": "Université Paris-Saclay (ComUE)"
+},
+{
+"id": "2015BRES0078",
+"titre": "Influence de la stéréoscopie sur la perception du son : cas de mixages sonores pour le cinéma en relief",
+"titre_en": "The influence of stereoscopy on sound perception : a case study on the sound mixing of stereoscopic-3D movies",
+"annee": 2015,
+"etablissement": "Brest"
+},
+{
+"id": "2015BRES0032",
+"titre": "Modèle générique de représentation des connaissances pour la distribution des environnements virtuels utilisant DDS",
+"titre_en": "A generic information-model for distributing VRE using DDS",
+"annee": 2015,
+"etablissement": "Brest"
+},
+{
+"id": "2014ISAR0031",
+"titre": "Proposition de nouvelles techniques d'interaction 3D et de navigation 3D préservant l'immersion de l'utilisateur et facilitant la collaboration entre utilisateurs distants",
+"titre_en": "Proposition of new metaphors and techniques for 3D interaction and navigation preserving immersion and facilitating collaboration between distant users",
+"annee": 2014,
+"etablissement": "Rennes, INSA"
+},
+{
+"id": "2013BRES0083",
+"titre": "CHRYSAOR : un Système Tutoriel Intelligent pour les Environnements Virtuels d'Apprentissage Humain. Application à la formation au matériel de laboratoire en hémostase : application à la formation au matériel de laboratoire en hémostase",
+"titre_en": "CHRYSAOR : a smart tutorial system for virtual learning environments. Application to training in laboratory equipment in hemostasis",
+"annee": 2013,
+"etablissement": "Brest"
+},
+{
+"id": "2013TELB0299",
+"titre": "Etude de l'influence de la qualité audiovisuelle sur la qualité d'expérience du spectateur : combinaison d'indicateurs subjectifs, physiologiques et oculaires",
+"titre_en": "Study of the influence of the audiovisual quality on the spectator quality of experience: combination of subjective, physiological and ocular indicators",
+"annee": 2013,
+"etablissement": "Télécom Bretagne"
+},
+{
+"id": "2013ISAR0035",
+"titre": "Méthodologie de prototypage d'applications de traitement d'image sur des systèmes parallèles hétérogènes",
+"titre_en": "Prototyping methodology of image processing applications on heterogeneous parallel systems",
+"annee": 2013,
+"etablissement": "Rennes, INSA"
+}
+],
+"hors_ig": 8,
+"en_preparation": 15,
+"debut": 2011,
+"fin": 2026
+},
+"LAMA/LIMD": {
+"soutenues": [
+{
+"id": "2024CHAMA061",
+"titre": "L'opérateur de Laplace-Beltrami et ses applications au traitement de géométrie discrète",
+"titre_en": "The Laplace-Beltrami operator and its applications to discrete geometry processing",
+"annee": 2024,
+"etablissement": "Chambéry"
+},
+{
+"id": "2020CHAMA030",
+"titre": "Contraintes géométriques et approches variationnelles pour l'analyse d'image",
+"titre_en": "Geometric constraints and variational approaches to image analysis",
+"annee": 2020,
+"etablissement": "Chambéry"
+},
+{
+"id": "2018LYSE1326",
+"titre": "Opérateur de Laplace–Beltrami discret sur les surfaces digitales",
+"titre_en": "Discrete Laplace--Beltrami Operator on Digital Surfaces",
+"annee": 2018,
+"etablissement": "Lyon"
+},
+{
+"id": "2017GREAM043",
+"titre": "Analyse d'images par des méthodes variationnelles et géométriques",
+"titre_en": "Geometric and variational methods for image analysis",
+"annee": 2017,
+"etablissement": "Université Grenoble Alpes (ComUE)"
+},
+{
+"id": "2014GRENM074",
+"titre": "Inférence géométrique discrète",
+"titre_en": "discrete geometric inference",
+"annee": 2014,
+"etablissement": "Grenoble"
+}
+],
+"hors_ig": 1,
+"en_preparation": 2,
+"debut": 2011,
+"fin": 2026
+},
+"LAMPA/Réalités étendues": {
+"soutenues": [
+{
+"id": "2026ENAME016",
+"titre": "Évaluation et optimisation de l’efficacité pédagogique des environnements virtuels immersifs dans la formation d’ingénieur",
+"titre_en": "Assessing and optimising the educational effectiveness of immersive virtual environments in engineering education",
+"annee": 2026,
+"etablissement": "Paris, ENSAM"
+},
+{
+"id": "2025ENAME007",
+"titre": "Interdépendance du réalisme visuel et comportemental pour l’acceptation des personnages virtuels en environnement immersif collaboratif.",
+"titre_en": "Visual and behavioral coherence interdependence for virtual character acceptance in collaborative virtual environments.",
+"annee": 2025,
+"etablissement": "Paris, ENSAM"
+},
+{
+"id": "2021HESAE008",
+"titre": "Études des facteurs cognitifs liés aux outils numériques pour les phases amont de la conception",
+"titre_en": "Studies of cognitives factors binded to digitals tools for the upstreams phases of the conception.",
+"annee": 2021,
+"etablissement": "Paris, HESAM"
+}
+],
+"hors_ig": 1,
+"en_preparation": 0,
+"debut": 2011,
+"fin": 2026
+},
+"LS2N/IPI": {
+"soutenues": [
+{
+"id": "2026NANU4003",
+"titre": "Évaluation multicritère du confort des environnements de travail basée sur la réalité virtuelle immersive et l’analyse d’indicateurs physiologiques sous contraintes de performance",
+"titre_en": "Evaluation of Multicriteria Workspace Comfort Using Virtual Reality and Physiological Indicators under Performance Constraints",
+"annee": 2026,
+"etablissement": "Nantes Université"
+},
+{
+"id": "2025ECDN0032",
+"titre": "Analyse à grande échelle des sources acoustiques, basée sur les données, pour l’analyse, la visualisation et le résumé audio de paysages sonores urbains",
+"titre_en": "Large-Scale Monitoring of Acoustic Sources Based on Data-Driven Approaches for Urban Soundscape Analysis, Visualization and Summarization",
+"annee": 2025,
+"etablissement": "Ecole centrale de Nantes"
+},
+{
+"id": "2025ECDN0009",
+"titre": "Apprendre et reconnaître les points de repère pour améliorer la mobilité et le positionnement des personnes malvoyantes",
+"titre_en": "Learning and recognizing landmark to improve the mobility and positioning of visually impaired people",
+"annee": 2025,
+"etablissement": "Ecole centrale de Nantes"
+},
+{
+"id": "2025NANU4006",
+"titre": "Apprentissage par Imitation Indépendant de l’Incarnation et de l’Environnement pour les Robots : intégration de la Reconnaissance d’Actions Basée sur la Pose Humaine avec des Modèles de Langage et Vision",
+"titre_en": "Embodiment- and Environment-Agnostic Imitation Learning for Robots : integrating Human Pose-Based Action Récognition with Language and Vision Models",
+"annee": 2025,
+"etablissement": "Nantes Université"
+},
+{
+"id": "2024NANU4022",
+"titre": "Acceptabilité de l’Intelligence Artificielle en contexte professionnel : facteurs d’influence et méthodologies d’évaluation",
+"titre_en": "Acceptability of Artificial Intelligence in a Professional Context : influencing factors and evaluation methodologies",
+"annee": 2024,
+"etablissement": "Nantes Université"
+},
+{
+"id": "2024NANU4042",
+"titre": "Différences perceptuelles visuelles locales dans les sequences d'images : méthodes psychophysiques, prédiction algorithmique, et pplication à l'encodage perceptuel dans les codées vidéo ouverts",
+"titre_en": "Local visual perceptual differences in video : psychophysic methods, computational prediction, and application to perceptual encoding in open video codecs",
+"annee": 2024,
+"etablissement": "Nantes Université"
+},
+{
+"id": "2024NANU4045",
+"titre": "High-end Video Streaming Quality in the Wild : measuring and Predicting Satisfied User Ratio",
+"titre_en": "Qualité du streaming vidéo haut de gamme dans des conditions réelles : mesurer et prédire le taux d’utilisateurs satisfaits",
+"annee": 2024,
+"etablissement": "Nantes Université"
+},
+{
+"id": "2023NANU4010",
+"titre": "Apprentissage automatique pour l'analyse de trajectoires spatiales : extraction conjointe de caractéristiques démographiques et comportementales",
+"titre_en": "Machine learning for spatial trajectory processing : joint analysis of demographic and behavioral characteristics",
+"annee": 2023,
+"etablissement": "Nantes Université"
+},
+{
+"id": "2022NANU4001",
+"titre": "Évaluation de la qualité perceptuelle de contenus multimédias immersifs : HDR, champs lumineux et vidéos volumétriques",
+"titre_en": "Perceptual quality evaluation of immersive multimedia content : HDR, Light Field and Volumetric Video",
+"annee": 2022,
+"etablissement": "Nantes Université"
+},
+{
+"id": "2021NANT4075",
+"titre": "L’attention visuelle sur les contenus 3D graphiques : de la modélisation de la saillance à la mesure de la complexité attentionnelle et la prédiction de la préférence de vues",
+"titre_en": "Visual attention on 3D graphical contents : from saliency modeling to attention complexity measures and viewpoint preference prediction",
+"annee": 2021,
+"etablissement": "Nantes"
+},
+{
+"id": "2021NANT4006",
+"titre": "Optimisation perceptuelle et réduction de complexité d’encodage vidéo dans un contexte temps-réel",
+"titre_en": "Perceptual optimization and complexity reduction for real-time video encoding",
+"annee": 2021,
+"etablissement": "Nantes"
+},
+{
+"id": "2019NANT4045",
+"titre": "L'impact des troubles du champ visuel sur les dynamiques spatio-temporelles de l'observation de scènes naturelles : analyses et modélisation",
+"titre_en": "Effects of visual field loss on the spatio-temporal dynamics of natural scene viewing",
+"annee": 2019,
+"etablissement": "Nantes"
+},
+{
+"id": "2018ECDN0027",
+"titre": "Estimation continue de la pose d'un équipement tenu en main par fusion des données visio-inertielles pour les applications de navigation piétonne en milieux urbains",
+"titre_en": "Continuous pose estimation of handheld device by fusion of visio-inertial data for pedestrian navigation applications in urban environments",
+"annee": 2018,
+"etablissement": "Ecole centrale de Nantes"
+},
+{
+"id": "2018NANT4061",
+"titre": "Représentations perceptuelles de l'Information structurelle et géométrique des images : approches bio inspirées et par apprentissage machine : application à la qualité visuelle de médias immersifs",
+"titre_en": "Perceptual representations of structural and geometric information in images : bio-inspired and machine learning approaches : application to visual quality assessment of immersive media",
+"annee": 2018,
+"etablissement": "Nantes"
+},
+{
+"id": "2017NANT4075",
+"titre": "Apprentissage, sélection et codage de nouvelles transformées de blocs dans et pour la boucle d’optimisation de codeurs vidéo",
+"titre_en": "Learning, selection and coding of new block transforms in and for the optimization loop of video coders",
+"annee": 2017,
+"etablissement": "Nantes"
+},
+{
+"id": "2017NANT4013",
+"titre": "Modélisation de la similarité perceptuelle de textures visuelles statiques et dynamiques : application à l’optimisation perceptuelle de la compression vidéo",
+"titre_en": "Modeling the Perceptual Similarity of Static and Dynamic Visual Textures : application to the Perceptual Optimization of Video Compression",
+"annee": 2017,
+"etablissement": "Nantes"
+},
+{
+"id": "2017NANT4039",
+"titre": "Quality Assessment Methodologies of Post-Processed Images",
+"titre_en": "",
+"annee": 2017,
+"etablissement": "Nantes"
+},
+{
+"id": "2017NANT4011",
+"titre": "Transmission vidéo «contenu»-adaptée dans le contexte HEVC : optimisation de la compression, de la tolérance aux erreurs de la transmission, et de la qualité visuelle",
+"titre_en": "Content-aware video transmission in HEVC context : optimization of compression, of error resilience and concealment, and of visual quality",
+"annee": 2017,
+"etablissement": "Nantes"
+},
+{
+"id": "2017NANT4027",
+"titre": "Utilisation de lattention visuelle pour la prédiction de qualité visuelle à échelle spatio-temporelle fine : de la pondération perceptuelle à une nouvelle mesure de disruption visuelle",
+"titre_en": "Visual attention for quality prediction at fine spatio-temporal scales : from perceptual weighting towards visual disruption modeling",
+"annee": 2017,
+"etablissement": "Nantes"
+},
+{
+"id": "2016NANT4033",
+"titre": "Prédiction computationnelle de la mémorabilité des images : vers une intégration des informations extrinsèques et émotionnelles",
+"titre_en": "Computational understanding of image memorability : towards the integration of emotional and extrinsic information",
+"annee": 2016,
+"etablissement": "Nantes"
+},
+{
+"id": "2012ANGE0025",
+"titre": "Modèles numériques pour l'évaluation objective de la qualité d'images médicales",
+"titre_en": "Numerical observers for the objective quality assessment of medical images",
+"annee": 2012,
+"etablissement": "Angers"
+},
+{
+"id": "2012NANT2072",
+"titre": "Saillance visuelle, de la 2D à la 3D stéréoscopique : examen des méthodes psychophysiques et modélisation computationnelle",
+"titre_en": "",
+"annee": 2012,
+"etablissement": "Nantes"
+},
+{
+"id": "2011NANT2078",
+"titre": "Observateurs colorimétriques : identification de catégories et classification. Applications en sciences de la vision et de la couleur",
+"titre_en": "Identification and assignment of colorimetric observer categories and their applications in color and vision sciences",
+"annee": 2011,
+"etablissement": "Nantes"
+}
+],
+"hors_ig": 4,
+"en_preparation": 8,
+"debut": 2011,
+"fin": 2026
+},
+"LS2N/PACCE": {
+"soutenues": [
+{
+"id": "2026IMTA0525",
+"titre": "Améliorer la confiance des utilisateurs dans les véhicules autonomes grâce à la visualisation en réalité augmentée.",
+"titre_en": "Enhancing user trust in autonomous vehicles through augmented reality visualization",
+"annee": 2026,
+"etablissement": "Ecole nationale supérieure Mines-Télécom Atlantique Bretagne Pays de la Loire"
+},
+{
+"id": "2026IMTA0521",
+"titre": "Mesure et modélisation de l’activité collaborative en réalité virtuelle : des signaux sociaux aux indices de collaboration",
+"titre_en": "Measuring and modelling team activity in virtual reality : from social signals to collaboration indices",
+"annee": 2026,
+"etablissement": "Ecole nationale supérieure Mines-Télécom Atlantique Bretagne Pays de la Loire"
+},
+{
+"id": "2025IMTA0459",
+"titre": "Modéliser l’induction de stress social dans des simulations immersives en réalité virtuelle",
+"titre_en": "Modelling the induction of social stress in immersive virtual reality simulations",
+"annee": 2025,
+"etablissement": "Ecole nationale supérieure Mines-Télécom Atlantique Bretagne Pays de la Loire"
+},
+{
+"id": "2025IMTA0480",
+"titre": "Optimisation des retours sensoriels et de l’efficience de l’interaction manuelle dans une expérience de XR",
+"titre_en": "Optimizing sensory feedback and manual interaction efficiency within XR experiments",
+"annee": 2025,
+"etablissement": "Ecole nationale supérieure Mines-Télécom Atlantique Bretagne Pays de la Loire"
+},
+{
+"id": "2024ISAR0012",
+"titre": "Remodeler l’apparence et les mouvements du corps virtuel : Une contribution à l’étude de \"l’altération\" d’avatars en réalité virtuelle",
+"titre_en": "Reshaping the virtual body's appearance and movements : A contribution to the study of avatar \"alteration\" in virtual reality",
+"annee": 2024,
+"etablissement": "Rennes, INSA"
+},
+{
+"id": "2020NANT4022",
+"titre": "Interaction en Analyse Visuelle Progressive : une application à la fouille progressive de motifs séquentiels",
+"titre_en": "Interaction in Progressive Visual Analytics : an application to progressive sequential pattern mining",
+"annee": 2020,
+"etablissement": "Nantes"
+},
+{
+"id": "2019LYSE1030",
+"titre": "Suivi de l’engagement des apprenants lors de la construction de cartes mentales à partir de traces d’interaction",
+"titre_en": "Monitoring learners' engagement in mind mapping activities from interaction traces",
+"annee": 2019,
+"etablissement": "Lyon"
+},
+{
+"id": "2018IMTA0079",
+"titre": "Visualisation 3D et traitement d’images interactif pour l’assistance au placement des bras d’un robot chirurgical",
+"titre_en": "3D visualization and interactive image manipulation for surgical planning in robot-assisted surgery",
+"annee": 2018,
+"etablissement": "Ecole nationale supérieure Mines-Télécom Atlantique Bretagne Pays de la Loire"
+},
+{
+"id": "2011ECDN0047",
+"titre": "How to improve chinese handwriting with haptic guidance",
+"titre_en": "How to improve chinese handwriting with haptic guidance",
+"annee": 2012,
+"etablissement": "Ecole centrale de Nantes"
+},
+{
+"id": "2012LYO10140",
+"titre": "Redocumentation des traces d’utilisation d’un environnement informatique",
+"titre_en": "The redocumentation of traces of using a computer system",
+"annee": 2012,
+"etablissement": "Lyon 1"
+}
+],
+"hors_ig": 4,
+"en_preparation": 7,
+"debut": 2011,
+"fin": 2026
 }
 }

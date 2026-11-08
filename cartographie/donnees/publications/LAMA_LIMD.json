@@ -1,0 +1,850 @@
+{
+"equipe": "LAMA/LIMD",
+"publications": [
+{
+"id": "pa7209c981f",
+"titre": "Controlled Peeling of Fully Convex Digital Sets and Thin Envelope",
+"annee": 2026,
+"type": "journal",
+"lieu": "Journal of Mathematical Imaging and Vision",
+"url": "https://hal.science/hal-05674294v1",
+"doi": "10.1007/s10851-026-01310-z"
+},
+{
+"id": "p7c7e7d293b",
+"titre": "Fast and Exact Convex and Concave Decomposition of Digitized Shapes",
+"annee": 2026,
+"type": "journal",
+"lieu": "Journal of Mathematical Imaging and Vision",
+"url": "https://doi.org/10.1007/s10851-026-01314-9",
+"doi": "10.1007/s10851-026-01314-9"
+},
+{
+"id": "pc033177c42",
+"titre": "From Visibility on Digitized Shapes to Convergence of a Saliency-Aware Normal Estimator",
+"annee": 2026,
+"type": "journal",
+"lieu": "Journal of Mathematical Imaging and Vision",
+"url": "https://doi.org/10.1007/s10851-026-01324-7",
+"doi": "10.1007/s10851-026-01324-7"
+},
+{
+"id": "p0be8af88bd",
+"titre": "Inferring the Geometry of Convex Shapes from Their Gauss Digitization",
+"annee": 2026,
+"type": "journal",
+"lieu": "Journal of Mathematical Imaging and Vision",
+"url": "https://hal.science/hal-05642210v1",
+"doi": "10.1007/s10851-026-01309-6"
+},
+{
+"id": "p45ec3296fd",
+"titre": "Projective Geometric Algebra powers up Bézier Curves",
+"annee": 2026,
+"type": "conférence",
+"lieu": "WSCG 2026",
+"url": "https://hal.science/hal-05750929v1",
+"doi": "10.24132/csrn.2026-e13"
+},
+{
+"id": "p58eef92747",
+"titre": "2D Bijective rigid rotation: quantitative and qualitative study",
+"annee": 2025,
+"type": "journal",
+"lieu": "Journal of Mathematical Imaging and Vision",
+"url": "https://hal.science/hal-05125278v1",
+"doi": "10.1007/s10851-025-01252-y"
+},
+{
+"id": "p518d7a1c08",
+"titre": "Convex and Concave Decomposition of Digitized Shapes Using Plane Probing and Visibility",
+"annee": 2025,
+"type": "conférence",
+"lieu": "International Conference on Discrete Geometry and Mathematical Morphology",
+"url": "https://hal.science/hal-05373501v1",
+"doi": "10.1007/978-3-032-09544-2_4"
+},
+{
+"id": "pf5e25d4f68",
+"titre": "Corrected Laplace–Beltrami Operators for Digital Surfaces",
+"annee": 2025,
+"type": "journal",
+"lieu": "Journal of Mathematical Imaging and Vision",
+"url": "https://hal.science/hal-04913546v1",
+"doi": "10.1007/s10851-024-01226-6"
+},
+{
+"id": "p6d65211def",
+"titre": "Fast and exact visibility on digitized shapes and application to saliency-aware normal estimation",
+"annee": 2025,
+"type": "conférence",
+"lieu": "DGMM 2025: 4th International Conference on Discrete Geometry and Mathematical Morphology 2025",
+"url": "https://hal.science/hal-05528852v1"
+},
+{
+"id": "pc3bc476630",
+"titre": "Geometry of Gauss digitized convex shapes",
+"annee": 2025,
+"type": "conférence",
+"lieu": "4th International Joint Conference, DGMM 2025",
+"url": "https://hal.science/hal-05355892v1",
+"doi": "10.1007/978-3-032-09544-2_2"
+},
+{
+"id": "pa11b72ca04",
+"titre": "How to Peel Fully Convex Digital Sets",
+"annee": 2025,
+"type": "conférence",
+"lieu": "5th International Joint Conference on Discrete Geometry and Mathematical Morphology",
+"url": "https://hal.science/hal-05666079v1",
+"doi": "10.1007/978-3-032-09544-2_6"
+},
+{
+"id": "pf17511fa6d",
+"titre": "New Properties for Full Convex Sets and Full Convex Hulls",
+"annee": 2025,
+"type": "journal",
+"lieu": "Journal of Mathematical Imaging and Vision",
+"url": "https://hal.science/hal-04984051v1",
+"doi": "10.1007/s10851-024-01225-7"
+},
+{
+"id": "p043e30b065",
+"titre": "Recognition of Pieces of Arithmetic Hyperplanes Using the Stern–Brocot Tree",
+"annee": 2025,
+"type": "journal",
+"lieu": "Journal of Mathematical Imaging and Vision",
+"url": "https://cnrs.hal.science/hal-05452467v1",
+"doi": "10.1007/s10851-025-01229-x"
+},
+{
+"id": "p00d6413cca",
+"titre": "Conics, Their Pencils and Intersections in Geometric Algebra",
+"annee": 2024,
+"type": "journal",
+"lieu": "Advances in Applied Clifford Algebras",
+"url": "https://hal.science/hal-04774264v1",
+"doi": "10.1007/s00006-024-01356-5"
+},
+{
+"id": "p67cb18bf9c",
+"titre": "Construction of Fast and Accurate 2D Bijective Rigid Transformation",
+"annee": 2024,
+"type": "conférence",
+"lieu": "IAPR Third International Conference on Discrete Geometry and Mathematical Morphology",
+"url": "https://hal.science/hal-04486661v1",
+"doi": "10.1007/978-3-031-57793-2_7"
+},
+{
+"id": "p4840965606",
+"titre": "Delaunay property and proximity results of the L-algorithm for digital plane probing",
+"annee": 2024,
+"type": "journal",
+"lieu": "Theoretical Computer Science",
+"url": "https://hal.science/hal-04671533v1",
+"doi": "10.1016/j.tcs.2024.114719"
+},
+{
+"id": "p0fc6f7bc10",
+"titre": "Digital Calculus Frameworks and Comparative Evaluation of their Laplace-Beltrami operators ⋆",
+"annee": 2024,
+"type": "conférence",
+"lieu": "IAPR Third International Conference on Discrete Geometry and Mathematical Morphology",
+"url": "https://hal.science/hal-04486655v1",
+"doi": "10.1007/978-3-031-57793-2_8"
+},
+{
+"id": "p62889eed19",
+"titre": "New Characterizations of Full Convexity",
+"annee": 2024,
+"type": "conférence",
+"lieu": "International Conference on Discrete Geometry and Mathematical Morphology",
+"url": "https://hal.science/hal-04735219v1",
+"doi": "10.1007/978-3-031-57793-2_4"
+},
+{
+"id": "ped958b6627",
+"titre": "Pencils of CGA for Voronoi and Power Diagrams",
+"annee": 2024,
+"type": "conférence",
+"lieu": "CGI ENGAGE 2024",
+"url": "https://hal.science/hal-04636752v1"
+},
+{
+"id": "pa80c999f9e",
+"titre": "An Envelope Operator for Full Convexity to Define Polyhedral Models in Digital Spaces",
+"annee": 2023,
+"type": "journal",
+"lieu": "Journal of Mathematical Imaging and Vision",
+"url": "https://hal.science/hal-04432223v1",
+"doi": "10.1007/s10851-023-01155-w"
+},
+{
+"id": "p0f459ee8ff",
+"titre": "Intersection of conic sections using geometric algebra",
+"annee": 2023,
+"type": "conférence",
+"lieu": "CGI ENGAGE 2023",
+"url": "https://hal.science/hal-04210085v1",
+"doi": "10.1007/978-3-031-50078-7_14"
+},
+{
+"id": "p12edb27e98",
+"titre": "Joint optimization of distortion and cut location for mesh parameterization using an Ambrosio-Tortorelli functional",
+"annee": 2023,
+"type": "journal",
+"lieu": "Computer Aided Geometric Design",
+"url": "https://hal.science/hal-04140452v1",
+"doi": "10.1016/j.cagd.2023.102231"
+},
+{
+"id": "pa0acd88a9d",
+"titre": "Lightweight Curvature Estimation on Point Clouds with Randomized Corrected Curvature Measures",
+"annee": 2023,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-04140178v1",
+"doi": "10.1111/cgf.14910"
+},
+{
+"id": "p77f4ecc16b",
+"titre": "A Simple Discrete Calculus for Digital Surfaces",
+"annee": 2022,
+"type": "conférence",
+"lieu": "Second International Conference on Discrete Geometry and Mathematical Morphology",
+"url": "https://hal.science/hal-03719330v1"
+},
+{
+"id": "p75a4428d86",
+"titre": "An Alternative Definition for Digital Convexity",
+"annee": 2022,
+"type": "journal",
+"lieu": "Journal of Mathematical Imaging and Vision",
+"url": "https://hal.science/hal-04735268v1",
+"doi": "10.1007/s10851-022-01076-0"
+},
+{
+"id": "p6beb4d1922",
+"titre": "Computational Aspects of Geometric Algebra Products of Two Homogeneous Multivectors",
+"annee": 2022,
+"type": "journal",
+"lieu": "Advances in Applied Clifford Algebras",
+"url": "https://hal.science/hal-03169013v2",
+"doi": "10.1007/s00006-022-01249-5"
+},
+{
+"id": "pb9b035eb76",
+"titre": "Conjecture on Characterisation of Bijective 3D Digitized Reflections and Rotations",
+"annee": 2022,
+"type": "conférence",
+"lieu": "Computer Graphics International CGI 2022",
+"url": "https://hal.science/hal-03764839v1",
+"doi": "10.1007/978-3-031-30923-6_4"
+},
+{
+"id": "p004067c633",
+"titre": "Corrected Curvature Measures",
+"annee": 2022,
+"type": "journal",
+"lieu": "Discrete and Computational Geometry",
+"url": "https://hal.science/hal-02193774v1",
+"doi": "10.1007/s00454-022-00399-4"
+},
+{
+"id": "p5162380e16",
+"titre": "Full Convexity for Polyhedral Models in Digital Spaces",
+"annee": 2022,
+"type": "conférence",
+"lieu": "DGMM 2022 - IAPR Second International Conference on Discrete Geometry and Mathematical Morphology",
+"url": "https://hal.science/hal-03823832v1",
+"doi": "10.1007/978-3-031-19897-7_9"
+},
+{
+"id": "pcba6317062",
+"titre": "New Applications of Clifford’s Geometric Algebra",
+"annee": 2022,
+"type": "journal",
+"lieu": "Advances in Applied Clifford Algebras",
+"url": "https://hal.science/hal-03603294v1",
+"doi": "10.1007/s00006-021-01196-7"
+},
+{
+"id": "p88ae1a9e08",
+"titre": "A Maximum-Flow Model for Digital Elastica Shape Optimization",
+"annee": 2021,
+"type": "conférence",
+"lieu": "Discrete Geometry Mathematical Morphology 2021",
+"url": "https://hal.science/hal-04580405v1",
+"doi": "10.1007/978-3-030-76657-3_31"
+},
+{
+"id": "pfe8ec9fd66",
+"titre": "An Elastica-driven Digital Curve Evolution Model for Image Segmentation",
+"annee": 2021,
+"type": "journal",
+"lieu": "Journal of Mathematical Imaging and Vision",
+"url": "https://hal.science/hal-03144926v1",
+"doi": "10.1007/s10851-020-00983-4"
+},
+{
+"id": "pd2d87c180c",
+"titre": "An alternative definition for digital convexity",
+"annee": 2021,
+"type": "conférence",
+"lieu": "International Conference on Discrete Geometry and Mathematical Morphology",
+"url": "https://hal.science/hal-04735331v1",
+"doi": "10.1007/978-3-030-76657-3_19"
+},
+{
+"id": "pf481af0307",
+"titre": "Digital surface regularization with guarantees",
+"annee": 2021,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://hal.science/hal-03126733v1",
+"doi": "10.1109/tvcg.2021.3055242"
+},
+{
+"id": "pe0293f12f5",
+"titre": "Visiting bijective digitized reflections and rotations using geometric algebra",
+"annee": 2021,
+"type": "conférence",
+"lieu": "International Conference on Discrete Geometry and Mathematical Morphology",
+"url": "https://hal.science/hal-03168979v1",
+"doi": "10.1007/978-3-030-76657-3_17"
+},
+{
+"id": "pf0bcc0fa5f",
+"titre": "An Optimized Framework for Plane-Probing Algorithms",
+"annee": 2020,
+"type": "journal",
+"lieu": "Journal of Mathematical Imaging and Vision",
+"url": "https://hal.science/hal-02879784v1",
+"doi": "10.1007/s10851-020-00965-6"
+},
+{
+"id": "p8640c12a2a",
+"titre": "Interpolated corrected curvature measures for polygonal surfaces",
+"annee": 2020,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-02891465v1",
+"doi": "10.1111/cgf.14067"
+},
+{
+"id": "p7e08ad5c67",
+"titre": "Optimal Parenthesizing of Geometric Algebra Products",
+"annee": 2020,
+"type": "conférence",
+"lieu": "CGI 2020",
+"url": "https://hal.science/hal-03168974v1",
+"doi": "10.1007/978-3-030-61864-3_42"
+},
+{
+"id": "pccbc45f6c5",
+"titre": "Analytical Description of Digital Intersections : Minimal parameters and Multiscale representation",
+"annee": 2019,
+"type": "journal",
+"lieu": "Theoretical Computer Science",
+"url": "https://hal.science/hal-04735358v1",
+"doi": "10.1016/j.tcs.2019.03.042"
+},
+{
+"id": "p341404ce1d",
+"titre": "Combining Voxel and Normal Predictions for Multi-View 3D Sketching",
+"annee": 2019,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://hal.science/hal-02141469v1",
+"doi": "10.1016/j.cag.2019.05.024"
+},
+{
+"id": "p9cace9f763",
+"titre": "Digital Curvature Evolution Model for Image Segmentation",
+"annee": 2019,
+"type": "conférence",
+"lieu": "DGCI 2019 - International Conference on Discrete Geometry for Computer Imagery",
+"url": "https://hal.science/hal-02426946v1",
+"doi": "10.1007/978-3-030-14085-4_2"
+},
+{
+"id": "p3a256f2b4a",
+"titre": "Digital Plane Recognition with Fewer Probes",
+"annee": 2019,
+"type": "conférence",
+"lieu": "21st IAPR International Conference on Discrete Geometry for Computer Imagery",
+"url": "https://hal.science/hal-02087529v1",
+"doi": "10.1007/978-3-030-14085-4_30"
+},
+{
+"id": "pbcd87a95be",
+"titre": "Garamon: A Geometric Algebra Library Generator",
+"annee": 2019,
+"type": "journal",
+"lieu": "Advances in Applied Clifford Algebras",
+"url": "https://hal.science/hal-02196173v1",
+"doi": "10.1007/s00006-019-0987-7"
+},
+{
+"id": "p93fa353c58",
+"titre": "Geometric Total Variation for Image Vectorization, Zooming and Pixel Art Depixelizing",
+"annee": 2019,
+"type": "conférence",
+"lieu": "Asian Conference on Pattern Recognition",
+"url": "https://hal.science/hal-02895108v1",
+"doi": "10.1007/978-3-030-41404-7_28"
+},
+{
+"id": "p0673b17312",
+"titre": "Laplace–Beltrami Operator on Digital Surfaces",
+"annee": 2019,
+"type": "journal",
+"lieu": "Journal of Mathematical Imaging and Vision",
+"url": "https://hal.science/hal-01717849v3",
+"doi": "10.1007/s10851-018-0839-4"
+},
+{
+"id": "pec703a4390",
+"titre": "Phase-field modelling and computing for a large number of phases",
+"annee": 2019,
+"type": "journal",
+"lieu": "ESAIM: Mathematical Modelling and Numerical Analysis",
+"url": "https://hal.science/hal-01628403v1",
+"doi": "10.1051/m2an/2018075"
+},
+{
+"id": "p21cde70b3e",
+"titre": "Surfaces quadratiques à base d'Algèbres Géométriques Conforme",
+"annee": 2019,
+"type": "conférence",
+"lieu": "GTMG 2019",
+"url": "https://hal.science/hal-02262159v1"
+},
+{
+"id": "p9bc2acb876",
+"titre": "Three-dimensional quadrics in extended conformal geometric algebras of higher dimensions from control points, implicit equations and axis alignment",
+"annee": 2019,
+"type": "journal",
+"lieu": "Advances in Applied Clifford Algebras",
+"url": "https://hal.science/hal-02169419v1",
+"doi": "10.1007/s00006-019-0974-z"
+},
+{
+"id": "pf2250f4ba4",
+"titre": "Transverse approach to geometric algebra models for manipulating quadratic surfaces",
+"annee": 2019,
+"type": "conférence",
+"lieu": "Computer Graphics International (CGI2019)",
+"url": "https://hal.science/hal-02050767v3",
+"doi": "10.1007/978-3-030-22514-8_52"
+},
+{
+"id": "p993c42f33a",
+"titre": "Mumford-Shah Mesh Processing using the Ambrosio-Tortorelli Functional",
+"annee": 2018,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-01870901v1",
+"doi": "10.1111/cgf.13549"
+},
+{
+"id": "pdb41c9b4f5",
+"titre": "Quadric Conformal Geometric Algebra of ${\\mathbb {R}}^{9,6}$",
+"annee": 2018,
+"type": "journal",
+"lieu": "Advances in Applied Clifford Algebras",
+"url": "https://hal.science/hal-01767230v1",
+"doi": "10.1007/s00006-018-0851-1"
+},
+{
+"id": "pb96353cc4f",
+"titre": "Regularization of Voxel Art",
+"annee": 2018,
+"type": "conférence",
+"lieu": "SIGGRAPH Talk 2018",
+"url": "https://hal.science/hal-01807713v1",
+"doi": "10.1145/3214745.3214748"
+},
+{
+"id": "p53ef6838f4",
+"titre": "Surfaces Quadriques et Algèbres Géométriques",
+"annee": 2018,
+"type": "conférence",
+"lieu": "Journees Francaises d'Informatique Graphique",
+"url": "https://hal.science/hal-02262157v1"
+},
+{
+"id": "pd667e2c8c6",
+"titre": "A Geometric Algebra Implementation using Binary Tree",
+"annee": 2017,
+"type": "journal",
+"lieu": "Advances in Applied Clifford Algebras",
+"url": "https://hal.science/hal-01510078v2",
+"doi": "10.1007/s00006-017-0770-6"
+},
+{
+"id": "pf6808b300b",
+"titre": "A hybrid approach for computing products of high-dimensional geometric algebras",
+"annee": 2017,
+"type": "conférence",
+"lieu": "CGI / ENGAGE 2017",
+"url": "https://hal.science/hal-01552462v1",
+"doi": "10.1145/3095140.3097284"
+},
+{
+"id": "p1dfbe26c9d",
+"titre": "Digital surface regularization by normal vector field alignment",
+"annee": 2017,
+"type": "conférence",
+"lieu": "20th International Conference on Discrete Geometry for Computer Imagery",
+"url": "https://hal.science/hal-01543007v1",
+"doi": "10.1007/978-3-319-66272-5_17"
+},
+{
+"id": "p97b85f6696",
+"titre": "Heat kernel Laplace-Beltrami operator on digital surfaces",
+"annee": 2017,
+"type": "conférence",
+"lieu": "20th International Conference on Discrete Geometry for Computer Imagery",
+"url": "https://hal.science/hal-01575544v1"
+},
+{
+"id": "p384f10d192",
+"titre": "Robust and Convergent Curvature and Normal Estimators with Digital Integral Invariants",
+"annee": 2017,
+"type": "chapitre",
+"lieu": "Modern Approaches to Discrete Curvature",
+"url": "https://hal.science/hal-01576020v1"
+},
+{
+"id": "pdecd201027",
+"titre": "Two Plane-Probing Algorithms for the Computation of the Normal Vector to a Digital Plane",
+"annee": 2017,
+"type": "journal",
+"lieu": "Journal of Mathematical Imaging and Vision",
+"url": "https://hal.science/hal-01621516v1",
+"doi": "10.1007/s10851-017-0704-x"
+},
+{
+"id": "p0fedd0d3e9",
+"titre": "An output-sensitive algorithm to compute the normal vector of a digital plane",
+"annee": 2016,
+"type": "journal",
+"lieu": "Theoretical Computer Science",
+"url": "https://hal.science/hal-01294966v1",
+"doi": "10.1016/j.tcs.2015.11.021"
+},
+{
+"id": "pec8335de78",
+"titre": "Analyse géométrique d'objets tubulaires 3D basée sur l'accumulation de normales",
+"annee": 2016,
+"type": "conférence",
+"lieu": "RFIA 2016 - Reconnaissance des Formes et l'Intelligence Artificielle",
+"url": "https://hal.science/hal-01359558v1"
+},
+{
+"id": "pa7b1c379e6",
+"titre": "Centerline Detection on Partial Mesh Scans by Confidence Vote in Accumulation Map",
+"annee": 2016,
+"type": "conférence",
+"lieu": "ICPR 2016 - IAPR International Conference on Pattern Recognition",
+"url": "https://hal.science/hal-01435271v1",
+"doi": "10.1109/icpr.2016.7899829"
+},
+{
+"id": "pb6fd7997ff",
+"titre": "Computation of the normal vector to a digital plane by sampling signicant points",
+"annee": 2016,
+"type": "conférence",
+"lieu": "19th IAPR International Conference on Discrete Geometry for Computer Imagery",
+"url": "https://hal.science/hal-01621492v1",
+"doi": "10.1007/978-3-319-32360-2_15"
+},
+{
+"id": "pc1edc143eb",
+"titre": "Image restoration and segmentation using the Ambrosio-Tortorelli functional and discrete calculus",
+"annee": 2016,
+"type": "conférence",
+"lieu": "International Conference on Pattern Recognition (ICPR 2016)",
+"url": "https://hal.science/hal-01379993v1",
+"doi": "10.1109/icpr.2016.7899836"
+},
+{
+"id": "p049f9a8d4f",
+"titre": "Implantation des opérateurs de l'algèbre géométrique par arbres binaires récursifs",
+"annee": 2016,
+"type": "conférence",
+"lieu": "Journées du Groupe de Travail en Modélisation Géométrique 2016,",
+"url": "https://hal.science/hal-01926008v1"
+},
+{
+"id": "p7a846a653b",
+"titre": "Interactive Curvature Tensor Visualization on Digital Surfaces",
+"annee": 2016,
+"type": "conférence",
+"lieu": "DGCI2016",
+"url": "https://hal.science/hal-01262663v1",
+"doi": "10.1007/978-3-319-32360-2_22"
+},
+{
+"id": "pa659938eba",
+"titre": "Laplace-Beltrami operator on Digital Curves",
+"annee": 2016,
+"type": "conférence",
+"lieu": "JFIG",
+"url": "https://hal.science/hal-01497255v1"
+},
+{
+"id": "p779237ec57",
+"titre": "On the Implementation of Centerline Extraction Based on Confidence Vote in Accumulation Map",
+"annee": 2016,
+"type": "conférence",
+"lieu": "RRPR 2016 1st Workshop on Reproducible Research in Pattern Recognition",
+"url": "https://hal.science/hal-01571434v1",
+"doi": "10.1007/978-3-319-56414-2_9"
+},
+{
+"id": "p503ec35c19",
+"titre": "Piecewise smooth reconstruction of normal vector field on digital data",
+"annee": 2016,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-01355291v1"
+},
+{
+"id": "p6de18fa068",
+"titre": "Properties of Gauss digitized sets and digital surface integration",
+"annee": 2016,
+"type": "journal",
+"lieu": "Journal of Mathematical Imaging and Vision",
+"url": "https://hal.science/hal-01070289v2",
+"doi": "10.1007/s10851-015-0595-7"
+},
+{
+"id": "p94cafa1b45",
+"titre": "3D Geometric Analysis of Tubular Objects based on Surface Normal Accumulation",
+"annee": 2015,
+"type": "conférence",
+"lieu": "18th International Conference on Image Analysis and Processing",
+"url": "https://hal.science/hal-01139374v2",
+"doi": "10.1007/978-3-319-23231-7_29"
+},
+{
+"id": "p7fa396fe88",
+"titre": "Precise Cross-Section Estimation on Tubular Organs",
+"annee": 2015,
+"type": "conférence",
+"lieu": "Computer Analysis of Images and Patterns",
+"url": "https://hal.science/hal-01437076v1"
+},
+{
+"id": "pfe42e36ec7",
+"titre": "Robust Geometry Estimation using the Generalized Voronoi Covariance Measure",
+"annee": 2015,
+"type": "journal",
+"lieu": "SIAM Journal on Imaging Sciences",
+"url": "https://hal.science/hal-01058145v2",
+"doi": "10.1137/140977552"
+},
+{
+"id": "pa2f0de1573",
+"titre": "Scale-space Feature Extraction on Digital Surfaces",
+"annee": 2015,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://hal.science/hal-01149102v2",
+"doi": "10.1016/j.cag.2015.05.023"
+},
+{
+"id": "pc6c61330b8",
+"titre": "Extraction of Connected Region Boundary in Multidimensional Images",
+"annee": 2014,
+"type": "journal",
+"lieu": "Image Processing On Line",
+"url": "https://hal.science/hal-01112943v1",
+"doi": "10.5201/ipol.2014.74"
+},
+{
+"id": "pe17f5666c6",
+"titre": "Meaningful Scales Detection: an Unsupervised Noise Detection Algorithm for Digital Contours",
+"annee": 2014,
+"type": "journal",
+"lieu": "Image Processing On Line",
+"url": "https://inria.hal.science/hal-01112936v1",
+"doi": "10.5201/ipol.2014.75"
+},
+{
+"id": "p457f14e367",
+"titre": "Multigrid convergent principal curvature estimators in digital geometry",
+"annee": 2014,
+"type": "journal",
+"lieu": "Computer Vision and Image Understanding",
+"url": "https://hal.science/hal-01119434v1",
+"doi": "10.1016/j.cviu.2014.04.013"
+},
+{
+"id": "p30c6262b8b",
+"titre": "Parameter-free and Multigrid Convergent Digital Curvature Estimators",
+"annee": 2014,
+"type": "conférence",
+"lieu": "18th International Conference on Discrete Geometry for Computer Imagery (DGCI 2014)",
+"url": "https://hal.science/hal-01118476v1",
+"doi": "10.1007/978-3-319-09955-2_14"
+},
+{
+"id": "p74288ff9c7",
+"titre": "A combined multi-scale/irregular algorithm for the vectorization of noisy digital contours",
+"annee": 2013,
+"type": "journal",
+"lieu": "Computer Vision and Image Understanding",
+"url": "https://hal.science/hal-00943821v1",
+"doi": "10.1016/j.cviu.2012.07.006"
+},
+{
+"id": "p59c9ae0633",
+"titre": "Convergence asymptotique du tenseur de courbure en géométrie discrète",
+"annee": 2013,
+"type": "conférence",
+"lieu": "26èmes Journées de l’Association Française d’Informatique Graphique, du chapitre français d’Eurographics et du Groupement de Recherche IG",
+"url": "https://hal.science/hal-01339284v1"
+},
+{
+"id": "p8b1a5349a8",
+"titre": "Implementation of integral based digital curvature estimators in DGtal",
+"annee": 2013,
+"type": "journal",
+"lieu": "imagen-a",
+"url": "https://hal.science/hal-01339204v1"
+},
+{
+"id": "p319423f236",
+"titre": "Integral based Curvature Estimators in Digital Geometry",
+"annee": 2013,
+"type": "conférence",
+"lieu": "17th International Conference on Discrete Geometry for Computer Imagery (DGCI 2013)",
+"url": "https://hal.science/hal-00926164v1"
+},
+{
+"id": "pf16671d0c8",
+"titre": "Détection d'épaisseur significative sur une courbe polygonale",
+"annee": 2012,
+"type": "conférence",
+"lieu": "RFIA 2012 (Reconnaissance des Formes et Intelligence Artificielle)",
+"url": "https://hal.science/hal-00656573v1"
+},
+{
+"id": "pd6ac5de554",
+"titre": "Meaningful Scales Detection along Digital Contours for Unsupervised Local Noise Estimation",
+"annee": 2012,
+"type": "journal",
+"lieu": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+"url": "https://hal.science/hal-00780689v1",
+"doi": "10.1109/tpami.2012.38"
+},
+{
+"id": "p350f248074",
+"titre": "Meaningful Thickness Detection on Polygonal Curve",
+"annee": 2012,
+"type": "conférence",
+"lieu": "ICPRAM - International Conference on Pattern Recognition Applications and Methods - 2012",
+"url": "https://hal.science/hal-00780710v1",
+"doi": "10.5220/0003760903720379"
+},
+{
+"id": "pef00b4a56d",
+"titre": "Multigrid convergence of discrete geometric estimators",
+"annee": 2012,
+"type": "chapitre",
+"lieu": "Digital Geometry Algorithms. Theoretical Foundations and Applications to Computational Imaging",
+"url": "https://hal.science/hal-01352952v1",
+"doi": "10.1007/978-94-007-4174-4_13"
+},
+{
+"id": "pd67fffc5bf",
+"titre": "Tangent estimation along 3D digital curves",
+"annee": 2012,
+"type": "conférence",
+"lieu": "21st International Conference on Pattern Recognition (ICPR 2012)",
+"url": "https://hal.science/hal-00790710v1"
+},
+{
+"id": "p168cca52c9",
+"titre": "Two efficient algorithms for computing the characteristics of a subsegment of a digital straight line",
+"annee": 2012,
+"type": "journal",
+"lieu": "Discrete Applied Mathematics",
+"url": "https://doi.org/10.1016/j.dam.2012.08.038",
+"doi": "10.1016/j.dam.2012.08.038"
+},
+{
+"id": "p0126da61cf",
+"titre": "Accurate curvature estimation along digital contours with maximal digital circular arcs",
+"annee": 2011,
+"type": "conférence",
+"lieu": "14-th International Workshop on Combinatorial Image Analysis (IWCIA)",
+"url": "https://hal.science/hal-01354558v1",
+"doi": "10.1007/978-3-642-21073-0_7"
+},
+{
+"id": "pd0838067a1",
+"titre": "Circular arc reconstruction of digital contours with chosen Hausdorff error",
+"annee": 2011,
+"type": "conférence",
+"lieu": "Discrete Geometry for Computer Imagery",
+"url": "https://hal.science/hal-00579467v1"
+},
+{
+"id": "p80d5d98f67",
+"titre": "Combining Topological Maps, Multi-Label Simple Points, and Minimum-Length Polygons for Efficient Digital Partition Model",
+"annee": 2011,
+"type": "conférence",
+"lieu": "International Workshop on Combinatorial Image Analysis",
+"url": "https://hal.science/hal-00597507v1",
+"doi": "10.1007/978-3-642-21073-0_8"
+},
+{
+"id": "p77c0b8381f",
+"titre": "Delaunay properties of digital straight segments",
+"annee": 2011,
+"type": "conférence",
+"lieu": "16-th IAPR International Conference on Discrete Geometry for Computer Imagery (DGCI)",
+"url": "https://hal.science/hal-01354557v1",
+"doi": "10.1007/978-3-642-19867-0_26"
+},
+{
+"id": "p592a972770",
+"titre": "Dynamic Minimum Length Polygon",
+"annee": 2011,
+"type": "conférence",
+"lieu": "International Workshop on Combinatorial Image Analysis",
+"url": "https://hal.science/hal-00943828v1"
+},
+{
+"id": "p1adf37c9cf",
+"titre": "Fully Deformable 3D Digital Partition Model with Topological Control",
+"annee": 2011,
+"type": "journal",
+"lieu": "Pattern Recognition Letters",
+"url": "https://hal.science/hal-00591065v1",
+"doi": "10.1016/j.patrec.2010.09.005"
+},
+{
+"id": "peadb736601",
+"titre": "Regularization of Discrete Contour by Willmore Energy",
+"annee": 2011,
+"type": "journal",
+"lieu": "Journal of Mathematical Imaging and Vision",
+"url": "https://doi.org/10.1007/s10851-010-0257-8",
+"doi": "10.1007/s10851-010-0257-8"
+},
+{
+"id": "pd37fdef3b3",
+"titre": "Two linear-time algorithms for computing the minimum length polygon of a digital contour",
+"annee": 2011,
+"type": "journal",
+"lieu": "Discrete Applied Mathematics",
+"url": "https://hal.science/hal-00943824v1",
+"doi": "10.1016/j.dam.2011.08.002"
+}
+]
+}

@@ -1,0 +1,1747 @@
+{
+"equipe": "ICUBE/MIMESIS",
+"publications": [
+{
+"id": "p54eca065ec",
+"titre": "A Deep Learning Surrogate Model for Microwave Thermal Ablation: From Preoperative Planning to Intraoperative Re-planning",
+"annee": 2026,
+"type": "conférence",
+"lieu": "MICCAI 2026 - 29th International Conference on Medical Image Computing and Computer Assisted Intervention",
+"url": "https://hal.science/hal-05646602v1",
+"doi": "10.1007/978-3-032-38236-8_1"
+},
+{
+"id": "p8c621e34e8",
+"titre": "A differentiable simulation of the eye for patient-specific strabismus surgery planning",
+"annee": 2026,
+"type": "journal",
+"lieu": "International Journal of Computer Assisted Radiology and Surgery",
+"url": "https://hal.science/hal-05649044v1",
+"doi": "10.1007/s11548-026-03675-3"
+},
+{
+"id": "p9cdf3fc3ac",
+"titre": "A digital twin for microwave liver treatment replanning",
+"annee": 2026,
+"type": "journal",
+"lieu": "International Journal of Computer Assisted Radiology and Surgery",
+"url": "https://hal.science/hal-05621848v1",
+"doi": "10.1007/s11548-026-03641-z"
+},
+{
+"id": "pbed761b131",
+"titre": "DefSynUS: Real-time Patient-specific Intrahepatic Vessel Identification via Deformation-Aware CT-US Domain Adaptation",
+"annee": 2026,
+"type": "journal",
+"lieu": "International Journal of Computer Assisted Radiology and Surgery",
+"url": "https://hal.science/hal-05611431v1",
+"doi": "10.1007/s11548-026-03708-x"
+},
+{
+"id": "p1f9efd1d1f",
+"titre": "Fast and interactive inverse simulation supporting human-robot deformable object manipulation",
+"annee": 2026,
+"type": "conférence",
+"lieu": "IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM2026)",
+"url": "https://hal.science/hal-05640025v1"
+},
+{
+"id": "pf2a5d4415e",
+"titre": "Interactive MWA Planning via Probabilistic Inverse Inference",
+"annee": 2026,
+"type": "conférence",
+"lieu": "MICCAI 2026 - Medical Image Computing and Computer Assisted Intervention",
+"url": "https://hal.science/hal-05646650v1",
+"doi": "10.1007/978-3-032-38236-8_23"
+},
+{
+"id": "p353aab9dee",
+"titre": "Is Reconstruction Fidelity a Reliable Proxy for Segmentation in Medical INRs?",
+"annee": 2026,
+"type": "conférence",
+"lieu": "Off-Grid: 1st Workshop on Continuous Representations and Grid-Free Methods in Medical Imaging",
+"url": "https://hal.science/hal-05801762v1"
+},
+{
+"id": "p1c555c2227",
+"titre": "Optimization in latent space for real-time intraoperative characterization of digital twins",
+"annee": 2026,
+"type": "journal",
+"lieu": "Engineering with Computers",
+"url": "https://hal.science/hal-04834276v1",
+"doi": "10.1007/s00366-025-02268-z"
+},
+{
+"id": "p53463b2a30",
+"titre": "Personalization of Liver Microwave Ablation Simulation",
+"annee": 2026,
+"type": "journal",
+"lieu": "International Journal of Computer Assisted Radiology and Surgery",
+"url": "https://hal.science/hal-05630595v1",
+"doi": "10.1007/s11548-026-03712-1"
+},
+{
+"id": "pb158813dd0",
+"titre": "Real-time Robotic Needle Insertion In Deformable and Moving Structure Using Learning-by-Example Method",
+"annee": 2026,
+"type": "conférence",
+"lieu": "ICRA 2026 - IEEE International Conference on Robotics and Automation",
+"url": "https://inria.hal.science/hal-05498156v2"
+},
+{
+"id": "pf6d6fbd7f7",
+"titre": "Reimagining Nodal Staging in Colorectal Cancer: Toward a Novel Non-Invasive Imaging Approach",
+"annee": 2026,
+"type": "journal",
+"lieu": "Cancers",
+"url": "https://inria.hal.science/hal-05687824v1",
+"doi": "10.3390/cancers18132139"
+},
+{
+"id": "pd56e2403fa",
+"titre": "Saccadic Neural Command Estimation via Forward Dynamics Control: Influence of Extraocular Muscle Geometry on Physiological Plausibility",
+"annee": 2026,
+"type": "journal",
+"lieu": "Multidisciplinary Biomechanics Journal",
+"url": "https://hal.science/hal-05738119v2",
+"doi": "10.46298/mbj.19206"
+},
+{
+"id": "peaf23b0336",
+"titre": "Virtual Reality Training Simulator for Percutaneous Needle-Based Interventions with Haptic Feedback",
+"annee": 2026,
+"type": "conférence",
+"lieu": "2026 Annual Modeling and Simulation Conference (ANNSIM’26)",
+"url": "https://hal.science/hal-05585902v1"
+},
+{
+"id": "p9258fd9076",
+"titre": "Deform any liver in real-time",
+"annee": 2025,
+"type": "conférence",
+"lieu": "IEEE International Symposium on Biomedical Imaging (ISBI 2025)",
+"url": "https://hal.science/hal-04834198v1",
+"doi": "10.1109/isbi60581.2025.10981061"
+},
+{
+"id": "p221723a744",
+"titre": "Domain agnostic 2D-3D deformable registration Application to fluoroscopic guidance without contrast agent",
+"annee": 2025,
+"type": "journal",
+"lieu": "Medical Image Analysis",
+"url": "https://hal.science/hal-05132987v2",
+"doi": "10.1016/j.media.2025.103688"
+},
+{
+"id": "p73c24d8c85",
+"titre": "Dynamic cutting simulation using elastic snapping for mesh quality optimization",
+"annee": 2025,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-05186904v1",
+"doi": "10.1111/cgf.70005"
+},
+{
+"id": "p4f0ea14d28",
+"titre": "Optimization-based calibration for intravascular ultrasound volume reconstruction",
+"annee": 2025,
+"type": "conférence",
+"lieu": "ASMUS 2025: The 6th International Workshop on Advances in Simplifying Medical UltraSound",
+"url": "https://hal.science/hal-05226307v1",
+"doi": "10.1007/978-3-032-06329-8_6"
+},
+{
+"id": "p286f9c70f5",
+"titre": "Toward fluoroscopy guided robotic needle insertion for radio frequency ablation",
+"annee": 2025,
+"type": "journal",
+"lieu": "Computer Animation and Virtual Worlds",
+"url": "https://hal.science/hal-05074680v1",
+"doi": "10.1002/cav.70025"
+},
+{
+"id": "pab67452789",
+"titre": "A Zero-Shot Reinforcement Learning Strategy for Autonomous Guidewire Navigation",
+"annee": 2024,
+"type": "journal",
+"lieu": "International Journal of Computer Assisted Radiology and Surgery",
+"url": "https://inria.hal.science/hal-04488626v1",
+"doi": "10.1007/s11548-024-03092-4"
+},
+{
+"id": "p68d3ded771",
+"titre": "Autonomous Guidewire Navigation in Dynamic Environments",
+"annee": 2024,
+"type": "conférence",
+"lieu": "International Conference on Intelligent Robots and Systems",
+"url": "https://inria.hal.science/hal-04681908v1",
+"doi": "10.1109/iros58592.2024.10801651"
+},
+{
+"id": "pe84a984178",
+"titre": "Beyond respiratory models: a physics-enhanced synthetic data generation method for 2D-3D deformable registration",
+"annee": 2024,
+"type": "conférence",
+"lieu": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops",
+"url": "https://hal.science/hal-04599413v1"
+},
+{
+"id": "pae40dbceb5",
+"titre": "CNN-based real-time 2D-3D deformable registration from a single X-ray projection",
+"annee": 2024,
+"type": "journal",
+"lieu": "Journal of Clinical Medicine",
+"url": "https://inria.hal.science/hal-04387845v1",
+"doi": "10.48550/arxiv.2212.07692"
+},
+{
+"id": "p9383f24b74",
+"titre": "Deformable Image Registration with Stochastically Regularized Biomechanical Equilibrium",
+"annee": 2024,
+"type": "conférence",
+"lieu": "IEEE 21th International Symposium on Biomedical Imaging",
+"url": "https://hal.science/hal-04356505v2",
+"doi": "10.1109/isbi56570.2024.10635231"
+},
+{
+"id": "p273a369e6d",
+"titre": "FBG-Driven simulation for virtual augmentation of fluoroscopic images during endovascular interventions",
+"annee": 2024,
+"type": "conférence",
+"lieu": "Medical Imaging and Augmented Reality, Augmented Environments for Computer Assisted Interventions (AE-CAI), Computer Assisted and Robotic Endoscopy (CARE) and Context-Aware Operating Theaters (OR 2.0) - MICCAI 2024 workshop",
+"url": "https://inria.hal.science/hal-04834732v1"
+},
+{
+"id": "p73a3d9b051",
+"titre": "FBG-Driven simulation for virtual augmentation of fluoroscopic images during endovascular interventions",
+"annee": 2024,
+"type": "journal",
+"lieu": "Healthcare Technology Letters",
+"url": "https://inria.hal.science/hal-04834683v2",
+"doi": "10.1049/htl2.12108"
+},
+{
+"id": "p1afcd4fc0f",
+"titre": "High Rate Mechanical Coupling of Interacting Objects in the Context of Needle Insertion Simulation With Haptic Feedback",
+"annee": 2024,
+"type": "conférence",
+"lieu": "International Conference on Intelligent Robots and Systems (IROS 2024)",
+"url": "https://hal.science/hal-04750673v1",
+"doi": "10.1109/iros58592.2024.10801450"
+},
+{
+"id": "p3e72a17e7b",
+"titre": "Human Robot Collaborative Manipulation of a Deformable Object",
+"annee": 2024,
+"type": "conférence",
+"lieu": "2ème congrès annuel de la SAGIP",
+"url": "https://hal.science/hal-04604837v1"
+},
+{
+"id": "pfb40cd3037",
+"titre": "Organ registration from partial surface data in augmented surgery from an optimal control perspective",
+"annee": 2024,
+"type": "journal",
+"lieu": "Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences",
+"url": "https://hal.science/hal-04043695v2",
+"doi": "10.1098/rspa.2023.0197"
+},
+{
+"id": "p2428cc8d2f",
+"titre": "Real-time Robotic Flexible Needle Insertion In Deformable Living Organs Using Isolated Objective Constraint",
+"annee": 2024,
+"type": "conférence",
+"lieu": "IEEE RSJ International Conference on Intelligent Robots and Systems - IROS 2024",
+"url": "https://inria.hal.science/hal-04681176v2",
+"doi": "10.1109/iros58592.2024.10802810"
+},
+{
+"id": "p78aed2d2a2",
+"titre": "Towards real-time intrahepatic vessel identification in intraoperative ultrasound-guided liver surgery",
+"annee": 2024,
+"type": "conférence",
+"lieu": "27th International Conference MICCAI 2024",
+"url": "https://hal.science/hal-04710612v2",
+"doi": "10.1007/978-3-031-72089-5_61"
+},
+{
+"id": "p46276e65bb",
+"titre": "Towards real-time vessel guided augmented reality for liver surgery",
+"annee": 2024,
+"type": "conférence",
+"lieu": "IEEE International Symposium on Biomedical Imaging (ISBI 2024)",
+"url": "https://inria.hal.science/hal-04387242v1",
+"doi": "10.1109/isbi56570.2024.10635104"
+},
+{
+"id": "p2f322928e4",
+"titre": "Towards realistic needle insertion training simulator using partitioned model order reduction",
+"annee": 2024,
+"type": "conférence",
+"lieu": "MICCAI 2024 - International Conference on Medical Image Computing and Computer-Assisted Intervention",
+"url": "https://hal.science/hal-04717755v1",
+"doi": "10.1007/978-3-031-72089-5_62"
+},
+{
+"id": "p5a6118673e",
+"titre": "Augmented Reality for Computer-Guided Interventions",
+"annee": 2023,
+"type": "chapitre",
+"lieu": "Springer Handbook of Augmented Reality",
+"url": "https://hal.science/hal-04298991v1",
+"doi": "10.1007/978-3-030-67822-7_28"
+},
+{
+"id": "pd23d54f39a",
+"titre": "Augmented reality biomechanical simulations for pelvic conditions diagnoses",
+"annee": 2023,
+"type": "chapitre",
+"lieu": "Biomechanics of the Female Reproductive System: Breast and Pelvic Organs",
+"url": "https://hal.science/hal-04293760v1",
+"doi": "10.1016/c2020-0-00113-1"
+},
+{
+"id": "p4511f6ce2e",
+"titre": "Augmented reality in liver surgery",
+"annee": 2023,
+"type": "journal",
+"lieu": "Journal of Visceral Surgery",
+"url": "https://inria.hal.science/hal-04414274v1",
+"doi": "10.1016/j.jviscsurg.2023.01.008"
+},
+{
+"id": "p8c40d1a64f",
+"titre": "Deep learning for real-time computational biomechanics",
+"annee": 2023,
+"type": "chapitre",
+"lieu": "Reduced Order Models for the Biomechanics of Living Organs",
+"url": "https://hal.science/hal-04298995v1",
+"doi": "10.1016/b978-0-32-389967-3.00007-x"
+},
+{
+"id": "p76974b101d",
+"titre": "Editorial for the MEDIA MICCAI special issue 2021",
+"annee": 2023,
+"type": "journal",
+"lieu": "Medical Image Analysis",
+"url": "https://hal.science/hal-03894028v1",
+"doi": "10.1016/j.media.2022.102695"
+},
+{
+"id": "p84d1e84323",
+"titre": "Efficient Needle Insertion Simulation using Hybrid Constraint Solver and Isolated DOFs",
+"annee": 2023,
+"type": "conférence",
+"lieu": "Eurographics 2023 - Short Papers",
+"url": "https://hal.science/hal-04181906v1",
+"doi": "10.2312/egs.20231003"
+},
+{
+"id": "pc6e16d3cbb",
+"titre": "Enhancing Fluoroscopy-Guided Interventions: a Neural Network to Predict Vessel Deformation without Contrast Agents",
+"annee": 2023,
+"type": "conférence",
+"lieu": "The Hamlyn Symposium on Medical Robotics",
+"url": "https://hal.science/hal-04356336v1",
+"doi": "10.31256/hsmr2023.38"
+},
+{
+"id": "pd2c606228f",
+"titre": "FEM-based model for cable-actuated continuum robots",
+"annee": 2023,
+"type": "conférence",
+"lieu": "12th Conference on New Technologies for Computer and Robot Assisted Surgery (CRAS 2023)",
+"url": "https://hal.science/hal-04240291v1"
+},
+{
+"id": "pcd2cab1e18",
+"titre": "Intraoperative CT augmentation for needle-based liver interventions",
+"annee": 2023,
+"type": "conférence",
+"lieu": "MICCAI 2023",
+"url": "https://inria.hal.science/hal-04167447v2"
+},
+{
+"id": "p50f08e5dbb",
+"titre": "Real-Time Elastic Partial Shape Matching Using a Neural Network-Based Adjoint Method",
+"annee": 2023,
+"type": "conférence",
+"lieu": "OLA 2023 - 6th International Conference on Optimization and Learning",
+"url": "https://hal.science/hal-04176808v1",
+"doi": "10.1007/978-3-031-34020-8_10"
+},
+{
+"id": "p847548cf00",
+"titre": "Réalité augmentée en chirurgie hépatique",
+"annee": 2023,
+"type": "journal",
+"lieu": "Journal de Chirurgie Viscérale",
+"url": "https://hal.science/hal-04299003v1",
+"doi": "10.1016/j.jchirv.2022.12.012"
+},
+{
+"id": "p55d38bbc19",
+"titre": "SOniCS: Develop intuition on biomechanical systems through interactive error controlled simulations",
+"annee": 2023,
+"type": "journal",
+"lieu": "Engineering with Computers",
+"url": "https://hal.science/hal-04299000v1",
+"doi": "10.1007/s00366-023-01877-w"
+},
+{
+"id": "p381bfb61cd",
+"titre": "Trackerless volume reconstruction from intraoperative ultrasound images",
+"annee": 2023,
+"type": "conférence",
+"lieu": "MICCAI 2023",
+"url": "https://inria.hal.science/hal-04108248v3"
+},
+{
+"id": "pb5d0b69461",
+"titre": "An Optimal Control Problem for Elastic Registration and Force Estimation in Augmented Surgery",
+"annee": 2022,
+"type": "conférence",
+"lieu": "MICCAI 2022 - 25th International Conference on Medical Image Computing and Computer Assisted Intervention",
+"url": "https://inria.hal.science/hal-03691913v1",
+"doi": "10.1007/978-3-031-16449-1_8"
+},
+{
+"id": "p495b9c8f91",
+"titre": "DeepPhysics: a physics aware deep learning framework for real-time simulation",
+"annee": 2022,
+"type": "journal",
+"lieu": "International Journal for Numerical Methods in Engineering",
+"url": "https://hal.science/hal-03327818v2",
+"doi": "10.1002/nme.6943"
+},
+{
+"id": "paa691c6531",
+"titre": "Model-Based Thermometry for Laser Ablation Procedure Using Kalman Filters and Sparse Temperature Measurements",
+"annee": 2022,
+"type": "journal",
+"lieu": "IEEE Transactions on Biomedical Engineering",
+"url": "https://inria.hal.science/hal-03598477v1",
+"doi": "10.1109/tbme.2022.3155574"
+},
+{
+"id": "p881168a073",
+"titre": "Real‐Time FE Simulation for Large‐Scale Problems Using Precondition‐Based Contact Resolution and Isolated DOFs Constraints",
+"annee": 2022,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-03694167v1",
+"doi": "10.1111/cgf.14563"
+},
+{
+"id": "p8924130b5e",
+"titre": "Unscented Kalman Filtering for Real Time Thermometry During Laser Ablation Interventions",
+"annee": 2022,
+"type": "conférence",
+"lieu": "EMBC 2022 - International Engineering in Medicine and Biology Conference",
+"url": "https://inria.hal.science/hal-03698066v1"
+},
+{
+"id": "pc78ef52fde",
+"titre": "Unscented Kalman Filtering for Real-Time Thermometry During Laser Ablation Interventions",
+"annee": 2022,
+"type": "conférence",
+"lieu": "2022 44th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 11-15 july 2022, Glasgow, Scotland, United Kingdom",
+"url": "https://hal.science/hal-04301301v1",
+"doi": "10.1109/embc48229.2022.9871282"
+},
+{
+"id": "pa7fad1055c",
+"titre": "φ-FEM: an efficient simulation tool using simple meshes for problems in structure mechanics and heat transfer",
+"annee": 2022,
+"type": "chapitre",
+"lieu": "Partition of Unity Methods",
+"url": "https://hal.science/hal-03372733v1",
+"doi": "10.1002/9781118535875.ch7"
+},
+{
+"id": "pa04446dbf0",
+"titre": "Interactive Finite Element model of needle insertion and laceration",
+"annee": 2021,
+"type": "conférence",
+"lieu": "Eurographics 2021 - The 42nd Annual Conference of the European Association for Computer Graphics",
+"url": "https://inria.hal.science/hal-03187709v1",
+"doi": "10.2312/egs.20211020"
+},
+{
+"id": "p7973aa21eb",
+"titre": "Intra-operative Update of Boundary Conditions for Patient-specific Surgical Simulation",
+"annee": 2021,
+"type": "conférence",
+"lieu": "MICCAI 2021 - 24th International Conference on Medical Image Computing and Computer Assisted Intervention",
+"url": "https://hal.science/hal-03315008v1"
+},
+{
+"id": "p4d4e6fe3e9",
+"titre": "Learning robotic needle steering from inverse finite element simulations",
+"annee": 2021,
+"type": "conférence",
+"lieu": "ICRA 2021 - Workshop on Representing and Manipulating Deformable Objects",
+"url": "https://hal.science/hal-03241674v1"
+},
+{
+"id": "pdce4641475",
+"titre": "Medical Image Computing and Computer Assisted Intervention - MICCAI 2021: 24th International Conference, Strasbourg, France, September 27-October 1, 2021, Proceedings, Part I",
+"annee": 2021,
+"type": "ouvrage",
+"lieu": "",
+"url": "https://hal.science/hal-03445376v1",
+"doi": "10.1007/978-3-030-87193-2"
+},
+{
+"id": "p4774b2ffe8",
+"titre": "Medical Image Computing and Computer Assisted Intervention - MICCAI 2021: 24th International Conference, Strasbourg, France, September 27-October 1, 2021, Proceedings, Part VIII",
+"annee": 2021,
+"type": "ouvrage",
+"lieu": "",
+"url": "https://hal.science/hal-03797857v1",
+"doi": "10.1007/978-3-030-87237-3"
+},
+{
+"id": "p6c8ffcd1a3",
+"titre": "Robotic needle steering in deformable tissues with extreme learning machines",
+"annee": 2021,
+"type": "conférence",
+"lieu": "AUTOMED 2021 - Automation in Medical Engineering",
+"url": "https://hal.science/hal-03187930v1"
+},
+{
+"id": "pc64eb169e5",
+"titre": "Shared control strategy for needle insertion into deformable tissue using inverse Finite Element simulation",
+"annee": 2021,
+"type": "conférence",
+"lieu": "ICRA 2021 - IEEE International Conference on Robotics and Automation",
+"url": "https://hal.science/hal-03191078v1"
+},
+{
+"id": "p1a91ee87e0",
+"titre": "Alignment of Cortical Vessels viewed through the Surgical Microscope with Preoperative Imaging to Compensate for Brain Shift",
+"annee": 2020,
+"type": "conférence",
+"lieu": "Medical Imaging 2020: Image-Guided Procedures, Robotic Interventions, and Modeling",
+"url": "https://inria.hal.science/hal-03065632v1"
+},
+{
+"id": "pd75857624f",
+"titre": "Augmented Reality during Open Liver Surgery Using a Markerless Non-rigid Registration System",
+"annee": 2020,
+"type": "journal",
+"lieu": "Journal of Gastrointestinal Surgery",
+"url": "https://inria.hal.science/hal-02475252v1",
+"doi": "10.1007/s11605-020-04519-4"
+},
+{
+"id": "p407c7fc779",
+"titre": "Constrained Stochastic State Estimation of Deformable 1D Objects: Application to Single-view 3D Reconstruction of Catheters with Radio-opaque Markers",
+"annee": 2020,
+"type": "journal",
+"lieu": "Computerized Medical Imaging and Graphics",
+"url": "https://hal.science/hal-02469093v1",
+"doi": "10.1016/j.compmedimag.2020.101702"
+},
+{
+"id": "pb42b5c4ff4",
+"titre": "Data-driven simulation for augmented surgery",
+"annee": 2020,
+"type": "chapitre",
+"lieu": "Developments and Novel Approaches in Biomechanics and Metamaterials",
+"url": "https://inria.hal.science/hal-02538101v1",
+"doi": "10.1007/978-3-030-50464-9_5"
+},
+{
+"id": "p9978c91a1d",
+"titre": "Definitions of Computer-Assisted Surgery and Intervention, Image-Guided Surgery and Intervention, Hybrid Operating Room, and Guidance Systems",
+"annee": 2020,
+"type": "journal",
+"lieu": "Annals of Surgery Open",
+"url": "https://hal.science/hal-03600931v1",
+"doi": "10.1097/as9.0000000000000021"
+},
+{
+"id": "pb91a81129d",
+"titre": "Deformation Aware Augmented Reality for Craniotomy using 3D/2D Non-rigid Registration of Cortical Vessels",
+"annee": 2020,
+"type": "conférence",
+"lieu": "Medical Image Computing and Computer Assisted Intervention",
+"url": "https://inria.hal.science/hal-02876726v3"
+},
+{
+"id": "p8bc83d3689",
+"titre": "Elastic registration based on compliance analysis and biomechanical graph matching",
+"annee": 2020,
+"type": "journal",
+"lieu": "Annals of Biomedical Engineering",
+"url": "https://hal.science/hal-02401280v1",
+"doi": "10.1007/s10439-019-02364-4"
+},
+{
+"id": "p3474f644f3",
+"titre": "Estimation of boundary conditions for patient-specific liver simulation during augmented surgery",
+"annee": 2020,
+"type": "conférence",
+"lieu": "IPCAI 2020 - The 11th International Conference on Information Processing in Computer-Assisted Interventions",
+"url": "https://hal.science/hal-03697401v1",
+"doi": "10.1007/s11548-020-02188-x"
+},
+{
+"id": "p896b427e7b",
+"titre": "Real-Time Numerical Simulation/ From Surgical Training to Augmented reality",
+"annee": 2020,
+"type": "conférence",
+"lieu": "Séminaire du LIRIMA",
+"url": "https://inria.hal.science/hal-03585983v1"
+},
+{
+"id": "p7e2cc20857",
+"titre": "Robotic needle insertion in moving soft tissues using constraint-based inverse Finite Element simulation",
+"annee": 2020,
+"type": "conférence",
+"lieu": "ICRA 2020 - IEEE International Conference on Robotics and Automation",
+"url": "https://hal.science/hal-02503574v1",
+"doi": "10.1109/icra40945.2020.9197515"
+},
+{
+"id": "pc4b0343cef",
+"titre": "Three‐dimensional physics‐based registration of pelvic system using 2D dynamic magnetic resonance imaging slices",
+"annee": 2020,
+"type": "journal",
+"lieu": "Strain",
+"url": "https://inria.hal.science/hal-02873023v1",
+"doi": "10.1111/str.12339"
+},
+{
+"id": "p30cbbb899f",
+"titre": "Use of stereo-laparoscopic liver surface reconstruction to compensate for pneumoperitoneum deformation through biomechanical modeling.",
+"annee": 2020,
+"type": "conférence",
+"lieu": "VPH2020 - Virtual Physiological Human",
+"url": "https://inria.hal.science/hal-03130613v1"
+},
+{
+"id": "p3728740580",
+"titre": "Computational Biomechanics of the Brain in the Operating Theatre",
+"annee": 2019,
+"type": "chapitre",
+"lieu": "Biomechanics of the Brain",
+"url": "https://hal.science/hal-02385041v1",
+"doi": "10.1007/978-3-030-04996-6_13"
+},
+{
+"id": "pfddd6a216c",
+"titre": "Corotated meshless implicit dynamics for deformable bodies",
+"annee": 2019,
+"type": "conférence",
+"lieu": "WSCG 2019 - 27th International Conference on Computer Graphics, Visualization and Computer Vision",
+"url": "https://inria.hal.science/hal-02119414v2",
+"doi": "10.24132/csrn.2019.2901.1.11"
+},
+{
+"id": "pe31eaff922",
+"titre": "Deformed Reality",
+"annee": 2019,
+"type": "conférence",
+"lieu": "Computer Graphics & Visual Computing (Eurographics)",
+"url": "https://inria.hal.science/hal-02320444v1"
+},
+{
+"id": "pfbce17a721",
+"titre": "Electromagnetic Tracking for Deep Liver Targets: A preliminary feasibility study",
+"annee": 2019,
+"type": "journal",
+"lieu": "International Journal of Computer Assisted Radiology and Surgery",
+"url": "https://inria.hal.science/hal-02121900v1",
+"doi": "10.1007/s11548-019-01983-5"
+},
+{
+"id": "p4e39dc76d5",
+"titre": "FEM-based confidence assessment of non-rigid registration",
+"annee": 2019,
+"type": "conférence",
+"lieu": "Surgetica 2019",
+"url": "https://hal.science/hal-02238974v1"
+},
+{
+"id": "p0d03c9a812",
+"titre": "Force classification during robotic interventions through simulation-trained neural networks",
+"annee": 2019,
+"type": "journal",
+"lieu": "International Journal of Computer Assisted Radiology and Surgery",
+"url": "https://inria.hal.science/hal-02268782v1",
+"doi": "10.1007/s11548-019-02048-3"
+},
+{
+"id": "pa8ae3a8d3f",
+"titre": "Physics-based Deep Neural Network for Augmented Reality during Liver Surgery",
+"annee": 2019,
+"type": "conférence",
+"lieu": "MICCAI 2019 - 22nd International Conference on Medical Image Computing and Computer Assisted Intervention",
+"url": "https://inria.hal.science/hal-02158862v2",
+"doi": "10.1007/978-3-030-32254-0_16"
+},
+{
+"id": "p900e127afa",
+"titre": "Physics-based Deep Neural Network for Real-Time Lesion Tracking in Ultrasound-guided Breast Biopsy",
+"annee": 2019,
+"type": "conférence",
+"lieu": "Computational Biomechanics for Medicine XIV",
+"url": "https://inria.hal.science/hal-02311277v1"
+},
+{
+"id": "p038d122cdc",
+"titre": "Robotic Insertion of Flexible Needle in Deformable Structures Using Inverse Finite-Element Simulation",
+"annee": 2019,
+"type": "journal",
+"lieu": "IEEE Transactions on Robotics",
+"url": "https://inria.hal.science/hal-02144487v1",
+"doi": "10.1109/tro.2019.2897858"
+},
+{
+"id": "pb18cdeeafb",
+"titre": "Simulation of hyperelastic materials in real-time using deep learning",
+"annee": 2019,
+"type": "journal",
+"lieu": "Medical Image Analysis",
+"url": "https://inria.hal.science/hal-02097119v3",
+"doi": "10.1016/j.media.2019.101569"
+},
+{
+"id": "pc65830dc25",
+"titre": "The effect of discretization on parameter identification. Application to patient-specific simulations",
+"annee": 2019,
+"type": "conférence",
+"lieu": "CMBBE 2019 - 16th International Symposium on Computer Methods in Biomechanics and Biomedical Engineering",
+"url": "https://hal.science/hal-02276130v1"
+},
+{
+"id": "p537d262658",
+"titre": "A Combined Simulation & Machine Learning Approach for Image-based Force Classification during Robotized Intravitreal Injections",
+"annee": 2018,
+"type": "conférence",
+"lieu": "Medical Image Computing and Computer Assisted Interventions Conference",
+"url": "https://hal.science/hal-01878682v2"
+},
+{
+"id": "p0dbfb9dac8",
+"titre": "Biomechanics-based graph matching for augmented CT-CBCT",
+"annee": 2018,
+"type": "journal",
+"lieu": "International Journal of Computer Assisted Radiology and Surgery",
+"url": "https://inria.hal.science/hal-01761521v2",
+"doi": "10.1007/s11548-018-1755-1"
+},
+{
+"id": "pa292f62375",
+"titre": "Biomechanics-based graph matching for augmented CT-CBCT",
+"annee": 2018,
+"type": "conférence",
+"lieu": "IPCAI 2018 - 9th International Conference on Information Processing in Computer-Assisted Interventions",
+"url": "https://inria.hal.science/hal-01761538v2"
+},
+{
+"id": "p4acb00f11a",
+"titre": "Calipso: Physics-based Image and Video Editing through CAD Model Proxies",
+"annee": 2018,
+"type": "journal",
+"lieu": "The Visual Computer",
+"url": "https://inria.hal.science/hal-01890684v2",
+"doi": "10.1007/s00371-018-1600-0"
+},
+{
+"id": "peecfa62a66",
+"titre": "Capturing Deformations of Interacting Non-rigid Objects Using RGB-D Data",
+"annee": 2018,
+"type": "conférence",
+"lieu": "IROS 2018 - IEEE/RSJ International Conference on Intelligent Robots and Systems",
+"url": "https://inria.hal.science/hal-01889771v1"
+},
+{
+"id": "p30cf114bf4",
+"titre": "Environment-aware non-rigid registration in surgery using physics-based simulation",
+"annee": 2018,
+"type": "conférence",
+"lieu": "ACCV 2018 - 14th Asian Conference on Computer Vision",
+"url": "https://hal.science/hal-01930366v1"
+},
+{
+"id": "p4576614d9a",
+"titre": "Fast Elastic Registration of Soft Tissues under Large Deformations",
+"annee": 2018,
+"type": "journal",
+"lieu": "Medical Image Analysis",
+"url": "https://inria.hal.science/hal-01613757v1",
+"doi": "10.1016/j.media.2017.12.006"
+},
+{
+"id": "pa0c1df8660",
+"titre": "Intraoperative Biomechanical Registration of the Liver: Does the Heterogeneity of the Liver Matter?",
+"annee": 2018,
+"type": "journal",
+"lieu": "Innovation and Research in BioMedical engineering",
+"url": "https://inria.hal.science/hal-01625573v1",
+"doi": "10.1016/j.irbm.2017.10.005"
+},
+{
+"id": "pfb73cfc493",
+"titre": "Marker-based Registration for Large Deformations -Application to Open Liver Surgery",
+"annee": 2018,
+"type": "conférence",
+"lieu": "ICRA 2018 - International Conference on Robotics and Automation",
+"url": "https://inria.hal.science/hal-01792837v1"
+},
+{
+"id": "p261244bd8e",
+"titre": "New applications",
+"annee": 2018,
+"type": "chapitre",
+"lieu": "Virtual Reality and Augmented Reality - Myths and Realities",
+"url": "https://inria.hal.science/hal-01955969v1",
+"doi": "10.1002/9781119341031.ch1"
+},
+{
+"id": "pa76e653d37",
+"titre": "Quantifying the uncertainty in a hyperelastic soft tissue model with stochastic parameters",
+"annee": 2018,
+"type": "journal",
+"lieu": "Applied Mathematical Modelling",
+"url": "https://inria.hal.science/hal-03698534v1",
+"doi": "10.1016/j.apm.2018.04.021"
+},
+{
+"id": "pb6ba6a09f4",
+"titre": "Resection-induced brain-shift compensation using vessel-based methods",
+"annee": 2018,
+"type": "conférence",
+"lieu": "SPIE Medical Imaging 2018",
+"url": "https://hal.science/hal-01930274v1",
+"doi": "10.1117/12.2293640"
+},
+{
+"id": "pfa1a8f9074",
+"titre": "Stochastic Correction of Boundary Conditions during Liver Surgery",
+"annee": 2018,
+"type": "conférence",
+"lieu": "CVCS 2018 - 9th Colour and Visual Computing Symposium 2018",
+"url": "https://inria.hal.science/hal-01823810v1",
+"doi": "10.1109/cvcs.2018.8496720"
+},
+{
+"id": "p74b144190c",
+"titre": "Vision-based Force Feedback Estimation for Robot-assisted Surgery using Instrument-constrained Biomechanical 3D Maps",
+"annee": 2018,
+"type": "journal",
+"lieu": "IEEE Robotics and Automation Letters",
+"url": "https://inria.hal.science/hal-01720259v1",
+"doi": "10.1109/lra.2018.2810948"
+},
+{
+"id": "pe1b5976105",
+"titre": "An Immersed Boundary Method for Detail-Preserving Soft Tissue Simulation from Medical Images",
+"annee": 2017,
+"type": "conférence",
+"lieu": "Computational Biomechanics for Medicine",
+"url": "https://inria.hal.science/hal-01578447v1",
+"doi": "10.1007/978-3-319-75589-2_6"
+},
+{
+"id": "p3b8ef1777d",
+"titre": "Augmented 3D Catheter Navigation using Constrained Shape from Template",
+"annee": 2017,
+"type": "conférence",
+"lieu": "Hamlyn Symposium",
+"url": "https://inria.hal.science/hal-01545693v1"
+},
+{
+"id": "p457032fb1f",
+"titre": "Automatic biomechanical graph matching CT-CBCT fusion",
+"annee": 2017,
+"type": "conférence",
+"lieu": "Surgetica 2017",
+"url": "https://hal.science/hal-01587952v1"
+},
+{
+"id": "p2eff417c70",
+"titre": "Biomechanical modeling of brain soft tissues for medical applications",
+"annee": 2017,
+"type": "chapitre",
+"lieu": "Biomechanics of Living Organs",
+"url": "https://hal.science/hal-01560109v1",
+"doi": "10.1016/b978-0-12-804009-6.00006-7"
+},
+{
+"id": "p9fa5d50412",
+"titre": "Blood vessel modeling for interactive simulation of interventional neuroradiology procedures",
+"annee": 2017,
+"type": "journal",
+"lieu": "Medical Image Analysis",
+"url": "https://inria.hal.science/hal-01390923v1",
+"doi": "10.1016/j.media.2016.10.003"
+},
+{
+"id": "pab280028fb",
+"titre": "Brain-shift compensation using intraoperative ultrasound and constraint-based biomechanical simulation",
+"annee": 2017,
+"type": "journal",
+"lieu": "Medical Image Analysis",
+"url": "https://hal.science/hal-01560157v1",
+"doi": "10.1016/j.media.2017.06.003"
+},
+{
+"id": "pc345e721de",
+"titre": "Controlling the error on target motion through real-time mesh adaptation: applications to Deep Brain Stimulation",
+"annee": 2017,
+"type": "journal",
+"lieu": "International Journal for Numerical Methods in Biomedical Engineering",
+"url": "https://hal.science/hal-01672962v1",
+"doi": "10.1002/cnm.2958"
+},
+{
+"id": "p40f8cf35ce",
+"titre": "DejaVu: Intra-operative Simulation for Surgical Gesture Rehearsal",
+"annee": 2017,
+"type": "conférence",
+"lieu": "Medical Image Computing and Computer Assisted Interventions Conference MICCAI 2017",
+"url": "https://hal.science/hal-01542395v1"
+},
+{
+"id": "p16bd7e8e3b",
+"titre": "Face-based Smoothed Finite Element Method for Real-time Simulation of soft tissue",
+"annee": 2017,
+"type": "conférence",
+"lieu": "SPIE Medical Imaging",
+"url": "https://inria.hal.science/hal-01444595v1"
+},
+{
+"id": "p82ade5417b",
+"titre": "Image-driven Stochastic Identification of Boundary Conditions for Predictive Simulation",
+"annee": 2017,
+"type": "conférence",
+"lieu": "20th International Conference on Medical Image Computing and Computer Assisted Intervention",
+"url": "https://inria.hal.science/hal-01570811v1"
+},
+{
+"id": "pbd7ae95c5f",
+"titre": "Intraoperative brain-shift compensation using MR/US elastic registration by means of a constraint-based biomechanical simulation",
+"annee": 2017,
+"type": "conférence",
+"lieu": "EUROMECH Colloquium 595: Biomechanics and computer assisted surgery meets medical reality",
+"url": "https://hal.science/hal-01935285v1"
+},
+{
+"id": "p71cea2d517",
+"titre": "Multiorgan Motion Tracking in Dynamic Magnetic Resonance Imaging for Evaluation of Pelvic System Mobility and Shear Strain",
+"annee": 2017,
+"type": "journal",
+"lieu": "Strain",
+"url": "https://inria.hal.science/hal-01496177v2",
+"doi": "10.1111/str.12224"
+},
+{
+"id": "p8b16eac939",
+"titre": "Real-time Error Control for Surgical Simulation",
+"annee": 2017,
+"type": "conférence",
+"lieu": "BIOMECHANICS AND COMPUTER ASSISTED SURGERY MEETS MEDICAL REALITY",
+"url": "https://hal.science/hal-01571194v1"
+},
+{
+"id": "pce27e7b4ca",
+"titre": "Real-time Error Control for Surgical Simulation",
+"annee": 2017,
+"type": "journal",
+"lieu": "IEEE Transactions on Biomedical Engineering",
+"url": "https://inria.hal.science/hal-01514621v1",
+"doi": "10.1109/tbme.2017.2695587"
+},
+{
+"id": "p35bfc5ec93",
+"titre": "Silhouette-based Pose Estimation for Deformable Organs Application to Surgical Augmented Reality",
+"annee": 2017,
+"type": "conférence",
+"lieu": "IROS 2017 - IEEE/RSJ International Conference on Intelligent Robots and Systems",
+"url": "https://hal.science/hal-01578815v1"
+},
+{
+"id": "p6bf0343e30",
+"titre": "Template-based Monocular 3D Recovery of Elastic Shapes using Lagrangian Multipliers",
+"annee": 2017,
+"type": "conférence",
+"lieu": "Computer Vision and Pattern Recognition (CVPR)",
+"url": "https://inria.hal.science/hal-01524609v1",
+"doi": "10.1109/cvpr.2017.381"
+},
+{
+"id": "pae7fac0c0d",
+"titre": "3D Physics-Based Registration of 2D Dynamic MRI Data",
+"annee": 2016,
+"type": "conférence",
+"lieu": "MMVR - Medicine Meets Virtual Reality",
+"url": "https://inria.hal.science/hal-01254388v1"
+},
+{
+"id": "p3f74e02e28",
+"titre": "Handling Topological Changes during Elastic Registration: Application to Augmented Reality in Laparoscopic Surgery",
+"annee": 2016,
+"type": "journal",
+"lieu": "International Journal of Computer Assisted Radiology and Surgery",
+"url": "https://inria.hal.science/hal-01397409v1",
+"doi": "10.1007/s11548-016-1502-4"
+},
+{
+"id": "pf0cb551838",
+"titre": "Interactive Training System for Interventional Electrocardiology Procedures",
+"annee": 2016,
+"type": "journal",
+"lieu": "Medical Image Analysis",
+"url": "https://inria.hal.science/hal-01338346v1",
+"doi": "10.1016/j.media.2016.06.040"
+},
+{
+"id": "pb8523ce1f3",
+"titre": "Inverse real-time Finite Element simulation for robotic control of flexible needle insertion in deformable tissues",
+"annee": 2016,
+"type": "conférence",
+"lieu": "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2016)",
+"url": "https://hal.science/hal-01353925v1"
+},
+{
+"id": "pbff66db91c",
+"titre": "Logiciel pédagogique de simulation pour les fractures fémorales péri-prothétiques",
+"annee": 2016,
+"type": "conférence",
+"lieu": "91ème Congrès de la Société Française de Chirurgie Orthopédique et Traumatologique, SOFCOT 2016",
+"url": "https://hal.science/hal-04832710v1"
+},
+{
+"id": "p8576652382",
+"titre": "Robust Augmented Reality registration method for Localization of Solid Organs’ Tumors Using CT-derived Virtual Biomechanical Model and Fluorescent Fiducials",
+"annee": 2016,
+"type": "journal",
+"lieu": "Surgical Endoscopy",
+"url": "https://hal.science/hal-01314963v2",
+"doi": "10.1007/s00464-016-5297-8"
+},
+{
+"id": "pa1d1dd72dd",
+"titre": "Segmentation and Labelling of Intra-operative Laparoscopic Images using Structure from Point Cloud",
+"annee": 2016,
+"type": "conférence",
+"lieu": "International Symposium on Biomedical Imaging : \"From Nano to Macro\" (ISBI 2016)",
+"url": "https://hal.science/hal-01314970v1"
+},
+{
+"id": "paa287aee01",
+"titre": "Simultaneous Pose Estimation and Augmentation of Elastic Surfaces from a Moving Monocular Camera",
+"annee": 2016,
+"type": "conférence",
+"lieu": "International Symposium on Mixed and Augmented Reality",
+"url": "https://inria.hal.science/hal-01353189v1",
+"doi": "10.1109/ismar-adjunct.2016.0076"
+},
+{
+"id": "pd706e31c5e",
+"titre": "Using Contours as Boundary Conditions for Elastic Registration during Minimally Invasive Hepatic Surgery",
+"annee": 2016,
+"type": "conférence",
+"lieu": "International Conference on Intelligent Robots and Systems",
+"url": "https://inria.hal.science/hal-01353185v1"
+},
+{
+"id": "pee7837b1d3",
+"titre": "Vessel-based brain-shift compensation using elastic registration driven by a patient-specific finite element model",
+"annee": 2016,
+"type": "conférence",
+"lieu": "International Conference on Information Processing in Computer-Assisted Interventions (IPCAI)",
+"url": "https://hal.science/hal-01331713v1"
+},
+{
+"id": "peb60b603f4",
+"titre": "Anticipation of Brain Shift in Deep Brain Stimulation Automatic Planning",
+"annee": 2015,
+"type": "conférence",
+"lieu": "IEEE Engineering in Medicine and Biology Society (EMBC’15)",
+"url": "https://inria.hal.science/hal-01242851v1",
+"doi": "10.1109/embc.2015.7319180"
+},
+{
+"id": "paacd183da0",
+"titre": "Augmented Reality during Cutting and Tearing of Deformable Objects",
+"annee": 2015,
+"type": "conférence",
+"lieu": "The 14th IEEE International Symposium on Mixed and Augmented Reality",
+"url": "https://inria.hal.science/hal-01184495v2"
+},
+{
+"id": "p2861f9c481",
+"titre": "Augmented Reality for Cryoablation Procedures",
+"annee": 2015,
+"type": "conférence",
+"lieu": "SIGGRAPH 2015",
+"url": "https://inria.hal.science/hal-01180848v1"
+},
+{
+"id": "pfab51903e3",
+"titre": "B-spline Based Multi-organ Detection in Magnetic Resonance Imaging",
+"annee": 2015,
+"type": "journal",
+"lieu": "Strain",
+"url": "https://inria.hal.science/hal-01204589v2",
+"doi": "10.1111/str.12136"
+},
+{
+"id": "p2671614337",
+"titre": "Fracture in Augmented Reality",
+"annee": 2015,
+"type": "conférence",
+"lieu": "SIGGRAPH [Poster]",
+"url": "https://inria.hal.science/hal-01191090v1"
+},
+{
+"id": "p1f880f99fa",
+"titre": "Framework for augmented reality in Minimally Invasive laparoscopic surgery",
+"annee": 2015,
+"type": "conférence",
+"lieu": "HealthCom 2015",
+"url": "https://inria.hal.science/hal-01315574v1",
+"doi": "10.1109/healthcom.2015.7454467"
+},
+{
+"id": "p4e8a5ac98b",
+"titre": "Haptic Rendering of Hyperelastic Models with Friction",
+"annee": 2015,
+"type": "conférence",
+"lieu": "2015 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+"url": "https://hal.science/hal-01184113v1",
+"doi": "10.1109/iros.2015.7353432"
+},
+{
+"id": "pb7781bd3e7",
+"titre": "Impact of Soft Tissue Heterogeneity on Augmented Reality for Liver Surgery",
+"annee": 2015,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-01136728v1",
+"doi": "10.1109/tvcg.2014.2377772"
+},
+{
+"id": "pcbc05650af",
+"titre": "Improving depth perception during surgical augmented reality",
+"annee": 2015,
+"type": "conférence",
+"lieu": "SIGGRAPH [Poster]",
+"url": "https://inria.hal.science/hal-01191101v1",
+"doi": "10.1145/2787626.2792654"
+},
+{
+"id": "p744537516c",
+"titre": "Logiciel de simulation de chirurgie mini invasive par PV : étude préliminaire",
+"annee": 2015,
+"type": "conférence",
+"lieu": "Congrès Annuel de l'Association Internationale d'Osteosynthèse Dynamique",
+"url": "https://hal.science/hal-05489129v1"
+},
+{
+"id": "ped2e8d3036",
+"titre": "Monocular 3D Reconstruction and Augmentation of Elastic Surfaces with Self-occlusion Handling",
+"annee": 2015,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-01186011v1",
+"doi": "10.1109/tvcg.2015.2452905"
+},
+{
+"id": "pc323aa527b",
+"titre": "Patient-specific Biomechanical Modeling for Guidance during Minimally-invasive Hepatic Surgery",
+"annee": 2015,
+"type": "journal",
+"lieu": "Annals of Biomedical Engineering",
+"url": "https://inria.hal.science/hal-01205194v1"
+},
+{
+"id": "pec058e00f9",
+"titre": "Personalization of Cardiac Electrophysiology Model using the Unscented Kalman Filtering",
+"annee": 2015,
+"type": "conférence",
+"lieu": "Computer Assisted Radiology and Surgery (CARS 2015)",
+"url": "https://inria.hal.science/hal-01195719v1"
+},
+{
+"id": "pba0e387c66",
+"titre": "Preoperative trajectory planning for percutaneous procedures in deformable environments",
+"annee": 2015,
+"type": "journal",
+"lieu": "Computerized Medical Imaging and Graphics",
+"url": "https://inria.hal.science/hal-01242842v1",
+"doi": "10.1016/j.compmedimag.2015.10.002"
+},
+{
+"id": "p09f67d8d17",
+"titre": "Project RESET . RE tinal Surgery systEm for Training",
+"annee": 2015,
+"type": "journal",
+"lieu": "Acta Ophthalmologica",
+"url": "https://doi.org/10.1111/j.1755-3768.2015.0477",
+"doi": "10.1111/j.1755-3768.2015.0477"
+},
+{
+"id": "p3252aa7887",
+"titre": "Rest shape computation for highly deformable model of brain.",
+"annee": 2015,
+"type": "journal",
+"lieu": "Computer Methods in Biomechanics and Biomedical Engineering",
+"url": "https://hal.science/hal-01217673v1",
+"doi": "10.1080/10255842.2015.1070591"
+},
+{
+"id": "p3ede504fff",
+"titre": "Surgery Training, Planning and Guidance Using the SOFA Framework",
+"annee": 2015,
+"type": "conférence",
+"lieu": "Eurographics",
+"url": "https://inria.hal.science/hal-01160297v1"
+},
+{
+"id": "p2d0d4b4dc8",
+"titre": "Surgical Augmented Reality with Topological Changes",
+"annee": 2015,
+"type": "conférence",
+"lieu": "Medical Image Computing and Computer Assisted Interventions",
+"url": "https://inria.hal.science/hal-01184498v2",
+"doi": "10.1007/978-3-319-24553-9_51"
+},
+{
+"id": "p5203d30eb7",
+"titre": "Virtual Cutting of Deformable Objects based on Efficient Topological Operations",
+"annee": 2015,
+"type": "conférence",
+"lieu": "Computer Graphics International",
+"url": "https://hal.science/hal-01208546v1"
+},
+{
+"id": "p319533c69a",
+"titre": "Virtual Cutting of Deformable Objects based on Efficient Topological Operations",
+"annee": 2015,
+"type": "journal",
+"lieu": "The Visual Computer",
+"url": "https://hal.science/hal-01162099v1",
+"doi": "10.1007/s00371-015-1123-x"
+},
+{
+"id": "p7de56944d3",
+"titre": "Atlas-based Transfer of Boundary Conditions for Biomechanical Simulation",
+"annee": 2014,
+"type": "conférence",
+"lieu": "MICCAI - 17th International Conference on Medical Image Computing and Computer Assisted Intervention",
+"url": "https://inria.hal.science/hal-01070339v1"
+},
+{
+"id": "pbab8bcdc66",
+"titre": "Automatic Alignment of pre and intraoperative Data using Anatomical Landmarks for Augmented Laparoscopic Liver Surgery",
+"annee": 2014,
+"type": "conférence",
+"lieu": "International Symposium on Biomedical Simulation ISBMS",
+"url": "https://inria.hal.science/hal-01068246v1"
+},
+{
+"id": "p99c06c2075",
+"titre": "Computation and Visualization of Risk Assessment in Deep Brain Stimulation",
+"annee": 2014,
+"type": "conférence",
+"lieu": "MMVR 21 - Medicine Meets Virtual Reality",
+"url": "https://inria.hal.science/hal-00881694v2"
+},
+{
+"id": "p58f21eb985",
+"titre": "Computation and Visualization of Risk Assessment in Deep Brain Stimulation Planning",
+"annee": 2014,
+"type": "chapitre",
+"lieu": "Studies in health technology and informatics",
+"url": "https://doi.org/10.3233/978-1-61499-375-9-29",
+"doi": "10.3233/978-1-61499-375-9-29"
+},
+{
+"id": "p949a3ae7fe",
+"titre": "Constraint-Based Simulation for Non-Rigid Real-Time Registration",
+"annee": 2014,
+"type": "conférence",
+"lieu": "Medicine Meets Virtual Reality",
+"url": "https://inria.hal.science/hal-01160739v1"
+},
+{
+"id": "p3113fe75b1",
+"titre": "Haptic Rendering on Deformable Anatomical Tissues with Strong Heterogeneities",
+"annee": 2014,
+"type": "conférence",
+"lieu": "Eurohaptics 2014",
+"url": "https://inria.hal.science/hal-01025614v1"
+},
+{
+"id": "p73e32e3122",
+"titre": "Interactive Planning of Cryotherapy Using Physically-Based Simulation",
+"annee": 2014,
+"type": "conférence",
+"lieu": "MMVR 21 - Medicine Meets Virtual Reality - 2014",
+"url": "https://inria.hal.science/hal-00918200v1"
+},
+{
+"id": "pe697f3f30e",
+"titre": "Interactive Planning of Cryotherapy Using Physics-Based Simulation",
+"annee": 2014,
+"type": "chapitre",
+"lieu": "Studies in health technology and informatics",
+"url": "https://doi.org/10.3233/978-1-61499-375-9-423",
+"doi": "10.3233/978-1-61499-375-9-423"
+},
+{
+"id": "pbb977ba0f6",
+"titre": "Interactive Training System for Interventional Electrocardiology Procedures",
+"annee": 2014,
+"type": "conférence",
+"lieu": "6th International Symposium on Biomedical Simulation - ISBMS 2014",
+"url": "https://inria.hal.science/hal-01078209v1",
+"doi": "10.1007/978-3-319-12057-7_2"
+},
+{
+"id": "p6ee9b40da5",
+"titre": "Intra-operative Registration for Deep Brain Stimulation Procedures based on a Full Physics Head Model",
+"annee": 2014,
+"type": "conférence",
+"lieu": "MICCAI 2014 Workshop on Deep Brain Stimulation Methodological Challenges - 2nd edition",
+"url": "https://inria.hal.science/hal-01060304v1"
+},
+{
+"id": "p0d02553ebc",
+"titre": "Intra-operative Registration for Stereotactic Procedures driven by a combined Biomechanical Brain and CSF Model",
+"annee": 2014,
+"type": "conférence",
+"lieu": "ISBMS - International Symposium on Biomedical Simulation",
+"url": "https://inria.hal.science/hal-01058435v1",
+"doi": "10.1007/978-3-319-12057-7_9"
+},
+{
+"id": "p70aa48e4b1",
+"titre": "Middle-ear microsurgery simulation to improve new robotic procedures.",
+"annee": 2014,
+"type": "journal",
+"lieu": "BioMed Research International",
+"url": "https://hal.science/hal-01082845v1",
+"doi": "10.1155/2014/891742"
+},
+{
+"id": "pbcb93f5e8e",
+"titre": "Model-Based Identification of Anatomical Boundary Conditions in Living Tissues",
+"annee": 2014,
+"type": "conférence",
+"lieu": "IPCAI 2014 - 5th International Conference on Information Processing in Computer Assisted Interventions",
+"url": "https://inria.hal.science/hal-01264434v1",
+"doi": "10.1007/978-3-319-07521-1_21"
+},
+{
+"id": "p8fe364a6f0",
+"titre": "Modèle pour la simulation de tissus connectifs",
+"annee": 2014,
+"type": "journal",
+"lieu": "Revue Electronique Francophone d'Informatique Graphique",
+"url": "https://inria.hal.science/hal-01095301v1"
+},
+{
+"id": "pe1f58af37d",
+"titre": "Real-time simulation of contact and cutting of heterogeneous soft-tissues",
+"annee": 2014,
+"type": "journal",
+"lieu": "Medical Image Analysis",
+"url": "https://inria.hal.science/hal-01097108v1",
+"doi": "10.1016/j.media.2013.11.001"
+},
+{
+"id": "pec06f771e2",
+"titre": "Réalité augmentée pour la chirurgie minimalement invasive du foie utilisant un modèle biomécanique guidé par l'image",
+"annee": 2014,
+"type": "conférence",
+"lieu": "Reconnaissance de Formes et Intelligence Artificielle (RFIA) 2014",
+"url": "https://hal.science/hal-00988767v1"
+},
+{
+"id": "p3bd6e118d9",
+"titre": "Simulation de l'interaction entre film fluide et solides déformables",
+"annee": 2014,
+"type": "journal",
+"lieu": "Revue Electronique Francophone d'Informatique Graphique",
+"url": "https://inria.hal.science/hal-01165295v1"
+},
+{
+"id": "p9b414c2990",
+"titre": "Single View Augmentation of 3D Elastic Objects",
+"annee": 2014,
+"type": "conférence",
+"lieu": "International Symposium on Mixed and Augmented Reality - ISMAR",
+"url": "https://inria.hal.science/hal-01056323v1"
+},
+{
+"id": "p40d2e91091",
+"titre": "Testbed for assessing the accuracy of interventional radiology simulations",
+"annee": 2014,
+"type": "conférence",
+"lieu": "ISBMS - 6th International Symposium on Biomedical Simulation",
+"url": "https://inria.hal.science/hal-01059892v1"
+},
+{
+"id": "pa4bb65a819",
+"titre": "The Role of Ligaments: Patient-Specific or Scenario-Specific ?",
+"annee": 2014,
+"type": "conférence",
+"lieu": "International Symposium on Biomedical Simulation ISBMS",
+"url": "https://inria.hal.science/hal-01068077v1"
+},
+{
+"id": "p3c0657a4eb",
+"titre": "Towards an Accurate Tracking of Liver Tumors for Augmented Reality in Robotic Assisted Surgery",
+"annee": 2014,
+"type": "conférence",
+"lieu": "International Conference on Robotics and Automation (ICRA)",
+"url": "https://inria.hal.science/hal-01003262v1"
+},
+{
+"id": "p5d44e929e5",
+"titre": "Virtual Simulation of Stapedotomy Surgery",
+"annee": 2014,
+"type": "conférence",
+"lieu": "ARO 2014",
+"url": "https://inria.hal.science/hal-00919984v1"
+},
+{
+"id": "p8bc6cd7aea",
+"titre": "A Combined Force and Thermal Feedback Interface for Minimally Invasive Procedures Simulation",
+"annee": 2013,
+"type": "journal",
+"lieu": "IEEE/ASME Transactions on Mechatronics",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-00783583v1",
+"doi": "10.1109/tmech.2012.2197862"
+},
+{
+"id": "p25a20c9fa9",
+"titre": "Computer-based training system for cataract surgery",
+"annee": 2013,
+"type": "journal",
+"lieu": "SIMULATION: Transactions of The Society for Modeling and Simulation International",
+"url": "https://inria.hal.science/hal-00855821v1",
+"doi": "10.1177/0037549713495753"
+},
+{
+"id": "pff2a3dfbb5",
+"titre": "Conception d’un atlas mécanique pour la simulation de la chirurgie de l’oreille moyenne",
+"annee": 2013,
+"type": "journal",
+"lieu": "Annales françaises d'Oto-rhino-laryngologie et de Pathologie Cervico-faciale",
+"url": "https://hal.science/hal-01148675v1",
+"doi": "10.1016/j.aforl.2013.06.258"
+},
+{
+"id": "pf360f49c7a",
+"titre": "Connective Tissues Simulation on GPU",
+"annee": 2013,
+"type": "conférence",
+"lieu": "10th Workshop on Virtual Reality Interaction and Physical Simulation",
+"url": "https://inria.hal.science/hal-00916698v1"
+},
+{
+"id": "p0f6f0693a1",
+"titre": "Deformation-based Augmented Reality for Hepatic Surgery",
+"annee": 2013,
+"type": "journal",
+"lieu": "Studies in Health Technology and Informatics",
+"url": "https://inria.hal.science/hal-00768372v1"
+},
+{
+"id": "p4ea6cf70e4",
+"titre": "Haptic Rendering of Interacting Dynamic Deformable Objects Simulated in Real-Time at Different Frequencies",
+"annee": 2013,
+"type": "conférence",
+"lieu": "IROS 2013 - IEEE/RSJ International Conference on Intelligent Robots and Systems",
+"url": "https://inria.hal.science/hal-00842866v1"
+},
+{
+"id": "p6da4cad3e5",
+"titre": "Image-guided Simulation of Heterogeneous Tissue Deformation For Augmented Reality during Hepatic Surgery",
+"annee": 2013,
+"type": "conférence",
+"lieu": "ISMAR - IEEE International Symposium on Mixed and Augmented Reality 2013",
+"url": "https://inria.hal.science/hal-00842855v1"
+},
+{
+"id": "pdc360a3721",
+"titre": "Information Processing in Computer-Assisted Interventions - Proceedings of the 4th International IPCAI conference, Heidelberg, June 26, 2013.",
+"annee": 2013,
+"type": "ouvrage",
+"lieu": "",
+"url": "https://inria.hal.science/hal-00856356v1"
+},
+{
+"id": "p078c73d662",
+"titre": "Modelling Prostate Deformation: SOFA versus Experiments",
+"annee": 2013,
+"type": "journal",
+"lieu": "Mechanical Engineering Research",
+"url": "https://inria.hal.science/hal-00915244v1",
+"doi": "10.5539/mer.v3n2p64"
+},
+{
+"id": "p1bafa6d3a5",
+"titre": "Registration of a Validated Mechanical Atlas of Middle Ear for Surgical Simulation",
+"annee": 2013,
+"type": "conférence",
+"lieu": "MICCAI 2013",
+"url": "https://inria.hal.science/hal-00838431v1"
+},
+{
+"id": "p81fd1e70d2",
+"titre": "Simulation of Lipofilling Reconstructive Surgery using coupled Eulerian Fluid and Deformable Solid Models",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Medical Image Computing and Computer Assisted Intervention Society",
+"url": "https://inria.hal.science/hal-00838650v1"
+},
+{
+"id": "p8bc2f991f6",
+"titre": "Towards a better understanding of pelvic system disorders using numerical simulation",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Medical Image Computing and Computer Assisted Intervention",
+"url": "https://inria.hal.science/hal-00831245v1"
+},
+{
+"id": "p08a1b72dfe",
+"titre": "Towards an Interactive Electromechanical Model of the Heart",
+"annee": 2013,
+"type": "journal",
+"lieu": "Interface Focus",
+"url": "https://inria.hal.science/hal-00797354v1",
+"doi": "10.1098/rsfs.2012.0091"
+},
+{
+"id": "p2e8d19020f",
+"titre": "Validation Method of a Middle Ear Mechanical Model to Develop a Surgical Simulator",
+"annee": 2013,
+"type": "journal",
+"lieu": "Audiology and Neurotology",
+"url": "https://inria.hal.science/hal-00919918v1",
+"doi": "10.1159/000356301"
+},
+{
+"id": "p678ad79c59",
+"titre": "Évaluation de techniques chirurgicales innovantes pour l’otospongiose à l’aide d’un simulateur chirurgical",
+"annee": 2013,
+"type": "journal",
+"lieu": "Annales françaises d'Oto-rhino-laryngologie et de Pathologie Cervico-faciale",
+"url": "https://hal.science/hal-01148667v1",
+"doi": "10.1016/j.aforl.2013.06.259"
+},
+{
+"id": "pd77dcbe63f",
+"titre": "A (Near) Real-Time Simulation Method of Aneurysm Coil Embolization",
+"annee": 2012,
+"type": "chapitre",
+"lieu": "Aneurysm",
+"url": "https://inria.hal.science/hal-00736865v1",
+"doi": "10.5772/48635"
+},
+{
+"id": "pb46f2bfdcd",
+"titre": "Brain-shift aware risk map for Deep Brain Stimulation Planning",
+"annee": 2012,
+"type": "conférence",
+"lieu": "DBSMC - MICCAI 2012 Workshop on Deep Brain Stimulation Methodological Challenges",
+"url": "https://inria.hal.science/hal-00736773v1"
+},
+{
+"id": "p5565c648fc",
+"titre": "Hysteroscopic placement of tubal sterilization implants: virtual reality simulator training",
+"annee": 2012,
+"type": "journal",
+"lieu": "Surgical Endoscopy",
+"url": "https://doi.org/10.1007/s00464-011-2139-6",
+"doi": "10.1007/s00464-011-2139-6"
+},
+{
+"id": "p21549b018e",
+"titre": "Interactive Electromechanical Model of the Heart for Patient-Specific Therapy Planning and Training using SOFA",
+"annee": 2012,
+"type": "conférence",
+"lieu": "VPH 2012",
+"url": "https://inria.hal.science/hal-00751537v1"
+},
+{
+"id": "p12b2b5b65a",
+"titre": "Local implicit modeling of blood vessels for interactive simulation",
+"annee": 2012,
+"type": "conférence",
+"lieu": "MICCAI - 15th International Conference on Medical Image Computing and Computer-Assisted Intervention",
+"url": "https://inria.hal.science/hal-00741307v1",
+"doi": "10.1007/978-3-642-33415-3_68"
+},
+{
+"id": "pa67ca2b52c",
+"titre": "Mise au point d’un simulateur et d’un modèle mécanique de l’oreille moyenne pour la chirurgie ossiculaire",
+"annee": 2012,
+"type": "journal",
+"lieu": "Annales françaises d'Oto-rhino-laryngologie et de Pathologie Cervico-faciale",
+"url": "https://hal.science/hal-01148673v1",
+"doi": "10.1016/j.aforl.2012.07.204"
+},
+{
+"id": "p8a917fb44e",
+"titre": "Modeling and Real-Time Simulation of a Vascularized Liver Tissue",
+"annee": 2012,
+"type": "conférence",
+"lieu": "MICCAI 2012 - 15th International Conference on Medical Image Computing and Computer-Assisted Intervention",
+"url": "https://hal.science/hal-00800546v1"
+},
+{
+"id": "p4be5dc179e",
+"titre": "Physics-based Augmented Reality for 3D Deformable Object",
+"annee": 2012,
+"type": "conférence",
+"lieu": "Eurographics Workshop on Virtual Reality Interaction and Physical Simulation",
+"url": "https://inria.hal.science/hal-00768362v1"
+},
+{
+"id": "p27a753bc17",
+"titre": "Robust RANSAC-based blood vessel segmentation",
+"annee": 2012,
+"type": "conférence",
+"lieu": "SPIE Medical Imaging",
+"url": "https://inria.hal.science/hal-00642003v1",
+"doi": "10.1117/12.911670"
+},
+{
+"id": "pbac040f548",
+"titre": "SOFA: A Multi-Model Framework for Interactive Physical Simulation",
+"annee": 2012,
+"type": "chapitre",
+"lieu": "Soft Tissue Biomechanical Modeling for Computer Assisted Surgery",
+"url": "https://inria.hal.science/hal-00681539v1",
+"doi": "10.1007/8415_2012_125"
+},
+{
+"id": "p8023348fbc",
+"titre": "Towards Real-Time Computation of Cardiac Electrophysiology for Training Simulator",
+"annee": 2012,
+"type": "conférence",
+"lieu": "Statistical Atlases and Computational Models of the Heart - STACOM 2012 in the 15th International Conference on Medical Image Computing and Computer Assisted Intervention - MICCAI 2012",
+"url": "https://inria.hal.science/hal-00750835v1"
+},
+{
+"id": "pf232e30298",
+"titre": "A Prototype of Simulation System for Cataract Surgery Training",
+"annee": 2011,
+"type": "conférence",
+"lieu": "European Society of Cataract & Refractive Surgeons Winter Meeting",
+"url": "https://inria.hal.science/hal-00839446v1"
+},
+{
+"id": "p6297f9321f",
+"titre": "Assessment Metrics For A Prototype Of Simulation System For Cataract Surgery Training",
+"annee": 2011,
+"type": "conférence",
+"lieu": "Annual Meeting of the Association for Research in Vision and Opthalmology",
+"url": "https://inria.hal.science/hal-00839445v1"
+},
+{
+"id": "p7a532ad476",
+"titre": "Asynchronous haptic simulation of contacting deformable objects with variable stiffness",
+"annee": 2011,
+"type": "conférence",
+"lieu": "Intelligent Robots and Systems (IROS), 2011 IEEE/RSJ International Conference on",
+"url": "https://hal.science/hal-00823762v1"
+},
+{
+"id": "p408b389d35",
+"titre": "Biomechanical Simulation of Electrode Migration for Deep Brain Stimulation",
+"annee": 2011,
+"type": "conférence",
+"lieu": "14th International Conference on Medical Image Computing and Computer-Assisted Intervention - MICCAI 2011",
+"url": "https://inria.hal.science/hal-00685737v1",
+"doi": "10.1007/978-3-642-23623-5_43"
+},
+{
+"id": "p5fe65b34df",
+"titre": "Computer-based simulation for the endovascular treatment of intracranial aneurysms",
+"annee": 2011,
+"type": "conférence",
+"lieu": "LIVIM Imaging Worshop",
+"url": "https://inria.hal.science/hal-00641990v1"
+},
+{
+"id": "p1580fcd951",
+"titre": "Constraint-based haptic rendering of multirate compliant mechanisms",
+"annee": 2011,
+"type": "journal",
+"lieu": "IEEE Transactions on Haptics (ToH)",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-00784081v1",
+"doi": "10.1109/toh.2011.41"
+},
+{
+"id": "pc9df3510cc",
+"titre": "Implicit FEM Solver on GPU for Interactive Deformation Simulation",
+"annee": 2011,
+"type": "chapitre",
+"lieu": "GPU Computing Gems Jade Edition",
+"url": "https://inria.hal.science/inria-00589200v1",
+"doi": "10.1016/b978-0-12-385963-1.00021-6"
+},
+{
+"id": "pcc1f8ab819",
+"titre": "Implicit FEM and Fluid Coupling on GPU for Interactive Multiphysics Simulation",
+"annee": 2011,
+"type": "conférence",
+"lieu": "SIGGRAPH Talks",
+"url": "https://inria.hal.science/inria-00589203v2",
+"doi": "10.1145/2037826.2037895"
+},
+{
+"id": "p49ac20380d",
+"titre": "Interactive Blood-Coil Simulation in Real-time during Aneurysm Embolization",
+"annee": 2011,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://inria.hal.science/hal-00688443v1",
+"doi": "10.1016/j.cag.2011.01.010"
+},
+{
+"id": "pa6dba76848",
+"titre": "La simulation en radiologie interventionnelle",
+"annee": 2011,
+"type": "journal",
+"lieu": "Interstices",
+"url": "https://inria.hal.science/hal-01350375v1"
+},
+{
+"id": "p4a6d3a111e",
+"titre": "Preconditioner-Based Contact Response and Application to Cataract Surgery",
+"annee": 2011,
+"type": "conférence",
+"lieu": "MICCAI - 14th International Conference on Medical Image Computing and Computer Assisted Intervention - 2011",
+"url": "https://inria.hal.science/hal-00685593v1",
+"doi": "10.1007/978-3-642-23623-5_40"
+},
+{
+"id": "p2c20cf0599",
+"titre": "Realisation d'un Prototype de Simulateur Fonctionnel pour la Chirurgie de la Cataracte",
+"annee": 2011,
+"type": "conférence",
+"lieu": "117e CONGRES de la Société Française d'Ophtalmologie",
+"url": "https://inria.hal.science/hal-00839444v1"
+},
+{
+"id": "p3c71455382",
+"titre": "Reconstruction robuste des vaisseaux sanguins par surfaces implicites locales",
+"annee": 2011,
+"type": "conférence",
+"lieu": "Orasis",
+"url": "https://inria.hal.science/inria-00579814v1"
+}
+]
+}

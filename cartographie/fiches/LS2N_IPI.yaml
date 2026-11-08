@@ -1,0 +1,77 @@
+equipe: LS2N/IPI
+domaines:
+  principaux:
+  - images
+  secondaires:
+  - geometrie
+  - rv
+  - visu
+themes:
+- id: perception
+  phrase: Évaluation subjective et objective de la qualité visuelle des maillages texturés et contenus 3D, en particulier
+    en réalité virtuelle, et métriques apprises de qualité.
+  preuves:
+  - pc19cbde7b9
+  - p2e928ffbf5
+  - pe5ea9a107e
+- id: nuages_points
+  phrase: Qualité perçue des nuages de points statiques et dynamiques en contexte de compression, d'éclairage et de rendu
+    ombré, y compris pour les humains numériques en réalité étendue.
+  preuves:
+  - pe18913fe55
+  - p60da107745
+  - p13ae3b3f00
+- id: compression_geometrie
+  phrase: Compression de la géométrie et des normales de nuages de points par quantification vectorielle sur réseaux de points
+    arborescents.
+  preuves:
+  - ped1c3d6b96
+  - p36f0b44541
+  - p28a74a309d
+- id: visu_immersive
+  phrase: Géovisualisation immersive de données urbaines multicouches, analytique immersive en casque et restitution d'ambiances
+    lumineuses et climatiques urbaines en réalité virtuelle.
+  preuves:
+  - p642e1dd750
+  - pae86214da1
+  - p7bac7f741d
+- id: capture_4d
+  phrase: Évaluation de la qualité des vidéos volumétriques en réalité étendue et effet du sous-échantillonnage temporel sur
+    les métriques.
+  preuves:
+  - p4432690c5b
+  - p04c6df9d8b
+  - p0b968d205f
+applications:
+- id: architecture_urbain
+  preuves:
+  - p7bac7f741d
+  - p0099254b16
+  - p991c7caa55
+- id: geographie
+  preuves:
+  - p642e1dd750
+  - pb7150e77ea
+  - pa41d0a4fd2
+- id: sante
+  preuves:
+  - pa67dfe7b5b
+  - paadd11d2b3
+  - pe30686136c
+- id: accessibilite
+  preuves:
+  - p86af899b7b
+  - pbc6d6c3f48
+  - p0777a8e924
+publications_representatives:
+- pe18913fe55
+- p60da107745
+- p799c3334e6
+- p5b52a41179
+- pa609fcf988
+synthese: 'Perception et qualité d''expérience des contenus 3D et immersifs : qualité des maillages, nuages de points et vidéos
+  volumétriques, compression de géométrie, géovisualisation et analytique immersives.'
+pour_etudiants: On y mesure comment les gens perçoivent la qualité des objets 3D, des nuages de points et des vidéos en réalité
+  virtuelle, pour mieux les compresser et les afficher.
+pour_entreprises: Bases de données et métriques de qualité pour maillages, nuages de points et vidéos volumétriques, protocoles
+  de tests utilisateurs en XR, visualisation immersive de données urbaines.

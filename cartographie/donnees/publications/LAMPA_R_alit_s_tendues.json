@@ -1,0 +1,1723 @@
+{
+"equipe": "LAMPA/Réalités étendues",
+"publications": [
+{
+"id": "p1e3c0d15ee",
+"titre": "An Explainable AI Framework for Engineering Education Assessment as an Alternative to Generative AI-Based Grading",
+"annee": 2026,
+"type": "conférence",
+"lieu": "18th International Conference on Computer Supported Education",
+"url": "https://hal.science/hal-05630864v1",
+"doi": "10.5220/0014831500004021"
+},
+{
+"id": "p6df3bffa43",
+"titre": "Biophilic Virtual Environments in Education: A Decade of Evidence, Outcomes, and Design Implications",
+"annee": 2026,
+"type": "conférence",
+"lieu": "18th International Conference on Computer Supported Education",
+"url": "https://hal.science/hal-05630773v1",
+"doi": "10.5220/0014616800004021"
+},
+{
+"id": "p0a214f5284",
+"titre": "Characterizing Device Transitions and Their Impact on Presence, Embodiment and Avatar Identification in Cross-Platform Virtual Environments",
+"annee": 2026,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://hal.science/hal-05685612v1",
+"doi": "10.1109/tvcg.2026.3668931"
+},
+{
+"id": "p4235795c49",
+"titre": "Cool or Cold? A Comparative Study of Sympathetic and Apathetic Virtual Tutors",
+"annee": 2026,
+"type": "conférence",
+"lieu": "18th International Conference on Computer Supported Education",
+"url": "https://hal.science/hal-05630781v1",
+"doi": "10.5220/0014637500004021"
+},
+{
+"id": "p62a3ea74de",
+"titre": "Design Thinking through Play: A Four-Phase Game-Based Learning Trajectory Aligned with Bloom’s Revised Taxonomy",
+"annee": 2026,
+"type": "conférence",
+"lieu": "18th International Conference on Computer Supported Education",
+"url": "https://hal.science/hal-05630765v1",
+"doi": "10.5220/0014720700004021"
+},
+{
+"id": "p099a5bf319",
+"titre": "Development and pre-validation of the multi user eXperience-scale (MUX-S): A French tool for measuring multi-user experience",
+"annee": 2026,
+"type": "journal",
+"lieu": "International Journal of Human-Computer Studies",
+"url": "https://u-bordeaux.hal.science/hal-05745803v1",
+"doi": "10.1016/j.ijhcs.2026.103849"
+},
+{
+"id": "pf1a2c22f3f",
+"titre": "Effects of content-processing requirement and number of players in an educational game",
+"annee": 2026,
+"type": "journal",
+"lieu": "The Journal of Experimental Education",
+"url": "https://hal.science/hal-05602652v1",
+"doi": "10.1080/00220973.2026.2664533"
+},
+{
+"id": "pe8d30d3801",
+"titre": "GPS effect : When attentional guiding is detrimental to learning",
+"annee": 2026,
+"type": "journal",
+"lieu": "Journal of Interactive Learning Research",
+"url": "https://hal.science/hal-05521135v1"
+},
+{
+"id": "pff31c6f2de",
+"titre": "Generative AI-Assisted Learning: An Unexpected Detrimental Interaction with Self-Explanation",
+"annee": 2026,
+"type": "journal",
+"lieu": "Journal of the Association for Information Systems",
+"url": "https://openalex.org/W7164450959"
+},
+{
+"id": "p4bab71be92",
+"titre": "I Have a Claw! Impact of Embodying a Biomimetic Avatar on Self-Perception and Task Performance in Virtual Reality",
+"annee": 2026,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://hal.science/hal-05685604v1",
+"doi": "10.1109/tvcg.2026.3693261"
+},
+{
+"id": "pa35dd44c3c",
+"titre": "Mental Workload Measurement in Helicopter Maintenance: Comparing Virtual Reality Simulation and Real‐World Conditions",
+"annee": 2026,
+"type": "journal",
+"lieu": "Human Factors and Ergonomics in Manufacturing and Service Industries",
+"url": "https://hal.science/hal-05561272v1",
+"doi": "10.1002/hfm.70041"
+},
+{
+"id": "peeed9c40a5",
+"titre": "Providing designers with relevant information throughout the design process for additive manufacturing",
+"annee": 2026,
+"type": "journal",
+"lieu": "Rapid Prototyping Journal",
+"url": "https://doi.org/10.1108/rpj-07-2025-0333",
+"doi": "10.1108/rpj-07-2025-0333"
+},
+{
+"id": "pea9f2200ac",
+"titre": "The Koinos Model: compelling social interactions in Virtual Reality",
+"annee": 2026,
+"type": "journal",
+"lieu": "Theoretical Issues in Ergonomics Science",
+"url": "https://hal.science/hal-05521172v1",
+"doi": "10.1080/1463922x.2026.2622021"
+},
+{
+"id": "p90e380a107",
+"titre": "Through My Eyes: Integrative Model of Awareness‐Raising (IMAR)",
+"annee": 2026,
+"type": "journal",
+"lieu": "Human Behavior and Emerging Technologies",
+"url": "https://doi.org/10.1155/hbe2/4947048",
+"doi": "10.1155/hbe2/4947048"
+},
+{
+"id": "pba7766695d",
+"titre": "Through my eyes: Integrative Model of Awareness-Raising (IMAR)",
+"annee": 2026,
+"type": "journal",
+"lieu": "Human Behavior and Emerging Technologies",
+"url": "https://hal.science/hal-05521146v1"
+},
+{
+"id": "p2840840bfc",
+"titre": "Toward a cognitive approach of the subjective experience of presence in virtual reality",
+"annee": 2026,
+"type": "journal",
+"lieu": "Computers in Human Behavior Reports",
+"url": "https://doi.org/10.1016/j.chbr.2026.101391",
+"doi": "10.1016/j.chbr.2026.101391"
+},
+{
+"id": "p84c2686c07",
+"titre": "Toward an Integrated Methodology for Preliminary Design : Numerical Simulation of an additive manufactured part for GD&T prediction",
+"annee": 2026,
+"type": "conférence",
+"lieu": "International Joint Conference on Mechanics, Design Engineering and Advanced Manufacturing (JCM 2026)",
+"url": "https://hal.science/hal-05794648v1"
+},
+{
+"id": "p046433d3db",
+"titre": "Towards structuring research on mediated social interactions",
+"annee": 2026,
+"type": "conférence",
+"lieu": "ACM CHI 2026 Workshop: Shaping Future Human Connection",
+"url": "https://artsetmetiers.hal.science/hal-05704301v1"
+},
+{
+"id": "pb006196c43",
+"titre": "Virtual Reality as a Tool for Post‑Concussion Cognitive Assessment: A Pilot Comparison of Reaction Time Metrics",
+"annee": 2026,
+"type": "journal",
+"lieu": "Multidisciplinary Biomechanics Journal",
+"url": "https://doi.org/10.46298/mbj.19212",
+"doi": "10.46298/mbj.19212"
+},
+{
+"id": "pa7dc382dc5",
+"titre": "Virtual Tutor Style in Cross-Cultural VR Education: Evidence from France and Thailand",
+"annee": 2026,
+"type": "journal",
+"lieu": "Journal of Educational Technology and Society",
+"url": "https://hal.science/hal-05751182v1",
+"doi": "10.30191/ets"
+},
+{
+"id": "p709462c2e7",
+"titre": "Am I (Not) a Ghost? Leveraging Affordances to Study the Impact of Avatar/Interaction Coherence on Embodiment and Plausibility in Virtual Reality",
+"annee": 2025,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://hal.science/hal-05044560v1",
+"doi": "10.1109/tvcg.2025.3549136"
+},
+{
+"id": "p91920de8c4",
+"titre": "Effect of avatar stylization and facial expression intensity in virtual interactions",
+"annee": 2025,
+"type": "journal",
+"lieu": "Virtual Reality",
+"url": "https://hal.science/hal-05685281v1",
+"doi": "10.1007/s10055-025-01238-6"
+},
+{
+"id": "p4d90ac210a",
+"titre": "Empowering Instructional Design Research: Open-Access Experimental Materials",
+"annee": 2025,
+"type": "conférence",
+"lieu": "2025 13th International Conference on Information and Education Technology",
+"url": "https://hal.science/hal-05082541v1"
+},
+{
+"id": "p73b46e6ccb",
+"titre": "Formalisation de règles de conception basée sur une description spatio-temporelle des procédés de fabrication additive",
+"annee": 2025,
+"type": "conférence",
+"lieu": "Colloque S.Mart 2025",
+"url": "https://hal.science/hal-05244931v1"
+},
+{
+"id": "p4db3d6e619",
+"titre": "Implicit learning of professional skills through immersive virtual reality: a media comparison study",
+"annee": 2025,
+"type": "conférence",
+"lieu": "2025 IEEE Conference Virtual Reality and 3D User Interfaces (VR)",
+"url": "https://hal.science/hal-05056179v1",
+"doi": "10.1109/vr59515.2025.00068"
+},
+{
+"id": "p29a0949b44",
+"titre": "La fresque de l’entrepreneuriat innovant et collectif : un outil de sensibilisation aux enjeux et aux risques entrepreneuriaux",
+"annee": 2025,
+"type": "journal",
+"lieu": "Les Cahiers Risques et Résilience",
+"url": "https://hal.science/hal-05556097v1"
+},
+{
+"id": "pf928d937c0",
+"titre": "MemorIA, an Architecture for Creating Interactive AI Historical Agents in Educational Contexts",
+"annee": 2025,
+"type": "journal",
+"lieu": "Computer Animation and Virtual Worlds",
+"url": "https://hal.science/hal-05128995v1",
+"doi": "10.1002/cav.70032"
+},
+{
+"id": "p167705d158",
+"titre": "Multi-User Acceptance in Healthcare Technology : Medical Support Perceptions and Interactions Outcomes",
+"annee": 2025,
+"type": "conférence",
+"lieu": "Proceedings of the 22nd Congress of the International Ergonomics Association",
+"url": "https://hal.science/hal-05769312v1",
+"doi": "10.1007/978-981-96-8908-8_49"
+},
+{
+"id": "pe196c4941f",
+"titre": "Multi-dimensional measurement of mental workload in industrial context: an experiment in the field of helicopter maintenance",
+"annee": 2025,
+"type": "journal",
+"lieu": "Applied Ergonomics",
+"url": "https://doi.org/10.1016/j.apergo.2025.104599",
+"doi": "10.1016/j.apergo.2025.104599"
+},
+{
+"id": "p5c578547c9",
+"titre": "Multimodal measurement of the mental workload during an assembly and disassembly task",
+"annee": 2025,
+"type": "journal",
+"lieu": "Theoretical Issues in Ergonomics Science",
+"url": "https://hal.science/hal-05407495v1",
+"doi": "10.1080/1463922x.2025.2568138"
+},
+{
+"id": "p220ff501a8",
+"titre": "Optimizing social interactions in VR",
+"annee": 2025,
+"type": "journal",
+"lieu": "International journal of virtual reality",
+"url": "https://hal.science/hal-05087121v1"
+},
+{
+"id": "p45495c4786",
+"titre": "Part description to enhance interaction between design and additive manufacturing based on spatio-temporal mereotopological theory",
+"annee": 2025,
+"type": "journal",
+"lieu": "International Journal on Interactive Design and Manufacturing",
+"url": "https://hal.science/hal-05077346v1",
+"doi": "10.1007/s12008-025-02304-8"
+},
+{
+"id": "p4033ad75e3",
+"titre": "Refining Research in Gameful Design",
+"annee": 2025,
+"type": "conférence",
+"lieu": "7th International Conference on HCI Games",
+"url": "https://hal.science/hal-05513067v1",
+"doi": "10.1007/978-3-031-92578-8_3"
+},
+{
+"id": "p2573c9f279",
+"titre": "Virtually Be: Interaction between Physical and Virtual Actors in Theatrical Performances",
+"annee": 2025,
+"type": "journal",
+"lieu": "Proceedings of the 22nd International Conference on Culture and Computer Science: Remixing Analog and Digital",
+"url": "https://hal.science/hal-05411633v1",
+"doi": "10.1145/3769526.3769664"
+},
+{
+"id": "p61a3af1da9",
+"titre": "Wabi Sabi in Virtual Reality sketching: toward a digital creator’s posture change",
+"annee": 2025,
+"type": "journal",
+"lieu": "Leonardo",
+"url": "https://doi.org/10.1162/leon_a_02707",
+"doi": "10.1162/leon_a_02707"
+},
+{
+"id": "p1edf300825",
+"titre": "What You See is What You Get: Exploring Novel Hands-Free Methods of Virtual Body Control for Avatars",
+"annee": 2025,
+"type": "conférence",
+"lieu": "VR 2025 - 32 nd IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)",
+"url": "https://hal.science/hal-05516803v1",
+"doi": "10.1109/vrw66409.2025.00029"
+},
+{
+"id": "pa18ec7393d",
+"titre": "Why move during virtual reality sketching? Experimental study to improve the quality of sketches in virtual reality",
+"annee": 2025,
+"type": "journal",
+"lieu": "Design Studies",
+"url": "https://doi.org/10.1016/j.destud.2025.101298",
+"doi": "10.1016/j.destud.2025.101298"
+},
+{
+"id": "p8167a702ab",
+"titre": "Adapted measurement method to assess mental workload in maintainability studies: industrial point of view",
+"annee": 2024,
+"type": "conférence",
+"lieu": "50th European Rotorcraft Forum",
+"url": "https://hal.science/hal-04888046v1"
+},
+{
+"id": "pca4e4a06ce",
+"titre": "Immersive Digital Twins of an Industrial Forge in Engineering Education",
+"annee": 2024,
+"type": "conférence",
+"lieu": "20th International CDIO Conference (CDIO 2024) : \"Engineering Education in The Era of AI\"",
+"url": "https://hal.science/hal-04622716v1"
+},
+{
+"id": "p17b35721d5",
+"titre": "Immersive and Interactive Digital Twins to Train Engineering Students",
+"annee": 2024,
+"type": "conférence",
+"lieu": "International Ergonomics Association",
+"url": "https://hal.science/hal-04888091v1"
+},
+{
+"id": "p95eed0092e",
+"titre": "Jumeaux numériques : le projet JENII cherche à innover dans la formation aux procédés de fabrication",
+"annee": 2024,
+"type": "journal",
+"lieu": "La revue Forge et Fonderie",
+"url": "https://hal.science/hal-04575754v1"
+},
+{
+"id": "p26fdde2831",
+"titre": "Mental workload: a prerequisite for future maintenance design",
+"annee": 2024,
+"type": "conférence",
+"lieu": "International Conference on Applied Human Factors and Ergonomics",
+"url": "https://hal.science/hal-04630488v1",
+"doi": "10.54941/ahfe1005025"
+},
+{
+"id": "p732d034183",
+"titre": "Scoping Review on the Interactive Digital Tools Used for the Physical and Cognitive Stimulation of Healthy Older Adults",
+"annee": 2024,
+"type": "journal",
+"lieu": "Human Behavior and Emerging Technologies",
+"url": "https://hal.science/hal-04622688v1",
+"doi": "10.1155/2024/2109977"
+},
+{
+"id": "p3194177a80",
+"titre": "Touching the moon: leveraging passive haptics, embodiment and presence for operational assessments in virtual reality",
+"annee": 2024,
+"type": "conférence",
+"lieu": "CHI Conference on Human Factors in Computing Systems",
+"url": "https://hal.science/hal-05044547v1",
+"doi": "10.1145/3613904.3642292"
+},
+{
+"id": "pcf081e7a60",
+"titre": "Toward Understanding the Impact of a Biomimetic Virtual Hand on Behavior and Embodiment in Virtual Reality",
+"annee": 2024,
+"type": "conférence",
+"lieu": "1st Journées Françaises de la Réalité Étendue (JFXR)",
+"url": "https://hal.science/hal-05044580v1"
+},
+{
+"id": "pf46c302015",
+"titre": "Understanding the Impact of Coherence between Virtual Representations and Possible Interactions on Embodiment in VR: an Affordance Perspective",
+"annee": 2024,
+"type": "conférence",
+"lieu": "Extended Abstracts of the CHI Conference on Human Factors in Computing Systems",
+"url": "https://hal.science/hal-05044476v1",
+"doi": "10.1145/3613905.3650752"
+},
+{
+"id": "pc91cbbb1bb",
+"titre": "ACE: how Artificial Character Embodiment shapes user behaviour in multi-modal interaction",
+"annee": 2023,
+"type": "conférence",
+"lieu": "International Conference on Multimodal Interaction 2023, ICMI",
+"url": "https://hal.science/hal-04418561v1",
+"doi": "10.1145/3577190.3617134"
+},
+{
+"id": "p77de480ef9",
+"titre": "Augmented and Virtual Reality Simulation in Industry",
+"annee": 2023,
+"type": "journal",
+"lieu": "Computer",
+"url": "https://hal.science/hal-04416581v1",
+"doi": "10.1109/mc.2023.3283311"
+},
+{
+"id": "p73fa0a8812",
+"titre": "Enseigner “à” et “avec” les jumeaux numériques.",
+"annee": 2023,
+"type": "conférence",
+"lieu": "Colloque Espaces physiques et numériques d’apprentissage",
+"url": "https://hal.science/hal-04105703v1"
+},
+{
+"id": "p66fe71cac1",
+"titre": "Evaluation des types d’informations et des supports de transmission pour favoriser l’assimilation de connaissances liées à la fabrication additive",
+"annee": 2023,
+"type": "conférence",
+"lieu": "Colloque Smart 2023",
+"url": "https://hal.science/hal-05418479v1"
+},
+{
+"id": "p5df7dd1b34",
+"titre": "Exploration of Physiological Arousal in Divergent and Convergent Thinking using 2D screen and VR Sketching Tools.",
+"annee": 2023,
+"type": "conférence",
+"lieu": "2023 11th International Conference on Affective Computing and Intelligent Interaction (ACII)",
+"url": "https://hal.science/hal-04416687v1",
+"doi": "10.1109/acii59096.2023.10388141"
+},
+{
+"id": "p72a19b2b7c",
+"titre": "FEATURE-BASED METHOD TO FORMALISE ADDITIVE MANUFACTURING RELATED DATA AT THE MESOSCALE BASED ON A MEREOTOPOLOGICAL DESCRIPTION",
+"annee": 2023,
+"type": "conférence",
+"lieu": "INTERNATIONAL CONFERENCE ON ENGINEERING DESIGN, ICED23",
+"url": "https://hal.science/hal-04467407v1",
+"doi": "10.1017/pds.2023.187"
+},
+{
+"id": "p4655384290",
+"titre": "I am a Genius! Influence of Virtually Embodying Leonardo da Vinci on Creative Performance",
+"annee": 2023,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://hal.science/hal-04371690v1",
+"doi": "10.1109/tvcg.2023.3320225"
+},
+{
+"id": "pbadcbb071e",
+"titre": "Innovative User eXperience approach for the design of a multi-sided platform",
+"annee": 2023,
+"type": "conférence",
+"lieu": "2023 IEEE 29th International Conference on Engineering, Technology and Innovation (ICE/ITMC)",
+"url": "https://hal.univ-lorraine.fr/hal-04133301v1",
+"doi": "10.1109/ice/itmc58018.2023.10332326"
+},
+{
+"id": "p52ee179be3",
+"titre": "Is virtual reality so user-friendly for non-designers in early design activities? Comparing skills needed to traditional sketching versus virtual reality sketching",
+"annee": 2023,
+"type": "journal",
+"lieu": "Design Science",
+"url": "https://hal.science/hal-04218522v1",
+"doi": "10.1017/dsj.2023.27"
+},
+{
+"id": "p48d6bc5cc2",
+"titre": "Multi-user centered design: acceptance, user experience, user research and user testing",
+"annee": 2023,
+"type": "journal",
+"lieu": "Theoretical Issues in Ergonomics Science",
+"url": "https://doi.org/10.1080/1463922x.2023.2166623",
+"doi": "10.1080/1463922x.2023.2166623"
+},
+{
+"id": "p70a3339e56",
+"titre": "The End of The Digital Generation Gap",
+"annee": 2023,
+"type": "journal",
+"lieu": "Journal of Ergonomics Studies and Research",
+"url": "https://hal.science/hal-05532663v1"
+},
+{
+"id": "p308f4b4cd4",
+"titre": "Using virtual reality to assess gesture performance deficits in schizophrenia patients",
+"annee": 2023,
+"type": "journal",
+"lieu": "Frontiers in Psychiatry",
+"url": "https://hal.science/hal-04137802v1",
+"doi": "10.3389/fpsyt.2023.1191601"
+},
+{
+"id": "pef9e083ef9",
+"titre": "A method for design for additive manufacturing rules formulation through Spatio-temporal process discretization",
+"annee": 2022,
+"type": "journal",
+"lieu": "Procedia CIRP",
+"url": "https://hal.science/hal-03768093v1",
+"doi": "10.1016/j.procir.2022.05.282"
+},
+{
+"id": "p0280087f6c",
+"titre": "An investigation of design in virtual reality across the variation of training degree and visual realism",
+"annee": 2022,
+"type": "conférence",
+"lieu": "2022 IEEE 28th International Conference on Engineering, Technology and Innovation (ICE/ITMC) & 31st International Association For Management of Technology (IAMOT) Joint Conference",
+"url": "https://hal.science/hal-03783608v1",
+"doi": "10.1109/ice/itmc-iamot55089.2022.10033258"
+},
+{
+"id": "pc089b06b1a",
+"titre": "Effect of Social Actors Perceived Agency on Social Presence in Computer-Mediated Communication",
+"annee": 2022,
+"type": "journal",
+"lieu": "Advances in Human-Computer Interaction",
+"url": "https://hal.science/hal-03891123v1",
+"doi": "10.1155/2022/9632119"
+},
+{
+"id": "p9f976c2e83",
+"titre": "Effects of continuous and discontinuous non-relevant stimulus on creativity",
+"annee": 2022,
+"type": "journal",
+"lieu": "Digital Creativity",
+"url": "https://hal.science/hal-03687130v1",
+"doi": "10.1080/14626268.2022.2082486"
+},
+{
+"id": "p8bbd6a9ad0",
+"titre": "Experimenting the interaction effect between a physical and a human-controlled virtual actor in theatrical performances",
+"annee": 2022,
+"type": "conférence",
+"lieu": "JIT 2022 - Journées d'Informatique Théâtrale 2022",
+"url": "https://inria.hal.science/hal-04154469v1"
+},
+{
+"id": "pde991db439",
+"titre": "GUARDIANS & METANAUTS: Shaping the Reality of Future Humanity",
+"annee": 2022,
+"type": "journal",
+"lieu": "International Journal of Virtual Reality",
+"url": "https://doi.org/10.20870/ijvr.2022.1.1.7103",
+"doi": "10.20870/ijvr.2022.1.1.7103"
+},
+{
+"id": "pd8b9e88000",
+"titre": "Innovative Process for Furniture Design: Contributions of 3D Scan and Virtual Reality",
+"annee": 2022,
+"type": "journal",
+"lieu": "Computer-Aided Design and Applications",
+"url": "https://hal.science/hal-03540148v3",
+"doi": "10.14733/cadaps.2022.868-878"
+},
+{
+"id": "p18d8c75338",
+"titre": "Is virtual reality the solution? A comparison between 3D and 2D creative sketching tools in the early design process",
+"annee": 2022,
+"type": "journal",
+"lieu": "Frontiers in Virtual Reality",
+"url": "https://hal.science/hal-03836214v1",
+"doi": "10.3389/frvir.2022.958223"
+},
+{
+"id": "pae2f44b576",
+"titre": "REC: A Unity Tool to Replay, Export and Capture Tracked Movements for 3D and Virtual Reality Applications",
+"annee": 2022,
+"type": "conférence",
+"lieu": "2022 International Conference on Advanced Visual Interfaces",
+"url": "https://hal.science/hal-03891159v1",
+"doi": "10.1145/3531073"
+},
+{
+"id": "p19e3fbe964",
+"titre": "Studying the effect of symmetry in team structures on collaborative tasks in virtual reality",
+"annee": 2022,
+"type": "journal",
+"lieu": "Behaviour & Information Technology",
+"url": "https://hal.science/hal-03829681v1",
+"doi": "10.1080/0144929x.2022.2127375"
+},
+{
+"id": "pe2616b33ac",
+"titre": "Virtual Reality as a tool for furniture design",
+"annee": 2022,
+"type": "conférence",
+"lieu": "2022 International Conference on Cyberworlds (CW)",
+"url": "https://hal.science/hal-04616337v1",
+"doi": "10.1109/cw55638.2022.00051"
+},
+{
+"id": "p0407997116",
+"titre": "Visualizing the invisible: User-centered design of a system for the visualization of flows and concentrations of particles in the air",
+"annee": 2022,
+"type": "journal",
+"lieu": "Information Visualization",
+"url": "https://hal.science/hal-03653141v1",
+"doi": "10.1177/14738716221085965"
+},
+{
+"id": "p37408ca712",
+"titre": "What are the Challenges and Enabling Technologies to Implement the Do-It-Together Approach Enhanced by Social Media, its Benefits and Drawbacks?",
+"annee": 2022,
+"type": "journal",
+"lieu": "Journal of Innovation Economics & Management",
+"url": "https://hal.science/hal-03782690v1"
+},
+{
+"id": "pe1ed4d1a8d",
+"titre": "What are the Challenges and Enabling Technologies to Implement the Do-It-Together Approach Enhanced by Social Media, its Benefits and Drawbacks?",
+"annee": 2022,
+"type": "journal",
+"lieu": "Journal of Innovation Economics & Management",
+"url": "https://hal.science/hal-03833775v1",
+"doi": "10.3917/jie.pr1.0132"
+},
+{
+"id": "p3cc19c0b41",
+"titre": "Why does the quality of sketches in virtual reality depend so much on individuals? Analysis and identification of factors based on laboratory and field experiments",
+"annee": 2022,
+"type": "conférence",
+"lieu": "RoCHI - International Conference on Human-Computer Interaction",
+"url": "https://hal.science/hal-03887816v1",
+"doi": "10.37789/rochi.2022.1.1.25"
+},
+{
+"id": "p7ff445675d",
+"titre": "A study of the effects of a natural virtual environment on creativity during a product design activity",
+"annee": 2021,
+"type": "journal",
+"lieu": "Thinking Skills and Creativity",
+"url": "https://hal.science/hal-03200278v1"
+},
+{
+"id": "pf906aa918a",
+"titre": "CRUX : A CReativity and User eXperience Model",
+"annee": 2021,
+"type": "journal",
+"lieu": "Digital Creativity",
+"url": "https://hal.science/hal-03200063v1",
+"doi": "10.1080/14626268.2021.1915339"
+},
+{
+"id": "p006dc1dfa0",
+"titre": "Impact of Avatar Anthropomorphism and Task Type on Social Presence in Immersive Collaborative Virtual Environments",
+"annee": 2021,
+"type": "conférence",
+"lieu": "2021 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)",
+"url": "https://hal.science/hal-03371513v1",
+"doi": "10.1109/vrw52623.2021.00101"
+},
+{
+"id": "p96682b7c6e",
+"titre": "Impact of avatar facial anthropomorphism on body ownership, attractiveness and social presence in collaborative tasks in immersive virtual environments",
+"annee": 2021,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://hal.science/hal-03369479v1",
+"doi": "10.1016/j.cag.2021.08.011"
+},
+{
+"id": "p68211ed509",
+"titre": "Investigating the Impact of Visual Representations during Ideation: Towards Immersive eXperience Design",
+"annee": 2021,
+"type": "conférence",
+"lieu": "2021 IEEE International Conference on Engineering, Technology and Innovation (ICE/ITMC)",
+"url": "https://hal.science/hal-03425853v1",
+"doi": "10.1109/ice/itmc52061.2021.9570244"
+},
+{
+"id": "pdb5e6c2aa4",
+"titre": "Le rôle de l'effacement dans l'activité d'esquisse en réalité virtuelle",
+"annee": 2021,
+"type": "conférence",
+"lieu": "61ème Congrès de la Société Française de Psychologie",
+"url": "https://hal.science/hal-03841310v1"
+},
+{
+"id": "pf31ece0e15",
+"titre": "Quantitative and Qualitative Exploration of the Effect of a Wearable Item on Non-Organic Virtual Limb Embodiment and User Behavior in Immersive Environments",
+"annee": 2021,
+"type": "journal",
+"lieu": "PRESENCE: Virtual and Augmented Reality",
+"url": "https://hal.science/hal-04252001v1",
+"doi": "10.1162/pres_a_00389"
+},
+{
+"id": "p6a3004f194",
+"titre": "Self-observation of a virtual body-double engaged in social interaction reduces persecutory thoughts",
+"annee": 2021,
+"type": "journal",
+"lieu": "Scientific Reports",
+"url": "https://hal.science/hal-03891140v1",
+"doi": "10.1038/s41598-021-03373-x"
+},
+{
+"id": "p0f6217b5d3",
+"titre": "Studying the Influence of Stress on Creativity in a Virtual Reality Scenario",
+"annee": 2021,
+"type": "conférence",
+"lieu": "2nd Momentary Emotion Elicitation & Capture (MEEC)",
+"url": "https://hal.science/hal-03253748v1"
+},
+{
+"id": "p7298ca709f",
+"titre": "Using facial expressiveness of a virtual agent to induce empathy in users",
+"annee": 2021,
+"type": "journal",
+"lieu": "International Journal of Human-Computer Interaction",
+"url": "https://hal.science/hal-03275590v1",
+"doi": "10.1080/10447318.2021.1938387"
+},
+{
+"id": "pf7e87a5f2e",
+"titre": "Étude de l'Influence du Stress sur la Créativité dans un Scénario en Réalité Virtuelle",
+"annee": 2021,
+"type": "conférence",
+"lieu": "ERGO'IA 2021",
+"url": "https://hal.science/hal-03365468v1"
+},
+{
+"id": "p3aab7d37fa",
+"titre": "Can tablet apps support the learning of handwriting? An investigation of learning outcomes in kindergarten classroom",
+"annee": 2020,
+"type": "journal",
+"lieu": "Computers & Education",
+"url": "https://doi.org/10.1016/j.compedu.2020.103831",
+"doi": "10.1016/j.compedu.2020.103831"
+},
+{
+"id": "p4f8a996d0e",
+"titre": "Comparing Creativity, User-experience and Communicability Linked to Digital Tools during the Fuzzy Phases of Innovation",
+"annee": 2020,
+"type": "conférence",
+"lieu": "4th International Conference on Computer-Human Interaction Research and Applications (CHIRA 2020)",
+"url": "https://hal.science/hal-05460402v1",
+"doi": "10.5220/0009894300870095"
+},
+{
+"id": "pa7f79e79ee",
+"titre": "Effect of Avatar Anthropomorphism on Body Ownership, Attractiveness and Collaboration in Immersive Virtual Environments",
+"annee": 2020,
+"type": "conférence",
+"lieu": "CAT-EGVE 2020 - International Conference on Artificial Reality and Telexistence and Eurographics Symposium on Virtual Environments",
+"url": "https://hal.science/hal-03369499v1",
+"doi": "10.2312/egve.20201261"
+},
+{
+"id": "pf192bb2278",
+"titre": "Effects of Social Influence on Idea Selection in Creativity Workshops",
+"annee": 2020,
+"type": "journal",
+"lieu": "Thinking Skills and Creativity",
+"url": "https://hal.science/hal-02918237v1",
+"doi": "10.1016/j.tsc.2020.100691"
+},
+{
+"id": "p9b6982b9d1",
+"titre": "Effects of voluntary heart rate control on user engagement and agency in a virtual reality game",
+"annee": 2020,
+"type": "journal",
+"lieu": "Virtual Reality",
+"url": "https://hal.science/hal-02507026v1",
+"doi": "10.1007/s10055-020-00429-7"
+},
+{
+"id": "p69f30a62a6",
+"titre": "Improving Humans: Enhancing the complex sociological being with the virtual",
+"annee": 2020,
+"type": "conférence",
+"lieu": "Augmented Human International Conference (AUGMENTED HUMAN’20)",
+"url": "https://hal.science/hal-02863896v1",
+"doi": "10.1145/3396339.3396401"
+},
+{
+"id": "p996c0d2887",
+"titre": "Studying the Effects of Visual Movement on Creativity",
+"annee": 2020,
+"type": "journal",
+"lieu": "Thinking Skills and Creativity",
+"url": "https://hal.science/hal-02546539v1",
+"doi": "10.1016/j.tsc.2020.100661"
+},
+{
+"id": "p02e79e64d8",
+"titre": "Text input tools’ complementarity in immersive virtual environments",
+"annee": 2020,
+"type": "journal",
+"lieu": "International Journal of Design and Innovation Research",
+"url": "https://hal.science/hal-03833889v1"
+},
+{
+"id": "pacfe562629",
+"titre": "Usefulness and needs construction process in innovative artefacts: an exploratory study of designers’ viewpoints",
+"annee": 2020,
+"type": "journal",
+"lieu": "International journal of virtual reality",
+"url": "https://hal.science/hal-03559791v1",
+"doi": "10.20870/ijvr.2020.20.1.2924"
+},
+{
+"id": "pcae015f210",
+"titre": "A design methodology for additive manufacturing applied to fused deposition modeling process",
+"annee": 2019,
+"type": "journal",
+"lieu": "Mechanics & Industry",
+"url": "https://hal.science/hal-02310467v1",
+"doi": "10.1051/meca/2019040"
+},
+{
+"id": "pd1ac05e868",
+"titre": "Comparing Conventional versus Immersive Service Prototypes: An Empirical Study",
+"annee": 2019,
+"type": "journal",
+"lieu": "International Journal of Virtual Reality",
+"url": "https://doi.org/10.20870/ijvr.2019.19.2.2914",
+"doi": "10.20870/ijvr.2019.19.2.2914"
+},
+{
+"id": "pf81b1a70f4",
+"titre": "Comparing Different Performance Factors of Conventional VS Immersive Service Prototypes",
+"annee": 2019,
+"type": "journal",
+"lieu": "International Conference on Engineering",
+"url": "https://hal.science/hal-05528399v1",
+"doi": "10.1109/ice.2019.8792566"
+},
+{
+"id": "p8eee6fcc8f",
+"titre": "Complémentarité des outils de saisie de texte en environnement virtuel immersif",
+"annee": 2019,
+"type": "conférence",
+"lieu": "CONFERE",
+"url": "https://hal.science/hal-02269137v1"
+},
+{
+"id": "p7168d49c95",
+"titre": "ConVRgence (VRIC) Virtual Reality International Conference Proceedings",
+"annee": 2019,
+"type": "journal",
+"lieu": "International Journal of Virtual Reality",
+"url": "https://doi.org/10.20870/ijvr.2019..0.2920",
+"doi": "10.20870/ijvr.2019..0.2920"
+},
+{
+"id": "p995dc696fc",
+"titre": "Construction of an instrument to evaluate the user eXperience of a group of co-creators in the upstream innovation process",
+"annee": 2019,
+"type": "journal",
+"lieu": "International Journal of Services Operations and Informatics",
+"url": "https://hal.science/hal-02284242v1"
+},
+{
+"id": "p158c6277a1",
+"titre": "Effect of Observing a Virtual Double on Paranoia in Social Virtual Environments: Experiment Preliminary Presentation",
+"annee": 2019,
+"type": "conférence",
+"lieu": "ACM Symposium on Applied Perception 2019",
+"url": "https://hal.science/hal-03371534v1"
+},
+{
+"id": "pc509bd6d8c",
+"titre": "Effects of Voluntary Heart Rate Control on User Engagement in Virtual Reality",
+"annee": 2019,
+"type": "conférence",
+"lieu": "2019 IEEE Conference on Virtual Reality and 3D User Interfaces (VR)",
+"url": "https://hal.science/hal-02303892v1",
+"doi": "10.1109/vr.2019.8797759"
+},
+{
+"id": "pa1319d4d7d",
+"titre": "Effets de stimuli externes non pertinents sur la créativité.",
+"annee": 2019,
+"type": "conférence",
+"lieu": "EPIQUE",
+"url": "https://hal.science/hal-02303945v1"
+},
+{
+"id": "p61f40b0c02",
+"titre": "Expressive Virtual Human : Impact of expressive wrinkles and pupillary size on emotion recognition",
+"annee": 2019,
+"type": "conférence",
+"lieu": "IVA - Intelligent Virtual Agents",
+"url": "https://hal.science/hal-02303880v1"
+},
+{
+"id": "pdcebd41fa2",
+"titre": "From Robot to Virtual Doppelganger: Impact of Visual Fidelity of Avatars Controlled in Third-Person Perspective on Embodiment and Behavior in Immersive Virtual Environments",
+"annee": 2019,
+"type": "journal",
+"lieu": "Frontiers in Robotics and AI",
+"url": "https://hal.science/hal-02367626v1",
+"doi": "10.3389/frobt.2019.00008"
+},
+{
+"id": "p284384fbde",
+"titre": "A Universal Framework For Systemizing the Evaluation of Immersive And Collaborative Performance",
+"annee": 2018,
+"type": "conférence",
+"lieu": "VRIC '18: Virtual Reality International Conference - Laval Virtual",
+"url": "https://hal.univ-lorraine.fr/hal-01868811v1",
+"doi": "10.1145/3234253.3234306"
+},
+{
+"id": "p42d89d29e0",
+"titre": "A priori acceptability of various types of digital display feedback on electricity consumption",
+"annee": 2018,
+"type": "journal",
+"lieu": "Le travail humain",
+"url": "https://univ-rennes2.hal.science/hal-01784157v1"
+},
+{
+"id": "p29668a34b3",
+"titre": "De la présence à l’incarnation",
+"annee": 2018,
+"type": "journal",
+"lieu": "Interfaces numériques",
+"url": "https://doi.org/10.25965/interfaces-numeriques.3295",
+"doi": "10.25965/interfaces-numeriques.3295"
+},
+{
+"id": "p87f14ec44f",
+"titre": "De la présence à l’incarnation: proposition d’un méta-modèle pour la réalité virtuelle",
+"annee": 2018,
+"type": "journal",
+"lieu": "De la présence à l’incarnation: proposition d’un méta-modèle pour la réalité virtuelle",
+"url": "https://hal.science/hal-02367659v1"
+},
+{
+"id": "pe068519a52",
+"titre": "Does Mc Donald's properly manage its domain names ? Time management : proposal of the iceberg method for domain name categorization",
+"annee": 2018,
+"type": "conférence",
+"lieu": "CONFERE",
+"url": "https://hal.science/hal-01868217v1"
+},
+{
+"id": "p7981db9b6a",
+"titre": "Fear As a Biofeedback Game Mechanic in Virtual Reality: Effects on Engagement and Perceived Usability",
+"annee": 2018,
+"type": "conférence",
+"lieu": "13th International Conference on the Foundations of Digital Games",
+"url": "https://hal.science/hal-02367582v1",
+"doi": "10.1145/3235765.3235787"
+},
+{
+"id": "p275524fb03",
+"titre": "From Robot to Virtual Doppelganger: Impact of Avatar Visual Fidelity and Self-esteem on Perceived Attractiveness",
+"annee": 2018,
+"type": "conférence",
+"lieu": "International Conference on Advanced Visual Interfaces",
+"url": "https://hal.science/hal-01826341v1",
+"doi": "10.1145/3206505.3206525"
+},
+{
+"id": "p1c0a6d96e4",
+"titre": "GPS piéton : quels points de repères pour faciliter la navigation ?",
+"annee": 2018,
+"type": "conférence",
+"lieu": "ERGO'IA 2018",
+"url": "https://hal.science/hal-01882608v1"
+},
+{
+"id": "p7e1d3d8902",
+"titre": "GPS piétons : quels points de repères pour faciliter la navigation?",
+"annee": 2018,
+"type": "conférence",
+"lieu": "Ergo'IA 2018: \" CONCEPTION ET USAGES: Comment réussir l'intégration pluridisciplinaire dans la conception centrée utilisateur, et pour quelles retombées ?\"",
+"url": "https://hal.science/hal-01889686v1"
+},
+{
+"id": "p7cfaf04b1e",
+"titre": "Integrability and Reliability of Smart Wearables in Virtual Reality Experiences: A Subjective Review",
+"annee": 2018,
+"type": "conférence",
+"lieu": "VRIC'18 Virtual Reality International Conference - Laval Virtual",
+"url": "https://hal.science/hal-02367610v1",
+"doi": "10.1145/3234253.3234305"
+},
+{
+"id": "p88003819ed",
+"titre": "Support optimization for additive manufacturing: application to FDM",
+"annee": 2018,
+"type": "journal",
+"lieu": "Rapid Prototyping Journal",
+"url": "https://hal.science/hal-01921629v1",
+"doi": "10.1108/rpj-04-2016-0055"
+},
+{
+"id": "p6b6d41ad80",
+"titre": "Towards a Model of User Experience in Immersive Virtual Environments",
+"annee": 2018,
+"type": "journal",
+"lieu": "Advances in Human-Computer Interaction",
+"url": "https://hal.science/hal-01886184v1",
+"doi": "10.1155/2018/7827286"
+},
+{
+"id": "p3f85252137",
+"titre": "Towards radical innovations in a mature company: an empirical study on the UX-FFE model",
+"annee": 2018,
+"type": "journal",
+"lieu": "Artificial Intelligence for Engineering Design, Analysis and Manufacturing",
+"url": "https://hal.science/hal-02486661v1",
+"doi": "10.1017/s0890060419000118"
+},
+{
+"id": "p94f07d59ec",
+"titre": "A comparison of real and virtual stressful situations with physiological and psychological monitoring: the case of bungee jumping.",
+"annee": 2017,
+"type": "conférence",
+"lieu": "13th International Conference on Psychology and Behavioural Sciences",
+"url": "https://hal.science/hal-01876967v1"
+},
+{
+"id": "pd29116c276",
+"titre": "Apprendre à écrire des lettres cursives sur tablette numérique: rôle du feedback.",
+"annee": 2017,
+"type": "conférence",
+"lieu": "Symposium International sur la Littéracie à l’Ecole",
+"url": "https://univ-rennes2.hal.science/hal-01763977v1"
+},
+{
+"id": "p5247545e50",
+"titre": "EDITORIAL - IJVR 17(02)",
+"annee": 2017,
+"type": "journal",
+"lieu": "International Journal of Virtual Reality",
+"url": "https://hal.science/hal-01634941v1"
+},
+{
+"id": "pef9f7b4105",
+"titre": "Effects of Interaction Level, Framerate, Field of View, 3D Content Feedback, Previous Experience on Subjective User eXperience and Objective Usability in Immersive Virtual Environment",
+"annee": 2017,
+"type": "journal",
+"lieu": "International Journal of Virtual Reality",
+"url": "https://hal.science/hal-01669344v1"
+},
+{
+"id": "p8e9189fd5e",
+"titre": "Effects on User Experience in an Edutainment Virtual Environment: Comparison Between CAVE and HMD",
+"annee": 2017,
+"type": "conférence",
+"lieu": "European Conference on Cognitive Ergonomics",
+"url": "https://hal.science/hal-01697191v1",
+"doi": "10.1145/3121283.3121284"
+},
+{
+"id": "p1f373a5c63",
+"titre": "Exploring Mixed-methods Instruments for Performance Evaluation of Immersive Collaborative Environments",
+"annee": 2017,
+"type": "journal",
+"lieu": "International Journal of Virtual Reality",
+"url": "https://hal.science/hal-02283881v1"
+},
+{
+"id": "p2b0169826e",
+"titre": "Expérience Utilisateur et Interactions Homme-Environnement Virtuel Immersif",
+"annee": 2017,
+"type": "conférence",
+"lieu": "9eme conférence de psychologie ergonomique (EPIQUE)",
+"url": "https://hal.science/hal-01697809v1"
+},
+{
+"id": "pce94e58f17",
+"titre": "Finding Yourself on the Internet : proposing a Fait and Reliable System",
+"annee": 2017,
+"type": "conférence",
+"lieu": "SASE 2017- 29th Annual Meeting",
+"url": "https://hal.science/hal-01867290v1"
+},
+{
+"id": "pb46d25768f",
+"titre": "First- and Third-Person Perspectives in Immersive Virtual Environments: Presence and Performance Analysis of Embodied Users",
+"annee": 2017,
+"type": "journal",
+"lieu": "Frontiers in Robotics and AI",
+"url": "https://hal.science/hal-01826360v1",
+"doi": "10.3389/frobt.2017.00033"
+},
+{
+"id": "p13f17d5401",
+"titre": "How to Increase Intuition for Entrepreneurship Spirit in Innovation Process?",
+"annee": 2017,
+"type": "conférence",
+"lieu": "Innovation and Interdisciplinary Solutions for Underserved Areas",
+"url": "https://hal.science/hal-04504591v1",
+"doi": "10.1007/978-3-319-72965-7_8"
+},
+{
+"id": "pabc132a408",
+"titre": "ICE Breaking: Disentangling Factors Affecting the Performance of Immersive Co-creation Environments",
+"annee": 2017,
+"type": "conférence",
+"lieu": "Laval Virtual - Virtual Reality International Congress (VRIC) '17",
+"url": "https://hal.univ-lorraine.fr/hal-01723989v1",
+"doi": "10.1145/3110292.3110316"
+},
+{
+"id": "pff48bb4ab2",
+"titre": "La sonification d’un véhicule électrique : une approche écologique",
+"annee": 2017,
+"type": "chapitre",
+"lieu": "Sécurité routière: un défi à l’aube du XXIème siècle",
+"url": "https://hal.science/hal-01876959v1"
+},
+{
+"id": "p21177b2d04",
+"titre": "La valorisation des actifs immatériels numériques, une pratique nécessaire. Revue des métohdes existantes et proposition d'une analyse technico-économique",
+"annee": 2017,
+"type": "conférence",
+"lieu": "15éme Congrès de l'Institut International des Coûts et 4éme Congrès transatlantique de Comptabilit, Audit, Contrôle et Gestion des coûts",
+"url": "https://hal.science/hal-01868084v1"
+},
+{
+"id": "p370ea5fb64",
+"titre": "Modelling Industrial Design Contribution to Innovative Product or Service Design Process in a Highly Constrained Environment",
+"annee": 2017,
+"type": "chapitre",
+"lieu": "Springer eBooks",
+"url": "https://doi.org/10.1007/978-3-319-56593-4_3",
+"doi": "10.1007/978-3-319-56593-4_3"
+},
+{
+"id": "p0b18e636a2",
+"titre": "Modèle UX-FFE : Expérimentation de la phase de validation d'un nouveau processus d'innovation dédié à une entreprise industrielle mature",
+"annee": 2017,
+"type": "conférence",
+"lieu": "CONFERE 2017",
+"url": "https://hal.science/hal-01697794v1"
+},
+{
+"id": "p7f91d4d2e3",
+"titre": "Radical innovation through the extraordinary user method",
+"annee": 2017,
+"type": "journal",
+"lieu": "Psychologie du travail et des organisations",
+"url": "https://hal.science/hal-02283900v1",
+"doi": "10.1016/j.pto.2017.11.001"
+},
+{
+"id": "pc51a17722a",
+"titre": "Représentation sur Internet : comment adopter une stratégie de dépôt de noms de domaine cohérente avec la réalité du marché. Suivi des évolutions d'usage des réseaux sociaux et des moteurs de recherche.",
+"annee": 2017,
+"type": "conférence",
+"lieu": "CONFERE",
+"url": "https://hal.science/hal-01867360v1"
+},
+{
+"id": "p0c465a782a",
+"titre": "The user experience measurement : a challenge of the twenty-first century",
+"annee": 2017,
+"type": "conférence",
+"lieu": "The International Scientific and Practical Conference «175 years of the D.I. Mendeleyev Institute for Metrology (VNIIM) and National Measurement System»",
+"url": "https://hal.science/hal-01697647v1"
+},
+{
+"id": "pcf8b5aa9ab",
+"titre": "Trust on the Internet : How the French ccTLD.FR Went From a Remarkable to a Speculative System",
+"annee": 2017,
+"type": "conférence",
+"lieu": "IARIA INTERNET 2017",
+"url": "https://hal.science/hal-01866348v1"
+},
+{
+"id": "p718618a666",
+"titre": "What drives corporate carsharing acceptance? A French case study",
+"annee": 2017,
+"type": "journal",
+"lieu": "Transportation Research Part F: Traffic Psychology and Behaviour",
+"url": "https://univ-rennes2.hal.science/hal-01784152v1",
+"doi": "10.1016/j.trf.2016.12.004"
+},
+{
+"id": "pabc123dfdf",
+"titre": "Barriers to home-based exercise program adherence with chronic low back pain: Patient expectations regarding new technologies",
+"annee": 2016,
+"type": "journal",
+"lieu": "Annals of Physical and Rehabilitation Medicine",
+"url": "https://doi.org/10.1016/j.rehab.2016.01.009",
+"doi": "10.1016/j.rehab.2016.01.009"
+},
+{
+"id": "p432195f19c",
+"titre": "Effect of additional warning sounds on pedestrians’ detection of electric vehicles: An ecological approach",
+"annee": 2016,
+"type": "journal",
+"lieu": "Accident Analysis & Prevention",
+"url": "https://univ-rennes2.hal.science/hal-01784147v1",
+"doi": "10.1016/j.aap.2016.09.002"
+},
+{
+"id": "pd3cebbf400",
+"titre": "Effet de la présence de la vidéo de l’enseignant sur l’apprentissage à partir d’un cours en ligne : apports de l’eye-tracking",
+"annee": 2016,
+"type": "conférence",
+"lieu": "14ème séminaire MARSOUIN",
+"url": "https://univ-rennes2.hal.science/hal-01710909v1"
+},
+{
+"id": "pe99daed0a4",
+"titre": "Noms de domaine et marques d'entreprise : de la disruption des politiques de nommage à celle des usages",
+"annee": 2016,
+"type": "conférence",
+"lieu": "Colloque international de la Conception et Innovation (CONFERE; 23)",
+"url": "https://hal.science/hal-02486103v1"
+},
+{
+"id": "p3e0c4e17b0",
+"titre": "Proposition and Validation of a Questionnaire to Measure the User Experience in Immersive Virtual Environments",
+"annee": 2016,
+"type": "journal",
+"lieu": "International Journal of Virtual Reality",
+"url": "https://hal.science/hal-01404497v1"
+},
+{
+"id": "p26de859d29",
+"titre": "The autoscopic flying avatar: a new paradigm to study bilocated presence in mixed reality",
+"annee": 2016,
+"type": "conférence",
+"lieu": "Virtual Reality International Conference",
+"url": "https://hal.science/hal-02367590v1"
+},
+{
+"id": "pb8bafc7842",
+"titre": "Une vision multidimensionnelle des typologies d'innovation pour identifier et concevoir une démarche d'innovation",
+"annee": 2016,
+"type": "conférence",
+"lieu": "Colloque international de la Conception et Innovation (CONFERE; 23)",
+"url": "https://hal.science/hal-01361907v1"
+},
+{
+"id": "p678332885d",
+"titre": "Design of Portable and Accessible Platform in Charge of Wheelchair Feedback Immersion",
+"annee": 2015,
+"type": "conférence",
+"lieu": "IEEE Virtual Reality",
+"url": "https://hal.science/hal-02486129v1",
+"doi": "10.1109/vr.2015.7223459"
+},
+{
+"id": "p98ddd3cc78",
+"titre": "Effet de la sonification d'un véhicule électrique sur sa détection par des piétons",
+"annee": 2015,
+"type": "chapitre",
+"lieu": "Sécurité des déplacements, protection des usagers et de l'environnement ; Maîtrise des risques et prévention (Tome 1) / sous la direction de Sandrine Gaymard et Teodor Tiplica",
+"url": "https://univ-rennes2.hal.science/hal-01784211v1"
+},
+{
+"id": "p676a489024",
+"titre": "How to design compelling Virtual Reality or Augmented Reality experience?",
+"annee": 2015,
+"type": "journal",
+"lieu": "International Journal of Virtual Reality",
+"url": "https://hal.science/hal-01273284v1",
+"doi": "10.20870/ijvr.2015.15.1.2867"
+},
+{
+"id": "p4871612ee3",
+"titre": "Impact of Verbal Communication on User Experience in 3D Immersive Virtual Environments",
+"annee": 2015,
+"type": "conférence",
+"lieu": "21st ICE/IEEE International Technology Management Conference",
+"url": "https://hal.science/hal-01186368v1"
+},
+{
+"id": "p625870bc85",
+"titre": "Interactive interpretation of structured documents: Application to the recognition of handwritten architectural plans",
+"annee": 2015,
+"type": "journal",
+"lieu": "Pattern Recognition",
+"url": "https://doi.org/10.1016/j.patcog.2015.01.028",
+"doi": "10.1016/j.patcog.2015.01.028"
+},
+{
+"id": "p32597b0da1",
+"titre": "Rapport d'étape du projet \"Devenez Avatar",
+"annee": 2015,
+"type": "ouvrage",
+"lieu": "",
+"url": "https://hal.science/hal-05528482v1"
+},
+{
+"id": "pf722ddd725",
+"titre": "Supervised Automatic Interpretation of Technical Documents: When Interruption is a Time Saver",
+"annee": 2015,
+"type": "journal",
+"lieu": "Perceptual and Motor Skills",
+"url": "https://univ-rennes2.hal.science/hal-01784138v1",
+"doi": "10.2466/22.25.pms.120v11x9"
+},
+{
+"id": "p8ec7ff885c",
+"titre": "Towards a User Experience in Immersive Virtual Environment Model: a review",
+"annee": 2015,
+"type": "conférence",
+"lieu": "27ème conférence francophone sur l'Interaction Homme-Machine.",
+"url": "https://hal.science/hal-01219070v1",
+"doi": "10.1145/2820619.2825006"
+},
+{
+"id": "p127ea8c225",
+"titre": "3DLive: A multi-modal sensing platform allowing tele-immersive sports applications",
+"annee": 2014,
+"type": "conférence",
+"lieu": "Proceedings of the 22nd European. Signal Processing Conference (EUSIPCO)",
+"url": "https://hal.science/hal-01169937v1"
+},
+{
+"id": "p508e9fc294",
+"titre": "A seamless solution for 3D real-time interaction: design and evaluation",
+"annee": 2014,
+"type": "journal",
+"lieu": "Virtual Reality",
+"url": "https://hal.science/hal-02486092v1",
+"doi": "10.1007/s10055-014-0255-z"
+},
+{
+"id": "pc1a2f04cf6",
+"titre": "Application of the Resources Model to the Supervision of an Automated Process",
+"annee": 2014,
+"type": "journal",
+"lieu": "Human-Computer Interaction",
+"url": "https://doi.org/10.1080/07370024.2014.893831",
+"doi": "10.1080/07370024.2014.893831"
+},
+{
+"id": "pcf5aecfb67",
+"titre": "Facilitating the comparison of multiple visual items on screen: The example of electronic architectural plan correction",
+"annee": 2014,
+"type": "journal",
+"lieu": "Applied Ergonomics",
+"url": "https://univ-rennes2.hal.science/hal-01784135v1",
+"doi": "10.1016/j.apergo.2013.08.004"
+},
+{
+"id": "pd2e2345895",
+"titre": "From Virtual Reality to Virtual Teleportation: Change How Users Experience Virtual Worlds.",
+"annee": 2014,
+"type": "conférence",
+"lieu": "Conférence invitée à la Western University",
+"url": "https://hal.science/hal-02486118v1"
+},
+{
+"id": "p55cdcfbe8c",
+"titre": "How Designers conceive utility, usefulness and needs construction in design: an exploratory study with three contrasted designers’ profiles",
+"annee": 2014,
+"type": "conférence",
+"lieu": "Conference on Human Behavior in Design (HBiD)",
+"url": "https://hal.science/hal-01175338v1"
+},
+{
+"id": "p0c2dd13fa8",
+"titre": "Impact of simulated low vision on perception and action",
+"annee": 2014,
+"type": "chapitre",
+"lieu": "Virtual Reality: People with Special Needs.",
+"url": "https://hal.science/hal-01171039v1"
+},
+{
+"id": "p02b641603a",
+"titre": "Investigating the main characteristics of 3D real time tele-immersive environments through the example of a computer augmented golf platform",
+"annee": 2014,
+"type": "conférence",
+"lieu": "Virtual Reality International Conference (VRIC)",
+"url": "https://hal.science/hal-01175444v1",
+"doi": "10.1145/2617841.2620720"
+},
+{
+"id": "pdc0d5ec677",
+"titre": "Is a Time-Of-Flight Camera Better than a Mouse for 3D Direct Selection in Virtual Worlds?",
+"annee": 2014,
+"type": "journal",
+"lieu": "International Journal of Design and Innovation Research",
+"url": "https://hal.science/hal-01175239v1"
+},
+{
+"id": "pd7d1e27103",
+"titre": "Needs' elaboration between users, designers and project leaders: Analysis of a design process of a virtual reality-based software",
+"annee": 2014,
+"type": "journal",
+"lieu": "Information and Software Technology",
+"url": "https://hal.science/hal-01061182v1",
+"doi": "10.1016/j.infsof.2014.04.008"
+},
+{
+"id": "pc21c30bb75",
+"titre": "Virtual reality learning software for individuals with intellectual disabilities: comparison between touchscreen and mouse interactions",
+"annee": 2014,
+"type": "journal",
+"lieu": "International Journal of Child Health and Human Development",
+"url": "https://hal.science/hal-01061161v1"
+},
+{
+"id": "p1efd733a8f",
+"titre": "A design methodology for parts using additive manufacturing",
+"annee": 2013,
+"type": "conférence",
+"lieu": "International Conference on Advanced Research in Virtual and Rapid Prototyping (VRAP)",
+"url": "https://hal.science/hal-01197463v1"
+},
+{
+"id": "p0380576c8d",
+"titre": "AGATHE : A tool for personalized rehabilitation of cognitive functions based on simulated activities of daily living",
+"annee": 2013,
+"type": "journal",
+"lieu": "Innovation and Research in BioMedical engineering",
+"url": "https://hal.science/hal-01061264v1",
+"doi": "10.1016/j.irbm.2013.01.005"
+},
+{
+"id": "p4de4579760",
+"titre": "AGATHE: A tool for personalized rehabilitation of cognitive functions",
+"annee": 2013,
+"type": "conférence",
+"lieu": "International Conference on Virtual Rehabilitation (ICVR)",
+"url": "https://hal.science/hal-05528529v1",
+"doi": "10.1145/2503368.2503369"
+},
+{
+"id": "p83880da474",
+"titre": "Achieving presence through evoked reality",
+"annee": 2013,
+"type": "journal",
+"lieu": "Frontiers in Psychology",
+"url": "https://hal.science/hal-01063170v1",
+"doi": "10.3389/fpsyg.2013.00086"
+},
+{
+"id": "pb61be23450",
+"titre": "Aesthetiography : The next Milestone in the Confluence of Media",
+"annee": 2013,
+"type": "conférence",
+"lieu": "18th International conference of the society for philosophy and technology. Technology in the age of Information (SPT)",
+"url": "https://hal.science/hal-01175504v1"
+},
+{
+"id": "p870b6cf6c0",
+"titre": "An industrial approach to design compelling VR and AR experience",
+"annee": 2013,
+"type": "conférence",
+"lieu": "SPIE, Engineering Reality of Virtual Reality (ERVR'13)",
+"url": "https://hal.science/hal-00805843v1",
+"doi": "10.1117/12.2001968"
+},
+{
+"id": "p6ba94e11a6",
+"titre": "Anticipating and Evaluating the Usefulness of Emerging Technologies in Ergonomic Design: a Review of Usefulness in Design",
+"annee": 2013,
+"type": "journal",
+"lieu": "Le travail humain",
+"url": "https://hal.science/hal-02451495v1",
+"doi": "10.3917/th.761.0027"
+},
+{
+"id": "pa9b2186961",
+"titre": "Application of evolution's laws",
+"annee": 2013,
+"type": "conférence",
+"lieu": "ETRIA’s TRIZ Future Conference 2013",
+"url": "https://hal.science/hal-01197449v1"
+},
+{
+"id": "pd7898663ce",
+"titre": "Augmented sport : exploring collective user experience",
+"annee": 2013,
+"type": "conférence",
+"lieu": "VRIC '13 Proceedings of the Virtual Reality International Conference",
+"url": "https://hal.science/hal-01196989v1",
+"doi": "10.1145/2466816.2466821"
+},
+{
+"id": "p56180d6f9d",
+"titre": "Déploiement, en PME, d’une stratégie d’innovation de rupture",
+"annee": 2013,
+"type": "conférence",
+"lieu": "20ème édition du Colloque international de la Conception et Innovation (CONFERE)",
+"url": "https://hal.science/hal-01206670v1"
+},
+{
+"id": "pfe8cbc1dd4",
+"titre": "Méthodologie de conception pour la réalisation de pièce en Fabrication Additive",
+"annee": 2013,
+"type": "conférence",
+"lieu": "10 Congrès International de Génie Industriel (CIGI)",
+"url": "https://hal.science/hal-01196984v1"
+},
+{
+"id": "pec14355aac",
+"titre": "On the effectiveness of experimenting with C-K theory in design education: analysis of process methodology, results and main lessons drawn",
+"annee": 2013,
+"type": "conférence",
+"lieu": "19th International Engineering Design Conference “Design for Harmonies” (ICED)",
+"url": "https://hal.science/hal-01206689v1"
+},
+{
+"id": "p0a2a5acfd2",
+"titre": "Perceptual abilities in case of low vision, using a virtual reality environment",
+"annee": 2013,
+"type": "conférence",
+"lieu": "2013 International Conference on Virtual Rehabilitation (ICVR)",
+"url": "https://hal.science/hal-01175487v1",
+"doi": "10.1109/icvr.2013.6662071"
+},
+{
+"id": "p4ad1f0fe18",
+"titre": "Personalized rehabilitation of cognitive functions based on simulated Activities of Daily Living (sADL)",
+"annee": 2013,
+"type": "journal",
+"lieu": "Annals of Physical and Rehabilitation Medicine",
+"url": "https://doi.org/10.1016/j.rehab.2013.07.1075",
+"doi": "10.1016/j.rehab.2013.07.1075"
+},
+{
+"id": "pf20b039564",
+"titre": "Presence in Visual Mental Imagery",
+"annee": 2013,
+"type": "conférence",
+"lieu": "International Visual Informatics Conference (IVIC)",
+"url": "https://hal.science/hal-01206642v1",
+"doi": "10.1007/978-3-319-02958-0_57"
+},
+{
+"id": "pfccf92faf5",
+"titre": "Rééducation personnalisée des fonctions cognitives via des activités de vie quotidienne simulées (sAVQ)",
+"annee": 2013,
+"type": "journal",
+"lieu": "Annals of Physical and Rehabilitation Medicine",
+"url": "https://doi.org/10.1016/j.rehab.2013.07.1068",
+"doi": "10.1016/j.rehab.2013.07.1068"
+},
+{
+"id": "pd25f76d983",
+"titre": "The benefits of an enhanced design methodology applied to innovative product development",
+"annee": 2013,
+"type": "conférence",
+"lieu": "International Workshop on The Future of Trans-Disciplinary Design (TFTD)",
+"url": "https://hal.science/hal-01197480v1"
+},
+{
+"id": "p36b696ca26",
+"titre": "Towards Specifications for Automatic Recognition Software: An Example of a User-Centred Design",
+"annee": 2013,
+"type": "journal",
+"lieu": "Journal of Software Engineering and Applications",
+"url": "https://univ-rennes2.hal.science/hal-01784144v1",
+"doi": "10.4236/jsea.2013.610a001"
+},
+{
+"id": "p84a7d9620f",
+"titre": "User-centred design of an interactive off-line handwritten architectural floor plan recognition",
+"annee": 2013,
+"type": "conférence",
+"lieu": "12th International Conference on Document Analysis and Recognition",
+"url": "https://hal.science/hal-00959722v1"
+},
+{
+"id": "pa9a0ba9aaa",
+"titre": "Virtual stage sets in live performing arts (from the spectator to the spect-actor)",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Virtual Reality International Conference (VRIC)",
+"url": "https://hal.science/hal-01206656v1",
+"doi": "10.1145/2466816.2466840"
+},
+{
+"id": "pb728b89148",
+"titre": "Virtual stage sets in live performing arts (from the spectator to the spect-actor)",
+"annee": 2013,
+"type": "chapitre",
+"lieu": "Proceedings of the Virtual Reality International Conference: Laval Virtua",
+"url": "https://univ-paris8.hal.science/hal-02523873v1"
+},
+{
+"id": "p2b915e95cb",
+"titre": "A Decision-making Help Tool in Innovative Product Design",
+"annee": 2012,
+"type": "journal",
+"lieu": "Journal of Decision Systems",
+"url": "https://hal.science/hal-03559849v1",
+"doi": "10.3166/jds.19.9-31"
+},
+{
+"id": "pf31a3319cb",
+"titre": "Différences individuelles dans la formation des intentions d'usage d'un Environnement Numérique de Travail : déterminants personnologiques",
+"annee": 2012,
+"type": "conférence",
+"lieu": "XXèmes Journées Internationales de Psychologie Différentielle",
+"url": "https://univ-rennes2.hal.science/hal-01784291v1"
+},
+{
+"id": "peb41b1f225",
+"titre": "E-commerce and Web3D for involving the customer in the design process : The case of a gates 3D configurator",
+"annee": 2012,
+"type": "conférence",
+"lieu": "Virtual Reality International Conference (VRIC)",
+"url": "https://hal.science/hal-01196982v1"
+},
+{
+"id": "pe6c9ec00c4",
+"titre": "Expérimentation, en milieu contraint, d’une méthodologie de co-conception de produits innovants",
+"annee": 2012,
+"type": "conférence",
+"lieu": "19ème édition du Colloque international de la Conception et Innovation (CONFERE)",
+"url": "https://hal.science/hal-01197466v1"
+},
+{
+"id": "p1cbff3a12b",
+"titre": "Influence des formats de présentation dans une tâche de correction de plans d'architecture électronique",
+"annee": 2012,
+"type": "conférence",
+"lieu": "54e Congrès National de la Société Française de Psychologie",
+"url": "https://univ-rennes2.hal.science/hal-01784585v1",
+"doi": "10.1111/j.1467-8624.1994.tb00780"
+},
+{
+"id": "p9eaaa4fd4b",
+"titre": "Innovation Gaming",
+"annee": 2012,
+"type": "chapitre",
+"lieu": "IGI Global eBooks",
+"url": "https://doi.org/10.4018/978-1-4666-0149-9.ch001",
+"doi": "10.4018/978-1-4666-0149-9.ch001"
+},
+{
+"id": "p0402b51e50",
+"titre": "L’approche Living Lab : proposition et application d’une démarche méthodologique pour mieux prendre en compte les aspects humains dans la conception de produits logiciels",
+"annee": 2012,
+"type": "conférence",
+"lieu": "13ème colloque national AIP Primeca",
+"url": "https://hal.science/hal-01197471v1"
+},
+{
+"id": "p85e1c02e3f",
+"titre": "Méthodologie de prise en compte de la fabrication additive lors de la phase de conception",
+"annee": 2012,
+"type": "conférence",
+"lieu": "Colloque national AIP Primeca (13; 2012)",
+"url": "https://hal.science/hal-01197437v1"
+},
+{
+"id": "pb41e46d4f5",
+"titre": "Using Web 3D technologies for involving consumers within the innovation process: an example through an e-commerce application",
+"annee": 2012,
+"type": "journal",
+"lieu": "International Journal of Design and Innovation Research",
+"url": "https://hal.science/hal-01092913v1"
+},
+{
+"id": "p7e4d573ce0",
+"titre": "When sighted people are in the skin of visually impaired ones: perception and actions in virtual reality situation",
+"annee": 2012,
+"type": "conférence",
+"lieu": "Proceedings of the 9th International Conference on Disability, Virtual Reality & Associated Technologies (ICDVRAT)",
+"url": "https://hal.science/hal-01175453v1"
+},
+{
+"id": "p803fd114e5",
+"titre": "Designing for the Ubiquitous Computing era: towards the reinvention of everyday objects and the creation of new user experiences",
+"annee": 2011,
+"type": "journal",
+"lieu": "International Journal of Design and Innovation Research",
+"url": "https://hal.science/hal-05528549v1"
+},
+{
+"id": "pad45d3fed6",
+"titre": "Effets des Types de Sources d'Informations sur l'Apprentissage Multimédia d'Elèves Sourds",
+"annee": 2011,
+"type": "conférence",
+"lieu": "2e Conférence Internationale Sur l'Accessibilité et les Systèmes de Suppléance aux personnes en sITuations de Handicap (ASSISTH)",
+"url": "https://univ-rennes2.hal.science/hal-01784634v1"
+},
+{
+"id": "pe3ef6044c8",
+"titre": "La méthode I²I \" pour l'utilité \" : fondements et application à la conception d'une application de réalité virtuelle",
+"annee": 2011,
+"type": "conférence",
+"lieu": "9e Congrès International de Génie Industriel",
+"url": "https://hal.science/hal-00782406v1"
+},
+{
+"id": "p798ba9f75b",
+"titre": "Serious Gaming and Virtual Reality Technologies to Enhance Learning and Collaboration in Education",
+"annee": 2011,
+"type": "conférence",
+"lieu": "International Conference on Education (ICE 2011)",
+"url": "https://hal.science/hal-00763041v1"
+},
+{
+"id": "p383b257648",
+"titre": "The Collaborative Product Design and Help to Decision Making: Interactive Mind-Mapping",
+"annee": 2011,
+"type": "chapitre",
+"lieu": "Springer eBooks",
+"url": "https://doi.org/10.1007/978-3-642-15973-2_23",
+"doi": "10.1007/978-3-642-15973-2_23"
+},
+{
+"id": "p4676d7f220",
+"titre": "Une méthodologie de conception pour la fabrication additive",
+"annee": 2011,
+"type": "conférence",
+"lieu": "9e Congrès International de Génie Industriel",
+"url": "https://hal.science/hal-00782409v1"
+}
+]
+}

@@ -1,0 +1,90 @@
+equipe: Lab-STICC/INUIT
+domaines:
+  principaux:
+  - rv
+  secondaires:
+  - visu
+  - humains
+themes:
+- id: realite_augmentee
+  phrase: 'Perception et action en réalité augmentée optique : contact et profondeur des objets virtuels, saisie d''objets
+    réels et virtuels, affordances perçues.'
+  preuves:
+  - p619e52c531
+  - p0032ce0d2a
+  - pde8b17bed1
+- id: haptique
+  phrase: Rendu vibrotactile spatialisé, modulation des sensations d'effort et accessoires physiques ou thermiques en RV et
+    RA.
+  preuves:
+  - p3e6d682bc3
+  - pc5b65a776a
+  - p6b3ff358a0
+- id: interaction_3d
+  phrase: Points de vue et leur contrôle en réalité mixte collaborative hétérogène, téléportation et positionnement de l'espace
+    de travail, plasticité des interfaces 3D.
+  preuves:
+  - p2b67bfdcba
+  - pecb6dbe162
+  - pe185a40a02
+- id: incarnation_presence
+  phrase: Sentiment d'incarnation et ses méthodes d'évaluation, perception de son propre corps et filtres de visage en RA.
+  preuves:
+  - p7ae8ceb90f
+  - p9044039f1a
+  - p4c8f131481
+- id: visu_immersive
+  phrase: Analytique immersive (cybersécurité, graphes 3D) et géovisualisation multicouche ou multi-perspective en RV.
+  preuves:
+  - p571d90ac3d
+  - pb7150e77ea
+  - p642e1dd750
+- id: formation_rv
+  phrase: Environnements virtuels de formation et de répétition (audiences virtuelles, apprentissage de procédures, transfert
+    de savoir-faire industriel).
+  preuves:
+  - p277aeb8bee
+  - p46ccb48515
+  - p6b3ff358a0
+applications:
+- id: industrie_cao
+  preuves:
+  - p4c25d44ab2
+  - p5b05b98baf
+  - p782cf5b46f
+- id: education
+  preuves:
+  - p6b3ff358a0
+  - p46ccb48515
+  - p7db7d5701c
+- id: patrimoine
+  preuves:
+  - p706fb5b1d1
+  - pf646c2c634
+  - p5827417750
+- id: architecture_urbain
+  preuves:
+  - p6527bc818e
+  - p4b2fb9cb40
+  - p0fa478d834
+- id: sciences_donnees
+  preuves:
+  - p571d90ac3d
+  - p10d9d76c46
+  - p8a9da5d7d9
+- id: sante
+  preuves:
+  - p1ab6f057a1
+  - p50669fc67d
+publications_representatives:
+- p619e52c531
+- p2b67bfdcba
+- pde8b17bed1
+- p4bbd937430
+- p6b3ff358a0
+synthese: Perception et interaction en réalité augmentée et virtuelle, haptique, collaboration en réalité mixte hétérogène,
+  incarnation, analytique immersive et environnements de formation.
+pour_etudiants: On y étudie comment voir, toucher et manipuler des objets virtuels en réalité virtuelle ou augmentée, seul
+  ou à plusieurs, et on crée des environnements pour apprendre ou analyser des données.
+pour_entreprises: Conception et évaluation d'applications XR pour l'industrie (jumeaux numériques, conception collaborative,
+  formation), retours haptiques, visualisation immersive de données et valorisation du patrimoine.
