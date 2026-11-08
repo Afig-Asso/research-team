@@ -6,49 +6,56 @@
 "site": null,
 "statut": "",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": ""
 },
 {
 "nom": "Florent Berthaut",
 "site": "https://hitmuri.net/",
 "statut": "",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "réalité mixte/virtuelle, interaction 3D, instruments audiovisuels XR"
 },
 {
 "nom": "Laurent Grisoni",
 "site": null,
 "statut": "",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "IHM, augmentation visuelle pour spectateurs, interaction gestuelle"
 },
 {
 "nom": "Patricia Plénacoste",
 "site": null,
 "statut": "",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "IHM, ergonomie, interaction 3D, réalité mixte"
 },
 {
 "nom": "Yosra Rekik",
 "site": "https://sites.google.com/site/yosrarekikresearch/",
 "statut": "",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "IHM, interaction gestuelle mobile, retour tactile"
 },
 {
 "nom": "Jean-Claude Tarby",
 "site": "https://www.cristal.univ-lille.fr/~jctarby/",
 "statut": "",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "IHM, interaction multimodale, ingénierie dirigée par les modèles"
 },
 {
 "nom": "Hazem Wannous",
 "site": null,
 "statut": "",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "vision 3D, reconnaissance de gestes, génération de mouvements main-objet"
 }
 ],
 "source": "https://mint.univ-lille.fr/pages/team.html"
@@ -60,119 +67,136 @@
 "site": "https://igg.icube.unistra.fr/index.php?title=R%C3%A9mi_All%C3%A8gre",
 "statut": "MCF",
 "employeur": "Université de Strasbourg (IUT Haguenau)",
-"emerite": false
+"emerite": false,
+"domaines": "textures procédurales inverses, imagerie médicale par apprentissage"
 },
 {
 "nom": "Dominique Bechmann",
 "site": "https://igg.icube.unistra.fr/index.php?title=Dominique_Bechmann",
 "statut": "PR",
 "employeur": "Université de Strasbourg (UFR MI)",
-"emerite": false
+"emerite": false,
+"domaines": "maillages hexaédriques, squelettes, modélisation géométrique, RV"
 },
 {
 "nom": "Pierre Boutry",
 "site": "https://pierre-boutry.fr/",
 "statut": "MCF",
 "employeur": "Université de Strasbourg (UFR MI)",
-"emerite": false
+"emerite": false,
+"domaines": "formalisation de la géométrie, preuve assistée"
 },
 {
 "nom": "Antonio Capobianco",
 "site": null,
 "statut": "PR",
 "employeur": "Université de Strasbourg (IUT Haguenau)",
-"emerite": false
+"emerite": false,
+"domaines": "IHM, facteurs humains en RV/RA, incarnation d'avatar"
 },
 {
 "nom": "David Cazier",
 "site": "https://igg.icube.unistra.fr/index.php?title=David_Cazier",
 "statut": "PR",
 "employeur": "Université de Strasbourg (IUT Haguenau)",
-"emerite": false
+"emerite": false,
+"domaines": "geometry processing, maillages multirésolution, animation"
 },
 {
 "nom": "Jean-Michel Dischler",
 "site": "https://igg.icube.unistra.fr/index.php?title=Jean-Michel_Dischler",
 "statut": "PR",
 "employeur": "Université de Strasbourg (UFR MI)",
-"emerite": false
+"emerite": false,
+"domaines": "textures procédurales, rendu, BRDF"
 },
 {
 "nom": "Jérome Grosjean",
 "site": "https://dpt-info.u-strasbg.fr/~grosjean/",
 "statut": "MCF",
 "employeur": "Université de Strasbourg (UFR MI)",
-"emerite": false
+"emerite": false,
+"domaines": "interaction 3D immersive, RV"
 },
 {
 "nom": "Arash Habibi",
 "site": "https://igg.icube.unistra.fr/index.php?title=Arash_Habibi",
 "statut": "MCF",
 "employeur": "Université de Strasbourg (UFR MI)",
-"emerite": false
+"emerite": false,
+"domaines": "modélisation par esquisse, interaction physique en RV, avatars"
 },
 {
 "nom": "Franck Hétroy-Wheeler",
 "site": "https://igg.icube.unistra.fr/index.php?title=Franck_H%C3%A9troy-Wheeler",
 "statut": "PR",
 "employeur": "Université de Strasbourg (UFR MI)",
-"emerite": false
+"emerite": false,
+"domaines": "traitement de nuages de points, géométrie des plantes, recalage spatio-temporel"
 },
 {
 "nom": "Pierre Kraemer",
 "site": "https://igg.icube.unistra.fr/index.php?title=Pierre_Kraemer",
 "statut": "MCF",
 "employeur": "Université de Strasbourg (IUT Robert Schuman)",
-"emerite": false
+"emerite": false,
+"domaines": "maillages hexaédriques, squelettisation, geometry processing"
 },
 {
 "nom": "Flavien Lecuyer",
 "site": "https://igg.icube.unistra.fr/index.php?title=Flavien_Lecuyer",
 "statut": "MCF",
 "employeur": "Université de Strasbourg (IUT Haguenau)",
-"emerite": false
+"emerite": false,
+"domaines": "réalité virtuelle/augmentée, scénarisation XR, interaction"
 },
 {
 "nom": "Nicolas Magaud",
 "site": "https://dpt-info.u-strasbg.fr/~magaud/",
 "statut": "PR",
 "employeur": "Université de Strasbourg (UFR MI)",
-"emerite": false
+"emerite": false,
+"domaines": "preuve formelle, Coq, géométrie projective"
 },
 {
 "nom": "Pascal Mathis",
 "site": "https://dpt-info.u-strasbg.fr/~mathis/",
 "statut": "MCF HDR",
 "employeur": "Université de Strasbourg (UFR MI)",
-"emerite": false
+"emerite": false,
+"domaines": "contraintes géométriques, constructibilité"
 },
 {
 "nom": "Loïc Pujet",
 "site": "https://pujet.fr/",
 "statut": "MCF",
 "employeur": "Université de Strasbourg (UFR MI)",
-"emerite": false
+"emerite": false,
+"domaines": "théorie des types, langages de programmation"
 },
 {
 "nom": "Jonathan Sarton",
 "site": "https://igg.icube.unistra.fr/index.php?title=Jonathan_Sarton",
 "statut": "MCF",
 "employeur": "Université de Strasbourg (UFR MI)",
-"emerite": false
+"emerite": false,
+"domaines": "visualisation volumique, GPU, out-of-core"
 },
 {
 "nom": "Basile Sauvage",
 "site": "https://igg.icube.unistra.fr/index.php?title=Basile_Sauvage",
 "statut": "PR",
 "employeur": "Université de Strasbourg (UFR MI)",
-"emerite": false
+"emerite": false,
+"domaines": "synthèse de textures, rendu temps réel"
 },
 {
 "nom": "Sylvain Thery",
 "site": "https://igg.icube.unistra.fr/index.php?title=Sylvain_Thery",
 "statut": "IR",
 "employeur": "Université de Strasbourg",
-"emerite": false
+"emerite": false,
+"domaines": "squelettisation, motifs procéduraux, géométrie (CGoGN)"
 }
 ],
 "source": "https://igg.icube.unistra.fr/index.php?title=Personnel"
@@ -184,91 +208,104 @@
 "site": null,
 "statut": "MCF",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "traitement de la parole, analogie"
 },
 {
 "nom": "Vincent Barreaud",
 "site": null,
 "statut": "MCF",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "traitement de la parole, plongements de locuteurs"
 },
 {
 "nom": "Giuseppe Berio",
 "site": null,
 "statut": "PR",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "ontologies, ingénierie des connaissances, LLM"
 },
 {
 "nom": "Nicolas Béchet",
 "site": null,
 "statut": "MCF",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "TAL, ontologies"
 },
 {
 "nom": "Jonathan Chevelu",
 "site": null,
 "statut": "MCF",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "TAL, paraphrase, parole"
 },
 {
 "nom": "Arnaud Delhay",
 "site": "https://people.irisa.fr/Arnaud.Delhay/",
 "statut": "MCF",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "parole, deepfakes audio, TAL"
 },
 {
 "nom": "Sylvie Gibet",
 "site": null,
 "statut": "PR",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "avatars signeurs, synthèse de mouvement, capture de mouvement"
 },
 {
 "nom": "Caroline Larboulette",
 "site": "https://people.irisa.fr/Caroline.Larboulette/",
 "statut": "MCF",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "animation de personnages, avatars signeurs, synthèse de mouvement"
 },
 {
 "nom": "Damien Lolive",
 "site": "https://people.irisa.fr/Damien.Lolive/",
 "statut": "PR",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "synthèse de la parole, TAL"
 },
 {
 "nom": "Pierre-François Marteau",
 "site": "https://people.irisa.fr/Pierre-Francois.Marteau/",
 "statut": "PR",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "séries temporelles, apprentissage, détection d'anomalies"
 },
 {
 "nom": "Gildas Ménier",
 "site": null,
 "statut": "MCF",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": ""
 },
 {
 "nom": "Vincent Segonne",
 "site": null,
 "statut": "MCF",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "TAL, modèles de langue"
 },
 {
 "nom": "Jeanne Villaneau",
 "site": null,
 "statut": "MCF",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "TAL, langage de l'enfant, émotions"
 }
 ],
 "source": "https://www-expression.irisa.fr/team-members/"
@@ -280,56 +317,64 @@
 "site": "https://people.irisa.fr/ferran.argelaguet/",
 "statut": "Researcher, HDR",
 "employeur": "Inria",
-"emerite": false
+"emerite": false,
+"domaines": "interaction 3D, réalité virtuelle, incarnation d'avatar"
 },
 {
 "nom": "Mélanie Cogné",
 "site": null,
 "statut": "Associate Professor, HDR",
 "employeur": "Université de Rennes",
-"emerite": false
+"emerite": false,
+"domaines": "médecine de rééducation, RV"
 },
 {
 "nom": "Valérie Gouranton",
 "site": "https://cv.hal.science/valerie-gouranton",
 "statut": "Professor",
 "employeur": "INSA Rennes",
-"emerite": false
+"emerite": false,
+"domaines": "réalité virtuelle/étendue, scénarisation, patrimoine"
 },
 {
 "nom": "Anatole Lécuyer",
 "site": "https://people.rennes.inria.fr/Anatole.Lecuyer/",
 "statut": "Senior Researcher",
 "employeur": "Inria",
-"emerite": false
+"emerite": false,
+"domaines": "réalité virtuelle, haptique, incarnation, BCI"
 },
 {
 "nom": "Marc Macé",
 "site": "https://people.irisa.fr/Marc.Mace/",
 "statut": "Researcher, HDR",
 "employeur": "CNRS",
-"emerite": false
+"emerite": false,
+"domaines": "neurosciences, haptique et perception en RV"
 },
 {
 "nom": "Léa Pillette",
 "site": null,
 "statut": "Researcher",
 "employeur": "CNRS",
-"emerite": false
+"emerite": false,
+"domaines": "interfaces cerveau-ordinateur, RV"
 },
 {
 "nom": "Justine Saint-Aubert",
 "site": null,
 "statut": "Researcher",
 "employeur": "CNRS",
-"emerite": false
+"emerite": false,
+"domaines": "haptique pour la RV, locomotion virtuelle, avatars"
 },
 {
 "nom": "Bruno Arnaldi",
 "site": null,
 "statut": "Emeritus",
 "employeur": "INSA Rennes",
-"emerite": true
+"emerite": true,
+"domaines": "réalité virtuelle, scénarisation, interaction"
 }
 ],
 "source": "https://radar.inria.fr/report/2025/seamless/"
@@ -341,105 +386,120 @@
 "site": null,
 "statut": "Associate Professor",
 "employeur": "Université Rennes 2",
-"emerite": false
+"emerite": false,
+"domaines": "biomécanique du sport, capteurs inertiels"
 },
 {
 "nom": "Benoit Bideau",
 "site": null,
 "statut": "Professor",
 "employeur": "Université Rennes 2",
-"emerite": false
+"emerite": false,
+"domaines": "biomécanique du sport, RV pour l'entraînement"
 },
 {
 "nom": "Armel Cretual",
 "site": "https://perso.univ-rennes2.fr/armel.cretual",
 "statut": "Associate Professor, HDR",
 "employeur": "Université Rennes 2",
-"emerite": false
+"emerite": false,
+"domaines": "posture, locomotion clinique"
 },
 {
 "nom": "Georges Dumont",
 "site": "https://people.irisa.fr/Georges.Dumont/",
 "statut": "Professor",
 "employeur": "ENS Rennes",
-"emerite": false
+"emerite": false,
+"domaines": "biomécanique, ergonomie"
 },
 {
 "nom": "Nolwenn Fougeron",
 "site": null,
 "statut": "Researcher",
 "employeur": "Inria",
-"emerite": false
+"emerite": false,
+"domaines": "biomécanique, modèles éléments finis"
 },
 {
 "nom": "Diane Haering",
 "site": "https://perso.univ-rennes2.fr/diane.haering",
 "statut": "Associate Professor",
 "employeur": "Université Rennes 2",
-"emerite": false
+"emerite": false,
+"domaines": "biomécanique, gymnastique"
 },
 {
 "nom": "Pierre Hellier",
 "site": "https://people.irisa.fr/Pierre.Hellier/",
 "statut": "Professor",
 "employeur": "Université de Rennes",
-"emerite": false
+"emerite": false,
+"domaines": "vision, édition de visages, capture de mouvement"
 },
 {
 "nom": "Hugo Kerhervé",
 "site": "https://perso.univ-rennes2.fr/hugo.kerherve",
 "statut": "Associate Professor",
 "employeur": "Université Rennes 2",
-"emerite": false
+"emerite": false,
+"domaines": "physiologie de l'exercice"
 },
 {
 "nom": "Richard Kulpa",
 "site": "https://perso.univ-rennes2.fr/richard.kulpa",
 "statut": "Associate Professor, HDR",
 "employeur": "Université Rennes 2",
-"emerite": false
+"emerite": false,
+"domaines": "RV pour le sport, reconnaissance de gestes"
 },
 {
 "nom": "Fabrice Lamarche",
 "site": "https://people.irisa.fr/Fabrice.Lamarche/",
 "statut": "Associate Professor",
 "employeur": "Université de Rennes",
-"emerite": false
+"emerite": false,
+"domaines": "cinématographie virtuelle, impression 3D"
 },
 {
 "nom": "Caroline Martin",
 "site": "https://www.caromartin-tennis.com/",
 "statut": "Associate Professor",
 "employeur": "Université Rennes 2",
-"emerite": false
+"emerite": false,
+"domaines": "biomécanique du sport"
 },
 {
 "nom": "Franck Multon",
 "site": "https://perso.univ-rennes2.fr/franck.multon",
 "statut": "Senior Researcher",
 "employeur": "Inria",
-"emerite": false
+"emerite": false,
+"domaines": "animation de personnages, reconstruction humaine 3D, champs de radiance"
 },
 {
 "nom": "Guillaume Nicolas",
 "site": null,
 "statut": "Associate Professor",
 "employeur": "Université Rennes 2",
-"emerite": false
+"emerite": false,
+"domaines": "biomécanique"
 },
 {
 "nom": "Charles Pontonnier",
 "site": "https://sites.google.com/site/charlespontonnier/",
 "statut": "Associate Professor, HDR",
 "employeur": "ENS Rennes",
-"emerite": false
+"emerite": false,
+"domaines": "biomécanique, ergonomie, exosquelettes"
 },
 {
 "nom": "Nicolas Vignais",
 "site": "https://sites.google.com/site/nicolasvignaishomepage",
 "statut": "Professor",
 "employeur": "Université Rennes 2",
-"emerite": false
+"emerite": false,
+"domaines": "biomécanique, ergonomie, capteurs"
 }
 ],
 "source": "https://radar.inria.fr/report/2025/combo/"
@@ -451,70 +511,80 @@
 "site": "https://team.inria.fr/rainbow/team/marie-babel/",
 "statut": "Professor",
 "employeur": "INSA Rennes",
-"emerite": false
+"emerite": false,
+"domaines": "robotique d'assistance, haptique, RV"
 },
 {
 "nom": "François Chaumette",
 "site": "https://team.inria.fr/rainbow/team/francois-chaumette/",
 "statut": "Senior Researcher",
 "employeur": "Inria",
-"emerite": false
+"emerite": false,
+"domaines": "asservissement visuel, robotique"
 },
 {
 "nom": "Vincent Drevelle",
 "site": "https://team.inria.fr/rainbow/team/vincent-drevelle/",
 "statut": "Associate Professor",
 "employeur": "Université de Rennes",
-"emerite": false
+"emerite": false,
+"domaines": "localisation, analyse par intervalles"
 },
 {
 "nom": "Paolo Robuffo Giordano",
 "site": "https://team.inria.fr/rainbow/team/prg/",
 "statut": "Senior Researcher",
 "employeur": "CNRS",
-"emerite": false
+"emerite": false,
+"domaines": "robotique multi-agents, commande"
 },
 {
 "nom": "Alexandre Krupa",
 "site": "https://team.inria.fr/rainbow/team/alexandre-krupa/",
 "statut": "Senior Researcher",
 "employeur": "Inria",
-"emerite": false
+"emerite": false,
+"domaines": "robotique médicale, asservissement visuel"
 },
 {
 "nom": "Maud Marchal",
 "site": "https://people.rennes.inria.fr/Maud.Marchal/",
 "statut": "Professor",
 "employeur": "INSA Rennes",
-"emerite": false
+"emerite": false,
+"domaines": "haptique pour la RV, interaction, simulation physique"
 },
 {
 "nom": "Éric Marchand",
 "site": "https://team.inria.fr/rainbow/team/eric-marchand/",
 "statut": "Professor",
 "employeur": "Université de Rennes",
-"emerite": false
+"emerite": false,
+"domaines": "suivi visuel, asservissement visuel, réalité augmentée"
 },
 {
 "nom": "Claudio Pacchierotti",
 "site": "https://team.inria.fr/rainbow/team/claudio-pacchierotti/",
 "statut": "Researcher, HDR",
 "employeur": "CNRS",
-"emerite": false
+"emerite": false,
+"domaines": "haptique, téléopération, RV"
 },
 {
 "nom": "Esteban Restrepo",
 "site": "https://erestrep.github.io/",
 "statut": "Researcher",
 "employeur": "CNRS",
-"emerite": false
+"emerite": false,
+"domaines": "commande multi-agents"
 },
 {
 "nom": "Marco Tognon",
 "site": "https://team.inria.fr/rainbow/team/marco-tognon/",
 "statut": "ISFP, HDR",
 "employeur": "Inria",
-"emerite": false
+"emerite": false,
+"domaines": "robotique aérienne"
 }
 ],
 "source": "https://radar.inria.fr/report/2025/rainbow/"
@@ -526,63 +596,72 @@
 "site": null,
 "statut": "Researcher",
 "employeur": "Inria",
-"emerite": false
+"emerite": false,
+"domaines": "éclairage, rendu, intégration d'objets virtuels"
 },
 {
 "nom": "Mathieu Chambe",
 "site": null,
 "statut": "",
 "employeur": "Université de Rennes",
-"emerite": false
+"emerite": false,
+"domaines": "imagerie HDR, esthétique d'images"
 },
 {
 "nom": "Marc Christie",
 "site": null,
 "statut": "Associate Professor",
 "employeur": "Université de Rennes",
-"emerite": false
+"emerite": false,
+"domaines": "cinématographie virtuelle, contrôle de caméra, animation"
 },
 {
 "nom": "Stéphane Donikian",
 "site": null,
 "statut": "Senior Researcher",
 "employeur": "Inria",
-"emerite": false
+"emerite": false,
+"domaines": "simulation de foules, humains virtuels"
 },
 {
 "nom": "Ludovic Hoyet",
 "site": "https://people.rennes.inria.fr/Ludovic.Hoyet/",
 "statut": "Researcher, HDR",
 "employeur": "Inria",
-"emerite": false
+"emerite": false,
+"domaines": "animation de personnages, perception, avatars en RV"
 },
 {
 "nom": "Anne-Hélène Olivier",
 "site": "https://sites.google.com/site/anneheleneolivier/home",
 "statut": "Associate Professor, HDR",
 "employeur": "Université Rennes 2",
-"emerite": false
+"emerite": false,
+"domaines": "locomotion humaine, interactions piétons en RV"
 },
 {
 "nom": "Julien Pettré",
 "site": "https://people.rennes.inria.fr/Julien.Pettre/",
 "statut": "Senior Researcher",
 "employeur": "Inria",
-"emerite": false
+"emerite": false,
+"domaines": "simulation de foules, humains virtuels, RV"
 },
 {
 "nom": "Katja Zibrek",
 "site": "https://people.rennes.inria.fr/Katja.Zibrek/",
 "statut": "ISFP",
 "employeur": "Inria",
-"emerite": false
+"emerite": false,
+"domaines": "perception d'humains virtuels, RV"
 },
 {
 "nom": "Kadi Bouatouch",
 "site": null,
 "statut": "émérite",
 "employeur": "Université de Rennes",
-"emerite": true
+"emerite": true,
+"domaines": "rendu, imagerie HDR, nuages de points"
 }
 ],
 "source": "https://radar.inria.fr/report/2025/virtus/"
@@ -594,42 +673,48 @@
 "site": "https://www.irit.fr/~Loic.Barthe/",
 "statut": "PR (Full Professor)",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "modélisation implicite, nuages de points, déformation"
 },
 {
 "nom": "Mégane Bati",
 "site": "https://www.irit.fr/recherches/STORM/MeganeBati/",
 "statut": "CR (Researcher)",
 "employeur": "CNRS",
-"emerite": false
+"emerite": false,
+"domaines": "apparence des matériaux, rendu, transfert radiatif"
 },
 {
 "nom": "Nicolas Bonneel",
 "site": "https://www.irit.fr/recherches/STORM/NicolasBonneel/index.html",
 "statut": "DR (Research Director)",
 "employeur": "CNRS",
-"emerite": false
+"emerite": false,
+"domaines": "transport optimal, rendu inverse, rendu"
 },
 {
 "nom": "Nicolas Mellado",
 "site": "https://www.irit.fr/~Nicolas.Mellado/",
 "statut": "CR (Researcher)",
 "employeur": "CNRS",
-"emerite": false
+"emerite": false,
+"domaines": "nuages de points, recalage, geometry processing"
 },
 {
 "nom": "Mathias Paulin",
 "site": "https://www.irit.fr/~Mathias.Paulin/",
 "statut": "PR (Full Professor)",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "rendu, harmoniques sphériques, BVH"
 },
 {
 "nom": "David Vanderhaeghe",
 "site": "https://www.dlyr.fr/",
 "statut": "MCF (Associate Professor)",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "rendu expressif, animation 2D, milieux participatifs"
 }
 ],
 "source": "https://www.irit.fr/STORM/site/team/"
@@ -641,105 +726,120 @@
 "site": null,
 "statut": "MCF",
 "employeur": "Toulouse INP",
-"emerite": false
+"emerite": false,
+"domaines": "IA explicable, données multimodales"
 },
 {
 "nom": "Alain Berro",
 "site": null,
 "statut": "MCF",
 "employeur": "Université Toulouse Capitole",
-"emerite": false
+"emerite": false,
+"domaines": "statistique, vie artificielle"
 },
 {
 "nom": "Sylvie Chambon",
 "site": "https://www.irit.fr/~Sylvie.Chambon/",
 "statut": "PR",
 "employeur": "Toulouse INP",
-"emerite": false
+"emerite": false,
+"domaines": "vision par ordinateur, saillance 3D, point de vue d'objets 3D"
 },
 {
 "nom": "Sylvain Cussat-Blanc",
 "site": "https://www.irit.fr/~Sylvain.Cussat-Blanc/",
 "statut": "PR",
 "employeur": "Université Toulouse Capitole",
-"emerite": false
+"emerite": false,
+"domaines": "vie artificielle, réseaux de régulation génétique, neuroévolution"
 },
 {
 "nom": "Jean-Denis Durou",
 "site": "https://www.irit.fr/~Jean-Denis.Durou/",
 "statut": "MCF HDR",
 "employeur": "Toulouse INP",
-"emerite": false
+"emerite": false,
+"domaines": "stéréophotométrie, intégration de normales, reconstruction 3D, patrimoine"
 },
 {
 "nom": "Simone Gasparini",
 "site": "https://www.irit.fr/~Simone.Gasparini/",
 "statut": "MCF",
 "employeur": "Toulouse INP",
-"emerite": false
+"emerite": false,
+"domaines": "reconstruction 3D multi-vues, calibration caméras-projecteurs, qualité de maillages"
 },
 {
 "nom": "Jean-Pierre Jessel",
 "site": "https://www.irit.fr/~Jean-Pierre.Jessel/",
 "statut": "PR",
 "employeur": "Université de Toulouse",
-"emerite": false
+"emerite": false,
+"domaines": "réalité virtuelle, environnements urbains 3D, Web3D"
 },
 {
 "nom": "Yuri Cossich Lavinas",
 "site": "https://yurilavinas.github.io/",
 "statut": "MCF",
 "employeur": "Université Toulouse Capitole",
-"emerite": false
+"emerite": false,
+"domaines": "optimisation évolutionnaire multiobjectif"
 },
 {
 "nom": "Hervé Luga",
 "site": "https://www.irit.fr/~Herve.Luga/",
 "statut": "PR",
 "employeur": "Université Toulouse Jean Jaurès",
-"emerite": false
+"emerite": false,
+"domaines": "vie artificielle, créatures virtuelles, Web3D"
 },
 {
 "nom": "Géraldine Morin",
 "site": null,
 "statut": "PR",
 "employeur": "Toulouse INP",
-"emerite": false
+"emerite": false,
+"domaines": "modélisation géométrique, objets volumiques paramétriques, saillance 3D"
 },
 {
 "nom": "David Panzoli",
 "site": "https://www.irit.fr/~David.Panzoli/",
 "statut": "PR",
 "employeur": "INU Champollion",
-"emerite": false
+"emerite": false,
+"domaines": "réalité virtuelle, simulations immersives de formation, interaction manuelle"
 },
 {
 "nom": "Stéphane Sanchez",
 "site": null,
 "statut": "MCF",
 "employeur": "Université Toulouse Capitole",
-"emerite": false
+"emerite": false,
+"domaines": "simulations immersives, évolution artificielle"
 },
 {
 "nom": "Cédric Sanza",
 "site": "https://www.irit.fr/~Cedric.Sanza/",
 "statut": "MCF",
 "employeur": "Université de Toulouse",
-"emerite": false
+"emerite": false,
+"domaines": "rendu web de villes 3D, scénographie virtuelle, EIAH"
 },
 {
 "nom": "David Simoncini",
 "site": null,
 "statut": "MCF",
 "employeur": "Université Toulouse Capitole",
-"emerite": false
+"emerite": false,
+"domaines": "conception de protéines, optimisation"
 },
 {
 "nom": "Yves Duthen",
 "site": null,
 "statut": "émérite",
 "employeur": "Université Toulouse Capitole",
-"emerite": true
+"emerite": true,
+"domaines": "vie artificielle"
 }
 ],
 "source": "https://www.irit.fr/departement/calcul-intensif-simulation-optimisation/reva/"
@@ -751,70 +851,80 @@
 "site": "https://www.umr-lastig.fr/mathieu-bredif/",
 "statut": "CR IGN",
 "employeur": "IGN",
-"emerite": false
+"emerite": false,
+"domaines": "modélisation 3D, RA géolocalisée, visualisation web 3D"
 },
 {
 "nom": "Gérald Choqueux",
 "site": "https://www.umr-lastig.fr/gchoqueux/",
 "statut": "Ingénieur (Research engineer)",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": ""
 },
 {
 "nom": "Sidonie Christophe",
 "site": "https://sites.google.com/site/sidoniechristophe/home",
 "statut": "DR2 MTE",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "géovisualisation, visualisation 3D urbaine"
 },
 {
 "nom": "Jacques Gautier",
 "site": "https://www.umr-lastig.fr/jacques-gautier/",
 "statut": "Enseignant-Chercheur",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "géovisualisation 3D, visualisation de données climatiques"
 },
 {
 "nom": "Lionel Houssou",
 "site": "https://lionelhoussou.github.io/",
 "statut": "Enseignant-Chercheur",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "analyse de trajectoires, modélisation multi-agents"
 },
 {
 "nom": "Florence Jacquinod",
 "site": "https://www.umr-lastig.fr/florence-jacquinod/",
 "statut": "Enseignant-Chercheur",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "modélisation urbaine (CIM), analyse de cycle de vie"
 },
 {
 "nom": "Lâmân Lelégard",
 "site": "https://www.umr-lastig.fr/laman-lelegard/",
 "statut": "Ingénieur (Research engineer)",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "correction radiométrique d'images aériennes"
 },
 {
 "nom": "Maria-Jesus Lobo",
 "site": "https://www.umr-lastig.fr/maria-jesus-lobo/",
 "statut": "CR MTE",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "visualisation immersive, géovisualisation, RA"
 },
 {
 "nom": "Maxim Spur",
 "site": "https://www.umr-lastig.fr/maxim-spur/",
 "statut": "Enseignant-Chercheur",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "visualisation immersive, RV, données géospatiales"
 },
 {
 "nom": "Laura Wenclik",
 "site": "https://www.umr-lastig.fr/laura-wenclik/",
 "statut": "Ingénieure",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "cartographie, perception de cartes, oculométrie"
 }
 ],
 "source": "https://www.umr-lastig.fr/lastig_data/people.csv"
@@ -826,84 +936,96 @@
 "site": "https://www.umr-lastig.fr/laurent-caraffa/",
 "statut": "CR MTE",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "reconstruction de surfaces, triangulation de Delaunay, nuages de points"
 },
 {
 "nom": "Emmanuel Clédat",
 "site": "https://emmanuelcledat.github.io/Emmanuel-Cledat/",
 "statut": "Enseignant-Chercheur",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "photogrammétrie, jumeau numérique 4D"
 },
 {
 "nom": "Mehdi Daakir",
 "site": null,
 "statut": "CR MTE",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "photogrammétrie par drone"
 },
 {
 "nom": "Pierre-Louis Frison",
 "site": "https://www.umr-lastig.fr/plf_homepage/",
 "statut": "MCF HDR",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "télédétection radar, agriculture"
 },
 {
 "nom": "Bénédicte Fruneau",
 "site": "https://www.umr-lastig.fr/benedicte-fruneau/",
 "statut": "MCF HDR",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "interférométrie radar, télédétection"
 },
 {
 "nom": "Manchun Lei",
 "site": "https://www.umr-lastig.fr/manchun-lei/",
 "statut": "CR MTE",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "radiométrie, télédétection"
 },
 {
 "nom": "Christophe Meynard",
 "site": null,
 "statut": "IR",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "calibration de caméras, radiométrie"
 },
 {
 "nom": "Jean-Pierre Papelard",
 "site": null,
 "statut": "Enseignant",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "cartographie mobile, lidar 3D"
 },
 {
 "nom": "Marc Pierrot-Deseilligny",
 "site": "https://micmac.ensg.eu/index.php/Marc_Pierrot-Deseilligny",
 "statut": "DR0 MTE",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "photogrammétrie, reconstruction 3D"
 },
 {
 "nom": "Ewelina Rupnik",
 "site": "https://erupnik.github.io/",
 "statut": "CR MTE",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "photogrammétrie, NeRF satellitaire"
 },
 {
 "nom": "Bruno Vallet",
 "site": "https://www.umr-lastig.fr/bruno-vallet/",
 "statut": "CR IGN (Senior researcher)",
 "employeur": "IGN",
-"emerite": false
+"emerite": false,
+"domaines": "modélisation 3D urbaine, maillages texturés, lidar"
 },
 {
 "nom": "Teng Wu",
 "site": "https://whuwuteng.github.io/",
 "statut": "Chercheur",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "reconstruction de bâtiments, fusion de maillages"
 }
 ],
 "source": "https://www.umr-lastig.fr/lastig_data/people.csv"
@@ -915,56 +1037,64 @@
 "site": "https://lib.ube.fr/membres/druoton-lucie/",
 "statut": "MCF",
 "employeur": "Université Bourgogne Europe",
-"emerite": false
+"emerite": false,
+"domaines": "modélisation géométrique, cyclides de Dupin, subdivision"
 },
 {
 "nom": "Irène Foucherot",
 "site": "https://lib.ube.fr/membres/foucherot-irene/",
 "statut": "MCF",
 "employeur": "Université Bourgogne Europe",
-"emerite": false
+"emerite": false,
+"domaines": ""
 },
 {
 "nom": "Lionel Garnier",
 "site": "https://lib.ube.fr/membres/garnier-lionel/",
 "statut": "MCF",
 "employeur": "Université Bourgogne Europe",
-"emerite": false
+"emerite": false,
+"domaines": "modélisation géométrique, courbes de Bézier rationnelles, cyclides"
 },
 {
 "nom": "Christian Gentil",
 "site": "https://lib.ube.fr/membres/gentil-christian/",
 "statut": "PR",
 "employeur": "Université Bourgogne Europe",
-"emerite": false
+"emerite": false,
+"domaines": "modélisation géométrique, fractales, CAO"
 },
 {
 "nom": "Sandrine Lanquetin",
 "site": "https://lib.ube.fr/membres/lanquetin-sandrine/",
 "statut": "MCF",
 "employeur": "Université Bourgogne Europe",
-"emerite": false
+"emerite": false,
+"domaines": "segmentation de maillages, graphes de Reeb"
 },
 {
 "nom": "Romain Raffin",
 "site": "https://lib.ube.fr/membres/raffin-romain/",
 "statut": "PR",
 "employeur": "Université Bourgogne Europe",
-"emerite": false
+"emerite": false,
+"domaines": "maillages 3D, numérisation 3D, patrimoine"
 },
 {
 "nom": "Céline Roudet",
 "site": "https://lib.ube.fr/membres/roudet-celine/",
 "statut": "MCF HDR",
 "employeur": "Université Bourgogne Europe",
-"emerite": false
+"emerite": false,
+"domaines": "modélisation géométrique, surfaces fractales, rugosité"
 },
 {
 "nom": "Michaël Roy",
 "site": "https://lib.ube.fr/membres/roy-michael/",
 "statut": "MCF",
 "employeur": "Université Bourgogne Europe",
-"emerite": false
+"emerite": false,
+"domaines": "descripteurs 3D, rugosité de surfaces, modélisation géométrique"
 }
 ],
 "source": "https://lib.ube.fr/membres/?member-group=modelisation-geometrique"
@@ -976,77 +1106,88 @@
 "site": null,
 "statut": "MCF HDR",
 "employeur": "Université Paris 8",
-"emerite": false
+"emerite": false,
+"domaines": ""
 },
 {
 "nom": "Farès Belhadj",
 "site": "https://expreg.org/amsi/C/",
 "statut": "MCF",
 "employeur": "Université Paris 8",
-"emerite": false
+"emerite": false,
+"domaines": "rendu temps réel, rendu expressif, génération de terrains"
 },
 {
 "nom": "Adrien Revault d'Allonnes",
 "site": "https://www.lip6.fr/actualite/personnes-fiche.php?ident=A51",
 "statut": "MCF",
 "employeur": "Université Paris 8",
-"emerite": false
+"emerite": false,
+"domaines": "logique floue, confiance"
 },
 {
 "nom": "Louis Falissard",
 "site": "https://loufalissard.perso.page/",
 "statut": "MCF",
 "employeur": "Université Paris 8",
-"emerite": false
+"emerite": false,
+"domaines": "modèles de langue, apprentissage"
 },
 {
 "nom": "Nicolas Jouandeau",
 "site": "https://n.up8.site/",
 "statut": "PR",
 "employeur": "Université Paris 8",
-"emerite": false
+"emerite": false,
+"domaines": "IA, recherche arborescente, apprentissage"
 },
 {
 "nom": "Revekka Kyriakoglou",
 "site": "https://kyriakoglou.up8.site/",
 "statut": "MCF",
 "employeur": "Université Paris 8",
-"emerite": false
+"emerite": false,
+"domaines": "TAL, corpus, IA en éducation"
 },
 {
 "nom": "Alice Millour",
 "site": "https://alicemillour.github.io/",
 "statut": "MCF",
 "employeur": "Université Paris 8",
-"emerite": false
+"emerite": false,
+"domaines": "TAL, ressources linguistiques"
 },
 {
 "nom": "Anna Pappa",
 "site": "https://ap.up8.site/",
 "statut": "MCF HDR",
 "employeur": "Université Paris 8",
-"emerite": false
+"emerite": false,
+"domaines": "TAL, agents conversationnels"
 },
 {
 "nom": "Pablo Rauzy",
 "site": "https://pablorauzy.fr/",
 "statut": "MCF",
 "employeur": "Université Paris 8",
-"emerite": false
+"emerite": false,
+"domaines": "sécurité, blockchain, technocritique"
 },
 {
 "nom": "Alexandros Singh",
 "site": "https://wintershammer.github.io/",
 "statut": "MCF",
 "employeur": "Université Paris 8",
-"emerite": false
+"emerite": false,
+"domaines": "combinatoire, lambda-calcul"
 },
 {
 "nom": "Jean-Noël Vittaut",
 "site": "https://jnv.up8.site/",
 "statut": "MCF",
 "employeur": "Université Paris 8",
-"emerite": false
+"emerite": false,
+"domaines": "apprentissage, EDP neuronales, XAI"
 }
 ],
 "source": "https://informatique.up8.edu/pastis/"
@@ -1058,168 +1199,192 @@
 "site": "https://rachddou.github.io/",
 "statut": "MCF",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "restauration d'images"
 },
 {
 "nom": "Mathieu Aubry",
 "site": "https://mathieuaubry.github.io/",
 "statut": "CR",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "vision 3D, analyse de formes, humanités numériques"
 },
 {
 "nom": "Venceslas Biri",
 "site": null,
 "statut": "PR",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "algèbre géométrique, modélisation géométrique, rendu"
 },
 {
 "nom": "Lilian Buzer",
 "site": "https://perso.esiee.fr/~buzerl/",
 "statut": "Professeur associé",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "segmentation d'images, recherche Monte-Carlo"
 },
 {
 "nom": "Giovanni Chierchia",
 "site": "https://perso.esiee.fr/~chierchg/",
 "statut": "Professeur associé",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "apprentissage, traitement du signal"
 },
 {
 "nom": "Jean Cousty",
 "site": "https://perso.esiee.fr/~coustyj/",
 "statut": "PR",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "morphologie mathématique, hiérarchies"
 },
 {
 "nom": "Eva Dokladalova",
 "site": null,
 "statut": "PR",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "systèmes embarqués, vision"
 },
 {
 "nom": "Thierry Grandpierre",
 "site": "https://perso.esiee.fr/~grandpit/",
 "statut": "PR",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "systèmes temps réel, architectures"
 },
 {
 "nom": "Rostom Kachouri",
 "site": "https://perso.esiee.fr/~kachourr/",
 "statut": "PR",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "imagerie médicale, apprentissage"
 },
 {
 "nom": "Loïc Landrieu",
 "site": "https://loiclandrieu.com/",
 "statut": "CR",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "nuages de points 3D, génération de formes, vision"
 },
 {
 "nom": "Vincent Lepetit",
 "site": "https://vincentlepetit.github.io/",
 "statut": "DR",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "rendu différentiable, Gaussian splatting, vision 3D"
 },
 {
 "nom": "Renaud Marlet",
 "site": "https://imagine.enpc.fr/~marletr/",
 "statut": "DR",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "reconstruction de surfaces, nuages de points lidar"
 },
 {
 "nom": "Pascal Monasse",
 "site": "https://imagine.enpc.fr/~monasse/",
 "statut": "DR",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "stéréo multi-vues, reconstruction 3D"
 },
 {
 "nom": "Laurent Najman",
 "site": "https://www.laurentnajman.org/",
 "statut": "PR",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "morphologie mathématique, apprentissage"
 },
 {
 "nom": "Romain Negrel",
 "site": "https://sites.google.com/esiee.fr/romain-negrel",
 "statut": "MCF",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "apprentissage, segmentation"
 },
 {
 "nom": "Bertrand Neveu",
 "site": "https://imagine.enpc.fr/~neveub/",
 "statut": "PR",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "programmation par contraintes, optimisation"
 },
 {
 "nom": "Vincent Nozick",
 "site": "http://www-igm.univ-mlv.fr/~vnozick/",
 "statut": "MCF",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "algèbre géométrique, vision multi-vues"
 },
 {
 "nom": "Benjamin Perret",
 "site": "https://perso.esiee.fr/~perretb/",
 "statut": "PR",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "morphologie mathématique, segmentation d'images"
 },
 {
 "nom": "David Picard",
 "site": "https://davidpicard.github.io/",
 "statut": "DR",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "apprentissage profond, vision"
 },
 {
 "nom": "Kacper Pluta",
 "site": null,
 "statut": "Professeur associé",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "géométrie discrète, nuages de points, BIM"
 },
 {
 "nom": "Gül Varol",
 "site": "https://gulvarol.github.io/",
 "statut": "DR",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "vision, génération de mouvement humain"
 },
 {
 "nom": "Chaohui Wang",
 "site": "http://www-igm.univ-mlv.fr/~cwang/index.php",
 "statut": "MCF",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "synthèse de vues, rendu neuronal, vision"
 },
 {
 "nom": "Mohamed Akil",
 "site": null,
 "statut": "PR émérite",
 "employeur": "",
-"emerite": true
+"emerite": true,
+"domaines": "imagerie médicale, temps réel"
 },
 {
 "nom": "Gilles Bertrand",
 "site": null,
 "statut": "PR émérite",
 "employeur": "",
-"emerite": true
+"emerite": true,
+"domaines": "topologie discrète, théorie de Morse discrète"
 }
 ],
 "source": "https://ligm.univ-eiffel.fr/equipe/a3si/"
@@ -1231,161 +1396,184 @@
 "site": "https://perso.liris.cnrs.fr/sylvain.brandel/",
 "statut": "MCF",
 "employeur": "Université Claude Bernard Lyon 1",
-"emerite": false
+"emerite": false,
+"domaines": "rendu, ré-éclairage, réalité augmentée"
 },
 {
 "nom": "Raphaëlle Chaine",
 "site": "https://perso.liris.cnrs.fr/raphaelle.chaine/",
 "statut": "PR",
 "employeur": "Université Claude Bernard Lyon 1",
-"emerite": false
+"emerite": false,
+"domaines": "traitement de géométrie, surfaces implicites, morphing"
 },
 {
 "nom": "David Coeurjolly",
 "site": "https://perso.liris.cnrs.fr/david.coeurjolly/",
 "statut": "DR",
 "employeur": "CNRS",
-"emerite": false
+"emerite": false,
+"domaines": "géométrie discrète, échantillonnage, transport optimal, rendu"
 },
 {
 "nom": "Guillaume Damiand",
 "site": "https://perso.liris.cnrs.fr/guillaume.damiand/",
 "statut": "DR",
 "employeur": "CNRS",
-"emerite": false
+"emerite": false,
+"domaines": "cartes combinatoires, maillages volumiques"
 },
 {
 "nom": "Johanna Delanoy",
 "site": "https://perso.liris.cnrs.fr/johanna.delanoy/",
 "statut": "MCF",
 "employeur": "INSA Lyon",
-"emerite": false
+"emerite": false,
+"domaines": "perception, qualité de maillages texturés, apparence"
 },
 {
 "nom": "Julie Digne",
 "site": "https://perso.liris.cnrs.fr/julie.digne/",
 "statut": "DR",
 "employeur": "CNRS",
-"emerite": false
+"emerite": false,
+"domaines": "traitement de géométrie, nuages de points"
 },
 {
 "nom": "Florent Dupont",
 "site": "https://perso.liris.cnrs.fr/florent.dupont/",
 "statut": "PR",
 "employeur": "Université Claude Bernard Lyon 1",
-"emerite": false
+"emerite": false,
+"domaines": "maillages, nuages de points, qualité visuelle"
 },
 {
 "nom": "Jean-Philippe Farrugia",
 "site": "https://liris.cnrs.fr/page-membre/jean-philippe-farrugia",
 "statut": "MCF",
 "employeur": "Université Claude Bernard Lyon 1",
-"emerite": false
+"emerite": false,
+"domaines": "rendu d'apparence, réalité virtuelle et augmentée"
 },
 {
 "nom": "Eric Galin",
 "site": "https://perso.liris.cnrs.fr/eric.galin/",
 "statut": "PR",
 "employeur": "Université Claude Bernard Lyon 1",
-"emerite": false
+"emerite": false,
+"domaines": "modélisation procédurale, terrains, phénomènes naturels"
 },
 {
 "nom": "Gilles Gesquière",
 "site": "https://liris.cnrs.fr/page-membre/gilles-gesquiere",
 "statut": "PR",
 "employeur": "Université Lumière Lyon 2",
-"emerite": false
+"emerite": false,
+"domaines": "modèles 3D urbains, visualisation, données géospatiales"
 },
 {
 "nom": "Eric Guérin",
 "site": "https://perso.liris.cnrs.fr/eguerin/new/",
 "statut": "PR",
 "employeur": "INSA Lyon",
-"emerite": false
+"emerite": false,
+"domaines": "modélisation procédurale, terrains, champs de distance"
 },
 {
 "nom": "Jean-Claude Iehl",
 "site": "https://perso.liris.cnrs.fr/jean-claude.iehl/public_html/",
 "statut": "MCF",
 "employeur": "Université Claude Bernard Lyon 1",
-"emerite": false
+"emerite": false,
+"domaines": "rendu, quasi-Monte Carlo, échantillonnage"
 },
 {
 "nom": "Fabrice Jaillet",
 "site": "https://perso.liris.cnrs.fr/fabrice.jaillet/",
 "statut": "PR",
 "employeur": "Université Claude Bernard Lyon 1",
-"emerite": false
+"emerite": false,
+"domaines": "simulation physique, PBD, haptique, RV"
 },
 {
 "nom": "Guillaume Lavoué",
 "site": "https://perso.liris.cnrs.fr/guillaume.lavoue/",
 "statut": "PR",
 "employeur": "École Centrale de Lyon",
-"emerite": false
+"emerite": false,
+"domaines": "réalité virtuelle, qualité visuelle 3D, perception"
 },
 {
 "nom": "Vincent Nivoliers",
 "site": "https://perso.liris.cnrs.fr/vincent.nivoliers/",
 "statut": "MCF",
 "employeur": "Université Claude Bernard Lyon 1",
-"emerite": false
+"emerite": false,
+"domaines": "diagrammes de Voronoi, transport optimal, maillages"
 },
 {
 "nom": "Victor Ostromoukhov",
 "site": "https://perso.liris.cnrs.fr/victor.ostromoukhov/",
 "statut": "PR",
 "employeur": "Université Claude Bernard Lyon 1",
-"emerite": false
+"emerite": false,
+"domaines": "échantillonnage, quasi-Monte Carlo, rendu"
 },
 {
 "nom": "Adrien Peytavie",
 "site": "https://perso.liris.cnrs.fr/apeytavi/website/",
 "statut": "MCF",
 "employeur": "Université Claude Bernard Lyon 1",
-"emerite": false
+"emerite": false,
+"domaines": "modélisation procédurale, terrains, surfaces implicites"
 },
 {
 "nom": "Pierre Raimbaud",
 "site": "https://liris.cnrs.fr/page-membre/pierre-raimbaud",
 "statut": "MCF",
 "employeur": "École Centrale de Lyon",
-"emerite": false
+"emerite": false,
+"domaines": "réalité virtuelle, agents virtuels, perception"
 },
 {
 "nom": "Tristan Roussillon",
 "site": "https://perso.liris.cnrs.fr/tristan.roussillon/",
 "statut": "MCF",
 "employeur": "INSA Lyon",
-"emerite": false
+"emerite": false,
+"domaines": "géométrie discrète, surfaces digitales"
 },
 {
 "nom": "Corentin Salaün",
 "site": "https://liris.cnrs.fr/page-membre/corentin-salaun",
 "statut": "MCF",
 "employeur": "Université Claude Bernard Lyon 1",
-"emerite": false
+"emerite": false,
+"domaines": "rendu Monte Carlo, échantillonnage"
 },
 {
 "nom": "Vincent Vidal",
 "site": "https://perso.liris.cnrs.fr/vincent.vidal/",
 "statut": "MCF",
 "employeur": "Université Claude Bernard Lyon 1",
-"emerite": false
+"emerite": false,
+"domaines": "traitement de maillages, compression, qualité"
 },
 {
 "nom": "Sophie Villenave",
 "site": "https://liris.cnrs.fr/page-membre/sophie-villenave",
 "statut": "MCF",
 "employeur": "Centrale Innovation",
-"emerite": false
+"emerite": false,
+"domaines": "réalité virtuelle, retour thermique et haptique"
 },
 {
 "nom": "Florence Zara",
 "site": "https://perso.liris.cnrs.fr/fzara/Web/",
 "statut": "MCF",
 "employeur": "Université Claude Bernard Lyon 1",
-"emerite": false
+"emerite": false,
+"domaines": "simulation physique, simulateurs médicaux, haptique"
 }
 ],
 "source": "https://origami.projet.liris.cnrs.fr/members/"
@@ -1397,49 +1585,56 @@
 "site": "https://liris.cnrs.fr/page-membre/saida-bouakaz",
 "statut": "PR",
 "employeur": "Université Claude Bernard Lyon 1",
-"emerite": false
+"emerite": false,
+"domaines": "simulation de fluides SPH, mouvement humain"
 },
 {
 "nom": "Elodie Desserée",
 "site": "https://liris.cnrs.fr/page-membre/elodie-desseree",
 "statut": "MCF",
 "employeur": "Université Claude Bernard Lyon 1",
-"emerite": false
+"emerite": false,
+"domaines": "imagerie médicale, suivi de tumeurs"
 },
 {
 "nom": "Erwan Guillou",
 "site": "https://liris.cnrs.fr/page-membre/erwan-guillou",
 "statut": "MCF",
 "employeur": "Université Claude Bernard Lyon 1",
-"emerite": false
+"emerite": false,
+"domaines": "interaction en RV, vision"
 },
 {
 "nom": "Hamid Ladjal",
 "site": "https://liris.cnrs.fr/page-membre/hamid-ladjal",
 "statut": "MCF",
 "employeur": "Université Claude Bernard Lyon 1",
-"emerite": false
+"emerite": false,
+"domaines": "modélisation biomécanique, radiothérapie, imagerie médicale"
 },
 {
 "nom": "Alexandre Meyer",
 "site": "http://alexandre.meyer.pages.univ-lyon1.fr/www/",
 "statut": "PR",
 "employeur": "Université Claude Bernard Lyon 1",
-"emerite": false
+"emerite": false,
+"domaines": "animation de personnages, capture de mouvement, RV"
 },
 {
 "nom": "Nicolas Pronost",
 "site": "https://perso.liris.cnrs.fr/nicolas.pronost/",
 "statut": "MCF",
 "employeur": "Université Claude Bernard Lyon 1",
-"emerite": false
+"emerite": false,
+"domaines": "animation de personnages, simulation physique, SPH"
 },
 {
 "nom": "Behzad Shariat",
 "site": "https://liris.cnrs.fr/page-membre/behzad-shariat",
 "statut": "PR",
 "employeur": "Université Claude Bernard Lyon 1",
-"emerite": false
+"emerite": false,
+"domaines": "biomécanique, radiothérapie"
 }
 ],
 "source": "https://saara.projet.liris.cnrs.fr/members/"
@@ -1451,91 +1646,104 @@
 "site": null,
 "statut": "PU-PH",
 "employeur": "CHU Montpellier / Université de Montpellier",
-"emerite": false
+"emerite": false,
+"domaines": "chirurgie, anatomie"
 },
 {
 "nom": "Frédéric Comby",
 "site": null,
 "statut": "MCF",
 "employeur": "Université de Montpellier",
-"emerite": false
+"emerite": false,
+"domaines": "stéganalyse, apprentissage"
 },
 {
 "nom": "Martha Duraes",
 "site": null,
 "statut": "MCU-PH",
 "employeur": "CHU Montpellier / Université de Montpellier",
-"emerite": false
+"emerite": false,
+"domaines": "chirurgie, gynécologie"
 },
 {
 "nom": "Noura Faraj",
 "site": "https://www.lirmm.fr/~nfaraj/",
 "statut": "MCF",
 "employeur": "Université de Montpellier",
-"emerite": false
+"emerite": false,
+"domaines": "modélisation 3D, animation, planification chirurgicale"
 },
 {
 "nom": "Emmanuel Faure",
 "site": "https://www.lirmm.fr/~efaure/",
 "statut": "CRCN HDR",
 "employeur": "CNRS",
-"emerite": false
+"emerite": false,
+"domaines": "visualisation 3D d'embryons (MorphoNet), segmentation"
 },
 {
 "nom": "Valentin Favier",
 "site": null,
 "statut": "PU-PH",
 "employeur": "CHU Montpellier / Université de Montpellier",
-"emerite": false
+"emerite": false,
+"domaines": "chirurgie ORL, simulation chirurgicale"
 },
 {
 "nom": "Christophe Fiorio",
 "site": null,
 "statut": "PR",
 "employeur": "Université de Montpellier",
-"emerite": false
+"emerite": false,
+"domaines": "érosion de terrains, lidar, détection d'objets"
 },
 {
 "nom": "Guillaume Gay",
 "site": null,
 "statut": "IR",
 "employeur": "Université de Montpellier",
-"emerite": false
+"emerite": false,
+"domaines": "bio-imagerie, gestion de données"
 },
 {
 "nom": "Nicolas Lutz",
 "site": null,
 "statut": "MCF",
 "employeur": "Université de Montpellier",
-"emerite": false
+"emerite": false,
+"domaines": "synthèse de textures, rendu temps réel"
 },
 {
 "nom": "William Puech",
 "site": "https://www.lirmm.fr/~wpuech/",
 "statut": "PR",
 "employeur": "Université de Montpellier",
-"emerite": false
+"emerite": false,
+"domaines": "sécurité multimédia, chiffrement d'images"
 },
 {
 "nom": "Pauline Puteaux",
 "site": "https://paulineputeaux.github.io/",
 "statut": "CRCN",
 "employeur": "CNRS",
-"emerite": false
+"emerite": false,
+"domaines": "sécurité multimédia, chiffrement"
 },
 {
 "nom": "Olivier Strauss",
 "site": "https://www.lirmm.fr/~strauss/",
 "statut": "PR",
 "employeur": "Université de Montpellier",
-"emerite": false
+"emerite": false,
+"domaines": "logique floue, agrégation, vision robotique"
 },
 {
 "nom": "Gérard Subsol",
 "site": "https://www.lirmm.fr/~subsol/",
 "statut": "CRHC",
 "employeur": "CNRS",
-"emerite": false
+"emerite": false,
+"domaines": "imagerie 3D, morphométrie, simulateurs chirurgicaux haptiques"
 }
 ],
 "source": "https://www.lirmm.fr/icar/permanent.html"
@@ -1547,28 +1755,32 @@
 "site": "https://www.lix.polytechnique.fr/vista/vista-member/marie-paule_cani/index.html",
 "statut": "PR",
 "employeur": "École polytechnique",
-"emerite": false
+"emerite": false,
+"domaines": "modélisation interactive, animation, IA créative"
 },
 {
 "nom": "Vicky Kalogeiton",
 "site": "https://vicky.kalogeiton.info/",
 "statut": "PR",
 "employeur": "École polytechnique",
-"emerite": false
+"emerite": false,
+"domaines": "modèles génératifs, mouvement et caméra, vidéo"
 },
 {
 "nom": "Damien Rohmer",
 "site": "https://damienrohmer.fr/",
 "statut": "PR",
 "employeur": "École polytechnique",
-"emerite": false
+"emerite": false,
+"domaines": "animation de personnages, modélisation 3D, phénomènes naturels"
 },
 {
 "nom": "Xi Wang",
 "site": "https://triocrossing.github.io/",
 "statut": "Assistant Professor (tenure-track)",
 "employeur": "École polytechnique",
-"emerite": false
+"emerite": false,
+"domaines": "génération de mouvement humain, caméra, animation"
 }
 ],
 "source": "https://www.lix.polytechnique.fr/vista/members/index.html"
@@ -1580,35 +1792,40 @@
 "site": "https://jiongchen.github.io/",
 "statut": "Researcher",
 "employeur": "Inria",
-"emerite": false
+"emerite": false,
+"domaines": "simulation physique, déformation, BEM"
 },
 {
 "nom": "Mathieu Desbrun",
 "site": "https://pages.saclay.inria.fr/mathieu.desbrun/",
 "statut": "Senior Researcher",
 "employeur": "Inria",
-"emerite": false
+"emerite": false,
+"domaines": "traitement de géométrie, simulation de fluides, géométrie discrète"
 },
 {
 "nom": "Pooran Memari",
 "site": "https://www.lix.polytechnique.fr/~memari/",
 "statut": "Researcher HDR",
 "employeur": "CNRS",
-"emerite": false
+"emerite": false,
+"domaines": "modélisation par esquisse, Delaunay, édition de textures"
 },
 {
 "nom": "Steve Oudot",
 "site": "https://geometrica.saclay.inria.fr/Steve.Oudot/",
 "statut": "Senior Researcher",
 "employeur": "Inria",
-"emerite": false
+"emerite": false,
+"domaines": "analyse topologique de données, persistance"
 },
 {
 "nom": "Maks Ovsjanikov",
 "site": "https://www.lix.polytechnique.fr/~maks/",
 "statut": "Senior Researcher",
 "employeur": "LIX",
-"emerite": false
+"emerite": false,
+"domaines": "traitement de géométrie, correspondance de formes, cartes fonctionnelles"
 }
 ],
 "source": "https://radar.inria.fr/report/2025/geomerix/"
@@ -1620,21 +1837,24 @@
 "site": "https://elan.inrialpes.fr/people/bertails/",
 "statut": "Senior Researcher",
 "employeur": "Inria",
-"emerite": false
+"emerite": false,
+"domaines": "simulation physique, tiges élastiques, contact frottant"
 },
 {
 "nom": "Victor Romero Gramegna",
 "site": "https://elan.inrialpes.fr/people/vromerog/",
 "statut": "ISFP",
 "employeur": "Inria",
-"emerite": false
+"emerite": false,
+"domaines": "simulation physique, coques élastiques"
 },
 {
 "nom": "Thibaut Metivet",
 "site": "https://tmetivet.gitlab.io/webpage/",
 "statut": "Researcher",
 "employeur": "Inria",
-"emerite": false
+"emerite": false,
+"domaines": "simulation physique, contact frottant, mécanique"
 }
 ],
 "source": "https://radar.inria.fr/report/2025/elan/"
@@ -1646,42 +1866,48 @@
 "site": "https://maverick.inria.fr/~Nicolas.Holzschuch/",
 "statut": "Senior Researcher",
 "employeur": "Inria",
-"emerite": false
+"emerite": false,
+"domaines": "rendu, apparence, milieux participants"
 },
 {
 "nom": "Fabrice Neyret",
 "site": "https://www-evasion.imag.fr/Membres/Fabrice.Neyret/",
 "statut": "Senior Researcher",
 "employeur": "CNRS",
-"emerite": false
+"emerite": false,
+"domaines": "rendu temps réel, phénomènes naturels, volumes"
 },
 {
 "nom": "Cyril Soler",
 "site": "https://maverick.inria.fr/~Cyril.Soler/",
 "statut": "Researcher HDR",
 "employeur": "Inria",
-"emerite": false
+"emerite": false,
+"domaines": "transport de lumière, BRDF, rendu"
 },
 {
 "nom": "Joëlle Thollot",
 "site": "https://maverick.inria.fr/~Joelle.Thollot/",
 "statut": "Professor",
 "employeur": "Grenoble INP",
-"emerite": false
+"emerite": false,
+"domaines": "rendu expressif, cartographie"
 },
 {
 "nom": "Thibault Tricard",
 "site": "http://thibaulttricard.fr/",
 "statut": "Associate Professor",
 "employeur": "Grenoble INP",
-"emerite": false
+"emerite": false,
+"domaines": "rendu temps réel, fabrication additive"
 },
 {
 "nom": "Romain Vergne",
 "site": "https://maverick.inria.fr/~Romain.Vergne/",
 "statut": "Associate Professor",
 "employeur": "UGA",
-"emerite": false
+"emerite": false,
+"domaines": "rendu expressif, cartographie, apparence"
 }
 ],
 "source": "https://radar.inria.fr/report/2025/maverick/"
@@ -1693,35 +1919,40 @@
 "site": "https://team.inria.fr/craft/georges-pierre-bonneau/",
 "statut": "Professor",
 "employeur": "UGA",
-"emerite": false
+"emerite": false,
+"domaines": "modélisation géométrique, esquisse 3D, fabrication"
 },
 {
 "nom": "Guillaume Coiffier",
 "site": "https://gcoiffier.github.io/",
 "statut": "Researcher",
 "employeur": "Inria",
-"emerite": false
+"emerite": false,
+"domaines": "paramétrisation de surfaces, quadmeshing, surfaces implicites"
 },
 {
 "nom": "Marco Freire",
 "site": "https://mfremer.github.io/",
 "statut": "Associate Professor",
 "employeur": "Grenoble INP",
-"emerite": false
+"emerite": false,
+"domaines": "fabrication numérique, modélisation"
 },
 {
 "nom": "Stefanie Hahmann",
 "site": "https://team.inria.fr/craft/stefanie-hahmann/",
 "statut": "Professor",
 "employeur": "Grenoble INP",
-"emerite": false
+"emerite": false,
+"domaines": "modélisation géométrique, esquisse 3D, fabrication"
 },
 {
 "nom": "Mélina Skouras",
 "site": "https://imagine.inrialpes.fr/people/mskouras/index.htm",
 "statut": "Researcher",
 "employeur": "Inria",
-"emerite": false
+"emerite": false,
+"domaines": "fabrication numérique, conception inverse, simulation"
 }
 ],
 "source": "https://radar.inria.fr/report/2025/craft/"
@@ -1733,28 +1964,32 @@
 "site": null,
 "statut": "Senior Researcher",
 "employeur": "Inria",
-"emerite": false
+"emerite": false,
+"domaines": "capture 4D, reconstruction multi-vues, modélisation humaine"
 },
 {
 "nom": "Jean-Sébastien Franco",
 "site": "https://morpheo.inrialpes.fr/~franco/",
 "statut": "Senior Researcher",
 "employeur": "Inria",
-"emerite": false
+"emerite": false,
+"domaines": "capture 4D, reconstruction 3D, humains"
 },
 {
 "nom": "Sergi Pujades",
 "site": null,
 "statut": "Associate Professor HDR",
 "employeur": "UGA",
-"emerite": false
+"emerite": false,
+"domaines": "modèles de corps humain, formes médicales 3D"
 },
 {
 "nom": "Stefanie Wuhrer",
 "site": "https://swuhrer.gitlabpages.inria.fr/website/",
 "statut": "Researcher HDR",
 "employeur": "Inria",
-"emerite": false
+"emerite": false,
+"domaines": "analyse de formes 3D, humains, simulation de vêtements"
 }
 ],
 "source": "https://team.inria.fr/kinetix/team/"
@@ -1766,70 +2001,80 @@
 "site": "https://pageperso.lis-lab.fr/alexandra.bac/",
 "statut": "MCF HDR",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "topologie algorithmique, maillages, modélisation géométrique"
 },
 {
 "nom": "Clémence Chomicki",
 "site": null,
 "statut": "",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": ""
 },
 {
 "nom": "Brett Desbenoit",
 "site": "https://g-mod.lis-lab.fr/membres/brett-desbenoit/",
 "statut": "MCF",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "modélisation procédurale, scènes naturelles et urbaines"
 },
 {
 "nom": "Aldo Gonzalez-Lorenzo",
 "site": "https://pageperso.lis-lab.fr/aldo.gonzalez-lorenzo/",
 "statut": "MCF",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "topologie algorithmique, géométrie algorithmique"
 },
 {
 "nom": "Ricardo Uribe Lobello",
 "site": "https://g-mod.lis-lab.fr/membres/ricardo-uribe-lobello/",
 "statut": "MCF",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "extraction de surfaces, maillages, squelettisation"
 },
 {
 "nom": "Jean-Luc Mari",
 "site": "https://g-mod.lis-lab.fr/membres/jean-luc-mari/",
 "statut": "PR",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "modélisation géométrique, maillages, squelettes"
 },
 {
 "nom": "Sébastien Mavromatis",
 "site": "https://g-mod.lis-lab.fr/membres/sebastien-mavromatis/",
 "statut": "PR",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "traitement d'image, BRDF hyperspectrales"
 },
 {
 "nom": "Yvàn Rasskin",
 "site": null,
 "statut": "MCF",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "géométrie discrète, empilements de sphères, fractales"
 },
 {
 "nom": "Éric Remy",
 "site": "https://g-mod.lis-lab.fr/membres/eric-remy/",
 "statut": "MCF",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "géométrie discrète, compression de maillages dynamiques"
 },
 {
 "nom": "Sébastien Thon",
 "site": "https://g-mod.lis-lab.fr/membres/sebastien-thon/",
 "statut": "MCF",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "installations artistiques, rendu spectral GPU"
 }
 ],
 "source": "https://www.lis-lab.fr/gmod/"
@@ -1841,91 +2086,104 @@
 "site": "https://perso.telecom-paristech.fr/angelini/",
 "statut": "Professor",
 "employeur": "Télécom Paris",
-"emerite": false
+"emerite": false,
+"domaines": "imagerie médicale, apprentissage"
 },
 {
 "nom": "Quentin Bammey",
 "site": "https://bammey.com/",
 "statut": "Associate Professor",
 "employeur": "Télécom Paris",
-"emerite": false
+"emerite": false,
+"domaines": "criminalistique d'images, détection de falsifications"
 },
 {
 "nom": "Maxime Di Folco",
 "site": "https://www.telecom-paris.fr/maxime-di-folco",
 "statut": "Assistant Professor",
 "employeur": "Télécom Paris",
-"emerite": false
+"emerite": false,
+"domaines": "imagerie cardiaque, apprentissage de variétés"
 },
 {
 "nom": "Loïc Le Folgoc",
 "site": "https://perso.telecom-paristech.fr/lefolgoc/",
 "statut": "Associate Professor",
 "employeur": "Télécom Paris",
-"emerite": false
+"emerite": false,
+"domaines": "imagerie médicale, apprentissage"
 },
 {
 "nom": "Pietro Gori",
 "site": "https://pietrogori.github.io/",
 "statut": "Professor",
 "employeur": "Télécom Paris",
-"emerite": false
+"emerite": false,
+"domaines": "imagerie médicale, apprentissage contrastif"
 },
 {
 "nom": "Yann Gousseau",
 "site": "https://gousseau.wp.imt.fr/",
 "statut": "Professor",
 "employeur": "Télécom Paris",
-"emerite": false
+"emerite": false,
+"domaines": "synthèse de textures, traitement d'image"
 },
 {
 "nom": "Christophe Kervazo",
 "site": "https://sites.google.com/view/christophekervazo/",
 "statut": "Associate Professor",
 "employeur": "Télécom Paris",
-"emerite": false
+"emerite": false,
+"domaines": "séparation de sources, télédétection"
 },
 {
 "nom": "Said Ladjal",
 "site": "https://perso.telecom-paristech.fr/ladjal/",
 "statut": "Professor",
 "employeur": "Télécom Paris",
-"emerite": false
+"emerite": false,
+"domaines": "traitement d'image, rendu de grain argentique"
 },
 {
 "nom": "Arthur Leclaire",
 "site": "https://perso.telecom-paristech.fr/aleclaire/",
 "statut": "Professor",
 "employeur": "Télécom Paris",
-"emerite": false
+"emerite": false,
+"domaines": "problèmes inverses, plug-and-play, optimisation"
 },
 {
 "nom": "Amal Dev Parakkat",
 "site": "https://perso.telecom-paristech.fr/parakkat/",
 "statut": "Associate Professor",
 "employeur": "Télécom Paris",
-"emerite": false
+"emerite": false,
+"domaines": "reconstruction de surfaces, sketching, modélisation de formes"
 },
 {
 "nom": "Florence Tupin",
 "site": "https://perso.telecom-paristech.fr/tupin/",
 "statut": "Professor",
 "employeur": "Télécom Paris",
-"emerite": false
+"emerite": false,
+"domaines": "imagerie radar SAR, télédétection"
 },
 {
 "nom": "Kiwon Um",
 "site": "https://perso.telecom-paristech.fr/kum/",
 "statut": "Associate Professor",
 "employeur": "Télécom Paris",
-"emerite": false
+"emerite": false,
+"domaines": "simulation physique, fluides, animation"
 },
 {
 "nom": "Henri Maître",
 "site": "https://perso.telecom-paristech.fr/maitre/",
 "statut": "Professor Emeritus",
 "employeur": "Télécom Paris",
-"emerite": true
+"emerite": true,
+"domaines": "esthétique de la photographie, traitement d'image"
 }
 ],
 "source": "https://www.telecom-paris.fr/en/research/labs/information-processing-ltci/teams/image-modeling-analysis-geometry-synthesis"
@@ -1937,140 +2195,160 @@
 "site": null,
 "statut": "MCF",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "topologie pour la modélisation, didactique informatique"
 },
 {
 "nom": "Eric Andres",
 "site": null,
 "statut": "PR",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "géométrie discrète, rotations numériques"
 },
 {
 "nom": "Agnès Arnould",
 "site": null,
 "statut": "MCF",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "modélisation à base topologique, cartes généralisées"
 },
 {
 "nom": "Yves Bertrand",
 "site": null,
 "statut": "PR",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "modélisation à base topologique, cartes combinatoires"
 },
 {
 "nom": "Nicolas Courilleau",
 "site": null,
 "statut": "MCF de l'enseignement supérieur agricole",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "visualisation interactive, données volumiques, GPU"
 },
 {
 "nom": "Hakim Ferrier-Belhaouari",
 "site": null,
 "statut": "MCF",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "modélisation géométrique, transformations de graphes"
 },
 {
 "nom": "Laurent Fuchs",
 "site": null,
 "statut": "PR",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "courbes de Bézier rationnelles, cyclides de Dupin"
 },
 {
 "nom": "Sébastien Horna",
 "site": null,
 "statut": "PR",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "modélisation 3D, reconstruction, lancer de rayons"
 },
 {
 "nom": "Gaëlle Largeteau-Skapin",
 "site": null,
 "statut": "MCF",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "géométrie discrète, grilles non cubiques"
 },
 {
 "nom": "Pascal Lienhardt",
 "site": null,
 "statut": "PR",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "modélisation à base topologique, homologie"
 },
 {
 "nom": "Maxime Maria",
 "site": null,
 "statut": "MCF",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "visualisation moléculaire, GPU, diagrammes de Voronoï"
 },
 {
 "nom": "Daniel Meneveaux",
 "site": "https://d-meneveaux.blogspot.com/",
 "statut": "PR",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "apparence, matériaux, rendu"
 },
 {
 "nom": "Philippe Meseure",
 "site": null,
 "statut": "PR",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "modélisation topologique, animation, simulation"
 },
 {
 "nom": "Marc Parenthoën",
 "site": null,
 "statut": "MCF",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "formation immersive, gestion de crise cyber"
 },
 {
 "nom": "Samuel Peltier",
 "site": null,
 "statut": "PR",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "modélisation géométrique, structures topologiques, Bézier simploïdaux"
 },
 {
 "nom": "Wassim Rharbaoui",
 "site": null,
 "statut": "MCF",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "homologie pour la modélisation, vision par ordinateur"
 },
 {
 "nom": "Mickaël Ribardière",
 "site": null,
 "statut": "MCF",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "BSDF, apparence, rendu"
 },
 {
 "nom": "Xavier Skapin",
 "site": null,
 "statut": "MCF",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "modélisation à base topologique, cartes généralisées"
 },
 {
 "nom": "Gilles Subrenat",
 "site": null,
 "statut": "MCF",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": ""
 },
 {
 "nom": "Rita Zrour",
 "site": null,
 "statut": "MCF",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "géométrie discrète, reconstruction 3D médicale"
 }
 ],
 "source": "https://www.xlim.fr/annuaire/?axe=ASALI&equipe=IG"
@@ -2082,70 +2360,80 @@
 "site": "https://www.unilim.fr/pages_perso/frederic.claux/",
 "statut": "MCF",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "rendu (BRDF, impression 3D), imagerie médicale"
 },
 {
 "nom": "Benoît Crespin",
 "site": "https://www.unilim.fr/pages_perso/benoit.crespin/",
 "statut": "PR",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "simulation de fluides, réalité virtuelle, maillages"
 },
 {
 "nom": "Mohamed Hamroun",
 "site": null,
 "statut": "Enseignant-chercheur",
 "employeur": "3IL",
-"emerite": false
+"emerite": false,
+"domaines": "recherche d'images par le contenu, apprentissage"
 },
 {
 "nom": "Vincent Jolivet",
 "site": null,
 "statut": "MCF",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "humanités numériques"
 },
 {
 "nom": "Georges Miaoulis",
 "site": null,
 "statut": "PR",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "modélisation déclarative, visualisation pour la décision"
 },
 {
 "nom": "Frédéric Mora",
 "site": "https://www.unilim.fr/pages_perso/frederic.mora/",
 "statut": "MCF",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "rendu, visibilité, ombres"
 },
 {
 "nom": "Nicolas Mérillou",
 "site": null,
 "statut": "MCF",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "vieillissement de scènes, rendu, capture 3D"
 },
 {
 "nom": "Stéphane Mérillou",
 "site": "https://www.unilim.fr/pages_perso/stephane.merillou/",
 "statut": "PR",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "visualisation moléculaire, rendu, apparence"
 },
 {
 "nom": "Nathan Sanchiz-Viel",
 "site": null,
 "statut": "MCF",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "nuages de points LiDAR, reconstruction"
 },
 {
 "nom": "Olivier Terraz",
 "site": null,
 "statut": "PR",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "modélisation topologique, simulation de phénomènes naturels"
 }
 ],
 "source": "https://www.xlim.fr/annuaire/?equipe=SIR"
@@ -2157,35 +2445,40 @@
 "site": "https://xavierchermain.github.io/",
 "statut": "ISFP",
 "employeur": "Inria",
-"emerite": false
+"emerite": false,
+"domaines": "rendu, BRDF, fabrication numérique"
 },
 {
 "nom": "Sylvain Lefebvre",
 "site": "https://www.antexel.com/sylefeb-research/",
 "statut": "Senior Researcher (DR)",
 "employeur": "Inria",
-"emerite": false
+"emerite": false,
+"domaines": "fabrication numérique, impression 3D, modélisation"
 },
 {
 "nom": "Jonàs Martínez",
 "site": "https://sites.google.com/site/jonasmartinezbayona/",
 "statut": "Researcher (CR)",
 "employeur": "Inria",
-"emerite": false
+"emerite": false,
+"domaines": "fabrication numérique, matériaux structurés, simulation"
 },
 {
 "nom": "Camille Schreck",
 "site": "https://schreckc.github.io/",
 "statut": "ISFP",
 "employeur": "Inria",
-"emerite": false
+"emerite": false,
+"domaines": "simulation physique, fabrication, électronique 3D"
 },
 {
 "nom": "Cédric Zanni",
 "site": "https://members.loria.fr/CZanni/",
 "statut": "Associate Professor (MCF)",
 "employeur": "Université de Lorraine",
-"emerite": false
+"emerite": false,
+"domaines": "surfaces implicites, lancer de rayons, fabrication"
 }
 ],
 "source": "https://radar.inria.fr/report/2025/mfx/"
@@ -2197,35 +2490,40 @@
 "site": "https://members.loria.fr/LAlonso/",
 "statut": "Researcher",
 "employeur": "Inria",
-"emerite": false
+"emerite": false,
+"domaines": "diagrammes de puissance GPU, géométrie"
 },
 {
 "nom": "Dobrina Boltcheva",
 "site": "https://members.loria.fr/DBoltcheva/",
 "statut": "Associate Professor",
 "employeur": "Université de Lorraine",
-"emerite": false
+"emerite": false,
+"domaines": "modélisation depuis nuages de points, maillages, XR"
 },
 {
 "nom": "Étienne Corman",
 "site": "https://members.loria.fr/ECorman/",
 "statut": "Researcher",
 "employeur": "CNRS",
-"emerite": false
+"emerite": false,
+"domaines": "paramétrisation, maillage, déformations"
 },
 {
 "nom": "Nicolas Ray",
 "site": "https://members.loria.fr/NRay/",
 "statut": "Researcher",
 "employeur": "Inria",
-"emerite": false
+"emerite": false,
+"domaines": "geometry processing, maillages quad/hex"
 },
 {
 "nom": "Dmitry Sokolov",
 "site": "https://haqr.eu/",
 "statut": "Professor",
 "employeur": "Université de Lorraine",
-"emerite": false
+"emerite": false,
+"domaines": "maillage, paramétrisation, geometry processing"
 }
 ],
 "source": "https://radar.inria.fr/report/2025/pixel/"
@@ -2237,49 +2535,56 @@
 "site": "https://www.labri.fr/perso/barla/",
 "statut": "Researcher, HDR",
 "employeur": "Inria",
-"emerite": false
+"emerite": false,
+"domaines": "apparence, rendu, animation 2D"
 },
 {
 "nom": "Jean Basset",
 "site": "https://jbasset.github.io/",
 "statut": "Associate Professor",
 "employeur": "Université de Bordeaux",
-"emerite": false
+"emerite": false,
+"domaines": "animation, rendu expressif"
 },
 {
 "nom": "Pierre Bénard",
 "site": "https://www.labri.fr/perso/pbenard/",
 "statut": "Associate Professor",
 "employeur": "Université de Bordeaux",
-"emerite": false
+"emerite": false,
+"domaines": "rendu expressif, animation 2D/3D, acquisition SVBRDF"
 },
 {
 "nom": "Morgane Gerardin",
 "site": "https://morganegerardin.github.io/",
 "statut": "Researcher",
 "employeur": "Inria",
-"emerite": false
+"emerite": false,
+"domaines": "métrologie optique, apparence des matériaux"
 },
 {
 "nom": "Gaël Guennebaud",
 "site": "https://www.labri.fr/perso/guenneba/",
 "statut": "Researcher",
 "employeur": "Inria",
-"emerite": false
+"emerite": false,
+"domaines": "impact environnemental du numérique, rendu spectral"
 },
 {
 "nom": "Romain Pacanowski",
 "site": "https://people.bordeaux.inria.fr/romain.pacanowski/",
 "statut": "Researcher, HDR",
 "employeur": "Inria",
-"emerite": false
+"emerite": false,
+"domaines": "BRDF, apparence, rendu"
 },
 {
 "nom": "Patrick Reuter",
 "site": "https://www.labri.fr/perso/preuter/",
 "statut": "Associate Professor, HDR",
 "employeur": "Université de Bordeaux",
-"emerite": false
+"emerite": false,
+"domaines": "réalité augmentée, interaction 3D, visualisation"
 }
 ],
 "source": "https://radar.inria.fr/report/2025/manao/"
@@ -2291,42 +2596,48 @@
 "site": "http://cozot.free.fr/",
 "statut": "PR",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "photographie computationnelle, HDR, rendu"
 },
 {
 "nom": "Julien Dehos",
 "site": "https://juliendehos.gitlab.io/",
 "statut": "MCF",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "optimisation, apprentissage par renforcement, jeux"
 },
 {
 "nom": "Samuel Delepoulle",
 "site": "https://delepoulle.github.io/",
 "statut": "MCF HDR",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "perception visuelle, illumination globale, cognition"
 },
 {
 "nom": "Christophe Renaud",
 "site": "https://lisic-prod.univ-littoral.fr/author/christopherenaud/",
 "statut": "PR",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "illumination globale, rendu temps réel, patrimoine"
 },
 {
 "nom": "François Rousselle",
 "site": "https://lisic-prod.univ-littoral.fr/author/francoisrousselle/",
 "statut": "MCF",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "rendu, échantillonnage, patrimoine numérique"
 },
 {
 "nom": "Rémi Synave",
 "site": "https://lisic-prod.univ-littoral.fr/author/synave/",
 "statut": "MCF",
 "employeur": "",
-"emerite": false
+"emerite": false,
+"domaines": "synthèse d'images, critère d'arrêt perceptuel, composition"
 }
 ],
 "source": "https://lisic-prod.univ-littoral.fr/equipe/sepia/"
@@ -2338,21 +2649,24 @@
 "site": "http://www-sop.inria.fr/members/Adrien.Bousseau/",
 "statut": "Senior Researcher",
 "employeur": "Inria",
-"emerite": false
+"emerite": false,
+"domaines": "modélisation par sketch, CAO, fabrication"
 },
 {
 "nom": "Guillaume Cordonnier",
 "site": "http://www-sop.inria.fr/members/Guillaume.Cordonnier/",
 "statut": "Researcher",
 "employeur": "Inria",
-"emerite": false
+"emerite": false,
+"domaines": "simulation de phénomènes naturels, terrains"
 },
 {
 "nom": "George Drettakis",
 "site": "http://www-sop.inria.fr/members/George.Drettakis/",
 "statut": "Senior Researcher",
 "employeur": "Inria",
-"emerite": false
+"emerite": false,
+"domaines": "rendu neuronal, Gaussian splatting, rendu à base d'images"
 }
 ],
 "source": "https://radar.inria.fr/report/2025/graphdeco/"
@@ -2364,21 +2678,24 @@
 "site": "https://team.inria.fr/titane/pierre-alliez/",
 "statut": "Senior Researcher",
 "employeur": "Inria",
-"emerite": false
+"emerite": false,
+"domaines": "geometry processing, reconstruction de surfaces, maillage"
 },
 {
 "nom": "Florent Lafarge",
 "site": "https://www-sop.inria.fr/members/Florent.Lafarge/",
 "statut": "Senior Researcher",
 "employeur": "Inria",
-"emerite": false
+"emerite": false,
+"domaines": "reconstruction 3D urbaine, nuages de points"
 },
 {
 "nom": "François Protais",
 "site": "https://fprotais.github.io/",
 "statut": "Researcher",
 "employeur": "Inria",
-"emerite": false
+"emerite": false,
+"domaines": "maillage hexaédrique, paramétrisation"
 }
 ],
 "source": "https://radar.inria.fr/report/2025/titane/"
@@ -2390,35 +2707,40 @@
 "site": "https://florentcabric.com/",
 "statut": "Associate Professor",
 "employeur": "Université Paris-Saclay",
-"emerite": false
+"emerite": false,
+"domaines": "visualisation d'information, IHM"
 },
 {
 "nom": "Jean-Daniel Fekete",
 "site": "http://www.aviz.fr/~fekete/",
 "statut": "Senior Researcher (DR)",
 "employeur": "Inria",
-"emerite": false
+"emerite": false,
+"domaines": "visualisation d'information, visual analytics"
 },
 {
 "nom": "Petra Isenberg",
 "site": "http://petra.isenberg.cc/",
 "statut": "Senior Researcher (DR)",
 "employeur": "Inria",
-"emerite": false
+"emerite": false,
+"domaines": "visualisation, évaluation, visual analytics"
 },
 {
 "nom": "Tobias Isenberg",
 "site": "http://tobias.isenberg.cc/",
 "statut": "Senior Researcher (DR)",
 "employeur": "Inria",
-"emerite": false
+"emerite": false,
+"domaines": "visualisation scientifique, interaction 3D, rendu illustratif"
 },
 {
 "nom": "Frédéric Vernier",
 "site": "http://vernier.frederic.free.fr/?Content=Infovis",
 "statut": "Associate Professor",
 "employeur": "Université Paris-Saclay",
-"emerite": false
+"emerite": false,
+"domaines": "visualisation, atlas linguistiques"
 }
 ],
 "source": "https://radar.inria.fr/report/2025/aviz/"
@@ -2430,35 +2752,40 @@
 "site": null,
 "statut": "CR",
 "employeur": "Inria",
-"emerite": false
+"emerite": false,
+"domaines": "simulation biomécanique patient-spécifique, planification chirurgicale"
 },
 {
 "nom": "Stéphane Cotin",
 "site": "https://team.inria.fr/mimesis/members/stephane-cotin/",
 "statut": "DR",
 "employeur": "Inria",
-"emerite": false
+"emerite": false,
+"domaines": "simulation médicale temps réel, mécanique des tissus mous, SOFA, jumeaux numériques"
 },
 {
 "nom": "Hadrien Courtecuisse",
 "site": "https://hadrien.courtecuisse.cnrs.fr",
 "statut": "CR",
 "employeur": "CNRS",
-"emerite": false
+"emerite": false,
+"domaines": "simulation physique temps réel GPU, contacts et découpe, simulateurs haptiques, robotique médicale"
 },
 {
 "nom": "Michel Duprez",
 "site": "https://michelduprez.fr",
 "statut": "CR",
 "employeur": "Inria",
-"emerite": false
+"emerite": false,
+"domaines": "analyse numérique, méthode φ-FEM, contrôle des EDP"
 },
 {
 "nom": "Axel Hutt",
 "site": null,
 "statut": "DR",
 "employeur": "Inria",
-"emerite": false
+"emerite": false,
+"domaines": "neurosciences computationnelles, dynamique neuronale, anesthésie"
 }
 ],
 "source": "https://team.inria.fr/mimesis/members/"
@@ -2470,161 +2797,184 @@
 "site": "https://www.ibisc.univ-evry.fr/membre?user=238",
 "statut": "PR",
 "employeur": "Université d'Évry Paris-Saclay",
-"emerite": false
+"emerite": false,
+"domaines": "robotique humanoïde, exosquelettes, robotique portable"
 },
 {
 "nom": "Hichem Arioui",
 "site": "https://www.ibisc.univ-evry.fr/~harioui/",
 "statut": "PR",
 "employeur": "Université d'Évry Paris-Saclay",
-"emerite": false
+"emerite": false,
+"domaines": "automatique, véhicules deux-roues, simulateurs de conduite"
 },
 {
 "nom": "Laredj Benchikh",
 "site": "https://www.ibisc.univ-evry.fr/membre?user=27",
 "statut": "MCF",
 "employeur": "Université d'Évry Paris-Saclay",
-"emerite": false
+"emerite": false,
+"domaines": "robotique, manipulation aérienne, planification de trajectoires"
 },
 {
 "nom": "Guillaume Bouyer",
 "site": "https://www.ibisc.univ-evry.fr/~gbouyer/",
 "statut": "MCF",
 "employeur": "Université d'Évry Paris-Saclay",
-"emerite": false
+"emerite": false,
+"domaines": "réalité virtuelle et augmentée, haptique, rééducation"
 },
 {
 "nom": "Aylen Ricca Cambón",
 "site": "https://www.ibisc.univ-evry.fr/membre?user=151",
 "statut": "MCF",
 "employeur": "Université d'Évry Paris-Saclay",
-"emerite": false
+"emerite": false,
+"domaines": "réalité virtuelle, haptique, simulateurs de formation, rééducation"
 },
 {
 "nom": "Rémi Chalard",
 "site": "https://www.ibisc.univ-evry.fr/membre?user=339",
 "statut": "MCF",
 "employeur": "Université d'Évry Paris-Saclay",
-"emerite": false
+"emerite": false,
+"domaines": "haptique, simulateurs médicaux, muscles artificiels pneumatiques"
 },
 {
 "nom": "Amine Chellali",
 "site": "https://amine-chellali.name/",
 "statut": "MCF HDR",
 "employeur": "Université d'Évry Paris-Saclay",
-"emerite": false
+"emerite": false,
+"domaines": "réalité virtuelle, haptique, formation chirurgicale, collaboration"
 },
 {
 "nom": "Frédéric Davesne",
 "site": "https://www.ibisc.univ-evry.fr/~fdavesne",
 "statut": "IR",
 "employeur": "Université d'Évry Paris-Saclay",
-"emerite": false
+"emerite": false,
+"domaines": "plate-forme RV/RA EVR@, interfaces naturelles, reconnaissance de gestes"
 },
 {
 "nom": "Jean-Yves Didier",
 "site": "https://www.ibisc.univ-evry.fr/~jydidier",
 "statut": "PR",
 "employeur": "Université d'Évry Paris-Saclay",
-"emerite": false
+"emerite": false,
+"domaines": "réalité augmentée, réalité virtuelle, jumeaux numériques XR, perception"
 },
 {
 "nom": "Khalifa Djemal",
 "site": "http://lsc.univ-evry.fr/~djemal/",
 "statut": "PR",
 "employeur": "Université d'Évry Paris-Saclay",
-"emerite": false
+"emerite": false,
+"domaines": "traitement d'images, apprentissage, segmentation"
 },
 {
 "nom": "Hicham Hadj-Abdelkader",
 "site": "https://www.ibisc.univ-evry.fr/~hhadjabdelkader/",
 "statut": "MCF",
 "employeur": "Université d'Évry Paris-Saclay",
-"emerite": false
+"emerite": false,
+"domaines": "vision robotique, asservissement visuel, robotique mobile"
 },
 {
 "nom": "Guillaume Loup",
 "site": "https://www.ibisc.univ-evry.fr/~gloup",
 "statut": "MCF",
 "employeur": "Université d'Évry Paris-Saclay",
-"emerite": false
+"emerite": false,
+"domaines": "réalité virtuelle, accessibilité, environnements immersifs d'apprentissage"
 },
 {
 "nom": "Malik Mallem",
 "site": "http://lsc.univ-evry.fr/~mallem/doku/doku.php?id=start",
 "statut": "PR",
 "employeur": "Université d'Évry Paris-Saclay",
-"emerite": false
+"emerite": false,
+"domaines": "réalité augmentée, vision 3D, SLAM, robots humanoïdes"
 },
 {
 "nom": "Christophe Montagne",
 "site": "https://www.ibisc.univ-evry.fr/membre?user=55",
 "statut": "MCF",
 "employeur": "Université d'Évry Paris-Saclay",
-"emerite": false
+"emerite": false,
+"domaines": "reconnaissance de gestes, traitement d'images bio-inspiré"
 },
 {
 "nom": "Najett Neji",
 "site": "https://www.ibisc.univ-evry.fr/membre?user=57",
 "statut": "MCF",
 "employeur": "Université d'Évry Paris-Saclay",
-"emerite": false
+"emerite": false,
+"domaines": "drones, reconnaissance d'actions, génération de mouvement"
 },
 {
 "nom": "Samir Otmane",
 "site": "https://www.ibisc.univ-evry.fr/~sotmane/",
 "statut": "PR",
 "employeur": "Université d'Évry Paris-Saclay",
-"emerite": false
+"emerite": false,
+"domaines": "réalité virtuelle et augmentée, interaction 3D, collaboration, santé"
 },
 {
 "nom": "David Roussel",
 "site": "https://www.ibisc.univ-evry.fr/membre?user=63",
 "statut": "MCF",
 "employeur": "Université d'Évry Paris-Saclay",
-"emerite": false
+"emerite": false,
+"domaines": "vision événementielle, SLAM, réalité augmentée"
 },
 {
 "nom": "Désiré Sidibé",
 "site": "https://www.ibisc.univ-evry.fr/membre?user=237",
 "statut": "PR",
 "employeur": "Université d'Évry Paris-Saclay",
-"emerite": false
+"emerite": false,
+"domaines": "vision par ordinateur, reconstruction neuronale de surfaces, imagerie médicale"
 },
 {
 "nom": "Hang Su",
 "site": "https://www.ibisc.univ-evry.fr/membre?user=368",
 "statut": "PR",
 "employeur": "Université d'Évry Paris-Saclay",
-"emerite": false
+"emerite": false,
+"domaines": "robotique, apprentissage, interaction humain-robot"
 },
 {
 "nom": "Nicolas Séguy",
 "site": "https://www.ibisc.univ-evry.fr/membre?user=64",
 "statut": "MCF",
 "employeur": "Université d'Évry Paris-Saclay",
-"emerite": false
+"emerite": false,
+"domaines": "robotique industrielle, simulateur de moto, mécatronique"
 },
 {
 "nom": "Hédi Tabia",
 "site": "https://www.ibisc.univ-evry.fr/~htabia/",
 "statut": "PR",
 "employeur": "Université d'Évry Paris-Saclay",
-"emerite": false
+"emerite": false,
+"domaines": "vision par ordinateur, analyse de formes 3D, apprentissage profond"
 },
 {
 "nom": "Étienne Colle",
 "site": "https://www.ibisc.univ-evry.fr/membre?user=33",
 "statut": "émérite",
 "employeur": "Université d'Évry Paris-Saclay",
-"emerite": true
+"emerite": true,
+"domaines": "robotique d'assistance, localisation, systèmes multi-agents"
 },
 {
 "nom": "Sylvie Lelandais-Bonadé",
 "site": "https://www.ibisc.univ-evry.fr/membre?user=49",
 "statut": "émérite",
 "employeur": "Université d'Évry Paris-Saclay",
-"emerite": true
+"emerite": true,
+"domaines": "traitement d'images, perception visuelle, réalité augmentée monoculaire"
 }
 ],
 "source": "https://www.ibisc.univ-evry.fr/membre/membre-ira2/"
@@ -2636,91 +2986,104 @@
 "site": "https://labsticc.fr/fr/lab-sticc/annuaire/bouzekri-elodie",
 "statut": "MCF",
 "employeur": "Université de Bretagne Occidentale",
-"emerite": false
+"emerite": false,
+"domaines": "IHM des systèmes critiques, aéronautique, transparence humain-IA"
 },
 {
 "nom": "Gilles Coppin",
 "site": "https://labsticc.fr/fr/lab-sticc/annuaire/coppin-gilles",
 "statut": "PR",
 "employeur": "IMT Atlantique",
-"emerite": false
+"emerite": false,
+"domaines": "IHM, supervision d'essaims, visualisation, réalité augmentée"
 },
 {
 "nom": "Frédéric Devillers",
 "site": "https://labsticc.fr/fr/lab-sticc/annuaire/devillers-frederic",
 "statut": "IR",
 "employeur": "ENIB",
-"emerite": false
+"emerite": false,
+"domaines": "environnements virtuels, apprentissage procédural, animation comportementale"
 },
 {
 "nom": "Thierry Duval",
 "site": "https://sites.google.com/site/thierryduvalwebsite/",
 "statut": "PR",
 "employeur": "IMT Atlantique",
-"emerite": false
+"emerite": false,
+"domaines": "réalité virtuelle et mixte, environnements virtuels collaboratifs, interaction 3D"
 },
 {
 "nom": "Cédric Fleury",
 "site": "https://www.cedricfleury.fr/",
 "statut": "MCF",
 "employeur": "IMT Atlantique",
-"emerite": false
+"emerite": false,
+"domaines": "réalité mixte collaborative, interaction 3D, téléprésence"
 },
 {
 "nom": "Yann Glémarec",
 "site": "https://labsticc.fr/fr/lab-sticc/annuaire/glemarec-yann",
 "statut": "MCF",
 "employeur": "Université de Bretagne Occidentale",
-"emerite": false
+"emerite": false,
+"domaines": "réalité virtuelle, haptique, audiences virtuelles"
 },
 {
 "nom": "Sébastien Kubicki",
 "site": "https://labsticc.fr/fr/lab-sticc/annuaire/kubicki-sebastien",
 "statut": "MCF",
 "employeur": "ENIB",
-"emerite": false
+"emerite": false,
+"domaines": "IHM, interfaces tangibles, réalité augmentée, visualisation située"
 },
 {
 "nom": "Guillaume Moreau",
 "site": "https://guillaumemoreau.github.io",
 "statut": "PR",
 "employeur": "IMT Atlantique",
-"emerite": false
+"emerite": false,
+"domaines": "réalité augmentée et virtuelle, perception, interaction 3D"
 },
 {
 "nom": "Alexis Nédélec",
 "site": "https://labsticc.fr/fr/lab-sticc/annuaire/nedelec-alexis",
 "statut": "MCF",
 "employeur": "ENIB",
-"emerite": false
+"emerite": false,
+"domaines": "agents virtuels, reconnaissance de gestes, interaction humain-personnage virtuel"
 },
 {
 "nom": "Étienne Peillard",
 "site": "https://www.etiennepeillard.com/",
 "statut": "MCF",
 "employeur": "IMT Atlantique",
-"emerite": false
+"emerite": false,
+"domaines": "réalité augmentée, perception de la profondeur, affordances, interaction"
 },
 {
 "nom": "Ronan Querrec",
 "site": "https://labsticc.fr/fr/lab-sticc/annuaire/querrec-ronan",
 "statut": "PR",
 "employeur": "ENIB",
-"emerite": false
+"emerite": false,
+"domaines": "environnements virtuels de formation, réalité mixte, modèles de scénarios"
 },
 {
 "nom": "Jérémy Rivière",
 "site": "https://labsticc.fr/fr/lab-sticc/annuaire/riviere-jeremy",
 "statut": "MCF",
 "employeur": "Université de Bretagne Occidentale",
-"emerite": false
+"emerite": false,
+"domaines": "systèmes multi-agents, essaims de robots, visualisation en réalité augmentée"
 },
 {
 "nom": "Vincent Rodin",
 "site": "https://labsticc.fr/fr/lab-sticc/annuaire/rodin-vincent",
 "statut": "PR",
 "employeur": "Université de Bretagne Occidentale",
-"emerite": false
+"emerite": false,
+"domaines": "simulation multi-agents, modélisation de systèmes complexes"
 }
 ],
 "source": "https://labsticc.fr/fr/equipes/inuit/"
@@ -2732,63 +3095,72 @@
 "site": "https://sbreuils.github.io/",
 "statut": "MCF",
 "employeur": "Université Savoie Mont Blanc",
-"emerite": false
+"emerite": false,
+"domaines": "algèbre géométrique, courbes et surfaces, transformations rigides discrètes"
 },
 {
 "nom": "Valentin Gledel",
 "site": "https://vgledel.github.io/",
 "statut": "MCF",
 "employeur": "Université Savoie Mont Blanc",
-"emerite": false
+"emerite": false,
+"domaines": "jeux combinatoires, théorie des graphes, complexité"
 },
 {
 "nom": "Tom Hirschowitz",
 "site": "https://hirschowitz.pages.math.cnrs.fr/",
 "statut": "DR",
 "employeur": "CNRS",
-"emerite": false
+"emerite": false,
+"domaines": "sémantique des langages, théorie des catégories"
 },
 {
 "nom": "Pierre Hyvernat",
 "site": "https://pierre-hyvernat.apps.math.cnrs.fr/",
 "statut": "MCF",
 "employeur": "Université Savoie Mont Blanc",
-"emerite": false
+"emerite": false,
+"domaines": "logique, types inductifs et coinductifs, terminaison"
 },
 {
 "nom": "Jacques-Olivier Lachaud",
 "site": "https://jacquesolivierlachaud.github.io/",
 "statut": "PR",
 "employeur": "Université Savoie Mont Blanc",
-"emerite": false
+"emerite": false,
+"domaines": "géométrie discrète, estimateurs de courbure, traitement de surfaces digitales"
 },
 {
 "nom": "Karim Nour",
 "site": "http://karim.perso.math.cnrs.fr",
 "statut": "MCF",
 "employeur": "Université Savoie Mont Blanc",
-"emerite": false
+"emerite": false,
+"domaines": "logique, lambda-calcul, réalisabilité"
 },
 {
 "nom": "Sébastien Tavenas",
 "site": "https://tavenas.perso.math.cnrs.fr",
 "statut": "CR",
 "employeur": "CNRS",
-"emerite": false
+"emerite": false,
+"domaines": "complexité algébrique, fewnomials"
 },
 {
 "nom": "Laurent Vuillon",
 "site": "https://laurentvuillon.github.io/",
 "statut": "PR",
 "employeur": "Université Savoie Mont Blanc",
-"emerite": false
+"emerite": false,
+"domaines": "combinatoire des mots, graphes, dynamique moléculaire"
 },
 {
 "nom": "Krzysztof Worytkiewicz",
 "site": "https://www.lama.univ-smb.fr/members/default/worytkiewiczk",
 "statut": "PR",
 "employeur": "Université Savoie Mont Blanc",
-"emerite": false
+"emerite": false,
+"domaines": "théorie des catégories, topologie algébrique"
 }
 ],
 "source": "https://www.lama.univ-smb.fr/members/limd"
@@ -2800,35 +3172,40 @@
 "site": "https://lampa.artsetmetiers.fr/profile/4",
 "statut": "MCF HDR",
 "employeur": "Arts et Métiers (Institut de Laval)",
-"emerite": false
+"emerite": false,
+"domaines": "réalité virtuelle, avatars et incarnation, collaboration immersive"
 },
 {
 "nom": "Sylvain Fleury",
 "site": "https://lampa.artsetmetiers.fr/profile/15",
 "statut": "enseignant-chercheur (CPJ)",
 "employeur": "Arts et Métiers (Institut de Laval)",
-"emerite": false
+"emerite": false,
+"domaines": "psychologie cognitive, apprentissage en RV, expérience utilisateur"
 },
 {
 "nom": "Geoffrey Gorisse",
 "site": "https://lampa.artsetmetiers.fr/profile/42",
 "statut": "MCF",
 "employeur": "Arts et Métiers (Institut de Laval)",
-"emerite": false
+"emerite": false,
+"domaines": "réalité virtuelle, avatars, incarnation, présence sociale"
 },
 {
 "nom": "Abdelmajid Kadri",
 "site": "https://lampa.artsetmetiers.fr/profile/47",
 "statut": "IR",
 "employeur": "Arts et Métiers (Institut de Laval)",
-"emerite": false
+"emerite": false,
+"domaines": "réalité virtuelle pour la santé, humains virtuels expressifs, rééducation"
 },
 {
 "nom": "Simon Richir",
 "site": "https://simonrichir.fr/",
 "statut": "PR",
 "employeur": "Arts et Métiers (Institut de Laval)",
-"emerite": false
+"emerite": false,
+"domaines": "réalité virtuelle et augmentée, IHM, présence, apprentissage immersif"
 }
 ],
 "source": "https://lampa.artsetmetiers.fr/les-personnels?field_equipe_target_id=24"
@@ -2840,105 +3217,120 @@
 "site": "https://www.ls2n.fr/membres/barchouch-i",
 "statut": "MCF",
 "employeur": "Nantes Université",
-"emerite": false
+"emerite": false,
+"domaines": "reconnaissance de croquis, tuteurs intelligents"
 },
 {
 "nom": "Alexandre Bruckert",
 "site": "https://www.ls2n.fr/membres/bruckert-a",
 "statut": "MCF",
 "employeur": "Nantes Université",
-"emerite": false
+"emerite": false,
+"domaines": "saillance visuelle, regard en RV, comportement visuel"
 },
 {
 "nom": "Patrick Le Callet",
 "site": "https://www.ls2n.fr/membres/lecallet-p",
 "statut": "PR",
 "employeur": "Nantes Université",
-"emerite": false
+"emerite": false,
+"domaines": "qualité d'image et de vidéo, perception visuelle, qualité de contenus 3D et immersifs"
 },
 {
 "nom": "Minh Quan Dao",
 "site": "https://www.ls2n.fr/membres/dao-m",
 "statut": "MCF",
 "employeur": "Nantes Université",
-"emerite": false
+"emerite": false,
+"domaines": "détection d'objets 3D LiDAR, véhicules autonomes, perception collaborative"
 },
 {
 "nom": "Pierre Lebranchu",
 "site": "https://www.ls2n.fr/membres/lebranchu-p",
 "statut": "PU-PH",
 "employeur": "CHU de Nantes",
-"emerite": false
+"emerite": false,
+"domaines": "ophtalmologie, neuro-ophtalmologie, vision fonctionnelle"
 },
 {
 "nom": "Thomas Leduc",
 "site": "https://www.ls2n.fr/membres/leduc-t-2",
 "statut": "IR HDR",
 "employeur": "Centrale Nantes",
-"emerite": false
+"emerite": false,
+"domaines": "morphologie urbaine, microclimat, géomatique, marchabilité"
 },
 {
 "nom": "Sébastien Levilly",
 "site": "https://www.ls2n.fr/membres/levilly-s",
 "statut": "MCF",
 "employeur": "Nantes Université",
-"emerite": false
+"emerite": false,
+"domaines": "IRM de flux 4D, super-résolution, imagerie médicale"
 },
 {
 "nom": "Jean-Yves Martin",
 "site": "https://www.ls2n.fr/membres/martin-jy",
 "statut": "MCF",
 "employeur": "Centrale Nantes",
-"emerite": false
+"emerite": false,
+"domaines": "modélisation déclarative, éclairage naturel inverse, bâtiments 3D"
 },
 {
 "nom": "Harold Mouchère",
 "site": "https://www.ls2n.fr/membres/mouchere-h",
 "statut": "PR",
 "employeur": "Nantes Université",
-"emerite": false
+"emerite": false,
+"domaines": "reconnaissance d'écriture manuscrite, expressions mathématiques, analyse de documents"
 },
 {
 "nom": "Nicolas Normand",
 "site": "https://www.ls2n.fr/membres/normand-n",
 "statut": "PR",
 "employeur": "Nantes Université",
-"emerite": false
+"emerite": false,
+"domaines": "imagerie médicale, apprentissage profond, géométrie discrète, transformée Mojette"
 },
 {
 "nom": "Vincent Ricordel",
 "site": "https://www.ls2n.fr/membres/ricordel-v",
 "statut": "MCF HDR",
 "employeur": "Nantes Université",
-"emerite": false
+"emerite": false,
+"domaines": "compression de nuages de points, qualité de contenus volumétriques, codage vidéo"
 },
 {
 "nom": "Myriam Servières",
 "site": "https://www.ls2n.fr/membres/servieres-m-2",
 "statut": "PR",
 "employeur": "Centrale Nantes",
-"emerite": false
+"emerite": false,
+"domaines": "RV urbaine, perception de l'espace urbain, géolocalisation, SLAM"
 },
 {
 "nom": "Matthieu Perreira Da Silva",
 "site": "https://www.ls2n.fr/membres/perreiradasilva-m",
 "statut": "MCF",
 "employeur": "Nantes Université",
-"emerite": false
+"emerite": false,
+"domaines": "attention visuelle, regard en 3D et RV, médias immersifs"
 },
 {
 "nom": "Vincent Tourre",
 "site": "https://www.ls2n.fr/membres/tourre-v-1",
 "statut": "MCF",
 "employeur": "Centrale Nantes",
-"emerite": false
+"emerite": false,
+"domaines": "visualisation géospatiale en RV, environnements urbains, acoustique urbaine"
 },
 {
 "nom": "Toinon Vigier",
 "site": "https://www.ls2n.fr/membres/vigier-t2",
 "statut": "MCF",
 "employeur": "Nantes Université",
-"emerite": false
+"emerite": false,
+"domaines": "qualité d'expérience immersive, nuages de points, réalité virtuelle"
 }
 ],
 "source": "https://www.ls2n.fr/recherche/equipes/membres/ipi"
@@ -2950,98 +3342,112 @@
 "site": "https://www.ls2n.fr/membres/augereau-o",
 "statut": "MCF",
 "employeur": "Centrale Nantes",
-"emerite": false
+"emerite": false,
+"domaines": "apprentissage en RV, charge cognitive, confiance dans l'IA"
 },
 {
 "nom": "Camilo Charron",
 "site": "https://www.ls2n.fr/membres/charron-c",
 "statut": "PR",
 "employeur": "Université Rennes 2",
-"emerite": false
+"emerite": false,
+"domaines": "psychologie cognitive, conduite automatisée, ergonomie"
 },
 {
 "nom": "Mathieu Chollet",
 "site": "https://www.gla.ac.uk/schools/computing/staff/mathieuchollet/",
 "statut": "MA (lecturer)",
 "employeur": "University of Glasgow",
-"emerite": false
+"emerite": false,
+"domaines": "agents virtuels, interaction sociale en RV, informatique affective"
 },
 {
 "nom": "Cédric Dumas",
 "site": "https://www.ls2n.fr/membres/dumas-c-2",
 "statut": "MA",
 "employeur": "IMT Atlantique",
-"emerite": false
+"emerite": false,
+"domaines": "collaboration en environnement virtuel, simulation immersive, IHM"
 },
 {
 "nom": "Rebecca Fribourg",
 "site": "https://rebeccafribourg.com/",
 "statut": "MCF",
 "employeur": "Centrale Nantes",
-"emerite": false
+"emerite": false,
+"domaines": "avatars, incarnation, réalité virtuelle"
 },
 {
 "nom": "Franck Mars",
 "site": "https://www.ls2n.fr/membres/mars-f",
 "statut": "DR",
 "employeur": "CNRS",
-"emerite": false
+"emerite": false,
+"domaines": "psychologie cognitive, conduite automobile, contrôle visuo-moteur"
 },
 {
 "nom": "Isabelle Milleville-Pennel",
 "site": "https://www.ls2n.fr/membres/milleville-i",
 "statut": "CR HDR",
 "employeur": "CNRS",
-"emerite": false
+"emerite": false,
+"domaines": "ergonomie cognitive, charge mentale, présence en RV"
 },
 {
 "nom": "Jean-Marie Normand",
 "site": "https://www.ls2n.fr/membres/normand-jm-2",
 "statut": "PR",
 "employeur": "Centrale Nantes",
-"emerite": false
+"emerite": false,
+"domaines": "réalité virtuelle et augmentée, incarnation, perception en RA"
 },
 {
 "nom": "Étienne Peillard",
 "site": "http://www.etiennepeillard.com/",
 "statut": "MA",
 "employeur": "IMT Atlantique",
-"emerite": false
+"emerite": false,
+"domaines": "réalité augmentée, perception des distances, affordances"
 },
 {
 "nom": "Jean-François Petiot",
 "site": "https://www.ls2n.fr/membres/petiot-jf",
 "statut": "PR",
 "employeur": "Centrale Nantes",
-"emerite": false
+"emerite": false,
+"domaines": "design sonore, ingénierie Kansei, conception centrée utilisateur"
 },
 {
 "nom": "Émilie Poirson",
 "site": "https://www.ls2n.fr/membres/poirson-e",
 "statut": "PR",
 "employeur": "Centrale Nantes",
-"emerite": false
+"emerite": false,
+"domaines": "conception de produits, optimisation d'agencement, ergonomie"
 },
 {
 "nom": "Yannick Prié",
 "site": "https://yannickprie.net/",
 "statut": "PR",
 "employeur": "Nantes Université",
-"emerite": false
+"emerite": false,
+"domaines": "IHM, téléconsultation immersive, analytique immersive"
 },
 {
 "nom": "Jean-Philippe Rivière",
 "site": "https://www.ls2n.fr/membres/riviere-jp",
 "statut": "MCF",
 "employeur": "Nantes Université",
-"emerite": false
+"emerite": false,
+"domaines": "IHM, expérience vécue en RV, présence"
 },
 {
 "nom": "Loïck Simon",
 "site": "https://www.ls2n.fr/membres/simon-l-6",
 "statut": "MCF",
 "employeur": "Centrale Nantes",
-"emerite": false
+"emerite": false,
+"domaines": "coopération humain-machine, transparence, confiance"
 }
 ],
 "source": "https://www.ls2n.fr/recherche/equipes/membres/pacce"

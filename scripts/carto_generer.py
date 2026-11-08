@@ -612,8 +612,8 @@ const LIB_IG={oui:'IG',partiel:'IG en partie',non:'hors IG',inconnu:'IG ?'};
 function tableMembres(e){const m=e.membres;if(!m.liste.length)return '<p class="meta">Liste non disponible.</p>';
  return `<table class="membres">${m.liste.map(p=>`<tr><td>${p.site?`<a href="${esc(p.site)}" target="_blank" rel="noopener">${esc(p.nom)}</a>`:esc(p.nom)}${p.nom===e.correspondant?' <span class="meta">(correspondant)</span>':''}</td>
   <td class="meta">${esc([p.emerite?'émérite':p.statut,p.employeur].filter(Boolean).join(', '))}</td>
-  ${p.ig?`<td><span class="ig ig-${p.ig}">${LIB_IG[p.ig]||p.ig}</span></td><td class="meta">${esc(p.domaines)}</td>`:''}</tr>`).join('')}</table>
- ${m.liste.some(p=>p.ig)?`<p class="meta">« IG » : annotation automatique d'après les publications, à vérifier.</p>`:(m.source?`<p class="meta">Source : <a href="${esc(m.source)}" target="_blank" rel="noopener">page de l'équipe</a>.</p>`:'')}`}
+  ${p.ig?`<td><span class="ig ig-${p.ig}">${LIB_IG[p.ig]||p.ig}</span></td>`:''}<td class="meta">${esc(p.domaines)}</td></tr>`).join('')}</table>
+ ${m.liste.some(p=>p.ig)?`<p class="meta">« IG » : annotation automatique d'après les publications, à vérifier.</p>`:`<p class="meta">${m.source?`Source : <a href="${esc(m.source)}" target="_blank" rel="noopener">page de l'équipe</a>. `:''}Mots-clés de recherche établis automatiquement d'après les publications, à vérifier.</p>`}`}
 function listeTheses(l){const li=t=>`<li><span class="meta">${t.annee}</span> <a href="https://theses.fr/${encodeURIComponent(t.id)}" target="_blank" rel="noopener"${t.titre_en&&t.titre_en!==t.titre?` title="${esc(t.titre_en)}"`:''}>${esc(t.titre)}</a> <span class="meta">— ${esc(t.etablissement)}</span></li>`;
  if(!l.length)return '<p class="meta">Aucune thèse en IG trouvée sur la période.</p>';
  return `<ul class="theses">${l.slice(0,6).map(li).join('')}</ul>${l.length>6?`<details class="theses-plus"><summary class="meta">${l.length-6} autres thèses</summary><ul class="theses">${l.slice(6).map(li).join('')}</ul></details>`:''}`}
