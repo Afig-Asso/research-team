@@ -282,6 +282,7 @@ Rem. Le fichier README.md est généré automatiquement à partir du fichier dat
 * **[IRIT](https://www.irit.fr/)** - Institut de Recherche en Informatique de Toulouse 
   * CNRS UMR-5505 
   * **[REVA](https://www.irit.fr/departement/calcul-intensif-simulation-optimisation/reva/)** 
+    * Correspondant: Géraldine Morin 
     * Thèmes: _Reconstruction 3D et stéréophotométrie, réalités mixtes, analyse de données multimodales et restitution visuelle, méthodes variationnelles, vie artificielle_ 
   * **[STORM](https://www.irit.fr/STORM/site/)** - Structural Models and Tools in Computer Graphics 
     * Correspondant: Mathias Paulin 
