@@ -1,0 +1,1388 @@
+{
+"equipe": "IRIT/STORM",
+"publications": [
+{
+"id": "p2a9937d329",
+"titre": "A Monte Carlo spectral line-sampling approach to accurately estimate the Earth’s radiative forcing of greenhouse gases",
+"annee": 2026,
+"type": "journal",
+"lieu": "Journal of Quantitative Spectroscopy and Radiative Transfer",
+"url": "https://imt-mines-albi.hal.science/hal-05824819v1",
+"doi": "10.1016/j.jqsrt.2026.110159"
+},
+{
+"id": "pbd637e5729",
+"titre": "Differentiable Radiosity for Inverse Rendering",
+"annee": 2026,
+"type": "conférence",
+"lieu": "Eurographics Symposium on Rendering",
+"url": "https://hal.science/hal-05693070v1",
+"doi": "10.2312/sr.20261008"
+},
+{
+"id": "p78dba78f62",
+"titre": "GT-ICP: a General Temporal ICP algorithm for simultaneous frame-to-frame registration and motion compensation",
+"annee": 2026,
+"type": "journal",
+"lieu": "Graphical Models",
+"url": "https://hal.science/hal-05546493v1"
+},
+{
+"id": "pfbcf03c069",
+"titre": "Habitat quality assessment of temperate forest ecosystems: An airborne LiDAR-based approach to predict the Index of Biodiversity Potential (IBP) at large scale",
+"annee": 2026,
+"type": "journal",
+"lieu": "Forest Ecology and Management",
+"url": "https://hal.science/hal-05359316v1",
+"doi": "10.1016/j.foreco.2025.123305"
+},
+{
+"id": "p8cc06c3eeb",
+"titre": "Stylizing 2D & 3D liquid animations through adaptive particle-based implicit fields",
+"annee": 2026,
+"type": "journal",
+"lieu": "Graphical Models",
+"url": "https://hal.science/hal-05727754v1",
+"doi": "10.1016/j.gmod.2026.101340"
+},
+{
+"id": "p9379a0e2b4",
+"titre": "Survey on differential estimators for 3d point clouds",
+"annee": 2026,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-05515309v2",
+"doi": "10.1111/cgf.70394"
+},
+{
+"id": "p8ee80c4dcf",
+"titre": "Automatic Inbetweening for Stroke‐Based Painterly Animation",
+"annee": 2025,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-04738931v1",
+"doi": "10.1111/cgf.15201"
+},
+{
+"id": "pac95b69b08",
+"titre": "BSP-OT: Sparse transport plans between discrete measures in loglinear time",
+"annee": 2025,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-05316444v1",
+"doi": "10.1145/3763281"
+},
+{
+"id": "p769870386a",
+"titre": "Fused Collapsing for Wide BVH Construction",
+"annee": 2025,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-05126411v1",
+"doi": "10.1111/cgf.70213"
+},
+{
+"id": "p7412ffc717",
+"titre": "Implicit Field-Based Stylization of 2D and 3D Liquid Animations",
+"annee": 2025,
+"type": "conférence",
+"lieu": "Smart Tools and Applications in Graphics (STAG)",
+"url": "https://hal.science/hal-05471896v1",
+"doi": "10.2312/stag.20251324"
+},
+{
+"id": "p91aee3535d",
+"titre": "Linear-Time Transport with Rectified Flows",
+"annee": 2025,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-05125202v1"
+},
+{
+"id": "pdbc6146fa5",
+"titre": "Lipschitz Pruning: Hierarchical Simplification of Primitive‐Based SDFs",
+"annee": 2025,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-05050831v1",
+"doi": "10.1111/cgf.70057"
+},
+{
+"id": "p0de8041a26",
+"titre": "Reconstruction tomographique par représentation neuronale implicite de volumes régularisée pour la microscopie électronique",
+"annee": 2025,
+"type": "conférence",
+"lieu": "30e Colloque sur le traitement du signal et des images GRETSI’25",
+"url": "https://hal.science/hal-05397415v1"
+},
+{
+"id": "pd29523f97b",
+"titre": "Revealing the traces of pastoralism. When new technologies redefine archaeological exploration in the mountains",
+"annee": 2025,
+"type": "conférence",
+"lieu": "Jeudi d'ITEM",
+"url": "https://hal.science/hal-05467790v1"
+},
+{
+"id": "p849f91c022",
+"titre": "Sobol’ Sequences with Guaranteed-Quality 2D Projections",
+"annee": 2025,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-05125221v1",
+"doi": "10.1145/3730821"
+},
+{
+"id": "paed16ac029",
+"titre": "A Framework for Real-Time Visualization of Experimental and Simulated Ultrasound Images in Augmented Reality",
+"annee": 2024,
+"type": "conférence",
+"lieu": "IEEE Ultrasonics, Ferroelectrics, and Frequency Control Joint Symposium (UFFC-JS 2024)",
+"url": "https://hal.science/hal-04671751v1"
+},
+{
+"id": "pe73dda216e",
+"titre": "Computing properties of subdivision schemes using small real Fourier indexed matrices",
+"annee": 2024,
+"type": "journal",
+"lieu": "Computer Aided Geometric Design",
+"url": "https://doi.org/10.1016/j.cagd.2024.102391",
+"doi": "10.1016/j.cagd.2024.102391"
+},
+{
+"id": "p2f13520aff",
+"titre": "De nouveaux outils de télédétection pour la caractérisation et l’évaluation de la qualité écologique des forêts et des haies",
+"annee": 2024,
+"type": "conférence",
+"lieu": "Colloque « Recherche et gestion de la biodiversité en temps de crises écologiques »,",
+"url": "https://hal.inrae.fr/hal-04881224v1"
+},
+{
+"id": "pbe2eea2c1f",
+"titre": "Differentiable Owen Scrambling",
+"annee": 2024,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-04721127v1",
+"doi": "10.1145/3687764"
+},
+{
+"id": "p7cd3a915eb",
+"titre": "Efficient neural reconstruction for freehand 3-D ultrasound imaging and visualization in Augmented reality",
+"annee": 2024,
+"type": "journal",
+"lieu": "IEEE Access",
+"url": "https://hal.science/hal-04770349v1"
+},
+{
+"id": "pd7f0289766",
+"titre": "Flexible Terrain Erosion",
+"annee": 2024,
+"type": "journal",
+"lieu": "The Visual Computer",
+"url": "https://hal.science/hal-04603075v1",
+"doi": "10.1007/s00371-024-03444-w"
+},
+{
+"id": "pa49f969380",
+"titre": "Generator Matrices by Solving Integer Linear Programs",
+"annee": 2024,
+"type": "chapitre",
+"lieu": "Monte Carlo and Quasi-Monte Carlo Methods",
+"url": "https://hal.science/hal-04009160v2",
+"doi": "10.1007/978-3-031-59762-6_26"
+},
+{
+"id": "p6e4fdbac85",
+"titre": "Imaging device to measure the reflective and transmissive part of isotropic BSSRDF",
+"annee": 2024,
+"type": "journal",
+"lieu": "Optics Express",
+"url": "https://inria.hal.science/hal-04736931v1",
+"doi": "10.1364/oe.538429"
+},
+{
+"id": "pe38a5074ce",
+"titre": "Monte Carlo Simulation of Atmospheric Radiative Forcings Using A Path-Integral Formulation Approach for Spectro-Radiative Sensitivities",
+"annee": 2024,
+"type": "journal",
+"lieu": "Journal of Quantitative Spectroscopy and Radiative Transfer",
+"url": "https://hal.science/hal-04432801v2",
+"doi": "10.1016/j.jqsrt.2024.109123"
+},
+{
+"id": "p3d375052d6",
+"titre": "Mont’Prospect2.0",
+"annee": 2024,
+"type": "conférence",
+"lieu": "Journée de restitution Nouvelles frontières de l'archéologie 2024",
+"url": "https://hal.science/hal-04425679v1"
+},
+{
+"id": "p9fe02cf19a",
+"titre": "Point Cloud Processing From a Computer Graphics perspective",
+"annee": 2024,
+"type": "conférence",
+"lieu": "Compression et évaluation de la qualité des nuages de points",
+"url": "https://hal.science/hal-04815162v1"
+},
+{
+"id": "pd029cda951",
+"titre": "Prédiction de l’Indice de Biodiversité Potentielle (IBP) des habitats forestiers à partir de données LiDAR aéroporté : premiers résultats",
+"annee": 2024,
+"type": "conférence",
+"lieu": "TRIDIFOR 2024 – Méthodes innovantes d’analyse de données 3D en forêt",
+"url": "https://hal.inrae.fr/hal-04857440v1"
+},
+{
+"id": "pd453cf03c7",
+"titre": "Quad-Optimized Low-Discrepancy Sequences",
+"annee": 2024,
+"type": "conférence",
+"lieu": "ACM SIGGRAPH Conference 2024",
+"url": "https://hal.science/hal-04570513v1",
+"doi": "10.1145/3641519.3657431"
+},
+{
+"id": "p3a52eaf503",
+"titre": "Spectrally refined unbiased Monte Carlo estimate of the Earth’s global radiative cooling",
+"annee": 2024,
+"type": "journal",
+"lieu": "Proceedings of the National Academy of Sciences of the United States of America",
+"url": "https://hal.science/hal-04417426v1",
+"doi": "10.1073/pnas.2315492121"
+},
+{
+"id": "p48b4e19d54",
+"titre": "Ultrasound volume reconstruction from 2D Freehand acquisitions using neural implicit representations",
+"annee": 2024,
+"type": "conférence",
+"lieu": "21st IEEE International Symposium on Biomedical Imaging (ISBI 2024)",
+"url": "https://hal.science/hal-04480668v1"
+},
+{
+"id": "p53594e16e7",
+"titre": "A survey of Optimal Transport for Computer Graphics and Computer Vision",
+"annee": 2023,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-04029613v1"
+},
+{
+"id": "p5112bfbb69",
+"titre": "Arqueo 2.0. Renovación metodológica de la prospección arqueológica de zonas de montaña",
+"annee": 2023,
+"type": "journal",
+"lieu": "Treballs d'Arqueologia",
+"url": "https://hal.science/hal-04335772v1",
+"doi": "10.5565/rev/tda.153"
+},
+{
+"id": "pf2674de03f",
+"titre": "Coupling Conduction, Convection and Radiative Transfer in a Single Path-Space: Application to Infrared Rendering",
+"annee": 2023,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-04090428v2",
+"doi": "10.1145/3592121"
+},
+{
+"id": "p039462f9d1",
+"titre": "Coupling radiative, conductive and convective heat-transfers in a single Monte Carlo algorithm: A general theoretical framework for linear situations",
+"annee": 2023,
+"type": "journal",
+"lieu": "PLoS ONE",
+"url": "https://imt-mines-albi.hal.science/hal-04066139v2",
+"doi": "10.1371/journal.pone.0283681"
+},
+{
+"id": "p6a0b066959",
+"titre": "Efficient stratified 3D scatterer sampling for freehand ultrasound simulation",
+"annee": 2023,
+"type": "journal",
+"lieu": "IEEE Transactions on Ultrasonics, Ferroelectrics and Frequency Control",
+"url": "https://hal.science/hal-04234010v1",
+"doi": "10.1109/tuffc.2023.3324014"
+},
+{
+"id": "p0966af8375",
+"titre": "Estimating atmospheric radiative forcings using sensitivity monte carlo methods",
+"annee": 2023,
+"type": "conférence",
+"lieu": "10th International Symposium on Radiative Transfer (RAD 2023)",
+"url": "https://imt-mines-albi.hal.science/hal-04165592v1",
+"doi": "10.1615/rad-23.500"
+},
+{
+"id": "p4591fe0f33",
+"titre": "Example-Based Sampling with Diffusion Models",
+"annee": 2023,
+"type": "conférence",
+"lieu": "Siggraph Asia",
+"url": "https://hal.science/hal-04235704v1",
+"doi": "10.1145/3610548.3618243"
+},
+{
+"id": "p8c15972537",
+"titre": "ImmersiveIML – Immersive interactive machine learning for 3D point cloud classification: the neural network at your fingertips",
+"annee": 2023,
+"type": "conférence",
+"lieu": "IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct 2023)",
+"url": "https://hal.science/hal-04246601v1",
+"doi": "10.1109/ismar-adjunct60411.2023.00025"
+},
+{
+"id": "p973efe2ceb",
+"titre": "Inspecter les montagne autrement",
+"annee": 2023,
+"type": "chapitre",
+"lieu": "Dynamiques des peuplements, des territoires et des paysages : Bilan et perspectives en archéologie spatiale, hommages à Jean-Luc Fiches - Settlement, territory and landscape dynamics: Assessment and prospects in spatial archaeology, tribute to Jean-Luc Fiches - Actes des 42es rencontres internationales d’archéologie et d’histoire – Nice Côte d’Azur des 12-14 octobre 2022, sous la direction de Frédérique Bertoncello, Marie-Jeanne Ouriachi, Laure Nuninger, François Favory",
+"url": "https://hal.science/hal-04264415v1"
+},
+{
+"id": "p1c55d1faa8",
+"titre": "Prospecter autrement les montagnes",
+"annee": 2023,
+"type": "conférence",
+"lieu": "Séminaire transversal du laboratoire TRACES (2023)",
+"url": "https://hal.science/hal-04264333v1"
+},
+{
+"id": "pd93f17b757",
+"titre": "Prospecter les montagnes autrement",
+"annee": 2023,
+"type": "conférence",
+"lieu": "Séminaire de laboratoire TRACES",
+"url": "https://hal.science/hal-04244922v1"
+},
+{
+"id": "p3aa33ecaa0",
+"titre": "User-Driven Constraints for Layout Optimisation in Augmented Reality",
+"annee": 2023,
+"type": "conférence",
+"lieu": "ACM Conference on Human Factors in Computing Systems (CHI 2023 )",
+"url": "https://hal.science/hal-04042351v1",
+"doi": "10.1145/3544548.3580873"
+},
+{
+"id": "pfe49b4dd5a",
+"titre": "Dynamic Scene Novel View Synthesis via Deferred Spatio-temporal Consistency",
+"annee": 2022,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://hal.science/hal-03374431v1",
+"doi": "10.1016/j.cag.2022.07.019"
+},
+{
+"id": "p1cb167b0a2",
+"titre": "Efficient 2D ultrasound simulation based on dart-throwing 3D scatterer sampling",
+"annee": 2022,
+"type": "conférence",
+"lieu": "European Signal Processing Conference (EUSIPCO 2022)",
+"url": "https://hal.science/hal-03732630v1"
+},
+{
+"id": "pb7f7f0d4ad",
+"titre": "Harmonics Virtual Lights: Fast Projection of Luminance Field on Spherical Harmonics for Efficient Rendering",
+"annee": 2022,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-03679979v1",
+"doi": "10.1111/cgf.14564"
+},
+{
+"id": "peb732d2e64",
+"titre": "Learning to Generate Wasserstein Barycenters",
+"annee": 2022,
+"type": "journal",
+"lieu": "Journal of Mathematical Imaging and Vision",
+"url": "https://hal.science/hal-03374452v1",
+"doi": "10.1007/s10851-022-01121-y"
+},
+{
+"id": "p48a3c1b344",
+"titre": "MatBuilder: Mastering Sampling Uniformity Over Projections",
+"annee": 2022,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-03664112v1",
+"doi": "10.1145/3528223.3530063"
+},
+{
+"id": "p5ba43c3592",
+"titre": "PCEDNet : A Lightweight Neural Network for Fast and Interactive Edge Detection in 3D Point Clouds",
+"annee": 2022,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-03349971v1",
+"doi": "10.1145/3481804"
+},
+{
+"id": "pd38ed51cc7",
+"titre": "Recursive analytic spherical harmonics gradient for spherical lights",
+"annee": 2022,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-03622389v1",
+"doi": "10.1111/cgf.14482"
+},
+{
+"id": "p28da82c257",
+"titre": "Shadow Layers for Participating Media",
+"annee": 2022,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-03480926v2",
+"doi": "10.1111/cgf.14429"
+},
+{
+"id": "p35e55c77fe",
+"titre": "Une estimation exacte du forçage radiatif par la méthode de Monte-Carlo",
+"annee": 2022,
+"type": "conférence",
+"lieu": "SFT 2022 - 30éme Congrès Français de Thermique 2022",
+"url": "https://hal.science/hal-03740560v1",
+"doi": "10.25855/sft2022-042"
+},
+{
+"id": "p157ee9f7e0",
+"titre": "Une estimation exacte du forçage radiatif par la méthode de Monte-Carlo",
+"annee": 2022,
+"type": "journal",
+"lieu": "Entropie thermodynamique – énergie – environnement – économie",
+"url": "https://doi.org/10.21494/iste.op.2022.0898",
+"doi": "10.21494/iste.op.2022.0898"
+},
+{
+"id": "p238ee3b15e",
+"titre": "Volumetric Multi-View Rendering",
+"annee": 2022,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-03580194v1",
+"doi": "10.1111/cgf.14481"
+},
+{
+"id": "pb4f27ee03d",
+"titre": "An Inverse Method for the Exploration of Layered Material Appearance",
+"annee": 2021,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-03255469v1",
+"doi": "10.1145/3450626.3459857"
+},
+{
+"id": "p81b1ea8c08",
+"titre": "Automatic Intermediate Frames for Stroke-based Animation",
+"annee": 2021,
+"type": "conférence",
+"lieu": "Journées Françaises d'Informatique Graphique (JFIG 2021)",
+"url": "https://hal.science/hal-03454288v1"
+},
+{
+"id": "p32d4d743f6",
+"titre": "Automatic shape adjustment at joints for the implicit skinning",
+"annee": 2021,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://hal.science/hal-03433167v1",
+"doi": "10.1016/j.cag.2021.10.018"
+},
+{
+"id": "pc1587459a0",
+"titre": "Cascaded Sobol' Sampling",
+"annee": 2021,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-03358957v1",
+"doi": "10.1145/3478513.3480482"
+},
+{
+"id": "p7163cb3090",
+"titre": "Dynamic Decals",
+"annee": 2021,
+"type": "journal",
+"lieu": "Proceedings of the ACM on Human-Computer Interaction",
+"url": "https://doi.org/10.1145/3488538",
+"doi": "10.1145/3488538"
+},
+{
+"id": "p74b43b725a",
+"titre": "Efficient spherical harmonic shading for separable BRDF",
+"annee": 2021,
+"type": "conférence",
+"lieu": "14th ACM SIGGRAPH Conference and Exhibition on Computer Graphics and Interactive Techniques in Asia (SIGGRAPH ASIA 2021)",
+"url": "https://hal.science/hal-03358603v1",
+"doi": "10.1145/3478512.3488597"
+},
+{
+"id": "p74043ce19c",
+"titre": "Ground Metric Learning on Graphs",
+"annee": 2021,
+"type": "journal",
+"lieu": "Journal of Mathematical Imaging and Vision",
+"url": "https://hal.science/hal-02989081v1",
+"doi": "10.1007/s10851-020-00996-z"
+},
+{
+"id": "p7f02452f42",
+"titre": "Perceptual quality of BRDF approximations: dataset and metrics",
+"annee": 2021,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-03128383v1",
+"doi": "10.1111/cgf.142636"
+},
+{
+"id": "pb4326e319b",
+"titre": "Seed point set-based building roof extraction from airborne LiDAR point clouds using a top-down strategy",
+"annee": 2021,
+"type": "journal",
+"lieu": "Automation in Construction",
+"url": "https://inria.hal.science/hal-03174470v1",
+"doi": "10.1016/j.autcon.2021.103660"
+},
+{
+"id": "p7cedafa1cb",
+"titre": "Stable and efficient differential estimators on oriented point clouds",
+"annee": 2021,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-03272493v1",
+"doi": "10.1111/cgf.14368"
+},
+{
+"id": "pd1332d59a9",
+"titre": "Towards a visual language for animated paintings",
+"annee": 2021,
+"type": "conférence",
+"lieu": "Journées thématiques du GdR IG-RV 2021",
+"url": "https://hal.science/hal-03460378v1"
+},
+{
+"id": "p217d86688e",
+"titre": "A Benchmark for Rough Sketch Cleanup",
+"annee": 2020,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-02939477v1",
+"doi": "10.1145/3414685.3417784"
+},
+{
+"id": "p2e91224813",
+"titre": "Code Replicability in Computer Graphics",
+"annee": 2020,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-02563203v1",
+"doi": "10.1145/3386569.3392413"
+},
+{
+"id": "pf7e41b7d93",
+"titre": "Few-camera Dynamic Scene Variational Novel-view Synthesis",
+"annee": 2020,
+"type": "conférence",
+"lieu": "JOURNÉES FRANÇAISES D'INFORMATIQUE GRAPHIQUE",
+"url": "https://hal.science/hal-03372486v1"
+},
+{
+"id": "p18b749acc6",
+"titre": "ISPH–PBD: coupled simulation of incompressible fluids and deformable bodies",
+"annee": 2020,
+"type": "journal",
+"lieu": "The Visual Computer",
+"url": "https://hal.science/hal-02139901v1",
+"doi": "10.1007/s00371-019-01700-y"
+},
+{
+"id": "p1e1f0d95c8",
+"titre": "Persistence Analysis of Multi-scale Planar Structure Graph in Point Clouds",
+"annee": 2020,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-02490721v1"
+},
+{
+"id": "p5b37b2850a",
+"titre": "Projection efficace de lumières sphériques sur les harmoniques sphériques",
+"annee": 2020,
+"type": "conférence",
+"lieu": "Journées Françaises d’Informatique Graphique (JFIG 2020)",
+"url": "https://hal.science/hal-03079202v1"
+},
+{
+"id": "pcd4e90c987",
+"titre": "Proximity-Aware Multiple Meshes Decimation using Quadric Error Metric",
+"annee": 2020,
+"type": "journal",
+"lieu": "Graphical Models",
+"url": "https://hal.science/hal-02496635v1",
+"doi": "10.1016/j.gmod.2020.101062"
+},
+{
+"id": "pf3394f458e",
+"titre": "SLAM-aided forest plot mapping combining terrestrial and mobile laser scanning",
+"annee": 2020,
+"type": "journal",
+"lieu": "ISPRS Journal of Photogrammetry and Remote Sensing",
+"url": "https://hal.science/hal-02563205v1",
+"doi": "10.1016/j.isprsjprs.2020.03.008"
+},
+{
+"id": "p1bbda5ef5b",
+"titre": "Single Scanner BLS System for Forest Plots Mapping",
+"annee": 2020,
+"type": "journal",
+"lieu": "IEEE Transactions on Geoscience and Remote Sensing",
+"url": "https://hal.science/hal-02873571v1",
+"doi": "10.1109/tgrs.2020.2999413"
+},
+{
+"id": "pe4268952cc",
+"titre": "Sliced Optimal Transport Sampling",
+"annee": 2020,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-02565352v1",
+"doi": "10.1145/3386569.3392395"
+},
+{
+"id": "p3b78f6d229",
+"titre": "Automatic structuring of organic shapes from a single drawing",
+"annee": 2019,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://inria.hal.science/hal-02058765v1"
+},
+{
+"id": "p98dc784576",
+"titre": "Comparative study of layered material models",
+"annee": 2019,
+"type": "conférence",
+"lieu": "Workshop on Material Appearance Modeling",
+"url": "https://hal.science/hal-02184562v1"
+},
+{
+"id": "p9f2930b0f9",
+"titre": "Global Illumination Shadow Layers",
+"annee": 2019,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-02174327v1",
+"doi": "10.1111/cgf.13781"
+},
+{
+"id": "pbf2418ab6d",
+"titre": "Implicit Untangling: A Robust Solution for Modeling Layered Clothing",
+"annee": 2019,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-02129156v1",
+"doi": "10.1145/3306346.3323010"
+},
+{
+"id": "pc7e968993b",
+"titre": "Real-time 3D reconstruction from single-photon lidar data using plug-and-play point cloud denoisers",
+"annee": 2019,
+"type": "journal",
+"lieu": "Nature Communications",
+"url": "https://hal.science/hal-02306826v1",
+"doi": "10.1038/s41467-019-12943-7"
+},
+{
+"id": "p709e9d18c8",
+"titre": "SHREC'19 track: Feature Curve Extraction on Triangle Meshes",
+"annee": 2019,
+"type": "conférence",
+"lieu": "12th EG Workshop 3D Object Retrieval 2019",
+"url": "https://hal.science/hal-02126739v1"
+},
+{
+"id": "p7413cb114e",
+"titre": "SPOT: Sliced Partial Optimal Transport",
+"annee": 2019,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-02111220v1",
+"doi": "10.1145/3306346.3323021"
+},
+{
+"id": "pbe7829603d",
+"titre": "Skeleton Based Cage Generation Guided by Harmonic Fields",
+"annee": 2019,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://hal.science/hal-02113902v1",
+"doi": "10.1016/j.cag.2019.04.004"
+},
+{
+"id": "p4a44f233a6",
+"titre": "VIPER: Volume Invariant Position-based Elastic Rods",
+"annee": 2019,
+"type": "journal",
+"lieu": "Proceedings of the ACM on Computer Graphics and Interactive Techniques",
+"url": "https://hal.science/hal-02288948v1",
+"doi": "10.1145/3340260"
+},
+{
+"id": "p3eb80cb5cf",
+"titre": "Analysis of Path Space for Layered Light Editing",
+"annee": 2018,
+"type": "conférence",
+"lieu": "Journées Françaises d’Informatique Graphique",
+"url": "https://hal.science/hal-01941014v2"
+},
+{
+"id": "p67240bba33",
+"titre": "Automated markerless registration of point clouds from TLS and structured light scanner for heritage documentation",
+"annee": 2018,
+"type": "journal",
+"lieu": "Journal of Cultural Heritage",
+"url": "https://hal.science/hal-01884798v1",
+"doi": "10.1016/j.culher.2018.07.013"
+},
+{
+"id": "p5156588fc7",
+"titre": "Correcting Motion Distortions in Time-of-Flight Imaging",
+"annee": 2018,
+"type": "conférence",
+"lieu": "ACM Siggraph Conference on Motion, Interaction and Games",
+"url": "https://hal.science/hal-01890418v1",
+"doi": "10.1145/3274247.3274512"
+},
+{
+"id": "p0fc123e4df",
+"titre": "Dimension reduction of path space for visualisation and sampling (J-FIG 2018, Poitiers, France)",
+"annee": 2018,
+"type": "conférence",
+"lieu": "Journées Françaises d'Informatique Graphique - J-FIG 2018",
+"url": "https://hal.science/hal-03023421v1"
+},
+{
+"id": "pa7bd828408",
+"titre": "Dynamic implicit muscles for character skinning",
+"annee": 2018,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://hal.science/hal-01955292v1",
+"doi": "10.1016/j.cag.2018.10.013"
+},
+{
+"id": "pb0c02a8a09",
+"titre": "Mesh Simplification for Virtual Objects Disassembly (j-FIG 2018, Poitiers, France)",
+"annee": 2018,
+"type": "conférence",
+"lieu": "Journées Françaises d'Informatique Graphique (j-FIG 208)",
+"url": "https://hal.science/hal-03033970v1"
+},
+{
+"id": "paf0a3c6c01",
+"titre": "Multi-scale Planar Segments Extraction from Point Clouds",
+"annee": 2018,
+"type": "conférence",
+"lieu": "Journées Françaises d’Informatique Graphique",
+"url": "https://hal.science/hal-01955439v1"
+},
+{
+"id": "p993c42f33a",
+"titre": "Mumford-Shah Mesh Processing using the Ambrosio-Tortorelli Functional",
+"annee": 2018,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-01870901v1",
+"doi": "10.1111/cgf.13549"
+},
+{
+"id": "p616cd45f2b",
+"titre": "SHREC'18 track: Recognition of geometric patterns over 3D models",
+"annee": 2018,
+"type": "conférence",
+"lieu": "Eurographics Workshop on 3D Object Retrieval (3DOR 2018)",
+"url": "https://minesparis-psl.hal.science/hal-01774423v1",
+"doi": "10.2312/3dor.20181055"
+},
+{
+"id": "p516a8128cb",
+"titre": "Structuring and layering contour drawings of organic shapes",
+"annee": 2018,
+"type": "conférence",
+"lieu": "Expressive 2018 - Joint Symposium on Computational Aesthetics and Sketch-Based Interfaces and Modeling and Non-Photorealistic Animation and Rendering",
+"url": "https://inria.hal.science/hal-01853410v1",
+"doi": "10.1145/3229147.3229155"
+},
+{
+"id": "pfd00677634",
+"titre": "Wasserstein Dictionary Learning: Optimal Transport-based unsupervised non-linear dictionary learning",
+"annee": 2018,
+"type": "journal",
+"lieu": "SIAM Journal on Imaging Sciences",
+"url": "https://hal.science/hal-01717943v2",
+"doi": "10.1137/17m1140431"
+},
+{
+"id": "p76a859d19c",
+"titre": "Consistent Video Filtering for Camera Arrays",
+"annee": 2017,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-01483753v1"
+},
+{
+"id": "pe61085224f",
+"titre": "Constrained Palette-Space Exploration",
+"annee": 2017,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-01538733v1",
+"doi": "10.1145/3072959.3073650"
+},
+{
+"id": "pce6e627060",
+"titre": "Expressive map design: OGC SLD/SE++ extension for expressive map styles",
+"annee": 2017,
+"type": "conférence",
+"lieu": "ICC 2017 - 28th International Cartographic Conference",
+"url": "https://hal.science/hal-01882520v1",
+"doi": "10.5194/ica-proc-1-21-2018"
+},
+{
+"id": "p15b784f114",
+"titre": "Intrinsic Decompositions for Image Editing",
+"annee": 2017,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-01483773v1"
+},
+{
+"id": "p471b87c8b3",
+"titre": "Le transport optimal pour des applications en informatique graphique",
+"annee": 2017,
+"type": "journal",
+"lieu": "Interstices",
+"url": "https://inria.hal.science/hal-01533684v1"
+},
+{
+"id": "p07eadde9ec",
+"titre": "Optimal transport-based dictionary learning and its application to Euclid-like Point Spread Function representation",
+"annee": 2017,
+"type": "conférence",
+"lieu": "Wavelets and Sparsity XVII",
+"url": "https://hal.science/hal-01635342v1",
+"doi": "10.1117/12.2270641"
+},
+{
+"id": "pd5cb7a2e4f",
+"titre": "RayPortals: a light transport editing framework",
+"annee": 2017,
+"type": "journal",
+"lieu": "The Visual Computer",
+"url": "https://hal.science/hal-01295281v1",
+"doi": "10.1007/s00371-015-1163-2"
+},
+{
+"id": "pe643e5d576",
+"titre": "Semantic correspondence across 3D models for example-based modeling",
+"annee": 2017,
+"type": "conférence",
+"lieu": "Eurographics Workshop on 3D Object Retrieval 2017 (3DOR 2017)",
+"url": "https://hal.science/hal-01535056v1"
+},
+{
+"id": "p3bf81de832",
+"titre": "Sketch-Based Implicit Blending",
+"annee": 2017,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-01590351v1",
+"doi": "10.1145/3130800.3130825"
+},
+{
+"id": "pae87d49c65",
+"titre": "Continuous semantic description of 3D meshes",
+"annee": 2016,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://hal.science/hal-01196895v1",
+"doi": "10.1016/j.cag.2015.07.018"
+},
+{
+"id": "pad071e73d3",
+"titre": "Implicit-based Secondary Motion for Character Animation (JFIG 2016)",
+"annee": 2016,
+"type": "conférence",
+"lieu": "29èmes Journées françaises d'informatique graphique (JFIG 2016)",
+"url": "https://hal.science/hal-03176454v1"
+},
+{
+"id": "p5cd50f3651",
+"titre": "Interactive Multicut Video Segmentation",
+"annee": 2016,
+"type": "conférence",
+"lieu": "Pacific Graphics",
+"url": "https://hal.science/hal-01378800v1"
+},
+{
+"id": "p140fa27397",
+"titre": "Map Style Formalization: Rendering Techniques Extension for Cartography",
+"annee": 2016,
+"type": "conférence",
+"lieu": "Expressive 2016 The Joint Symposium on Computational Aesthetics and Sketch-Based Interfaces and Modeling and Non-Photorealistic Animation and Rendering",
+"url": "https://hal.science/hal-01317403v1",
+"doi": "10.2312/exp.20161064"
+},
+{
+"id": "p98697694c6",
+"titre": "Topology-Aware Neighborhoods for Point-Based Simulation and Reconstruction",
+"annee": 2016,
+"type": "conférence",
+"lieu": "Eurographics/ ACM SIGGRAPH Symposium on Computer Animation",
+"url": "https://inria.hal.science/hal-01338636v1"
+},
+{
+"id": "p7cdb92b4e3",
+"titre": "Wasserstein Barycentric Coordinates: Histogram Regression Using Optimal Transport",
+"annee": 2016,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-01303148v1",
+"doi": "10.1145/2897824.2925918"
+},
+{
+"id": "p922bafb643",
+"titre": "Automatic rendering of a Cassini style",
+"annee": 2015,
+"type": "conférence",
+"lieu": "27th International Cartographic Conference",
+"url": "https://hal.science/hal-01295329v1"
+},
+{
+"id": "p5079ee2d07",
+"titre": "Blind video temporal consistency",
+"annee": 2015,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-01264081v1",
+"doi": "10.1145/2816795.2818107"
+},
+{
+"id": "pd67330e3c1",
+"titre": "Contrôle artistique par édition de la propagation des rayons en photon mapping",
+"annee": 2015,
+"type": "journal",
+"lieu": "Revue Electronique Francophone d'Informatique Graphique",
+"url": "https://hal.science/hal-01295272v1"
+},
+{
+"id": "pf2255082df",
+"titre": "De la sphère à l’animation de personnages virtuels : Pour un Pli",
+"annee": 2015,
+"type": "journal",
+"lieu": "Bulletin 1024",
+"url": "https://doi.org/10.48556/sif.1024.hs1.93",
+"doi": "10.48556/sif.1024.hs1.93"
+},
+{
+"id": "p5891a21000",
+"titre": "Digital Halftones",
+"annee": 2015,
+"type": "chapitre",
+"lieu": "Handbook of Digital Imaging",
+"url": "https://hal.science/hal-01295320v1"
+},
+{
+"id": "p47f07983a0",
+"titre": "Efficient Decomposition of Image and Mesh Graphs by Lifted Multicuts",
+"annee": 2015,
+"type": "conférence",
+"lieu": "The IEEE International Conference on Computer Vision (ICCV)",
+"url": "https://hal.science/hal-01264120v1"
+},
+{
+"id": "pf1fb8230c0",
+"titre": "Light Transport Editing with Ray Portals",
+"annee": 2015,
+"type": "conférence",
+"lieu": "Computer Graphics International (CGI)",
+"url": "https://hal.science/hal-01295265v1"
+},
+{
+"id": "p6525f6bcfc",
+"titre": "Modeling 3D animals from a side-view sketch",
+"annee": 2015,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://inria.hal.science/hal-01073059v1",
+"doi": "10.1016/j.cag.2014.09.037"
+},
+{
+"id": "p4ddd46c81b",
+"titre": "RAPter: Rebuilding Man-made Scenes with Regular Arrangements of Planes",
+"annee": 2015,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-01498225v1",
+"doi": "10.1145/2766995"
+},
+{
+"id": "pff898aceaf",
+"titre": "Relative scale estimation and 3D registration of multi-modal geometry using Growing Least Squares",
+"annee": 2015,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-01498218v1",
+"doi": "10.1109/tvcg.2015.2505287"
+},
+{
+"id": "p9532828c6f",
+"titre": "Sliced and Radon Wasserstein Barycenters of Measures",
+"annee": 2015,
+"type": "journal",
+"lieu": "Journal of Mathematical Imaging and Vision",
+"url": "https://hal.science/hal-00881872v1",
+"doi": "10.1007/s10851-014-0506-3"
+},
+{
+"id": "p199073ac27",
+"titre": "Adaptive multi-scale analysis for point-based surface editing",
+"annee": 2014,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-01059392v1",
+"doi": "10.1111/cgf.12485"
+},
+{
+"id": "p647b4fc377",
+"titre": "Computational Design and Construction of Notch-Free Reciprocal Frame Structures",
+"annee": 2014,
+"type": "conférence",
+"lieu": "Advances in Architectural Geometry 2014",
+"url": "https://inria.hal.science/hal-01498291v1",
+"doi": "10.1007/978-3-319-11418-7_12"
+},
+{
+"id": "p6926a8771e",
+"titre": "Crack-free rendering of dynamically tesselated B-Rep models",
+"annee": 2014,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-01118484v3",
+"doi": "10.1111/cgf.12308"
+},
+{
+"id": "pa1b56945c8",
+"titre": "Extraction de surface physiquement plausible de simulations de fluides par particules (Journées de l'AFIG 2014)",
+"annee": 2014,
+"type": "conférence",
+"lieu": "27èmes Journées de l'Association Française en Informatique Graphique (AFIG 2014)",
+"url": "https://hal.science/hal-03266943v1"
+},
+{
+"id": "p2a884e0b7e",
+"titre": "Globally Adaptive Control Variate for Robust Numerical Integration",
+"annee": 2014,
+"type": "journal",
+"lieu": "SIAM Journal on Scientific Computing",
+"url": "https://hal.science/hal-01118911v1",
+"doi": "10.1137/130937846"
+},
+{
+"id": "pd4b41705fc",
+"titre": "Géodésiques sémantiques pour la description et la labélisation automatique de parties",
+"annee": 2014,
+"type": "conférence",
+"lieu": "Journées de l'Association Française d'Informatique Graphiques, Reims Image 2014",
+"url": "https://hal.science/hal-01171234v1"
+},
+{
+"id": "p1c97aaac5d",
+"titre": "Implicit Decals: Interactive Editing of Repetitive Patterns on Surfaces",
+"annee": 2014,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-00876004v1",
+"doi": "10.1111/cgf.12260"
+},
+{
+"id": "p5c3c25b52c",
+"titre": "Interactive intrinsic video editing",
+"annee": 2014,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-01264124v1",
+"doi": "10.1145/2661229.2661253"
+},
+{
+"id": "p42f4d96c4b",
+"titre": "MCGraph: Multi-criterion representation for scene understanding",
+"annee": 2014,
+"type": "conférence",
+"lieu": "SIGGRAPH Asia 2014 Indoor Scene Understanding Where Graphics Meets Vision",
+"url": "https://inria.hal.science/hal-01498281v1",
+"doi": "10.1145/2670291.2670292"
+},
+{
+"id": "pd22c9662a8",
+"titre": "Monte Carlo advances and concentrated solar applications",
+"annee": 2014,
+"type": "journal",
+"lieu": "Solar Energy",
+"url": "https://hal.science/hal-01625034v1",
+"doi": "10.1016/j.solener.2013.02.035"
+},
+{
+"id": "p10f1b51e97",
+"titre": "Robust iso-surface tracking for interactive character skinning",
+"annee": 2014,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-01091820v2",
+"doi": "10.1145/2661229.2661264"
+},
+{
+"id": "p456ea85b7c",
+"titre": "Super4PCS: Fast Global Pointcloud Registration via Smart Indexing",
+"annee": 2014,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-01538738v1",
+"doi": "10.1111/cgf.12446"
+},
+{
+"id": "p4e2ad93786",
+"titre": "The Revealing Flashlight: Interactive spatial augmented reality for detail exploration of cultural heritage artifacts",
+"annee": 2014,
+"type": "journal",
+"lieu": "Journal on Computing and Cultural Heritage",
+"url": "https://inria.hal.science/hal-00986905v2",
+"doi": "10.1145/2611376"
+},
+{
+"id": "p31e9ccd701",
+"titre": "Time-Lapse Photometric Stereo and Applications",
+"annee": 2014,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-01264129v1",
+"doi": "10.1111/cgf.12504"
+},
+{
+"id": "p364fdec0a8",
+"titre": "A Gradient-Based Implicit Blend",
+"annee": 2013,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-00753246v1",
+"doi": "10.1145/2451236.2451238"
+},
+{
+"id": "pc13128bf53",
+"titre": "Adaptive Remeshing for Real-Time Mesh Deformation",
+"annee": 2013,
+"type": "conférence",
+"lieu": "34th Annual Conference of the European Association for Computer Graphics (Eurographics 2013)",
+"url": "https://hal.science/hal-01295339v1",
+"doi": "10.2312/conf/eg2013/short/029-032"
+},
+{
+"id": "p392837f174",
+"titre": "Adequate Inner Bound for Geometric Modeling with Compact Field Function",
+"annee": 2013,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://hal.science/hal-00833576v2",
+"doi": "10.1016/j.cag.2013.05.024"
+},
+{
+"id": "p6f98b7c295",
+"titre": "Implicit Skinning: Real-Time Skin Deformation with Contact Modeling",
+"annee": 2013,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-00819270v1",
+"doi": "10.1145/2461912.2461960"
+},
+{
+"id": "p7b4402ef84",
+"titre": "La Lampe torche magique : Une interface tangible pour l'inspection géométrique d'objets en réalité augmentée spatiale",
+"annee": 2013,
+"type": "conférence",
+"lieu": "25ème conférence francophone sur l'Interaction Homme-Machine, IHM'13",
+"url": "https://inria.hal.science/hal-00852053v3",
+"doi": "10.1145/2534903.2534906"
+},
+{
+"id": "pd07c477617",
+"titre": "Particle-In-Cell Monte Carlo Collision Model on GPU—Application to a Low-Temperature Magnetized Plasma",
+"annee": 2013,
+"type": "journal",
+"lieu": "IEEE Transactions on Plasma Science",
+"url": "https://doi.org/10.1109/tps.2012.2234402",
+"doi": "10.1109/tps.2012.2234402"
+},
+{
+"id": "p769e9940f7",
+"titre": "Screen-Space Curvature for Production-Quality Rendering and Compositing",
+"annee": 2013,
+"type": "conférence",
+"lieu": "SIGGRAPH Talk Program",
+"url": "https://inria.hal.science/hal-00813560v2"
+},
+{
+"id": "p8b3bea2843",
+"titre": "Time and Space Coherent Occlusion Culling for Tileable Extended 3D Worlds",
+"annee": 2013,
+"type": "conférence",
+"lieu": "International Conference on Computer-Aided Design and Computer Graphics (CADGC)",
+"url": "https://hal.science/hal-01147303v1"
+},
+{
+"id": "pe721b38be1",
+"titre": "An Efficient Trim Structure for Rendering Large B-Rep Models",
+"annee": 2012,
+"type": "conférence",
+"lieu": "17th International Workshop on Vision, Modeling and Visualization (VMV 2012)",
+"url": "https://hal.science/hal-01298635v1",
+"doi": "10.2312/pe/vmv/vmv12/031-038"
+},
+{
+"id": "pae367a271b",
+"titre": "Déformation de la peau d'un personnage avec prise en compte des contacts",
+"annee": 2012,
+"type": "journal",
+"lieu": "Revue Electronique Francophone d'Informatique Graphique",
+"url": "https://hal.science/hal-00819243v1"
+},
+{
+"id": "p323a010cc3",
+"titre": "Growing Least Squares for the Analysis of Manifolds in Scale-Space",
+"annee": 2012,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-00713678v2",
+"doi": "10.1111/j.1467-8659.2012.03174.x"
+},
+{
+"id": "pd3cd678b39",
+"titre": "Hybrid CPU/GPU KD-Tree Construction for Versatile Ray Tracing",
+"annee": 2012,
+"type": "conférence",
+"lieu": "Eurographics 2012",
+"url": "https://hal.science/hal-01518531v1"
+},
+{
+"id": "p4f6f3d0a6b",
+"titre": "Stroke Based Painterly Rendering",
+"annee": 2012,
+"type": "chapitre",
+"lieu": "Image and Video-Based Artistic Stylisation",
+"url": "https://hal.science/hal-01342483v1",
+"doi": "10.1007/978-1-4471-4519-6_1"
+},
+{
+"id": "p98ea266bc4",
+"titre": "Une structure de découpe efficace pour l'affichage de grands modèles B-Rep",
+"annee": 2012,
+"type": "conférence",
+"lieu": "AFIG '11 (Actes des 25èmes journées de l'AFIG)",
+"url": "https://hal.science/hal-01342495v1"
+},
+{
+"id": "p83e8abf088",
+"titre": "Variational Anisotropic Surface Meshing with Voronoi Parallel Linear Enumeration",
+"annee": 2012,
+"type": "chapitre",
+"lieu": "Proceedings of the 21st International Meshing Roundtable",
+"url": "https://inria.hal.science/hal-00804558v1",
+"doi": "10.1007/978-3-642-33573-0_21"
+},
+{
+"id": "p57a18cc297",
+"titre": "Combinatorial Bidirectional Path-Tracing for Efficient Hybrid CPU/GPU Rendering.",
+"annee": 2011,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-01498411v1",
+"doi": "10.1111/j.1467-8659.2011.01863.x"
+},
+{
+"id": "p987acfc5ef",
+"titre": "Displacement interpolation using Lagrangian mass transport",
+"annee": 2011,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-00763270v1",
+"doi": "10.1145/2070781.2024192"
+},
+{
+"id": "pd22565f6bd",
+"titre": "Dynamic Stylized Shading Primitives",
+"annee": 2011,
+"type": "conférence",
+"lieu": "NPAR '11:Proceedings of the 8th International Symposium on Non-Photorealistic Animation and Rendering",
+"url": "https://hal.science/hal-00617157v1",
+"doi": "10.1145/2024676.2024693"
+},
+{
+"id": "p38d1c05cb5",
+"titre": "Effective Despeckling of HDR Images",
+"annee": 2011,
+"type": "conférence",
+"lieu": "SIGGRAPH Asia 2011 Sketches",
+"url": "https://hal.science/hal-01518540v1",
+"doi": "10.1145/2077378.2077431"
+},
+{
+"id": "p62d7a73399",
+"titre": "Implicit Brushes for Stylized Line-based Rendering",
+"annee": 2011,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/inria-00569958v1",
+"doi": "10.1111/j.1467-8659.2011.01892.x"
+},
+{
+"id": "p80a4c11753",
+"titre": "Occlusion Tiling",
+"annee": 2011,
+"type": "conférence",
+"lieu": "Graphics Interface",
+"url": "https://hal.science/hal-01518541v1",
+"doi": "10.20380/gi2011.10"
+},
+{
+"id": "pf22ce86c21",
+"titre": "Relighting Photographs of Tree Canopies",
+"annee": 2011,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/inria-00607042v1",
+"doi": "10.1109/tvcg.2010.236"
+},
+{
+"id": "pce1a922d3c",
+"titre": "Representativity for Robust and Adaptive Multiple Importance Sampling",
+"annee": 2011,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://hal.science/hal-01498412v1",
+"doi": "10.1109/tvcg.2010.230"
+},
+{
+"id": "p67328626ea",
+"titre": "Sample-Space Bright Spots Removal Using Density Estimation",
+"annee": 2011,
+"type": "conférence",
+"lieu": "Graphics Interface",
+"url": "https://hal.science/hal-01518544v1",
+"doi": "10.20380/gi2011.21"
+},
+{
+"id": "pe55bf67a69",
+"titre": "Semi-automatic 3D Acquisition and Reassembly of Cultural Heritage: The SeARCH Project",
+"annee": 2011,
+"type": "journal",
+"lieu": "ERCIM News",
+"url": "https://hal.science/hal-00628506v1"
+}
+]
+}

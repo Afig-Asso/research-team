@@ -1,0 +1,695 @@
+{
+"equipe": "LIRIS/SAARA",
+"publications": [
+{
+"id": "p963e86be8f",
+"titre": "XmoPipe: A Pipeline for Large‐Scale In‐the‐Wild Human Motion Dataset Construction",
+"annee": 2026,
+"type": "journal",
+"lieu": "Computer Animation and Virtual Worlds",
+"url": "https://doi.org/10.1002/cav.70156",
+"doi": "10.1002/cav.70156"
+},
+{
+"id": "pa08b59348b",
+"titre": "Breast Cancer Diagnosis With Explainable Artificial Intelligence (XAI): Uncovering Strengths and Biases",
+"annee": 2025,
+"type": "journal",
+"lieu": "IEEE Access",
+"url": "https://hal.science/hal-05418268v1",
+"doi": "10.1109/access.2025.3639184"
+},
+{
+"id": "p81cd27d843",
+"titre": "Leveraging Latent Space and Radiomics for Multi-Label Classification of Chest CT Scans",
+"annee": 2025,
+"type": "conférence",
+"lieu": "Plate-Forme Intelligence Artificielle",
+"url": "https://hal.science/hal-05408360v1"
+},
+{
+"id": "p2beb18a988",
+"titre": "Fluid initialization and dynamic window for smoothed-particle hydrodynamics simulation",
+"annee": 2024,
+"type": "journal",
+"lieu": "SIMULATION",
+"url": "https://doi.org/10.1177/00375497231216477",
+"doi": "10.1177/00375497231216477"
+},
+{
+"id": "p58f8cb1034",
+"titre": "Pure Physics-Based Hand Interaction in VR",
+"annee": 2024,
+"type": "conférence",
+"lieu": "19th International Conference on Computer Graphics Theory and Applications (VISIGRAPP 2024)",
+"url": "https://hal.science/hal-04509013v1",
+"doi": "10.5220/0012320400003660"
+},
+{
+"id": "p1c8d461ec1",
+"titre": "Emotion Expression in Human Body Posture and Movement: A Survey on Intelligible Motion Factors, Quantification and Validation",
+"annee": 2023,
+"type": "journal",
+"lieu": "IEEE Transactions on Affective Computing",
+"url": "https://hal.science/hal-03899236v1",
+"doi": "10.1109/taffc.2022.3226252"
+},
+{
+"id": "p556b5622d4",
+"titre": "Interaction physique en RV basée sur les mouvements de la main capturés",
+"annee": 2023,
+"type": "conférence",
+"lieu": "journées Françaises de l'Informatique Graphique",
+"url": "https://hal.science/hal-04814226v1"
+},
+{
+"id": "pc09485959f",
+"titre": "Analysis of a predictive forward simulator of human gaits",
+"annee": 2022,
+"type": "chapitre",
+"lieu": "Converging Clinical and Engineering Research on Neurorehabilitation IV",
+"url": "https://hal.science/hal-03028905v1",
+"doi": "10.1007/978-3-030-70316-5_58"
+},
+{
+"id": "p331bc28ed7",
+"titre": "Optimizations for predictive–corrective particle-based fluid simulation on GPU",
+"annee": 2022,
+"type": "journal",
+"lieu": "The Visual Computer",
+"url": "https://doi.org/10.1007/s00371-021-02379-w",
+"doi": "10.1007/s00371-021-02379-w"
+},
+{
+"id": "p49bc3bc461",
+"titre": "The influence of stiff-knee gait on EMG and muscle activation during predictive simulation of a knee disarticulation patient and a healthy subject",
+"annee": 2022,
+"type": "conférence",
+"lieu": "9th World Conference of Biomechanics (WCB)",
+"url": "https://hal.science/hal-04030477v1"
+},
+{
+"id": "pc8adffd5c1",
+"titre": "Explicit forward gait prediction using parametric trajectories adaptation",
+"annee": 2021,
+"type": "conférence",
+"lieu": "Journées Françaises de l'Informatique Graphique (J.FIG)",
+"url": "https://hal.science/hal-03542676v1"
+},
+{
+"id": "p49851ba226",
+"titre": "Learning-based pose edition for efficient and interactive design",
+"annee": 2021,
+"type": "journal",
+"lieu": "Computer Animation and Virtual Worlds",
+"url": "https://hal.science/hal-03275581v1",
+"doi": "10.1002/cav.2013"
+},
+{
+"id": "pe0770f651e",
+"titre": "Motion control and prediction of virtual characters",
+"annee": 2021,
+"type": "conférence",
+"lieu": "Computer Graphics International (CGI)",
+"url": "https://hal.science/hal-03511176v1"
+},
+{
+"id": "pf14d6dd962",
+"titre": "Predicting the effects of knee extensor muscle weakening and strengthening on a post-stroke gait",
+"annee": 2021,
+"type": "conférence",
+"lieu": "XXVIII Congress of the International Society of Biomechanics (ISB)",
+"url": "https://hal.science/hal-03542694v1"
+},
+{
+"id": "p47fce4607b",
+"titre": "Predictive simulation of post-stroke gait with functional electrical stimulation",
+"annee": 2021,
+"type": "journal",
+"lieu": "Scientific Reports",
+"url": "https://hal.science/hal-03542660v1",
+"doi": "10.1038/s41598-021-00658-z"
+},
+{
+"id": "p60ef7dfd35",
+"titre": "Simulation-based optimization approach for explicit forward gait prediction",
+"annee": 2021,
+"type": "conférence",
+"lieu": "14th ACM SIGGRAPH Conference on Motion, Interaction and Games",
+"url": "https://hal.science/hal-03542688v1"
+},
+{
+"id": "p0a050e5cb7",
+"titre": "A Game-Based Rehabilitation Therapy for Post-Stroke Patients: An Approach for Improving Patient Motivation and Engagement",
+"annee": 2020,
+"type": "journal",
+"lieu": "IEEE Systems, Man, and Cybernetics Magazine",
+"url": "https://hal.science/hal-03034557v1",
+"doi": "10.1109/msmc.2020.3002519"
+},
+{
+"id": "p590e8f9acd",
+"titre": "Character Pose Design in Latent Space For Animation Edition",
+"annee": 2020,
+"type": "conférence",
+"lieu": "Journées Françaises de l'Informatique Graphique 2020",
+"url": "https://hal.science/hal-03338910v1"
+},
+{
+"id": "pc1b16954b9",
+"titre": "Component-based face recognition using statistical pattern matching analysis",
+"annee": 2020,
+"type": "journal",
+"lieu": "Pattern Analysis and Applications",
+"url": "https://hal.science/hal-03034605v1",
+"doi": "10.1007/s10044-020-00895-4"
+},
+{
+"id": "p0b944d7b62",
+"titre": "Generic Body Expression Recognition Based on Synthesis of Realistic Neutral Motion",
+"annee": 2020,
+"type": "journal",
+"lieu": "IEEE Access",
+"url": "https://hal.science/hal-03027661v1",
+"doi": "10.1109/access.2020.3038473"
+},
+{
+"id": "p84ffe28389",
+"titre": "ZF Model Efficiency for Automatic Hand Detection in Vehicles",
+"annee": 2020,
+"type": "conférence",
+"lieu": "IJCNN 2020 : International Joint Conference on Neural Networks",
+"url": "https://hal.science/hal-02539140v1"
+},
+{
+"id": "p013219cccf",
+"titre": "A novel database of children's spontaneous facial expressions (LIRIS-CSE)",
+"annee": 2019,
+"type": "journal",
+"lieu": "Image and Vision Computing",
+"url": "https://hal.science/hal-02093185v1",
+"doi": "10.1016/j.imavis.2019.02.004"
+},
+{
+"id": "p32dae6234f",
+"titre": "Physics-based control of walking virtual characters in low frequency simulations",
+"annee": 2018,
+"type": "conférence",
+"lieu": "31st International Conference on Computer Animation and Social Agents CASA 2018",
+"url": "https://hal.science/hal-01884827v1",
+"doi": "10.1145/3205326.3205361"
+},
+{
+"id": "p6b74a91e84",
+"titre": "Coupled 2D and 3D Analysis for Moving Objects Detection with a Moving Camera",
+"annee": 2017,
+"type": "conférence",
+"lieu": "12th International Conference on Computer Vision Theory and Applications",
+"url": "https://hal.science/hal-01488610v1",
+"doi": "10.5220/0006132002360245"
+},
+{
+"id": "pdba30be56f",
+"titre": "Physics-based control of virtual characters in low frequency simulations",
+"annee": 2017,
+"type": "conférence",
+"lieu": "journées françaises d'informatique graphique (j.FIG)",
+"url": "https://hal.science/hal-01765240v1"
+},
+{
+"id": "p0a5bd10990",
+"titre": "Reconnaissance d'expressions corporelles à l'aide d'un mouvement neutre synthétisé",
+"annee": 2017,
+"type": "conférence",
+"lieu": "CORESA 2017 (COmpression et REprésentation des Signaux Audiovisuels)",
+"url": "https://hal.science/hal-01680819v1"
+},
+{
+"id": "pbfa62d6a7b",
+"titre": "Saliency Based Framework for Facial Expression Recognition",
+"annee": 2017,
+"type": "journal",
+"lieu": "Frontiers of Computer Science",
+"url": "https://hal.science/hal-01546192v1",
+"doi": "10.1007/s11704-017-6114-9"
+},
+{
+"id": "pf3dcf9ae42",
+"titre": "Toward an Efficient Body Expression Recognition Based on the Synthesis of a Neutral Movement",
+"annee": 2017,
+"type": "conférence",
+"lieu": "19th ACM International Conference on Multimodal Interaction",
+"url": "https://hal.science/hal-01675222v1",
+"doi": "10.1145/3136755.3136763"
+},
+{
+"id": "p7d3608ceb2",
+"titre": "Body expression recognition from animated 3D skeleton",
+"annee": 2016,
+"type": "conférence",
+"lieu": "International Conference on 3D Imaging (IC3D 2016)",
+"url": "https://hal.science/hal-01494984v1",
+"doi": "10.1109/ic3d.2016.7823448"
+},
+{
+"id": "p0485d4a854",
+"titre": "Component Based Face Recognition using Feature Matching through Hu Moment Invariants",
+"annee": 2016,
+"type": "journal",
+"lieu": "International Journal of Computer Science and Information Security",
+"url": "https://hal.science/hal-02539175v1"
+},
+{
+"id": "pe426e1298b",
+"titre": "Muscle-Based Control For Character Animation",
+"annee": 2016,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-01317881v1",
+"doi": "10.1111/cgf.12863"
+},
+{
+"id": "p385be08254",
+"titre": "The CIRDO Corpus: Comprehensive Audio/Video Database of Domestic Falls of Elderly People",
+"annee": 2016,
+"type": "conférence",
+"lieu": "10th International Conference on Language Resources and Evaluation (LREC 2016)",
+"url": "https://hal.science/hal-01323603v1"
+},
+{
+"id": "pc3cc5db029",
+"titre": "A scalable geometrical model for musculotendon units",
+"annee": 2015,
+"type": "journal",
+"lieu": "Computer Animation and Virtual Worlds",
+"url": "https://hal.science/hal-01267254v1",
+"doi": "10.1002/cav.1684"
+},
+{
+"id": "p3479939b66",
+"titre": "Automatic Affect Analysis: From Children to Adults",
+"annee": 2015,
+"type": "conférence",
+"lieu": "11th International Symposium on Visual Computing (ISVC)",
+"url": "https://hal.science/hal-01252358v1",
+"doi": "10.1007/978-3-319-27863-6_28"
+},
+{
+"id": "p5b65c39a05",
+"titre": "Real-time gait control for partially immersed bipeds",
+"annee": 2015,
+"type": "conférence",
+"lieu": "ACM Motion in Games",
+"url": "https://hal.science/hal-01263675v1",
+"doi": "10.1145/2822013.2822016"
+},
+{
+"id": "p7b662f1d3d",
+"titre": "A practical framework for generating volumetric meshes of subject-specific soft tissue",
+"annee": 2014,
+"type": "journal",
+"lieu": "The Visual Computer",
+"url": "https://hal.science/hal-03542739v1",
+"doi": "10.1007/s00371-013-0788-2"
+},
+{
+"id": "p28e310476b",
+"titre": "Automatic Analysis of Affective States: Visual Attention Based Approach",
+"annee": 2014,
+"type": "conférence",
+"lieu": "International Multi Topic Conference 2013",
+"url": "https://hal.science/hal-01314489v1",
+"doi": "10.1007/978-3-319-10987-9_10"
+},
+{
+"id": "padbf8af19e",
+"titre": "CIRDO: Smart companion for helping elderly to live at home for longer",
+"annee": 2014,
+"type": "journal",
+"lieu": "Innovation and Research in BioMedical engineering",
+"url": "https://hal.science/hal-00967911v1",
+"doi": "10.1016/j.irbm.2014.02.011"
+},
+{
+"id": "pd58538a978",
+"titre": "Face Recognition using Eyes, Nostrils and Mouth Features",
+"annee": 2014,
+"type": "conférence",
+"lieu": "the Proceedings of the 16th International Conference on Computer and Information Technology, ICCIT2013",
+"url": "https://hal.science/hal-01301124v1"
+},
+{
+"id": "p34bbbcc9a1",
+"titre": "Le projet CIRDO d'assistance aux personnes âgées isolées à domicile",
+"annee": 2014,
+"type": "conférence",
+"lieu": "Congrès Handicap 2014 - 8ème Édition - Les technologies d'assistance : de la compensation à l'autonomie",
+"url": "https://hal.science/hal-00990201v1"
+},
+{
+"id": "pd3eb640905",
+"titre": "Ongoing Human Action Recognition with Motion Capture",
+"annee": 2014,
+"type": "journal",
+"lieu": "Pattern Recognition",
+"url": "https://hal.science/hal-01267690v1",
+"doi": "10.1016/j.patcog.2013.06.020"
+},
+{
+"id": "p878013ae4c",
+"titre": "Physics-based motion control through hierarchical neuroevolution",
+"annee": 2014,
+"type": "conférence",
+"lieu": "27th Conference on Computer Animation and Social Agents (CASA)",
+"url": "https://hal.science/hal-03542708v1"
+},
+{
+"id": "pef7e0737e1",
+"titre": "A Real-Time System for Motion Retrieval and Interpretation",
+"annee": 2013,
+"type": "journal",
+"lieu": "Pattern Recognition Letters",
+"url": "https://hal.science/hal-01339146v1",
+"doi": "10.1016/j.patrec.2012.12.020"
+},
+{
+"id": "p9e57032975",
+"titre": "Framework for reliable, real-time facial expression recognition for low resolution images",
+"annee": 2013,
+"type": "journal",
+"lieu": "Pattern Recognition Letters",
+"url": "https://hal.science/hal-00817293v1",
+"doi": "10.1016/j.patrec.2013.03.022"
+},
+{
+"id": "pfd00e21eef",
+"titre": "Modeling and Simulating Virtual Anatomical Humans",
+"annee": 2013,
+"type": "chapitre",
+"lieu": "3D MultiScale Physiological Human",
+"url": "https://hal.science/hal-03542715v1",
+"doi": "10.1007/978-1-4471-6275-9_6"
+},
+{
+"id": "p4f851d89eb",
+"titre": "Pain detection through shape and appearance features.",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Multimedia and Expo (ICME), 2013 IEEE International Conference on",
+"url": "https://ujm.hal.science/ujm-00875093v1",
+"doi": "10.1109/icme.2013.6607608"
+},
+{
+"id": "peb6c3cd52a",
+"titre": "Physically-based Human Neck Simulation",
+"annee": 2013,
+"type": "conférence",
+"lieu": "10th Workshop on Virtual Reality Interaction and Physical Simulation (VRIPHYS)",
+"url": "https://hal.science/hal-03542732v1"
+},
+{
+"id": "pf7256f2765",
+"titre": "Boosting Economic Growth Through Advanced Machine Vision",
+"annee": 2012,
+"type": "chapitre",
+"lieu": "Human-Centric Machine Vision",
+"url": "https://hal.science/hal-01133829v1",
+"doi": "10.5772/34639"
+},
+{
+"id": "pd2cab4640b",
+"titre": "Démarche de développement de technologies ambiantes pour le maintien à domicile des personnes dépendantes : vers une triangulation des méthodes et des approches",
+"annee": 2012,
+"type": "conférence",
+"lieu": "Actes du 1er Congrès Européen de Stimulation Cognitive",
+"url": "https://inria.hal.science/hal-00953518v1"
+},
+{
+"id": "pc0088d14dd",
+"titre": "Exploring human visual system: study to aid the development of automatic facial expression recognition framework",
+"annee": 2012,
+"type": "conférence",
+"lieu": "Conference on Computer Vision and Pattern Recognition(CVPR), Workshop on Gesture Recognition",
+"url": "https://ujm.hal.science/ujm-00714091v1"
+},
+{
+"id": "p173185a3af",
+"titre": "Extraction de silhouette et suivi des parties du corps dans un environnement non-contrôlé",
+"annee": 2012,
+"type": "conférence",
+"lieu": "CORESA 2012",
+"url": "https://hal.science/hal-01353132v1"
+},
+{
+"id": "pb3280a94e6",
+"titre": "Extraction of Facial Feature Points Using Cumulative Histogram",
+"annee": 2012,
+"type": "journal",
+"lieu": "IJCSI International Journal of Computer Science Issues",
+"url": "https://hal.science/hal-01353380v1"
+},
+{
+"id": "p713cafc431",
+"titre": "Extraction of Facial Feature Points Using Extraction of Facial Feature Points Using Cumulative Distribution Function by Varying Single Threshold Group",
+"annee": 2012,
+"type": "conférence",
+"lieu": "IEEE/OSA/IARP International Conference on Informatics, Electronics & Vision (ICIEV)",
+"url": "https://hal.science/hal-01353017v1",
+"doi": "10.1109/iciev.2012.6317366"
+},
+{
+"id": "p8fb6b4c54e",
+"titre": "Extraction of Facial Feature Points from CDF using Otsu Thresholding",
+"annee": 2012,
+"type": "journal",
+"lieu": "Journal of Iimaging and Vision Research",
+"url": "https://hal.science/hal-01353148v1"
+},
+{
+"id": "p824e1857e2",
+"titre": "Generic Spine Model with Simple Physics for Life-Like Quadrupeds and Reptiles",
+"annee": 2012,
+"type": "conférence",
+"lieu": "VRIPHYS",
+"url": "https://hal.science/hal-01126423v1"
+},
+{
+"id": "pb4da539a7f",
+"titre": "Human Actions Recognition from Streamed Motion Capture",
+"annee": 2012,
+"type": "conférence",
+"lieu": "International Conference on Pattern Recognition (ICPR)",
+"url": "https://hal.science/hal-01353013v1"
+},
+{
+"id": "p83f192de24",
+"titre": "Human vision inspired framework for facial expressions recognition",
+"annee": 2012,
+"type": "conférence",
+"lieu": "Image Processing (ICIP), 2012 19th IEEE International Conference on",
+"url": "https://hal.science/hal-00794159v1",
+"doi": "10.1109/icip.2012.6467429"
+},
+{
+"id": "p0ad469e99b",
+"titre": "Interactions Intelligentes à Base de Mouvements",
+"annee": 2012,
+"type": "conférence",
+"lieu": "RFIA 2012 (Reconnaissance des Formes et Intelligence Artificielle)",
+"url": "https://hal.science/hal-00660987v1"
+},
+{
+"id": "p420f211da6",
+"titre": "Interactive Character Animation Using Simulated Physics: A State-of-the-Art Review",
+"annee": 2012,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-03542752v1",
+"doi": "10.1111/j.1467-8659.2012.03189.x"
+},
+{
+"id": "pdf4de78a7d",
+"titre": "Interprétation de Mouvements Temps Réel",
+"annee": 2012,
+"type": "conférence",
+"lieu": "RFIA 2012 (Reconnaissance des Formes et Intelligence Artificielle)",
+"url": "https://hal.science/hal-00656544v1"
+},
+{
+"id": "p7cdde660fc",
+"titre": "Méthode robuste pour la détection de chute dans un environnement non-contrôlé",
+"annee": 2012,
+"type": "conférence",
+"lieu": "RFIA 2012 (Reconnaissance des Formes et Intelligence Artificielle)",
+"url": "https://hal.science/hal-00660974v1"
+},
+{
+"id": "pd6a3d5637a",
+"titre": "Procedural Locomotion of Multi-Legged Characters in Dynamic Environments",
+"annee": 2012,
+"type": "journal",
+"lieu": "Computer Animation and Virtual Worlds",
+"url": "https://hal.science/hal-01352977v1",
+"doi": "10.1002/cav.1467"
+},
+{
+"id": "p7e94fe680d",
+"titre": "Real-Time Musculoskeletal Model for Injury Simulation on 3D Human Characters",
+"annee": 2012,
+"type": "conférence",
+"lieu": "Motion In Games Conference (MIG)",
+"url": "https://hal.science/hal-03542744v1"
+},
+{
+"id": "p0e3f4daea9",
+"titre": "Real-time two level foreground detection and person silhouette extraction enhanced by body parts tracking",
+"annee": 2012,
+"type": "conférence",
+"lieu": "SPIE Electronic Imaging, Intelligent Robots and Computer Vision XXIX: Algorithms and Techniques",
+"url": "https://hal.science/hal-01352971v1",
+"doi": "10.1117/12.908435"
+},
+{
+"id": "p5da06011b5",
+"titre": "Reconnaissance d'Action à Partir de Capture de Mouvements",
+"annee": 2012,
+"type": "conférence",
+"lieu": "CORESA",
+"url": "https://hal.science/hal-01352974v1"
+},
+{
+"id": "p90dfddb51e",
+"titre": "Simple Data-Driven Control for Simulated Bipeds",
+"annee": 2012,
+"type": "conférence",
+"lieu": "Eurographics / ACM SIGGRAPH Symposium on Computer Animation (SCA)",
+"url": "https://hal.science/hal-03542761v1"
+},
+{
+"id": "p50429379ae",
+"titre": "Une méthode de reconnaissance des expressions du visage basée sur la perception",
+"annee": 2012,
+"type": "conférence",
+"lieu": "RFIA 2012 (Reconnaissance des Formes et Intelligence Artificielle)",
+"url": "https://hal.science/hal-00660976v1"
+},
+{
+"id": "p9fe76789dc",
+"titre": "Vision et Réalité Augmentée pour l'interaction \"à distance",
+"annee": 2012,
+"type": "conférence",
+"lieu": "RFIA 2012 (Reconnaissance des Formes et Intelligence Artificielle)",
+"url": "https://hal.science/hal-00660966v1"
+},
+{
+"id": "p16ce944921",
+"titre": "3d Hand model animation with a new data-driven method",
+"annee": 2011,
+"type": "conférence",
+"lieu": "The 24th International Conference on Computer Animation and Social Agents(CASA)",
+"url": "https://hal.science/hal-01354462v1"
+},
+{
+"id": "p07b6e9e7ef",
+"titre": "A NEW DEPTH-BASED FUNCTION FOR 3D HAND MOTION TRACKING",
+"annee": 2011,
+"type": "conférence",
+"lieu": "International Conférence on Computer Vision Theory and Applications(VISAPP)",
+"url": "https://hal.science/hal-01354461v1",
+"doi": "10.5220/0003378106530658"
+},
+{
+"id": "p510d0a54ce",
+"titre": "A visualization framework for the analysis of neuromuscular simulations",
+"annee": 2011,
+"type": "journal",
+"lieu": "The Visual Computer",
+"url": "https://hal.science/hal-03542784v1",
+"doi": "10.1007/s00371-010-0534-y"
+},
+{
+"id": "p0bc921e111",
+"titre": "Adding physical like reaction effects to skeleton-based animations using controllable pendulums",
+"annee": 2011,
+"type": "journal",
+"lieu": "Lecture Notes in Computer Science",
+"url": "https://hal.science/hal-01126420v1",
+"doi": "10.1007/978-3-642-22639-7_12"
+},
+{
+"id": "p3716eea279",
+"titre": "Automatic Adaptive Facial Feature Extraction Using CDF Analysis",
+"annee": 2011,
+"type": "conférence",
+"lieu": "Proceedings of The International Conference on Digital Information and Communication Technology and its Applications, Communications in Computer and Information Science DICTAP2011",
+"url": "https://hal.science/hal-01354532v1",
+"doi": "10.1007/978-3-642-21984-9_28"
+},
+{
+"id": "pcc04a05003",
+"titre": "Easy Acquisition and Real-Time Animation of Facial Wrinkles",
+"annee": 2011,
+"type": "journal",
+"lieu": "Computer Animation and Virtual Worlds",
+"url": "https://hal.science/hal-00631255v1",
+"doi": "10.1002/cav.395"
+},
+{
+"id": "pe4afb9f1e3",
+"titre": "Evaluation of a geometry-based knee joint compared to a planar knee joint",
+"annee": 2011,
+"type": "journal",
+"lieu": "The Visual Computer",
+"url": "https://hal.science/hal-03542776v1",
+"doi": "10.1007/s00371-010-0538-7"
+},
+{
+"id": "p77f25efb04",
+"titre": "Facial Expression Recognition using Entropy and Brightness Features",
+"annee": 2011,
+"type": "conférence",
+"lieu": "11th International Conference on Intelligent Systems Design and Applications (ISDA)",
+"url": "https://ujm.hal.science/ujm-00632860v1"
+},
+{
+"id": "p09db73d4ee",
+"titre": "Intelligent Interactions Based on Motion",
+"annee": 2011,
+"type": "conférence",
+"lieu": "Workshop CBR and Games, ICCBR 2011",
+"url": "https://hal.science/hal-01354485v1"
+},
+{
+"id": "p79c9ce3857",
+"titre": "Nouvelle méthode de suivi des mouvements la main utilisant des nuages de points 3D",
+"annee": 2011,
+"type": "conférence",
+"lieu": "ORASIS - Congrès des jeunes chercheurs en vision par ordinateur",
+"url": "https://inria.hal.science/inria-00595487v1"
+},
+{
+"id": "p56ba2d3a47",
+"titre": "Separating superfluous from essential: which facial region(s) holds the key for expression recognition?",
+"annee": 2011,
+"type": "conférence",
+"lieu": "16th European Conferences on Eye Movements",
+"url": "https://ujm.hal.science/ujm-00632446v1"
+},
+{
+"id": "pb6cba2b996",
+"titre": "The use of constraints for calibration-free 3D metric reconstruction: from theory to applications",
+"annee": 2011,
+"type": "chapitre",
+"lieu": "In Emerging Topics in Computer Vision and its Applications.Series in Computer Vision - Vol 1",
+"url": "https://hal.science/hal-01354531v1"
+},
+{
+"id": "p94d44636ff",
+"titre": "Utilisation de l'ACP pour la reconnaissance des gestes 3D de la main",
+"annee": 2011,
+"type": "conférence",
+"lieu": "ORASIS - Congrès des jeunes chercheurs en vision par ordinateur",
+"url": "https://inria.hal.science/inria-00595488v1"
+}
+]
+}

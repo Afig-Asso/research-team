@@ -1,0 +1,82 @@
+equipe: LIX/VISTA
+domaines:
+  principaux:
+  - animation
+  - modelisation
+  secondaires:
+  - humains
+  - ia
+themes:
+- id: terrains_nature
+  phrase: 'Création et simulation de terrains, planètes et phénomènes naturels : érosion glaciaire ou inversée, grès, éruptions
+    volcaniques et ciels.'
+  preuves:
+  - p9fc75cd475
+  - p9e6a3f3d85
+  - pe9bdaaf8fe
+- id: modeles_generatifs
+  phrase: Modèles de diffusion pour créer des terrains et des planètes, générer conjointement mouvement humain et trajectoires
+    de caméra à partir de texte, et générer des vidéos à optique contrôlée.
+  preuves:
+  - p9fc75cd475
+  - pebf1a1ade4
+  - pc41dcb9d0d
+- id: synthese_mouvement
+  phrase: Reciblage de mouvement temps réel tenant compte des contacts et des morphologies, contrôleurs appris et diffusion
+    de mouvement.
+  preuves:
+  - pd75a632df1
+  - p6e8bb4a131
+  - p0f83441bbf
+- id: animation_expressive
+  phrase: Effets cartoon pilotés par la cinématique, oscillations expressives et retiming d'animations de personnages articulés.
+  preuves:
+  - p8d955361be
+  - p92c97c23fd
+  - pf2dfc1af18
+- id: cinematographie
+  phrase: Génération de trajectoires de caméra cinématographiques par modèles de diffusion, conjointement au mouvement des
+    personnages.
+  preuves:
+  - pebf1a1ade4
+  - pf4049d9293
+  - p2ec6eb5145
+- id: sketching
+  phrase: 'Création de formes 3D et d''animations à partir d''esquisses : structures branchues, formes organiques, annotations
+    de type bande dessinée.'
+  preuves:
+  - p72cbdd4daf
+  - p0b86d79b3e
+  - pd3918ab28f
+applications:
+- id: cinema_vfx
+  preuves:
+  - pebf1a1ade4
+  - p8d955361be
+  - p42edde52c9
+- id: jeu_video
+  preuves:
+  - pd75a632df1
+  - p0f83441bbf
+  - pfd3b7a23a7
+- id: environnement
+  preuves:
+  - pe9bdaaf8fe
+  - pc06a3979b1
+  - p38bd5cd154
+- id: architecture_urbain
+  preuves:
+  - p50726b2c8c
+  - pd148ccafa4
+publications_representatives:
+- pd75a632df1
+- pebf1a1ade4
+- p8d955361be
+- p72cbdd4daf
+- p26a6ad728b
+synthese: 'Création de mondes virtuels animés : terrains et phénomènes naturels, animation de personnages et rigging, modèles
+  génératifs, cinématographie virtuelle et modélisation par esquisse.'
+pour_etudiants: 'On y crée des mondes virtuels animés : paysages et planètes, personnages expressifs, mouvements de caméra,
+  et formes dessinées à la main.'
+pour_entreprises: Outils de création de paysages et d'effets naturels, animation et reciblage de personnages temps réel, génération
+  automatique de plans de caméra et de mouvements par IA générative.

@@ -1,0 +1,65 @@
+equipe: LJK/ELAN
+domaines:
+  principaux:
+  - animation
+  secondaires:
+  - fabrication
+themes:
+- id: simulation_deformables
+  phrase: Modèles numériques de tiges, rubans et coques minces élastiques avec contact frottant précis, validés par l'expérience.
+  preuves:
+  - p84322b4bfb
+  - p70bdf5c7ac
+  - pb9b4c41f02
+- id: conception_inverse
+  phrase: Retrouver la forme au repos de tiges et de coques élastiques à partir de leur géométrie observée.
+  preuves:
+  - pa8d91d9a04
+  - p80d8ee3406
+  - pffe19ae204
+- id: materiaux_granulaires
+  phrase: Simulation continue non lisse des matériaux granulaires (point matériel, effondrements et écoulements transitoires)
+    confrontée aux expériences sur le rôle du frottement.
+  preuves:
+  - p60b3c10802
+  - pe08ec73a0f
+  - pc514830863
+- id: parametres_physiques_vision
+  phrase: Mesure du frottement tissu-tissu et tissu-corps à partir de vidéos, par simulation et apprentissage.
+  preuves:
+  - p7f9367648a
+  - pd5604078ef
+  - p52f71677d4
+- id: simulation_fluides
+  phrase: Modèles hydrodynamiques minimaux de nageurs et lois d'échelle de la nage.
+  preuves:
+  - pfc6c7475b5
+  - pd011b1b0a3
+  - p39108a5481
+applications:
+- id: mode_textile
+  preuves:
+  - p76748e32b0
+  - p7f9367648a
+  - pd5604078ef
+- id: cinema_vfx
+  preuves:
+  - p76748e32b0
+  - pabb8abf67a
+- id: biologie
+  preuves:
+  - p13a13d45b6
+  - pf2b002533a
+  - pfc6c7475b5
+publications_representatives:
+- p4a7e15edaa
+- p84322b4bfb
+- p70bdf5c7ac
+- p13a13d45b6
+- pfc6c7475b5
+synthese: Simulation physique d'objets minces et déformables (tiges, coques, tissus, cheveux), contact et frottement, estimation
+  de paramètres physiques par vision.
+pour_etudiants: On y simule des objets fins et souples (cheveux, tissus, rubans, plumes) avec une physique précise, et on
+  retrouve leur forme à partir d'observations.
+pour_entreprises: Simulation prédictive de fibres, tissus et coques avec frottement, mesure de frottement par vidéo, et matériaux
+  granulaires.

@@ -1,0 +1,83 @@
+equipe: LJK/MAVERICK
+domaines:
+  principaux:
+  - rendu
+  secondaires:
+  - images
+  - visu
+themes:
+- id: rendu_physique
+  phrase: Théorie spectrale des opérateurs de transport de lumière, transport gaussien et rendu de caustiques par estimation
+    d'événements spéculaires.
+  preuves:
+  - p7e1e1cdb1b
+  - pd03dcdf8e1
+  - p795bbdf4f4
+- id: materiaux_brdf
+  phrase: Modèles de microfacettes discrets pour les reflets scintillants, BSDF multi-rebonds et approximation de BRDF mesurées.
+  preuves:
+  - p09ade3f93a
+  - p46b4a4a165
+  - p3c1b76ed5f
+- id: gpu_volumes
+  phrase: Rendu GPU de mondes volumiques très vastes et détaillés (voxels, bruit procédural, shaders de maillage).
+  preuves:
+  - p56440139a6
+  - p5216aa5989
+  - p440958745f
+- id: milieux_participants
+  phrase: Diffusion multiple précalculée ou apprise et guidage de chemins dans les milieux participants.
+  preuves:
+  - p32dd331d09
+  - p3fd4cc8c90
+  - p1f963b51da
+- id: rendu_expressif
+  phrase: 'Représentation stylisée du mouvement et de la forme : rubans de mouvement, stylisation au compositing, éclairage
+    expressif.'
+  preuves:
+  - pb9dda8b870
+  - pedf53bce13
+  - p5543c895af
+- id: perception
+  phrase: Perception de la forme par l'ombrage et qualité perçue des approximations de matériaux.
+  preuves:
+  - p42dc359890
+  - p7f02452f42
+  - p30cc1bb340
+applications:
+- id: cinema_vfx
+  preuves:
+  - p46b4a4a165
+  - p1f963b51da
+  - p9879e62c20
+- id: jeu_video
+  preuves:
+  - p5216aa5989
+  - p56440139a6
+  - p795bbdf4f4
+- id: geographie
+  preuves:
+  - p4eae74da8e
+  - pcd1ee07d47
+  - p954b08cd02
+- id: environnement
+  preuves:
+  - p391e05a4f4
+  - pde5243c11a
+- id: fabrication_additive
+  preuves:
+  - p29d537e983
+  - pdf9240ef83
+  - pc95c3801b7
+publications_representatives:
+- pd03dcdf8e1
+- p7e1e1cdb1b
+- p09ade3f93a
+- p42dc359890
+- p56440139a6
+synthese: Transport de lumière et illumination globale, matériaux et milieux participants, rendu GPU, rendu expressif et cartographie
+  panoramique.
+pour_etudiants: On y calcule des images où la lumière, les matériaux brillants, la fumée ou les nuages se comportent comme
+  dans la réalité, et aussi des rendus stylisés et des cartes panoramiques.
+pour_entreprises: Rendu réaliste et rapide de matériaux complexes, de caustiques et de très grandes scènes, ainsi que génération
+  de cartes panoramiques de montagne.

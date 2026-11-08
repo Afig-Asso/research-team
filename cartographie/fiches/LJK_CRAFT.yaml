@@ -1,0 +1,79 @@
+equipe: LJK/CRAFT
+domaines:
+  principaux:
+  - fabrication
+  - modelisation
+  secondaires:
+  - animation
+  - ia
+themes:
+- id: conception_inverse
+  phrase: Conception calculatoire de structures gonflables, de surfaces actives en flexion et de coffrages textiles atteignant
+    une forme cible.
+  preuves:
+  - p0ed292784a
+  - p482de6d6cf
+  - pa79ec89163
+- id: sketching
+  phrase: Création de surfaces à partir de traits et de rubans 3D désordonnés dessinés en réalité virtuelle.
+  preuves:
+  - pa34ac9da23
+  - p90348d2197
+  - peecf84cbcc
+- id: simulation_deformables
+  phrase: Simulation de coques minces, de plis fins et d'assemblages imprimés sur tissu tendu.
+  preuves:
+  - p05db8aca24
+  - pb32e7ef11b
+  - pdabf641c25
+- id: surfaces_implicites
+  phrase: Champs de distance neuronaux 1-Lipschitz et surfaces implicites neuronales à détails localisés.
+  preuves:
+  - p4ec291921c
+  - p0e3ce887cd
+  - pf975f1b076
+- id: impression_3d
+  phrase: Supports procéduraux pour la fabrication additive et impression multimatériau de pièces fonctionnelles ; métamatériaux
+    mécaniques et gonflables (auxétiques, métriques étoilées, membranes soudées) pour des surfaces libres.
+  preuves:
+  - pb23d7892ec
+  - p99dfbcd692
+  - pe4fa5878f2
+  - p25b94a9d23
+applications:
+- id: architecture_urbain
+  preuves:
+  - pa0c2054b51
+  - p4c8b068421
+  - p771c5ca676
+- id: mode_textile
+  preuves:
+  - p1e79bb5a2f
+  - pdd740cbb10
+  - p784e5b6794
+- id: fabrication_additive
+  preuves:
+  - pb23d7892ec
+  - p99dfbcd692
+  - p94282d4047
+- id: art_musique
+  preuves:
+  - pc72c13602f
+  - p300f1f2e9c
+  - p456fee5272
+- id: patrimoine
+  preuves:
+  - p784e5b6794
+  - p2beddbf122
+publications_representatives:
+- p0ed292784a
+- p25b94a9d23
+- p05db8aca24
+- p4ec291921c
+- p0e3ce887cd
+synthese: 'Conception assistée d''objets fabricables : conception inverse, métamatériaux, structures souples (gonflables,
+  textiles) et modélisation par esquisse.'
+pour_etudiants: On y invente des méthodes pour concevoir sur ordinateur des objets réellement fabricables (structures gonflables,
+  tissus, pièces imprimées) et pour modeler en 3D par le dessin.
+pour_entreprises: Conception d'objets déployables, gonflables ou en matériaux architecturés, coffrages réutilisables pour
+  le béton, prédiction du rétrécissement des tissus.

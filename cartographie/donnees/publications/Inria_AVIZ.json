@@ -1,0 +1,3342 @@
+{
+"equipe": "Inria/AVIZ",
+"publications": [
+{
+"id": "p545a16053c",
+"titre": "An Autoethnography on Visualization Literacy: A Wicked Measurement Problem",
+"annee": 2026,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://hal.science/hal-05245265v1",
+"doi": "10.1109/tvcg.2025.3634792"
+},
+{
+"id": "pcd44663804",
+"titre": "Authoring Narrative Visualization in Motion: Visual Storytelling in Swimming Videos",
+"annee": 2026,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://hal.science/hal-05714541v1"
+},
+{
+"id": "p3dafdc54d5",
+"titre": "Beyond Log Scales: Toward Cognitively Informed Bar Charts for Orders of Magnitude Values",
+"annee": 2026,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://hal.science/hal-05171203v1",
+"doi": "10.1109/tvcg.2025.3634795"
+},
+{
+"id": "pe7f7539f0f",
+"titre": "Data Visualization Reimagined for Freeform Displays",
+"annee": 2026,
+"type": "conférence",
+"lieu": "Journée Visu 2026",
+"url": "https://inria.hal.science/hal-05754596v1"
+},
+{
+"id": "pc116b3d1f0",
+"titre": "Design Considerations for Visualization Transitions of 3D Spatial Data in Hybrid AR‐Desktop Environments",
+"annee": 2026,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-05542621v1",
+"doi": "10.1111/cgf.70305"
+},
+{
+"id": "p45c685b4c9",
+"titre": "Design Guidelines for Animated Data Visualization Based on Perceptual Capacity Limits",
+"annee": 2026,
+"type": "journal",
+"lieu": "Cognitive Research: Principles and Implications",
+"url": "https://inria.hal.science/hal-05612469v1",
+"doi": "10.1186/s41235-026-00724-y"
+},
+{
+"id": "pdd3b33723c",
+"titre": "Developing a Design Space for Data Visualization on Spherical Displays",
+"annee": 2026,
+"type": "conférence",
+"lieu": "Journée Visu 2026",
+"url": "https://hal.science/hal-05753102v1"
+},
+{
+"id": "p5027199c61",
+"titre": "Diving Deep into Time: Temporal Arrangements for Embedded Visualization in Swimming Videos",
+"annee": 2026,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-05612503v1",
+"doi": "10.1109/tvcg.2026.3689361"
+},
+{
+"id": "p762eed623e",
+"titre": "Enhancing urban data exploration: Layer Toggling and Visibility-Preserving Lenses for multi-attribute spatial analysis",
+"annee": 2026,
+"type": "journal",
+"lieu": "Information Systems",
+"url": "https://inria.hal.science/hal-05540911v1",
+"doi": "10.1016/j.is.2026.102712"
+},
+{
+"id": "p7857c5469c",
+"titre": "Libra+: Compositional Interaction for Data Visualization",
+"annee": 2026,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-05711231v1"
+},
+{
+"id": "p2d6b941ae3",
+"titre": "More Than 63% of IEEE VIS Research Liable to be Retracted?! Ethics Approval Statements Protect Participants (and Researchers!)",
+"annee": 2026,
+"type": "conférence",
+"lieu": "BELIV 2026 - IEEE Workshop on Evaluation and Beyond: Methodological Approaches for Visualization",
+"url": "https://inria.hal.science/hal-05736767v1"
+},
+{
+"id": "p0f67218db1",
+"titre": "Piloting Planetarium Visualizations with LLMs during Live Events in Science Centers",
+"annee": 2026,
+"type": "conférence",
+"lieu": "EuroVis 2026 - Eurographics Conference on Visualization",
+"url": "https://inria.hal.science/hal-05661895v1",
+"doi": "10.2312/evs.20261022"
+},
+{
+"id": "p88b4757283",
+"titre": "ProgressiVis: A Language and Environment for Progressive Data Analysis and Visualization",
+"annee": 2026,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-05696316v1"
+},
+{
+"id": "p92ff9a132e",
+"titre": "Readability as a multi-measure construct in data visualization",
+"annee": 2026,
+"type": "conférence",
+"lieu": "CHI 2026 STAR Workshop - Science and Technology for Augmenting Reading",
+"url": "https://hal.science/hal-05548028v1"
+},
+{
+"id": "p943c5988d7",
+"titre": "Reframing Pattern: A Comprehensive Approach to a Composite Visual Variable",
+"annee": 2026,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-05379092v1",
+"doi": "10.1109/tvcg.2025.3633909"
+},
+{
+"id": "pb94f66ec81",
+"titre": "ScaleFree: Dynamic KDE for Multiscale Point Cloud Exploration in VR",
+"annee": 2026,
+"type": "conférence",
+"lieu": "VR 2026 - IEEE Conference on Virtual Reality and 3D User Interfaces",
+"url": "https://inria.hal.science/hal-05611962v1",
+"doi": "10.1109/vr67842.2026.00057"
+},
+{
+"id": "p00b510005c",
+"titre": "When Effort Makes Sense: Towards a Design Space of Frictive Interactions for Data Visualization",
+"annee": 2026,
+"type": "conférence",
+"lieu": "Journée Visu 2026",
+"url": "https://inria.hal.science/hal-05701192v1"
+},
+{
+"id": "p0d3c8aa36f",
+"titre": "Why Question Answering Modality Matters in Visualization Studies and Tests",
+"annee": 2026,
+"type": "conférence",
+"lieu": "BELIV 2026 - Workshop on Evaluation and Beyond: Methodological Approaches for Visualization",
+"url": "https://hal.science/hal-05717323v1"
+},
+{
+"id": "p3bd43e50aa",
+"titre": "Augmented Dynamic Data Physicalization: Blending Shape-changing Data Sculptures with Virtual Content for Interactive Visualization",
+"annee": 2025,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-05050880v1",
+"doi": "10.1109/tvcg.2025.3547432"
+},
+{
+"id": "pc29e2c1246",
+"titre": "Bi-Scale density-plot enhancement based on variance-aware filter",
+"annee": 2025,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://inria.hal.science/hal-04952763v1",
+"doi": "10.1016/j.cag.2025.104180"
+},
+{
+"id": "p787cd31454",
+"titre": "Bridging Educational Theories of Cognitive Load to Visualization Design and Evaluation",
+"annee": 2025,
+"type": "conférence",
+"lieu": "EduVis 2025 - 3d IEEE VIS Workshop on Visualization Education, Literacy, and Activities",
+"url": "https://hal.science/hal-05218370v1",
+"doi": "10.1109/eduvis69391.2025.00009"
+},
+{
+"id": "pedaa7e1773",
+"titre": "CLAImate: AI-Enabled Climate Change Communication through Personalized and Localized Narrative Visualizations",
+"annee": 2025,
+"type": "conférence",
+"lieu": "VIS - 2025 IEEE Visualization and Visual Analytics",
+"url": "https://inria.hal.science/hal-05425947v1",
+"doi": "10.1109/vis60296.2025.00012"
+},
+{
+"id": "pdd704f0327",
+"titre": "Changing the Paradigm from Dynamic Queries to LLM-generated SQL Queries with Human Intervention",
+"annee": 2025,
+"type": "conférence",
+"lieu": "VAHC - 2025 IEEE 16th Workshop on Visual Analytics in Healthcare",
+"url": "https://hal.science/hal-05341025v1"
+},
+{
+"id": "pcb8f69ea69",
+"titre": "Designing a Glyph-Based Hierarchical Visualization for Orders of Magnitude Values",
+"annee": 2025,
+"type": "conférence",
+"lieu": "VIS - 2025 IEEE Visualization and Visual Analytics",
+"url": "https://hal.science/hal-05236011v1"
+},
+{
+"id": "pea3ab398ca",
+"titre": "DiffFit: Visually-Guided Differentiable Fitting of Molecule Structures to a Cryo-EM Map",
+"annee": 2025,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-04665408v2",
+"doi": "10.1109/tvcg.2024.3456404"
+},
+{
+"id": "p059eba019e",
+"titre": "Errata to “DiffFit: Visually-Guided Differentiable Fitting of Molecule Structures to a Cryo-EM Map”",
+"annee": 2025,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-04869601v1",
+"doi": "10.1109/tvcg.2024.3502911"
+},
+{
+"id": "p6bf7fb1210",
+"titre": "Libra: An Interaction Model for Data Visualization",
+"annee": 2025,
+"type": "conférence",
+"lieu": "CHI 2025 - CHI Conference on Human Factors in Computing Systems",
+"url": "https://inria.hal.science/hal-04979983v1",
+"doi": "10.1145/3706598.3713769"
+},
+{
+"id": "p8a1b3d46cf",
+"titre": "Lost in Magnitudes: Exploring Visualization Designs for Large Value Ranges",
+"annee": 2025,
+"type": "conférence",
+"lieu": "CHI 2025 - CHI Conference on Human Factors in Computing Systems",
+"url": "https://inria.hal.science/hal-04981028v1",
+"doi": "10.1145/3706598.3713487"
+},
+{
+"id": "pe78ad8952a",
+"titre": "PREVis: Perceived Readability Evaluation for Visualizations",
+"annee": 2025,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-04665390v1",
+"doi": "10.1109/tvcg.2024.3456318"
+},
+{
+"id": "pe044ff091c",
+"titre": "Perception of Visual Variables on Virtual Wall-Sized Tiled Displays in Immersive Environments",
+"annee": 2025,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://hal.science/hal-05245545v1",
+"doi": "10.1109/tvcg.2025.3549190"
+},
+{
+"id": "p9b36030fa9",
+"titre": "SpatialTouch: Exploring Spatial Data Visualizations in Cross-reality",
+"annee": 2025,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-04665449v1",
+"doi": "10.1109/tvcg.2024.3456368"
+},
+{
+"id": "p463a24856b",
+"titre": "SynopFrame: Multiscale time-dependent visual abstraction framework for analyzing DNA nanotechnology simulations",
+"annee": 2025,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://inria.hal.science/hal-05264883v1",
+"doi": "10.1016/j.cag.2025.104376"
+},
+{
+"id": "p856831f080",
+"titre": "Talk to the Wall: The Role of Speech Interaction in Collaborative Visual Analytics",
+"annee": 2025,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-04845442v1",
+"doi": "10.1109/tvcg.2024.3456335"
+},
+{
+"id": "paaa25c6531",
+"titre": "The Language of Infographics: Toward Understanding Conceptual Metaphor Use in Scientific Storytelling",
+"annee": 2025,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-04665428v1",
+"doi": "10.1109/tvcg.2024.3456327"
+},
+{
+"id": "pc2ac6f7823",
+"titre": "Traversing Dual Realities: Investigating Techniques for Transitioning 3D Objects between Desktop and Augmented Reality Environments",
+"annee": 2025,
+"type": "conférence",
+"lieu": "CHI 2025 - CHI Conference on Human Factors in Computing Systems",
+"url": "https://inria.hal.science/hal-05050852v1",
+"doi": "10.1145/3706598.3713949"
+},
+{
+"id": "p8a02ba4a1d",
+"titre": "Understanding Expert Exploration in EHR Visualization Tools: The ParcoursVis Use Case",
+"annee": 2025,
+"type": "conférence",
+"lieu": "VAHC - 2025 IEEE 16th Workshop on Visual Analytics in Healthcare",
+"url": "https://hal.science/hal-05341023v1",
+"doi": "10.1109/vahc69430.2025.00005"
+},
+{
+"id": "p2f2436e330",
+"titre": "User Experience of Visualizations in Motion: A Case Study and Design Considerations",
+"annee": 2025,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://hal.science/hal-04700819v1",
+"doi": "10.1109/tvcg.2024.3456319"
+},
+{
+"id": "pc8f94ef00c",
+"titre": "Valorisation de la diversité linguistique à travers un atlas sonore",
+"annee": 2025,
+"type": "chapitre",
+"lieu": "Langue(s) et droit(s). Enjeux et paradoxes en France",
+"url": "https://hal.science/hal-05464189v1"
+},
+{
+"id": "p615576e848",
+"titre": "Visualization-Driven Illumination for Density Plots",
+"annee": 2025,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-04776837v1",
+"doi": "10.1109/tvcg.2024.3495695"
+},
+{
+"id": "p227d3e3595",
+"titre": "Visualizing information on smartwatch faces: A review and design space",
+"annee": 2025,
+"type": "journal",
+"lieu": "Information Visualization",
+"url": "https://inria.hal.science/hal-05333788v1",
+"doi": "10.1177/14738716251360339"
+},
+{
+"id": "p958325f3c8",
+"titre": "We Need to Talk (more) About Numeracy! Toward a Numeracy-Informed Visualization Design Process",
+"annee": 2025,
+"type": "conférence",
+"lieu": "VisComm 2025 - 7th Workshop on Visualization for Communication, IEEE VIS Conference",
+"url": "https://hal.science/hal-05241509v1",
+"doi": "10.1109/viscomm69388.2025.00007"
+},
+{
+"id": "p165f4986f0",
+"titre": "We Should Change How We Measure User Experience in Visual Analytics Systems",
+"annee": 2025,
+"type": "conférence",
+"lieu": "EuroVA 2025 - 16th EuroVis Workshop on Visual Analytics",
+"url": "https://inria.hal.science/hal-05245376v1",
+"doi": "10.2312/eurova.20251095"
+},
+{
+"id": "p724dacb9cd",
+"titre": "A Survey of Designs for Combined 2D+3D Visual Representations",
+"annee": 2024,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-04382271v1",
+"doi": "10.1109/tvcg.2024.3388516"
+},
+{
+"id": "p6013ac0dd5",
+"titre": "A Survey on Progressive Visualization",
+"annee": 2024,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-04361344v1",
+"doi": "10.1109/tvcg.2023.3346641"
+},
+{
+"id": "p6f21a5cb37",
+"titre": "Collecting Information Needs for Egocentric Visualizations while Running",
+"annee": 2024,
+"type": "conférence",
+"lieu": "IEEE VIS Workshop on First-Person Visualizations for Outdoor Physical Activities: Challenges and Opportunities",
+"url": "https://hal.science/hal-04700822v1",
+"doi": "10.48550/arxiv.2409.06426"
+},
+{
+"id": "pf65dc3c68e",
+"titre": "Data Structures and Algorithms for Progressive Data Analysis",
+"annee": 2024,
+"type": "chapitre",
+"lieu": "Progressive Data Analysis: Roadmap and Research Agenda",
+"url": "https://inria.hal.science/hal-04776603v1"
+},
+{
+"id": "pe80bb63c98",
+"titre": "Design Characterization for Black-and-White Textures in Visualization",
+"annee": 2024,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://hal.science/hal-04167900v1",
+"doi": "10.1109/tvcg.2023.3326941"
+},
+{
+"id": "p0dc634ff28",
+"titre": "Designing Visualizations for Enhancing Carbon Numeracy",
+"annee": 2024,
+"type": "conférence",
+"lieu": "IEEE VIS 2024 Workshop on Visualization for Climate Action and Sustainability",
+"url": "https://inria.hal.science/hal-04744209v1"
+},
+{
+"id": "p06294f9c1e",
+"titre": "Designing for Visualization in Motion: Embedding Visualizations in Swimming Videos",
+"annee": 2024,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://hal.science/hal-04364838v1",
+"doi": "10.1109/tvcg.2023.3341990"
+},
+{
+"id": "pf1d9840f7a",
+"titre": "Eleven Years of Gender Data Visualization: A Step Towards More Inclusive Gender Representation",
+"annee": 2024,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-04179018v1",
+"doi": "10.1109/tvcg.2023.3327369"
+},
+{
+"id": "pb07b6c6f28",
+"titre": "Eliciting Multimodal and Collaborative Interactions for Data Exploration on Large Vertical Displays",
+"annee": 2024,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-04365019v1",
+"doi": "10.1109/tvcg.2023.3323150"
+},
+{
+"id": "p2bfc57d8eb",
+"titre": "Evaluation for Progressive Data Analysis",
+"annee": 2024,
+"type": "chapitre",
+"lieu": "Progressive Data Analysis: Roadmap and Research Agenda",
+"url": "https://inria.hal.science/hal-04776624v1"
+},
+{
+"id": "p5ad87e8cc1",
+"titre": "Exploring the Reproducibility for Visualization Figures in Climate Change Report",
+"annee": 2024,
+"type": "conférence",
+"lieu": "IEEE VIS 2024 Workshop on Visualization for Climate Action and Sustainability",
+"url": "https://inria.hal.science/hal-04744236v1"
+},
+{
+"id": "pfb866e3c2e",
+"titre": "Glanceable Data Visualizations for Older Adults: Establishing Thresholds and Examining Disparities Between Age Groups",
+"annee": 2024,
+"type": "conférence",
+"lieu": "CHI 2024 - Conference on Human Factors in Computing Systems",
+"url": "https://inria.hal.science/hal-04606369v1",
+"doi": "10.1145/3613904.3642776"
+},
+{
+"id": "pf9cfd9605d",
+"titre": "HomeOlympics: Turning Everyday Outdoor Physical Activities into Olympic-Style Experience",
+"annee": 2024,
+"type": "conférence",
+"lieu": "IEEE VIS Workshop on First-Person Visualizations for Outdoor Physical Activities: Challenges and Opportunities",
+"url": "https://inria.hal.science/hal-04782928v1"
+},
+{
+"id": "pb3d39e079a",
+"titre": "Keynote: Scalability in Visualization and Visual Analytics with Progressive Data Analysis",
+"annee": 2024,
+"type": "conférence",
+"lieu": "AVI 2024: International Conference on Advanced Visual Interfaces 2024",
+"url": "https://inria.hal.science/hal-04618005v1",
+"doi": "10.1145/3656650.3660546"
+},
+{
+"id": "pf698de7d30",
+"titre": "MeTACAST: Target-and Context-aware Spatial Selection in VR",
+"annee": 2024,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-04196163v1",
+"doi": "10.1109/tvcg.2023.3326517"
+},
+{
+"id": "p52b3b7dc38",
+"titre": "Micro Visualizations on a Smartwatch: Assessing Reading Performance While Walking",
+"annee": 2024,
+"type": "conférence",
+"lieu": "VIS 2024 - IEEE Conference on Visualization and Visual Analytics",
+"url": "https://inria.hal.science/hal-04782873v1",
+"doi": "10.1109/vis55277.2024.00017"
+},
+{
+"id": "p5ac8b15eb4",
+"titre": "Plea for a Hybride IHM Conference",
+"annee": 2024,
+"type": "conférence",
+"lieu": "IHM'24 - 35e Conférence Internationale Francophone sur l'Interaction Humain-Machine",
+"url": "https://hal.science/hal-04486645v1"
+},
+{
+"id": "p908ecab3fe",
+"titre": "Position paper: A case to study the relationship between data visualization readability and visualization literacy",
+"annee": 2024,
+"type": "conférence",
+"lieu": "CHI 2024 - Workshop Toward a More Comprehensive Understanding of Visualization Literacy",
+"url": "https://hal.science/hal-04523790v2"
+},
+{
+"id": "p552c6fa213",
+"titre": "Progressive Data Analysis",
+"annee": 2024,
+"type": "ouvrage",
+"lieu": "",
+"url": "https://inria.hal.science/hal-04776568v1",
+"doi": "10.2312/pda.20242707"
+},
+{
+"id": "pb8ee618129",
+"titre": "Scalability in Visualization",
+"annee": 2024,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-03820394v1",
+"doi": "10.1109/tvcg.2022.3231230"
+},
+{
+"id": "p0fa10c221f",
+"titre": "The State of Reproducibility Stamps for Visualization Research Papers",
+"annee": 2024,
+"type": "conférence",
+"lieu": "BELIV Workshop 2024 - evaluation and BEyond - methodoLogIcal approaches for Visualization",
+"url": "https://inria.hal.science/hal-04697010v1",
+"doi": "10.1109/beliv64461.2024.00016"
+},
+{
+"id": "p572aca07d9",
+"titre": "Toward Understanding the Experiences of People in Late Adulthood with Embedded Information Displays in the Home",
+"annee": 2024,
+"type": "conférence",
+"lieu": "VIS 2024 - IEEE VIS 1st Workshop on Accessible Data Visualization",
+"url": "https://inria.hal.science/hal-04783485v1",
+"doi": "10.48550/arxiv.2410.03929"
+},
+{
+"id": "p803c2c36fe",
+"titre": "Uncertainty and Quality for Progressive Data Analysis",
+"annee": 2024,
+"type": "chapitre",
+"lieu": "Progressive Data Analysis: Roadmap and Research Agenda",
+"url": "https://inria.hal.science/hal-04776615v1"
+},
+{
+"id": "pf4ccc97909",
+"titre": "Understanding Collaborative Learning of Molecular Structures in AR With Eye Tracking",
+"annee": 2024,
+"type": "journal",
+"lieu": "IEEE Computer Graphics and Applications",
+"url": "https://inria.hal.science/hal-04873245v1",
+"doi": "10.1109/mcg.2024.3503903"
+},
+{
+"id": "pfa9e96d759",
+"titre": "V-Mail: 3D-Enabled Correspondence about Spatial Data on (Almost) All Your Devices",
+"annee": 2024,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-03924707v1",
+"doi": "10.1109/tvcg.2022.3229017"
+},
+{
+"id": "pcee249fe4b",
+"titre": "Virtual reality inspection of chromatin 3D and 2D data",
+"annee": 2024,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://inria.hal.science/hal-04684828v1",
+"doi": "10.1016/j.cag.2024.104059"
+},
+{
+"id": "pcbb3e232b6",
+"titre": "Visualizing and Comparing Machine Learning Predictions to Improve Human-AI Teaming on the Example of Cell Lineage",
+"annee": 2024,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-04212205v1",
+"doi": "10.1109/tvcg.2023.3302308"
+},
+{
+"id": "p32d90f2dd8",
+"titre": "BeauVis: A Validated Scale for Measuring the Aesthetic Pleasure of Visual Representations",
+"annee": 2023,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://hal.science/hal-03763559v2",
+"doi": "10.1109/tvcg.2022.3209390"
+},
+{
+"id": "p1989551371",
+"titre": "ComBiNet: Visual Query and Comparison of Bipartite Multivariate Dynamic Social Networks",
+"annee": 2023,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-03927450v1",
+"doi": "10.1111/cgf.14731"
+},
+{
+"id": "pec11df761e",
+"titre": "Data Embroidery with Black-and-White Textures",
+"annee": 2023,
+"type": "conférence",
+"lieu": "alt.VIS Workshop at IEEE VIS 2023",
+"url": "https://hal.science/hal-04197527v1"
+},
+{
+"id": "p42d73c9326",
+"titre": "De la Provence aux Balkans : discours épilinguistiques autour d'un atlas sonore des langues régionales ou minoritaires d'Europe",
+"annee": 2023,
+"type": "chapitre",
+"lieu": "Les langues régionales de France. Nouvelles approches, nouvelles méthodologie, revitalisation",
+"url": "https://hal.science/hal-04176590v1"
+},
+{
+"id": "p3ea0fe5586",
+"titre": "Molecumentary: Adaptable Narrated Documentaries Using Molecular Visualization",
+"annee": 2023,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-03451509v1",
+"doi": "10.1109/tvcg.2021.3130670"
+},
+{
+"id": "pbb3ce27e89",
+"titre": "Moliverse: Contextually embedding the microcosm into the universe",
+"annee": 2023,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://inria.hal.science/hal-04028899v2",
+"doi": "10.1016/j.cag.2023.02.006"
+},
+{
+"id": "ped2ce66999",
+"titre": "NLP4NLP+5, the Deep (R)evolution in Speech and Language Processing: A Survey",
+"annee": 2023,
+"type": "conférence",
+"lieu": "O-COCOSDA 2023 - 26th Conference of the Oriental COCOSDA International Committee for the Co-ordination and Standardisation of Speech Databases and Assessment Techniques",
+"url": "https://hal.science/hal-04415467v1"
+},
+{
+"id": "pb826dbba48",
+"titre": "Open Questions about the Visualization of Sociodemographic Data",
+"annee": 2023,
+"type": "conférence",
+"lieu": "VIS4Good 2023 - IEEE Workshop on Visualization for Social Good",
+"url": "https://inria.hal.science/hal-04184101v1",
+"doi": "10.1109/vis4good60218.2023.00010"
+},
+{
+"id": "p6c0a322166",
+"titre": "State of the Art of Molecular Visualization in Immersive Virtual Environments",
+"annee": 2023,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-04006531v1",
+"doi": "10.1111/cgf.14738"
+},
+{
+"id": "p84f70c1b4a",
+"titre": "Studies of Part-to-Whole Glanceable Visualizations on Smartwatch Faces",
+"annee": 2023,
+"type": "conférence",
+"lieu": "The IEEE Pacific Visualization Symposium (PacificVis)",
+"url": "https://inria.hal.science/hal-04018448v1",
+"doi": "10.1109/pacificvis56936.2023.00028"
+},
+{
+"id": "p4010740fc9",
+"titre": "Studying Early Decision Making with Progressive Bar Charts",
+"annee": 2023,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-03738461v2",
+"doi": "10.1109/tvcg.2022.3209426"
+},
+{
+"id": "p4ec9ad06ba",
+"titre": "Understanding Barriers to Network Exploration with Visualization: A Report from the Trenches",
+"annee": 2023,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-03738500v1",
+"doi": "10.1109/tvcg.2022.3209487"
+},
+{
+"id": "pdc7b0a63f9",
+"titre": "Zooids",
+"annee": 2023,
+"type": "chapitre",
+"lieu": "Making with Data: Physical Design and Craft in a Data-Driven World",
+"url": "https://inria.hal.science/hal-03978632v1"
+},
+{
+"id": "pafffa52b4b",
+"titre": "Aesop's Fable \"The North Wind and the Sun\" Used as a Rosetta Stone to Extract and Map Spoken Words in Under-resourced Languages",
+"annee": 2022,
+"type": "conférence",
+"lieu": "LREC 2022 - 13th Language Resources and Evaluation Conference",
+"url": "https://hal.science/hal-04465840v1",
+"doi": "10.63317/47m4mizf5abz"
+},
+{
+"id": "p048def074c",
+"titre": "An Interdisciplinary Perspective on Evaluation and Experimental Design for Visual Text Analytics: Position Paper",
+"annee": 2022,
+"type": "conférence",
+"lieu": "BELIV 2022 - IEEE Workshop on Evaluation and Beyond - Methodological Approaches to Visualization",
+"url": "https://inria.hal.science/hal-03786359v1",
+"doi": "10.1109/beliv57783.2022.00008"
+},
+{
+"id": "p285f544add",
+"titre": "BitConduite: Exploratory Visual Analysis of Entity Activity on the Bitcoin Network",
+"annee": 2022,
+"type": "journal",
+"lieu": "IEEE Computer Graphics and Applications",
+"url": "https://inria.hal.science/hal-03199547v2",
+"doi": "10.1109/mcg.2021.3070303"
+},
+{
+"id": "pfb74218e72",
+"titre": "Challenges of intracellular visualization using virtual and augmented reality",
+"annee": 2022,
+"type": "journal",
+"lieu": "Frontiers in Bioinformatics",
+"url": "https://inria.hal.science/hal-03790274v1",
+"doi": "10.3389/fbinf.2022.997082"
+},
+{
+"id": "pdf6da8da63",
+"titre": "Characterizing Uncertainty in the Visual Text Analysis Pipeline",
+"annee": 2022,
+"type": "conférence",
+"lieu": "VIS4DH 2022 - 7th Workshop on Visualization for the Digital Humanities",
+"url": "https://inria.hal.science/hal-03784519v1"
+},
+{
+"id": "p5f9cdc1308",
+"titre": "Collaborative Work in Augmented Reality: A Survey",
+"annee": 2022,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://hal.science/hal-02971697v1",
+"doi": "10.1109/tvcg.2020.3032761"
+},
+{
+"id": "p2a66ecc403",
+"titre": "Do you believe your (social media) data? A personal story on location data biases, errors, and plausibility as well as their visualization",
+"annee": 2022,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-03516682v2",
+"doi": "10.1109/tvcg.2022.3141605"
+},
+{
+"id": "p6b295ef187",
+"titre": "Envisioning Situated Visualizations of Environmental Footprints in an Urban Environment",
+"annee": 2022,
+"type": "conférence",
+"lieu": "VIS4Good - Visualization for Social Good workshop held as part of IEEE VIS 2022",
+"url": "https://inria.hal.science/hal-03770857v1",
+"doi": "10.5281/zenodo.7053934"
+},
+{
+"id": "p673ca89a3a",
+"titre": "From Historical Documents To Social Network Visualization: Potential Pitfalls and Network Modeling",
+"annee": 2022,
+"type": "conférence",
+"lieu": "VIS4DH 2022 - 7th Workshop on Visualization for the Digital Humanities",
+"url": "https://inria.hal.science/hal-03784532v1"
+},
+{
+"id": "pc55cd73134",
+"titre": "Gender in 30 Years of IEEE Visualization",
+"annee": 2022,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://hal.science/hal-03348149v1",
+"doi": "10.1109/tvcg.2021.3114787"
+},
+{
+"id": "p9c39fddcde",
+"titre": "Hybrid Touch/Tangible Spatial Selection in Augmented Reality",
+"annee": 2022,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-03699232v1",
+"doi": "10.1111/cgf.14550"
+},
+{
+"id": "p4a8d4cc7fc",
+"titre": "LineageD: An Interactive Visual System for Plant Cell Lineage Assignments based on Correctable Machine Learning",
+"annee": 2022,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-03699221v1",
+"doi": "10.1111/cgf.14533"
+},
+{
+"id": "p826ad3b884",
+"titre": "MiningVis: visual analytics of the Bitcoin mining economy",
+"annee": 2022,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://hal.science/hal-03348145v1",
+"doi": "10.1109/tvcg.2021.3114821"
+},
+{
+"id": "p2bf80c4285",
+"titre": "Multiscale Unfolding: Illustratively Visualizing the Whole Genome at a Glance",
+"annee": 2022,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-03163672v2",
+"doi": "10.1109/tvcg.2021.3065443"
+},
+{
+"id": "p609aec54a7",
+"titre": "NLP4NLP+5: The Deep (R)evolution in Speech and Language Processing",
+"annee": 2022,
+"type": "journal",
+"lieu": "Frontiers in Research Metrics and Analytics",
+"url": "https://hal.science/hal-04410734v1",
+"doi": "10.3389/frma.2022.863126"
+},
+{
+"id": "p7532d050c1",
+"titre": "Perception! Immersion! Empowerment! Superpowers as Inspiration for Visualization",
+"annee": 2022,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-03342677v1",
+"doi": "10.1109/tvcg.2021.3114844"
+},
+{
+"id": "p91e62a6f91",
+"titre": "Personal Experiences of Providing and Using Research Prototypes",
+"annee": 2022,
+"type": "conférence",
+"lieu": "Proceedings of VisGap 2022 - The Gap between Visualization Research and Visualization Software",
+"url": "https://inria.hal.science/hal-03699202v1",
+"doi": "10.2312/visgap.20221059"
+},
+{
+"id": "p340509d3dd",
+"titre": "Point Specification in Collaborative Visualization for 3D Scalar Fields Using Augmented Reality",
+"annee": 2022,
+"type": "journal",
+"lieu": "Virtual Reality",
+"url": "https://inria.hal.science/hal-03512784v1",
+"doi": "10.1007/s10055-021-00614-2"
+},
+{
+"id": "p7ccdfbd561",
+"titre": "Preferences and Effectiveness of Sleep Data Visualizations for Smartwatches and Fitness Bands",
+"annee": 2022,
+"type": "conférence",
+"lieu": "CHI 2022 - Conference on Human Factors in Computing Systems",
+"url": "https://inria.hal.science/hal-03587029v1",
+"doi": "10.1145/3491102.3501921"
+},
+{
+"id": "p335becbff9",
+"titre": "Projet ANR (2015-2018) « Autour du plan 2D »",
+"annee": 2022,
+"type": "journal",
+"lieu": "1024 : Bulletin de la Société Informatique de France",
+"url": "https://hal.science/hal-03655986v1",
+"doi": "10.48556/sif.1024.19.99"
+},
+{
+"id": "p16b28f03f9",
+"titre": "Pyramid-based Scatterplots Sampling for Progressive and Streaming Data Visualization",
+"annee": 2022,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-03360776v1",
+"doi": "10.1109/tvcg.2021.3114880"
+},
+{
+"id": "p9f60597ebe",
+"titre": "Reflections on Visualization in Motion for Fitness Trackers",
+"annee": 2022,
+"type": "conférence",
+"lieu": "MobileHCI 2022 Workshop on New Trends in HCI and Sports",
+"url": "https://inria.hal.science/hal-03775633v1"
+},
+{
+"id": "p96ff71dc36",
+"titre": "Six Methods for Transforming Layered Hypergraphs to Apply Layered Graph Layout Algorithms",
+"annee": 2022,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-03694781v1",
+"doi": "10.1111/cgf.14538"
+},
+{
+"id": "pc001962491",
+"titre": "Special C&G session at EuroVis 2022",
+"annee": 2022,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://inria.hal.science/hal-03809966v1",
+"doi": "10.1016/j.cag.2022.09.006"
+},
+{
+"id": "p242b2f2b59",
+"titre": "The evolution of mining pools and miners’ behaviors in the Bitcoin blockchain",
+"annee": 2022,
+"type": "journal",
+"lieu": "IEEE Transactions on Network and Service Management",
+"url": "https://hal.science/hal-03610424v1",
+"doi": "10.1109/tnsm.2022.3159004"
+},
+{
+"id": "p344215b796",
+"titre": "Understanding Differences between Combinations of 2D and 3D Input and Output Devices for 3D Data Visualization",
+"annee": 2022,
+"type": "journal",
+"lieu": "International Journal of Human-Computer Studies",
+"url": "https://inria.hal.science/hal-03639831v1",
+"doi": "10.1016/j.ijhcs.2022.102820"
+},
+{
+"id": "p801019fe2d",
+"titre": "Visualization in Motion in Video Games for Different Types of Data",
+"annee": 2022,
+"type": "conférence",
+"lieu": "Journée Visu 2022",
+"url": "https://inria.hal.science/hal-03700418v1"
+},
+{
+"id": "p45cc142b77",
+"titre": "Visualization in Motion: A Research Agenda and Two Evaluations",
+"annee": 2022,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-03698837v2",
+"doi": "10.1109/tvcg.2022.3184993"
+},
+{
+"id": "peafa1cbfbd",
+"titre": "3D Mobile Data Visualization",
+"annee": 2021,
+"type": "chapitre",
+"lieu": "Mobile Data Visualization",
+"url": "https://inria.hal.science/hal-03457378v1",
+"doi": "10.1201/9781003090823-4"
+},
+{
+"id": "pc14324c902",
+"titre": "A Predictive Performance Model for Immersive Interactions in Mixed Reality",
+"annee": 2021,
+"type": "conférence",
+"lieu": "IEEE International Symposium on Mixed and Augmented Reality (ISMAR 2021)",
+"url": "https://ut-toulouseinp.hal.science/hal-03382871v1",
+"doi": "10.1109/ismar52148.2021.00035"
+},
+{
+"id": "p17214df032",
+"titre": "A Replication Study on Glanceable Visualizations: Comparing Different Stimulus Sizes on a Laptop Computer",
+"annee": 2021,
+"type": "conférence",
+"lieu": "IVAPP 2021 - 12th International Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications",
+"url": "https://inria.hal.science/hal-03151924v1",
+"doi": "10.5220/0010328501330143"
+},
+{
+"id": "p365c5886e0",
+"titre": "An Introduction to Mobile Data Visualization",
+"annee": 2021,
+"type": "chapitre",
+"lieu": "Mobile Data Visualization",
+"url": "https://inria.hal.science/hal-03457381v1",
+"doi": "10.1201/9781003090823-1"
+},
+{
+"id": "pb424013f5d",
+"titre": "An empirical analysis of pool hopping behavior in the Bitcoin blockchain",
+"annee": 2021,
+"type": "conférence",
+"lieu": "2021 IEEE International Conference on Blockchain and Cryptocurrency (ICBC)",
+"url": "https://hal.science/hal-03163006v3",
+"doi": "10.1109/icbc51069.2021.9461118"
+},
+{
+"id": "p534038c4b7",
+"titre": "Analyzing Dynamic Hypergraphs with Parallel Aggregated Ordered Hypergraph Visualization",
+"annee": 2021,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-02264960v1",
+"doi": "10.1109/tvcg.2019.2933196"
+},
+{
+"id": "pfce5c72a54",
+"titre": "Atlas sonore des langues/dialectes de France, Italie et Monaco : focus sur les parlers liguriens",
+"annee": 2021,
+"type": "chapitre",
+"lieu": "Gênes et la langue génoise : expression de la terre et de la mer, langue d'ici et langue d'ailleurs",
+"url": "https://hal.science/hal-03318402v1"
+},
+{
+"id": "p2b09345bf5",
+"titre": "Cartolabe: A Web-Based Scalable Visualization of Large Document Collections",
+"annee": 2021,
+"type": "journal",
+"lieu": "IEEE Computer Graphics and Applications",
+"url": "https://inria.hal.science/hal-02499006v1",
+"doi": "10.1109/mcg.2020.3033401"
+},
+{
+"id": "p961e7b18c3",
+"titre": "Characterizing Glanceable Visualizations: From Perception to Behavior Change",
+"annee": 2021,
+"type": "chapitre",
+"lieu": "Mobile Data Visualization",
+"url": "https://inria.hal.science/hal-03524091v1",
+"doi": "10.1201/9781003090823-5"
+},
+{
+"id": "pe3e00cd622",
+"titre": "Curve Complexity Heuristic KD-trees for Neighborhood-based Exploration of 3D Curves",
+"annee": 2021,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-03151998v1",
+"doi": "10.1111/cgf.142647"
+},
+{
+"id": "p8ce28d3d61",
+"titre": "Design and Evaluation of Three Selection Techniques for Tightly Packed 3D Objects in Cell Lineage Specification in Botany",
+"annee": 2021,
+"type": "conférence",
+"lieu": "GI 2021 - Graphics Interface",
+"url": "https://inria.hal.science/hal-03127256v1",
+"doi": "10.20380/gi2021.33"
+},
+{
+"id": "p8d7fc01a41",
+"titre": "Document Domain Randomization for Deep Learning Document Layout Extraction",
+"annee": 2021,
+"type": "conférence",
+"lieu": "Proceedings of the 16th International Conference on Document Analysis and Recognition (ICDAR, September 5--10, Lausanne, Switzerland)",
+"url": "https://inria.hal.science/hal-03336444v1",
+"doi": "10.1007/978-3-030-86549-8_32"
+},
+{
+"id": "p83afa844a0",
+"titre": "Extending KLM for Head Pointing and Mid-Air Validation with HoloLens",
+"annee": 2021,
+"type": "conférence",
+"lieu": "32ème Conférence Internationale Francophone sur l'Interaction Homme-Machine : Interaction, Design et Enfants (IHM 2021)",
+"url": "https://hal.science/hal-03232391v2"
+},
+{
+"id": "p609d27154a",
+"titre": "For a mapping of the languages/dialects of Italy and regional varieties of Italian",
+"annee": 2021,
+"type": "chapitre",
+"lieu": "New Ways of Analyzing Dialectal Variation",
+"url": "https://hal.science/hal-03318939v1"
+},
+{
+"id": "p6973e395b5",
+"titre": "Gamification and social comparison processes in electronic brainstorming",
+"annee": 2021,
+"type": "journal",
+"lieu": "Journal of Gaming & Virtual Worlds",
+"url": "https://hal.science/hal-04097325v1",
+"doi": "10.1386/jgvw_00042_1"
+},
+{
+"id": "p871f2b85b5",
+"titre": "HyperLabels---Browsing of Dense and Hierarchical Molecular 3D Models",
+"annee": 2021,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-02493893v1",
+"doi": "10.1109/tvcg.2020.2975583"
+},
+{
+"id": "p2eb89ad4bb",
+"titre": "Influence of competitive intensity on stadium attendance. An analysis of the French football Ligue 1 over the period 2009-2019 through a visualization system",
+"annee": 2021,
+"type": "journal",
+"lieu": "Soccer and Society",
+"url": "https://hal.science/hal-04448483v1",
+"doi": "10.1080/14660970.2021.1920407"
+},
+{
+"id": "p8285418f27",
+"titre": "Integrating Prior Knowledge in Mixed Initiative Social Network Clustering",
+"annee": 2021,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-02566438v1",
+"doi": "10.1109/tvcg.2020.3030347"
+},
+{
+"id": "p55df4edca4",
+"titre": "Medida objetiva da variação prosódica entre línguas Românicas da França",
+"annee": 2021,
+"type": "conférence",
+"lieu": "ALFAL 2021 - XIX Congresso Internacional da Associação de Linguística e Filologia da América Latina",
+"url": "https://hal.science/hal-03511305v1"
+},
+{
+"id": "pae9b0328fc",
+"titre": "Mobile Data Visualization",
+"annee": 2021,
+"type": "ouvrage",
+"lieu": "",
+"url": "https://inria.hal.science/hal-03524082v1",
+"doi": "10.1201/9781003090823"
+},
+{
+"id": "p945b52bae0",
+"titre": "Mobile Visualization Design: An Ideation Method to Try",
+"annee": 2021,
+"type": "chapitre",
+"lieu": "Mobile Data Visualization",
+"url": "https://inria.hal.science/hal-03524563v1",
+"doi": "10.1201/9781003090823-8"
+},
+{
+"id": "p3689452c4d",
+"titre": "MobileVisFixer: Tailoring Web Visualizations for Mobile Phones Leveraging an Explainable Reinforcement Learning Framework",
+"annee": 2021,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-03001709v1",
+"doi": "10.1109/tvcg.2020.3030423"
+},
+{
+"id": "p615eae66d9",
+"titre": "Post-WIMP Interaction for Information Visualization",
+"annee": 2021,
+"type": "ouvrage",
+"lieu": "",
+"url": "https://inria.hal.science/hal-03261048v1",
+"doi": "10.1561/1100000081"
+},
+{
+"id": "p86caae14a8",
+"titre": "Preface",
+"annee": 2021,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://doi.org/10.1109/tvcg.2021.3114891",
+"doi": "10.1109/tvcg.2021.3114891"
+},
+{
+"id": "pa501d824a1",
+"titre": "Special C&G and G&VC session at EuroVis",
+"annee": 2021,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://inria.hal.science/hal-03227524v1",
+"doi": "10.1016/j.cag.2021.05.004"
+},
+{
+"id": "p317ae1d185",
+"titre": "The 2020 Visualization Technical Achievement Award",
+"annee": 2021,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://doi.org/10.1109/tvcg.2020.3033690",
+"doi": "10.1109/tvcg.2020.3033690"
+},
+{
+"id": "p683d5ff1e8",
+"titre": "The Missing Path: Diagnosing Incompleteness in Linked Data",
+"annee": 2021,
+"type": "journal",
+"lieu": "Information Visualization",
+"url": "https://hal.science/hal-02612896v1",
+"doi": "10.1177/1473871621991539"
+},
+{
+"id": "pf0cc4de6cc",
+"titre": "The State of the Art of Spatial Interfaces for 3D Visualization",
+"annee": 2021,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-03012861v1",
+"doi": "10.1111/cgf.14189"
+},
+{
+"id": "p2fafaf7cc7",
+"titre": "VAST 2020 Contest Challenge: GraphMatchMaker: Visual Analytics for Graph Comparison and Matching",
+"annee": 2021,
+"type": "journal",
+"lieu": "IEEE Computer Graphics and Applications",
+"url": "https://hal.science/hal-03283200v1",
+"doi": "10.1109/mcg.2021.3091955"
+},
+{
+"id": "p0a45a2d439",
+"titre": "VIS30K: A Collection of Figures and Tables from IEEE Visualization Conference Publications",
+"annee": 2021,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-03123279v1",
+"doi": "10.1109/tvcg.2021.3054916"
+},
+{
+"id": "p9633ce571c",
+"titre": "Visual analytics of bitcoin mining pool evolution : on the road toward stability?",
+"annee": 2021,
+"type": "conférence",
+"lieu": "BSC 2020-2021 - 3rd International Workshop on Blockchains and Smart Contracts held in conjunction with the 11th IFIP International Conference on New Technologies, Mobility and Security",
+"url": "https://hal.science/hal-02902465v2",
+"doi": "10.1109/ntms49979.2021.9432675"
+},
+{
+"id": "pc63105bf75",
+"titre": "Visualization and Inferences",
+"annee": 2021,
+"type": "journal",
+"lieu": "Harvard Data Science Review",
+"url": "https://inria.hal.science/hal-03315721v1",
+"doi": "10.1162/99608f92.049ac5b4"
+},
+{
+"id": "pc77c2781bd",
+"titre": "A Comparative Evaluation of Animation and Small Multiples for Trend Visualization on Mobile Phones",
+"annee": 2020,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-02317687v1",
+"doi": "10.1109/tvcg.2019.2934397"
+},
+{
+"id": "ped66e59a68",
+"titre": "Arkangel dans Black Mirror : la réalité diminuée",
+"annee": 2020,
+"type": "journal",
+"lieu": "Interstices",
+"url": "https://inria.hal.science/hal-03132415v1"
+},
+{
+"id": "p2c95a3c2f9",
+"titre": "Big Data Visualization and Analytics: Future Research Challenges and Emerging Applications",
+"annee": 2020,
+"type": "conférence",
+"lieu": "BigVis 2020: Big Data Visual Exploration and Analytics",
+"url": "https://inria.hal.science/hal-02568845v1"
+},
+{
+"id": "pa9e88faf05",
+"titre": "Comparing and Exploring High-Dimensional Data with Dimensionality Reduction Algorithms and Matrix Visualizations",
+"annee": 2020,
+"type": "conférence",
+"lieu": "AVI' 20 - International Conference on Advanced Visual Interfaces",
+"url": "https://inria.hal.science/hal-02861899v1",
+"doi": "10.1145/3399715.3399875"
+},
+{
+"id": "pb8e109e511",
+"titre": "Database Benchmarking for Supporting Real-Time Interactive Querying of Large Data",
+"annee": 2020,
+"type": "conférence",
+"lieu": "SIGMOD ’20 - International Conference on Management of Data",
+"url": "https://inria.hal.science/hal-02556400v1",
+"doi": "10.1145/3318464.3389732"
+},
+{
+"id": "p3082aa1286",
+"titre": "Diagnosing Incompleteness in Wikidata with The Missing Path",
+"annee": 2020,
+"type": "conférence",
+"lieu": "Wiki Workshop 2020",
+"url": "https://hal.science/hal-02910712v1"
+},
+{
+"id": "pbaf0a09a5e",
+"titre": "Exploring Reproducibility in Visualization",
+"annee": 2020,
+"type": "journal",
+"lieu": "IEEE Computer Graphics and Applications",
+"url": "https://inria.hal.science/hal-02922295v1",
+"doi": "10.1109/mcg.2020.3006412"
+},
+{
+"id": "pfd3a5e21af",
+"titre": "Interaction Techniques for Visual Exploration Using Embedded Word-Scale Visualizations",
+"annee": 2020,
+"type": "conférence",
+"lieu": "Conference on Human Factors in Computing Systems (CHI)",
+"url": "https://inria.hal.science/hal-02459518v1",
+"doi": "10.1145/3313831.3376842"
+},
+{
+"id": "p2abbafce0b",
+"titre": "Interactive Time-Series of Measures for Exploring Dynamic Networks",
+"annee": 2020,
+"type": "conférence",
+"lieu": "AVI' 20 - International Conference on Advanced Visual Interfaces",
+"url": "https://inria.hal.science/hal-02861852v1",
+"doi": "10.1145/3399715.3399922"
+},
+{
+"id": "p6e50a29282",
+"titre": "Les parlers romans dans l'atlas sonore des langues et dialectes de Belgique",
+"annee": 2020,
+"type": "journal",
+"lieu": "Bien dire et bien aprandre - Revue de médiévistique",
+"url": "https://hal.science/hal-03047333v1",
+"doi": "10.54563/bdba.446"
+},
+{
+"id": "pde37789f08",
+"titre": "PANENE: A Progressive Algorithm for Indexing and Querying Approximate k-Nearest Neighbors",
+"annee": 2020,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-01855672v1",
+"doi": "10.1109/tvcg.2018.2869149"
+},
+{
+"id": "p2c509547de",
+"titre": "Reaching Broader Audiences With Data Visualization",
+"annee": 2020,
+"type": "journal",
+"lieu": "IEEE Computer Graphics and Applications",
+"url": "https://inria.hal.science/hal-02459678v1",
+"doi": "10.1109/mcg.2020.2968244"
+},
+{
+"id": "p782b453203",
+"titre": "Reducing Affective Responses to Surgical Images and Videos Through Stylization",
+"annee": 2020,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-02381513v2",
+"doi": "10.1111/cgf.13886"
+},
+{
+"id": "p97f8771ce4",
+"titre": "ScaleTrotter: Illustrative Visual Travels Across Negative Scales",
+"annee": 2020,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-02177779v1",
+"doi": "10.1109/tvcg.2019.2934334"
+},
+{
+"id": "pa039016268",
+"titre": "Teaching Clustering Algorithms With EduClust: Experience Report and Future Directions",
+"annee": 2020,
+"type": "journal",
+"lieu": "IEEE Computer Graphics and Applications",
+"url": "https://inria.hal.science/hal-03001745v1",
+"doi": "10.1109/mcg.2020.2970560"
+},
+{
+"id": "paddfd43131",
+"titre": "Towards an Understanding of Augmented Reality Extensions for Existing 3D Data Analysis Tools",
+"annee": 2020,
+"type": "conférence",
+"lieu": "CHI '20 - 38th SIGCHI conference on Human Factors in computing systems",
+"url": "https://hal.science/hal-02442690v1",
+"doi": "10.1145/3313831.3376657"
+},
+{
+"id": "p96a98fc9bb",
+"titre": "Visual Abstraction",
+"annee": 2020,
+"type": "chapitre",
+"lieu": "Foundations of Data Visualization",
+"url": "https://inria.hal.science/hal-02944201v1",
+"doi": "10.1007/978-3-030-34444-3_2"
+},
+{
+"id": "p0a3a8be82c",
+"titre": "Visualizing Information on Watch Faces: A Survey with Smartwatch Users",
+"annee": 2020,
+"type": "conférence",
+"lieu": "IEEE VIS 2020 - Visualization Conference Short Papers",
+"url": "https://inria.hal.science/hal-03005319v2",
+"doi": "10.1109/vis47514.2020.00038"
+},
+{
+"id": "pa238d0bd31",
+"titre": "A Declarative Rendering Model for Multiclass Density Maps",
+"annee": 2019,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-01848427v1",
+"doi": "10.1109/tvcg.2018.2865141"
+},
+{
+"id": "pe72c0241ea",
+"titre": "A Model of Spatial Directness in Interactive Visualization",
+"annee": 2019,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-01813889v1",
+"doi": "10.1109/tvcg.2018.2848906"
+},
+{
+"id": "p9246fd1ed7",
+"titre": "A Speaking Atlas of Indigenous Languages of France and its Overseas",
+"annee": 2019,
+"type": "conférence",
+"lieu": "International Conference Language Technologies for All (LT4All) : Enabling Linguistic Diversity and Multilingualism Worldwide",
+"url": "https://hal.science/hal-03099667v1"
+},
+{
+"id": "pff9d78a603",
+"titre": "A Speaking Atlas of Minority Languages of France: Collection and Analyses of Dialectical Data",
+"annee": 2019,
+"type": "conférence",
+"lieu": "ICPhS 2019 - 19th International Congress of Phonetic Sciences",
+"url": "https://hal.science/hal-02387368v1"
+},
+{
+"id": "pd201303973",
+"titre": "A Vision of Bringing Immersive Visualization to Scientific Workflows",
+"annee": 2019,
+"type": "conférence",
+"lieu": "CHI 2019 - The ACM CHI Conference on Human Factors in Computing Systems - Workshop on Interaction Design & Prototyping for Immersive Analytics",
+"url": "https://hal.science/hal-02053969v1"
+},
+{
+"id": "pc94badc800",
+"titre": "An Emotional Response to the Value of Visualization",
+"annee": 2019,
+"type": "journal",
+"lieu": "IEEE Computer Graphics and Applications",
+"url": "https://inria.hal.science/hal-02317718v1",
+"doi": "10.1109/mcg.2019.2923483"
+},
+{
+"id": "pea7ad204d7",
+"titre": "Analysis of Drawing Characteristics for Reproducing Traditional Hand-Made Stippling",
+"annee": 2019,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://inria.hal.science/hal-02017607v1",
+"doi": "10.1016/j.cag.2019.02.001"
+},
+{
+"id": "pf99fd2f5f5",
+"titre": "Augmenting Tactile 3D Data Navigation With Pressure Sensing",
+"annee": 2019,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-02091999v1",
+"doi": "10.1111/cgf.13716"
+},
+{
+"id": "p2fd0b062a6",
+"titre": "Data Physicalization",
+"annee": 2019,
+"type": "journal",
+"lieu": "Dagstuhl Reports",
+"url": "https://hal.sorbonne-universite.fr/hal-02090877v1",
+"doi": "10.4230/dagrep.8.10.127"
+},
+{
+"id": "pc83f700fe3",
+"titre": "Dynamic Composite Data Physicalization Using Wheeled Micro-Robots",
+"annee": 2019,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-01848436v2",
+"doi": "10.1109/tvcg.2018.2865159"
+},
+{
+"id": "pe1971e4cc8",
+"titre": "EduClust -A Visualization Application for Teaching Clustering Algorithms",
+"annee": 2019,
+"type": "conférence",
+"lieu": "Eurographics 2019 - 40th Annual Conference of the European Association for Computer Graphics",
+"url": "https://inria.hal.science/hal-02103293v1"
+},
+{
+"id": "pc0ad79095d",
+"titre": "Glanceable Visualization: Studies of Data Comparison Performance on Smartwatches",
+"annee": 2019,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-01851306v1",
+"doi": "10.1109/tvcg.2018.2865142"
+},
+{
+"id": "pd9e6598aba",
+"titre": "Hybrid Touch/Tangible Spatial 3D Data Selection",
+"annee": 2019,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-02079308v1",
+"doi": "10.1111/cgf.13710"
+},
+{
+"id": "p0fa6f9b598",
+"titre": "Interactive Modelling in the Agrifood Domain: the LiDeoGraM tool",
+"annee": 2019,
+"type": "conférence",
+"lieu": "Journée Visu 2019",
+"url": "https://hal.inrae.fr/hal-02737033v1"
+},
+{
+"id": "pac8d9b1bf6",
+"titre": "Marshalling the Many Facets of Diversity",
+"annee": 2019,
+"type": "chapitre",
+"lieu": "Diversity in Visualization",
+"url": "https://inria.hal.science/hal-02317794v1",
+"doi": "10.2200/s00894ed1v01y201901vis010"
+},
+{
+"id": "p720a8bed3c",
+"titre": "Mobile Data Visualization (Dagstuhl Seminar 19292)",
+"annee": 2019,
+"type": "journal",
+"lieu": "Dagstuhl Reports",
+"url": "https://inria.hal.science/hal-02434852v1",
+"doi": "10.4230/dagrep.9.7.78"
+},
+{
+"id": "pe33147151b",
+"titre": "Multiscale Molecular Visualization",
+"annee": 2019,
+"type": "journal",
+"lieu": "Journal of Molecular Biology",
+"url": "https://inria.hal.science/hal-01873724v1",
+"doi": "10.1016/j.jmb.2018.09.004"
+},
+{
+"id": "p4d42ac8ecb",
+"titre": "Population overlays on choropleths",
+"annee": 2019,
+"type": "conférence",
+"lieu": "Journée Visu 2019",
+"url": "https://inria.hal.science/hal-02130444v1"
+},
+{
+"id": "p0ecac120e1",
+"titre": "Practical Use Cases for Progressive Visual Analytics",
+"annee": 2019,
+"type": "conférence",
+"lieu": "DSIA 2019 - 4th Workshop on Data Systems for Interactive Analysis",
+"url": "https://inria.hal.science/hal-02342944v1"
+},
+{
+"id": "p059a82aff1",
+"titre": "Progressive Data Analysis and Visualization",
+"annee": 2019,
+"type": "ouvrage",
+"lieu": "",
+"url": "https://inria.hal.science/hal-02090121v1",
+"doi": "10.4230/dagrep.8.10.1"
+},
+{
+"id": "p5a620c1de3",
+"titre": "Provenance Analysis for Sensemaking",
+"annee": 2019,
+"type": "journal",
+"lieu": "IEEE Computer Graphics and Applications",
+"url": "https://inria.hal.science/hal-02344205v1",
+"doi": "10.1109/mcg.2019.2945378"
+},
+{
+"id": "p4c575c1733",
+"titre": "Report from Dagstuhl Seminar 18462: Provenance and Logging for Sense Making",
+"annee": 2019,
+"type": "ouvrage",
+"lieu": "",
+"url": "https://inria.hal.science/hal-02095768v1",
+"doi": "10.4230/dagrep.8.11.35"
+},
+{
+"id": "p9a20b14599",
+"titre": "The NLP4NLP Corpus (II): 50 Years of Research in Speech and Language Processing",
+"annee": 2019,
+"type": "journal",
+"lieu": "Frontiers in Research Metrics and Analytics",
+"url": "https://hal.science/hal-02413749v1",
+"doi": "10.3389/frma.2018.00037"
+},
+{
+"id": "p84545ffce2",
+"titre": "TouchGlass: Raycasting from a Glass Surface to Point at Physical Objects in Public Exhibits",
+"annee": 2019,
+"type": "conférence",
+"lieu": "17th IFIP Conference on Human-Computer Interaction (INTERACT 2019)",
+"url": "https://inria.hal.science/hal-02553872v1",
+"doi": "10.1007/978-3-030-29387-1_15"
+},
+{
+"id": "p073398c2c8",
+"titre": "Un atlante sonoro delle lingue di Francia e d'Italia: focus sulle parlate liguri",
+"annee": 2019,
+"type": "chapitre",
+"lieu": "Il patrimonio linguistico storico della Liguria. Attualità e futuro",
+"url": "https://hal.science/hal-04441432v1"
+},
+{
+"id": "p5c01a65305",
+"titre": "Unifying the framework of Multi-Layer Network and Visual Analytics",
+"annee": 2019,
+"type": "chapitre",
+"lieu": "Visual Analytics of Multilayer Networks Across Disciplines",
+"url": "https://hal.science/hal-02185272v1"
+},
+{
+"id": "p884bccaa43",
+"titre": "Visualization of Blockchain Data: A Systematic Review",
+"annee": 2019,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://hal.science/hal-02426339v1",
+"doi": "10.1109/tvcg.2019.2963018"
+},
+{
+"id": "p166f5f55a6",
+"titre": "Visualizing Ranges over Time on Mobile Phones: A Task-Based Crowdsourced Evaluation",
+"annee": 2019,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-01857469v1",
+"doi": "10.1109/tvcg.2018.2865234"
+},
+{
+"id": "pd1df92b0e1",
+"titre": "A Critical Analysis of the Evaluation Practice in Medical Visualization",
+"annee": 2018,
+"type": "conférence",
+"lieu": "Eurographics 8th EG Workshop on Visual Computing for Biology and Medicine",
+"url": "https://inria.hal.science/hal-01893153v1",
+"doi": "10.2312/vcbm.20181228"
+},
+{
+"id": "paba21ced25",
+"titre": "A Speaking Atlas of the Regional Languages of France",
+"annee": 2018,
+"type": "conférence",
+"lieu": "LREC 2018 - International Conference on Language Resources and Evaluation",
+"url": "https://hal.science/hal-01963465v1",
+"doi": "10.63317/3gjjr2k8atow"
+},
+{
+"id": "p743c3d57d0",
+"titre": "A Survey of Surface-Based Illustrative Rendering for Visualization",
+"annee": 2018,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-01652236v1",
+"doi": "10.1111/cgf.13322"
+},
+{
+"id": "p9beecb4cb4",
+"titre": "Data Visualization on Mobile Devices",
+"annee": 2018,
+"type": "conférence",
+"lieu": "CHI 2018 - Conference on Human Factors in Computing System",
+"url": "https://inria.hal.science/hal-03151899v1",
+"doi": "10.1145/3170427.3170631"
+},
+{
+"id": "pdc179b9936",
+"titre": "DichotoZoom : Selection technique in a 3D virtual environment displayed on Smartphone",
+"annee": 2018,
+"type": "conférence",
+"lieu": "30eme conférence francophone sur l'interaction homme-machine",
+"url": "https://hal.science/hal-01899077v1"
+},
+{
+"id": "p82b61aba3f",
+"titre": "DimSUM: Dimension and Scale Unifying Maps for Visual Abstraction of DNA Origami Structures",
+"annee": 2018,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-01795734v1",
+"doi": "10.1111/cgf.13429"
+},
+{
+"id": "p8104657680",
+"titre": "Evaluating Visual Data Analysis Systems: A Discussion Report",
+"annee": 2018,
+"type": "conférence",
+"lieu": "HILDA’18: Workshop on Human-In-the-Loop Data Analytics",
+"url": "https://inria.hal.science/hal-01786507v1",
+"doi": "10.1145/3209900.3209901"
+},
+{
+"id": "p3d251f3db4",
+"titre": "Immersive Analytics: An Introduction",
+"annee": 2018,
+"type": "chapitre",
+"lieu": "Immersive Analytics",
+"url": "https://inria.hal.science/hal-01907533v1",
+"doi": "10.1007/978-3-030-01388-2_1"
+},
+{
+"id": "pa59b9a56e6",
+"titre": "Immersive Visual Data Stories",
+"annee": 2018,
+"type": "chapitre",
+"lieu": "Immersive Analytics",
+"url": "https://inria.hal.science/hal-03206287v1",
+"doi": "10.1007/978-3-030-01388-2_6"
+},
+{
+"id": "pee530837d2",
+"titre": "Interaction for Immersive Analytics",
+"annee": 2018,
+"type": "chapitre",
+"lieu": "Immersive Analytics",
+"url": "https://inria.hal.science/hal-01907526v1",
+"doi": "10.1007/978-3-030-01388-2_4"
+},
+{
+"id": "p60a2cd2724",
+"titre": "Jacques Bertin's Legacy in Information Visualization and the Reorderable Matrix",
+"annee": 2018,
+"type": "journal",
+"lieu": "Cartography and Geographic Information Science",
+"url": "https://inria.hal.science/hal-01786606v2",
+"doi": "10.1080/15230406.2018.1470942"
+},
+{
+"id": "p8a61889675",
+"titre": "Multiscale Visualization and Exploration of Large Bipartite Graphs",
+"annee": 2018,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-01787046v1",
+"doi": "10.1111/cgf.13441"
+},
+{
+"id": "pf3a6c5bd14",
+"titre": "Multiscale Visualization and Scale-Adaptive Modification of DNA Nanostructures",
+"annee": 2018,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-01581203v1",
+"doi": "10.1109/tvcg.2017.2743981"
+},
+{
+"id": "peb8fe0ed05",
+"titre": "Navigation Tactile 3D Augmentée Sur Mobiles",
+"annee": 2018,
+"type": "conférence",
+"lieu": "Journée Visu 2018",
+"url": "https://inria.hal.science/hal-01854463v1"
+},
+{
+"id": "p835a620b5a",
+"titre": "Pondering the Concept of Abstraction in (Illustrative) Visualization",
+"annee": 2018,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-01581177v1",
+"doi": "10.1109/tvcg.2017.2747545"
+},
+{
+"id": "pd945b8e130",
+"titre": "Preface",
+"annee": 2018,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://doi.org/10.1109/tvcg.2018.2874733",
+"doi": "10.1109/tvcg.2018.2874733"
+},
+{
+"id": "p4d9135ca9c",
+"titre": "Preparing for Perceptual Studies: Position and Orientation of Wrist-worn Smartwatches for Reading Tasks",
+"annee": 2018,
+"type": "conférence",
+"lieu": "Proceedings of the Workshop on Data Visualization on Mobile Devices held at ACM CHI",
+"url": "https://inria.hal.science/hal-01744246v2"
+},
+{
+"id": "p9f8eb12a18",
+"titre": "Reducing Affective Responses to Surgical Images through Color Manipulation and Stylization",
+"annee": 2018,
+"type": "conférence",
+"lieu": "Proceedings of the Joint Symposium on Computational Aesthetics, Sketch-Based Interfaces and Modeling, and Non-Photorealistic Animation and Rendering",
+"url": "https://inria.hal.science/hal-01795744v4",
+"doi": "10.1145/3229147.3229158"
+},
+{
+"id": "pc56d9a3d79",
+"titre": "The CENDARI Infrastructure",
+"annee": 2018,
+"type": "journal",
+"lieu": "Journal on Computing and Cultural Heritage",
+"url": "https://inria.hal.science/hal-01523102v2",
+"doi": "10.1145/3092906"
+},
+{
+"id": "p80fc941597",
+"titre": "Using Dynamic Hypergraphs to Reveal the Evolution of the Business Network of a 17th Century French Woman Merchant",
+"annee": 2018,
+"type": "conférence",
+"lieu": "VIS 2018 - 3rd Workshop on Visualization for the Digital Humanities",
+"url": "https://inria.hal.science/hal-01855675v1"
+},
+{
+"id": "pbd7382be1f",
+"titre": "Visualization perception on smartwatches",
+"annee": 2018,
+"type": "conférence",
+"lieu": "Journée Visu 2018",
+"url": "https://inria.hal.science/hal-01844726v1"
+},
+{
+"id": "p154dc249e0",
+"titre": "A Progressive k-d tree for Approximate k-Nearest Neighbors",
+"annee": 2017,
+"type": "conférence",
+"lieu": "Workshop on Data Systems for Interactive Analysis (DSIA)",
+"url": "https://inria.hal.science/hal-01650272v1"
+},
+{
+"id": "p637b3c257f",
+"titre": "A Survey of Digital Stippling",
+"annee": 2017,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://inria.hal.science/hal-01528484v1",
+"doi": "10.1016/j.cag.2017.05.001"
+},
+{
+"id": "pa3127280b4",
+"titre": "A Systematic Review of Experimental Studies on Data Glyphs",
+"annee": 2017,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-01378429v1",
+"doi": "10.1109/tvcg.2016.2549018"
+},
+{
+"id": "pa6189b599b",
+"titre": "ARIES: Enabling Visual Exploration and Organization of Art Image Collections",
+"annee": 2017,
+"type": "journal",
+"lieu": "IEEE Computer Graphics and Applications",
+"url": "https://inria.hal.science/hal-01612775v1",
+"doi": "10.1109/mcg.2017.377152546"
+},
+{
+"id": "p6e693fafe5",
+"titre": "An Exploratory Study of Word-Scale Graphics in Data-Rich Text Documents",
+"annee": 2017,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-01389998v1",
+"doi": "10.1109/tvcg.2016.2618797"
+},
+{
+"id": "p6559776330",
+"titre": "Analysis of Locally Coupled 3D Manipulation Mappings Based on Mobile Device Motion",
+"annee": 2017,
+"type": "journal",
+"lieu": "Presence: Teleoperators and Virtual Environments",
+"url": "https://inria.hal.science/hal-01581185v1",
+"doi": "10.1162/presa00287"
+},
+{
+"id": "p45fd287234",
+"titre": "Demo hour",
+"annee": 2017,
+"type": "journal",
+"lieu": "interactions",
+"url": "https://doi.org/10.1145/3068337",
+"doi": "10.1145/3068337"
+},
+{
+"id": "p8d16cbc610",
+"titre": "Design and evaluation of visual feedbacks on a phygital model",
+"annee": 2017,
+"type": "conférence",
+"lieu": "29ème conférence francophone sur l'Interaction Homme-Machine (IHM 2017)",
+"url": "https://hal.science/hal-01578334v1",
+"doi": "10.1145/3132129.3132162"
+},
+{
+"id": "p31ae6375d8",
+"titre": "Enregistrements et transcriptions pour un atlas sonore des langues régionales de France",
+"annee": 2017,
+"type": "journal",
+"lieu": "Géolinguistique",
+"url": "https://hal.science/hal-01719532v1",
+"doi": "10.4000/geolinguistique.365"
+},
+{
+"id": "p27073dc550",
+"titre": "How Progressive Visualizations Affect Exploratory Analysis",
+"annee": 2017,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-01377896v1",
+"doi": "10.1109/tvcg.2016.2607714"
+},
+{
+"id": "p939b42d922",
+"titre": "Hybrid Tactile/Tangible Interaction for 3D Data Exploration",
+"annee": 2017,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-01372922v1",
+"doi": "10.1109/tvcg.2016.2599217"
+},
+{
+"id": "pe27ceb2636",
+"titre": "Hybrid Tactile/Tangible Interaction for 3D Selection",
+"annee": 2017,
+"type": "conférence",
+"lieu": "29ème conférence francophone sur l'Interaction Homme-Machine",
+"url": "https://hal.science/hal-01577940v1",
+"doi": "10.1145/3132129.3132150"
+},
+{
+"id": "p0eec040629",
+"titre": "Interactive 3D Data Exploration Using Hybrid Tactile/Tangible Input",
+"annee": 2017,
+"type": "conférence",
+"lieu": "Journées Visu 2017",
+"url": "https://inria.hal.science/hal-01529648v1"
+},
+{
+"id": "p8bec140b12",
+"titre": "Le Traitement Automatique des Langues à l'ère du « Big Data » : le cas des publications scientifiques",
+"annee": 2017,
+"type": "conférence",
+"lieu": "Linguistique et Big Data",
+"url": "https://hal.science/hal-02413818v1"
+},
+{
+"id": "pe2b8d556bc",
+"titre": "Magnostics: Image-based Search of Interesting Matrix Views for Guided Network Exploration",
+"annee": 2017,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-01377861v1",
+"doi": "10.1109/tvcg.2016.2598467"
+},
+{
+"id": "p3246072aa6",
+"titre": "Mouse, Tactile, and Tangible Input for 3D Manipulation",
+"annee": 2017,
+"type": "conférence",
+"lieu": "Proceedings of the ACM Conference on Human Factors in Computing Systems (CHI)",
+"url": "https://inria.hal.science/hal-01436206v1",
+"doi": "10.1145/3025453.3025863"
+},
+{
+"id": "p2c9dfc91e4",
+"titre": "Neural Style Transfer: A Paradigm Shift for Image-based Artistic Rendering?",
+"annee": 2017,
+"type": "conférence",
+"lieu": "NPAR 2017 - Proceedings of the International Symposium on Non-Photorealistic Animation and Rendering (NPAR as part of Expressive)",
+"url": "https://inria.hal.science/hal-01527495v3",
+"doi": "10.1145/3092919.3092920"
+},
+{
+"id": "pb5d3caa838",
+"titre": "Pressure-Based Gain Factor Control for Mobile 3D Interaction using Locally-Coupled Devices",
+"annee": 2017,
+"type": "conférence",
+"lieu": "CHI 2017 - ACM CHI Conference on Human Factors in Computing Systems",
+"url": "https://inria.hal.science/hal-01436172v1",
+"doi": "10.1145/3025453.3025890"
+},
+{
+"id": "p0c66afe162",
+"titre": "Rediscovering 50 Years of Discoveries in Speech and Language Processing: A Survey",
+"annee": 2017,
+"type": "conférence",
+"lieu": "Oriental COCOSDA",
+"url": "https://hal.science/hal-02413795v1"
+},
+{
+"id": "p9ecf7d3210",
+"titre": "Steering the Craft: UI Elements and Visualizations for Supporting Progressive Visual Analytics",
+"annee": 2017,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-01512256v1",
+"doi": "10.1111/cgf.13205"
+},
+{
+"id": "ped97a2e6ee",
+"titre": "Supporting Handoff in Asynchronous Collaborative Sensemaking Using Knowledge-Transfer Graphs",
+"annee": 2017,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-01565560v1",
+"doi": "10.1109/tvcg.2017.2745279"
+},
+{
+"id": "pc1e5b7fbd0",
+"titre": "Technological innovation in group creativity",
+"annee": 2017,
+"type": "chapitre",
+"lieu": "Creativity Design Thinking and Interdisciplinarity",
+"url": "https://hal.science/hal-04097680v1",
+"doi": "10.1007/978-981-10-7524-7_12"
+},
+{
+"id": "pa19fd3b8f1",
+"titre": "Understanding the Use of The Vistorian: Complementing Logs with Context Mini-Questionnaires",
+"annee": 2017,
+"type": "conférence",
+"lieu": "Visualization for the Digital Humanities",
+"url": "https://inria.hal.science/hal-01650259v1"
+},
+{
+"id": "pd62cf75ab9",
+"titre": "Visualization as Seen Through its Research Paper Keywords",
+"annee": 2017,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-01370750v1",
+"doi": "10.1109/tvcg.2016.2598827"
+},
+{
+"id": "pc7d7ce057b",
+"titre": "vispubdata.org: A Metadata Collection about IEEE Visualization (VIS) Publications",
+"annee": 2017,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-01376597v1",
+"doi": "10.1109/tvcg.2016.2615308"
+},
+{
+"id": "pd923ddf479",
+"titre": "A Better Grasp on Pictures Under Glass: Comparing Touch and Tangible Object Manipulation using Physical Proxies",
+"annee": 2016,
+"type": "conférence",
+"lieu": "Proceedings of the International Working Conference on Advanced Visual Interfaces (AVI)",
+"url": "https://inria.hal.science/hal-01323474v1",
+"doi": "10.1145/2909132.2909247"
+},
+{
+"id": "pabe132ab3c",
+"titre": "A Survey of Perceptually Motivated 3D Visualization of Medical Image Data",
+"annee": 2016,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-01310290v1",
+"doi": "10.1111/cgf.12927"
+},
+{
+"id": "p227da28aa8",
+"titre": "A Tangible Volume for Portable 3D Interaction",
+"annee": 2016,
+"type": "conférence",
+"lieu": "ISMAR 2016 - IEEE International Symposium on Mixed and Augmented Reality",
+"url": "https://inria.hal.science/hal-01423533v1",
+"doi": "10.1109/ismar-adjunct.2016.0079"
+},
+{
+"id": "p0dcffebae3",
+"titre": "Advances in Visual Computing: Proceedings of the 12th International Symposium (ISVC, December 12–14, Las Vegas, NV, USA), Part 1",
+"annee": 2016,
+"type": "ouvrage",
+"lieu": "",
+"url": "https://inria.hal.science/hal-01415869v1",
+"doi": "10.1007/978-3-319-50835-1"
+},
+{
+"id": "p69b8f715ca",
+"titre": "Advances in Visual Computing: Proceedings of the 12th International Symposium (ISVC, December 12–14, Las Vegas, NV, USA), Part 2",
+"annee": 2016,
+"type": "ouvrage",
+"lieu": "",
+"url": "https://inria.hal.science/hal-01415875v1",
+"doi": "10.1007/978-3-319-50832-0"
+},
+{
+"id": "pf8c7ed8e40",
+"titre": "BELIV 2014 Special Issue",
+"annee": 2016,
+"type": "journal",
+"lieu": "Information Visualization",
+"url": "https://inria.hal.science/hal-01298534v1",
+"doi": "10.1177/1473871616638137"
+},
+{
+"id": "p3ab4c662f5",
+"titre": "CAST: Effective and Efficient User Interaction for Context-Aware Selection in 3D Particle Clouds",
+"annee": 2016,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-01178051v1",
+"doi": "10.1109/tvcg.2015.2467202"
+},
+{
+"id": "p411997d0b0",
+"titre": "Cartopho : un site web de cartographie de variantes de prononciation en français",
+"annee": 2016,
+"type": "conférence",
+"lieu": "Journées d'Études sur la Parole (JEP 2016)",
+"url": "https://hal.science/hal-01621840v1"
+},
+{
+"id": "p0c7dde92dc",
+"titre": "Creation, Visualization and Edition of Timelines for Journalistic Use",
+"annee": 2016,
+"type": "conférence",
+"lieu": "\"Natural Language meets Journalism\", workshop of the International Joint Conference on Artificial Intelligence (IJCAI 2016)",
+"url": "https://hal.science/hal-02407152v1"
+},
+{
+"id": "pca33bbe77b",
+"titre": "Interactive Exploration of Three-Dimensional Scientific Visualizations on Large Display Surfaces",
+"annee": 2016,
+"type": "chapitre",
+"lieu": "Collaboration Meets Interactive Spaces",
+"url": "https://inria.hal.science/hal-01379938v1",
+"doi": "10.1007/978-3-319-45853-3_6"
+},
+{
+"id": "p141deaa5c7",
+"titre": "Interactive NPAR: What type of tools should we create?",
+"annee": 2016,
+"type": "conférence",
+"lieu": "Proceedings of Expressive",
+"url": "https://inria.hal.science/hal-01298075v1",
+"doi": "10.2312/exp.20161067"
+},
+{
+"id": "pe40ccf9e30",
+"titre": "Matrix Reordering Methods for Table and Network Visualization",
+"annee": 2016,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-01326759v1",
+"doi": "10.1111/cgf.12935"
+},
+{
+"id": "p7da7ab5856",
+"titre": "Occlusion-free Blood Flow Animation with Wall Thickness Visualization",
+"annee": 2016,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-01178054v1",
+"doi": "10.1109/tvcg.2015.2467961"
+},
+{
+"id": "p4e8433d67d",
+"titre": "Preference Between Allocentric and Egocentric 3D Manipulation in a Locally Coupled Configuration",
+"annee": 2016,
+"type": "conférence",
+"lieu": "ACM Symposium on Spatial User Interaction",
+"url": "https://hal.science/hal-01373269v1",
+"doi": "10.1145/2983310.2985750"
+},
+{
+"id": "p28faa1a34e",
+"titre": "Proceedings of the Sixth Workshop on “Beyond Time and Errors:Novel Evaluation Methods for Visualization” (BELIV 2016, October 24, Baltimore, Maryland, USA)",
+"annee": 2016,
+"type": "ouvrage",
+"lieu": "",
+"url": "https://inria.hal.science/hal-01375428v1",
+"doi": "10.1145/2993901"
+},
+{
+"id": "pce09681255",
+"titre": "Providing and Analyzing NLP Terms for our Community",
+"annee": 2016,
+"type": "conférence",
+"lieu": "International Workshop on Computational Terminology",
+"url": "https://hal.science/hal-01840848v1"
+},
+{
+"id": "pfe215c51a9",
+"titre": "SeekAView: An Intelligent Dimensionality Reduction Strategy for Navigating High-Dimensional Data Spaces",
+"annee": 2016,
+"type": "conférence",
+"lieu": "LDAV 2016 - IEEE 6th Symposium on Large Data Analysis and Visualization",
+"url": "https://inria.hal.science/hal-01377974v1"
+},
+{
+"id": "pcda06f0251",
+"titre": "Suggested Interactivity: Seeking Perceived Affordances for Information Visualization",
+"annee": 2016,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-01188973v1",
+"doi": "10.1109/tvcg.2015.2467201"
+},
+{
+"id": "p3530e47d2e",
+"titre": "Towards an Understanding of Mobile Touch Navigation in a Stereoscopic Viewing Environment for 3D Data Exploration",
+"annee": 2016,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-01174618v1",
+"doi": "10.1109/tvcg.2015.2440233"
+},
+{
+"id": "p10be8b848c",
+"titre": "Using Gap Charts to Visualize the Temporal Evolution of Ranks and Scores",
+"annee": 2016,
+"type": "journal",
+"lieu": "IEEE Computer Graphics and Applications",
+"url": "https://inria.hal.science/hal-01435503v1",
+"doi": "10.1109/mcg.2016.100"
+},
+{
+"id": "pe38e8af7b3",
+"titre": "Using VisKit: A Manual for Running a Constructive Visualization Workshop",
+"annee": 2016,
+"type": "conférence",
+"lieu": "Pedagogy of Data Visualization Workshop at IEEE VIS 2016",
+"url": "https://inria.hal.science/hal-01384388v1"
+},
+{
+"id": "pd6f22ff33e",
+"titre": "Zooids: Building Blocks for Swarm User Interfaces",
+"annee": 2016,
+"type": "conférence",
+"lieu": "Proceedings of the 29th Annual Symposium on User Interface Software and Technology (UIST)",
+"url": "https://inria.hal.science/hal-01391281v1",
+"doi": "10.1145/2984511.2984547"
+},
+{
+"id": "p8f2259d4bb",
+"titre": "A Survey of Illustrative Visualization Techniques for Diffusion-Weighted MRI Tractography",
+"annee": 2015,
+"type": "chapitre",
+"lieu": "Visualization and Processing of Higher Order Descriptors for Multi-Valued Data",
+"url": "https://inria.hal.science/hal-01132649v1",
+"doi": "10.1007/978-3-319-15090-1_12"
+},
+{
+"id": "p58b122f433",
+"titre": "Crossets: Manipulating Multiple Sliders by Crossing",
+"annee": 2015,
+"type": "conférence",
+"lieu": "Proceedings of Graphics Interface Conference (GI)",
+"url": "https://inria.hal.science/hal-01152074v1"
+},
+{
+"id": "paed8b163a6",
+"titre": "DIY Bertin Matrix",
+"annee": 2015,
+"type": "conférence",
+"lieu": "Proceedings of the CHI Workshop on Exploring the Challenges of Making Data Physical",
+"url": "https://inria.hal.science/hal-01138897v1"
+},
+{
+"id": "pf427718225",
+"titre": "Design Considerations for Composite Physical Visualizations",
+"annee": 2015,
+"type": "conférence",
+"lieu": "Proceedings of the CHI Workshop on Exploring the Challenges of Making Data Physical",
+"url": "https://inria.hal.science/hal-01138024v1"
+},
+{
+"id": "p628e333af1",
+"titre": "Drawing Characteristics for Reproducing Traditional Hand-Made Stippling",
+"annee": 2015,
+"type": "conférence",
+"lieu": "Proceedings of Non-Photorealistic Animation and Rendering (NPAR, part of Expressive)",
+"url": "https://inria.hal.science/hal-01174610v1",
+"doi": "10.2312/exp.20151183"
+},
+{
+"id": "p3e08d7f660",
+"titre": "Exploration of the Brain's White Matter Structure through Visual Abstraction and Multi-Scale Local Fiber Tract Contraction",
+"annee": 2015,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-01132636v1",
+"doi": "10.1109/tvcg.2015.2403323"
+},
+{
+"id": "pb70b123d84",
+"titre": "Lightweight Relief Shearing for Enhanced Terrain Perception on Interactive Maps",
+"annee": 2015,
+"type": "conférence",
+"lieu": "Proceedings of the Conference on Human Factors in Computing Systems (CHI)",
+"url": "https://inria.hal.science/hal-01105179v2",
+"doi": "10.1145/2702123.2702172"
+},
+{
+"id": "pf96751463c",
+"titre": "More than Telling a Story: A Closer Look at the Process of Transforming Data into Visually Shared Stories",
+"annee": 2015,
+"type": "journal",
+"lieu": "IEEE Computer Graphics and Applications",
+"url": "https://inria.hal.science/hal-01158445v1",
+"doi": "10.1109/mcg.2015.99"
+},
+{
+"id": "p7d5ff44050",
+"titre": "Opportunities and Challenges for Data Physicalization",
+"annee": 2015,
+"type": "conférence",
+"lieu": "Proceedings of the ACM Conference on Human Factors in Computing Systems (CHI)",
+"url": "https://inria.hal.science/hal-01120152v1",
+"doi": "10.1145/2702123.2702180"
+},
+{
+"id": "pdef591aac0",
+"titre": "ProgressiVis: a Toolkit for Steerable Progressive Analytics and Visualization",
+"annee": 2015,
+"type": "conférence",
+"lieu": "1st Workshop on Data Systems for Interactive Analysis",
+"url": "https://inria.hal.science/hal-01202901v1"
+},
+{
+"id": "pfcba978e6e",
+"titre": "Recherche en visualisation d’information ou Dataviz : pourquoi et comment ?",
+"annee": 2015,
+"type": "journal",
+"lieu": "I2D - Information données & documents",
+"url": "https://doi.org/10.3917/i2d.152.0032",
+"doi": "10.3917/i2d.152.0032"
+},
+{
+"id": "pe6c2ec62ad",
+"titre": "Sharing Information from Personal Digital Notes using Word-Scale Visualizations",
+"annee": 2015,
+"type": "conférence",
+"lieu": "Proceedings of the IEEE VIS Workshop on Personal Visualization: Exploring Data in Everyday Life",
+"url": "https://inria.hal.science/hal-01216223v1"
+},
+{
+"id": "p7b2cc238fb",
+"titre": "Small MultiPiles: Piling Time to Explore Temporal Patterns in Dynamic Networks",
+"annee": 2015,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-01158987v1",
+"doi": "10.1111/cgf.12615"
+},
+{
+"id": "pf2c79a4464",
+"titre": "SmartTokens: Embedding Motion and Grip Sensing in Small Tangible Objects",
+"annee": 2015,
+"type": "conférence",
+"lieu": "Proceedings of the Symposium on User Interface Software and Technology (UIST)",
+"url": "https://inria.hal.science/hal-01211270v1",
+"doi": "10.1145/2807442.2807488"
+},
+{
+"id": "pdae640ddfd",
+"titre": "Storytelling in Information Visualizations: Does it Engage Users to Explore Data?",
+"annee": 2015,
+"type": "conférence",
+"lieu": "CHI 2015",
+"url": "https://inria.hal.science/hal-01133595v1",
+"doi": "10.1145/2702123.2702452"
+},
+{
+"id": "pb03ccddb0e",
+"titre": "Supporting Historical Research Through User-Centered Visual Analytics",
+"annee": 2015,
+"type": "conférence",
+"lieu": "sixth international Eurovis workshop on visual analytics (EuroVA)",
+"url": "https://inria.hal.science/hal-01156527v1",
+"doi": "10.2312/eurova.20151095"
+},
+{
+"id": "p8b85a85f4d",
+"titre": "Towards a smooth design process for static communicative node-link diagrams",
+"annee": 2015,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-01158223v1",
+"doi": "10.1111/cgf.12658"
+},
+{
+"id": "p1490d8a298",
+"titre": "Understanding Digital Note-Taking Practice for Visualization",
+"annee": 2015,
+"type": "journal",
+"lieu": "IEEE Computer Graphics and Applications",
+"url": "https://inria.hal.science/hal-01179038v1",
+"doi": "10.1109/mcg.2015.52"
+},
+{
+"id": "p338a92077f",
+"titre": "A Principled Way of Assessing Visualization Literacy",
+"annee": 2014,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-01027582v1",
+"doi": "10.1109/tvcg.2014.2346984"
+},
+{
+"id": "p4a9f512571",
+"titre": "An Interaction Continuum for Visualization",
+"annee": 2014,
+"type": "conférence",
+"lieu": "VIS Workshop on “Death of the Desktop: Envisioning Visualization without Desktop Computing”",
+"url": "https://inria.hal.science/hal-01095454v1"
+},
+{
+"id": "p01274d8395",
+"titre": "Creating physical visualizations with makervis",
+"annee": 2014,
+"type": "conférence",
+"lieu": "CHI 2014 - Conference on Human Factors in Computing Systems",
+"url": "https://inria.hal.science/hal-01828270v1",
+"doi": "10.1145/2559206.2574788"
+},
+{
+"id": "p925ce2e17b",
+"titre": "Eliciting Multi-touch Selection Gestures for Interactive Data Graphics",
+"annee": 2014,
+"type": "conférence",
+"lieu": "Short-Paper Proceedings of the European Conference on Visualization (EuroVis)",
+"url": "https://inria.hal.science/hal-00990928v1"
+},
+{
+"id": "p838fa00813",
+"titre": "Exploring the Placement and Design of Word-Scale Visualizations",
+"annee": 2014,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-01024278v1",
+"doi": "10.1109/tvcg.2014.2346435"
+},
+{
+"id": "p25e4f09da9",
+"titre": "GraphDiaries: Animated Transitions and Temporal Navigation for Dynamic Networks",
+"annee": 2014,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-00906597v1",
+"doi": "10.1109/tvcg.2013.254"
+},
+{
+"id": "p9cb863c3d5",
+"titre": "Interaction in the Visualization of Multivariate Networks",
+"annee": 2014,
+"type": "chapitre",
+"lieu": "Multivariate Network Visualization",
+"url": "https://inria.hal.science/hal-00974335v2"
+},
+{
+"id": "pe4175f7f76",
+"titre": "La Sédimentation visuelle - Outil et technique pour visualiser les flux de données à destination du grand public.",
+"annee": 2014,
+"type": "journal",
+"lieu": "Revue des Sciences et Technologies de l'Information - Série ISI : Ingénierie des Systèmes d'Information",
+"url": "https://inria.hal.science/hal-00988001v1"
+},
+{
+"id": "p9a41c1674e",
+"titre": "Revisiting Bertin matrices: New Interactions for Crafting Tabular Visualizations",
+"annee": 2014,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-01023890v1",
+"doi": "10.1109/tvcg.2014.2346279"
+},
+{
+"id": "pa02e484f3f",
+"titre": "Supporting the Design and Fabrication of Physical Visualizations",
+"annee": 2014,
+"type": "conférence",
+"lieu": "Proceedings of the 2014 Annual Conference on Human Factors in Computing Systems (CHI 2014)",
+"url": "https://inria.hal.science/hal-00935978v1",
+"doi": "10.1145/2556288.2557310"
+},
+{
+"id": "p11d3057583",
+"titre": "Tablet-Based Interaction for Immersive 3D Data Exploration",
+"annee": 2014,
+"type": "conférence",
+"lieu": "Posters at the IEEE Conference on Visualization (IEEE VIS 2014, November 9--14, Paris, France)",
+"url": "https://inria.hal.science/hal-01062053v1"
+},
+{
+"id": "p711e56233c",
+"titre": "The CO2 Pollution Map: Lessons Learned from Designing a Visualization that Bridges the Gap between Visual Communication and Information Visualization",
+"annee": 2014,
+"type": "conférence",
+"lieu": "IEEE Conference on Information Visualization [Poster paper]",
+"url": "https://inria.hal.science/hal-01061773v1"
+},
+{
+"id": "pe28af38d6b",
+"titre": "The Influence of Contour on Similarity Perception of Star Glyphs",
+"annee": 2014,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-01023867v1",
+"doi": "10.1109/tvcg.2014.2346426"
+},
+{
+"id": "pbee68e16c4",
+"titre": "Visualisation de grandes masses de données",
+"annee": 2014,
+"type": "ouvrage",
+"lieu": "",
+"url": "https://inria.hal.science/hal-01070466v1"
+},
+{
+"id": "p4c4e491833",
+"titre": "Visualization According To Research Paper Keywords",
+"annee": 2014,
+"type": "conférence",
+"lieu": "Posters at the IEEE Conference on Visualization (VIS)",
+"url": "https://inria.hal.science/hal-01061912v1"
+},
+{
+"id": "pdf8bd31531",
+"titre": "Visualizing Dynamic Networks with Matrix Cubes",
+"annee": 2014,
+"type": "conférence",
+"lieu": "Proceedings of the 2014 Annual Conference on Human Factors in Computing Systems (CHI 2014)",
+"url": "https://inria.hal.science/hal-00931911v2",
+"doi": "10.1145/2556288.2557010"
+},
+{
+"id": "p976576aaa1",
+"titre": "À Table! Improving Temporal Navigation in Soccer Ranking Tables",
+"annee": 2014,
+"type": "conférence",
+"lieu": "CHI 2014 - Proceedings of the 2014 Annual Conference on Human Factors in Computing Systems",
+"url": "https://inria.hal.science/hal-00929844v1",
+"doi": "10.1145/2556288.2557379"
+},
+{
+"id": "pb7254a8b64",
+"titre": "A Systematic Review on the Practice of Evaluating Visualization",
+"annee": 2013,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-00846775v1",
+"doi": "10.1109/tvcg.2013.126"
+},
+{
+"id": "p309205f00f",
+"titre": "Bristle Maps: A Multivariate Abstraction Technique for Geovisualization",
+"annee": 2013,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-00796336v1",
+"doi": "10.1109/tvcg.2013.66"
+},
+{
+"id": "pc46a65701c",
+"titre": "Bubble-TV: Live Visual Feedback for Social TV Broadcast",
+"annee": 2013,
+"type": "conférence",
+"lieu": "ACM CHI 2013 Workshop : Exploring and enhancing the user experience for television",
+"url": "https://hal.science/hal-00796354v1"
+},
+{
+"id": "pb15ea087d2",
+"titre": "CollaStar : Interaction collaborative avec des données multidimensionnelles et temporelles",
+"annee": 2013,
+"type": "conférence",
+"lieu": "25ème conférence francophone sur l'Interaction Homme-Machine, IHM'13",
+"url": "https://inria.hal.science/hal-00877321v2",
+"doi": "10.1145/2534903.2534919"
+},
+{
+"id": "pa950f56293",
+"titre": "Data Visualization on Interactive Surfaces: A Research Agenda",
+"annee": 2013,
+"type": "journal",
+"lieu": "IEEE Computer Graphics and Applications",
+"url": "https://inria.hal.science/hal-00781070v1",
+"doi": "10.1109/mcg.2013.24/"
+},
+{
+"id": "p714d4f7f7d",
+"titre": "Evaluating and Validating Non-Photorealistic and Illustrative Rendering",
+"annee": 2013,
+"type": "chapitre",
+"lieu": "Image and Video based Artistic Stylisation",
+"url": "https://inria.hal.science/hal-00781058v1",
+"doi": "10.1007/978-1-4471-4519-6_15"
+},
+{
+"id": "p9732f4356b",
+"titre": "Evaluating the Efficiency of Physical Visualizations",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Proceedings of the 2013 Annual Conference on Human Factors in Computing Systems (CHI 2013)",
+"url": "https://inria.hal.science/hal-00781831v1",
+"doi": "10.1145/2470654.2481359"
+},
+{
+"id": "p6677a01d54",
+"titre": "Evaluation of Alternative Glyph Designs for Time Series Data in a Small Multiple Setting",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Proceedings of the Conference on Human Factors in Computing Systems (CHI)",
+"url": "https://inria.hal.science/hal-00781504v1",
+"doi": "10.1145/2470654.2466443"
+},
+{
+"id": "pe573462816",
+"titre": "Halftoning and Stippling",
+"annee": 2013,
+"type": "chapitre",
+"lieu": "Image and Video based Artistic Stylisation",
+"url": "https://inria.hal.science/hal-00781036v1",
+"doi": "10.1007/978-1-4471-4519-6_3"
+},
+{
+"id": "pbe815eae62",
+"titre": "Hybrid-Image Visualization for Large Viewing Environments",
+"annee": 2013,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-00844878v1",
+"doi": "10.1109/tvcg.2013.163"
+},
+{
+"id": "p7e924caf9c",
+"titre": "Illustrative Data Graphic Style Elements",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Posters at the Joint ACM/EG Symposium on Computational Aesthetics, Sketch-Based Interfaces and Modeling, and Non-Photorealistic Animation and Rendering (Expressive 2013, July 19--21, Anaheim, CA, USA)",
+"url": "https://inria.hal.science/hal-00849081v1"
+},
+{
+"id": "p22fcb7f821",
+"titre": "Illustrative Data Graphics in 18th-19th Century Style: A Case Study",
+"annee": 2013,
+"type": "conférence",
+"lieu": "IEEE Conference on Visualization - IEEE VIS 2013",
+"url": "https://inria.hal.science/hal-00849079v2"
+},
+{
+"id": "p6add29d12d",
+"titre": "Interaction with Information for Visual Reasoning (Dagstuhl Seminar 13352)",
+"annee": 2013,
+"type": "journal",
+"lieu": "Dagstuhl Reports",
+"url": "https://inria.hal.science/hal-00925070v1",
+"doi": "10.4230/dagrep.3.8.151"
+},
+{
+"id": "pbb760a0719",
+"titre": "Interactive Example-based Hatching",
+"annee": 2013,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://inria.hal.science/hal-00781065v1",
+"doi": "10.1016/j.cag.2012.11.003"
+},
+{
+"id": "pd963e38a5d",
+"titre": "Interactive Horizon Graphs: Improving the Compact Visualization of Multiple Time Series",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Proceedings of the 2013 Annual Conference on Human Factors in Computing Systems (CHI 2013)",
+"url": "https://inria.hal.science/hal-00781390v1",
+"doi": "10.1145/2470654.2466441"
+},
+{
+"id": "pe2da0061d6",
+"titre": "POWERWALL: international workshop on interactive, ultra-high-resolution displays",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Conference on Human Factors in Computing Systems - CHI 2013",
+"url": "https://inria.hal.science/hal-00819844v1",
+"doi": "10.1145/2468356.2479653"
+},
+{
+"id": "p68bf982b9d",
+"titre": "Perceptual Affordances of Wall-Sized Displays for Visualization Applications",
+"annee": 2013,
+"type": "chapitre",
+"lieu": "Collaborative Human-Computer Interaction with Big Wall Displays (BigWallHCI)",
+"url": "https://inria.hal.science/hal-00989840v1",
+"doi": "10.2788/50183"
+},
+{
+"id": "p3461f541ad",
+"titre": "Perceptual Affordances of Wall-Sized Displays for Visualization Applications: Color",
+"annee": 2013,
+"type": "conférence",
+"lieu": "PowerWall - CHI Workshop on Interactive, Ultra-High-Resolution Displays",
+"url": "https://inria.hal.science/hal-00799486v1"
+},
+{
+"id": "p17921127cd",
+"titre": "PolemicTweet: Video Annotation and Analysis through Tagged Tweets",
+"annee": 2013,
+"type": "conférence",
+"lieu": "14th International Conference on Human-Computer Interaction (INTERACT)",
+"url": "https://inria.hal.science/hal-00817591v1",
+"doi": "10.1007/978-3-642-40480-1_9"
+},
+{
+"id": "p43126422f5",
+"titre": "ProxiLens: Interactive Exploration of High-Dimensional Data using Projections",
+"annee": 2013,
+"type": "conférence",
+"lieu": "VAMP: EuroVis Workshop on Visual Analytics using Multidimensional Projections",
+"url": "https://inria.hal.science/hal-01523025v2",
+"doi": "10.2312/pe.vamp.vamp2013.011-015"
+},
+{
+"id": "p4f88f70698",
+"titre": "R2S2: a Hybrid Technique to Visualize Sport Ranking Evolution",
+"annee": 2013,
+"type": "conférence",
+"lieu": "What's the score? The 1st Workshop on Sports Data Visualization, IEEE VIS",
+"url": "https://inria.hal.science/hal-00869346v1"
+},
+{
+"id": "p65d9a874a5",
+"titre": "Real-Time Crowdsourcing of Detailed Soccer Data",
+"annee": 2013,
+"type": "conférence",
+"lieu": "What's the score? The 1st Workshop on Sports Data Visualization",
+"url": "https://inria.hal.science/hal-00868775v1"
+},
+{
+"id": "p4ead7a3f55",
+"titre": "Reimagining the Scientific Visualization Interaction Paradigm",
+"annee": 2013,
+"type": "journal",
+"lieu": "Computer",
+"url": "https://inria.hal.science/hal-00781501v1",
+"doi": "10.1109/mc.2013.178"
+},
+{
+"id": "pedb6efb0cf",
+"titre": "SoccerStories: A Kick-off for Visual Soccer Analysis",
+"annee": 2013,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-00846718v1",
+"doi": "10.1109/tvcg.2013.192"
+},
+{
+"id": "p8775c6b322",
+"titre": "State of the \"Art\": A Taxonomy of Artistic Stylization Techniques for Images and Video",
+"annee": 2013,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-00781502v1",
+"doi": "10.1109/tvcg.2012.160"
+},
+{
+"id": "pb508349922",
+"titre": "Trains of thought on the tabletop: visualizing association of ideas improves creativity",
+"annee": 2013,
+"type": "journal",
+"lieu": "Personal and Ubiquitous Computing",
+"url": "https://doi.org/10.1007/s00779-013-0726-3",
+"doi": "10.1007/s00779-013-0726-3"
+},
+{
+"id": "pecad87826e",
+"titre": "Visual Abstraction and Stylisation of Maps",
+"annee": 2013,
+"type": "journal",
+"lieu": "The Cartographic Journal",
+"url": "https://inria.hal.science/hal-00781500v1",
+"doi": "10.1179/1743277412y.0000000007"
+},
+{
+"id": "p2e0b463862",
+"titre": "Visual Analytics Infrastructures: From Data Management to Exploration",
+"annee": 2013,
+"type": "journal",
+"lieu": "Computer",
+"url": "https://inria.hal.science/hal-00815610v1",
+"doi": "10.1109/mc.2013.120"
+},
+{
+"id": "p0ca8b3f0c5",
+"titre": "Visual Sedimentation",
+"annee": 2013,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-00846260v1",
+"doi": "10.1109/tvcg.2013.227"
+},
+{
+"id": "p0dee1af77d",
+"titre": "Visual Showcase: An Illustrative Data Graphic in an 18th-19th Century Style",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Visual Showcase at the Joint ACM/EG Symposium on Computational Aesthetics, Sketch-Based Interfaces and Modeling, and Non-Photorealistic Animation and Rendering (Expressive 2013, July 19--20, Anaheim, CA, USA)",
+"url": "https://inria.hal.science/hal-00849083v1"
+},
+{
+"id": "pab2d6ec7ab",
+"titre": "Visual Showcase: Interactive Example-based Hatching",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Visual Showcase at the Joint ACM/EG Symposium on Computational Aesthetics, Sketch-Based Interfaces and Modeling, and Non-Photorealistic Animation and Rendering (Expressive 2013, July 19--20, Anaheim, CA, USA)",
+"url": "https://inria.hal.science/hal-00849086v1"
+},
+{
+"id": "pd32f70d081",
+"titre": "Visualization on Interactive Surfaces: A Research Overview",
+"annee": 2013,
+"type": "journal",
+"lieu": "i-com",
+"url": "https://inria.hal.science/hal-00853925v1",
+"doi": "10.1524/icom.2013.0020"
+},
+{
+"id": "ped43046ff8",
+"titre": "Visualization on Interactive Surfaces: A Research Overview / Visualisierung auf interaktiven Oberflächen: Ein Forschungsüberblick",
+"annee": 2013,
+"type": "journal",
+"lieu": "i-com",
+"url": "https://doi.org/10.1515/icom.2013.0020",
+"doi": "10.1515/icom.2013.0020"
+},
+{
+"id": "pfb7a29c7eb",
+"titre": "Visualizing Dense Dynamic Networks with Matrix Cubes",
+"annee": 2013,
+"type": "conférence",
+"lieu": "IEEE Conference on Information Visualization [Poster]",
+"url": "https://inria.hal.science/hal-00850662v1"
+},
+{
+"id": "p94aed9c7ab",
+"titre": "Weighted Graph Comparison Techniques for Brain Connectivity Analysis",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Proceedings of the 2013 Annual Conference on Human Factors in Computing Systems (CHI 2013, April 27-May 2, 2013, Paris, France)",
+"url": "https://inria.hal.science/hal-00780999v1",
+"doi": "10.1145/2470654.2470724"
+},
+{
+"id": "p1f6764d275",
+"titre": "A Design Study of Direct-Touch Interaction for Exploratory 3D Scientific Visualization",
+"annee": 2012,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-00781293v1",
+"doi": "10.1111/j.1467-8659.2012.03115.x"
+},
+{
+"id": "pef8cffea13",
+"titre": "Assessing the Effect of Visualizations on Bayesian Reasoning Through Crowdsourcing",
+"annee": 2012,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-00717503v2",
+"doi": "10.1109/tvcg.2012.199"
+},
+{
+"id": "p6c9c5d9ea5",
+"titre": "Beyond Mouse and Keyboard: Expanding Design Considerations for Information Visualization Interactions",
+"annee": 2012,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-00717203v1",
+"doi": "10.1109/tvcg.2012.204"
+},
+{
+"id": "pa0438fa748",
+"titre": "Co-located Collaborative Visual Analytics Around a Tabletop Display",
+"annee": 2012,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-00690239v1",
+"doi": "10.1109/tvcg.2011.287"
+},
+{
+"id": "pe809d084f2",
+"titre": "Continuous Navigation of Nested Abstraction Levels",
+"annee": 2012,
+"type": "conférence",
+"lieu": "Short Paper Proceedings of the EG/IEEE VGTC Conference on Visualization (EuroVis 2012, June 5--8, 2012, Vienna, Austria)",
+"url": "https://inria.hal.science/hal-00781297v1",
+"doi": "10.2312/pe/eurovisshort/eurovisshort2012/013-017"
+},
+{
+"id": "p27b6211df9",
+"titre": "Dynamic tabletop interfaces for increasing creativity",
+"annee": 2012,
+"type": "journal",
+"lieu": "Computers in Human Behavior",
+"url": "https://hal.science/hal-00786509v1",
+"doi": "10.1016/j.chb.2012.05.007"
+},
+{
+"id": "p18d258890a",
+"titre": "Efficient Structure-Aware Selection Techniques for 3D Point Cloud Visualizations with 2DOF Input",
+"annee": 2012,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-00718310v1",
+"doi": "10.1109/tvcg.2012.217"
+},
+{
+"id": "p32dd35890d",
+"titre": "Empirical Studies in Information Visualization: Seven Scenarios",
+"annee": 2012,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-00932606v1",
+"doi": "10.1109/tvcg.2011.279"
+},
+{
+"id": "p56d099fa50",
+"titre": "Evaluating Sketchiness as a Visual Variable for the Depiction of Qualitative Uncertainty",
+"annee": 2012,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-00717441v1",
+"doi": "10.1109/tvcg.2012.220"
+},
+{
+"id": "pd62f164854",
+"titre": "From the Individual to the Group: Integrating Asynchronous Collaboration with Co-located Work",
+"annee": 2012,
+"type": "conférence",
+"lieu": "Proceedings of the AVI Workshop on Supporting Asynchronous Collaboration in Visual Analytics Systems",
+"url": "https://inria.hal.science/hal-00689916v1"
+},
+{
+"id": "pc2a4f2bd88",
+"titre": "Gestures vs. Postures: 'Gestural' Touch Interaction in 3D Environments",
+"annee": 2012,
+"type": "conférence",
+"lieu": "Proceedings of the CHI Workshop on ''The 3rd Dimension of CHI: Touching and Designing 3D User Interfaces'' (3DCHI 2012, May 5, 2012, Austin, TX, USA)",
+"url": "https://inria.hal.science/hal-00781237v1"
+},
+{
+"id": "p06cf7a3d33",
+"titre": "Interactive Random Graph Generation with Evolutionary Algorithms",
+"annee": 2012,
+"type": "conférence",
+"lieu": "Graph Drawing 2012",
+"url": "https://inria.hal.science/hal-00720161v1",
+"doi": "10.1007/978-3-642-36763-2_48"
+},
+{
+"id": "p8fab7660d4",
+"titre": "Managing Data for Visual Analytics: Opportunities and Challenges",
+"annee": 2012,
+"type": "journal",
+"lieu": "Bulletin of the Technical Committee on Data Engineering",
+"url": "https://inria.hal.science/hal-00738277v1"
+},
+{
+"id": "p4829bcc761",
+"titre": "Perception of Visual Variables on Tiled Wall-Sized Displays for Information Visualization Applications",
+"annee": 2012,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-00719203v1",
+"doi": "10.1109/tvcg.2012.251"
+},
+{
+"id": "p5b66d5c68f",
+"titre": "Proceedings of the Workshop ''Beyond Time and Errors -- Novel Evaluation Methods for Visualization'' (BELIV 2012, October 14--15, 2012, Seattle, USA)",
+"annee": 2012,
+"type": "ouvrage",
+"lieu": "",
+"url": "https://inria.hal.science/hal-00794695v1",
+"doi": "10.1145/2442576"
+},
+{
+"id": "p62e4d9191e",
+"titre": "Progressive Horizon Graphs: Improving Small Multiples Visualization of Time Series",
+"annee": 2012,
+"type": "conférence",
+"lieu": "IEEE Conference on Information Visualization (INFOVIS)",
+"url": "https://inria.hal.science/hal-00734497v1"
+},
+{
+"id": "p69923b7787",
+"titre": "Semantics by Analogy for Illustrative Volume Visualization",
+"annee": 2012,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://inria.hal.science/hal-00781213v1",
+"doi": "10.1016/j.cag.2011.10.006"
+},
+{
+"id": "p6c1eb19234",
+"titre": "Sketchy Rendering for Information Visualization",
+"annee": 2012,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-00720824v1",
+"doi": "10.1109/tvcg.2012.262"
+},
+{
+"id": "pa2139dd9e3",
+"titre": "Smooth Navigation Between Nested Spatial Representations",
+"annee": 2012,
+"type": "conférence",
+"lieu": "Proceedings of the National ICT.OPEN/SIREN 2012 Workshop (October 22--23, 2012, Rotterdam, The Netherlands)",
+"url": "https://inria.hal.science/hal-00781303v1"
+},
+{
+"id": "p154b94caf2",
+"titre": "Special Section on the 2011 Joint Symposium on Computational Aesthetics (CAe), Non-Photorealistic Animation and Rendering (NPAR), and Sketch-Based Interfaces and Modeling (SBIM)",
+"annee": 2012,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://inria.hal.science/hal-00781243v1",
+"doi": "10.1016/j.cag.2012.04.010"
+},
+{
+"id": "pd4b1f28784",
+"titre": "Stackables: Combining Tangibles for Faceted Browsing",
+"annee": 2012,
+"type": "conférence",
+"lieu": "Advanced Visual Interfaces (AVI)",
+"url": "https://inria.hal.science/hal-00689958v1",
+"doi": "10.1145/2254556.2254600"
+},
+{
+"id": "p6fb1293613",
+"titre": "Stackables: Faceted Browsing with Stacked Tangibles",
+"annee": 2012,
+"type": "conférence",
+"lieu": "Conference on Human Factors in Computing Systems (CHI Interactivity)",
+"url": "https://inria.hal.science/hal-00691449v1"
+},
+{
+"id": "p6477307228",
+"titre": "Tangible Remote Controllers for Wall-Size Displays",
+"annee": 2012,
+"type": "conférence",
+"lieu": "ACM annual conference on Human Factors in Computing Systems. CHI '12",
+"url": "https://inria.hal.science/hal-00694305v1",
+"doi": "10.1145/2207676.2208691"
+},
+{
+"id": "p6a240c9809",
+"titre": "Temporal Navigation in Dynamic Networks",
+"annee": 2012,
+"type": "conférence",
+"lieu": "IEEE Conference on Information Visualization (InfoVis) [Poster]",
+"url": "https://inria.hal.science/hal-00781503v1"
+},
+{
+"id": "p003741a8ae",
+"titre": "Towards Visual Sedimentation",
+"annee": 2012,
+"type": "conférence",
+"lieu": "Posters of the IEEE Conference on Information Visualization (InfoVis)",
+"url": "https://inria.hal.science/hal-00734084v1"
+},
+{
+"id": "p178f4c2fc6",
+"titre": "User-Supplied Sentiments in Tweets",
+"annee": 2012,
+"type": "conférence",
+"lieu": "IEEE Conference on Information Visualization (INFOVIS): 2nd Workshop on Interactive Visual Text Analysis",
+"url": "https://inria.hal.science/hal-00734407v1"
+},
+{
+"id": "pcf10de5fdc",
+"titre": "Visualization Applications and Design Studies [Guest editors' introduction]",
+"annee": 2012,
+"type": "journal",
+"lieu": "IEEE Computer Graphics and Applications",
+"url": "https://inria.hal.science/hal-00712763v1",
+"doi": "10.1109/mcg.2012.28"
+},
+{
+"id": "p38c42f95cd",
+"titre": "A Study on Dual-Scale Data Charts",
+"annee": 2011,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/inria-00638535v1",
+"doi": "10.1109/tvcg.2011.160"
+},
+{
+"id": "p7f60491d4e",
+"titre": "An Extended Evaluation of the Readability of Tapered, Animated, and Textured Directed-Edge Representations in Node-Link Graphs",
+"annee": 2011,
+"type": "conférence",
+"lieu": "Pacific Visualization Symposium (PacificVis), 2011 IEEE",
+"url": "https://inria.hal.science/inria-00548180v1"
+},
+{
+"id": "p2342f64570",
+"titre": "Cambiera: Collaborative Tabletop Visual Analytics",
+"annee": 2011,
+"type": "conférence",
+"lieu": "Videos of the ACM Conference on Computer Supported Cooperative Work (CSCW)",
+"url": "https://inria.hal.science/inria-00638536v2",
+"doi": "10.1145/1958824.1958916"
+},
+{
+"id": "p36aa29b4fe",
+"titre": "Cardiogram: Visual Analytics for Automotive Engineers",
+"annee": 2011,
+"type": "conférence",
+"lieu": "Conference on Human Factors in Computing Systems (CHI)",
+"url": "https://inria.hal.science/inria-00638544v1",
+"doi": "10.1145/1978942.1979194"
+},
+{
+"id": "p86e405dbbd",
+"titre": "Collaborative Visualization: Definition, Challenges, and Research Agenda",
+"annee": 2011,
+"type": "journal",
+"lieu": "Information Visualization",
+"url": "https://inria.hal.science/inria-00638540v1",
+"doi": "10.1177/1473871611412817"
+},
+{
+"id": "pc4a9bb5002",
+"titre": "Color Lens: Adaptive Color Scale Optimization for Visual Exploration",
+"annee": 2011,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-00694430v1",
+"doi": "10.1109/tvcg.2010.94"
+},
+{
+"id": "pb5bf9e399f",
+"titre": "EdiFlow: data-intensive interactive workflows for visual analytics",
+"annee": 2011,
+"type": "conférence",
+"lieu": "International conference on Data Engineering",
+"url": "https://inria.hal.science/inria-00532552v1",
+"doi": "10.1109/icde.2011.5767914"
+},
+{
+"id": "p79532ecac8",
+"titre": "Event Report: Computational Aesthetics 2011",
+"annee": 2011,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-00783808v1",
+"doi": "10.1111/j.1467-8659.2011.02076.x"
+},
+{
+"id": "pa3879c011c",
+"titre": "Flow Visualization using Illustrative Line Styles",
+"annee": 2011,
+"type": "conférence",
+"lieu": "Proceedings of the National ICT.OPEN/SIREN 2011 Workshop (November 14--15, 2011, Veldhoven, The Netherlands)",
+"url": "https://inria.hal.science/hal-00781521v1"
+},
+{
+"id": "p0fd2de2180",
+"titre": "How do interactive tabletop systems influence collaboration?",
+"annee": 2011,
+"type": "journal",
+"lieu": "Computers in Human Behavior",
+"url": "https://doi.org/10.1016/j.chb.2011.08.010",
+"doi": "10.1016/j.chb.2011.08.010"
+},
+{
+"id": "p737be31403",
+"titre": "Illustrative Line Styles for Flow Visualization",
+"annee": 2011,
+"type": "conférence",
+"lieu": "Short Paper Proceedings of the 19th Pacific Conference on Computer Graphics and Applications (Pacific Graphics 2011, September 21-23, 2011, Kaohsiung, Taiwan)",
+"url": "https://inria.hal.science/hal-00781511v1",
+"doi": "10.2312/pe/pg/pg2011short/105-110"
+},
+{
+"id": "p8f92250305",
+"titre": "Illustrative Molecular Visualization with Continuous Abstraction",
+"annee": 2011,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-00781508v1",
+"doi": "10.1111/j.1467-8659.2011.01917.x"
+},
+{
+"id": "pd4a1c27788",
+"titre": "Information Visualization Evaluation in Large Companies: Challenges, Experiences and Recommendations",
+"annee": 2011,
+"type": "journal",
+"lieu": "Information Visualization",
+"url": "https://inria.hal.science/inria-00638541v1",
+"doi": "10.1177/1473871611413099"
+},
+{
+"id": "pf0f2072b9b",
+"titre": "La visualisation analytique, pour comprendre des données complexes",
+"annee": 2011,
+"type": "journal",
+"lieu": "Interstices",
+"url": "https://inria.hal.science/hal-01350301v1"
+},
+{
+"id": "p6450701b92",
+"titre": "Obvious: A Meta-Toolkit to Encapsulate Information Visualization Toolkits --- One Toolkit to Bind Them All",
+"annee": 2011,
+"type": "conférence",
+"lieu": "Visual Analytics Science and Technology (VAST), 2011 IEEE Symposium on",
+"url": "https://inria.hal.science/inria-00638578v1"
+},
+{
+"id": "p73cb33c561",
+"titre": "Pacific Visualization Symposium (PacificVis)",
+"annee": 2011,
+"type": "ouvrage",
+"lieu": "",
+"url": "https://inria.hal.science/hal-00696742v1"
+},
+{
+"id": "pb2897c798f",
+"titre": "Pairgrams: Understanding Collaborative Analysis Behavior with Visualization",
+"annee": 2011,
+"type": "conférence",
+"lieu": "CHI Workshop on Analytic Provenance: Process+Interaction+Insight",
+"url": "https://inria.hal.science/inria-00638538v1"
+},
+{
+"id": "p911584ff09",
+"titre": "Position Paper: Touch Interaction in Scientific Visualization",
+"annee": 2011,
+"type": "conférence",
+"lieu": "Proceedings of the Workshop on Data Exploration on Interactive Surfaces (DEXIS 2011, November 13, 2011, Kobe, Japan)",
+"url": "https://inria.hal.science/hal-00781512v1"
+},
+{
+"id": "pd463b67413",
+"titre": "Proceedings of the Seventh International Symposium on Computational Aesthetics in Graphics, Visualization, and Imaging (CAe 2011, August 5--7, 2011, Vancouver, Canada)",
+"annee": 2011,
+"type": "ouvrage",
+"lieu": "",
+"url": "https://inria.hal.science/hal-00781517v1",
+"doi": "10.1145/2030441"
+},
+{
+"id": "pe5870f95c5",
+"titre": "Provenance Management in the EdiFlow VA Workflow",
+"annee": 2011,
+"type": "conférence",
+"lieu": "CHI Workshop on Analytic Provenance: Process+Interaction+Insight",
+"url": "https://inria.hal.science/hal-00690156v1"
+},
+{
+"id": "p14e1c55a4b",
+"titre": "RealTimeChess: Lessons from a Participatory Design Process for a Collaborative Multi-Touch, Multi-User Game",
+"annee": 2011,
+"type": "conférence",
+"lieu": "Proceedings of the International ACM Conference on Interactive Tabletops and Surfaces (ITS 2011, November 13-16, 2011, Kobe, Japan)",
+"url": "https://inria.hal.science/hal-00781509v1",
+"doi": "10.1145/2076354.2076374"
+},
+{
+"id": "p648c2d7bf4",
+"titre": "Scale-Dependent and Example-Based Stippling",
+"annee": 2011,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://inria.hal.science/hal-00781505v1",
+"doi": "10.1016/j.cag.2010.11.006"
+},
+{
+"id": "pf4b5d06d32",
+"titre": "Spatially Continuous Change of Abstraction in Molecular Visualization",
+"annee": 2011,
+"type": "conférence",
+"lieu": "Abstracts of 1st IEEE Symposium on Biological Data Visualization (BioVis 2011, October 23--24, 2011, Providence, RI, USA)",
+"url": "https://inria.hal.science/hal-00781520v1"
+},
+{
+"id": "p73d78b8cb8",
+"titre": "Special Section on Non-Photorealistic Animation and Rendering (NPAR) 2010",
+"annee": 2011,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://inria.hal.science/hal-00781514v1",
+"doi": "10.1016/j.cag.2010.11.016"
+},
+{
+"id": "p6747372cfa",
+"titre": "Temporal Distortion for Animated Transitions",
+"annee": 2011,
+"type": "conférence",
+"lieu": "CHI 11: International Conference on Human Factors in Computing Systems",
+"url": "https://inria.hal.science/inria-00556177v2",
+"doi": "10.1145/1978942.1979233"
+},
+{
+"id": "pb0c4b6e719",
+"titre": "Visual Analysis of Large Graphs: State-of-the-Art and Future Research Challenges",
+"annee": 2011,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-00712779v1",
+"doi": "10.1111/j.1467-8659.2011.01898.x"
+},
+{
+"id": "pe50fed28db",
+"titre": "Visual Analytics of EA Data",
+"annee": 2011,
+"type": "conférence",
+"lieu": "Genetic and Evolutionary Computation Conference, GECCO 2011",
+"url": "https://inria.hal.science/hal-00642300v1"
+},
+{
+"id": "pf0831074dc",
+"titre": "Visual analysis of population scatterplots",
+"annee": 2011,
+"type": "conférence",
+"lieu": "10th Biannual International Conference on Artificial Evolution (EA-2011)",
+"url": "https://inria.hal.science/hal-00642307v1"
+},
+{
+"id": "p7079403113",
+"titre": "WEBCONTENT VISUALIZER: A VISUALIZATION SYSTEM FOR SEARCH ENGINES IN SEMATIC WEB",
+"annee": 2011,
+"type": "journal",
+"lieu": "International Journal of Information Technology & Decision Making",
+"url": "https://doi.org/10.1142/s0219622011004646",
+"doi": "10.1142/s0219622011004646"
+}
+]
+}

@@ -1,0 +1,806 @@
+{
+  "version": "2026-11-08 v3 (5 thèmes redondants fusionnés)",
+  "note": "Vocabulaire contrôlé de la cartographie IG. Trois couches : domaines (étudiants), thèmes spécialisés (chercheurs), applications (entreprises). Les fiches équipes n'utilisent que ces identifiants.",
+  "domaines": [
+    {
+      "id": "rendu",
+      "fr": "Rendu et apparence",
+      "en": "Rendering & appearance",
+      "description": "Calculer des images réalistes ou stylisées : lumière, ombres, matériaux, rendu temps réel pour le jeu, rendu physique pour le cinéma."
+    },
+    {
+      "id": "modelisation",
+      "fr": "Modélisation géométrique",
+      "en": "Geometric modeling",
+      "description": "Créer et représenter des formes 3D : courbes et surfaces, modèles procéduraux, outils de création par esquisse, CAO."
+    },
+    {
+      "id": "geometrie",
+      "fr": "Traitement de géométrie",
+      "en": "Geometry processing",
+      "description": "Analyser, réparer et transformer des formes numériques : maillages, nuages de points, correspondances entre formes."
+    },
+    {
+      "id": "animation",
+      "fr": "Animation et simulation",
+      "en": "Animation & simulation",
+      "description": "Faire bouger les objets de façon crédible : animation de personnages, simulation physique (fluides, tissus, déformations), phénomènes naturels."
+    },
+    {
+      "id": "humains",
+      "fr": "Humains virtuels et mouvement",
+      "en": "Virtual humans & motion",
+      "description": "Capturer, comprendre et synthétiser le mouvement humain : avatars, foules, gestes, langue des signes."
+    },
+    {
+      "id": "capture",
+      "fr": "Capture et reconstruction 3D",
+      "en": "3D capture & reconstruction",
+      "description": "Passer du monde réel au modèle 3D : photogrammétrie, scanners, lidar, reconstruction de scènes, villes et objets."
+    },
+    {
+      "id": "rv",
+      "fr": "Réalité virtuelle, augmentée et interaction",
+      "en": "VR, AR & 3D interaction",
+      "description": "Plonger l'utilisateur dans des mondes virtuels et interagir avec eux : casques, retour haptique, interfaces 3D, sensation de présence."
+    },
+    {
+      "id": "visu",
+      "fr": "Visualisation",
+      "en": "Visualization",
+      "description": "Rendre des données compréhensibles par l'image : visualisation d'information, scientifique, analytique visuelle."
+    },
+    {
+      "id": "fabrication",
+      "fr": "Fabrication numérique",
+      "en": "Digital fabrication",
+      "description": "Concevoir par ordinateur des objets réellement fabricables : impression 3D, métamatériaux, conception inverse."
+    },
+    {
+      "id": "images",
+      "fr": "Images, textures et perception",
+      "en": "Images, textures & perception",
+      "description": "Synthétiser et traiter les images et textures, et comprendre comment notre perception visuelle les interprète."
+    },
+    {
+      "id": "ia",
+      "fr": "IA pour le graphique",
+      "en": "AI for graphics",
+      "description": "Utiliser l'apprentissage automatique pour créer, reconstruire ou animer du contenu 3D (rendu neuronal, modèles génératifs)."
+    }
+  ],
+  "themes": [
+    {
+      "id": "rendu_temps_reel",
+      "fr": "Rendu temps réel",
+      "en": "Real-time rendering",
+      "domaines": [
+        "rendu"
+      ]
+    },
+    {
+      "id": "rendu_physique",
+      "fr": "Rendu physiquement réaliste et transport de lumière",
+      "en": "Physically based rendering & light transport",
+      "domaines": [
+        "rendu"
+      ]
+    },
+    {
+      "id": "milieux_participants",
+      "fr": "Milieux participants et diffusion",
+      "en": "Participating media & scattering",
+      "domaines": [
+        "rendu"
+      ]
+    },
+    {
+      "id": "materiaux_brdf",
+      "fr": "Matériaux, BRDF et apparence",
+      "en": "Materials, BRDF & appearance modeling",
+      "domaines": [
+        "rendu",
+        "capture"
+      ]
+    },
+    {
+      "id": "acquisition_apparence",
+      "fr": "Mesure et acquisition de l'apparence",
+      "en": "Appearance acquisition & measurement",
+      "domaines": [
+        "capture",
+        "rendu"
+      ]
+    },
+    {
+      "id": "rendu_expressif",
+      "fr": "Rendu expressif et stylisation",
+      "en": "Expressive rendering & stylization",
+      "domaines": [
+        "rendu",
+        "images"
+      ]
+    },
+    {
+      "id": "rendu_neuronal",
+      "fr": "Rendu neuronal et à base d'images (champs de radiance, Gaussian splatting)",
+      "en": "Neural & image-based rendering (radiance fields, Gaussian splatting)",
+      "domaines": [
+        "rendu",
+        "ia"
+      ]
+    },
+    {
+      "id": "echantillonnage",
+      "fr": "Échantillonnage et intégration numérique",
+      "en": "Sampling & numerical integration",
+      "domaines": [
+        "rendu"
+      ]
+    },
+    {
+      "id": "gpu_volumes",
+      "fr": "Calcul GPU et grands volumes de données",
+      "en": "GPU computing & large volume data",
+      "domaines": [
+        "rendu",
+        "visu"
+      ]
+    },
+    {
+      "id": "surfaces_courbes",
+      "fr": "Courbes et surfaces (Bézier, B-splines, subdivision)",
+      "en": "Curves & surfaces (Bézier, splines, subdivision)",
+      "domaines": [
+        "modelisation"
+      ]
+    },
+    {
+      "id": "surfaces_implicites",
+      "fr": "Surfaces implicites et champs de distance",
+      "en": "Implicit surfaces & distance fields",
+      "domaines": [
+        "modelisation",
+        "geometrie"
+      ]
+    },
+    {
+      "id": "modelisation_procedurale",
+      "fr": "Modélisation procédurale",
+      "en": "Procedural modeling",
+      "domaines": [
+        "modelisation"
+      ]
+    },
+    {
+      "id": "sketching",
+      "fr": "Modélisation par esquisse et outils de création",
+      "en": "Sketch-based modeling & authoring tools",
+      "domaines": [
+        "modelisation"
+      ]
+    },
+    {
+      "id": "terrains_nature",
+      "fr": "Terrains, végétation et phénomènes naturels",
+      "en": "Terrains, vegetation & natural phenomena",
+      "domaines": [
+        "modelisation",
+        "animation"
+      ]
+    },
+    {
+      "id": "modeles_topologiques",
+      "fr": "Modèles topologiques (cartes combinatoires)",
+      "en": "Topological models (combinatorial maps)",
+      "domaines": [
+        "modelisation",
+        "geometrie"
+      ]
+    },
+    {
+      "id": "contraintes_geometriques",
+      "fr": "Contraintes géométriques et CAO",
+      "en": "Geometric constraints & CAD",
+      "domaines": [
+        "modelisation"
+      ]
+    },
+    {
+      "id": "algebre_geometrique",
+      "fr": "Algèbre géométrique et fractales",
+      "en": "Geometric algebra & fractals",
+      "domaines": [
+        "modelisation"
+      ]
+    },
+    {
+      "id": "maillages",
+      "fr": "Génération et optimisation de maillages",
+      "en": "Mesh generation & optimization",
+      "domaines": [
+        "geometrie"
+      ]
+    },
+    {
+      "id": "maillages_hexa",
+      "fr": "Maillages hexaédriques et paramétrisation",
+      "en": "Hex meshing & parameterization",
+      "domaines": [
+        "geometrie"
+      ]
+    },
+    {
+      "id": "nuages_points",
+      "fr": "Nuages de points",
+      "en": "Point clouds",
+      "domaines": [
+        "geometrie",
+        "capture"
+      ]
+    },
+    {
+      "id": "correspondances",
+      "fr": "Correspondances et analyse de formes (cartes fonctionnelles)",
+      "en": "Shape correspondence & analysis (functional maps)",
+      "domaines": [
+        "geometrie",
+        "ia"
+      ]
+    },
+    {
+      "id": "squelettes",
+      "fr": "Squelettes et descripteurs de formes",
+      "en": "Skeletons & shape descriptors",
+      "domaines": [
+        "geometrie"
+      ]
+    },
+    {
+      "id": "geometrie_discrete",
+      "fr": "Géométrie discrète et calcul différentiel discret",
+      "en": "Discrete geometry & discrete differential calculus",
+      "domaines": [
+        "geometrie"
+      ]
+    },
+    {
+      "id": "transport_optimal",
+      "fr": "Transport optimal et diagrammes de puissance",
+      "en": "Optimal transport & power diagrams",
+      "domaines": [
+        "geometrie"
+      ]
+    },
+    {
+      "id": "compression_geometrie",
+      "fr": "Compression et multirésolution de géométrie",
+      "en": "Geometry compression & multiresolution",
+      "domaines": [
+        "geometrie"
+      ]
+    },
+    {
+      "id": "animation_personnages",
+      "fr": "Animation de personnages et rigging",
+      "en": "Character animation & rigging",
+      "domaines": [
+        "animation",
+        "humains"
+      ]
+    },
+    {
+      "id": "animation_expressive",
+      "fr": "Animation expressive et stylisée",
+      "en": "Expressive & stylized animation",
+      "domaines": [
+        "animation"
+      ]
+    },
+    {
+      "id": "simulation_fluides",
+      "fr": "Simulation de fluides",
+      "en": "Fluid simulation",
+      "domaines": [
+        "animation"
+      ]
+    },
+    {
+      "id": "simulation_deformables",
+      "fr": "Objets déformables, tiges, tissus et contact",
+      "en": "Deformables, rods, cloth & contact",
+      "domaines": [
+        "animation"
+      ]
+    },
+    {
+      "id": "simulation_interactive",
+      "fr": "Simulation physique interactive",
+      "en": "Interactive physical simulation",
+      "domaines": [
+        "animation",
+        "rv"
+      ]
+    },
+    {
+      "id": "cinematographie",
+      "fr": "Cinématographie virtuelle et caméra",
+      "en": "Virtual cinematography & camera control",
+      "domaines": [
+        "animation",
+        "ia"
+      ]
+    },
+    {
+      "id": "capture_mouvement",
+      "fr": "Capture et analyse du mouvement humain",
+      "en": "Human motion capture & analysis",
+      "domaines": [
+        "humains",
+        "capture"
+      ]
+    },
+    {
+      "id": "synthese_mouvement",
+      "fr": "Synthèse et reciblage de mouvement",
+      "en": "Motion synthesis & retargeting",
+      "domaines": [
+        "humains",
+        "animation"
+      ]
+    },
+    {
+      "id": "foules",
+      "fr": "Simulation de foules et navigation",
+      "en": "Crowd simulation & navigation",
+      "domaines": [
+        "humains",
+        "animation"
+      ]
+    },
+    {
+      "id": "avatars_signeurs",
+      "fr": "Gestes expressifs et langue des signes",
+      "en": "Expressive gestures & sign language",
+      "domaines": [
+        "humains"
+      ]
+    },
+    {
+      "id": "corps_humain",
+      "fr": "Modèles de corps humain et biomécanique",
+      "en": "Human body models & biomechanics",
+      "domaines": [
+        "humains",
+        "capture"
+      ]
+    },
+    {
+      "id": "capture_4d",
+      "fr": "Capture 4D et vidéo multi-vues",
+      "en": "4D capture & multi-view video",
+      "domaines": [
+        "capture",
+        "humains"
+      ]
+    },
+    {
+      "id": "reconstruction_surfaces",
+      "fr": "Reconstruction de surfaces",
+      "en": "Surface reconstruction",
+      "domaines": [
+        "capture",
+        "geometrie"
+      ]
+    },
+    {
+      "id": "photogrammetrie_lidar",
+      "fr": "Photogrammétrie, lidar et scènes à grande échelle",
+      "en": "Photogrammetry, lidar & large-scale scenes",
+      "domaines": [
+        "capture"
+      ]
+    },
+    {
+      "id": "modeles_urbains",
+      "fr": "Modèles urbains et jumeaux numériques de territoire",
+      "en": "3D urban models & territorial digital twins",
+      "domaines": [
+        "capture",
+        "visu"
+      ]
+    },
+    {
+      "id": "haptique",
+      "fr": "Haptique et retour tactile",
+      "en": "Haptics & tactile feedback",
+      "domaines": [
+        "rv"
+      ]
+    },
+    {
+      "id": "incarnation_presence",
+      "fr": "Incarnation, avatars et présence en RV",
+      "en": "Embodiment, avatars & presence in VR",
+      "domaines": [
+        "rv",
+        "humains"
+      ]
+    },
+    {
+      "id": "interaction_3d",
+      "fr": "Techniques d'interaction 3D",
+      "en": "3D interaction techniques",
+      "domaines": [
+        "rv"
+      ]
+    },
+    {
+      "id": "realite_augmentee",
+      "fr": "Réalité augmentée et mixte",
+      "en": "Augmented & mixed reality",
+      "domaines": [
+        "rv"
+      ]
+    },
+    {
+      "id": "interfaces_cerveau",
+      "fr": "Interfaces cerveau-ordinateur et neurofeedback",
+      "en": "Brain-computer interfaces & neurofeedback",
+      "domaines": [
+        "rv"
+      ]
+    },
+    {
+      "id": "interaction_gestuelle",
+      "fr": "Interaction gestuelle, instruments et performance artistique",
+      "en": "Gestural interaction, digital instruments & artistic performance",
+      "domaines": [
+        "rv"
+      ]
+    },
+    {
+      "id": "visu_information",
+      "fr": "Visualisation d'information et analytique visuelle",
+      "en": "Information visualization & visual analytics",
+      "domaines": [
+        "visu"
+      ]
+    },
+    {
+      "id": "visu_scientifique",
+      "fr": "Visualisation scientifique et médicale",
+      "en": "Scientific & medical visualization",
+      "domaines": [
+        "visu"
+      ]
+    },
+    {
+      "id": "visu_immersive",
+      "fr": "Visualisation immersive et géovisualisation",
+      "en": "Immersive visualization & geovisualization",
+      "domaines": [
+        "visu",
+        "rv"
+      ]
+    },
+    {
+      "id": "impression_3d",
+      "fr": "Fabrication additive, métamatériaux et microstructures",
+      "en": "Additive manufacturing, metamaterials & microstructures",
+      "domaines": [
+        "fabrication"
+      ]
+    },
+    {
+      "id": "conception_inverse",
+      "fr": "Conception inverse et optimisation de formes",
+      "en": "Inverse design & shape optimization",
+      "domaines": [
+        "fabrication",
+        "modelisation"
+      ]
+    },
+    {
+      "id": "synthese_textures",
+      "fr": "Synthèse et modélisation de textures",
+      "en": "Texture synthesis & modeling",
+      "domaines": [
+        "images"
+      ]
+    },
+    {
+      "id": "imagerie_hdr",
+      "fr": "Imagerie HDR, couleur et tone mapping",
+      "en": "HDR imaging, color & tone mapping",
+      "domaines": [
+        "images"
+      ]
+    },
+    {
+      "id": "perception",
+      "fr": "Perception visuelle et qualité d'image",
+      "en": "Visual perception & image quality",
+      "domaines": [
+        "images"
+      ]
+    },
+    {
+      "id": "modeles_generatifs",
+      "fr": "Modèles génératifs pour le contenu 3D et le mouvement",
+      "en": "Generative models for 3D content & motion",
+      "domaines": [
+        "ia"
+      ]
+    },
+    {
+      "id": "apprentissage_geometrique",
+      "fr": "Apprentissage profond sur données géométriques",
+      "en": "Geometric deep learning",
+      "domaines": [
+        "ia",
+        "geometrie"
+      ]
+    },
+    {
+      "id": "topologie_algorithmique",
+      "fr": "Topologie algorithmique et homologie persistante",
+      "en": "Computational topology & persistent homology",
+      "domaines": [
+        "geometrie"
+      ]
+    },
+    {
+      "id": "deformation_formes",
+      "fr": "Déformation de formes (cages, applications sans repliement)",
+      "en": "Shape deformation (cages, foldover-free maps)",
+      "domaines": [
+        "geometrie",
+        "modelisation"
+      ]
+    },
+    {
+      "id": "geometrie_algorithmique",
+      "fr": "Géométrie algorithmique (Voronoï, Delaunay, Apollonius)",
+      "en": "Computational geometry (Voronoi, Delaunay, Apollonius)",
+      "domaines": [
+        "geometrie"
+      ]
+    },
+    {
+      "id": "rugosite",
+      "fr": "Rugosité et surfaces non lisses",
+      "en": "Roughness & non-smooth surfaces",
+      "domaines": [
+        "modelisation",
+        "geometrie"
+      ]
+    },
+    {
+      "id": "rendu_differentiable",
+      "fr": "Rendu inverse et différentiable",
+      "en": "Inverse & differentiable rendering",
+      "domaines": [
+        "rendu",
+        "ia"
+      ]
+    },
+    {
+      "id": "optique_numerique",
+      "fr": "Optique numérique et couleur structurelle",
+      "en": "Computational optics & structural color",
+      "domaines": [
+        "rendu"
+      ]
+    },
+    {
+      "id": "eclairage_historique",
+      "fr": "Restitution numérique et éclairage historique",
+      "en": "Digital restitution & historical lighting",
+      "domaines": [
+        "rendu"
+      ]
+    },
+    {
+      "id": "graphisme_2d",
+      "fr": "Dessin vectoriel et graphisme 2D (vectorisation, colorisation)",
+      "en": "Vector graphics & 2D drawing (vectorization, colorization)",
+      "domaines": [
+        "images",
+        "modelisation"
+      ]
+    },
+    {
+      "id": "materiaux_granulaires",
+      "fr": "Matériaux granulaires",
+      "en": "Granular materials",
+      "domaines": [
+        "animation"
+      ]
+    },
+    {
+      "id": "parametres_physiques_vision",
+      "fr": "Estimation de paramètres physiques par vision",
+      "en": "Vision-based estimation of physical parameters",
+      "domaines": [
+        "capture",
+        "animation"
+      ]
+    },
+    {
+      "id": "confort_rv",
+      "fr": "Cybermalaise, confort et perception du mouvement en RV",
+      "en": "Cybersickness, comfort & self-motion perception in VR",
+      "domaines": [
+        "rv"
+      ]
+    },
+    {
+      "id": "perception_action_rv",
+      "fr": "Boucle perception-action et comportement en RV (piétons, sport)",
+      "en": "Perception-action loop & behavior in VR (pedestrians, sport)",
+      "domaines": [
+        "rv",
+        "humains"
+      ]
+    },
+    {
+      "id": "formation_rv",
+      "fr": "Scénarisation de formations et RV affective et cognitive",
+      "en": "Training scenarios & affective/cognitive VR",
+      "domaines": [
+        "rv"
+      ]
+    },
+    {
+      "id": "visu_incertitude",
+      "fr": "Visualisation d'incertitude",
+      "en": "Uncertainty visualization",
+      "domaines": [
+        "visu"
+      ]
+    },
+    {
+      "id": "cartes_accessibles",
+      "fr": "Cartes et visualisations accessibles (cartes tactiles)",
+      "en": "Accessible maps & visualization (tactile maps)",
+      "domaines": [
+        "visu"
+      ]
+    },
+    {
+      "id": "cartographie_expressive",
+      "fr": "Cartographie expressive et cartes panoramiques",
+      "en": "Expressive cartography & panoramic maps",
+      "domaines": [
+        "visu",
+        "rendu"
+      ]
+    },
+    {
+      "id": "physicalisation",
+      "fr": "Physicalisation de données",
+      "en": "Data physicalization",
+      "domaines": [
+        "visu"
+      ]
+    },
+    {
+      "id": "visu_mobile",
+      "fr": "Visualisation mobile et en mouvement",
+      "en": "Mobile & in-motion visualization",
+      "domaines": [
+        "visu"
+      ]
+    },
+    {
+      "id": "methodo_visu",
+      "fr": "Méthodologie et évaluation en visualisation",
+      "en": "Visualization research methodology & evaluation",
+      "domaines": [
+        "visu"
+      ]
+    },
+    {
+      "id": "conception_durable",
+      "fr": "Conception durable et réemploi",
+      "en": "Sustainable design & reuse",
+      "domaines": [
+        "fabrication",
+        "modelisation"
+      ]
+    }
+  ],
+  "applications": [
+    {
+      "id": "jeu_video",
+      "fr": "Jeu vidéo",
+      "en": "Video games"
+    },
+    {
+      "id": "cinema_vfx",
+      "fr": "Cinéma, effets spéciaux et animation",
+      "en": "Film, VFX & animation"
+    },
+    {
+      "id": "sante",
+      "fr": "Santé, médical et rééducation",
+      "en": "Health, medicine & rehabilitation"
+    },
+    {
+      "id": "patrimoine",
+      "fr": "Patrimoine, culture et archéologie",
+      "en": "Cultural heritage & archaeology"
+    },
+    {
+      "id": "architecture_urbain",
+      "fr": "Architecture, BTP et ville",
+      "en": "Architecture, construction & cities"
+    },
+    {
+      "id": "industrie_cao",
+      "fr": "Industrie, CAO et ingénierie",
+      "en": "Industry, CAD & engineering"
+    },
+    {
+      "id": "fabrication_additive",
+      "fr": "Fabrication additive et design produit",
+      "en": "Additive manufacturing & product design"
+    },
+    {
+      "id": "mode_textile",
+      "fr": "Mode et textile",
+      "en": "Fashion & textiles"
+    },
+    {
+      "id": "geographie",
+      "fr": "Géographie, territoire et cartographie",
+      "en": "Geography, territory & mapping"
+    },
+    {
+      "id": "environnement",
+      "fr": "Environnement et sciences de la Terre",
+      "en": "Environment & Earth sciences"
+    },
+    {
+      "id": "sport",
+      "fr": "Sport et ergonomie",
+      "en": "Sport & ergonomics"
+    },
+    {
+      "id": "education",
+      "fr": "Éducation, formation et simulation d'entraînement",
+      "en": "Education & training"
+    },
+    {
+      "id": "robotique",
+      "fr": "Robotique et téléopération",
+      "en": "Robotics & teleoperation"
+    },
+    {
+      "id": "art_musique",
+      "fr": "Art, création et musique",
+      "en": "Art, creative industries & music"
+    },
+    {
+      "id": "sciences_donnees",
+      "fr": "Sciences des données et aide à la décision",
+      "en": "Data science & decision support"
+    },
+    {
+      "id": "biologie",
+      "fr": "Biologie et sciences du vivant",
+      "en": "Biology & life sciences"
+    },
+    {
+      "id": "accessibilite",
+      "fr": "Accessibilité et handicap",
+      "en": "Accessibility & disability"
+    },
+    {
+      "id": "securite_foules",
+      "fr": "Sécurité des foules et des événements",
+      "en": "Crowd & event safety"
+    }
+  ]
+}

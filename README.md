@@ -4,6 +4,8 @@
   - Envoyez un email à contact[at]asso-afig.fr avec vos informations
   - Ou faites un push-request sur le dépot.
 
+Cartographie « qui fait quoi » : https://afig-asso.github.io/research-team/ (voir CARTOGRAPHIE.md)
+
 Rem. Le fichier README.md est généré automatiquement à partir du fichier data.yaml. Ne pas modifier directement le fichier README.md.
 
 
@@ -104,7 +106,8 @@ Rem. Le fichier README.md est généré automatiquement à partir du fichier dat
     * Ville: Montbonnot-Saint-Martin 
     * _Equipe commune Inria_ 
   * **[Kinetix](https://team.inria.fr/kinetix/)** - Vision 4D et modélisation pour la capture volumétrique et humaine 
-    * Thèmes: _Capture volumétrique 3D/4D, doubles numériques d'humains en mouvement (corps, vêtements, cheveux, peau), modèles d'apparence et génératifs, plateforme Kinovis_ 
+    * Correspondant: Jean-Sébastien Franco 
+    * Thèmes: _Acquisition et modélisation de doubles numériques volumétriques 3D et 4D d'humains et de sujets en mouvement (géométrie, apparence, mouvement), plateformes de capture multi-caméras Kinovis._ 
     * Ville: Montbonnot-Saint-Martin 
     * _Equipe commune Inria_ 
   * **[MAVERICK](https://team.inria.fr/maverick/)** - Models and Algorithms for Visualization and Rendering 

@@ -1,0 +1,1320 @@
+{
+"equipe": "LTCI/IMAGES",
+"publications": [
+{
+"id": "pfe96ec9c87",
+"titre": "A posteriori closure of turbulence models: Are symmetries preserved?",
+"annee": 2026,
+"type": "journal",
+"lieu": "European Journal of Mechanics - B/Fluids",
+"url": "https://inria.hal.science/hal-05547085v1",
+"doi": "10.1016/j.euromechflu.2026.204496"
+},
+{
+"id": "pf79e7bb94f",
+"titre": "Efficient 3D Deep Learning for Joint DBT Reconstruction and Faithful Uncertainty Estimation: Preliminary Clinical Evaluation",
+"annee": 2026,
+"type": "conférence",
+"lieu": "18th International Workshop on Breast Imaging (IWBI 2026)",
+"url": "https://hal.science/hal-05654379v1"
+},
+{
+"id": "pa34ac9da23",
+"titre": "NeuralSketch2Surf: Fast Neural Surfacing of Unoriented 3D Sketches",
+"annee": 2026,
+"type": "conférence",
+"lieu": "Siggraph 2026 - ACM SIGGRAPH International Conference on Computer Graphics and Interactive Techniques",
+"url": "https://inria.hal.science/hal-05615004v1",
+"doi": "10.1145/3799902.3811227"
+},
+{
+"id": "pc7dbc0afb9",
+"titre": "On the hydrodynamic behaviour of the immersed boundary-lattice Boltzmann method for wetting problems (a)",
+"annee": 2026,
+"type": "journal",
+"lieu": "EPL - Europhysics Letters",
+"url": "https://hal.science/hal-05788681v1",
+"doi": "10.1209/0295-5075/ae92af"
+},
+{
+"id": "p52b9e7d0d7",
+"titre": "SCALMU: Synthetically-trained Coupling of Adaptive Learned Multiplicative Updates for Hyperspectral-Multispectral Fusion",
+"annee": 2026,
+"type": "journal",
+"lieu": "IEEE Transactions on Geoscience and Remote Sensing",
+"url": "https://hal.science/hal-05635867v2",
+"doi": "10.1109/tgrs.2026.3712501"
+},
+{
+"id": "pd245430297",
+"titre": "SCALMU: Synthetically-trained Unrolled Coupled Nonnegative Matrix Factorization for Hyperspectral-Multispectral Data Fusion",
+"annee": 2026,
+"type": "conférence",
+"lieu": "The 34th edition of the European Signal Processing Conference (EUSIPCO)",
+"url": "https://hal.science/hal-05775218v1"
+},
+{
+"id": "p71978968f6",
+"titre": "Self-Supervised Feature Extraction for Domain-Specific Anomaly Detection with Normalizing Flows",
+"annee": 2026,
+"type": "journal",
+"lieu": "e-Journal of Nondestructive Testing",
+"url": "https://doi.org/10.58286/33927",
+"doi": "10.58286/33927"
+},
+{
+"id": "p72cbdd4daf",
+"titre": "Sketch2Growth: Generating Stochastic, Evolving Branching Shapes From a Single Sketch",
+"annee": 2026,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.70593",
+"doi": "10.1111/cgf.70593"
+},
+{
+"id": "p0b3d9bceac",
+"titre": "Synthetic Abundance Maps for Unsupervised Super-Resolution of Hyperspectral Remote Sensing Images",
+"annee": 2026,
+"type": "journal",
+"lieu": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+"url": "https://telecom-paris.hal.science/hal-05483496v2"
+},
+{
+"id": "p1990dfc54c",
+"titre": "VOX2Surf: Faithful surface extraction from coarse binary voxels",
+"annee": 2026,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://hal.science/hal-05657595v1",
+"doi": "10.1016/j.cag.2026.104649"
+},
+{
+"id": "pa45ea2442b",
+"titre": "Dimension Expansion for Untangling Mass‐Spring System",
+"annee": 2025,
+"type": "journal",
+"lieu": "Computer Animation and Virtual Worlds",
+"url": "https://doi.org/10.1002/cav.70079",
+"doi": "10.1002/cav.70079"
+},
+{
+"id": "pdfe0871d47",
+"titre": "Image Pre-Segmentation from Shadow Masks",
+"annee": 2025,
+"type": "conférence",
+"lieu": "30th International Symposium on Vision, Modeling, and Visualization",
+"url": "https://hal.science/hal-05319110v1",
+"doi": "10.2312/vmv.20251239"
+},
+{
+"id": "p9f1a9116b3",
+"titre": "Immersed boundary–lattice Boltzmann mesoscale method for wetting problems",
+"annee": 2025,
+"type": "journal",
+"lieu": "Physical Review E",
+"url": "https://hal.science/hal-05317077v1",
+"doi": "10.1103/mp3p-8j22"
+},
+{
+"id": "pdb7a3f2d7d",
+"titre": "Infusion: Internal Diffusion for Inpainting of Dynamic Textures and Complex Motion",
+"annee": 2025,
+"type": "conférence",
+"lieu": "EUROGRAPHICS",
+"url": "https://hal.science/hal-04307853v1",
+"doi": "10.1111/cgf.70070"
+},
+{
+"id": "pf0482d515d",
+"titre": "Multispectral Texture Synthesis using RGB Convolutional Neural Networks",
+"annee": 2025,
+"type": "journal",
+"lieu": "IEEE Transactions on Geoscience and Remote Sensing",
+"url": "https://hal.science/hal-04719766v4",
+"doi": "10.1109/tgrs.2025.3554931"
+},
+{
+"id": "pb53c0f75d1",
+"titre": "Neural Film Grain Rendering",
+"annee": 2025,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.70076",
+"doi": "10.1111/cgf.70076"
+},
+{
+"id": "p0b86d79b3e",
+"titre": "PerceptualLift: Using hatches to infer a 3D organic shape from a sketch",
+"annee": 2025,
+"type": "conférence",
+"lieu": "Expressive + WICED 2025",
+"url": "https://hal.science/hal-05091483v1",
+"doi": "10.2312/exw.20251055"
+},
+{
+"id": "p90348d2197",
+"titre": "RibbonSculpt: Voronoi Ball based 3D Sculpting from Sparse VR Ribbons",
+"annee": 2025,
+"type": "conférence",
+"lieu": "Proceedings of the SIGGRAPH Asia 2025 Conference Papers",
+"url": "https://inria.hal.science/hal-05330313v1",
+"doi": "10.1145/3757377.3763994"
+},
+{
+"id": "pd3918ab28f",
+"titre": "SMACC: Sketching Motion for Articulated Characters with Comics-based annotations",
+"annee": 2025,
+"type": "conférence",
+"lieu": "Pacific Graphics",
+"url": "https://hal.science/hal-05323494v1",
+"doi": "10.2312/pg.20251255"
+},
+{
+"id": "peb9d459f4f",
+"titre": "Self-Supervised Multiview Xray Matching",
+"annee": 2025,
+"type": "conférence",
+"lieu": "MICCAI 2025 : 28th International Conference on Medical Image Computing and Computer Assisted Intervention",
+"url": "https://telecom-paris.hal.science/hal-05137059v1"
+},
+{
+"id": "pdf56b287fb",
+"titre": "Solver-in-the-loop approach to closure of shell models of turbulence",
+"annee": 2025,
+"type": "journal",
+"lieu": "Physical Review Fluids",
+"url": "https://telecom-paris.hal.science/hal-05031445v1",
+"doi": "10.1103/physrevfluids.10.044602"
+},
+{
+"id": "paf5f11c7be",
+"titre": "SpineLoft: Interactive Spine-based 2D-to-3D Modeling",
+"annee": 2025,
+"type": "conférence",
+"lieu": "CHI '25: Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems",
+"url": "https://hal.science/hal-04975909v1",
+"doi": "10.1145/3706598.3713439"
+},
+{
+"id": "pab16968b5c",
+"titre": "Super-résolution non supervisée d'images hyperspectrales de télédétection utilisant un entraînement entièrement synthétique",
+"annee": 2025,
+"type": "conférence",
+"lieu": "GRETSI 2025: XXXe Colloque Francophone de Traitement du Signal et des Images",
+"url": "https://telecom-paris.hal.science/hal-05471719v1"
+},
+{
+"id": "p1eb9edc01a",
+"titre": "Une distance de style stochastique pour la synthèse de textures multispectrales",
+"annee": 2025,
+"type": "conférence",
+"lieu": "GRETSI’25",
+"url": "https://hal.science/hal-05565448v1"
+},
+{
+"id": "peecf84cbcc",
+"titre": "VRSurf: Surface Creation from Sparse, Unoriented 3D Strokes",
+"annee": 2025,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-04973489v1",
+"doi": "10.1111/cgf.70071"
+},
+{
+"id": "p13fbb18f58",
+"titre": "BallMerge: High-quality Fast Surface Reconstruction via Voronoi Balls",
+"annee": 2024,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-04457247v1"
+},
+{
+"id": "p1fedb44aa9",
+"titre": "Boundary Reconstruction for Wireless Sensor Networks",
+"annee": 2024,
+"type": "journal",
+"lieu": "IEEE Access",
+"url": "https://hal.science/hal-04752418v1",
+"doi": "10.1109/access.2024.3483894"
+},
+{
+"id": "p9769d7a5fd",
+"titre": "Deep-learning uncertainty estimation for data-consistent breast tomosynthesis reconstruction",
+"annee": 2024,
+"type": "conférence",
+"lieu": "21st International Symposium on Biomedical Imaging (ISBI 2024)",
+"url": "https://hal.science/hal-04598329v1"
+},
+{
+"id": "pb124d899a0",
+"titre": "Diffusion-based image inpainting with internal learning",
+"annee": 2024,
+"type": "conférence",
+"lieu": "2024 32nd European Signal Processing Conference (EUSIPCO)",
+"url": "https://hal.science/hal-05150712v1",
+"doi": "10.23919/eusipco63174.2024.10714982"
+},
+{
+"id": "pb06ef6620d",
+"titre": "Driller: An Intuitive Interface for Designing Tangled and Nested Shapes",
+"annee": 2024,
+"type": "conférence",
+"lieu": "45th Eurographics 2024 - Short Papers",
+"url": "https://ip-paris.hal.science/hal-04824957v1",
+"doi": "10.2312/egs.20241025"
+},
+{
+"id": "pd7ebc89506",
+"titre": "Momentum‐preserving inversion alleviation for elastic material simulation",
+"annee": 2024,
+"type": "journal",
+"lieu": "Computer Animation and Virtual Worlds",
+"url": "https://telecom-paris.hal.science/hal-04583629v1",
+"doi": "10.1002/cav.2249"
+},
+{
+"id": "p701e23e529",
+"titre": "Multispectral Style Distances and Application to Texture Synthesis Using RGB Convolutional Neural Networks",
+"annee": 2024,
+"type": "conférence",
+"lieu": "WHISPERS 2024 : 14th Workshop on Hyperspectral Imaging and Signal Processing: Evolution in Remote Sensing",
+"url": "https://hal.science/hal-04963593v1",
+"doi": "10.1109/whispers65427.2024.10876488"
+},
+{
+"id": "pbbd8c013d8",
+"titre": "PropColor: Interactive Color Propagation for 2D Animations",
+"annee": 2024,
+"type": "conférence",
+"lieu": "VMV 2024",
+"url": "https://hal.science/hal-04753601v1",
+"doi": "10.2312/vmv.20241210"
+},
+{
+"id": "p712050b98b",
+"titre": "SING: Stability-Incorporated Neighborhood Graph",
+"annee": 2024,
+"type": "conférence",
+"lieu": "SA 2024 - The 17th ACM SIGGRAPH Conference and Exhibition on Computer Graphics and Interactive Techniques in Asia",
+"url": "https://hal.science/hal-04820002v1",
+"doi": "10.1145/3680528.3687674"
+},
+{
+"id": "pfd858ee2b9",
+"titre": "Unsupervised Super-Resolution of Hyperspectral Remote Sensing Images Using Fully Synthetic Training",
+"annee": 2024,
+"type": "conférence",
+"lieu": "2024 14th Workshop on Hyperspectral Imaging and Signal Processing: Evolution in Remote Sensing (WHISPERS)",
+"url": "https://telecom-paris.hal.science/hal-05471714v1",
+"doi": "10.1109/whispers65427.2024.10876452"
+},
+{
+"id": "p034dd86dbd",
+"titre": "A deep learning method trained on synthetic data for digital breast tomosynthesis reconstruction",
+"annee": 2023,
+"type": "conférence",
+"lieu": "6th International Conference on Medical Imaging with Deep Learning (MIDL 2023)",
+"url": "https://hal.science/hal-04178641v2"
+},
+{
+"id": "p6c76a5ccb1",
+"titre": "A geometrically aware auto-encoder for multi-texture synthesis",
+"annee": 2023,
+"type": "conférence",
+"lieu": "SSVM 2023 - International Conference on Scale Space and Variational Methods in Computer Vision",
+"url": "https://hal.science/hal-04115917v1",
+"doi": "10.1007/978-3-031-31975-4_20"
+},
+{
+"id": "p588f69546a",
+"titre": "An Optimization‐based SPH Solver for Simulation of Hyperelastic Solids",
+"annee": 2023,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://telecom-paris.hal.science/hal-04143138v1",
+"doi": "10.1111/cgf.14756"
+},
+{
+"id": "p91979d969d",
+"titre": "Bendima: a database for marine macro-invertebrate bycatch data designed to improve reproducibility in benthic ecology",
+"annee": 2023,
+"type": "journal",
+"lieu": "Cybium : Revue Internationale d’Ichtyologie",
+"url": "https://hal.science/hal-04542435v1",
+"doi": "10.26028/cybium/2023-020"
+},
+{
+"id": "pefa16bc425",
+"titre": "Collision Free Simplification for 2D Multi-Layered Shapes",
+"annee": 2023,
+"type": "conférence",
+"lieu": "International Conference on Interactive Media, Smart Systems and Emerging Technologies",
+"url": "https://hal.science/hal-04215443v1"
+},
+{
+"id": "pa62a44a495",
+"titre": "Exploring Physical Latent Spaces for High-Resolution Flow Restoration",
+"annee": 2023,
+"type": "conférence",
+"lieu": "The International Symposium on Vision, Modeling, and Visualization (VMV)",
+"url": "https://telecom-paris.hal.science/hal-04225858v1",
+"doi": "10.2312/vmv.20231243"
+},
+{
+"id": "p09be0a0873",
+"titre": "Feature-Sized Sampling for Vector Line Art",
+"annee": 2023,
+"type": "conférence",
+"lieu": "Pacific Graphics 2023 - The 31th Pacific Conference on Computer Graphics and Applications",
+"url": "https://hal.science/hal-04224967v1"
+},
+{
+"id": "p39db352810",
+"titre": "Fully synthetic training for image restoration tasks",
+"annee": 2023,
+"type": "journal",
+"lieu": "Computer Vision and Image Understanding",
+"url": "https://hal.science/hal-03940525v1"
+},
+{
+"id": "p8d3dfc03ed",
+"titre": "Hybrid Training of Denoising Networks to Improve the Texture Acutance of Digital Cameras",
+"annee": 2023,
+"type": "conférence",
+"lieu": "Scale Space and Variational Methods in Computer Vision",
+"url": "https://hal.science/hal-04455855v1",
+"doi": "10.1007/978-3-031-31975-4_24"
+},
+{
+"id": "pbc1606641f",
+"titre": "Interactive Depixelization of Pixel Art through Spring Simulation",
+"annee": 2023,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-04013650v1"
+},
+{
+"id": "p106bb6e938",
+"titre": "Inversion alleviation for stable elastic body simulation",
+"annee": 2023,
+"type": "journal",
+"lieu": "Computer Animation and Virtual Worlds",
+"url": "https://telecom-paris.hal.science/hal-04143150v1",
+"doi": "10.1002/cav.2183"
+},
+{
+"id": "pd05c29527c",
+"titre": "Modèle de diffusion frugal pour l'inpainting d'images",
+"annee": 2023,
+"type": "conférence",
+"lieu": "GRETSI 2023 :XXIXème Colloque Francophone de Traitement du Signal et des Images",
+"url": "https://hal.science/hal-04199282v1"
+},
+{
+"id": "p6b422bc8b2",
+"titre": "Patch-Based Stochastic Attention for Image Editing",
+"annee": 2023,
+"type": "journal",
+"lieu": "Computer Vision and Image Understanding",
+"url": "https://hal.science/hal-03613698v1",
+"doi": "10.1016/j.cviu.2023.103866"
+},
+{
+"id": "p55058bc898",
+"titre": "PerfectDart: Automatic Dart Design for Garment Fitting",
+"annee": 2023,
+"type": "conférence",
+"lieu": "SA'2023, SIGGRAPH Asia Technical Communications",
+"url": "https://hal.science/hal-04347776v1",
+"doi": "10.1145/3610543.3626154"
+},
+{
+"id": "pb5d5221516",
+"titre": "PointCloudSlicer: Gesture-based segmentation of point clouds",
+"annee": 2023,
+"type": "conférence",
+"lieu": "44th Annual Conference of the European Association for Computer Graphics (EUROGRAPHICS 2023)",
+"url": "https://hal.science/hal-04013673v1"
+},
+{
+"id": "pdcad389286",
+"titre": "Synthesis of cloud fields under physical constraints",
+"annee": 2023,
+"type": "conférence",
+"lieu": "GRETSI 2023",
+"url": "https://hal.science/hal-04297149v1"
+},
+{
+"id": "p67fa53f9c1",
+"titre": "A Patch-Based Algorithm for Diverse and High Fidelity Single Image Generation",
+"annee": 2022,
+"type": "conférence",
+"lieu": "29th IEEE International Conference on Image Processing (ICIP) 2022",
+"url": "https://hal.science/hal-03822204v1"
+},
+{
+"id": "p5459979919",
+"titre": "A Style-Based GAN Encoder for High Fidelity Reconstruction of Images and Videos",
+"annee": 2022,
+"type": "conférence",
+"lieu": "European Conference on Computer Vision (ECCV)",
+"url": "https://hal.science/hal-04559397v1"
+},
+{
+"id": "p137d99ea9a",
+"titre": "A statistically constrained internal method for single image super-resolution",
+"annee": 2022,
+"type": "conférence",
+"lieu": "GRETSI 2022",
+"url": "https://hal.science/hal-03837041v1"
+},
+{
+"id": "p7db89797a5",
+"titre": "A statistically constrained internal method for single image super-resolution",
+"annee": 2022,
+"type": "conférence",
+"lieu": "International Conference on Pattern Recognition",
+"url": "https://hal.science/hal-03766523v1",
+"doi": "10.1109/icpr56361.2022.9956498"
+},
+{
+"id": "pc8f3e6d767",
+"titre": "Delaunay Painting: Perceptual Image Colouring from Raster Contours with Gaps",
+"annee": 2022,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.14517",
+"doi": "10.1111/cgf.14517"
+},
+{
+"id": "pae622a1cc6",
+"titre": "Delaunay Painting: Perceptual image coloring from raster contours with gaps",
+"annee": 2022,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-03664001v1"
+},
+{
+"id": "pd0fe2d0835",
+"titre": "High resolution neural texture synthesis with long range constraints",
+"annee": 2022,
+"type": "journal",
+"lieu": "International Journal of Mathematical Imaging and Vision(JMIV)",
+"url": "https://hal.science/hal-03210309v1"
+},
+{
+"id": "p8009399819",
+"titre": "Multiple instance learning on deep features for weakly supervised object detection with extreme domain shifts",
+"annee": 2022,
+"type": "journal",
+"lieu": "Computer Vision and Image Understanding",
+"url": "https://hal.science/hal-03210265v1",
+"doi": "10.1016/j.cviu.2021.103299"
+},
+{
+"id": "pf0028f1170",
+"titre": "PCA-AE: Principal Component Analysis Autoencoder for Organising the Latent Space of Generative Networks",
+"annee": 2022,
+"type": "journal",
+"lieu": "Journal of Mathematical Imaging and Vision",
+"url": "https://hal.science/hal-03713275v1",
+"doi": "10.1007/s10851-022-01077-z"
+},
+{
+"id": "p9a2d834820",
+"titre": "A Latent Transformer for Disentangled Face Editing in Images and Videos",
+"annee": 2021,
+"type": "conférence",
+"lieu": "Internationale Conference on Computer Vision (ICCV)",
+"url": "https://hal.science/hal-04559352v1"
+},
+{
+"id": "pb34e400c98",
+"titre": "Automatic Feature Selection for Improved Interpretability on Whole Slide Imaging",
+"annee": 2021,
+"type": "journal",
+"lieu": "Machine Learning and Knowledge Extraction",
+"url": "https://telecom-paris.hal.science/hal-03324456v1",
+"doi": "10.3390/make3010012"
+},
+{
+"id": "pf9bcc5607a",
+"titre": "Computer-aided diagnosis tool for cervical cancer screening with weakly supervised localization and detection of abnormalities using adaptable and explainable classifier",
+"annee": 2021,
+"type": "journal",
+"lieu": "Medical Image Analysis",
+"url": "https://telecom-paris.hal.science/hal-03324485v1",
+"doi": "10.1016/j.media.2021.102167"
+},
+{
+"id": "p603b54aa40",
+"titre": "Constrained projective dynamics: real-time simulation of deformable objects with energy-momentum conservation",
+"annee": 2021,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://telecom-paris.hal.science/hal-03356807v1",
+"doi": "10.1145/3450626.3459878"
+},
+{
+"id": "p3c3535d13f",
+"titre": "Physics-based Deep Learning",
+"annee": 2021,
+"type": "ouvrage",
+"lieu": "",
+"url": "https://telecom-paris.hal.science/hal-04083995v1",
+"doi": "10.48550/arxiv.2109.05237"
+},
+{
+"id": "p0cd3b08bf6",
+"titre": "Spot the Difference: Accuracy of Numerical Simulations via the Human Visual System",
+"annee": 2021,
+"type": "journal",
+"lieu": "ACM Transactions on Applied Perception",
+"url": "https://telecom-paris.hal.science/hal-03225310v1",
+"doi": "10.1145/3449064"
+},
+{
+"id": "pf77135eee0",
+"titre": "Synthetic images as a regularity prior for image restoration neural networks",
+"annee": 2021,
+"type": "conférence",
+"lieu": "Eighth International Conference on Scale Space and Variational Methods in Computer Vision (SSVM).",
+"url": "https://hal.science/hal-03186499v1"
+},
+{
+"id": "p18a6a1204d",
+"titre": "Weakly supervised change detection using guided anisotropic diffusion",
+"annee": 2021,
+"type": "journal",
+"lieu": "Machine Learning",
+"url": "https://hal.science/hal-03575397v1",
+"doi": "10.1007/s10994-021-06008-4"
+},
+{
+"id": "p1e4b1c4f8d",
+"titre": "An analysis of the transfer learning of convolutional neural networks for artistic images",
+"annee": 2020,
+"type": "conférence",
+"lieu": "Pattern Recognition. ICPR International Workshops and Challenges",
+"url": "https://hal.science/hal-03210307v1",
+"doi": "10.1007/978-3-030-68796-0_39"
+},
+{
+"id": "pbe8805623f",
+"titre": "High resolution face age editing",
+"annee": 2020,
+"type": "conférence",
+"lieu": "International conference on pattern recognition (ICPR)",
+"url": "https://hal.science/hal-04559377v1"
+},
+{
+"id": "pc942193950",
+"titre": "Improving Interpretability for Computer-aided Diagnosis tools on Whole Slide Imaging with Multiple Instance Learning and Gradient-based Explanations",
+"annee": 2020,
+"type": "conférence",
+"lieu": "Workshop iMIMIC at MICCAI",
+"url": "https://hal.science/hal-02916164v1"
+},
+{
+"id": "p60821afb51",
+"titre": "Processing Simple Geometric Attributes with Autoencoders",
+"annee": 2020,
+"type": "journal",
+"lieu": "Journal of Mathematical Imaging and Vision",
+"url": "https://hal.science/hal-02271281v1",
+"doi": "10.1007/s10851-019-00924-w"
+},
+{
+"id": "p1efbb99528",
+"titre": "Solver-in-the-Loop: Learning from Differentiable Physics to Interact with Iterative PDE-Solvers",
+"annee": 2020,
+"type": "conférence",
+"lieu": "Neural Information Processing Systems (NeurIPS)",
+"url": "https://telecom-paris.hal.science/hal-03142245v1"
+},
+{
+"id": "p84924d9ec8",
+"titre": "Training CNNs on speckled optical dataset for edge detection in SAR images",
+"annee": 2020,
+"type": "journal",
+"lieu": "ISPRS Journal of Photogrammetry and Remote Sensing",
+"url": "https://hal.science/hal-02424315v6"
+},
+{
+"id": "p1597d066a1",
+"titre": "Transfer Learning and Visualization of Neural Networks for Artistic Images",
+"annee": 2020,
+"type": "conférence",
+"lieu": "DHNord 2020 : The measurement of images. Computational approaches in the history and theory of the arts",
+"url": "https://hal.science/hal-03351745v1"
+},
+{
+"id": "p00b8d9ae6a",
+"titre": "A contrario comparison of local descriptors for change detection in high resolution satellite images of urban areas",
+"annee": 2019,
+"type": "journal",
+"lieu": "IEEE Transactions on Geoscience and Remote Sensing",
+"url": "https://telecom-paris.hal.science/hal-02287952v1"
+},
+{
+"id": "pe11d537204",
+"titre": "Automatic structuring of organic shapes from a single drawing",
+"annee": 2019,
+"type": "journal",
+"lieu": "Computers & Graphics",
+"url": "https://doi.org/10.1016/j.cag.2019.04.006",
+"doi": "10.1016/j.cag.2019.04.006"
+},
+{
+"id": "p13a776f4d6",
+"titre": "Guided Anisotropic Diffusion and Iterative Learning for Weakly Supervised Change Detection",
+"annee": 2019,
+"type": "conférence",
+"lieu": "Computer Vision and Pattern Recognition Workshops",
+"url": "https://hal.science/hal-02392779v1"
+},
+{
+"id": "pd59f422fad",
+"titre": "LSDSAR, a Markovian a contrario framework for line segment detection in SAR images",
+"annee": 2019,
+"type": "journal",
+"lieu": "Pattern Recognition",
+"url": "https://hal.science/hal-01827482v2",
+"doi": "10.1016/j.patcog.2019.107034"
+},
+{
+"id": "p809218cb37",
+"titre": "Multitask learning for large-scale semantic change detection",
+"annee": 2019,
+"type": "journal",
+"lieu": "Computer Vision and Image Understanding",
+"url": "https://hal.science/hal-02407789v1",
+"doi": "10.1016/j.cviu.2019.07.003"
+},
+{
+"id": "pfefb14ea69",
+"titre": "Object removal from complex videos using a few annotations",
+"annee": 2019,
+"type": "journal",
+"lieu": "Computational Visual Media",
+"url": "https://hal.science/hal-02168653v1",
+"doi": "10.1007/s41095-019-0145-0"
+},
+{
+"id": "p53a81a67b5",
+"titre": "Resolution-Preserving Speckle Reduction of SAR Images: the Benefits of Speckle Decorrelation and Targets Extraction",
+"annee": 2019,
+"type": "conférence",
+"lieu": "2019 IEEE International Geoscience and Remote Sensing Symposium",
+"url": "https://hal.science/hal-02148907v1",
+"doi": "10.1109/igarss.2019.8900036"
+},
+{
+"id": "p8a5ff5176b",
+"titre": "A contrario comparison of local descriptors for change detection in Very High spatial Resolution (VHR) satellite images of urban areas",
+"annee": 2018,
+"type": "journal",
+"lieu": "IEEE Transactions on Geoscience and Remote Sensing",
+"url": "https://hal.science/hal-01739459v2",
+"doi": "10.1109/tgrs.2018.2888985"
+},
+{
+"id": "pa0485b520b",
+"titre": "A fast algorithm for occlusion detection and removal",
+"annee": 2018,
+"type": "conférence",
+"lieu": "IEEE 25th Int. Conf on Image Processing, ICIP 2018",
+"url": "https://telecom-paris.hal.science/hal-02287984v1"
+},
+{
+"id": "p7981e1a808",
+"titre": "A line segment detector for SAR images with controlled false alarm rate",
+"annee": 2018,
+"type": "conférence",
+"lieu": "IGARSS",
+"url": "https://imt.hal.science/hal-01860265v1"
+},
+{
+"id": "peb70474210",
+"titre": "Direct backprojection-filtration formula for region-of-interest imaging with few additional projections",
+"annee": 2018,
+"type": "conférence",
+"lieu": "Fifth International Conference on Image Formation in X-Ray Computed Tomography",
+"url": "https://telecom-paris.hal.science/hal-02288517v1"
+},
+{
+"id": "p99ea99a253",
+"titre": "Divergent-beam backprojection-filtration formula with applications to region-of-interest imaging",
+"annee": 2018,
+"type": "conférence",
+"lieu": "The Fifth International Conference on Image Formation in X-Ray Computed Tomography",
+"url": "https://hal.science/hal-01807404v1"
+},
+{
+"id": "p0cbf27e2d5",
+"titre": "Détection dense de changements par réseaux de neurones siamois",
+"annee": 2018,
+"type": "conférence",
+"lieu": "Reconnaissance des Formes, Image, Apprentissage et Perception (RFIAP)",
+"url": "https://hal.science/hal-01823684v1"
+},
+{
+"id": "p684a9a5a63",
+"titre": "Parallel-beam ROI reconstruction with differentiated backprojection and angularly subsampled complementary sinograms",
+"annee": 2018,
+"type": "conférence",
+"lieu": "The Fifth International Conference on Image Formation in X-Ray Computed Tomography",
+"url": "https://hal.science/hal-01807413v1"
+},
+{
+"id": "p79110a5505",
+"titre": "Region-of-interest imaging with differentiated backprojection and angularly subsampled complementary sinograms",
+"annee": 2018,
+"type": "conférence",
+"lieu": "Fifth International Conference on Image Formation in X-Ray Computed Tomography",
+"url": "https://telecom-paris.hal.science/hal-02287830v1"
+},
+{
+"id": "p6afeba1724",
+"titre": "Removing objects from videos with a few strokes",
+"annee": 2018,
+"type": "conférence",
+"lieu": "SIGGRAPH Asia 2018 Technical Briefs",
+"url": "https://hal.science/hal-02099051v1",
+"doi": "10.1145/3283254.3283276"
+},
+{
+"id": "p2707723072",
+"titre": "Sub-pixellic Methods for Sidelobes Suppression and Strong Targets Extraction in Single Look Complex SAR Images",
+"annee": 2018,
+"type": "journal",
+"lieu": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+"url": "https://imt.hal.science/hal-01570857v2",
+"doi": "10.1109/jstars.2018.2790987"
+},
+{
+"id": "pc61b6de2de",
+"titre": "Urban Change Detection for Multispectral Earth Observation Using Convolutional Neural Networks",
+"annee": 2018,
+"type": "conférence",
+"lieu": "IGARSS 2018",
+"url": "https://hal.science/hal-01899024v1"
+},
+{
+"id": "pc8297a7ca0",
+"titre": "Weakly Supervised Object Detection in Artworks",
+"annee": 2018,
+"type": "conférence",
+"lieu": "Computer Vision – ECCV 2018 Workshops. ECCV 2018",
+"url": "https://hal.science/hal-01903791v1",
+"doi": "10.1007/978-3-030-11012-3_53"
+},
+{
+"id": "p66e88995d5",
+"titre": "A Bayesian Hyperprior Approach for Joint Image Denoising and Interpolation, with an Application to HDR Imaging",
+"annee": 2017,
+"type": "journal",
+"lieu": "IEEE Transactions on Computational Imaging",
+"url": "https://hal.science/hal-01107519v5",
+"doi": "10.1109/tci.2017.2704439"
+},
+{
+"id": "p41b2e3f515",
+"titre": "A COMPLEX SPECTRUM BASED SAR IMAGE RESAMPLING METHOD WITH RESTRICTED TARGET SIDELOBES AND STATISTICS PRESERVATION",
+"annee": 2017,
+"type": "conférence",
+"lieu": "IGARSS",
+"url": "https://telecom-paris.hal.science/hal-02287647v1"
+},
+{
+"id": "pc2bbc3eb28",
+"titre": "A Complex Sprectrum Based SAR Image Resampling Method With Restricted Target Sidelobes and Statistics Preservation",
+"annee": 2017,
+"type": "conférence",
+"lieu": "2017 IEEE International Geoscience and Remote Sensing Symposium",
+"url": "https://imt.hal.science/hal-01447608v1",
+"doi": "10.1109/igarss.2017.8128214"
+},
+{
+"id": "p20f7c72fe4",
+"titre": "A Correlation-based Dissimilarity Measure for Noisy Patches",
+"annee": 2017,
+"type": "conférence",
+"lieu": "SSVM 2017: International Conference on Scale Space and Variational Methods in Computer Vision",
+"url": "https://hal.science/hal-01492429v1",
+"doi": "10.1007/978-3-319-58771-4_15"
+},
+{
+"id": "p5bc129a5e4",
+"titre": "A generic framework for the structured abstraction of images",
+"annee": 2017,
+"type": "conférence",
+"lieu": "Expressive - NPAR 2017",
+"url": "https://hal.science/hal-01587259v1",
+"doi": "10.1145/3092919.3092930"
+},
+{
+"id": "pd30e11bc3d",
+"titre": "Dual-rotation C-arm cone-beam computed tomography to increase low-contrast detection",
+"annee": 2017,
+"type": "journal",
+"lieu": "Medical Physics",
+"url": "https://hal.science/hal-01587006v1",
+"doi": "10.1002/mp.12247"
+},
+{
+"id": "p4bbfa3db4b",
+"titre": "Inpainting vidéo préservant le mouvement",
+"annee": 2017,
+"type": "conférence",
+"lieu": "GRETSI",
+"url": "https://telecom-paris.hal.science/hal-02412269v1"
+},
+{
+"id": "pd57f1b6499",
+"titre": "Mesure de dissimilarité pour les patchs utilisant la corrélation",
+"annee": 2017,
+"type": "conférence",
+"lieu": "GRETSI",
+"url": "https://telecom-paris.hal.science/hal-02287649v1"
+},
+{
+"id": "pe6f80baf16",
+"titre": "Motion-consistent video inpainting",
+"annee": 2017,
+"type": "conférence",
+"lieu": "ICIP 2017: IEEE International Conference on Image Processing",
+"url": "https://hal.science/hal-01492536v1",
+"doi": "10.1109/icip.2017.8296651"
+},
+{
+"id": "p952274b35e",
+"titre": "Non-Local Patch-Based Image Inpainting",
+"annee": 2017,
+"type": "journal",
+"lieu": "Image Processing On Line",
+"url": "https://hal.science/hal-03787302v1",
+"doi": "10.5201/ipol.2017.189"
+},
+{
+"id": "p126bd5ff84",
+"titre": "Reconstruction tomographique 2D : une nouvelle méthode de rétro-projection filtrée",
+"annee": 2017,
+"type": "conférence",
+"lieu": "XXVIe colloque GRETSI",
+"url": "https://hal.science/hal-01587192v1"
+},
+{
+"id": "p816b8e8f4f",
+"titre": "Dual-rotation C-arm cone-beam computed tomography to increase low-contrast resolution",
+"annee": 2016,
+"type": "conférence",
+"lieu": "4th International Conference on Image Formation in X-Ray Computed Tomography",
+"url": "https://hal.science/hal-01351563v1"
+},
+{
+"id": "pa212c9f343",
+"titre": "Non Local Exposure Fusion",
+"annee": 2016,
+"type": "conférence",
+"lieu": "Progress in Pattern Recognition, Image Analysis, Computer Vision, and Applications",
+"url": "https://hal.science/hal-01334028v2"
+},
+{
+"id": "p1915113d3a",
+"titre": "On the second order spatiochromatic structure of natural images",
+"annee": 2016,
+"type": "journal",
+"lieu": "Vision Research",
+"url": "https://hal.science/hal-01054307v1"
+},
+{
+"id": "pa2bbe90d76",
+"titre": "Penalizing local correlations in the residual improves image denoising performance",
+"annee": 2016,
+"type": "conférence",
+"lieu": "(EUSIPCO 2016) 24th European Signal Processing Conference",
+"url": "https://hal.science/hal-01341968v1"
+},
+{
+"id": "p953fb188a9",
+"titre": "Texture synthesis through convolutional neural networks and spectrum constraints",
+"annee": 2016,
+"type": "conférence",
+"lieu": "2016 23rd International Conference on Pattern Recognition (ICPR)",
+"url": "https://hal.science/hal-01567165v1",
+"doi": "10.1109/icpr.2016.7900133"
+},
+{
+"id": "pf331c5709e",
+"titre": "Unsupervised change detection between multi-sensor high resolution satellite images",
+"annee": 2016,
+"type": "conférence",
+"lieu": "European Signal Processing Conference (EUSIPCO) 2016",
+"url": "https://hal.science/hal-01433616v1"
+},
+{
+"id": "p7a81fbabe9",
+"titre": "Wasserstein Loss for Image Synthesis and Restoration",
+"annee": 2016,
+"type": "journal",
+"lieu": "SIAM Journal on Imaging Sciences",
+"url": "https://hal.science/hal-01292843v1"
+},
+{
+"id": "pcc6e9771c0",
+"titre": "Composantes principales spatio-chromatiques des images naturelles couleur",
+"annee": 2015,
+"type": "conférence",
+"lieu": "GRETSI 2015",
+"url": "https://hal.science/hal-01256503v1"
+},
+{
+"id": "pfd6bf195e2",
+"titre": "Estimation of Illuminants From Projections on the Planckian Locus",
+"annee": 2015,
+"type": "journal",
+"lieu": "IEEE Transactions on Image Processing",
+"url": "https://hal.science/hal-00915853v3",
+"doi": "10.1109/tip.2015.2405414"
+},
+{
+"id": "p8cf1bf69e1",
+"titre": "Exploring the Space of Abstract Textures by Principles and Random Sampling",
+"annee": 2015,
+"type": "journal",
+"lieu": "Journal of Mathematical Imaging and Vision",
+"url": "https://doi.org/10.1007/s10851-015-0582-z",
+"doi": "10.1007/s10851-015-0582-z"
+},
+{
+"id": "p40793e4319",
+"titre": "Robust Multi-image Processing With Optimal Sparse Regularization",
+"annee": 2015,
+"type": "journal",
+"lieu": "Journal of Mathematical Imaging and Vision",
+"url": "https://hal.science/hal-00940192v1",
+"doi": "10.1007/s10851-014-0532-1"
+},
+{
+"id": "pc1d3086b10",
+"titre": "SAR-SIFT: A SIFT-LIKE ALGORITHM FOR SAR IMAGES",
+"annee": 2015,
+"type": "journal",
+"lieu": "IEEE Transactions on Geoscience and Remote Sensing",
+"url": "https://hal.science/hal-00831763v1",
+"doi": "10.1109/tgrs.2014.2323552"
+},
+{
+"id": "pe8e7ea4afb",
+"titre": "Variational Texture Synthesis with Sparsity and Spectrum Constraints",
+"annee": 2015,
+"type": "journal",
+"lieu": "Journal of Mathematical Imaging and Vision",
+"url": "https://hal.science/hal-00881847v3",
+"doi": "10.1007/s10851-014-0547-7"
+},
+{
+"id": "p7b5c826fd1",
+"titre": "Accurate Junction Detection and Characterization in Natural Images",
+"annee": 2014,
+"type": "journal",
+"lieu": "International Journal of Computer Vision",
+"url": "https://hal.science/hal-00631609v1",
+"doi": "10.1007/s11263-013-0640-1"
+},
+{
+"id": "p76a1a79f03",
+"titre": "Change Detection for High Resolution Satellite Images, based on SIFT descriptors and an a Contrario approach",
+"annee": 2014,
+"type": "conférence",
+"lieu": "IGARSS 2014",
+"url": "https://hal.science/hal-01059366v1"
+},
+{
+"id": "pff2aa5b1c1",
+"titre": "Change detection for high resolution satellite images, based on SIFT algorithm and a contrario approach",
+"annee": 2014,
+"type": "conférence",
+"lieu": "IGARSS",
+"url": "https://telecom-paris.hal.science/hal-02286921v1"
+},
+{
+"id": "pe58bb93b86",
+"titre": "Robust Automatic Line Scratch Detection in Films",
+"annee": 2014,
+"type": "journal",
+"lieu": "IEEE Transactions on Image Processing",
+"url": "https://hal.science/hal-00927007v1",
+"doi": "10.1109/tip.2014.2300824"
+},
+{
+"id": "p815c44c10a",
+"titre": "Single Shot High Dynamic Range Imaging Using Piecewise Linear Estimators",
+"annee": 2014,
+"type": "conférence",
+"lieu": "2014 IEEE International Conference on Computational Photography (ICCP)",
+"url": "https://hal.science/hal-01054831v1",
+"doi": "10.1109/iccphot.2014.6831807"
+},
+{
+"id": "p6eaa5e1780",
+"titre": "Video Inpainting of Complex Scenes",
+"annee": 2014,
+"type": "journal",
+"lieu": "SIAM Journal on Imaging Sciences",
+"url": "https://hal.science/hal-00937795v3",
+"doi": "10.1137/140954933"
+},
+{
+"id": "pc80ad564b7",
+"titre": "Algorithmes optimaux pour la génération d’images HDR. Une étude des bornes de performance.",
+"annee": 2013,
+"type": "conférence",
+"lieu": "GRETSI 2013",
+"url": "https://hal.science/hal-01433606v1"
+},
+{
+"id": "pb9ed23f7ee",
+"titre": "Best algorithms for HDR image generation. A study of performance bounds",
+"annee": 2013,
+"type": "journal",
+"lieu": "SIAM Journal on Imaging Sciences",
+"url": "https://hal.science/hal-00733853v2",
+"doi": "10.1137/120891952"
+},
+{
+"id": "p92a51b02ed",
+"titre": "Constrained Sparse Texture Synthesis",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Proceedings of SSVM'13",
+"url": "https://hal.science/hal-00798570v2"
+},
+{
+"id": "p09c38c4fd8",
+"titre": "Estimation Automatique d’Illuminants Multiples",
+"annee": 2013,
+"type": "conférence",
+"lieu": "GRETSI 2013",
+"url": "https://hal.science/hal-01433603v1"
+},
+{
+"id": "p271717bfae",
+"titre": "Exemplar-based Texture Synthesis: the Efros-Leung Algorithm",
+"annee": 2013,
+"type": "journal",
+"lieu": "Image Processing On Line",
+"url": "https://doi.org/10.5201/ipol.2013.59",
+"doi": "10.5201/ipol.2013.59"
+},
+{
+"id": "p805f82d6fe",
+"titre": "Outlier Removal Power of the L1-Norm Super-Resolution",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Lecture Notes in Computer Science",
+"url": "https://hal.science/hal-00803695v1",
+"doi": "10.1007/978-3-642-38267-3_17"
+},
+{
+"id": "p5d1fe651e1",
+"titre": "Quantification de la robustesse de la super-résolution par minimisation L1",
+"annee": 2013,
+"type": "conférence",
+"lieu": "23ème Colloque Gretsi (Gretsi 2013)",
+"url": "https://hal.science/hal-00835739v1"
+},
+{
+"id": "p2f972d4b68",
+"titre": "Simultaneous HDR image reconstruction and denoising for dynamic scenes",
+"annee": 2013,
+"type": "conférence",
+"lieu": "2013 IEEE International Conference on Computational Photography (ICCP)",
+"url": "https://hal.science/hal-01054870v1",
+"doi": "10.1109/iccphot.2013.6528309"
+},
+{
+"id": "pf701f0a0e4",
+"titre": "Synthèse de texture par décomposition parcimonieuse contrainte",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Gretsi 2013",
+"url": "https://hal.science/hal-00870444v1"
+},
+{
+"id": "p4c4caee553",
+"titre": "Temporal Filtering of Line Scratch Detections in Degraded Films",
+"annee": 2013,
+"type": "conférence",
+"lieu": "International Conference on Image Processing (ICIP)",
+"url": "https://hal.science/hal-00927487v1",
+"doi": "10.1109/icip.2013.6738842"
+},
+{
+"id": "p75b5127d11",
+"titre": "Towards fast, generic video inpainting",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Proceedings of the 10th European Conference on Visual Media Production - CVMP ’13",
+"url": "https://hal.science/hal-00838927v1",
+"doi": "10.1145/2534008.2534019"
+},
+{
+"id": "pcbe829cbed",
+"titre": "Vers un inpainting vidéo automatique, rapide et générique",
+"annee": 2013,
+"type": "conférence",
+"lieu": "(Gretsi 2013) 23ème Colloque Gretsi",
+"url": "https://telecom-paris.hal.science/hal-02287085v1"
+},
+{
+"id": "pfbca406341",
+"titre": "Adaptive Line Scratch Detection in Degraded Films",
+"annee": 2012,
+"type": "conférence",
+"lieu": "Conference on Visual Media Production",
+"url": "https://hal.sorbonne-universite.fr/hal-00927466v1",
+"doi": "10.1145/2414688.2414697"
+},
+{
+"id": "p9ee54eb1c2",
+"titre": "An Accurate and Contrast Invariant Junction Detector",
+"annee": 2012,
+"type": "conférence",
+"lieu": "ICPR",
+"url": "https://telecom-paris.hal.science/hal-02411904v1"
+},
+{
+"id": "pda50274723",
+"titre": "Beyond Independence: An Extension of the A Contrario Decision Procedure",
+"annee": 2012,
+"type": "journal",
+"lieu": "International Journal of Computer Vision",
+"url": "https://doi.org/10.1007/s11263-012-0543-6",
+"doi": "10.1007/s11263-012-0543-6"
+},
+{
+"id": "p969442d490",
+"titre": "Combining Color and Geometry for Local Image Matching",
+"annee": 2012,
+"type": "conférence",
+"lieu": "ICPR",
+"url": "https://telecom-paris.hal.science/hal-02411903v1"
+},
+{
+"id": "p0d963f2207",
+"titre": "Illuminant Estimation From Projections on the Planckian Locus",
+"annee": 2012,
+"type": "conférence",
+"lieu": "Computer Vision - ECCV 2012. Workshops and Demonstrations",
+"url": "https://hal.science/hal-00743490v1",
+"doi": "10.1007/978-3-642-33868-7_37"
+},
+{
+"id": "p29c237ea2b",
+"titre": "On the Amount of Regularization for Super-Resolution Interpolation",
+"annee": 2012,
+"type": "conférence",
+"lieu": "20th European Signal Processing Conference 2012",
+"url": "https://hal.science/hal-00824670v1"
+},
+{
+"id": "pf0fd2a54ef",
+"titre": "SAR-SIFT: a SIFT-like algorithm for applications on SAR images",
+"annee": 2012,
+"type": "conférence",
+"lieu": "IGARSS-12",
+"url": "https://telecom-paris.hal.science/hal-02286380v1"
+},
+{
+"id": "p403ebc949a",
+"titre": "The Transparent Dead Leaves Model",
+"annee": 2012,
+"type": "journal",
+"lieu": "Advances in Applied Probability",
+"url": "https://hal.science/hal-00505281v3",
+"doi": "10.1239/aap/1331216642"
+},
+{
+"id": "p25182c9f0a",
+"titre": "A Bias-Variance Approach for the Nonlocal Means",
+"annee": 2011,
+"type": "journal",
+"lieu": "SIAM Journal on Imaging Sciences",
+"url": "https://doi.org/10.1137/100790902",
+"doi": "10.1137/100790902"
+},
+{
+"id": "p1d3b2e6a82",
+"titre": "A bias-variance approach for the Non-Local Means",
+"annee": 2011,
+"type": "journal",
+"lieu": "SIAM Journal on Imaging Sciences",
+"url": "https://hal.science/hal-00947885v1"
+},
+{
+"id": "p65ebcfb528",
+"titre": "Artefact-free color and contrast modification",
+"annee": 2011,
+"type": "journal",
+"lieu": "IEEE Transactions on Image Processing",
+"url": "https://hal.science/hal-00505966v2",
+"doi": "10.1109/tip.2011.2142318"
+},
+{
+"id": "p53b680ed4f",
+"titre": "Artistic line-drawings retrieval based on the pictorial content",
+"annee": 2011,
+"type": "journal",
+"lieu": "Journal on Computing and Cultural Heritage",
+"url": "https://doi.org/10.1145/2001416.2001419",
+"doi": "10.1145/2001416.2001419"
+},
+{
+"id": "pb7963fa204",
+"titre": "Geometrically guided exemplar-based inpainting",
+"annee": 2011,
+"type": "journal",
+"lieu": "SIAM Journal on Imaging Sciences",
+"url": "https://hal.science/hal-00952697v1",
+"doi": "10.1137/110823572"
+},
+{
+"id": "p56bb3716b5",
+"titre": "Micro-Texture Synthesis by Phase Randomization",
+"annee": 2011,
+"type": "journal",
+"lieu": "Image Processing On Line",
+"url": "https://doi.org/10.5201/ipol.2011.ggm_rpn",
+"doi": "10.5201/ipol.2011.ggm_rpn"
+},
+{
+"id": "peb6f4ef38b",
+"titre": "Random Phase Textures: Theory and Synthesis",
+"annee": 2011,
+"type": "journal",
+"lieu": "IEEE Transactions on Image Processing",
+"url": "https://hal.science/hal-00418389v1",
+"doi": "10.1109/tip.2010.2052822"
+},
+{
+"id": "pae95744a08",
+"titre": "Toward Optimal Destriping of MODIS Data Using a Unidirectional Variational Model",
+"annee": 2011,
+"type": "journal",
+"lieu": "IEEE Transactions on Geoscience and Remote Sensing",
+"url": "https://doi.org/10.1109/tgrs.2011.2119399",
+"doi": "10.1109/tgrs.2011.2119399"
+},
+{
+"id": "pcbb32f3a9e",
+"titre": "Transportation Distances on the Circle and Applications",
+"annee": 2011,
+"type": "journal",
+"lieu": "Journal of Mathematical Imaging and Vision",
+"url": "https://hal.science/hal-00399832v3",
+"doi": "10.1007/s10851-011-0284-0"
+}
+]
+}

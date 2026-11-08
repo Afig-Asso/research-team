@@ -1,0 +1,77 @@
+equipe: IRISA/COMBO
+domaines:
+  principaux:
+  - humains
+  - rv
+  secondaires:
+  - ia
+  - animation
+themes:
+- id: perception_action_rv
+  phrase: Simulateurs de RV pour évaluer et entraîner l'anticipation des sportifs (boxe, relais, football, tennis), effet
+    du flou contingent au regard et de la latence mouvement-photon, et évitement de collision entre marcheurs.
+  preuves:
+  - pb14e1037cd
+  - p907f05d5db
+  - p46dc6db563
+- id: capture_mouvement
+  phrase: Capture du mouvement hors laboratoire (caméras sans marqueurs, centrales inertielles), sa robustesse et cinématique
+    inverse par apprentissage pour l'ergonomie et le sport.
+  preuves:
+  - pe4963a3647
+  - p5547af5f11
+  - p93b9e9897e
+- id: corps_humain
+  phrase: Avatars implicites neuronaux généralisant forme, pose et identité, et modèles biomécaniques du corps.
+  preuves:
+  - p876c5f8b7e
+  - p0d0b4dd65f
+  - p56e177e9d1
+- id: synthese_mouvement
+  phrase: Reciblage de mouvement préservant les contacts, nettoyage des contacts au sol et animation de personnages physiques
+    par apprentissage par imitation.
+  preuves:
+  - pef05be4c48
+  - pfa543619bb
+  - pdb11638f51
+- id: rendu_neuronal
+  phrase: Champs neuronaux, avatars compressés et Gaussian splatting compact, reconstruits à partir de peu d'images ou de
+    données RGB-D.
+  preuves:
+  - pd335b8be65
+  - pf8f8dedbd6
+  - p747ea42dd5
+- id: simulation_interactive
+  phrase: Modèles physiques de rebond dans l'entraînement sportif en RV et leur effet sur la performance.
+  preuves:
+  - pf7602bdf38
+  - pbbd8c765ec
+applications:
+- id: sport
+  preuves:
+  - pf7602bdf38
+  - p9a29d62190
+  - p81811bb05c
+- id: jeu_video
+  preuves:
+  - pfa543619bb
+  - pdb11638f51
+  - pd335b8be65
+- id: patrimoine
+  preuves:
+  - pb9322c3a78
+- id: biologie
+  preuves:
+  - p56e177e9d1
+  - paa1c051cee
+publications_representatives:
+- pef05be4c48
+- p876c5f8b7e
+- pb14e1037cd
+- p747ea42dd5
+- pfa543619bb
+synthese: Analyse, modélisation et simulation du mouvement humain ; boucle perception-action en réalité virtuelle, appliquée
+  notamment à l'entraînement sportif.
+pour_etudiants: On y mesure et on simule le mouvement humain, et on entraîne des sportifs de haut niveau en réalité virtuelle.
+pour_entreprises: Analyse posturale et ergonomique sur site, avatars 3D personnalisés et simulateurs sportifs en RV pour évaluer
+  et entraîner la prise de décision des athlètes.

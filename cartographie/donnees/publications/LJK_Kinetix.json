@@ -1,0 +1,1360 @@
+{
+"equipe": "LJK/Kinetix",
+"publications": [
+{
+"id": "p768b029bcc",
+"titre": "BlendNet: on the Importance of Accurate Local Pre-Registration in the Image Registration Task",
+"annee": 2026,
+"type": "conférence",
+"lieu": "Workshop on Shape in Medical Imaging (ShapeMI 2026) – MICCAI 2026",
+"url": "https://hal.science/hal-05854828v1"
+},
+{
+"id": "p9cefc386fd",
+"titre": "D-Garment: Physically Grounded Latent Diffusion for Dynamic Garment Deformations",
+"annee": 2026,
+"type": "journal",
+"lieu": "Transactions on Machine Learning Research",
+"url": "https://hal.science/hal-05027298v2"
+},
+{
+"id": "pd90fc20a19",
+"titre": "Learning to Infer Parameterized Representations of Plants from 3D Scans",
+"annee": 2026,
+"type": "conférence",
+"lieu": "CVPR 2026 - IEEE International Conference on Computer Vision and Pattern Recognition",
+"url": "https://inria.hal.science/hal-05088213v3"
+},
+{
+"id": "pf2c1221247",
+"titre": "Monitoring growth and body composition in children with 3-dimensional optical imaging: a pilot observational study",
+"annee": 2026,
+"type": "journal",
+"lieu": "The American Journal of Clinical Nutrition",
+"url": "https://inria.hal.science/hal-05576969v1",
+"doi": "10.1016/j.ajcnut.2026.101256"
+},
+{
+"id": "p8e0eebe6bf",
+"titre": "Efficient Finger Model and Accurate Tracking for Hover-and-Touch, Mid-air and Microgesture Interaction",
+"annee": 2025,
+"type": "conférence",
+"lieu": "UIST 2025 - 38th Annual ACM Symposium on User Interface Software and Technology",
+"url": "https://hal.science/hal-05247942v1",
+"doi": "10.1145/3746059.3747701"
+},
+{
+"id": "p83146713c0",
+"titre": "Infants' General Movements Were Not Affected by Exposure to Maternal Severe Acute Respiratory Syndrome Coronavirus 2 Infections",
+"annee": 2025,
+"type": "journal",
+"lieu": "Acta Paediatrica",
+"url": "https://doi.org/10.1111/apa.70420",
+"doi": "10.1111/apa.70420"
+},
+{
+"id": "p06c10d13cc",
+"titre": "MedShapeNet -- A Large-Scale Dataset of 3D Medical Shapes for Computer Vision",
+"annee": 2025,
+"type": "journal",
+"lieu": "Biomedical Engineering = Biomedizinische Technik",
+"url": "https://inria.hal.science/hal-04397470v1",
+"doi": "10.1515/bmt-2024-0396"
+},
+{
+"id": "pb3a2381aaf",
+"titre": "ProbeSDF: Light Field Probes For Neural Surface Reconstruction",
+"annee": 2025,
+"type": "conférence",
+"lieu": "CVPR 2025 - IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+"url": "https://inria.hal.science/hal-04884047v2",
+"doi": "10.1109/cvpr52734.2025.01030"
+},
+{
+"id": "pd1c47911aa",
+"titre": "Quality assessment of 3D human animation: Subjective and objective evaluation",
+"annee": 2025,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://hal.science/hal-05116550v1",
+"doi": "10.1109/tvcg.2025.3631385"
+},
+{
+"id": "p4a18202017",
+"titre": "VortSDF: 3D Modeling with Centroidal Voronoi Tessellation on Signed Distance Field",
+"annee": 2025,
+"type": "conférence",
+"lieu": "WACV 2025 - IEEE/CVF Winter Conference on Applications of Computer Vision",
+"url": "https://inria.hal.science/hal-04902240v1",
+"doi": "10.1109/wacv61041.2025.00058"
+},
+{
+"id": "p78d477e467",
+"titre": "3D Shape Modeling with Adaptive Centroidal Voronoi Tesselation on Signed Distance Field",
+"annee": 2024,
+"type": "conférence",
+"lieu": "MIRU 2024 - 27th Meeting on Image Recognition and Understanding",
+"url": "https://inria.hal.science/hal-04902175v1"
+},
+{
+"id": "p9fe723567a",
+"titre": "A Survey on Realistic Virtual Human Animations: Definitions, Features and Evaluations",
+"annee": 2024,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-04553021v1",
+"doi": "10.1111/cgf.15064"
+},
+{
+"id": "pde663ee5f7",
+"titre": "Correspondence-free online human motion retargeting",
+"annee": 2024,
+"type": "conférence",
+"lieu": "International Conference on 3D Vision (3DV)",
+"url": "https://inria.hal.science/hal-03970689v2",
+"doi": "10.1109/3dv62453.2024.00032"
+},
+{
+"id": "p58ff8c5c70",
+"titre": "HIT: Estimating Internal Human Implicit Tissues from the Body Surface",
+"annee": 2024,
+"type": "conférence",
+"lieu": "CVPR 2024 - IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+"url": "https://inria.hal.science/hal-04870348v1",
+"doi": "10.1109/cvpr52733.2024.00334"
+},
+{
+"id": "pe45dc34575",
+"titre": "Millimetric Human Surface Capture in Minutes",
+"annee": 2024,
+"type": "conférence",
+"lieu": "SIGGRAPH Asia 2024 - 17th ACM SIGGRAPH Conference and Exhibition on Computer Graphics and Interactive Techniques in Asia",
+"url": "https://inria.hal.science/hal-04724016v2",
+"doi": "10.1145/3680528.3687690"
+},
+{
+"id": "p438452cd9c",
+"titre": "OSATTA: One-Shot Automatic Test Time Augmentation for Domain Adaptation",
+"annee": 2024,
+"type": "conférence",
+"lieu": "MedAGI 2024 - International Workshop on Foundation Models for General Medical AI",
+"url": "https://inria.hal.science/hal-04870376v1",
+"doi": "10.1007/978-3-031-73471-7_6"
+},
+{
+"id": "p1512a32d24",
+"titre": "On predicting 3D bone locations inside the human body",
+"annee": 2024,
+"type": "conférence",
+"lieu": "MICCAI 2024 - 27th International Conference on Medical Image Computing and Computer Assisted Intervention",
+"url": "https://inria.hal.science/hal-04698470v1",
+"doi": "10.1007/978-3-031-72384-1_32"
+},
+{
+"id": "pb00abc9b1a",
+"titre": "Pose-independent 3D Anthropometry from Sparse Data",
+"annee": 2024,
+"type": "conférence",
+"lieu": "T-CAP 2024 - 4th Workshop on Towards a Complete Analysis of People in conjunction with ECCV 2024",
+"url": "https://inria.hal.science/hal-04683475v1"
+},
+{
+"id": "p4b9ab299a0",
+"titre": "SHOWMe: Robust object-agnostic hand-object 3D reconstruction from RGB video",
+"annee": 2024,
+"type": "journal",
+"lieu": "Computer Vision and Image Understanding",
+"url": "https://inria.hal.science/hal-04890975v1",
+"doi": "10.1016/j.cviu.2024.104073"
+},
+{
+"id": "p42809aaf0c",
+"titre": "TSegLab: Multi-stage 3D dental scan segmentation and labeling",
+"annee": 2024,
+"type": "journal",
+"lieu": "Computers in Biology and Medicine",
+"url": "https://doi.org/10.1016/j.compbiomed.2024.109535",
+"doi": "10.1016/j.compbiomed.2024.109535"
+},
+{
+"id": "pf8a5e901cb",
+"titre": "The Complexity of Order Type Isomorphism",
+"annee": 2024,
+"type": "journal",
+"lieu": "Discrete & Computational Geometry",
+"url": "https://doi.org/10.1007/s00454-024-00687-1",
+"doi": "10.1007/s00454-024-00687-1"
+},
+{
+"id": "p79659d3f84",
+"titre": "3D inference of the scoliotic spine from depth maps of the back",
+"annee": 2023,
+"type": "conférence",
+"lieu": "International Symposium on Computer Methods in Biomechanics and Biomedical Engineering",
+"url": "https://hal.science/hal-04362152v1",
+"doi": "10.1007/978-3-031-55315-8_18"
+},
+{
+"id": "pf81f8b207d",
+"titre": "4DHumanOutfit: a multi-subject 4D dataset of human motion sequences in varying outfits exhibiting large displacements",
+"annee": 2023,
+"type": "journal",
+"lieu": "Computer Vision and Image Understanding",
+"url": "https://inria.hal.science/hal-04129186v1",
+"doi": "10.1016/j.cviu.2023.103836"
+},
+{
+"id": "pf926eab0ea",
+"titre": "Accuracy and Precision of 3-dimensional Optical Imaging for Body Composition by Age, BMI, and Ethnicity",
+"annee": 2023,
+"type": "journal",
+"lieu": "The American Journal of Clinical Nutrition",
+"url": "https://inria.hal.science/hal-04397544v1",
+"doi": "10.1016/j.ajcnut.2023.07.010"
+},
+{
+"id": "pad82f43c32",
+"titre": "Deformation-Guided Unsupervised Non-Rigid Shape Matching",
+"annee": 2023,
+"type": "conférence",
+"lieu": "BMVC 2023 - 34th British Machine Vision Conference",
+"url": "https://inria.hal.science/hal-04249563v1"
+},
+{
+"id": "pe82aa01971",
+"titre": "From Skin to Skeleton: Towards Biomechanically Accurate 3D Digital Humans",
+"annee": 2023,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-04396607v1",
+"doi": "10.1145/3618381"
+},
+{
+"id": "pe7e00fd124",
+"titre": "Human Body Shape Completion with Implicit Shape and Flow Learning",
+"annee": 2023,
+"type": "conférence",
+"lieu": "CVPR 2023 - IEEE Conference on Computer Vision and Pattern Recognition",
+"url": "https://inria.hal.science/hal-04045719v1",
+"doi": "10.1109/cvpr52729.2023.01240"
+},
+{
+"id": "p7bfdf3f948",
+"titre": "Multi-Modal Data Correspondence for the 4D Analysis of the Spine with Adolescent Idiopathic Scoliosis",
+"annee": 2023,
+"type": "journal",
+"lieu": "Bioengineering",
+"url": "https://inria.hal.science/hal-04213386v1",
+"doi": "10.3390/bioengineering10070874"
+},
+{
+"id": "pa47b35a259",
+"titre": "Multi-View Reconstruction using Signed Ray Distance Functions (SRDF)",
+"annee": 2023,
+"type": "conférence",
+"lieu": "CVPR 2023 - IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+"url": "https://hal.science/hal-03766943v2",
+"doi": "10.1109/cvpr52729.2023.01602"
+},
+{
+"id": "p3dfb19cddd",
+"titre": "Optimizing the 3D Plate Shape for Proximal Humerus Fractures",
+"annee": 2023,
+"type": "conférence",
+"lieu": "MICCAI 2023 - 26th International Conference on Medical Image Computing and Computer-Assisted Intervention",
+"url": "https://inria.hal.science/hal-04396635v1",
+"doi": "10.1007/978-3-031-43990-2_46"
+},
+{
+"id": "pdb73684be2",
+"titre": "Vertebrae localization, segmentation and identification using a graph optimization and an anatomic consistency cycle",
+"annee": 2023,
+"type": "journal",
+"lieu": "Computerized Medical Imaging and Graphics",
+"url": "https://inria.hal.science/hal-04397445v1",
+"doi": "10.1016/j.compmedimag.2023.102235"
+},
+{
+"id": "p168d171bf5",
+"titre": "A Structured Latent Space for Human Body Motion Generation",
+"annee": 2022,
+"type": "conférence",
+"lieu": "International Conference on 3D Vision (3DV)",
+"url": "https://hal.science/hal-03250297v4",
+"doi": "10.1109/3dv57658.2022.00066"
+},
+{
+"id": "p7f9367648a",
+"titre": "A Visual Approach to Measure Cloth-Body and Cloth-Cloth Friction",
+"annee": 2022,
+"type": "journal",
+"lieu": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+"url": "https://inria.hal.science/hal-03285624v1",
+"doi": "10.1109/tpami.2021.3097547"
+},
+{
+"id": "pd8c141bbcb",
+"titre": "Fast Gradient Descent for Surface Capture Via Differentiable Rendering",
+"annee": 2022,
+"type": "conférence",
+"lieu": "3DV 2022 - International Conference on 3D Vision",
+"url": "https://inria.hal.science/hal-03748662v2"
+},
+{
+"id": "p2dab7b1f3c",
+"titre": "Impact of Self-Contacts on Perceived Pose Equivalences",
+"annee": 2022,
+"type": "conférence",
+"lieu": "MIG 2022 - ACM SIGGRAPH Conference on Motion, Interaction and Games",
+"url": "https://inria.hal.science/hal-03817534v1",
+"doi": "10.1145/3561975.3562946"
+},
+{
+"id": "p4de5ebb04c",
+"titre": "Mesh Denoising with Facet Graph Convolutions",
+"annee": 2022,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-03066322v1",
+"doi": "10.1109/tvcg.2020.3045490"
+},
+{
+"id": "pd5aeb17e75",
+"titre": "OSSO: Obtaining Skeletal Shape from Outside",
+"annee": 2022,
+"type": "conférence",
+"lieu": "CVPR 2022 - IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+"url": "https://inria.hal.science/hal-03937317v1",
+"doi": "10.1109/cvpr52688.2022.01984"
+},
+{
+"id": "pfe365f9955",
+"titre": "Pyramidal Signed Distance Learning for Spatio-Temporal Human Shape Completion",
+"annee": 2022,
+"type": "conférence",
+"lieu": "16th Asian Conference on Computer Vision(ACCV2022)",
+"url": "https://inria.hal.science/hal-03806996v1"
+},
+{
+"id": "pced508bae4",
+"titre": "Temporal Shape Transfer Network for 3D Human Motion",
+"annee": 2022,
+"type": "conférence",
+"lieu": "3DV 2022 - International Conference on 3D Vision",
+"url": "https://inria.hal.science/hal-03782133v1"
+},
+{
+"id": "p18a8a17151",
+"titre": "Vertebrae localization, segmentation and identification using a graph optimization and an anatomic consistency cycle",
+"annee": 2022,
+"type": "chapitre",
+"lieu": "MLMI 2022: Machine Learning in Medical Imaging",
+"url": "https://inria.hal.science/hal-03779423v1",
+"doi": "10.1007/978-3-031-21014-3_32"
+},
+{
+"id": "pd223e59bc0",
+"titre": "A pose independent method for accurate and precise body composition from 3D optical scans",
+"annee": 2021,
+"type": "journal",
+"lieu": "Obesity",
+"url": "https://inria.hal.science/hal-03528084v1",
+"doi": "10.1002/oby.23256"
+},
+{
+"id": "pa179311846",
+"titre": "Data-Driven 3D Reconstruction of Dressed Humans From Sparse Views",
+"annee": 2021,
+"type": "conférence",
+"lieu": "3DV 2021 - International Conference on 3D Vision",
+"url": "https://inria.hal.science/hal-03385107v3",
+"doi": "10.1109/3dv53792.2021.00059"
+},
+{
+"id": "p50060c6ba1",
+"titre": "Dual Mesh Convolutional Networks for Human Shape Correspondence",
+"annee": 2021,
+"type": "conférence",
+"lieu": "3DV 2021 - International Conference on 3D Vision",
+"url": "https://inria.hal.science/hal-03450573v1",
+"doi": "10.1109/3dv53792.2021.00039"
+},
+{
+"id": "p90ecd252d6",
+"titre": "Neural Human Deformation Transfer",
+"annee": 2021,
+"type": "conférence",
+"lieu": "3DV 2021 - 9th International Conference on 3D Vision",
+"url": "https://hal.science/hal-03440562v1",
+"doi": "10.1109/3dv53792.2021.00064"
+},
+{
+"id": "p8ce0d8a853",
+"titre": "Spatio-Temporal Human Shape Completion With Implicit Function Networks",
+"annee": 2021,
+"type": "conférence",
+"lieu": "International Conference on 3D Vision",
+"url": "https://inria.hal.science/hal-03381387v1",
+"doi": "10.1109/3dv53792.2021.00076"
+},
+{
+"id": "p13f0f28bdb",
+"titre": "Volume Sweeping: Learning Photoconsistency for Multi-View Shape Reconstruction",
+"annee": 2021,
+"type": "journal",
+"lieu": "International Journal of Computer Vision",
+"url": "https://inria.hal.science/hal-02975479v1",
+"doi": "10.1007/s11263-020-01377-0"
+},
+{
+"id": "pc527134c1c",
+"titre": "3D Morphable Face Models - Past, Present and Future",
+"annee": 2020,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-02280281v2",
+"doi": "10.1145/3395208"
+},
+{
+"id": "p0724eb9e06",
+"titre": "Analysis of motor development within the first year of life: 3-D motion tracking without markers for early detection of developmental disorders",
+"annee": 2020,
+"type": "journal",
+"lieu": "Bundesgesundheitsblatt - Gesundheitsforschung - Gesundheitsschutz",
+"url": "https://inria.hal.science/hal-02995180v1",
+"doi": "10.1007/s00103-020-03163-2"
+},
+{
+"id": "p3746a385ea",
+"titre": "Contact Preserving Shape Transfer: retargeting motion from one shape to another",
+"annee": 2020,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://hal.science/hal-02613783v1",
+"doi": "10.1016/j.cag.2020.04.002"
+},
+{
+"id": "pee2d93750e",
+"titre": "Cross-modal Deep Face Normals with Deactivable Skip Connections",
+"annee": 2020,
+"type": "conférence",
+"lieu": "CVPR 2020 - IEEE Conference on Computer Vision and Pattern Recognition",
+"url": "https://inria.hal.science/hal-02525049v1",
+"doi": "10.1109/cvpr42600.2020.00503"
+},
+{
+"id": "p95c09db96f",
+"titre": "Discrete Point Flow Networks for Efficient Point Cloud Generation",
+"annee": 2020,
+"type": "conférence",
+"lieu": "ECCV 2020 - 16th European Conference on Computer Vision",
+"url": "https://hal.science/hal-02903163v1",
+"doi": "10.1007/978-3-030-58592-1_41"
+},
+{
+"id": "p0c59d1eff3",
+"titre": "GENTEL : GENerating Training data Efficiently for Learning to segment medical images",
+"annee": 2020,
+"type": "conférence",
+"lieu": "RFIAP 2020 - Congrés Reconnaissance des Formes, Image, Apprentissage et Perception",
+"url": "https://inria.hal.science/hal-02988367v1"
+},
+{
+"id": "p726f5d4ba1",
+"titre": "General Movement Assessment from videos of computed 3D infant body models is equally effective compared to conventional RGB Video rating",
+"annee": 2020,
+"type": "journal",
+"lieu": "Early Human Development",
+"url": "https://inria.hal.science/hal-02988419v1",
+"doi": "10.1016/j.earlhumdev.2020.104967"
+},
+{
+"id": "pf73d26e6c7",
+"titre": "Learning a Statistical Full Spine Model from Partial Observations",
+"annee": 2020,
+"type": "chapitre",
+"lieu": "Shape in Medical Imaging. ShapeMI 2020",
+"url": "https://inria.hal.science/hal-02983880v1",
+"doi": "10.1007/978-3-030-61056-2_10"
+},
+{
+"id": "pa8d30236db",
+"titre": "Learning and Tracking the 3D Body Shape of Freely Moving Infants from RGB-D sequences",
+"annee": 2020,
+"type": "journal",
+"lieu": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+"url": "https://inria.hal.science/hal-02162171v1",
+"doi": "10.1109/tpami.2019.2917908"
+},
+{
+"id": "p6b330ba6ce",
+"titre": "Learning to Dress 3D People in Generative Clothing",
+"annee": 2020,
+"type": "conférence",
+"lieu": "CVPR 2020 - IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+"url": "https://inria.hal.science/hal-02988291v1",
+"doi": "10.1109/cvpr42600.2020.00650"
+},
+{
+"id": "pd5604078ef",
+"titre": "Learning to Measure the Static Friction Coefficient in Cloth Contact",
+"annee": 2020,
+"type": "conférence",
+"lieu": "CVPR 2020 - IEEE Conference on Computer Vision and Pattern Recognition",
+"url": "https://inria.hal.science/hal-02511646v1",
+"doi": "10.1109/cvpr42600.2020.00993"
+},
+{
+"id": "pf592f4a561",
+"titre": "Morphology-Based Individual Vertebrae Classification",
+"annee": 2020,
+"type": "chapitre",
+"lieu": "Shape in Medical Imaging. ShapeMI 2020",
+"url": "https://inria.hal.science/hal-02983894v1",
+"doi": "10.1007/978-3-030-61056-2_11"
+},
+{
+"id": "p3f4d4a5650",
+"titre": "Reconstructing Human Body Mesh from Point Clouds by Adversarial GP Network",
+"annee": 2020,
+"type": "conférence",
+"lieu": "ACCV - Asian Conference on Computer Vision",
+"url": "https://inria.hal.science/hal-02977388v1",
+"doi": "10.1007/978-3-030-69525-5_8"
+},
+{
+"id": "p4d6c70caf1",
+"titre": "A Decoupled 3D Facial Shape Model by Adversarial Training",
+"annee": 2019,
+"type": "conférence",
+"lieu": "ICCV 2019 - International Conference on Computer Vision",
+"url": "https://hal.science/hal-02064711v3",
+"doi": "10.1109/iccv.2019.00951"
+},
+{
+"id": "p77915a4bfc",
+"titre": "Adaptive Mesh Texture for Multi-View Appearance Modeling",
+"annee": 2019,
+"type": "conférence",
+"lieu": "3DV 2019 - 7th International Conference on 3D Vision",
+"url": "https://inria.hal.science/hal-02284101v1",
+"doi": "10.1109/3dv.2019.00082"
+},
+{
+"id": "pa8005853df",
+"titre": "CBCT of a Moving Sample from X-rays and Multiple Videos",
+"annee": 2019,
+"type": "journal",
+"lieu": "IEEE Transactions on Medical Imaging",
+"url": "https://inria.hal.science/hal-01857487v1",
+"doi": "10.1109/tmi.2018.2865228"
+},
+{
+"id": "p63841ae72d",
+"titre": "Contact Preserving Shape Transfer For Rigging-Free Motion Retargeting",
+"annee": 2019,
+"type": "conférence",
+"lieu": "MIG 2019 - ACM SIGGRAPH Conference Motion Interaction and Games",
+"url": "https://hal.science/hal-02293308v3",
+"doi": "10.1145/3359566.3360075"
+},
+{
+"id": "p52f71677d4",
+"titre": "Estimating friction in cloth, using simulation and machine learning",
+"annee": 2019,
+"type": "conférence",
+"lieu": "APS 2019 - American Physical Society March Meeting",
+"url": "https://inria.hal.science/hal-01982257v1"
+},
+{
+"id": "pf9522a13ab",
+"titre": "Moulding Humans: Non-parametric 3D Human Shape Estimation from Single Images",
+"annee": 2019,
+"type": "conférence",
+"lieu": "ICCV 2019 - International Conference on Computer Vision",
+"url": "https://inria.hal.science/hal-02242795v1",
+"doi": "10.1109/iccv.2019.00232"
+},
+{
+"id": "p0f9f2f72eb",
+"titre": "Probabilistic Reconstruction Networks for 3D Shape Inference from a Single Image",
+"annee": 2019,
+"type": "conférence",
+"lieu": "BMVC 2019 - British Machine Vision Conference",
+"url": "https://inria.hal.science/hal-02268466v1"
+},
+{
+"id": "pe7a184ec96",
+"titre": "Surface Motion Capture Animation Synthesis",
+"annee": 2019,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-01781164v1",
+"doi": "10.1109/tvcg.2018.2831233"
+},
+{
+"id": "p5e8c00d178",
+"titre": "The Influence of Visual Perspective on Body Size Estimation in Immersive Virtual Reality",
+"annee": 2019,
+"type": "conférence",
+"lieu": "SAP 2019 - ACM Symposium on Applied Perception",
+"url": "https://inria.hal.science/hal-02992282v1",
+"doi": "10.1145/3343036.3343134"
+},
+{
+"id": "pde2824738a",
+"titre": "The Virtual Caliper: Rapid Creation of Metrically Accurate Avatars from 3D Measurements",
+"annee": 2019,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-02162159v1",
+"doi": "10.1109/tvcg.2019.2898748"
+},
+{
+"id": "p5e5160f3f6",
+"titre": "A Multilinear Tongue Model Derived from Speech Related MRI Data of the Human Vocal Tract",
+"annee": 2018,
+"type": "journal",
+"lieu": "Computer Speech and Language",
+"url": "https://hal.science/hal-01418460v2",
+"doi": "10.1016/j.csl.2018.02.001"
+},
+{
+"id": "p4a4186a571",
+"titre": "Analyzing Clothing Layer Deformation Statistics of 3D Human Motions",
+"annee": 2018,
+"type": "conférence",
+"lieu": "ECCV 2018 - European Conference on Computer Vision",
+"url": "https://inria.hal.science/hal-01763706v2",
+"doi": "10.1007/978-3-030-01234-2_15"
+},
+{
+"id": "pd4b53fb976",
+"titre": "Apprentissage de la Cohérence Photométrique pour la Reconstruction de Formes Multi-Vues",
+"annee": 2018,
+"type": "conférence",
+"lieu": "RFIAP 2018 - Reconnaissance des Formes, Image, Apprentissage et Perception",
+"url": "https://hal.science/hal-01857627v1"
+},
+{
+"id": "p5db7cfc6c8",
+"titre": "Automatic camera calibration using multiple sets of pairwise correspondences",
+"annee": 2018,
+"type": "journal",
+"lieu": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+"url": "https://inria.hal.science/hal-01675686v1",
+"doi": "10.1109/tpami.2017.2699648"
+},
+{
+"id": "p2c159fa7a0",
+"titre": "FeaStNet: Feature-Steered Graph Convolutions for 3D Shape Analysis",
+"annee": 2018,
+"type": "conférence",
+"lieu": "CVPR - IEEE Conference on Computer Vision & Pattern Recognition",
+"url": "https://inria.hal.science/hal-01540389v2",
+"doi": "10.1109/cvpr.2018.00275"
+},
+{
+"id": "p279577ad43",
+"titre": "Learning an Infant Body Model from RGB-D Data for Accurate Full Body Motion Analysis",
+"annee": 2018,
+"type": "chapitre",
+"lieu": "In A. Frangi, J. Schnabel, C. Davatzikos, C. Alberola-López, & G. Fichtinger (Eds.), Medical Image Computing and Computer Assisted Intervention – MICCAI",
+"url": "https://inria.hal.science/hal-02162177v1"
+},
+{
+"id": "pbe1055320a",
+"titre": "Multilinear Autoencoder for 3D Face Model Learning",
+"annee": 2018,
+"type": "conférence",
+"lieu": "WACV 2018 - IEEE Winter Conference on Applications of Computer Vision",
+"url": "https://hal.science/hal-01700934v1",
+"doi": "10.1109/wacv.2018.00007"
+},
+{
+"id": "p4db0473e94",
+"titre": "Shape Reconstruction Using Volume Sweeping and Learned Photoconsistency",
+"annee": 2018,
+"type": "conférence",
+"lieu": "European Conference on Computer Vision",
+"url": "https://hal.science/hal-01849286v2",
+"doi": "10.1007/978-3-030-01240-3_48"
+},
+{
+"id": "p0ead8601ad",
+"titre": "Spatiotemporal Modeling for Efficient Registration of Dynamic 3D Faces",
+"annee": 2018,
+"type": "conférence",
+"lieu": "3DV 2018 - 6th International Conference on 3D Vision",
+"url": "https://inria.hal.science/hal-01855955v1",
+"doi": "10.1109/3dv.2018.00050"
+},
+{
+"id": "p83224a07cf",
+"titre": "Tracking-by-Detection of 3D Human Shapes: from Surfaces to Volumes",
+"annee": 2018,
+"type": "journal",
+"lieu": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+"url": "https://inria.hal.science/hal-01588272v1",
+"doi": "10.1109/tpami.2017.2740308"
+},
+{
+"id": "p50ba7636d9",
+"titre": "Visual Perception and Evaluation of Photo-Realistic Self-Avatars From 3D Body Scans in Males and Females",
+"annee": 2018,
+"type": "journal",
+"lieu": "Frontiers in information and communication technologies",
+"url": "https://inria.hal.science/hal-02162162v1",
+"doi": "10.3389/fict.2018.00018"
+},
+{
+"id": "p8237e35ef1",
+"titre": "Building Statistical Shape Spaces for 3D Human Modeling",
+"annee": 2017,
+"type": "journal",
+"lieu": "Pattern Recognition",
+"url": "https://inria.hal.science/hal-01136221v2",
+"doi": "10.1016/j.patcog.2017.02.018"
+},
+{
+"id": "p5ea9eea257",
+"titre": "CT from Motion: Volumetric Capture of Moving Shapes with X-rays and Videos",
+"annee": 2017,
+"type": "conférence",
+"lieu": "British Machine Vision Conference (BMVC)",
+"url": "https://inria.hal.science/hal-01585344v1"
+},
+{
+"id": "p0d821668b0",
+"titre": "ClothCap: Seamless 4D Clothing Capture and Retargeting",
+"annee": 2017,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-02162166v1",
+"doi": "10.1145/3072959.3073711"
+},
+{
+"id": "p8b68059d09",
+"titre": "Controllable Variation Synthesis for Surface Motion Capture",
+"annee": 2017,
+"type": "conférence",
+"lieu": "3DV 2017 - International Conference on 3D Vision",
+"url": "https://inria.hal.science/hal-01590648v1",
+"doi": "10.1109/3dv.2017.00043"
+},
+{
+"id": "pead406a357",
+"titre": "Data-driven physics for human soft tissue animation",
+"annee": 2017,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-02162187v1",
+"doi": "10.1145/3072959.3073685"
+},
+{
+"id": "p7dce96a940",
+"titre": "Detailed, Accurate, Human Shape Estimation from Clothed 3D Scan Sequences",
+"annee": 2017,
+"type": "conférence",
+"lieu": "CVPR 2017 - IEEE Conference on Computer Vision and Pattern Recognition",
+"url": "https://inria.hal.science/hal-02162183v1",
+"doi": "10.1109/cvpr.2017.582"
+},
+{
+"id": "p88555cc729",
+"titre": "Multi-View Dynamic Shape Refinement Using Local Temporal Integration",
+"annee": 2017,
+"type": "conférence",
+"lieu": "IEEE, International Conference on Computer Vision 2017",
+"url": "https://hal.science/hal-01567758v2",
+"doi": "10.1109/iccv.2017.336"
+},
+{
+"id": "pe71e926277",
+"titre": "Super Résolution Temporelle de Formes Multi-Vues",
+"annee": 2017,
+"type": "conférence",
+"lieu": "ORASIS 2017",
+"url": "https://hal.science/hal-01866632v1"
+},
+{
+"id": "p3be982ed24",
+"titre": "Surface Motion Capture Transfer with Gaussian Process Regression",
+"annee": 2017,
+"type": "conférence",
+"lieu": "CVPR 2017 - IEEE Conference on Computer Vision and Pattern Recognition",
+"url": "https://inria.hal.science/hal-01491386v2",
+"doi": "10.1109/cvpr.2017.379"
+},
+{
+"id": "pdb06cf9038",
+"titre": "The Stereoscopic Zoom",
+"annee": 2017,
+"type": "conférence",
+"lieu": "Computation Cameras and Displays",
+"url": "https://inria.hal.science/hal-01572470v1",
+"doi": "10.1109/cvprw.2017.170"
+},
+{
+"id": "pe56fcecf22",
+"titre": "3D Imaging from Video and Planar Radiography",
+"annee": 2016,
+"type": "conférence",
+"lieu": "MICCAI 2016 - 19th International Conference on Medical Image Computing and Computer Assisted Intervention",
+"url": "https://inria.hal.science/hal-01348939v2",
+"doi": "10.1007/978-3-319-46726-9_52"
+},
+{
+"id": "pb8021ff9bf",
+"titre": "A 3D+t Laplace operator for temporal mesh sequences",
+"annee": 2016,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://inria.hal.science/hal-01318763v1",
+"doi": "10.1016/j.cag.2016.05.018"
+},
+{
+"id": "pcea7811eea",
+"titre": "A Bayesian Approach to Multi-view 4D Modeling",
+"annee": 2016,
+"type": "journal",
+"lieu": "International Journal of Computer Vision",
+"url": "https://inria.hal.science/hal-01211810v1",
+"doi": "10.1007/s11263-015-0832-y"
+},
+{
+"id": "p8c271a81d6",
+"titre": "A Hierarchical Approach for Regular Centroidal Voronoi Tessellations",
+"annee": 2016,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-01185210v1",
+"doi": "10.1111/cgf.12716"
+},
+{
+"id": "pdfe9065c22",
+"titre": "A Robust Multilinear Model Learning Framework for 3D Faces",
+"annee": 2016,
+"type": "conférence",
+"lieu": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+"url": "https://inria.hal.science/hal-01290783v1",
+"doi": "10.1109/cvpr.2016.531"
+},
+{
+"id": "pb065f86f91",
+"titre": "A real-time framework for visual feedback of articulatory data using statistical shape models",
+"annee": 2016,
+"type": "conférence",
+"lieu": "17th Annual Conference of the International Speech Communication Association (Interspeech)",
+"url": "https://hal.science/hal-01377360v1"
+},
+{
+"id": "p7d78960d3c",
+"titre": "Analysis of Farthest Point Sampling for Approximating Geodesics in a Graph",
+"annee": 2016,
+"type": "journal",
+"lieu": "Computational Geometry",
+"url": "https://inria.hal.science/hal-01297624v2",
+"doi": "10.1016/j.comgeo.2016.05.005"
+},
+{
+"id": "pcb7d360ae7",
+"titre": "Computing temporal alignments of human motion sequences in wide clothing using geodesic patches",
+"annee": 2016,
+"type": "conférence",
+"lieu": "3DV 2016 - International Conference on 3D Vision 2016",
+"url": "https://inria.hal.science/hal-01367791v1",
+"doi": "10.1109/3dv.2016.27"
+},
+{
+"id": "p1f8afb5588",
+"titre": "Cotemporal Multi-View Video Segmentation",
+"annee": 2016,
+"type": "conférence",
+"lieu": "3DV 2016 -International Conference on 3D Vision",
+"url": "https://inria.hal.science/hal-01367430v2",
+"doi": "10.1109/3dv.2016.45"
+},
+{
+"id": "pd65d122ad4",
+"titre": "Eigen Appearance Maps of Dynamic Shapes",
+"annee": 2016,
+"type": "conférence",
+"lieu": "ECCV 2016 - European Conference on Computer Vision",
+"url": "https://inria.hal.science/hal-01348837v1",
+"doi": "10.1007/978-3-319-46448-0_14"
+},
+{
+"id": "p2a8fefc467",
+"titre": "Estimation of Human Body Shape in Motion with Wide Clothing",
+"annee": 2016,
+"type": "conférence",
+"lieu": "ECCV 2016 - European Conference on Computer Vision 2016",
+"url": "https://inria.hal.science/hal-01344795v4",
+"doi": "10.1007/978-3-319-46493-0_27"
+},
+{
+"id": "p75321fe295",
+"titre": "Fitting a 3D Morphable Model to Edges: A Comparison Between Hard and Soft Correspondences",
+"annee": 2016,
+"type": "conférence",
+"lieu": "Asian Conference on Computer Vision Workshop on Facial Informatics",
+"url": "https://inria.hal.science/hal-01271343v2",
+"doi": "10.1007/978-3-319-54427-4_28"
+},
+{
+"id": "p9833b79e3f",
+"titre": "On Volumetric Shape Reconstruction from Implicit Forms",
+"annee": 2016,
+"type": "conférence",
+"lieu": "ECCV 2016 - European Conference on Computer Vision",
+"url": "https://inria.hal.science/hal-01349059v1",
+"doi": "10.1007/978-3-319-46487-9_11"
+},
+{
+"id": "p6f17f94367",
+"titre": "Perspectives in Shape Analysis",
+"annee": 2016,
+"type": "ouvrage",
+"lieu": "Mathematics and visualization",
+"url": "https://doi.org/10.1007/978-3-319-24726-7",
+"doi": "10.1007/978-3-319-24726-7"
+},
+{
+"id": "pef6351177e",
+"titre": "Statistical Shape Spaces for 3D Data: A Review",
+"annee": 2016,
+"type": "chapitre",
+"lieu": "Handbook of Pattern Recognition and Computer Vision 5th Edition",
+"url": "https://inria.hal.science/hal-01205998v1",
+"doi": "10.1142/9789814656535_0012"
+},
+{
+"id": "pe5fe8558b6",
+"titre": "Tongue Mesh Extraction from 3D MRI Data of the Human Vocal Tract",
+"annee": 2016,
+"type": "chapitre",
+"lieu": "Mathematics and visualization",
+"url": "https://doi.org/10.1007/978-3-319-24726-7_16",
+"doi": "10.1007/978-3-319-24726-7_16"
+},
+{
+"id": "p9547c16a24",
+"titre": "Volumetric 3D Tracking by Detection",
+"annee": 2016,
+"type": "conférence",
+"lieu": "CVPR 2016 - IEEE Conference on Computer Vision and Pattern Recognition",
+"url": "https://inria.hal.science/hal-01300191v1",
+"doi": "10.1109/cvpr.2016.419"
+},
+{
+"id": "p33458db800",
+"titre": "A Groupwise Multilinear Correspondence Optimization for 3D Faces",
+"annee": 2015,
+"type": "conférence",
+"lieu": "IEEE International Conference on Computer Vision (ICCV)",
+"url": "https://inria.hal.science/hal-01205460v1",
+"doi": "10.1109/iccv.2015.411"
+},
+{
+"id": "pce8926fc40",
+"titre": "A statistical shape space model of the palate surface trained on 3D MRI scans of the vocal tract",
+"annee": 2015,
+"type": "conférence",
+"lieu": "18th International Congress of Phonetic Sciences",
+"url": "https://inria.hal.science/hal-01192790v1"
+},
+{
+"id": "p6aed5bc43a",
+"titre": "An Efficient Volumetric Framework for Shape Tracking",
+"annee": 2015,
+"type": "conférence",
+"lieu": "CVPR 2015 - IEEE International Conference on Computer Vision and Pattern Recognition",
+"url": "https://inria.hal.science/hal-01141207v1",
+"doi": "10.1109/cvpr.2015.7298623"
+},
+{
+"id": "p24dc29814a",
+"titre": "Dynamic Geometry Reconstruction",
+"annee": 2015,
+"type": "chapitre",
+"lieu": "Digital Representations of the Real World: How to Capture, Model, and Render Visual Reality",
+"url": "https://inria.hal.science/hal-01159497v1"
+},
+{
+"id": "pa7b27f92a5",
+"titre": "Détection de différence de mise au point lors des prises de vues stéréoscopiques",
+"annee": 2015,
+"type": "journal",
+"lieu": "Traitement du Signal",
+"url": "https://inria.hal.science/hal-01352806v1",
+"doi": "10.3166/ts.32.65-86"
+},
+{
+"id": "p3fd40883f4",
+"titre": "Implicit B-Spline Surface Reconstruction",
+"annee": 2015,
+"type": "journal",
+"lieu": "IEEE Transactions on Image Processing",
+"url": "https://inria.hal.science/hal-01101037v1",
+"doi": "10.1109/tip.2014.2366374"
+},
+{
+"id": "p798ac943c5",
+"titre": "Sparse Multi-View Consistency for Object Segmentation",
+"annee": 2015,
+"type": "journal",
+"lieu": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+"url": "https://inria.hal.science/hal-01115557v1",
+"doi": "10.1109/tpami.2014.2385704"
+},
+{
+"id": "p11dadb5ba7",
+"titre": "Toward User-specific Tracking by Detection of Human Shapes in Multi-Cameras",
+"annee": 2015,
+"type": "conférence",
+"lieu": "CVPR 2015 - IEEE International Conference on Computer Vision and Pattern Recognition",
+"url": "https://inria.hal.science/hal-01148449v1",
+"doi": "10.1109/cvpr.2015.7299029"
+},
+{
+"id": "p4e3460146a",
+"titre": "Video based Animation Synthesis with the Essential Graph",
+"annee": 2015,
+"type": "conférence",
+"lieu": "3DV 2015 - International Conference on 3D Vision",
+"url": "https://inria.hal.science/hal-01212168v1",
+"doi": "10.1109/3dv.2015.60"
+},
+{
+"id": "p606961a4f4",
+"titre": "Bayesian View Synthesis and Image-Based Rendering Principles",
+"annee": 2014,
+"type": "conférence",
+"lieu": "CVPR - 27th IEEE Conference on Computer Vision and Pattern Recognition",
+"url": "https://inria.hal.science/hal-00983315v1",
+"doi": "10.1109/cvpr.2014.499"
+},
+{
+"id": "p4c12e0134b",
+"titre": "Combined Visible and X-Ray 3D Imaging",
+"annee": 2014,
+"type": "conférence",
+"lieu": "Medical Image Understanding and Analysis",
+"url": "https://inria.hal.science/hal-00994974v1"
+},
+{
+"id": "p23aef6dbf8",
+"titre": "Dynamic Stereoscopic Previz",
+"annee": 2014,
+"type": "conférence",
+"lieu": "International Conference on 3D Imaging",
+"url": "https://inria.hal.science/hal-01083848v1",
+"doi": "10.1109/ic3d.2014.7032600"
+},
+{
+"id": "p349954f9ac",
+"titre": "High Resolution 3D Shape Texture from Multiple Videos",
+"annee": 2014,
+"type": "conférence",
+"lieu": "CVPR 2014 - IEEE International Conference on Computer Vision and Pattern Recognition",
+"url": "https://inria.hal.science/hal-00977755v2",
+"doi": "10.1109/cvpr.2014.195"
+},
+{
+"id": "p28eb4565c6",
+"titre": "Human Shape and Pose Tracking Using Keyframes",
+"annee": 2014,
+"type": "conférence",
+"lieu": "CVPR 2014 - IEEE International Conference on Computer Vision and Pattern Recognition",
+"url": "https://inria.hal.science/hal-00995681v1",
+"doi": "10.1109/cvpr.2014.440"
+},
+{
+"id": "pd4e57f3e3e",
+"titre": "Interpolation de points de vue : approches directe et variationnelle",
+"annee": 2014,
+"type": "conférence",
+"lieu": "Reconnaissance de Formes et Intelligence Artificielle (RFIA) 2014",
+"url": "https://hal.science/hal-00989031v1"
+},
+{
+"id": "pad6c48cf02",
+"titre": "Non-Rigid Registration meets Surface Reconstruction",
+"annee": 2014,
+"type": "conférence",
+"lieu": "3DV 2014 - International Conference on 3D Vision",
+"url": "https://inria.hal.science/hal-01063513v3",
+"doi": "10.1109/3dv.2014.80"
+},
+{
+"id": "p37c9eb9e5f",
+"titre": "On Mean Pose and Variability of 3D Deformable Models",
+"annee": 2014,
+"type": "conférence",
+"lieu": "ECCV 2014 - European Conference on Computer Vision",
+"url": "https://inria.hal.science/hal-01016981v1",
+"doi": "10.1007/978-3-319-10605-2_19"
+},
+{
+"id": "p37ee9837fe",
+"titre": "Segmentation multi-vues par coupure de graphes",
+"annee": 2014,
+"type": "conférence",
+"lieu": "RFIA 2014 - Reconnaissance de Formes et Intelligence Artificielle",
+"url": "https://hal.science/hal-00988772v1"
+},
+{
+"id": "pca821f1385",
+"titre": "Viewpoint Interpolation: Direct and Variational Methods",
+"annee": 2014,
+"type": "conférence",
+"lieu": "ICIP - International Conference on Image Processing",
+"url": "https://inria.hal.science/hal-01058327v1"
+},
+{
+"id": "p1748a70833",
+"titre": "3D Shape Cropping",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Vision, Modeling and Visualization",
+"url": "https://inria.hal.science/hal-00904661v1",
+"doi": "10.2312/pe.vmv.vmv13.065-072"
+},
+{
+"id": "p4a6e4f80c2",
+"titre": "Détection de différence de mise au point lors des prises de vues stéréoscopiques",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Orasis, Congrès des jeunes chercheurs en vision par ordinateur",
+"url": "https://hal.science/hal-00829397v1"
+},
+{
+"id": "p45517c55c9",
+"titre": "Modélisation probabiliste pour la segmentation multi-vues",
+"annee": 2013,
+"type": "conférence",
+"lieu": "ORASIS - Congrès des jeunes chercheurs en vision par ordinateur",
+"url": "https://hal.science/hal-00830762v1"
+},
+{
+"id": "pf744e57852",
+"titre": "Multi-View Object Segmentation in Space and Time",
+"annee": 2013,
+"type": "conférence",
+"lieu": "ICCV 2013 - IEEE International Conference on Computer Vision",
+"url": "https://inria.hal.science/hal-00873544v1",
+"doi": "10.1109/iccv.2013.328"
+},
+{
+"id": "pcb2deb2d44",
+"titre": "Robust Human Body Shape and Pose Tracking",
+"annee": 2013,
+"type": "conférence",
+"lieu": "3DV - International Conference on 3D Vision - 2013",
+"url": "https://inria.hal.science/hal-00922934v1",
+"doi": "10.1109/3dv.2013.45"
+},
+{
+"id": "p9268a8e410",
+"titre": "Segmentation of temporal mesh sequences into rigidly moving components",
+"annee": 2013,
+"type": "journal",
+"lieu": "Graphical Models",
+"url": "https://inria.hal.science/hal-00749302v1",
+"doi": "10.1016/j.gmod.2012.10.004"
+},
+{
+"id": "pbaeee8f32a",
+"titre": "Utilisation des longues focales lors des prises de vues stéréoscopiques",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Orasis, Congrès des jeunes chercheurs en vision par ordinateur",
+"url": "https://hal.science/hal-00829395v1"
+},
+{
+"id": "peec443092f",
+"titre": "A Minimal Solution for Camera Calibration Using Independent Pairwise Correspondences",
+"annee": 2012,
+"type": "conférence",
+"lieu": "ECCV'12 - 12th European Conference on Computer Vision",
+"url": "https://inria.hal.science/hal-00735728v1",
+"doi": "10.1007/978-3-642-33783-3_52"
+},
+{
+"id": "pe8b7fd83f5",
+"titre": "Cage-based Motion Recovery using Manifold Learning",
+"annee": 2012,
+"type": "conférence",
+"lieu": "3DIMPVT 2012 - Second International Conference on 3D Imaging, Modeling, Processing, Visualization and Transmission",
+"url": "https://inria.hal.science/hal-00737329v1",
+"doi": "10.1109/3dimpvt.2012.29"
+},
+{
+"id": "pb45371f542",
+"titre": "Flot de scène",
+"annee": 2012,
+"type": "journal",
+"lieu": "Traitement du Signal",
+"url": "https://inria.hal.science/hal-00746460v1",
+"doi": "10.3166/ts.29.255-281"
+},
+{
+"id": "p8738f8a844",
+"titre": "Flot de scène à partir d'images couleur et de cartes de profondeur",
+"annee": 2012,
+"type": "conférence",
+"lieu": "RFIA 2012 - Reconnaissance des Formes et Intelligence Artificielle",
+"url": "https://hal.science/hal-00656484v2"
+},
+{
+"id": "p18dec33001",
+"titre": "Focus Mismatch Detection in Stereoscopic Content",
+"annee": 2012,
+"type": "conférence",
+"lieu": "SD&A 2012 - Stereoscopic Displays and Applications XXIII",
+"url": "https://inria.hal.science/hal-00654115v2",
+"doi": "10.1117/12.906209"
+},
+{
+"id": "p0ac572ee60",
+"titre": "Keypoints and Local Descriptors of Scalar Functions on 2D Manifolds",
+"annee": 2012,
+"type": "journal",
+"lieu": "International Journal of Computer Vision",
+"url": "https://inria.hal.science/hal-00699620v1",
+"doi": "10.1007/s11263-012-0528-5"
+},
+{
+"id": "pecf145b7a0",
+"titre": "Modèles progressifs de forme",
+"annee": 2012,
+"type": "conférence",
+"lieu": "CORESA - COmpression et REprésentation des Signaux Audiovisuels - 2012",
+"url": "https://inria.hal.science/hal-00683549v1"
+},
+{
+"id": "p6e543da2b9",
+"titre": "N-Tuple Color Segmentation for Multi-View Silhouette Extraction",
+"annee": 2012,
+"type": "conférence",
+"lieu": "ECCV'12 - 12th European Conference on Computer Vision",
+"url": "https://inria.hal.science/hal-00735718v1",
+"doi": "10.1007/978-3-642-33715-4_59"
+},
+{
+"id": "pbe787804bc",
+"titre": "Progressive Shape Models",
+"annee": 2012,
+"type": "conférence",
+"lieu": "CVPR - Computer Vision and Patern Recognition - 2012",
+"url": "https://inria.hal.science/hal-00677506v1",
+"doi": "10.1109/cvpr.2012.6247675"
+},
+{
+"id": "pa4ad94b1a8",
+"titre": "RE@CT - Immersive Production and Delivery of Interactive 3D Content",
+"annee": 2012,
+"type": "conférence",
+"lieu": "NEM Summit - Networked and Electronic Media - 2012",
+"url": "https://inria.hal.science/hal-00922956v1"
+},
+{
+"id": "p10a1e1b9b0",
+"titre": "A survey of vision-based methods for action representation, segmentation and recognition",
+"annee": 2011,
+"type": "journal",
+"lieu": "Computer Vision and Image Understanding",
+"url": "https://inria.hal.science/hal-00640088v1",
+"doi": "10.1016/j.cviu.2010.10.002"
+},
+{
+"id": "p1acb3688fe",
+"titre": "Flot de surface à partir d'indices visuels",
+"annee": 2011,
+"type": "conférence",
+"lieu": "ORASIS - Congrès des jeunes chercheurs en vision par ordinateur",
+"url": "https://inria.hal.science/inria-00595247v2"
+},
+{
+"id": "p58c47bf08a",
+"titre": "Learning Temporally Consistent Rigidities",
+"annee": 2011,
+"type": "conférence",
+"lieu": "CVPR 2011 - IEEE Computer Vision and Pattern Recognition",
+"url": "https://inria.hal.science/inria-00583131v1",
+"doi": "10.1109/cvpr.2011.5995440"
+},
+{
+"id": "p013ab52890",
+"titre": "SHREC 2011: robust feature detection and description benchmark",
+"annee": 2011,
+"type": "conférence",
+"lieu": "3DOR2011 - Eurographics Workshop on 3D Object Retrieval",
+"url": "https://inria.hal.science/hal-00752990v1",
+"doi": "10.2312/3dor/3dor11/071-078"
+},
+{
+"id": "p609fca3889",
+"titre": "Scale-Space Representation of Scalar Functions on 2D Manifolds",
+"annee": 2011,
+"type": "conférence",
+"lieu": "3dRR-11 - ICCV Workshop on 3D Representation and Recognition",
+"url": "https://inria.hal.science/hal-00653479v1",
+"doi": "10.1109/iccvw.2011.6130299"
+},
+{
+"id": "p0469f58927",
+"titre": "Scene Flow from Depth and Color Images",
+"annee": 2011,
+"type": "conférence",
+"lieu": "BMVC 2011 - British Machine Vision Conference",
+"url": "https://inria.hal.science/inria-00616353v1",
+"doi": "10.5244/c.25.46"
+},
+{
+"id": "pedf4a9a804",
+"titre": "Silhouette Segmentation in Multiple Views",
+"annee": 2011,
+"type": "journal",
+"lieu": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+"url": "https://inria.hal.science/inria-00568915v1",
+"doi": "10.1109/tpami.2010.196"
+},
+{
+"id": "p4525c84af7",
+"titre": "Stereoscopic Focus Mismatch Monitoring",
+"annee": 2011,
+"type": "conférence",
+"lieu": "CVMP - European Conference on Visual Media Production",
+"url": "https://inria.hal.science/hal-00651843v1"
+},
+{
+"id": "p7aad944a29",
+"titre": "Surface Flow from Visual Cues",
+"annee": 2011,
+"type": "conférence",
+"lieu": "VMV 2011 - Vision, Modeling and Visualization Workshop",
+"url": "https://inria.hal.science/inria-00631476v1",
+"doi": "10.2312/pe/vmv/vmv11/001-008"
+},
+{
+"id": "p665a2237c1",
+"titre": "Topologically-Robust 3D Shape Matching Based on Diffusion Geometry and Seed Growing",
+"annee": 2011,
+"type": "conférence",
+"lieu": "CVPR '11 - IEEE Conference on Computer Vision and Pattern Recognition",
+"url": "https://inria.hal.science/inria-00590280v1",
+"doi": "10.1109/cvpr.2011.5995455"
+},
+{
+"id": "p00861373f6",
+"titre": "Topology-Adaptive Mesh Deformation for Surface Evolution, Morphing, and Multi-View Reconstruction",
+"annee": 2011,
+"type": "journal",
+"lieu": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+"url": "https://inria.hal.science/inria-00590271v1",
+"doi": "10.1109/tpami.2010.116"
+}
+]
+}

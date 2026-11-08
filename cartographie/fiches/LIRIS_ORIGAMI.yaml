@@ -1,0 +1,100 @@
+equipe: LIRIS/ORIGAMI
+domaines:
+  principaux:
+  - geometrie
+  - modelisation
+  secondaires:
+  - rendu
+  - visu
+  - rv
+themes:
+- id: terrains_nature
+  phrase: Synthèse et édition de terrains par érosion multi-échelle, isocontours, modèles vectoriels ou de diffusion, ainsi
+    que rivières, glaciers, karsts et écosystèmes.
+  preuves:
+  - p96b0661b13
+  - p4eb50fd9c8
+  - p5494c6c727
+- id: surfaces_implicites
+  phrase: Accélération, bornes et flots explicites pour les surfaces implicites et champs de distance signée, y compris probabilistes.
+  preuves:
+  - p7cd0c1645c
+  - p627539e432
+  - p92aa14767d
+- id: echantillonnage
+  phrase: Séquences à faible discrépance (Sobol', brouillage d'Owen différentiable), bruit bleu et transport optimal rapide
+    pour l'intégration Monte-Carlo en rendu.
+  preuves:
+  - p23ec467877
+  - p849f91c022
+  - pac95b69b08
+- id: geometrie_discrete
+  phrase: Calcul différentiel sur surfaces digitales et nuages de points (Laplace-Beltrami corrigé, courbures), algorithmes
+    de sondage de plans et décomposition convexe/concave de formes digitalisées.
+  preuves:
+  - pf5e25d4f68
+  - pa0acd88a9d
+  - p7c7e7d293b
+- id: modeles_urbains
+  phrase: Maquettes urbaines 3D sémantiques et versionnées (CityGML, ontologies), diffusion web de villes évolutives et jumeau
+    numérique de médiation territoriale.
+  preuves:
+  - p3cad458d2c
+  - p0a2910499c
+  - pca8593bbce
+- id: haptique
+  phrase: Retour thermique, olfactif et physiologique en réalité virtuelle à six degrés de liberté, avec dispositifs ouverts
+    et évaluation perceptive.
+  preuves:
+  - pc66c519422
+  - p41623bc508
+  - p046862d202
+applications:
+- id: jeu_video
+  preuves:
+  - p96b0661b13
+  - pa82fc38232
+  - p651d015c40
+- id: environnement
+  preuves:
+  - pc3f652c5e9
+  - pda207c85d2
+  - p08ac18f9a2
+- id: sante
+  preuves:
+  - p04785eb194
+  - pbf1293b731
+  - pcefa5776f7
+- id: patrimoine
+  preuves:
+  - p6281f36cef
+  - pcda7126a65
+  - p1afd5ef763
+  - pf4ebab412c
+  - pc3e9cc3da6
+- id: architecture_urbain
+  preuves:
+  - p95d760ebea
+  - p028f26e2e2
+  - pf384c89097
+  - p3590dd26ac
+  - p7b04761059
+- id: robotique
+  preuves:
+  - p62586f88f2
+  - pc3e8609205
+  - p8546a229d1
+publications_representatives:
+- p7cd0c1645c
+- p23ec467877
+- pac95b69b08
+- p96b0661b13
+- p849f91c022
+synthese: Modélisation de terrains et de phénomènes naturels, représentations géométriques (surfaces implicites, géométrie
+  discrète), échantillonnage pour le rendu, maquettes urbaines 4D et réalité virtuelle multisensorielle.
+pour_etudiants: On y crée des paysages virtuels, on invente des outils mathématiques pour représenter et analyser des formes
+  3D, on améliore le calcul des images, on enrichit la réalité virtuelle avec chaleur et odeurs, et on construit des maquettes
+  3D de villes qui évoluent dans le temps.
+pour_entreprises: Génération de terrains et d'environnements naturels, géométrie robuste sur maillages et nuages de points,
+  échantillonnage pour le rendu, réalité virtuelle multisensorielle, simulateurs médicaux et maquettes numériques 3D de villes
+  et de territoires.

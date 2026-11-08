@@ -1,0 +1,1172 @@
+{
+"equipe": "Inria/Titane",
+"publications": [
+{
+"id": "p89cb0739a3",
+"titre": "Hierarchical Gaussian Partitioning for Semantic Segmentation of Airborne LiDAR Scenes",
+"annee": 2026,
+"type": "journal",
+"lieu": "ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences",
+"url": "https://inria.hal.science/hal-05684136v1",
+"doi": "10.5194/isprs-annals-xi-2-2026-69-2026"
+},
+{
+"id": "p774aeb132a",
+"titre": "Illustrator's Depth: Monocular Layer Index Prediction for Image Decomposition",
+"annee": 2026,
+"type": "conférence",
+"lieu": "Computer Vision and Pattern Recognition",
+"url": "https://inria.hal.science/hal-05456342v1"
+},
+{
+"id": "pd709af2f15",
+"titre": "NURBSFit: Robust Fitting of NURBS Surfaces to Point Clouds",
+"annee": 2026,
+"type": "conférence",
+"lieu": "International Conference on 3D Vision (3DV)",
+"url": "https://hal.science/hal-05411017v1"
+},
+{
+"id": "p057d38824f",
+"titre": "Pixels, Points and Polygons: A Dataset and Benchmark for Multimodal Building Vectorization",
+"annee": 2026,
+"type": "journal",
+"lieu": "ISPRS Journal of Photogrammetry and Remote Sensing",
+"url": "https://inria.hal.science/hal-05780127v1",
+"doi": "10.1016/j.isprsjprs.2026.07.027"
+},
+{
+"id": "p694c8b5580",
+"titre": "Road Network Vectorization With Geometric Enforcement",
+"annee": 2026,
+"type": "conférence",
+"lieu": "2026 ISPRS Congress - XXIV Congress of the International Society for Photogrammetry and Remote Sensing",
+"url": "https://inria.hal.science/hal-05566377v1"
+},
+{
+"id": "p711920aa4f",
+"titre": "SuperSDF: Sparse SDF Super-Resolution for Surface Extraction",
+"annee": 2026,
+"type": "journal",
+"lieu": "Proceedings of the ACM on Computer Graphics and Interactive Techniques",
+"url": "https://inria.hal.science/hal-05695657v1",
+"doi": "10.1145/3799902.3811176"
+},
+{
+"id": "pd8aa7909a8",
+"titre": "The P 3 Dataset: Pixels, Points and Polygons for Multimodal Building Vectorization",
+"annee": 2026,
+"type": "conférence",
+"lieu": "2026 ISPRS Congress - XXIV Congress of the International Society for Photogrammetry and Remote Sensing",
+"url": "https://inria.hal.science/hal-05566408v1"
+},
+{
+"id": "peaec815b3e",
+"titre": "Bayesian Experimental Design via Contrastive Diffusions",
+"annee": 2025,
+"type": "conférence",
+"lieu": "ICLR 2025 - International Conference on Learning Representations",
+"url": "https://hal.science/hal-04826314v1"
+},
+{
+"id": "pe90ecf7881",
+"titre": "KIBS: 3D detection of planar roof sections from a single satellite image",
+"annee": 2025,
+"type": "journal",
+"lieu": "ISPRS Journal of Photogrammetry and Remote Sensing",
+"url": "https://hal.science/hal-04874299v1"
+},
+{
+"id": "p67d9d46052",
+"titre": "ShapeShifter: 3D Variations Using Multiscale and Sparse Point-Voxel Diffusion",
+"annee": 2025,
+"type": "conférence",
+"lieu": "CVPR 2025 - IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+"url": "https://hal.science/hal-05064374v1"
+},
+{
+"id": "p515c96fca8",
+"titre": "Concise Plane Arrangements for Low-Poly Surface and Volume Modelling",
+"annee": 2024,
+"type": "conférence",
+"lieu": "ECCV 2024 - 18th European Conference on Computer Vision",
+"url": "https://hal.science/hal-04648180v1"
+},
+{
+"id": "p583dc737d5",
+"titre": "Entropy-driven Progressive Compression of 3D Point Clouds.",
+"annee": 2024,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-04630545v1",
+"doi": "10.1111/cgf.15130"
+},
+{
+"id": "pbac2a6c7cd",
+"titre": "In the Quest for Scale-optimal Mappings",
+"annee": 2024,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-04395608v1",
+"doi": "10.1145/3627102"
+},
+{
+"id": "p09f697a1f7",
+"titre": "LFS-Aware Surface Reconstruction from Unoriented 3D Point Clouds",
+"annee": 2024,
+"type": "journal",
+"lieu": "IEEE Transactions on Multimedia",
+"url": "https://inria.hal.science/hal-04713803v1",
+"doi": "10.1109/tmm.2024.3453050"
+},
+{
+"id": "p84dbe62a0f",
+"titre": "LineFit: A Geometric Approach for Fitting Line Segments in Images",
+"annee": 2024,
+"type": "conférence",
+"lieu": "ECCV 2024 - 18th European Conference on Computer Vision",
+"url": "https://hal.science/hal-04648268v1"
+},
+{
+"id": "p5d806b34ff",
+"titre": "PASOA- PArticle baSed Bayesian Optimal Adaptive design",
+"annee": 2024,
+"type": "conférence",
+"lieu": "ICML 2024 - 41st International Conference on Machine Learning",
+"url": "https://inria.hal.science/hal-04602151v1",
+"doi": "10.5555/3692070.3692915"
+},
+{
+"id": "pfa236a714d",
+"titre": "PoNQ: a Neural QEM-based Mesh Representation",
+"annee": 2024,
+"type": "conférence",
+"lieu": "CVPR 2024 - IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+"url": "https://hal.science/hal-04706248v1"
+},
+{
+"id": "p958dc965cc",
+"titre": "SimpliCity: Reconstructing Buildings with Simple Regularized 3D Models",
+"annee": 2024,
+"type": "conférence",
+"lieu": "CVPR 2024 – IEEE Conference on Computer Vision and Pattern Recognition USM3D Workshop",
+"url": "https://inria.hal.science/hal-04547800v1"
+},
+{
+"id": "p443a90cba2",
+"titre": "BPNet: Bézier Primitive Segmentation on 3D Point Clouds",
+"annee": 2023,
+"type": "conférence",
+"lieu": "IJCAI 2023 - 32nd International Joint Conference on Artificial Intelligence",
+"url": "https://hal.science/ineris-04151504v1",
+"doi": "10.24963/ijcai.2023/84"
+},
+{
+"id": "p1d4db1646b",
+"titre": "ConSLAM: Construction Data Set for SLAM",
+"annee": 2023,
+"type": "journal",
+"lieu": "Journal of Computing in Civil Engineering",
+"url": "https://inria.hal.science/hal-04039392v1",
+"doi": "10.1061/jccee5.cpeng-5212"
+},
+{
+"id": "p625a574f0b",
+"titre": "Feature-Preserving Offset Mesh Generation from Topology-Adapted Octrees",
+"annee": 2023,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-04135266v1",
+"doi": "10.1111/cgf.14906"
+},
+{
+"id": "p6714fe9c99",
+"titre": "Progressive Compression of Triangle Meshes",
+"annee": 2023,
+"type": "journal",
+"lieu": "Image Processing On Line",
+"url": "https://inria.hal.science/hal-03924042v1",
+"doi": "10.5201/ipol.2023.418"
+},
+{
+"id": "p1b5465a200",
+"titre": "Sharp Feature Consolidation from Raw 3D Point Clouds via Displacement Learning",
+"annee": 2023,
+"type": "journal",
+"lieu": "Computer Aided Geometric Design",
+"url": "https://inria.hal.science/hal-03747150v2",
+"doi": "10.1016/j.cagd.2023.102204"
+},
+{
+"id": "p246b20e808",
+"titre": "Tempered SMC for Sequential Bayesian Optimal Design",
+"annee": 2023,
+"type": "conférence",
+"lieu": "GRETSI 2023 - XXIXème Colloque Francophone de Traitement du Signal et des Images",
+"url": "https://hal.science/hal-04497600v1"
+},
+{
+"id": "pc7a9bd5bdf",
+"titre": "Variational Shape Reconstruction via Quadric Error Metrics",
+"annee": 2023,
+"type": "conférence",
+"lieu": "SIGGRAPH 2023 - The 50th International Conference & Exhibition On Computer Graphics & Interactive Techniques",
+"url": "https://inria.hal.science/hal-04131765v1",
+"doi": "10.1145/3588432.3591529"
+},
+{
+"id": "pd58293ac23",
+"titre": "VoroMesh: Learning Watertight Surface Meshes with Voronoi Diagrams",
+"annee": 2023,
+"type": "conférence",
+"lieu": "ICCV 2023 - International Conference on Computer Vision",
+"url": "https://inria.hal.science/hal-04199011v1"
+},
+{
+"id": "p9e19a056ca",
+"titre": "A kinematic-geometric model based on ankles’ depth trajectory in frontal plane for gait analysis using a single RGB-D camera",
+"annee": 2022,
+"type": "journal",
+"lieu": "Journal of Biomechanics",
+"url": "https://inria.hal.science/hal-03841975v1",
+"doi": "10.1016/j.jbiomech.2022.111358"
+},
+{
+"id": "p9d399fc102",
+"titre": "Alpha Wrapping with an Offset",
+"annee": 2022,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-03688637v1",
+"doi": "10.1145/3528223.3530152"
+},
+{
+"id": "p3ec4758f7e",
+"titre": "ConSLAM: Periodically Collected Real-World Construction Dataset for SLAM and Progress Monitoring",
+"annee": 2022,
+"type": "conférence",
+"lieu": "ECCV 2022 - European Conference on Computer Vision Workshops",
+"url": "https://inria.hal.science/hal-03883866v1",
+"doi": "10.1007/978-3-031-25082-8_21"
+},
+{
+"id": "pc2f6f0b555",
+"titre": "Evocube: a Genetic Labeling Framework for Polycube-Maps",
+"annee": 2022,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-03657779v3",
+"doi": "10.1111/cgf.14649"
+},
+{
+"id": "pca71e9e3f3",
+"titre": "Finding Good Configurations of Planar Primitives in Unorganized Point Clouds",
+"annee": 2022,
+"type": "conférence",
+"lieu": "CVPR 2022 - IEEE Conference on Computer Vision and Pattern Recognition",
+"url": "https://inria.hal.science/hal-03621896v1"
+},
+{
+"id": "p4fd3c837ec",
+"titre": "Frame Fields for CAD models",
+"annee": 2022,
+"type": "journal",
+"lieu": "Lecture Notes in Computer Science",
+"url": "https://inria.hal.science/hal-03537852v1",
+"doi": "10.1007/978-3-030-90436-4_34"
+},
+{
+"id": "pa03fe1c60b",
+"titre": "Repairing geometric errors in 3D urban models with kinetic data structures",
+"annee": 2022,
+"type": "journal",
+"lieu": "ISPRS Journal of Photogrammetry and Remote Sensing",
+"url": "https://inria.hal.science/hal-03767910v1",
+"doi": "10.1016/j.isprsjprs.2022.08.001"
+},
+{
+"id": "p67cb211682",
+"titre": "Robust Quantization for Polycube Maps",
+"annee": 2022,
+"type": "journal",
+"lieu": "Computer-Aided Design",
+"url": "https://hal.science/hal-03076711v1",
+"doi": "10.1016/j.cad.2022.103321"
+},
+{
+"id": "pecf2b31940",
+"titre": "Scanner Neural Network for On-board Segmentation of Satellite Images",
+"annee": 2022,
+"type": "conférence",
+"lieu": "IGARSS 2022 – IEEE International Geoscience and Remote Sensing Symposium",
+"url": "https://inria.hal.science/hal-03664644v1"
+},
+{
+"id": "p9086346f72",
+"titre": "Simplification of 2D Polygonal Partitions via Point‐line Projective Duality, and Application to Urban Reconstruction",
+"annee": 2022,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-03661872v1",
+"doi": "10.1111/cgf.14511"
+},
+{
+"id": "p0e0c05de6e",
+"titre": "Single-Shot End-to-end Road Graph Extraction",
+"annee": 2022,
+"type": "conférence",
+"lieu": "CVPR 2022 – IEEE Conference on Computer Vision and Pattern Recognition EarthVision Workshop",
+"url": "https://inria.hal.science/hal-03664624v1"
+},
+{
+"id": "p8677ca2f9c",
+"titre": "WeCo-SLAM: Wearable Cooperative SLAM System for Real-time Indoor Localization Under Challenging Conditions",
+"annee": 2022,
+"type": "journal",
+"lieu": "IEEE Sensors Journal",
+"url": "https://hal.science/hal-03609471v1",
+"doi": "10.1109/jsen.2021.3101121"
+},
+{
+"id": "pf88cef52be",
+"titre": "An efficient representation of 3D buildings: application to the evaluation of city models",
+"annee": 2021,
+"type": "conférence",
+"lieu": "ISPRS 2021 - XXIVth Congress of the International Society for Photogrammetry and Remote Sensing",
+"url": "https://hal.science/hal-03276198v1",
+"doi": "10.5194/isprs-archives-xliii-b2-2021-329-2021"
+},
+{
+"id": "p8dee5d23fe",
+"titre": "Delaunay Meshing and Repairing of NURBS Models",
+"annee": 2021,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.14362",
+"doi": "10.1111/cgf.14362"
+},
+{
+"id": "pb826fbc1ff",
+"titre": "Floorplan generation from 3D point clouds: A space partitioning approach",
+"annee": 2021,
+"type": "journal",
+"lieu": "ISPRS Journal of Photogrammetry and Remote Sensing",
+"url": "https://inria.hal.science/hal-03387916v1",
+"doi": "10.1016/j.isprsjprs.2021.02.012"
+},
+{
+"id": "p6d610825b3",
+"titre": "Foldover-free maps in 50 lines of code",
+"annee": 2021,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-03127350v2",
+"doi": "10.1145/3450626.3459847"
+},
+{
+"id": "p6c269f5b15",
+"titre": "On Local Invertibility and Quality of Free-boundary Deformations",
+"annee": 2021,
+"type": "conférence",
+"lieu": "IMR 2021 - 29th International Meshing Roundtable",
+"url": "https://hal.science/hal-03341392v1"
+},
+{
+"id": "p07530b50fd",
+"titre": "Planar Shape Based Registration for Multi-modal Geometry",
+"annee": 2021,
+"type": "conférence",
+"lieu": "BMVC 2021 - The British Machine Vision Conference",
+"url": "https://inria.hal.science/hal-03388316v1"
+},
+{
+"id": "p0fd993434d",
+"titre": "Preface: the 2021 edition of the XXIVth ISPRS congress",
+"annee": 2021,
+"type": "conférence",
+"lieu": "XXIVth ISPRS Congress, 2021 edition",
+"url": "https://hal.science/hal-03276194v1",
+"doi": "10.5194/isprs-annals-v-1-2021-1-2021"
+},
+{
+"id": "p091b893c88",
+"titre": "Progressive Discrete Domains for Implicit Surface Reconstruction",
+"annee": 2021,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.14363",
+"doi": "10.1111/cgf.14363"
+},
+{
+"id": "p9504e695c8",
+"titre": "Approximating shapes in images with low-complexity polygons",
+"annee": 2020,
+"type": "conférence",
+"lieu": "CVPR 2020 - IEEE Conference on Computer Vision and Pattern Recognition",
+"url": "https://inria.hal.science/hal-02526028v1",
+"doi": "10.1109/cvpr42600.2020.00866"
+},
+{
+"id": "p1b55301368",
+"titre": "Champs de repères pour les modèles CAO",
+"annee": 2020,
+"type": "conférence",
+"lieu": "Journées Françaises d'Informatique Graphique (JFIG2020)",
+"url": "https://inria.hal.science/hal-02992612v1"
+},
+{
+"id": "p7fbeed56a2",
+"titre": "ColorMapGAN: Unsupervised Domain Adaptation for Semantic Segmentation Using Color Mapping Generative Adversarial Networks",
+"annee": 2020,
+"type": "journal",
+"lieu": "IEEE Transactions on Geoscience and Remote Sensing",
+"url": "https://inria.hal.science/hal-02382155v1"
+},
+{
+"id": "p24685804a9",
+"titre": "Connect-and-Slice: an hybrid approach for reconstructing 3D objects",
+"annee": 2020,
+"type": "conférence",
+"lieu": "CVPR 2020 - IEEE Conference on Computer Vision and Pattern Recognition",
+"url": "https://inria.hal.science/hal-02541349v1"
+},
+{
+"id": "p50fdfdcb5d",
+"titre": "DAugNet: Unsupervised, Multisource, Multitarget, and Life-Long Domain Adaptation for Semantic Segmentation of Satellite Images",
+"annee": 2020,
+"type": "journal",
+"lieu": "IEEE Transactions on Geoscience and Remote Sensing",
+"url": "https://doi.org/10.1109/tgrs.2020.3006161",
+"doi": "10.1109/tgrs.2020.3006161"
+},
+{
+"id": "pbde15e38c4",
+"titre": "Extracting Geometric Structures in Images with Delaunay Point Processes",
+"annee": 2020,
+"type": "journal",
+"lieu": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+"url": "https://inria.hal.science/hal-01950791v1",
+"doi": "10.1109/tpami.2018.2890586"
+},
+{
+"id": "p64c2573a29",
+"titre": "Indoor Localization and Mapping: Towards Tracking Resilience Through a Multi-SLAM Approach",
+"annee": 2020,
+"type": "conférence",
+"lieu": "MED 2020 - 28th Mediterranean Conference on Control and Automation",
+"url": "https://inria.hal.science/hal-02611679v1"
+},
+{
+"id": "pb0ff284127",
+"titre": "Kinetic Shape Reconstruction",
+"annee": 2020,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-02924409v1"
+},
+{
+"id": "p1f16c27077",
+"titre": "Preface: the 2020 edition of the XXIVth ISPRS congress",
+"annee": 2020,
+"type": "conférence",
+"lieu": "ISPRS 2020 - XXIVth edition of the International Society for Photogrammetry and Remote Sensing",
+"url": "https://inria.hal.science/hal-02948164v1",
+"doi": "10.5194/isprs-annals-v-1-2020-1-2020"
+},
+{
+"id": "pdb911688e0",
+"titre": "Progressive Geometric View Factors for Radiative Thermal Simulation",
+"annee": 2020,
+"type": "conférence",
+"lieu": "ICES 2020 - 50th International Conference on Environmental Systems",
+"url": "https://inria.hal.science/hal-02909847v2"
+},
+{
+"id": "p9f99dd7e5a",
+"titre": "A learning approach to evaluate the quality of 3D city models",
+"annee": 2019,
+"type": "journal",
+"lieu": "Photogrammetric engineering and remote sensing",
+"url": "https://hal.science/hal-02193116v2",
+"doi": "10.14358/pers.85.12.865"
+},
+{
+"id": "p8fe3615a3b",
+"titre": "Attributing and Referencing (Research) Software: Best Practices and Outlook from Inria",
+"annee": 2019,
+"type": "journal",
+"lieu": "Computing in Science and Engineering",
+"url": "https://hal.science/hal-02135891v2",
+"doi": "10.1109/mcse.2019.2949413"
+},
+{
+"id": "p025f9eb4ea",
+"titre": "City Reconstruction from Airborne Lidar: A Computational Geometry Approach",
+"annee": 2019,
+"type": "conférence",
+"lieu": "3D GeoInfo 2019 - 14thConference 3D GeoInfo",
+"url": "https://inria.hal.science/hal-02295768v1"
+},
+{
+"id": "pb1e1dd6be7",
+"titre": "Continual Learning for Dense Labeling of Satellite Images",
+"annee": 2019,
+"type": "conférence",
+"lieu": "IGARSS 2019 - IEEE International Geoscience and Remote Sensing Symposium",
+"url": "https://inria.hal.science/hal-02276543v1"
+},
+{
+"id": "p47b5a4d1be",
+"titre": "Cost-driven framework for progressive compression of textured meshes",
+"annee": 2019,
+"type": "conférence",
+"lieu": "ACM 2019 - 10th Multimedia Systems Conference",
+"url": "https://inria.hal.science/hal-02273929v1",
+"doi": "10.1145/3304109.3306225"
+},
+{
+"id": "pb60cdb6ec4",
+"titre": "First steps of numerical simulation using Artificial Intelligence",
+"annee": 2019,
+"type": "conférence",
+"lieu": "European Space Thermal Engineering Workshop 2019",
+"url": "https://inria.hal.science/hal-02367540v1"
+},
+{
+"id": "p5bf775b607",
+"titre": "Incremental Learning for Semantic Segmentation of Large-Scale Remote Sensing Data",
+"annee": 2019,
+"type": "journal",
+"lieu": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+"url": "https://inria.hal.science/hal-01909830v2",
+"doi": "10.1109/jstars.2019.2925416"
+},
+{
+"id": "p6817f88e1c",
+"titre": "Low-power neural networks for semantic segmentation of satellite images",
+"annee": 2019,
+"type": "conférence",
+"lieu": "ICCV Workshop on Low-Power Computer Vision",
+"url": "https://inria.hal.science/hal-02277061v1"
+},
+{
+"id": "p804b6c1013",
+"titre": "Pyramid Scene Parsing Network in 3D: improving semantic segmentation of point clouds with multi-scale contextual information",
+"annee": 2019,
+"type": "journal",
+"lieu": "ISPRS Journal of Photogrammetry and Remote Sensing",
+"url": "https://inria.hal.science/hal-02159279v1"
+},
+{
+"id": "p5dd09463e4",
+"titre": "Scalable Evaluation of 3D City Models",
+"annee": 2019,
+"type": "conférence",
+"lieu": "IGARSS 2019 - IEEE International Geoscience and Remote Sensing Symposium",
+"url": "https://inria.hal.science/hal-02165557v1",
+"doi": "10.1109/igarss.2019.8899337"
+},
+{
+"id": "pb7a7655deb",
+"titre": "Selective Padding for Polycube-Based Hexahedral Meshing",
+"annee": 2019,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-01970790v1",
+"doi": "10.1111/cgf.13593"
+},
+{
+"id": "p401744af76",
+"titre": "The necessary yet complex evaluation of 3D city models: a semantic approach",
+"annee": 2019,
+"type": "conférence",
+"lieu": "JURSE 2019 - Joint Urban Remote Sensing Event",
+"url": "https://inria.hal.science/hal-02165562v2",
+"doi": "10.1109/jurse.2019.8809002"
+},
+{
+"id": "pf6e0d9bd78",
+"titre": "Curved Optimal Delaunay Triangulation",
+"annee": 2018,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-01826055v1",
+"doi": "10.1145/3197517.3201358"
+},
+{
+"id": "p09165cce7d",
+"titre": "KIPPI: KInetic Polygonal Partitioning of Images",
+"annee": 2018,
+"type": "conférence",
+"lieu": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+"url": "https://inria.hal.science/hal-01740958v2"
+},
+{
+"id": "p067104e6ec",
+"titre": "Planar Shape Detection at Structural Scales",
+"annee": 2018,
+"type": "conférence",
+"lieu": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+"url": "https://inria.hal.science/hal-01741650v1"
+},
+{
+"id": "padf5e0d4de",
+"titre": "Polygonization of binary classification maps using mesh approximation with right angle regularity",
+"annee": 2018,
+"type": "conférence",
+"lieu": "IEEE International Geoscience and Remote Sensing Symposium - IGARSS 2018",
+"url": "https://inria.hal.science/hal-01765155v1"
+},
+{
+"id": "p53d10b3b26",
+"titre": "Qualification sémantique de modèles 3D de bâtiments",
+"annee": 2018,
+"type": "conférence",
+"lieu": "Conférence Française de Photogrammétrie et de Télédétection",
+"url": "https://hal.science/hal-02172189v1"
+},
+{
+"id": "p9a12c7c71a",
+"titre": "Semantic evaluation of building 3D models.",
+"annee": 2018,
+"type": "conférence",
+"lieu": "Extraction d'attributs et apprentissage pour l'analyse des images de télédétection",
+"url": "https://hal.science/hal-02180196v1"
+},
+{
+"id": "p30c748be57",
+"titre": "Can Semantic Labeling Methods Generalize to Any City? The Inria Aerial Image Labeling Benchmark",
+"annee": 2017,
+"type": "conférence",
+"lieu": "IEEE International Symposium on Geoscience and Remote Sensing (IGARSS)",
+"url": "https://inria.hal.science/hal-01468452v1",
+"doi": "10.1109/igarss.2017.8127684"
+},
+{
+"id": "pad63e940cc",
+"titre": "Convolutional Neural Networks for Large-Scale Remote Sensing Image Classification",
+"annee": 2017,
+"type": "journal",
+"lieu": "IEEE Transactions on Geoscience and Remote Sensing",
+"url": "https://inria.hal.science/hal-01369906v1",
+"doi": "10.1109/tgrs.2016.2612821"
+},
+{
+"id": "p757611afed",
+"titre": "Error-Bounded and Feature Preserving Surface Remeshing with Minimal Angle Improvement",
+"annee": 2017,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-01549584v1",
+"doi": "10.1109/tvcg.2016.2632720"
+},
+{
+"id": "p7d67e015ec",
+"titre": "Evidence for a higher resolution of HLA genotyping by a new NGS-based approach.",
+"annee": 2017,
+"type": "journal",
+"lieu": "Transfusion Clinique et Biologique",
+"url": "https://hal.science/hal-01581101v1",
+"doi": "10.1016/j.tracli.2017.05.011"
+},
+{
+"id": "p067b7a2aec",
+"titre": "Forest point processes for the automatic extraction of networks in raster data",
+"annee": 2017,
+"type": "journal",
+"lieu": "ISPRS Journal of Photogrammetry and Remote Sensing",
+"url": "https://inria.hal.science/hal-01469514v1",
+"doi": "10.1016/j.isprsjprs.2017.01.012"
+},
+{
+"id": "pb6e79eddef",
+"titre": "High-Resolution Semantic Labeling with Convolutional Neural Networks",
+"annee": 2017,
+"type": "journal",
+"lieu": "IEEE Transactions on Geoscience and Remote Sensing",
+"url": "https://inria.hal.science/hal-01393279v1",
+"doi": "10.1109/tgrs.2017.2740362"
+},
+{
+"id": "pcca64c6766",
+"titre": "High-resolution image classification with convolutional networks",
+"annee": 2017,
+"type": "conférence",
+"lieu": "IEEE International Geoscience and Remote Sensing Symposium - IGARSS 2017",
+"url": "https://hal.science/hal-01660754v1"
+},
+{
+"id": "p60f03ff4b3",
+"titre": "Photo2ClipArt: Image Abstraction and Vectorization Using Layered Linear Gradients",
+"annee": 2017,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-01581981v1"
+},
+{
+"id": "pcd2eace131",
+"titre": "Photo2clipart",
+"annee": 2017,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://doi.org/10.1145/3130800.3130888",
+"doi": "10.1145/3130800.3130888"
+},
+{
+"id": "p924e3bec16",
+"titre": "Polygonization of Remote Sensing Classification Maps by Mesh Approximation",
+"annee": 2017,
+"type": "conférence",
+"lieu": "ICIP 2017 - IEEE International Conference on Image Processing",
+"url": "https://inria.hal.science/hal-01530460v1",
+"doi": "10.1109/icip.2017.8296343"
+},
+{
+"id": "p4864df3644",
+"titre": "Recurrent Neural Networks to Correct Satellite Image Classification Maps",
+"annee": 2017,
+"type": "journal",
+"lieu": "IEEE Transactions on Geoscience and Remote Sensing",
+"url": "https://hal.science/hal-01660764v1",
+"doi": "10.1109/tgrs.2017.2697453"
+},
+{
+"id": "pc270af8ed5",
+"titre": "Semantic Segmentation of 3D Textured Meshes for Urban Scene Analysis",
+"annee": 2017,
+"type": "journal",
+"lieu": "ISPRS Journal of Photogrammetry and Remote Sensing",
+"url": "https://inria.hal.science/hal-01469502v1",
+"doi": "10.1016/j.isprsjprs.2016.12.001"
+},
+{
+"id": "ped9103fcc2",
+"titre": "Variance-Minimizing Transport Plans for Inter-surface Mapping",
+"annee": 2017,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-01519006v1",
+"doi": "10.1145/3072959.3073671"
+},
+{
+"id": "p88acca70a4",
+"titre": "A Line/Trimmed NURBS Surface Intersection Algorithm Using Matrix Representations",
+"annee": 2016,
+"type": "journal",
+"lieu": "Computer Aided Geometric Design",
+"url": "https://inria.hal.science/hal-01268109v2",
+"doi": "10.1016/j.cagd.2016.07.002"
+},
+{
+"id": "pf0f297a689",
+"titre": "A Survey of Surface Reconstruction from Point Clouds",
+"annee": 2016,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-01348404v2",
+"doi": "10.1111/cgf.12802"
+},
+{
+"id": "p539fe68c5d",
+"titre": "CGAL",
+"annee": 2016,
+"type": "conférence",
+"lieu": "ACM SIGGRAPH 2016 Courses",
+"url": "https://inria.hal.science/hal-01826062v1",
+"doi": "10.1145/2897826.2927362"
+},
+{
+"id": "p06b5bb3dc2",
+"titre": "Fidelity vs. Simplicity: a Global Approach to Line Drawing Vectorization",
+"annee": 2016,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-01309271v1",
+"doi": "10.1145/2897824.2925946"
+},
+{
+"id": "p48daa2ea64",
+"titre": "Fully Convolutional Neural Networks For Remote Sensing Image Classification",
+"annee": 2016,
+"type": "conférence",
+"lieu": "IEEE International Geoscience and Remote Sensing Symposium",
+"url": "https://inria.hal.science/hal-01350706v1"
+},
+{
+"id": "pfae0a9f7ce",
+"titre": "Object classification via planar abstraction",
+"annee": 2016,
+"type": "conférence",
+"lieu": "ISPRS congress",
+"url": "https://inria.hal.science/hal-01318637v1"
+},
+{
+"id": "p81a5b23404",
+"titre": "Optimal Voronoi Tessellations with Hessian-based Anisotropy",
+"annee": 2016,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-01376243v1"
+},
+{
+"id": "pe10c5e4db6",
+"titre": "Symmetry and Orbit Detection via Lie-Algebra Voting",
+"annee": 2016,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-01344293v1"
+},
+{
+"id": "p7a16d244dc",
+"titre": "Towards large-scale city reconstruction from satellites",
+"annee": 2016,
+"type": "conférence",
+"lieu": "European Conference on Computer Vision (ECCV)",
+"url": "https://inria.hal.science/hal-01352466v1"
+},
+{
+"id": "pd1221fb85d",
+"titre": "A Surface Reconstruction Method for In-Detail Underwater 3D Optical Mapping",
+"annee": 2015,
+"type": "journal",
+"lieu": "The International Journal of Robotics Research",
+"url": "https://inria.hal.science/hal-01030845v1",
+"doi": "10.1177/0278364914544531"
+},
+{
+"id": "p61ec9e283c",
+"titre": "Anti-Cropping Blind Resynchronization for 3D Watermarking",
+"annee": 2015,
+"type": "conférence",
+"lieu": "IEEE International Conference on Acoustic, Speech Signal Processing (ICASSP)",
+"url": "https://inria.hal.science/hal-01111196v1"
+},
+{
+"id": "pb90fe4099a",
+"titre": "CGALmesh: a Generic Framework for Delaunay Mesh Generation",
+"annee": 2015,
+"type": "journal",
+"lieu": "ACM Transactions on Mathematical Software",
+"url": "https://inria.hal.science/hal-01071759v1",
+"doi": "10.1145/2699463"
+},
+{
+"id": "pbf3b495b05",
+"titre": "Image partitioning into convex polygons",
+"annee": 2015,
+"type": "conférence",
+"lieu": "IEEE conference on Computer Vision and Pattern Recognition (CVPR)",
+"url": "https://inria.hal.science/hal-01140320v1"
+},
+{
+"id": "pcd2234cb68",
+"titre": "Isotopic Approximation within a Tolerance Volume",
+"annee": 2015,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-01186074v2",
+"doi": "10.1145/2766950"
+},
+{
+"id": "pa3bcbbc60a",
+"titre": "LOD Generation for Urban Scenes",
+"annee": 2015,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-01113078v1"
+},
+{
+"id": "p20208a63db",
+"titre": "Line Drawing Interpretation in a Multi-View Context",
+"annee": 2015,
+"type": "conférence",
+"lieu": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+"url": "https://inria.hal.science/hal-01140741v1"
+},
+{
+"id": "pb31d001f66",
+"titre": "Planar Shape Detection and Regularization in Tandem",
+"annee": 2015,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-01168394v1"
+},
+{
+"id": "p8d080de09d",
+"titre": "Some new research directions to explore in urban reconstruction",
+"annee": 2015,
+"type": "conférence",
+"lieu": "Joint Urban Remote Sensing Event (JURSE)",
+"url": "https://inria.hal.science/hal-01112503v1"
+},
+{
+"id": "p7376c2b626",
+"titre": "Structure-Aware Mesh Decimation",
+"annee": 2015,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-01111203v1"
+},
+{
+"id": "pe2ae822551",
+"titre": "Detecting parametric objects in large scenes by Monte Carlo sampling",
+"annee": 2014,
+"type": "journal",
+"lieu": "International Journal of Computer Vision",
+"url": "https://inria.hal.science/hal-00843022v1",
+"doi": "10.1007/s11263-013-0641-0"
+},
+{
+"id": "pa228161b41",
+"titre": "Geometric Modeling and Processing 2014. Special issue of Graphical Models.",
+"annee": 2014,
+"type": "ouvrage",
+"lieu": "",
+"url": "https://inria.hal.science/hal-01059390v1"
+},
+{
+"id": "pd12c07670f",
+"titre": "Indoor Scene Reconstruction using Feature Sensitive Primitive Extraction and Graph-cut",
+"annee": 2014,
+"type": "journal",
+"lieu": "ISPRS Journal of Photogrammetry and Remote Sensing",
+"url": "https://inria.hal.science/hal-00980804v1",
+"doi": "10.1016/j.isprsjprs.2014.02.004"
+},
+{
+"id": "pfde7b580a0",
+"titre": "Robust Shape Reconstruction and Optimal Transportation",
+"annee": 2014,
+"type": "conférence",
+"lieu": "Courbure discrète : théorie et applications",
+"url": "https://inria.hal.science/hal-01090630v2"
+},
+{
+"id": "p1f9a91114e",
+"titre": "Spread Transform and Roughness-based Shaping to Improve 3D Watermarking based on Quadratic Programming",
+"annee": 2014,
+"type": "conférence",
+"lieu": "International Conference on Image Processing",
+"url": "https://inria.hal.science/hal-01026353v1"
+},
+{
+"id": "p998f71805c",
+"titre": "State of the Art in Surface Reconstruction from Point Clouds",
+"annee": 2014,
+"type": "conférence",
+"lieu": "Eurographics 2014 - State of the Art Reports",
+"url": "https://inria.hal.science/hal-01017700v1",
+"doi": "10.2312/egst.20141040"
+},
+{
+"id": "p475d99337a",
+"titre": "Triangle Surface Mesh Watermarking based on a Constrained Optimization Framework",
+"annee": 2014,
+"type": "journal",
+"lieu": "IEEE Transactions on Information Forensics and Security",
+"url": "https://inria.hal.science/hal-01026356v1"
+},
+{
+"id": "p8f73d820bb",
+"titre": "Zometool Shape Approximation",
+"annee": 2014,
+"type": "conférence",
+"lieu": "Geometric Modeling and Processing",
+"url": "https://inria.hal.science/hal-00995875v2"
+},
+{
+"id": "p9f0b85f55d",
+"titre": "A hybrid multi-view stereo algorithm for modeling urban scenes",
+"annee": 2013,
+"type": "journal",
+"lieu": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+"url": "https://inria.hal.science/hal-00759261v1",
+"doi": "10.1109/tpami.2012.84"
+},
+{
+"id": "pb6508e7d69",
+"titre": "Feature-Preserving Surface Reconstruction and Simplification from Defect-Laden Point Sets",
+"annee": 2013,
+"type": "journal",
+"lieu": "Journal of Mathematical Imaging and Vision",
+"url": "https://inria.hal.science/hal-00827623v1",
+"doi": "10.1007/s10851-013-0414-y"
+},
+{
+"id": "paccfa0b02c",
+"titre": "Indoor Scene Reconstruction using Primitive-driven Space Partitioning and Graph-cut",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Eurographics Workshop on Urban Data Modelling and Visualisation",
+"url": "https://inria.hal.science/hal-00814546v2"
+},
+{
+"id": "p5a7f1a4d5e",
+"titre": "Integer-Grid Maps for Reliable Quad Meshing",
+"annee": 2013,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-00862648v1"
+},
+{
+"id": "pde7eaf78ff",
+"titre": "Noise-Adaptive Shape Reconstruction from Raw Point Sets",
+"annee": 2013,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-00844472v1",
+"doi": "10.1111/cgf.12189"
+},
+{
+"id": "pf6b1278a71",
+"titre": "On the Equilibrium of Simplicial Masonry Structures",
+"annee": 2013,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-00826280v1"
+},
+{
+"id": "p39f106aec2",
+"titre": "Recovering Line-networks in Images by Junction-Point Processes",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Computer Vision and Pattern Recognition (CVPR)",
+"url": "https://inria.hal.science/hal-00814262v1"
+},
+{
+"id": "p7d72ff175e",
+"titre": "Robust diameter-based thickness estimation of 3D objects",
+"annee": 2013,
+"type": "journal",
+"lieu": "Graphical Models",
+"url": "https://inria.hal.science/hal-00863689v1",
+"doi": "10.1016/j.gmod.2013.06.001"
+},
+{
+"id": "p18c46352dc",
+"titre": "Simulation and Optimization",
+"annee": 2013,
+"type": "chapitre",
+"lieu": "Wiley eBooks",
+"url": "https://doi.org/10.1002/9781118601235.ch4",
+"doi": "10.1002/9781118601235.ch4"
+},
+{
+"id": "p408d029e72",
+"titre": "Splat-based Surface Reconstruction from Defect-Laden Point Sets",
+"annee": 2013,
+"type": "journal",
+"lieu": "Graphical Models",
+"url": "https://inria.hal.science/hal-00863316v1",
+"doi": "10.1016/j.gmod.2013.08.001"
+},
+{
+"id": "p8d7f470afb",
+"titre": "Structure Extraction",
+"annee": 2013,
+"type": "chapitre",
+"lieu": "Wiley eBooks",
+"url": "https://doi.org/10.1002/9781118601235.ch8",
+"doi": "10.1002/9781118601235.ch8"
+},
+{
+"id": "pa499825095",
+"titre": "Surface Reconstruction through Point Set Structuring",
+"annee": 2013,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-00822763v1"
+},
+{
+"id": "pc071e43897",
+"titre": "Transport optimal pour la reconstruction robuste de formes à partir de nuages de points",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Journées du Groupe de Travail en Modélisation Géométrique",
+"url": "https://hal.science/hal-01339238v1"
+},
+{
+"id": "pda2984f51a",
+"titre": "Anisotropic Rectangular Metric for Polygonal Surface Remeshing",
+"annee": 2012,
+"type": "conférence",
+"lieu": "International Meshing Roundtable",
+"url": "https://inria.hal.science/hal-00758023v1"
+},
+{
+"id": "pdb0d7199d1",
+"titre": "Creating large-scale city models from 3D-point clouds: a robust approach with hybrid representation",
+"annee": 2012,
+"type": "journal",
+"lieu": "International Journal of Computer Vision",
+"url": "https://inria.hal.science/hal-00759265v1"
+},
+{
+"id": "p0999fbee4b",
+"titre": "Efficient Monte Carlo sampler for detecting parametric objects in large scenes",
+"annee": 2012,
+"type": "conférence",
+"lieu": "ECCV 2012",
+"url": "https://inria.hal.science/hal-00742770v1",
+"doi": "10.1007/978-3-642-33712-3_39"
+},
+{
+"id": "p1c569d7b42",
+"titre": "Progressive compression of manifold polygon meshes",
+"annee": 2012,
+"type": "conférence",
+"lieu": "Shape Modeling International (SMI) Conference 2012",
+"url": "https://hal.science/hal-00824613v1"
+},
+{
+"id": "pe39be35477",
+"titre": "An Optimal Transport Approach to Robust Reconstruction and Simplification of 2D Shapes",
+"annee": 2011,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-00758019v1"
+},
+{
+"id": "paaa60d7df5",
+"titre": "Applications de la géometrie stochastique à l'analyse d'images",
+"annee": 2011,
+"type": "ouvrage",
+"lieu": "",
+"url": "https://inria.hal.science/hal-00793674v1"
+},
+{
+"id": "pd24acc5874",
+"titre": "Building large urban environments from unstructured point data",
+"annee": 2011,
+"type": "conférence",
+"lieu": "ICCV",
+"url": "https://inria.hal.science/hal-00759269v1"
+},
+{
+"id": "pc5e357d55c",
+"titre": "Generating compact meshes under planar constraints: an automatic approach for modeling buildings from aerial LiDAR",
+"annee": 2011,
+"type": "conférence",
+"lieu": "IEEE International Conference on Image Processing",
+"url": "https://inria.hal.science/inria-00605623v1"
+},
+{
+"id": "p4e58629117",
+"titre": "Isotropic 2D Quadrangle Meshing with Size and Orientation Control",
+"annee": 2011,
+"type": "conférence",
+"lieu": "20th International Meshing Roundtable",
+"url": "https://hal.science/hal-00708283v1",
+"doi": "10.1007/978-3-642-24734-7"
+},
+{
+"id": "pce2fc445c1",
+"titre": "Some applications to image processing: pattern recognition",
+"annee": 2011,
+"type": "chapitre",
+"lieu": "Stochastic geometry for image analysis",
+"url": "https://hal.science/hal-02384746v1",
+"doi": "10.1002/9781118601235.ch9"
+}
+]
+}

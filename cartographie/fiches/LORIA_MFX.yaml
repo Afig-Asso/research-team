@@ -1,0 +1,70 @@
+equipe: LORIA/MFX
+domaines:
+  principaux:
+  - fabrication
+  - modelisation
+  secondaires:
+  - rendu
+  - images
+themes:
+- id: impression_3d
+  phrase: Trajectoires d'impression non planes et multi-axes, courbes de remplissage alignées sur des champs et estimation
+    du temps d'impression ; microstructures et matériaux cellulaires procéduraux à propriétés mécaniques contrôlées et gradées.
+  preuves:
+  - pad75a3c502
+  - p6320853d44
+  - p1b49127d1a
+  - p74a883e831
+- id: conception_inverse
+  phrase: Conception d'objets auto-déformants, de circuits pliables et de motifs imprimés qui masquent leur structure mécanique.
+  preuves:
+  - pba637650cf
+  - p94282d4047
+  - p37fee934a0
+- id: surfaces_implicites
+  phrase: Rendu, tracé de rayons et découpe de volumes implicites à base de primitives par arithmétique d'intervalles.
+  preuves:
+  - p20523ebef3
+  - pdbc240fc98
+  - p3a36eac5a1
+- id: synthese_textures
+  phrase: Bruits procéduraux (curl, phasor) et synthèse de textures par réseaux de diffusion.
+  preuves:
+  - pacc12da3a0
+  - p57b9d40e47
+  - p7505f01496
+- id: materiaux_brdf
+  phrase: BRDF procédurales et échantillonnage d'importance pour le rendu temps réel de reflets scintillants.
+  preuves:
+  - pa5472157f8
+  - pff02cb97ea
+  - p99689f34e2
+applications:
+- id: fabrication_additive
+  preuves:
+  - pad75a3c502
+  - p9147235640
+  - p61bf791a64
+- id: jeu_video
+  preuves:
+  - pff02cb97ea
+  - p7505f01496
+  - p99689f34e2
+- id: robotique
+  preuves:
+  - p9198c7fcc2
+- id: environnement
+  preuves:
+  - pdffd1fb71b
+publications_representatives:
+- pad75a3c502
+- p37fee934a0
+- pba637650cf
+- p20523ebef3
+- pacc12da3a0
+synthese: 'Algorithmes pour la fabrication additive : préparation à l''impression 3D, microstructures et métamatériaux, conception
+  inverse.'
+pour_etudiants: On écrit les algorithmes qui transforment un modèle 3D en objet imprimé, avec des matériaux et des formes
+  qu'on ne pourrait pas fabriquer autrement.
+pour_entreprises: Optimisation de l'impression 3D (trajectoires, supports, multi-axes), conception de pièces à propriétés
+  mécaniques sur mesure, capteurs imprimés.

@@ -1,0 +1,1672 @@
+# Mots-clés par thème et par secteur (cartographie IG, 2026-11-07)
+# Expressions régulières appliquées au titre et au résumé normalisés : minuscules, sans accents,
+# ponctuation remplacée par des espaces (« physically-based » -> « physically based »).
+# Un mot-clé trouvé dans le TITRE compte comme mention explicite ; dans le résumé seul, comme mention implicite.
+# Utilisé par scripts/carto_scores.py. Pour ajouter un terme : une ligne de plus sous l'identifiant.
+
+themes:
+  rendu_temps_reel:
+    - real ?time render
+    - rendu (en )?temps reel
+    - \brasteri[sz]ation
+    - level of detail
+    - niveaux? de detail
+    - shadow maps?
+    - \bshadows?\b
+    - ombres?
+    - deferred shading
+    - screen space
+    - \bgpu ray tracing
+    - interactive rendering
+    - real ?time (global illumination|shading|ray tracing)
+  rendu_physique:
+    - physically based render
+    - monte ?carlo
+    - path trac
+    - rendu physique(ment)? (realiste|base)
+    - spectral render
+    - unbiased
+    - photorealistic
+    - photorealist
+    - global illumination
+    - illumination globale
+    - light transport
+    - transport (de la )?lumi
+    - radiosity
+    - radiosite
+    - indirect (illumination|lighting)
+    - photon mapping
+    - many lights?
+    - \bcaustics?
+    - irradiance cach
+    - virtual point lights?
+  milieux_participants:
+    - participating media
+    - milieux? participants?
+    - volumetric (scattering|rendering|path)
+    - subsurface scattering
+    - multiple scattering
+    - diffusion multiple
+    - \bfog\b
+    - \bclouds? render
+    - translucen
+    - \bsmoke render
+  materiaux_brdf:
+    - \bbrdfs?\b
+    - \bbtfs?\b
+    - \bbsdfs?\b
+    - \bsvbrdf
+    - microfacet
+    - reflectance
+    - appearance model
+    - modele d apparence
+    - materials? (model|appearance|editing|rendering)
+    - \bmateriaux\b
+    - \bsheen
+    - glossy
+    - \bgloss\b
+    - iridescen
+    - specular
+    - \bfabric appearance
+  acquisition_apparence:
+    - appearance (capture|acquisition|measurement)
+    - acquisition (de l )?apparence
+    - reflectance (capture|acquisition|measurement)
+    - measured (brdf|materials?|reflectance)
+    - gonioreflectometer
+    - goniophotometer
+    - material (capture|acquisition|estimation)
+    - svbrdf (capture|estimation|acquisition)
+    - photometric stereo
+    - stereo photometrique
+  rendu_expressif:
+    - non ?photorealistic
+    - \bnpr\b
+    - expressive rendering
+    - rendu expressif
+    - styli[sz]ation
+    - styli[sz]ed render
+    - painterly
+    - line drawing
+    - \bhatching
+    - \bwatercolor
+    - aquarelle
+    - toon shading
+    - cel shading
+    - \bstroke based
+  rendu_neuronal:
+    - neural render
+    - rendu neuronal
+    - radiance fields?
+    - champs? de radiance
+    - \bnerfs?\b
+    - gaussian splat
+    - \b3d ?gaussians?\b
+    - 3dgs
+    - novel view synthesis
+    - synthese de (nouvelles )?vues
+    - neural (texture|scene representation|implicit)
+    - image based render
+    - rendu a base d images
+    - light fields?
+    - champs? de lumiere
+    - view interpolation
+    - free viewpoint
+    - lumigraph
+    - multi ?view render
+  echantillonnage:
+    - \bsampling\b
+    - echantillonnage
+    - blue noise
+    - bruit bleu
+    - quasi ?monte ?carlo
+    - low ?discrepancy
+    - numerical integration
+    - integration numerique
+    - importance sampling
+    - \bsamples?\b
+    - poisson disk
+    - stratifi
+  gpu_volumes:
+    - \bgpus?\b
+    - \bcuda\b
+    - out ?of ?core
+    - large (scale )?(volume|data|dataset|scene|model)s?
+    - massive (data|models?|point)
+    - volume render
+    - rendu volumique
+    - parallel (render|algorithm|comput)
+    - many ?core
+    - \bvoxels?\b
+    - sparse voxel
+  surfaces_courbes:
+    - bezier
+    - b ?splines?
+    - \bnurbs\b
+    - subdivision surface
+    - surfaces? de subdivision
+    - subdivision schemes?
+    - spline surfaces?
+    - \bsplines?\b
+    - parametric (curves?|surfaces?)
+    - courbes? (et|parametr)
+    - free ?form (curves?|surfaces?)
+    - \bcurves?\b
+    - \bcourbes?\b
+    - blossom
+    - \bcoons\b
+  surfaces_implicites:
+    - implicit surface
+    - surfaces? implicites?
+    - signed distance
+    - distance (fields?|functions?)
+    - champs? de distance
+    - \bsdfs?\b
+    - \bblob
+    - convolution surface
+    - implicit (model|modeling|skinning|representation)
+    - level sets?
+    - \bhrbf
+    - \bcsg\b
+  modelisation_procedurale:
+    - procedural
+    - procedurale?s?
+    - grammars?
+    - grammaires?
+    - l ?systems?
+    - rule based model
+    - inverse procedural
+    - generative model(l)?ing
+  sketching:
+    - sketch
+    - esquisse
+    - croquis
+    - \bdrawing interface
+    - authoring
+    - creative tools?
+    - outils? de creation
+    - interactive (model(l)?ing|design|editing)
+    - modelisation interactive
+    - user interface for model
+  terrains_nature:
+    - terrains?
+    - landscapes?
+    - paysages?
+    - \berosion
+    - vegetation
+    - \btrees?\b
+    - \barbres?\b
+    - \bplants?\b
+    - \bforests?\b
+    - foret
+    - natural phenomen
+    - phenomenes? naturels?
+    - \bclouds?\b
+    - nuages? (atmospheri|realiste|nature)
+    - \bsnow\b
+    - \bneige\b
+    - \bglaciers?
+    - \bvolcan
+    - \brivers?\b
+    - \bocean
+    - \bwaves?\b
+    - \bplanets?\b
+    - \bsky\b
+    - \bciel\b
+    - \brocks?\b
+    - \bdunes?\b
+    - \bcanyon
+    - \bmountains?\b
+  modeles_topologiques:
+    - combinatorial maps?
+    - cartes? combinatoires?
+    - generalized maps?
+    - \bg ?maps?\b
+    - topological model
+    - modeles? topologiques?
+    - \bcgogn
+    - cell complex
+    - complexes? cellulaires?
+    - \bdarts?\b
+    - jerboa
+  contraintes_geometriques:
+    - geometric constraints?
+    - contraintes? geometriques?
+    - constraint solving
+    - resolution de contraintes
+    - \bcad\b
+    - \bcao\b
+    - computer aided design
+    - conception assistee
+    - parametric (model|design)
+    - feature based
+    - \bb ?rep\b
+    - boundary representation
+  algebre_geometrique:
+    - geometric algebra
+    - algebre geometrique
+    - clifford
+    - conformal geometric
+    - fractals?
+    - \bifs\b
+    - iterated function system
+    - self ?similar
+    - autosimilar
+  maillages:
+    - \bmesh(es|ing)?\b
+    - maillages?
+    - remesh
+    - remaillage
+    - triangulations?
+    - tetrahedral
+    - tetraedr
+    - mesh (generation|optimization|quality|simplification|repair|decimation)
+    - simplification
+    - polygonal
+    - polygon (soup|mesh)
+    - quad (mesh|dominant)
+    - isotropic
+  maillages_hexa:
+    - hex(ahedral)? mesh
+    - hexa(edr|hedr)
+    - hex ?dominant
+    - parameteri[sz]ation
+    - parametrisation
+    - parametrization
+    - seamless
+    - quad(rangul| ?mesh)
+    - cross ?fields?
+    - frame fields?
+    - polycube
+    - global parametri
+    - uv (map|unwrap)
+  nuages_points:
+    - point clouds?
+    - nuages? de points
+    - point sets?
+    - point based
+    - lidar
+    - \bscans?\b
+    - scanner
+    - denois(e|ing) point
+    - normal estimation
+  correspondances:
+    - correspondences?
+    - correspondance
+    - shape matching
+    - functional maps?
+    - cartes fonctionnelles
+    - shape analysis
+    - analyse de formes?
+    - shape retrieval
+    - shape descriptor
+    - registration
+    - recalage
+    - non ?rigid (registration|matching|alignment)
+    - shape (comparison|similarity|collection|space)
+    - isometr
+    - spectral (shape|geometry|analysis)
+    - laplace beltrami
+    - laplacian eigen
+  squelettes:
+    - skeletons?
+    - squelettes?
+    - medial axis
+    - axe median
+    - skeletali[sz]
+    - shape descriptors?
+    - descripteurs? de forme
+    - curve skeleton
+    - reeb graph
+    - medial (representation|structure)
+    - \bsegmentation\b
+  geometrie_discrete:
+    - discrete geometry
+    - geometrie discrete
+    - digital geometry
+    - geometrie digitale
+    - discrete (differential|exterior|curvature|calculus|surfaces?)
+    - digital (surfaces?|planes?|curvature|straight)
+    - calcul differentiel discret
+    - curvature
+    - courbure
+    - dgtal
+    - \bvoxel
+    - discrete laplac
+  transport_optimal:
+    - optimal transport
+    - transport optimal
+    - wasserstein
+    - power diagrams?
+    - diagrammes? de puissance
+    - laguerre
+    - earth mover
+    - sinkhorn
+    - semi ?discrete
+  compression_geometrie:
+    - compression
+    - multi ?resolution
+    - multiresolution
+    - progressive (mesh|transmission|coding|compression)
+    - wavelets?
+    - ondelettes?
+    - streaming
+    - \blod\b
+    - level of detail
+    - coding
+    - codage
+  animation_personnages:
+    - character animation
+    - animation de personnages?
+    - \bcharacters?\b
+    - personnages?
+    - \brig(s|ging|ged)?\b
+    - rig space
+    - skinning
+    - linear blend
+    - \bdual quaternion
+    - skeletal animation
+    - animation squelettique
+    - articulated (characters?|figures?|models?)
+    - \bavatars? animation
+    - facial animation
+    - animation faciale
+    - blend ?shapes?
+    - \bposes?\b
+    - inverse kinematics
+    - cinematique inverse
+    - keyframe
+    - images? cles
+    - skin deformation
+    - deformation de la peau
+    - secondary (motion|animation)
+  animation_expressive:
+    - expressive (animation|motion)
+    - animation expressive
+    - styli[sz]ed (animation|motion)
+    - cartoon
+    - squash
+    - stretch
+    - exaggerat
+    - principles of animation
+    - principes de l animation
+    - timing
+    - retiming
+    - art ?direct
+    - 2d animation
+    - animation 2d
+    - hand ?drawn animation
+    - motion lines?
+    - inbetween
+    - oscillation
+    - spacetime
+  simulation_fluides:
+    - fluids?
+    - fluides?
+    - liquids?
+    - liquides?
+    - navier
+    - \bsph\b
+    - smoothed particle
+    - \bflip\b
+    - \bsmoke\b
+    - fumee
+    - \bfire\b
+    - \bwater\b
+    - \beau\b
+    - incompressible
+    - vorticity
+    - turbulen
+    - multiphase
+    - \bfoam
+    - \bsplash
+  simulation_deformables:
+    - deformable (bod|object|model|simulation|solid)
+    - objets? deformables?
+    - \brods?\b
+    - tiges?
+    - \bcloth\b
+    - tissus?
+    - garments?
+    - vetements?
+    - textile simulation
+    - \bhair\b
+    - cheveux
+    - \bcontact\b
+    - frottement
+    - friction
+    - collision
+    - elastic
+    - elastique
+    - \bfem\b
+    - finite elements?
+    - elements? finis
+    - \bshells?\b
+    - coques?
+    - soft bod
+    - corps mous
+    - hyperelastic
+    - discrete elastic
+    - material point method
+    - \bmpm\b
+    - knits?
+    - \byarns?
+  simulation_interactive:
+    - interactive (simulation|physics|physically)
+    - simulation (physique )?interactive
+    - real ?time (simulation|physics|physically)
+    - simulation (physique )?(en )?temps reel
+    - position based
+    - projective dynamics
+    - surgical simulat
+    - simulation chirurgicale
+    - \bhaptic simulat
+    - physics engine
+    - moteur physique
+    - mass ?spring
+    - masses? ressorts?
+    - \bsofa\b
+  cinematographie:
+    - cinematograph
+    - camera (control|motion|trajector|placement|path|planning)
+    - controle de camera
+    - virtual camera
+    - camera virtuelle
+    - film(ing|making)
+    - \bshots?\b
+    - editing (of )?(film|video)
+    - montage
+    - storyboard
+    - cinematic
+    - \bdrones?\b
+    - viewpoint (selection|computation)
+    - point de vue
+    - staging
+  capture_mouvement:
+    - motion capture
+    - capture (du |de )?mouvement
+    - \bmocap\b
+    - motion analysis
+    - analyse (du |de )?mouvement
+    - human motion
+    - mouvement humain
+    - gait
+    - marche
+    - pose estimation
+    - estimation de pose
+    - kinect
+    - \bimus?\b
+    - inertial
+    - motion data
+    - action recognition
+    - reconnaissance d actions?
+    - gesture recognition
+    - markers?
+    - markerless
+  synthese_mouvement:
+    - motion synthesis
+    - synthese (de )?mouvement
+    - motion retargeting
+    - retarget
+    - reciblage
+    - motion (generation|editing|graph|matching|blending|style|prediction|control)
+    - generation de mouvement
+    - locomotion
+    - controllers?
+    - controleurs?
+    - motion diffusion
+    - physics based (character|animation|control)
+    - character control
+    - text to motion
+    - interaction motion
+    - motion planning
+  foules:
+    - crowds?
+    - foules?
+    - pedestrians?
+    - pietons?
+    - navigation
+    - path planning
+    - planification de (chemin|trajectoire)
+    - collision avoidance
+    - evitement
+    - multi ?agents?
+    - steering
+    - \bagents?\b
+    - flock
+    - evacuation
+    - social forces?
+  avatars_signeurs:
+    - sign language
+    - langues? des signes
+    - signing avatar
+    - avatars? signeurs?
+    - \bgestures?\b
+    - gestes?
+    - conversational (agent|avatar)
+    - embodied conversational
+    - agents? conversationnels?
+    - virtual (humans?|agents?)
+    - humains? virtuels?
+    - \bavatars?\b
+    - nonverbal
+    - non verbal
+    - lsf\b
+  corps_humain:
+    - human bod
+    - corps humain
+    - body (model|shape|scan)
+    - biomechan
+    - biomecan
+    - musculo
+    - muscles?
+    - anatomy
+    - anatomie
+    - anatomical
+    - bones?
+    - \bsmpl\b
+    - morphology
+    - morphologie
+    - ergonom
+    - \bhands?\b
+  capture_4d:
+    - \b4d\b
+    - multi ?view (video|capture|stereo|reconstruction)
+    - multi ?vues?
+    - multi ?camera
+    - performance capture
+    - volumetric (video|capture)
+    - video volumetrique
+    - dynamic (scene|shape|human) (capture|reconstruction)
+    - temporal(ly)? coherent
+    - spatio ?temporal (reconstruction|capture)
+    - kinovis
+  reconstruction_surfaces:
+    - surface reconstruction
+    - reconstruction de surfaces?
+    - 3d reconstruction
+    - reconstruction 3d
+    - reconstruct
+    - poisson reconstruction
+    - shape from
+    - multi ?view stereo
+    - \bmvs\b
+    - depth (map|estimation|sensor|camera)
+    - carte de profondeur
+    - \bsfm\b
+    - structure from motion
+    - watertight
+  photogrammetrie_lidar:
+    - photogrammetr
+    - lidar
+    - laser scan
+    - aerial
+    - aerien
+    - satellite
+    - large ?scale (scene|reconstruction|environment|urban|outdoor)
+    - grande echelle
+    - \buav\b
+    - \bdrones?\b
+    - mobile mapping
+    - terrestrial laser
+    - \btls\b
+    - point clouds?
+  modeles_urbains:
+    - urban
+    - urbain
+    - city
+    - cities
+    - \bvilles?\b
+    - buildings?
+    - batiments?
+    - citygml
+    - \bbim\b
+    - \bgis\b
+    - \bsig\b
+    - geographic
+    - geographique
+    - roof
+    - toit
+    - facades?
+    - streets?
+    - \brues?\b
+    - road networks?
+    - reseaux? routiers?
+    - digital twins?
+    - jumeaux? numeriques?
+    - smart cit
+    - ville intelligente
+    - territor
+    - territoire
+    - urban (planning|data|simulation|model)
+    - planification urbaine
+    - \bcityjson\b
+    - 3d city
+    - geospatial
+    - geospatiale?
+    - flooding
+    - inondation
+  haptique:
+    - haptic
+    - haptique
+    - tactile
+    - force feedback
+    - retour (d effort|de force|tactile|haptique)
+    - vibrotactile
+    - vibration
+    - pseudo ?haptic
+    - kinesthetic
+    - touch
+    - toucher
+    - ultrasound (haptic|mid ?air)
+  incarnation_presence:
+    - embodiment
+    - incarnation
+    - sense of (presence|agency|ownership|embodiment)
+    - sentiment de (presence|controle)
+    - presence
+    - body ownership
+    - self ?avatar
+    - virtual body
+    - corps virtuel
+    - proteus
+    - avatar (appearance|representation|embodiment)
+    - full ?body (avatar|tracking)
+  interaction_3d:
+    - 3d interaction
+    - interaction 3d
+    - interaction techniques?
+    - techniques? d interaction
+    - selection (technique|task)
+    - manipulation
+    - travel
+    - locomotion (technique|in vr|in virtual)
+    - teleport
+    - user interface
+    - interface utilisateur
+    - virtual reality
+    - realite virtuelle
+    - immersive
+    - \bvr\b
+    - \brv\b
+    - head ?mounted
+    - casques?
+    - \bhmd
+    - controllers?
+    - bimanual
+    - pointing
+    - pointage
+  realite_augmentee:
+    - augmented reality
+    - realite augmentee
+    - mixed reality
+    - realite mixte
+    - \bar\b
+    - \bmr\b
+    - \bxr\b
+    - see ?through
+    - optical see
+    - video see
+    - hololens
+    - spatial augmented
+    - projection mapping
+    - projector
+    - videoproj
+  interfaces_cerveau:
+    - brain ?computer
+    - interfaces? cerveau
+    - \bbcis?\b
+    - \beeg\b
+    - neurofeedback
+    - electroencephalo
+    - motor imagery
+    - imagerie motrice
+    - physiological (signals?|computing|data)
+    - fnirs
+    - \bemg\b
+  interaction_gestuelle:
+    - gestural
+    - gestuel
+    - gesture (interaction|control|based)
+    - digital musical instruments?
+    - instruments? (de musique )?numeriques?
+    - musical (interface|expression|instrument)
+    - new interfaces for musical
+    - \bnime\b
+    - sound (synthesis|control|interaction)
+    - synthese sonore
+    - sonification
+    - \bmusic
+    - musique
+    - \bdance
+    - danse
+    - performance (artistique|art|arts)
+    - artistic performance
+    - live performance
+    - spectat
+    - audience
+    - scene (theatre|live)
+    - theatre
+    - theater
+    - concert
+    - musicians?
+    - musiciens?
+    - live coding
+    - augmented (stage|concert|instrument)
+  visu_information:
+    - information visuali[sz]ation
+    - visualisation d informations?
+    - \binfovis
+    - visual analytics
+    - analytique visuelle
+    - \bgraphs? (visuali[sz]ation|drawing|layout)
+    - network visuali[sz]ation
+    - \bcharts?\b
+    - dashboards?
+    - tableaux? de bord
+    - multivariate
+    - time ?series
+    - series temporelles
+    - scatter ?plot
+    - \bvisuali[sz]ation\b
+    - \bvisualisation\b
+    - \bvis\b
+    - data (visuali[sz]ation|exploration)
+    - treemap
+    - parallel coordinates?
+  visu_scientifique:
+    - scientific visuali[sz]ation
+    - visualisation scientifique
+    - medical (visuali[sz]ation|imag|data)
+    - imagerie medicale
+    - volume visuali[sz]ation
+    - flow visuali[sz]ation
+    - vector fields?
+    - champs? de vecteurs
+    - tensor fields?
+    - simulation data
+    - \bct\b
+    - \bmri\b
+    - \birm\b
+    - isosurfaces?
+    - molecul
+    - protein
+    - \bdti\b
+    - ensemble (data|visuali[sz]ation)
+  visu_immersive:
+    - immersive (visuali[sz]ation|analytics)
+    - visualisation immersive
+    - geovisuali[sz]ation
+    - geovisualisation
+    - geovis
+    - large displays?
+    - wall ?sized
+    - murs? d images
+    - \bcave\b
+    - \bvr\b visuali
+    - spatial (data|visuali[sz]ation)
+    - 3d visuali[sz]ation
+    - visualisation 3d
+    - situated (visuali[sz]ation|analytics)
+  impression_3d:
+    - 3d print
+    - impression 3d
+    - additive manufactur
+    - fabrication additive
+    - fabricat
+    - \bfdm\b
+    - filament
+    - slicing
+    - tranchage
+    - \bslicer
+    - toolpath
+    - trajectoires? d outil
+    - printable
+    - imprim
+    - \bcnc\b
+    - laser cut
+    - personal fabrication
+    - metamaterials?
+    - metamateriaux
+    - microstructures?
+    - lattices?
+    - treillis
+    - \bfoams?\b
+    - mousses?
+    - cellular (materials?|structures?)
+    - infill
+    - remplissage
+    - auxetic
+    - procedural (microstructure|infill)
+    - elastic properties
+    - proprietes elastiques
+  conception_inverse:
+    - inverse design
+    - conception inverse
+    - shape optimi[sz]ation
+    - optimisation de formes?
+    - topology optimi[sz]ation
+    - optimisation topologique
+    - computational design
+    - design optimi[sz]ation
+    - form finding
+    - \bfabrication aware
+    - structural (optimi[sz]ation|analysis|design)
+    - inverse (problem|elastic|modeling)
+    - developable
+    - deployable
+    - gridshell
+  synthese_textures:
+    - texture synthesis
+    - synthese de textures?
+    - textures?
+    - by ?example
+    - par l exemple
+    - exemplar
+    - noise (functions?|model)
+    - procedural noise
+    - bruit procedural
+    - gabor noise
+    - stochastic (texture|structures?|patterns?)
+    - patterns?
+    - motifs?
+    - tiling
+    - pavage
+    - stationary
+  imagerie_hdr:
+    - \bhdr\b
+    - high dynamic range
+    - haute dynamique
+    - tone ?mapping
+    - tone reproduction
+    - colou?r (appearance|management|grading|science|space|gamut|transfer|perception)
+    - couleurs?
+    - colorimetr
+    - gamut
+    - exposure
+    - \bluminance\b
+    - spectral (imag|color)
+  perception:
+    - perception
+    - perceptual
+    - perceptuel
+    - visual (quality|perception|saliency|attention|system)
+    - qualite (visuelle|d image|perceptuelle)
+    - image quality
+    - psychophysic
+    - psychophysiq
+    - eye ?track
+    - oculometr
+    - gaze
+    - saliency
+    - saillance
+    - just noticeable
+  modeles_generatifs:
+    - generative
+    - generatifs?
+    - diffusion models?
+    - modeles? de diffusion
+    - denoising diffusion
+    - \bgans?\b
+    - adversarial
+    - \bvaes?\b
+    - variational auto
+    - text to (3d|image|motion|video)
+    - flow matching
+    - latent (space|diffusion|representation)
+    - autoregressive
+    - transformers?
+    - large language model
+    - \bllms?\b
+    - foundation model
+    - image generation
+    - video generation
+    - generation (d images|de videos?|3d)
+  apprentissage_geometrique:
+    - geometric deep learning
+    - deep learning (on|for) (3d|geometr|shapes?|meshes|point)
+    - apprentissage (profond )?(sur |de )?(donnees )?(geometr|3d)
+    - point ?net
+    - graph neural
+    - \bgnns?\b
+    - mesh (cnn|convolution|neural)
+    - neural (fields?|implicit|shape)
+    - 3d (deep|neural|learning)
+    - learning (3d|shape|on meshes|on point)
+    - deep (implicit|shape)
+    - (learning|learned|neural) (on|for|from) (3d|meshes|point clouds?|shapes?|geometr)
+    - (mesh|point cloud|shape|3d) (learning|neural|network)s?
+  topologie_algorithmique:
+    - persistent homology
+    - homologie persistante
+    - computational topology
+    - topologie algorithmique
+    - homology
+    - homologie
+    - persistence
+    - betti
+    - morse
+    - topological data analysis
+    - \btda\b
+    - homotopy
+    - contour tree
+    - merge tree
+    - reeb
+  deformation_formes:
+    - shape deformation
+    - deformation de formes?
+    - \bdeform
+    - cages?
+    - coordinates? (barycentric|harmonic|mean value|green)
+    - barycentric coordinates?
+    - coordonnees barycentriques
+    - foldover
+    - injective
+    - bijective
+    - locally injective
+    - as ?rigid ?as ?possible
+    - \barap\b
+    - space deformation
+    - free ?form deformation
+    - \bffd\b
+    - harmonic maps?
+  geometrie_algorithmique:
+    - computational geometry
+    - geometrie algorithmique
+    - voronoi
+    - delaunay
+    - apollonius
+    - convex hull
+    - enveloppe convexe
+    - arrangements?
+    - \bcgal\b
+    - robust (geometric|predicates?)
+    - exact (arithmetic|predicates?|computation)
+    - circle packing
+    - sphere packing
+    - hyperbolic
+  rugosite:
+    - roughness
+    - rugosite
+    - rough surfaces?
+    - surfaces? rugueuses?
+    - non ?smooth
+    - non lisses?
+    - fractal (surfaces?|terrains?|dimension)
+    - irregular surfaces?
+    - holder
+    - micro ?geometry
+  rendu_differentiable:
+    - differentiable render
+    - rendu differentiable
+    - inverse render
+    - rendu inverse
+    - differentiable (path|rasteri|ray)
+    - analysis by synthesis
+    - inverse (problem|lighting|appearance|light transport)
+  optique_numerique:
+    - computational optics
+    - optique numerique
+    - structural colou?r
+    - couleurs? structurelles?
+    - wave optics
+    - optique ondulatoire
+    - diffraction
+    - interference
+    - thin films?
+    - couches minces
+    - polari[sz]ation
+    - lens(es)?
+    - lentilles?
+    - optics
+    - optique
+    - holograph
+  eclairage_historique:
+    - historical (lighting|reconstruction|building|site|monument)
+    - eclairage (historique|ancien)
+    - restitution
+    - cultural heritage
+    - patrimoine
+    - archaeolog
+    - archeolog
+    - virtual (heritage|museum|reconstruction)
+    - candle
+    - bougie
+    - lampe a huile
+    - oil lamp
+    - ancient
+    - antique
+    - medieval
+    - romain
+    - roman (villa|house|site)
+    - grotte
+    - cave (art|painting)
+  graphisme_2d:
+    - vector (graphics|images?|drawing|art)
+    - vectori[sz]ation
+    - vectorisation
+    - dessin vectoriel
+    - coloriz
+    - colorisation
+    - diffusion curves?
+    - courbes de diffusion
+    - \bsvg\b
+    - clip ?art
+    - line art
+    - cartoon images?
+    - manga
+    - comics?
+    - bande dessinee
+    - pixel art
+    - 2d (shapes?|drawings?|illustrations?|graphics)
+    - illustration
+    - typograph
+    - fonts?
+  materiaux_granulaires:
+    - granular
+    - granulaires?
+    - \bsand\b
+    - \bsable\b
+    - powders?
+    - poudres?
+    - grains?
+    - discrete elements?
+    - \bdem\b
+    - \bsoil\b
+    - \bsols?\b meubles
+    - loose (grounds?|soil)
+    - \bmud\b
+    - \bboue\b
+    - avalanche
+  parametres_physiques_vision:
+    - physical parameters?
+    - parametres physiques
+    - material parameters?
+    - parametres (mecaniques|materiaux)
+    - (estimat|identif|infer)(e|ion|ing)? (of )?(physical|material|elastic|mechanical)
+    - from (video|images?) (of )?(physical|elastic|cloth|deform)
+    - video based (estimation|identification|simulation)
+    - system identification
+    - parameter (estimation|identification)
+    - inverse simulation
+  confort_rv:
+    - cybersickness
+    - cybermalaise
+    - motion sickness
+    - mal des transports
+    - simulator sickness
+    - comfort
+    - confort
+    - vection
+    - self ?motion
+    - vestibular
+    - vestibulaire
+    - nausea
+    - postural
+  perception_action_rv:
+    - perception ?action
+    - perception et action
+    - affordances?
+    - (pedestrian|walker|locomotor) behaviou?r
+    - comportement (des )?pietons?
+    - interception
+    - collision avoidance
+    - evitement de collision
+    - sport
+    - athletes?
+    - goalkeeper
+    - gardien
+    - rugby
+    - football
+    - soccer
+    - handball
+    - tennis
+    - boxing
+    - boxe
+    - decision making
+    - prise de decision
+  formation_rv:
+    - training (scenario|simulat|environment|system|application|session)s?
+    - formation (professionnelle|en rv|par simulation|aux gestes)
+    - serious games?
+    - jeux? serieux
+    - scenari[osz]
+    - storytelling
+    - narration
+    - narrative
+    - interactive (story|narrative|drama)
+    - affective
+    - affectif
+    - emotions?
+    - cognitive (load|state)
+    - charge cognitive
+    - learning environment
+    - environnement d apprentissage
+    - pedagog
+    - educational
+  visu_incertitude:
+    - uncertainty
+    - incertitude
+    - uncertain
+    - incertain
+    - probabilistic (visuali|data)
+    - error (bars?|visuali)
+    - confidence (interval|bands?)
+    - variability
+    - variabilite
+    - ensemble
+    - risk
+  cartes_accessibles:
+    - accessib
+    - tactile (maps?|graphics|diagrams?)
+    - cartes? tactiles?
+    - visually impaired
+    - deficient(s)? visuels?
+    - blind
+    - aveugles?
+    - malvoyant
+    - low vision
+    - braille
+    - screen reader
+    - audio (description|feedback)
+    - sonification
+    - inclusive
+    - inclusi(f|ve)
+  cartographie_expressive:
+    - cartograph
+    - \bmaps?\b
+    - \bcartes? (geographiques?|topographiques?|anciennes|historiques)
+    - panoram
+    - map (design|style|styli|generali)
+    - generali[sz]ation
+    - topographic
+    - topographique
+    - relief
+    - hill ?shading
+    - estompage
+    - map labeling
+    - toponym
+  physicalisation:
+    - physicali[sz]ation
+    - physicalisation
+    - physical (visuali[sz]ation|representation|charts?)
+    - data sculpture
+    - tangible
+    - shape ?changing
+    - interfaces? tangibles?
+    - \bdata objects?
+  visu_mobile:
+    - mobile
+    - smartphone
+    - smartwatch
+    - montres? connectees?
+    - wearable
+    - in motion
+    - en mouvement
+    - while walking
+    - on the go
+    - small screens?
+    - petits ecrans
+    - glanceable
+    - \bsports? visuali
+  methodo_visu:
+    - methodology
+    - methodologie
+    - (empirical|controlled|crowdsourced) (study|studies|experiment)
+    - user stud
+    - etude utilisateur
+    - experiment(s|al)? (design|methodology)
+    - reproducib
+    - reproductib
+    - statistical (analysis|methods?|reporting)
+    - statistiques
+    - bayesian
+    - effect sizes?
+    - confidence intervals?
+    - preregistr
+    - crowdsourc
+    - taxonomy
+    - taxonomie
+    - state of the art
+    - etat de l art
+  conception_durable:
+    - sustainab
+    - durable
+    - re ?use
+    - reemploi
+    - reutilisation
+    - recycl
+    - circular (economy|design)
+    - economie circulaire
+    - salvaged
+    - reclaimed
+    - upcycl
+    - eco ?(design|conception)
+    - environmental impact
+    - impact environnemental
+    - carbon
+    - carbone
+    - waste
+    - dechets
+    - frugal
+    - low ?tech
+
+applications:
+  jeu_video:
+    - video ?games?
+    - jeux? video
+    - \bgames?\b
+    - \bgaming\b
+    - game (engine|design|industry|development|level)
+    - moteur de jeu
+    - unity
+    - unreal
+    - level design
+    - non ?player
+    - \bnpcs?\b
+    - real ?time (render|animation|character|simulation)
+    - interactive (entertainment|applications?)
+    - esports?
+  cinema_vfx:
+    - (animated|live action|feature) films?
+    - film (industry|production|making)
+    - visual effects
+    - \bvfx\b
+    - effets speciaux
+    - special effects
+    - feature films?
+    - \bmovies?\b
+    - \bcinema
+    - film (industry|production|making)
+    - animated (films?|movies?|features?)
+    - films? d animation
+    - animation (industry|studios?|production|pipeline)
+    - studios?
+    - post ?production
+    - computer animation
+    - production (render|pipeline)
+    - artists?
+    - artistes?
+    - pixar
+    - disney
+  sante:
+    - medical
+    - medicale?s?
+    - medecine
+    - medicine
+    - health
+    - sante
+    - clinical
+    - clinique
+    - patients?
+    - surger
+    - chirurg
+    - rehabilitation
+    - reeducation
+    - therap
+    - anatom
+    - \borgans?\b
+    - organes?
+    - \bct\b
+    - \bmri\b
+    - \birm\b
+    - radiolog
+    - echograph
+    - ultrasound imag
+    - dental
+    - dentaire
+    - cardiac
+    - cardiaque
+    - tumou?r
+    - \bcancer
+    - \bavc\b
+    - parkinson
+    - autis
+    - phobia
+    - phobie
+    - hospital
+    - hopital
+    - ortho(ped|p)
+    - prosthe
+    - surgical
+  patrimoine:
+    - (archaeological|historical|museum) (artifacts?|objects?)
+    - cultural heritage
+    - heritage
+    - patrimoine
+    - patrimonial
+    - archaeolog
+    - archeolog
+    - museum
+    - musee
+    - historical
+    - historique
+    - monuments?
+    - restitution
+    - ancient
+    - antique
+    - medieval
+    - cathedral
+    - cathedrale
+    - notre ?dame
+    - \bruins?\b
+    - sculptures?
+    - paintings?
+    - peintures?
+    - \bcave art
+    - art parietal
+  architecture_urbain:
+    - architect
+    - buildings?
+    - batiments?
+    - construction (industry|sites?)
+    - \bbtp\b
+    - civil engineering
+    - genie civil
+    - \bbim\b
+    - urban
+    - urbain
+    - city
+    - cities
+    - \bvilles?\b
+    - facades?
+    - interior (design|scene|layout)
+    - indoor
+    - floor ?plans?
+    - \bplans? d etage
+    - gridshell
+    - \bbridges?\b
+    - \bponts?\b
+    - structural engineering
+  industrie_cao:
+    - industr
+    - \bcad\b
+    - \bcao\b
+    - computer aided (design|engineering)
+    - engineering
+    - ingenierie
+    - manufactur
+    - mechanical (parts?|engineering|design)
+    - pieces? mecaniques?
+    - automotive
+    - automobile
+    - aeronaut
+    - aerospace
+    - aircraft
+    - avion
+    - naval
+    - \bships?\b
+    - nuclear
+    - nucleaire
+    - \biso ?geometric
+    - reverse engineering
+    - retro ?conception
+    - quality control
+    - controle qualite
+    - \bfactory
+    - usine
+  fabrication_additive:
+    - 3d print
+    - impression 3d
+    - additive manufactur
+    - fabrication additive
+    - digital fabrication
+    - fabrication numerique
+    - personal fabrication
+    - product design
+    - design (de )?produit
+    - industrial design
+    - printable
+    - imprimable
+    - fabricab
+    - \bfdm\b
+    - laser cut
+    - \bcnc\b
+    - furniture
+    - mobilier
+  mode_textile:
+    - fashion
+    - \bmode\b
+    - garments?
+    - vetements?
+    - clothing
+    - habillement
+    - \bcloth\b
+    - textiles?
+    - fabrics?
+    - \bknit
+    - tricot
+    - \bweav
+    - tissage
+    - \byarns?
+    - sewing
+    - couture
+    - \bpatterns? (design|making|grading)
+    - patronage
+    - draping
+    - \bshoes?\b
+    - chaussures?
+  geographie:
+    - geograph
+    - cartograph
+    - \bcartes? (geographiques?|topographiques?)
+    - \bgis\b
+    - \bsig\b
+    - territor
+    - territoire
+    - topograph
+    - geospatial
+    - geovis
+    - remote sensing
+    - teledetection
+    - satellite
+    - \bign\b
+    - land (use|cover)
+    - occupation du sol
+  environnement:
+    - earth (observation|surface processes)
+    - environment(al)? (science|monitoring|impact|data|simulation)
+    - environnement(al|ale)?
+    - climat
+    - climate
+    - ecolog
+    - earth sciences?
+    - sciences de la terre
+    - geolog
+    - geophysi
+    - hydrolog
+    - floods?
+    - inondations?
+    - weather
+    - meteo
+    - agricult
+    - biodiversit
+    - seismi
+    - sismi
+    - natural (hazards?|disasters?|risks?)
+    - risques? naturels?
+    - wildfire
+    - incendies?
+  sport:
+    - (sports?|athletic) training
+    - sports?
+    - athletes?
+    - athletique
+    - performance sportive
+    - sports? performance
+    - entrainement
+    - football
+    - soccer
+    - rugby
+    - handball
+    - basketball
+    - tennis
+    - boxing
+    - boxe
+    - climbing
+    - escalade
+    - swimming
+    - natation
+    - cycling
+    - cyclisme
+    - course a pied
+    - goalkeeper
+    - gardien
+    - ergonom
+    - workstations?
+    - postes? de travail
+    - musculoskeletal
+  education:
+    - education
+    - educational
+    - educati(f|ve)
+    - teaching
+    - enseignement
+    - pedagog
+    - learning environment
+    - e ?learning
+    - \bmooc
+    - classroom
+    - school
+    - ecole
+    - training (simulator|system|environment|scenario)
+    - simulateurs? (de formation|d entrainement)
+    - formation (professionnelle|en rv|par simulation)
+    - serious games?
+    - jeux? serieux
+    - mediation scientifique
+    - outreach
+    - vulgarisation
+    - museology
+  robotique:
+    - robot
+    - robotique
+    - robotic
+    - teleoperation
+    - teleoperation
+    - telepresence
+    - manipulator
+    - grasping
+    - prehension
+    - drones?
+    - \buav\b
+    - autonomous (vehicles?|driving|navigation|systems?)
+    - vehicules? autonomes?
+    - \bslam\b
+    - humanoid
+    - humanoide
+    - exoskeleton
+    - exosquelette
+    - cobot
+    - motion planning
+    - planification de mouvement
+  art_musique:
+    - (digital|visual|fine|media|contemporary|interactive) arts?
+    - works? of art
+    - oeuvres? d art
+    - art (installation|history|works?)
+    - artistic (creation|practice|expression)
+    - artistic
+    - artistique
+    - painting
+    - peinture
+    - music
+    - musique
+    - musical
+    - \bdance
+    - danse
+    - theatre
+    - theater
+    - performance (artistique|art)
+    - live performance
+    - creation (artistique|numerique)
+    - calligraph
+    - comics?
+    - bande dessinee
+    - manga
+    - animation (artists?|2d)
+  sciences_donnees:
+    - data science
+    - science des donnees
+    - visual analytics
+    - analytique visuelle
+    - decision (making|support)
+    - aide a la decision
+    - prise de decision
+    - dashboard
+    - tableaux? de bord
+    - big data
+    - donnees massives
+    - (open|public|government) data
+    - donnees ouvertes
+    - information visuali[sz]ation
+    - visualisation d information
+    - finance
+    - economi
+    - explainab
+    - explicab
+    - social (media|network)
+  biologie:
+    - biolog
+    - life sciences?
+    - sciences du vivant
+    - molecul
+    - protein
+    - proteine
+    - \bdna\b
+    - \badn\b
+    - genom
+    - neurosci
+    - brain (imaging|data|connectiv|atlas)
+    - microscop
+    - embryo
+    - embryon
+    - \bplants? (growth|biology|architecture|phenotyp)
+    - phenotyp
+    - botani
+    - zoolog
+    - insect
+    - marine (life|species|biology)
+  accessibilite:
+    - accessib
+    - disab
+    - handicap
+    - impair
+    - deficien
+    - blind
+    - aveugle
+    - malvoyan
+    - visually impaired
+    - deaf
+    - sourds?
+    - malentendant
+    - sign language
+    - langue des signes
+    - wheelchair
+    - fauteuil roulant
+    - elderly
+    - personnes agees
+    - older adults
+    - assistive
+    - braille
+    - autis
+    - dyslex
+  securite_foules:
+    - crowds?
+    - foules?
+    - evacuation
+    - crowd (safety|management|dynamics|density|disaster|crush)
+    - securite des foules
+    - mass gatherings?
+    - rassemblements?
+    - stadium
+    - stade
+    - pilgrim
+    - pelerin
+    - pedestrian (dynamics|flow|safety|traffic)
+    - flux de pietons
+    - crowd simulation
+    - panic
+    - panique
+    - stampede
+    - bousculade

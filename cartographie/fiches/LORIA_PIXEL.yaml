@@ -1,0 +1,70 @@
+equipe: LORIA/PIXEL
+domaines:
+  principaux:
+  - geometrie
+  secondaires:
+  - modelisation
+  - capture
+themes:
+- id: maillages_hexa
+  phrase: Paramétrisation globale de surfaces et maillages hexaédriques ou hex-dominants, y compris pour la simulation de
+    réservoirs.
+  preuves:
+  - p8288bb4183
+  - pdaba53a034
+  - p626f5769e8
+- id: maillages
+  phrase: Génération de maillages quadrangulaires par champs de repères, quantification et axe médian coloré.
+  preuves:
+  - pc9d4821992
+  - p418585d925
+  - p67cb211682
+- id: deformation_formes
+  phrase: Applications sans repliement et déformations localement injectives, déformations conformes pilotées par la courbure
+    et applications à échelle optimale.
+  preuves:
+  - p6d610825b3
+  - p78782c255a
+  - pbac2a6c7cd
+- id: correspondances
+  phrase: Correspondances entre formes par cartes fonctionnelles complexes et surfaces minimales implicites bijectives.
+  preuves:
+  - p836fe618de
+  - p85d5963fac
+  - p6317e044b6
+- id: transport_optimal
+  phrase: Transport optimal semi-discret à grande échelle et diagrammes de Voronoï restreints calculés sur GPU.
+  preuves:
+  - pd183444be9
+  - p4062b897bb
+  - p8618af2e02
+- id: modeles_urbains
+  phrase: Reconstruction de bâtiments et de toits par ajustement de surfaces paramétriques sur nuages de points lidar.
+  preuves:
+  - pcf7f0c7fda
+  - p660843ccac
+applications:
+- id: industrie_cao
+  preuves:
+  - p4fd3c837ec
+  - p67cb211682
+- id: environnement
+  preuves:
+  - p626f5769e8
+  - pa12d7985b2
+- id: architecture_urbain
+  preuves:
+  - pcf7f0c7fda
+  - p660843ccac
+publications_representatives:
+- p836fe618de
+- p8288bb4183
+- pd183444be9
+- p78782c255a
+- pdaba53a034
+synthese: Génération de maillages hexaédriques et paramétrisation pour la simulation, déformation et mise en correspondance
+  de formes.
+pour_etudiants: On découpe des formes 3D en petits blocs bien réguliers pour que les ordinateurs puissent les simuler, et
+  on apprend à mettre deux formes en correspondance.
+pour_entreprises: Maillage quadrangulaire et hexaédrique pour la simulation numérique, paramétrisation de modèles CAO, transport
+  optimal à grande échelle.

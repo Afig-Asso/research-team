@@ -1,0 +1,1061 @@
+{
+"equipe": "CRIStAL/MINT",
+"publications": [
+{
+"id": "p0ffafaf2ff",
+"titre": "Audience Experience of Visual Augmentations for Human-AI Co-Improvisations",
+"annee": 2026,
+"type": "conférence",
+"lieu": "AIMC 2026 - AI Music Creativity",
+"url": "https://hal.science/hal-05734375v1"
+},
+{
+"id": "pf55a7513fb",
+"titre": "Collective Attachments and Community Responsibilities: The Impact of NIME Research",
+"annee": 2026,
+"type": "conférence",
+"lieu": "The International Conference on New Interfaces for Musical Expression",
+"url": "https://hal.science/hal-05714215v1"
+},
+{
+"id": "p89aa3c0dae",
+"titre": "Extended Reality Audio-Visual Instruments: Design Framework and Case Study",
+"annee": 2026,
+"type": "conférence",
+"lieu": "New Interfaces for Musical Expression (NIME)",
+"url": "https://hal.science/hal-05615307v1"
+},
+{
+"id": "p76526169a8",
+"titre": "KinoGroove: Composing with Muscle and Motion in Extended Reality",
+"annee": 2026,
+"type": "conférence",
+"lieu": "New Interfaces for Musical Expression (NIME)",
+"url": "https://hal.science/hal-05609558v2"
+},
+{
+"id": "p31701d81a8",
+"titre": "Recent Advances and Trends in Learning‐Based 3D Representations",
+"annee": 2026,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-05785618v1",
+"doi": "10.1111/cgf.70530"
+},
+{
+"id": "pf1609c4958",
+"titre": "Une Application Musicale Collaborative en Réalité Étendue avec des Rôles Asymétriques : SMILe2-XR",
+"annee": 2026,
+"type": "conférence",
+"lieu": "IHM’26 - 37e Conférence Internationale Francophone sur l'Interaction Humain-Machine",
+"url": "https://hal.science/hal-05772491v1"
+},
+{
+"id": "pf0e93f73f1",
+"titre": "Unsupervised discovery of recurrent acoustic states in braking and their relation to tribological regimes",
+"annee": 2026,
+"type": "journal",
+"lieu": "European Journal of Mechanics - A/Solids",
+"url": "https://doi.org/10.1016/j.euromechsol.2026.106444",
+"doi": "10.1016/j.euromechsol.2026.106444"
+},
+{
+"id": "pb381078baf",
+"titre": "When and where to touch: A Temporal Contact Prior for text-driven 3D hand–object interaction",
+"annee": 2026,
+"type": "journal",
+"lieu": "Computers & Graphics",
+"url": "https://doi.org/10.1016/j.cag.2026.104737",
+"doi": "10.1016/j.cag.2026.104737"
+},
+{
+"id": "pfb96f9b412",
+"titre": "AG-MAE: Anatomically Guided Spatio-Temporal Masked Auto-Encoder for Online Hand Gesture Recognition",
+"annee": 2025,
+"type": "conférence",
+"lieu": "International Conference on 3D Vision",
+"url": "https://imt-nord-europe.hal.science/hal-04793721v1"
+},
+{
+"id": "pa669f32246",
+"titre": "AirSpartOne: One-Handed Distal Pointing for Large Displays on Mobile Devices and in Midair",
+"annee": 2025,
+"type": "conférence",
+"lieu": "27th ACM International Conference on Multimodal Interaction",
+"url": "https://hal.science/hal-05477235v1",
+"doi": "10.1145/3716553.3750791"
+},
+{
+"id": "p1a41b594fc",
+"titre": "Behavioral Measures of Copresence in Co-located Mixed Reality",
+"annee": 2025,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-04936937v2",
+"doi": "10.1109/tvcg.2025.3549135"
+},
+{
+"id": "pbbd4476822",
+"titre": "Decoupling Physical and Virtual Spaces for New Collaboration Strategies in Co-Located Mixed Reality Instruments",
+"annee": 2025,
+"type": "conférence",
+"lieu": "NIME 2025 - International Conference on New Interfaces for Musical Expression",
+"url": "https://inria.hal.science/hal-05126240v1",
+"doi": "10.5281/zenodo.15698822"
+},
+{
+"id": "pa94a2bcf24",
+"titre": "Examining the Design Process for 3D Interactions in Performing Arts : A Spatial Augmented Reality Cyber-Opera Case Study",
+"annee": 2025,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://hal.science/hal-04938727v1",
+"doi": "10.1109/tvcg.2025.3549194"
+},
+{
+"id": "pcc8bc4aa17",
+"titre": "Exploring the Use of Auditory Feedback as a Guide for 3D Drawing in Extended Reality",
+"annee": 2025,
+"type": "conférence",
+"lieu": "International Conference on Artificial Reality and Telexistence & Eurographics Symposium on Virtual Environments (ICAT-EGVE 2025)",
+"url": "https://hal.science/hal-05395835v1"
+},
+{
+"id": "p9b5b1146be",
+"titre": "GDPD / IVMI-BUILDER: A Libre Software Framework for Extended Reality Musical Instruments and Sonic Installations",
+"annee": 2025,
+"type": "conférence",
+"lieu": "Proceedings of the 19th Linux Audio Conference",
+"url": "https://hal.science/hal-05095979v1"
+},
+{
+"id": "p22f561c13a",
+"titre": "GNF: Gaussian Neural Fields for Multidimensional Signal Representation and Reconstruction",
+"annee": 2025,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.70232",
+"doi": "10.1111/cgf.70232"
+},
+{
+"id": "pb696f5111d",
+"titre": "Geometry-Aware Deep Learning for 3D Skeleton-Based Motion Prediction",
+"annee": 2025,
+"type": "conférence",
+"lieu": "2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)",
+"url": "https://hal.science/hal-05162087v1",
+"doi": "10.1109/wacv61041.2025.00473"
+},
+{
+"id": "paef05ac0f7",
+"titre": "Strategies for the Reconciliation of Artistic Intent and Technical Constraints in Mixed Reality Performances",
+"annee": 2025,
+"type": "conférence",
+"lieu": "DIS 2025 - ACM Designing Interactive Systems Conference",
+"url": "https://inria.hal.science/hal-05126258v1",
+"doi": "10.1145/3715336.3735738"
+},
+{
+"id": "p4556636e37",
+"titre": "Toward Multimodal Asynchronous Collaboration in VR Artistic Creation with SPARK",
+"annee": 2025,
+"type": "conférence",
+"lieu": "VRST 2025 - Virtual Reality Software and Technology",
+"url": "https://hal.science/hal-05273140v1",
+"doi": "10.1145/3756884.3765998"
+},
+{
+"id": "pd92a71ebca",
+"titre": "Virtual Immersion in Underground Quarries: An Innovative Exploration of Historical and Cultural Heritage",
+"annee": 2025,
+"type": "conférence",
+"lieu": "2025 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)",
+"url": "https://lilloa.hal.science/hal-05497056v1",
+"doi": "10.1109/vrw66409.2025.00015"
+},
+{
+"id": "p285c5209f4",
+"titre": "eMotion-GAN: A Motion-based GAN for Photorealistic and Facial Expression Preserving Frontal View Synthesis",
+"annee": 2025,
+"type": "journal",
+"lieu": "Computer Vision and Image Understanding",
+"url": "https://hal.science/hal-05477740v1",
+"doi": "10.1016/j.cviu.2025.104555"
+},
+{
+"id": "p806305697e",
+"titre": "Audio, Vibrotactile, and Visual Augmentation of an Electric Guitar: A Pilot Study",
+"annee": 2024,
+"type": "journal",
+"lieu": "Computer Music Journal",
+"url": "https://hal.science/hal-05648523v1",
+"doi": "10.1162/comj.a.681"
+},
+{
+"id": "p42a9c08896",
+"titre": "Comparing Eyes-free Gestures to Gestures Produced in the Presence or Absence of Visual Feedback on Mobile Device",
+"annee": 2024,
+"type": "conférence",
+"lieu": "AVI 2024: International Conference on Advanced Visual Interfaces 2024",
+"url": "https://hal.science/hal-04612252v1",
+"doi": "10.1145/3656650.3656651"
+},
+{
+"id": "pa471653871",
+"titre": "Deep learning identifies transversely isotropic material properties using kinematics fields",
+"annee": 2024,
+"type": "journal",
+"lieu": "International Journal of Mechanical Sciences",
+"url": "https://hal.science/hal-05785684v1",
+"doi": "10.1016/j.ijmecsci.2024.109672"
+},
+{
+"id": "p8ab4198477",
+"titre": "Enhancing Touch Circular Knob with Haptic Feedback when Performing Another Saturating Attention Primary Task",
+"annee": 2024,
+"type": "conférence",
+"lieu": "AVI 2024: International Conference on Advanced Visual Interfaces 2024",
+"url": "https://hal.science/hal-04612216v1",
+"doi": "10.1145/3656650.3656656"
+},
+{
+"id": "p7562ec9369",
+"titre": "MagneTip: Reintroducing a Physical Interaction Loop for 3D Musical Drawing in Extended Reality",
+"annee": 2024,
+"type": "conférence",
+"lieu": "New Interfaces for Musical Expression",
+"url": "https://hal.science/hal-04649511v1",
+"doi": "10.5281/zenodo.13904763"
+},
+{
+"id": "p4759c0b3b3",
+"titre": "Motion-Lie Transformer : Geometric Attention for 3D Human Pose Motion Prediction",
+"annee": 2024,
+"type": "conférence",
+"lieu": "2024 IEEE International Conference on Image Processing - ICIP 2024",
+"url": "https://imt-nord-europe.hal.science/hal-04921908v1"
+},
+{
+"id": "p64864ef050",
+"titre": "Musical Drawing in 2D and 3D: Dimensions and Perspectives",
+"annee": 2024,
+"type": "conférence",
+"lieu": "Audio Mostly",
+"url": "https://hal.science/hal-04709276v1",
+"doi": "10.1145/3678299.3678317"
+},
+{
+"id": "pffef0877ab",
+"titre": "SHREC 2024: Recognition of dynamic hand motions molding clay",
+"annee": 2024,
+"type": "journal",
+"lieu": "Computers & Graphics",
+"url": "https://doi.org/10.1016/j.cag.2024.104012",
+"doi": "10.1016/j.cag.2024.104012"
+},
+{
+"id": "p41ae11f7ce",
+"titre": "Skeleton-based Self-Supervised Feature Extraction for Improved Dynamic Hand Gesture Recognition",
+"annee": 2024,
+"type": "conférence",
+"lieu": "International Conference on Automatic Face and Gesture Recognition",
+"url": "https://imt-nord-europe.hal.science/hal-04551730v4"
+},
+{
+"id": "p0542cd73c1",
+"titre": "Spatio-Temporal Sparse Graph Convolution Network for Hand Gesture Recognition",
+"annee": 2024,
+"type": "conférence",
+"lieu": "The 18th IEEE International Conference on Automatic Face and Gesture Recognition",
+"url": "https://hal.science/hal-04574611v3"
+},
+{
+"id": "p39321ba6df",
+"titre": "The Eclectic User Experience of Combined On-Screen and On-Wrist Vibrotactile Feedback in Touchscreen Input",
+"annee": 2024,
+"type": "conférence",
+"lieu": "CHI '24: CHI Conference on Human Factors in Computing Systems",
+"url": "https://hal.science/hal-04611496v1",
+"doi": "10.1145/3613905.3650835"
+},
+{
+"id": "pfe16b6bd83",
+"titre": "Cross-Modal Attention for Accurate Pedestrian Trajectory Prediction",
+"annee": 2023,
+"type": "conférence",
+"lieu": "34th British Machine Vision Conference 2023",
+"url": "https://hal.science/hal-04448852v1"
+},
+{
+"id": "p2c3e818d52",
+"titre": "Cross-modal interaction of stereoscopy, surface deformation and tactile feedback on the perception of texture roughness in an active touch condition",
+"annee": 2023,
+"type": "conférence",
+"lieu": "IHM'23 - 34e Conférence Internationale Francophone sur l'Interaction Humain-Machine AFIHM",
+"url": "https://hal.science/hal-04014962v1"
+},
+{
+"id": "p477e88ba55",
+"titre": "STr-GCN: Dual Spatial Graph Convolutional Network and Transformer Graph Encoder for 3D Hand Gesture Recognition",
+"annee": 2023,
+"type": "conférence",
+"lieu": "IEEE 17th International Conference on Automatic Face and Gesture Recognition (FG 2023)",
+"url": "https://hal.science/hal-04711580v1",
+"doi": "10.1109/fg57933.2023.10042643"
+},
+{
+"id": "p4777de261e",
+"titre": "The Effect of Attention Saturating Task on Eyes-Free Gesture Production on Mobile Devices",
+"annee": 2023,
+"type": "conférence",
+"lieu": "ISS '23: Conference on Interactive Surfaces and Spaces",
+"url": "https://hal.science/hal-04274861v1",
+"doi": "10.1145/3626485.3626535"
+},
+{
+"id": "p9476e87f41",
+"titre": "Towards the identification of the link between the contact roughness and the friction-induced vibration: Use of deep learning",
+"annee": 2023,
+"type": "journal",
+"lieu": "European Journal of Mechanics - A/Solids",
+"url": "https://doi.org/10.1016/j.euromechsol.2023.104949",
+"doi": "10.1016/j.euromechsol.2023.104949"
+},
+{
+"id": "p1cfba886c0",
+"titre": "A Survey of Sentiment Analysis in the Arabic Language",
+"annee": 2022,
+"type": "journal",
+"lieu": "Journal of Digital Information Management",
+"url": "https://doi.org/10.6025/jdim/2022/20/1/10-24",
+"doi": "10.6025/jdim/2022/20/1/10-24"
+},
+{
+"id": "pd21e515a22",
+"titre": "Continuous Hand Gesture Recognition using Deep Coarse and Fine Hand Features",
+"annee": 2022,
+"type": "conférence",
+"lieu": "The 33rd British Machine Vision Conference – BMVC 2022",
+"url": "https://hal.science/hal-03982987v1"
+},
+{
+"id": "p3408853280",
+"titre": "From the Lab to the Stage: Practical Considerations on Designing Performances with Immersive Virtual Musical Instruments",
+"annee": 2022,
+"type": "chapitre",
+"lieu": "Sonic Interactions In Virtual Environments",
+"url": "https://hal.science/hal-03790049v1"
+},
+{
+"id": "p360b336c2a",
+"titre": "Identification des propriétés des matériaux à partir de champs cinématiques via le deep learning",
+"annee": 2022,
+"type": "conférence",
+"lieu": "15ème colloque national en calcul des structures",
+"url": "https://hal.science/hal-03718087v1"
+},
+{
+"id": "pf6dae81632",
+"titre": "The Effect of Hands Synchronicity on Users Perceived Arms Fatigue in Virtual Reality Environment",
+"annee": 2022,
+"type": "journal",
+"lieu": "International Journal of Human-Computer Studies",
+"url": "https://doi.org/10.1016/j.ijhcs.2023.103092",
+"doi": "10.1016/j.ijhcs.2023.103092"
+},
+{
+"id": "p8ea29c7df4",
+"titre": "The Effect of Visualisation Level and Situational Visibility in Co-located Digital Musical Ensembles",
+"annee": 2022,
+"type": "conférence",
+"lieu": "New Interfaces for Musical Expression",
+"url": "https://hal.science/hal-03704678v1",
+"doi": "10.21428/92fbeb44.9d974714"
+},
+{
+"id": "p94c67e0bd5",
+"titre": "Vibrating shapes : Design and evolution of a spatial augmented reality interface for actuated instruments",
+"annee": 2022,
+"type": "conférence",
+"lieu": "New Interfaces for Musical Expression",
+"url": "https://hal.science/hal-03712843v1",
+"doi": "10.21428/92fbeb44.c28dd323"
+},
+{
+"id": "pc12d6513d5",
+"titre": "Where Is My Mind (Looking at)? A Study of the EEG–Visual Attention Relationship",
+"annee": 2022,
+"type": "journal",
+"lieu": "Informatics",
+"url": "https://doi.org/10.3390/informatics9010026",
+"doi": "10.3390/informatics9010026"
+},
+{
+"id": "p27a05c1a97",
+"titre": "Effect of Attention Saturating and Cognitive Load on Tactile Texture Recognition for Mobile Surface",
+"annee": 2021,
+"type": "conférence",
+"lieu": "18th IFIP Conference on Human-Computer Interaction (INTERACT)",
+"url": "https://uphf.hal.science/hal-03379590v1",
+"doi": "10.1007/978-3-030-85610-6_31"
+},
+{
+"id": "pb478bd7a74",
+"titre": "Levels of Detail in Visual Augmentations for the Novice and Expert Audiences",
+"annee": 2021,
+"type": "journal",
+"lieu": "Computer Music Journal",
+"url": "https://hal.science/hal-03106626v1"
+},
+{
+"id": "pdab86e2f20",
+"titre": "Multi-channel Tactile Feedback Based on User Finger Speed",
+"annee": 2021,
+"type": "journal",
+"lieu": "Proceedings of the ACM on Human-Computer Interaction",
+"url": "https://doi.org/10.1145/3488549",
+"doi": "10.1145/3488549"
+},
+{
+"id": "pc7a1408139",
+"titre": "Musical Exploration of Volumetric Textures in Mixed and Virtual Reality",
+"annee": 2021,
+"type": "conférence",
+"lieu": "International Conference on New Interfaces for Musical Expression (NIME 2021)",
+"url": "https://hal.science/hal-03260466v2",
+"doi": "10.21428/92fbeb44.6607d04f"
+},
+{
+"id": "p07b6a6f635",
+"titre": "PhyDAA: Physiological Dataset Assessing Attention",
+"annee": 2021,
+"type": "journal",
+"lieu": "IEEE Transactions on Circuits and Systems for Video Technology",
+"url": "https://doi.org/10.1109/tcsvt.2021.3061719",
+"doi": "10.1109/tcsvt.2021.3061719"
+},
+{
+"id": "p1f844a3f9a",
+"titre": "Revealable Volume Displays: 3D Exploration of Mixed-Reality Public Exhibitions",
+"annee": 2021,
+"type": "conférence",
+"lieu": "IEEE Conference on Virtual Reality and 3D User Interfaces",
+"url": "https://hal.science/hal-03186282v1",
+"doi": "10.1109/vr50410.2021.00023"
+},
+{
+"id": "p0678c9d166",
+"titre": "Survey on Style in 3D Human Body Motion: Taxonomy, Data, Recognition and its Applications",
+"annee": 2021,
+"type": "journal",
+"lieu": "IEEE Transactions on Affective Computing",
+"url": "https://hal.science/hal-02420912v1",
+"doi": "10.1109/taffc.2019.2906167"
+},
+{
+"id": "pef64415474",
+"titre": "The Effect of Control-Display Ratio on User Experience in Immersive Virtual Musical Instruments",
+"annee": 2021,
+"type": "conférence",
+"lieu": "International Conference on New Interfaces for Musical Expression",
+"url": "https://hal.science/hal-03265169v1"
+},
+{
+"id": "p47a711fc02",
+"titre": "The Effect of Rhythm in Mid-air Gestures on the User Experience in Virtual Reality",
+"annee": 2021,
+"type": "conférence",
+"lieu": "18th IFIP Conference on Human-Computer Interaction (INTERACT)",
+"url": "https://hal.science/hal-03338088v1",
+"doi": "10.1007/978-3-030-85613-7_13"
+},
+{
+"id": "p8d3236b839",
+"titre": "3D interaction techniques for musical expression",
+"annee": 2020,
+"type": "journal",
+"lieu": "Journal of New Music Research",
+"url": "https://hal.science/hal-02430634v1",
+"doi": "10.1080/09298215.2019.1706584"
+},
+{
+"id": "p3ec62d8bc6",
+"titre": "A Taxonomy of Spectator Experience Augmentation Techniques",
+"annee": 2020,
+"type": "conférence",
+"lieu": "NIME 2020 - The 20th International Conference of New Interfaces for Musical Expression",
+"url": "https://hal.science/hal-02560931v1"
+},
+{
+"id": "p1e62ee9ceb",
+"titre": "Adapting & Openness: Dynamics of Collaboration Interfaces for Heterogeneous Digital Orchestras",
+"annee": 2020,
+"type": "conférence",
+"lieu": "New Interfaces for Musical Expression",
+"url": "https://hal.science/hal-02561064v1"
+},
+{
+"id": "p4a4511b5e9",
+"titre": "All You Need Is LOD : Levels of Detail in Visual Augmentations for the Audience",
+"annee": 2020,
+"type": "conférence",
+"lieu": "The 20th International Conference of New Interfaces for Musical Expression",
+"url": "https://hal.science/hal-02560794v1"
+},
+{
+"id": "pb6c619987e",
+"titre": "Attention Estimation in Virtual Reality with EEG based Image Regression",
+"annee": 2020,
+"type": "conférence",
+"lieu": "IEEE International Conference on Artificial Intelligence and Virtual Reality (AIVR)",
+"url": "https://hal.science/hal-03108952v1"
+},
+{
+"id": "p9ff1b16884",
+"titre": "Effect of Physical Challenging Activity on Tactile Texture Recognition for Mobile Surface",
+"annee": 2020,
+"type": "journal",
+"lieu": "Proceedings of the ACM on Human-Computer Interaction",
+"url": "https://hal.science/hal-03107309v1",
+"doi": "10.1145/3427318"
+},
+{
+"id": "pfae67606e7",
+"titre": "Have a SEAT on Stage : Restoring Trust with Spectator Experience Augmentation Techniques",
+"annee": 2020,
+"type": "conférence",
+"lieu": "Designing Interactive Systems (DIS)",
+"url": "https://hal.science/hal-02560916v1",
+"doi": "10.1145/3357236.3395492"
+},
+{
+"id": "pc5b506b50b",
+"titre": "Investigating the semantic perceptual space of synthetic textures on an ultrasonic based haptic tablet",
+"annee": 2020,
+"type": "conférence",
+"lieu": "HUCAPP 2020",
+"url": "https://hal.science/hal-02434298v1"
+},
+{
+"id": "pe36b3fa670",
+"titre": "Levels of Detail in Visual Augmentation for Novice and Expert Audiences",
+"annee": 2020,
+"type": "journal",
+"lieu": "Computer Music Journal",
+"url": "https://doi.org/10.1162/comj_a_00568",
+"doi": "10.1162/comj_a_00568"
+},
+{
+"id": "p9b35b473d3",
+"titre": "VERA: Virtual Environments Recording Attention",
+"annee": 2020,
+"type": "conférence",
+"lieu": "IEEE 8th International Conference on Serious Games and Applications for Health (SeGAH 2020)",
+"url": "https://hal.science/hal-03120070v1",
+"doi": "10.1109/segah49190.2020.9201699"
+},
+{
+"id": "p9b9f20df03",
+"titre": "FEETICHE: FEET Input for Contactless Hand gEsture Interaction",
+"annee": 2019,
+"type": "conférence",
+"lieu": "17th ACM SIGGRAPH International Conference on Virtual-Reality Continuum and its Applications in Industry, VRCAI 2019",
+"url": "https://uphf.hal.science/hal-03675358v1",
+"doi": "10.1145/3359997.3365704"
+},
+{
+"id": "pc0b09f70a5",
+"titre": "Heterogeneous hand gesture recognition using 3D dynamic skeletal data",
+"annee": 2019,
+"type": "journal",
+"lieu": "Computer Vision and Image Understanding",
+"url": "https://hal.science/hal-02420779v1",
+"doi": "10.1016/j.cviu.2019.01.008"
+},
+{
+"id": "p511f190df8",
+"titre": "On the Use of Haptic Tablets for UGV Teleoperation in Unstructured Environments: System Design and Evaluation",
+"annee": 2019,
+"type": "journal",
+"lieu": "IEEE Access",
+"url": "https://hal.science/hal-02364946v1",
+"doi": "10.1109/access.2019.2928981"
+},
+{
+"id": "p285b936afd",
+"titre": "SHREC 2019 Track: Online Gesture Recognition",
+"annee": 2019,
+"type": "conférence",
+"lieu": "Eurographics Workshop on 3D Object Retrieval",
+"url": "https://hal.science/hal-02430914v1",
+"doi": "10.2312/3dor.20191067"
+},
+{
+"id": "pcac623253e",
+"titre": "The Perception of Ultrasonic Square Reductions of Friction with Variable Sharpness and Duration",
+"annee": 2019,
+"type": "journal",
+"lieu": "IEEE Transactions on Haptics (ToH)",
+"url": "https://inria.hal.science/hal-01997265v1",
+"doi": "10.1109/toh.2019.2894412"
+},
+{
+"id": "p76e441ffaa",
+"titre": "Touchless interaction with medical images based on 3D hand cursors supported by single-foot input: A case study in dentistry",
+"annee": 2019,
+"type": "journal",
+"lieu": "Journal of Biomedical Informatics",
+"url": "https://hal.science/hal-02436734v1",
+"doi": "10.1016/j.jbi.2019.103316"
+},
+{
+"id": "p83d3b60204",
+"titre": "Determining the Haptic Feedback Position for Optimizing the Targeting Performance on Ultrasonic Tactile Displays",
+"annee": 2018,
+"type": "conférence",
+"lieu": "IEEE Haptics Symposium (HAPTICS 2018)",
+"url": "https://inria.hal.science/hal-01734927v1"
+},
+{
+"id": "p4a6818f28d",
+"titre": "Ether-Toolbars: Evaluating Off-Screen Toolbars for Mobile Interaction",
+"annee": 2018,
+"type": "conférence",
+"lieu": "IUI 2018 - 23rd International Conference on Intelligent User Interfaces",
+"url": "https://hal.science/hal-01683967v1",
+"doi": "10.1145/3172944.3172978"
+},
+{
+"id": "p31811783e7",
+"titre": "Exploring Fingers' Limitation of Texture Density Perception on Ultrasonic Haptic Displays",
+"annee": 2018,
+"type": "conférence",
+"lieu": "EuroHaptics 2018 - 11th International Conference on Haptics: Science, Technology, and Applications",
+"url": "https://inria.hal.science/hal-01837910v1"
+},
+{
+"id": "pfd47f4d8b4",
+"titre": "The Phone with the Flow: Combining Touch + Optical Flow in Mobile Instruments",
+"annee": 2018,
+"type": "conférence",
+"lieu": "NIME 2018 - 18th International Conference on New Interfaces for Musical Expression",
+"url": "https://hal.science/hal-01809210v1"
+},
+{
+"id": "pa4ba29f886",
+"titre": "Toward Augmented Familiarity of the Audience with Digital Musical Instruments",
+"annee": 2018,
+"type": "chapitre",
+"lieu": "Music Technology with Swing",
+"url": "https://hal.science/hal-01954791v1"
+},
+{
+"id": "p35167823df",
+"titre": "Enriching Musical Interaction on Tactile Feedback Surfaces with Programmable Friction",
+"annee": 2017,
+"type": "conférence",
+"lieu": "International Symposium on Computer Music Multidisciplinary Research (CMMR 2017)",
+"url": "https://inria.hal.science/hal-01580750v1"
+},
+{
+"id": "p05140a72f9",
+"titre": "Feeling multiple edges: the tactile perception of short ultrasonic square reductions of the finger-surface friction",
+"annee": 2017,
+"type": "conférence",
+"lieu": "IEEE World Haptics Conference (WHC)",
+"url": "https://inria.hal.science/hal-01610898v1"
+},
+{
+"id": "p13c144b6c4",
+"titre": "Revgest: Augmenting Gestural Musical Instruments with Revealed Virtual Objects",
+"annee": 2017,
+"type": "conférence",
+"lieu": "International Conference on New Interfaces for Musical Expression",
+"url": "https://hal.science/hal-01518579v1"
+},
+{
+"id": "p6747781ea8",
+"titre": "bf-pd: Enabling Mediated Communication and Cooperation in Improvised Digital Orchestras",
+"annee": 2017,
+"type": "conférence",
+"lieu": "CMMR 2017 - 13th International Symposium on Computer Music Multidisciplinary Research",
+"url": "https://hal.science/hal-01577942v1"
+},
+{
+"id": "pe5944b0fa4",
+"titre": "3D Hand Gesture Recognition by Analysing Set-of-Joints Trajectories",
+"annee": 2016,
+"type": "conférence",
+"lieu": "International Conference on Pattern Recognition (ICPR) / UHA3DS 2016 workshop",
+"url": "https://hal.science/hal-01535168v1"
+},
+{
+"id": "p478bea7328",
+"titre": "BOEUF: A Unified Framework for Modeling and Designing Digital Orchestras",
+"annee": 2016,
+"type": "journal",
+"lieu": "Lecture Notes in Computer Science",
+"url": "https://hal.science/hal-01380373v1",
+"doi": "10.1007/978-3-319-46282-0_10"
+},
+{
+"id": "p81eecde0e7",
+"titre": "ControllAR: Appropriation of Visual Feedback on Control Surfaces",
+"annee": 2016,
+"type": "conférence",
+"lieu": "Interactive Spaces and Surfaces",
+"url": "https://hal.science/hal-01356239v1",
+"doi": "10.1145/2992154.2992170"
+},
+{
+"id": "p4677be2db0",
+"titre": "Motion segment decomposition of RGB-D sequences for human behavior understanding",
+"annee": 2016,
+"type": "journal",
+"lieu": "Pattern Recognition",
+"url": "https://doi.org/10.1016/j.patcog.2016.07.041",
+"doi": "10.1016/j.patcog.2016.07.041"
+},
+{
+"id": "pf98d93b4fa",
+"titre": "Spatial Interfaces and Interactive 3D Environments for Immersive Musical Performances",
+"annee": 2016,
+"type": "journal",
+"lieu": "IEEE Computer Graphics and Applications",
+"url": "https://inria.hal.science/hal-01374911v1",
+"doi": "10.1109/mcg.2016.96"
+},
+{
+"id": "p37517847f9",
+"titre": "Spontaneous Gesture Production Patterns on Multi-touch Interactive Surfaces",
+"annee": 2016,
+"type": "chapitre",
+"lieu": "Springer eBooks",
+"url": "https://doi.org/10.1007/978-3-319-45853-3_3",
+"doi": "10.1007/978-3-319-45853-3_3"
+},
+{
+"id": "p880459c265",
+"titre": "Stiffness rendering on soft tangible devices controlled through inverse FEM simulation",
+"annee": 2016,
+"type": "conférence",
+"lieu": "International Conference on Intelligent Robots and Systems - IROS 2016",
+"url": "https://inria.hal.science/hal-01386787v1"
+},
+{
+"id": "p635a045e8b",
+"titre": "Talaria: Continuous Drag & Drop on a Wall Display",
+"annee": 2016,
+"type": "conférence",
+"lieu": "ISS'16",
+"url": "https://inria.hal.science/hal-01381277v1",
+"doi": "10.1145/2992154.2992164"
+},
+{
+"id": "pd45d78ef50",
+"titre": "BOEUF : a Unified Framework for Modeling and Designing Digital Orchestras",
+"annee": 2015,
+"type": "conférence",
+"lieu": "International Symposium On Computer Music Multidisciplinary Research",
+"url": "https://hal.science/hal-01222396v2"
+},
+{
+"id": "peb2000b578",
+"titre": "Dynamir : Optical Manipulations using Dynamic Mirror Brushes",
+"annee": 2015,
+"type": "conférence",
+"lieu": "ACM International Conference on Interactive Tabletops and Surfaces,",
+"url": "https://hal.science/hal-01222512v1"
+},
+{
+"id": "p15856c192f",
+"titre": "Interaction musicale numérique. Recréer les signaux du contrôle et de la perception",
+"annee": 2015,
+"type": "journal",
+"lieu": "Traitement du Signal",
+"url": "https://hal.science/hal-01304262v1",
+"doi": "10.3166/ts.32.345-363"
+},
+{
+"id": "pee9a3f97f8",
+"titre": "Liveness Through the Lens of Agency and Causality",
+"annee": 2015,
+"type": "conférence",
+"lieu": "International Conference on New Interfaces for Musical Expression",
+"url": "https://hal.science/hal-01170032v1"
+},
+{
+"id": "p0f9157569e",
+"titre": "Numerical Anamorphosis: an Artistic Exploration",
+"annee": 2015,
+"type": "conférence",
+"lieu": "SIGGRAPH ASIA 2015",
+"url": "https://hal.science/hal-01258727v1"
+},
+{
+"id": "p5e68e6bcb6",
+"titre": "Reflets: Combining and Revealing Spaces for Musical Performances",
+"annee": 2015,
+"type": "conférence",
+"lieu": "New Interfaces for Musical Expression (NIME)",
+"url": "https://inria.hal.science/hal-01136857v1"
+},
+{
+"id": "pe62239459f",
+"titre": "Which interactions to foster the social dimension of museum visit?",
+"annee": 2015,
+"type": "conférence",
+"lieu": "Workshop “Cultural Heritage Communities: Technologies and Challenges”",
+"url": "https://hal.science/hal-01328841v1"
+},
+{
+"id": "p77a371ba8b",
+"titre": "3-D Human Action Recognition by Shape Analysis of Motion Trajectories on Riemannian Manifold",
+"annee": 2014,
+"type": "journal",
+"lieu": "IEEE Transactions on Cybernetics",
+"url": "https://doi.org/10.1109/tcyb.2014.2350774",
+"doi": "10.1109/tcyb.2014.2350774"
+},
+{
+"id": "pe2282804c0",
+"titre": "3D human motion analysis framework for shape similarity and retrieval",
+"annee": 2014,
+"type": "journal",
+"lieu": "Image and Vision Computing",
+"url": "https://doi.org/10.1016/j.imavis.2013.12.011",
+"doi": "10.1016/j.imavis.2013.12.011"
+},
+{
+"id": "p1948340615",
+"titre": "Accurate 3D action recognition using learning on the Grassmann manifold",
+"annee": 2014,
+"type": "journal",
+"lieu": "Pattern Recognition",
+"url": "https://doi.org/10.1016/j.patcog.2014.08.011",
+"doi": "10.1016/j.patcog.2014.08.011"
+},
+{
+"id": "p1b1dea8ae0",
+"titre": "Exploring tablet surrounding interaction spaces for medical imaging",
+"annee": 2014,
+"type": "conférence",
+"lieu": "Spatial User Interface",
+"url": "https://inria.hal.science/hal-01059904v1"
+},
+{
+"id": "pd3e1e4be3e",
+"titre": "Interaction events in contactless gestural systems: from motion to interaction",
+"annee": 2014,
+"type": "conférence",
+"lieu": "Moco'14",
+"url": "https://inria.hal.science/hal-01048558v1",
+"doi": "10.1145/2617995.2618027"
+},
+{
+"id": "pa349068fe2",
+"titre": "Match-Up & Conquer: A Two-Step Technique for Recognizing Unconstrained Bimanual and Multi-Finger Touch Input",
+"annee": 2014,
+"type": "conférence",
+"lieu": "AVI 2014, the 12th International Working Conference on Advanced Visual Interfaces",
+"url": "https://inria.hal.science/hal-00991940v1",
+"doi": "10.1145/2598153.2598167"
+},
+{
+"id": "pef1b92a953",
+"titre": "Mimetic Interaction Spaces : Controlling Distant Displays in Pervasive Environments",
+"annee": 2014,
+"type": "conférence",
+"lieu": "Intelligent User Interfaces",
+"url": "https://inria.hal.science/hal-01021337v1",
+"doi": "10.1145/2557500.2557545"
+},
+{
+"id": "p2a87fab5cc",
+"titre": "Real-time FEM based control of soft surgical robots",
+"annee": 2014,
+"type": "conférence",
+"lieu": "SURGETICA 2014",
+"url": "https://inria.hal.science/hal-01105146v1"
+},
+{
+"id": "p012866a634",
+"titre": "Scenography of immersive virtual musical instruments",
+"annee": 2014,
+"type": "conférence",
+"lieu": "VR Workshop: Sonic Interaction in Virtual Environments (SIVE), 2014 IEEE",
+"url": "https://hal.science/hal-01222454v1",
+"doi": "10.1109/sive.2014.7006285"
+},
+{
+"id": "p73f5965299",
+"titre": "Through the Combining Glass",
+"annee": 2014,
+"type": "conférence",
+"lieu": "ACM Symposium on User Interface Software and Technology",
+"url": "https://hal.science/hal-01222458v1"
+},
+{
+"id": "p11a8642775",
+"titre": "Understanding Users' Perceived Difficulty of Multi-Touch Gesture Articulation",
+"annee": 2014,
+"type": "conférence",
+"lieu": "ICMI'14, the 16th ACM International Conference on Multimodal Interaction",
+"url": "https://inria.hal.science/hal-01058793v1",
+"doi": "10.1145/2663204.2663273"
+},
+{
+"id": "p5b22aac4d5",
+"titre": "Multi-scale design of interactive music systems : the libTuiles experiment",
+"annee": 2013,
+"type": "conférence",
+"lieu": "SMC 2013",
+"url": "https://hal.science/hal-00813313v1"
+},
+{
+"id": "pac1297046a",
+"titre": "Rouages: Revealing the Mechanisms of Digital Musical Instruments to the Audience",
+"annee": 2013,
+"type": "conférence",
+"lieu": "New Interfaces for Musical Expression",
+"url": "https://hal.science/hal-00807049v3"
+},
+{
+"id": "paa83da2cd6",
+"titre": "Small, Medium, or Large? Estimating the User-Perceived Scale of Stroke Gestures",
+"annee": 2013,
+"type": "conférence",
+"lieu": "CHI'13, the 31th Conference on Human Factors in Computing Systems",
+"url": "https://inria.hal.science/hal-00799956v1",
+"doi": "10.1145/2470654.2470692"
+},
+{
+"id": "p18d31d8e4a",
+"titre": "The T-Calculus : towards a structured programing of (musical) time and space",
+"annee": 2013,
+"type": "conférence",
+"lieu": "FARM 2013",
+"url": "https://hal.science/hal-00789189v3",
+"doi": "10.1145/2505341.2505347"
+},
+{
+"id": "p187018d19f",
+"titre": "libTuile : un moteur d'exécution multi-échelle de processus musicaux hiérarchisés",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Journées d'Informatique Musicale",
+"url": "https://hal.science/hal-00790792v1"
+},
+{
+"id": "p7f5f246494",
+"titre": "A Sketch-Based Interface for Annotation of 3D Brain Vascular Reconstructions",
+"annee": 2012,
+"type": "conférence",
+"lieu": "Computer Graphics International 2012",
+"url": "https://inria.hal.science/hal-00758420v1"
+},
+{
+"id": "p47244fbcb5",
+"titre": "Advanced Synchronization of Audio or Symbolic Musical Patterns: An Algebraic Approach",
+"annee": 2012,
+"type": "journal",
+"lieu": "International Journal of Semantic Computing",
+"url": "https://hal.science/hal-00794196v1",
+"doi": "10.1142/s1793351x12400132"
+},
+{
+"id": "p30e0498e4e",
+"titre": "Advanced Synchronization of Audio or Symbolic Musical Patterns: An Algebraic Approach",
+"annee": 2012,
+"type": "conférence",
+"lieu": "ICSC",
+"url": "https://hal.science/hal-00698963v2",
+"doi": "10.1109/icsc.2012.11"
+},
+{
+"id": "p886e3de0c9",
+"titre": "Beyond the Tunnels: Advanced 3D graphical modulation",
+"annee": 2012,
+"type": "conférence",
+"lieu": "2012 IEEE Symposium on 3D User Interfaces (3DUI)",
+"url": "https://hal.science/hal-00793580v1"
+},
+{
+"id": "p08d7690f1b",
+"titre": "Drag'n Go: Simple and Fast Navigation in Virtual Environment",
+"annee": 2012,
+"type": "conférence",
+"lieu": "IEEE Symposium on 3D User Interface",
+"url": "https://hal.science/hal-00676444v3"
+},
+{
+"id": "p948ce42415",
+"titre": "Improving color correction across camera and illumination changes by contextual sample selection",
+"annee": 2012,
+"type": "journal",
+"lieu": "Journal of Electronic Imaging",
+"url": "https://doi.org/10.1117/1.jei.21.2.023015",
+"doi": "10.1117/1.jei.21.2.023015"
+},
+{
+"id": "p44a366a814",
+"titre": "Integrality and Separability of Multi-touch Interaction Techniques in 3D Manipulation Tasks",
+"annee": 2012,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-00670530v1",
+"doi": "10.1109/tvcg.2011.129"
+},
+{
+"id": "p41f608d625",
+"titre": "Interface for Gestural Interaction in Virtual Reality Environments",
+"annee": 2012,
+"type": "journal",
+"lieu": "Elektronika ir Elektrotechnika",
+"url": "https://doi.org/10.5755/j01.eee.121.5.1659",
+"doi": "10.5755/j01.eee.121.5.1659"
+},
+{
+"id": "p9dca29f24f",
+"titre": "Mouvements pseudo-rigides pour des interactions multi-doigts plus flexibles",
+"annee": 2012,
+"type": "conférence",
+"lieu": "ErgoIHM",
+"url": "https://inria.hal.science/hal-00744269v1"
+},
+{
+"id": "pee63803d7c",
+"titre": "Estimating the Perceived Difficulty of Pen Gestures",
+"annee": 2011,
+"type": "conférence",
+"lieu": "13th International Conference on Human-Computer Interaction (INTERACT)",
+"url": "https://inria.hal.science/inria-00638385v1",
+"doi": "10.1007/978-3-642-23771-3_9"
+},
+{
+"id": "pf459dd976e",
+"titre": "First Person Shooters as Collaborative Multiprocess Instruments",
+"annee": 2011,
+"type": "conférence",
+"lieu": "New Interfaces for Musical Expression",
+"url": "https://hal.science/hal-00631782v1"
+},
+{
+"id": "p88c0c37f29",
+"titre": "Interacting with 3D Reactive Widgets for Musical Performance",
+"annee": 2011,
+"type": "journal",
+"lieu": "Journal of New Music Research",
+"url": "https://hal.science/hal-00633750v1"
+},
+{
+"id": "paab0f2f271",
+"titre": "REACTIVE: Development of a tool for rehabilitation for stroke survivors in virtual reality",
+"annee": 2011,
+"type": "journal",
+"lieu": "Innovation and Research in BioMedical engineering",
+"url": "https://inria.hal.science/inria-00638396v1",
+"doi": "10.1016/j.irbm.2011.01.025"
+}
+]
+}

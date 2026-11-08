@@ -1,0 +1,49 @@
+# Génère la cartographie « Qui fait quoi en informatique graphique ? » et la publie sur GitHub Pages
+# à chaque modification de la branche main (ou à la demande, onglet Actions).
+# Aucune collecte réseau, aucun secret : les données calculées sont dans cartographie/donnees/.
+name: Cartographie (GitHub Pages)
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  construire:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install pyyaml tqdm
+      - name: Contrôle des fiches
+        run: python scripts/carto_verifier.py --public
+      - name: README à jour par rapport à data.yaml
+        continue-on-error: true  # simple avertissement : relancer scripts/generate.py et committer le README
+        run: python scripts/generate.py && git diff --exit-code README.md json/data.json
+      - name: Génération de la page
+        run: python scripts/carto_generer.py --public
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  publier:
+    needs: construire
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploiement.outputs.page_url }}
+    steps:
+      - id: deploiement
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,1549 @@
+{
+"equipe": "LaSTIG/GEOVIS",
+"publications": [
+{
+"id": "p9307515e2b",
+"titre": "2D/3D visualization for ensemble forecasting of coastal submersion",
+"annee": 2026,
+"type": "conférence",
+"lieu": "Visualising Climate 2026",
+"url": "https://hal.science/hal-05801805v1"
+},
+{
+"id": "p2272a9ba37",
+"titre": "Atmospheric correction of aerial imagery using satellite-derived reflectance data",
+"annee": 2026,
+"type": "conférence",
+"lieu": "ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences",
+"url": "https://hal.science/hal-05702698v1",
+"doi": "10.5194/isprs-annals-xi-1-2026-71-2026"
+},
+{
+"id": "pc8b6092e5a",
+"titre": "Consolidating feedbacks and expertise of Digital Twins of Territories’ engineers in nation-wide frameworks",
+"annee": 2026,
+"type": "conférence",
+"lieu": "ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences",
+"url": "https://hal.science/hal-05702715v1",
+"doi": "10.5194/isprs-annals-xi-1-2026-355-2026"
+},
+{
+"id": "p6e28112ea9",
+"titre": "GeoEpidemio: combining 2D and 3D spatio-temporal visualizations to support simulated epidemiological data analysis",
+"annee": 2026,
+"type": "conférence",
+"lieu": "EuroVis 2026 - 28th EG Conference on Visualization",
+"url": "https://inria.hal.science/hal-05759255v1",
+"doi": "10.2312/evs.20261016"
+},
+{
+"id": "p82aaca1732",
+"titre": "Interactive geovisualisation for heterogenous big databases exploration at building scale",
+"annee": 2026,
+"type": "conférence",
+"lieu": "Conférence Francophone de l'International Building Performance Simulation Association, IBPSA 2026 et Ecole thématique SIMUREX",
+"url": "https://hal.science/hal-05694128v1"
+},
+{
+"id": "p0e3b760dcc",
+"titre": "Night Sky Explorer VR",
+"annee": 2026,
+"type": "journal",
+"lieu": "ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences",
+"url": "https://hal.science/hal-05693947v1",
+"doi": "10.5194/isprs-annals-xi-4-2026-231-2026"
+},
+{
+"id": "pd1162ef622",
+"titre": "STAG: System for ouTdoor Augmented reality using GeoWebXR",
+"annee": 2026,
+"type": "conférence",
+"lieu": "ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences",
+"url": "https://hal.science/hal-05689338v1",
+"doi": "10.5194/isprs-annals-xi-4-2026-213-2026"
+},
+{
+"id": "p9b295678c3",
+"titre": "Staring at the pointer - gaze behavior when people zoom and pan in maps",
+"annee": 2026,
+"type": "journal",
+"lieu": "Cartography and Geographic Information Science",
+"url": "https://hal.science/hal-05606370v1",
+"doi": "10.1080/15230406.2026.2650276"
+},
+{
+"id": "pe21773aaa2",
+"titre": "Designs for the visual analysis of spatio-temporal origin-destination flow data",
+"annee": 2025,
+"type": "conférence",
+"lieu": "SAGEO 2025",
+"url": "https://hal.science/hal-05361694v1"
+},
+{
+"id": "p79ed87c3a4",
+"titre": "Exact Computation for Robust 3D polyhedral interactive modeling",
+"annee": 2025,
+"type": "conférence",
+"lieu": "Web3D '25: The 30th International Conference on 3D Web Technology",
+"url": "https://hal.science/hal-05288439v1",
+"doi": "10.1145/3746237.3746298"
+},
+{
+"id": "p37d0e62b3e",
+"titre": "Fidelity of Immersive Representations of Luminous Atmospheres in VR HMDs: Comparing Real Daylit Iconic Interiors and their 360° images",
+"annee": 2025,
+"type": "journal",
+"lieu": "LEUKOS",
+"url": "https://hal.science/hal-05268429v1",
+"doi": "10.1080/15502724.2025.2549001"
+},
+{
+"id": "pc20997b100",
+"titre": "Look at the toponym or the sea",
+"annee": 2025,
+"type": "conférence",
+"lieu": "SAGEO 2025",
+"url": "https://hal.science/hal-05448226v1"
+},
+{
+"id": "p350395d38b",
+"titre": "Radiometric Cross-Calibration of an Aerial Sensor with Satellite Top-of-Atmosphere Reflectance",
+"annee": 2025,
+"type": "conférence",
+"lieu": "44th EARSeL Symposium",
+"url": "https://hal.science/hal-05104914v1",
+"doi": "10.5194/isprs-archives-xlviii-m-7-2025-49-2025"
+},
+{
+"id": "p1144f541d9",
+"titre": "Représenter les données climatiques urbaines : sémiologie et géovisualisation",
+"annee": 2025,
+"type": "journal",
+"lieu": "Risques urbains",
+"url": "https://hal.science/hal-05269336v1",
+"doi": "10.21494/iste.op.2025.1318"
+},
+{
+"id": "p09b6936d72",
+"titre": "This is a map of 'Jardin Lecoq' - Analyzing map descriptions from LLMs",
+"annee": 2025,
+"type": "conférence",
+"lieu": "2nd CartoAI Workshop",
+"url": "https://hal.science/hal-05117293v1"
+},
+{
+"id": "pe22d5d7fdb",
+"titre": "Towards the Territorial Digital Twin on demand",
+"annee": 2025,
+"type": "conférence",
+"lieu": "Spatial Analysis and GEOmatics, SAGEO 2025",
+"url": "https://hal.science/hal-05151550v1"
+},
+{
+"id": "p15e929bb08",
+"titre": "Understanding the Carbon Footprint of Tile Transfer for Web Maps",
+"annee": 2025,
+"type": "journal",
+"lieu": "ISPRS International Journal of Geo-Information",
+"url": "https://hal.science/hal-04975510v1",
+"doi": "10.3390/ijgi14030107"
+},
+{
+"id": "p86868f6db7",
+"titre": "Visualizing uncertainty from meteo-oceanic ensemble data",
+"annee": 2025,
+"type": "conférence",
+"lieu": "2025 IEEE Workshop on Uncertainty Visualization: Unraveling Relationships of Uncertainty, AI, and Decision-Making",
+"url": "https://hal.science/hal-05213756v1",
+"doi": "10.1109/uncertaintyvisualization68947.2025.00013"
+},
+{
+"id": "p30ee931777",
+"titre": "Browsing Map Browsers",
+"annee": 2024,
+"type": "conférence",
+"lieu": "EuroCarto 2024",
+"url": "https://hal.science/hal-04688065v1",
+"doi": "10.5194/ica-abs-7-130-2024"
+},
+{
+"id": "pb41d563806",
+"titre": "Editing Watertight Manifold Polyhedra using Face Shifts with Automatic Topological Updates and Edge Flips",
+"annee": 2024,
+"type": "conférence",
+"lieu": "Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci.",
+"url": "https://hal.science/hal-04933073v1",
+"doi": "10.5194/isprs-archives-xlviii-2-w8-2024-169-2024"
+},
+{
+"id": "pa140974ced",
+"titre": "EyeCatchingMaps, a Dataset to Assess Saliency Models on Maps",
+"annee": 2024,
+"type": "conférence",
+"lieu": "AGILE 2024",
+"url": "https://hal.science/hal-04598520v1",
+"doi": "10.5194/agile-giss-5-51-2024"
+},
+{
+"id": "p0a909bf7e6",
+"titre": "Producing accessible intersection maps for people with visual impairments: an initial evaluation of a semi-automated approach",
+"annee": 2024,
+"type": "journal",
+"lieu": "Cartography and Geographic Information Science",
+"url": "https://hal.science/hal-04425580v1",
+"doi": "10.1080/15230406.2023.2295043"
+},
+{
+"id": "pa00aa60c3d",
+"titre": "Recording the Use of Interactive Web Maps with ZoomTracker",
+"annee": 2024,
+"type": "conférence",
+"lieu": "EuroCarto 2024",
+"url": "https://hal.science/hal-04688054v1",
+"doi": "10.5194/ica-abs-7-176-2024"
+},
+{
+"id": "p29846a0d39",
+"titre": "Geovisualization and Cartographic Communication",
+"annee": 2023,
+"type": "chapitre",
+"lieu": "Wiley eBooks",
+"url": "https://doi.org/10.1002/9781394265022.ch7",
+"doi": "10.1002/9781394265022.ch7"
+},
+{
+"id": "p6b53eae872",
+"titre": "Semi-automated Pipeline to Produce Customizable Tactile Maps of Street Intersections for People with Visual Impairments",
+"annee": 2023,
+"type": "conférence",
+"lieu": "26th AGILE Conference on Geographic Information Science “Spatial data for design” (2023)",
+"url": "https://hal.science/hal-04250236v1",
+"doi": "10.5194/agile-giss-4-29-2023"
+},
+{
+"id": "pc384a22ef6",
+"titre": "Text-to-map generation: an exploration of current potentials",
+"annee": 2023,
+"type": "conférence",
+"lieu": "CartoAI: AI for cartography",
+"url": "https://hal.science/hal-04224973v1"
+},
+{
+"id": "p0deab7b2c1",
+"titre": "Where do people look at during multi-scale map tasks?",
+"annee": 2023,
+"type": "conférence",
+"lieu": "AGILE 2023",
+"url": "https://hal.science/hal-04125441v1",
+"doi": "10.5194/agile-giss-4-51-2023"
+},
+{
+"id": "pa2b3346ba1",
+"titre": "3D geovisualization for visual analysis of urban climate",
+"annee": 2022,
+"type": "journal",
+"lieu": "Cybergeo : Revue européenne de géographie / European journal of geography",
+"url": "https://hal.science/hal-03657965v1",
+"doi": "10.4000/cybergeo.38518"
+},
+{
+"id": "p20c31833e3",
+"titre": "A l’aide ! Je me suis perdu en zoomant",
+"annee": 2022,
+"type": "journal",
+"lieu": "Cartes & géomatique",
+"url": "https://hal.science/hal-05070235v1",
+"doi": "10.62437/cixz340-658etyknpgmcw-19173376"
+},
+{
+"id": "pc5609a9449",
+"titre": "ALEGORIA: Joint Multimodal Search and Spatial Navigation into the Geographic Iconographic Heritage",
+"annee": 2022,
+"type": "conférence",
+"lieu": "Demo at MM '22, the 30th ACM International Conference on Multimedia",
+"url": "https://hal.science/hal-03736847v1",
+"doi": "10.1145/3503161.3547746"
+},
+{
+"id": "p0d7ca5a3ea",
+"titre": "Experiencing virtual geographic environment in urban 3D participatory e-planning: A user perspective",
+"annee": 2022,
+"type": "journal",
+"lieu": "Landscape and Urban Planning",
+"url": "https://hal.science/hal-03650229v1",
+"doi": "10.1016/j.landurbplan.2022.104432"
+},
+{
+"id": "p7ebba44339",
+"titre": "Neural map style transfer exploration with GANs",
+"annee": 2022,
+"type": "journal",
+"lieu": "International Journal of Cartography",
+"url": "https://hal.science/hal-03657977v1",
+"doi": "10.1080/23729333.2022.2031554"
+},
+{
+"id": "pbed1046931",
+"titre": "Projective multitexturing of current 3D city models and point clouds with many historical images",
+"annee": 2022,
+"type": "conférence",
+"lieu": "ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences",
+"url": "https://hal.science/hal-03684813v1",
+"doi": "10.5194/isprs-annals-v-4-2022-213-2022"
+},
+{
+"id": "p642e1dd750",
+"titre": "Virtual data sphere: inverse stereographic projection for immersive multi-perspective geovisualization",
+"annee": 2022,
+"type": "journal",
+"lieu": "ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences",
+"url": "https://hal.science/hal-03735799v1",
+"doi": "10.5194/isprs-annals-v-4-2022-235-2022"
+},
+{
+"id": "pbe7c227d7d",
+"titre": "COVID-19 geoviz for spatio-temporal structures detection",
+"annee": 2021,
+"type": "conférence",
+"lieu": "30th International Cartographic Conference (ICC 2021)",
+"url": "https://hal.science/hal-03552927v1",
+"doi": "10.5194/ica-proc-4-37-2021"
+},
+{
+"id": "p8b88a9a1a4",
+"titre": "Cluttering Reduction for Interactive Navigation and Visualization of Historical Images",
+"annee": 2021,
+"type": "conférence",
+"lieu": "ICC 2021 - 30th International Cartographic Conference",
+"url": "https://hal.science/hal-03465505v1",
+"doi": "10.5194/ica-proc-4-81-2021"
+},
+{
+"id": "pcda80afc09",
+"titre": "Efficiently Distributed Watertight Surface Reconstruction",
+"annee": 2021,
+"type": "conférence",
+"lieu": "2021 International Conference on 3D Vision (3DV)",
+"url": "https://hal.science/hal-03380593v1"
+},
+{
+"id": "p27bf831230",
+"titre": "How do users interact with Virtual Geographic Environments? Users’ behavior evaluation in urban participatory planning",
+"annee": 2021,
+"type": "conférence",
+"lieu": "30th International Cartographic Conference (ICC 2021) 14–18 December 2021, Florence, Italy",
+"url": "https://hal.science/hal-03521789v1",
+"doi": "10.5194/ica-proc-4-19-2021"
+},
+{
+"id": "p4602a4bce6",
+"titre": "Mapping road crossings for visually impaired people",
+"annee": 2021,
+"type": "conférence",
+"lieu": "30th International Cartographic Conference (ICC 2021)",
+"url": "https://hal.science/hal-03484068v1",
+"doi": "10.5194/ica-abs-3-127-2021"
+},
+{
+"id": "pe565487506",
+"titre": "Navigation immersive dans des images historiques (ANR ALEGORIA)",
+"annee": 2021,
+"type": "conférence",
+"lieu": "Webinar 3D « autour de la 3D »",
+"url": "https://hal.science/hal-03463224v1"
+},
+{
+"id": "pf0166b8443",
+"titre": "Navigation immersive dans des photographies historiques (ANR ALEGORIA)",
+"annee": 2021,
+"type": "conférence",
+"lieu": "Masses de Données, Informations et Connaissances en Sciences - Observation 3D : outils et verrous",
+"url": "https://hal.science/hal-03463207v1"
+},
+{
+"id": "p4dcee142bf",
+"titre": "Please, Help Me! I Am Lost in Zoom",
+"annee": 2021,
+"type": "journal",
+"lieu": "Proceedings of the ICA",
+"url": "https://doi.org/10.5194/ica-proc-4-107-2021",
+"doi": "10.5194/ica-proc-4-107-2021"
+},
+{
+"id": "p1babc27956",
+"titre": "Restoring the Shantytowns of Nanterre: Benefits of a 3D Visualisation Tool for a Social Sciences Project",
+"annee": 2021,
+"type": "journal",
+"lieu": "Humanités numériques",
+"url": "https://hal.science/hal-03261482v1",
+"doi": "10.4000/revuehn.1946"
+},
+{
+"id": "pbf6725961f",
+"titre": "Visual analysis of inconsistencies in hydraulic simulation data",
+"annee": 2021,
+"type": "conférence",
+"lieu": "ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences",
+"url": "https://hal.science/hal-02877363v2",
+"doi": "10.5194/isprs-archives-xliii-b4-2020-795-2020"
+},
+{
+"id": "p258d4fbf69",
+"titre": "A Spatio-temporal Web-application for the Understanding of the Formation of the Parisian Metropolis",
+"annee": 2020,
+"type": "conférence",
+"lieu": "3D GeoInfo 2020 conference, ISPRS Annals of Photogrammetry, Remote Sensing and Spatial Information Sciences, VI-4/W1-2020",
+"url": "https://hal.science/hal-02911701v1",
+"doi": "10.5194/isprs-annals-vi-4-w1-2020-45-2020"
+},
+{
+"id": "pae86214da1",
+"titre": "Exploring Multiple and Coordinated Views for Multilayered Geospatial Data in Virtual Reality",
+"annee": 2020,
+"type": "journal",
+"lieu": "Information",
+"url": "https://hal.science/hal-02931923v1",
+"doi": "10.3390/info11090425"
+},
+{
+"id": "p64f50cd610",
+"titre": "Extended Reality in Spatial Sciences: A Review of Research Challenges and Future Directions",
+"annee": 2020,
+"type": "journal",
+"lieu": "ISPRS International Journal of Geo-Information",
+"url": "https://hal.science/hal-02901566v1",
+"doi": "10.3390/ijgi9070439"
+},
+{
+"id": "p84f9e46637",
+"titre": "Feature Driven Combination of Animated Vector Field Visualizations",
+"annee": 2020,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://enac.hal.science/hal-02907118v1",
+"doi": "10.1111/cgf.13992"
+},
+{
+"id": "pf2c94b1da4",
+"titre": "Flex-ER: A Platform to Evaluate Interaction Techniques for Immersive Visualizations",
+"annee": 2020,
+"type": "journal",
+"lieu": "Proceedings of the ACM on Human-Computer Interaction",
+"url": "https://enac.hal.science/hal-03094867v2",
+"doi": "10.1145/3427323"
+},
+{
+"id": "p1289dd132c",
+"titre": "Geometric distortion of historical images for 3D visualisation",
+"annee": 2020,
+"type": "conférence",
+"lieu": "ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences",
+"url": "https://hal.science/hal-02863366v1",
+"doi": "10.5194/isprs-annals-v-2-2020-649-2020"
+},
+{
+"id": "pc09b48c618",
+"titre": "Geovisualization and harmonic analysis for the exploratory search of localized cyclic recurrences in spatio-temporal event data",
+"annee": 2020,
+"type": "journal",
+"lieu": "Geomatica",
+"url": "https://hal.science/hal-03253267v1",
+"doi": "10.1139/geomat-2020-0004"
+},
+{
+"id": "p5c19862e36",
+"titre": "Geovisualization: multidimensional exploration of the territory",
+"annee": 2020,
+"type": "conférence",
+"lieu": "15th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications, IVAPP 2020",
+"url": "https://hal.science/hal-02472748v1",
+"doi": "10.5220/0009355703250332"
+},
+{
+"id": "pb7150e77ea",
+"titre": "MapStack: Exploring Multilayered Geospatial Data In Virtual Reality",
+"annee": 2020,
+"type": "conférence",
+"lieu": "11th International Conference on Information Visualization Theory and Applications",
+"url": "https://hal.science/hal-02932169v1",
+"doi": "10.5220/0008978600880099"
+},
+{
+"id": "p7bd4b7970a",
+"titre": "Modalflow: Cross-Origin Flow Data Visualization for Urban Mobility",
+"annee": 2020,
+"type": "journal",
+"lieu": "Algorithms",
+"url": "https://enac.hal.science/hal-03029305v1",
+"doi": "10.3390/a13110298"
+},
+{
+"id": "p415505081e",
+"titre": "Opportunities and challenges for augmented reality situated geographical visualization",
+"annee": 2020,
+"type": "conférence",
+"lieu": "ISPRS Annals of Photogrammetry, Remote Sensing and Spatial Information Sciences",
+"url": "https://hal.science/hal-02878352v1",
+"doi": "10.5194/isprs-annals-v-4-2020-163-2020"
+},
+{
+"id": "peefbfd050b",
+"titre": "Provably Consistent Distributed Delaunay Triangulation",
+"annee": 2020,
+"type": "conférence",
+"lieu": "International Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences (ISPRS Annals)",
+"url": "https://hal.science/hal-02551509v1",
+"doi": "10.5194/isprs-annals-v-2-2020-195-2020"
+},
+{
+"id": "p5550a22927",
+"titre": "TOWARDS SDG 4: TRADE-OFFS FOR GEOSPATIAL OPEN EDUCATIONAL RESOURCES",
+"annee": 2020,
+"type": "journal",
+"lieu": "The international archives of the photogrammetry, remote sensing and spatial information sciences/International archives of the photogrammetry, remote sensing and spatial information sciences",
+"url": "https://doi.org/10.5194/isprs-archives-xliii-b5-2020-199-2020",
+"doi": "10.5194/isprs-archives-xliii-b5-2020-199-2020"
+},
+{
+"id": "pb7d79f5b27",
+"titre": "The Urban Climate Services URCLIM project",
+"annee": 2020,
+"type": "journal",
+"lieu": "Climate services",
+"url": "https://hal.science/hal-04650151v1",
+"doi": "10.1016/j.cliser.2020.100194"
+},
+{
+"id": "p9d5570010a",
+"titre": "VISUALIZING 3D CLIMATE DATA IN URBAN 3D MODELS",
+"annee": 2020,
+"type": "journal",
+"lieu": "The international archives of the photogrammetry, remote sensing and spatial information sciences/International archives of the photogrammetry, remote sensing and spatial information sciences",
+"url": "https://doi.org/10.5194/isprs-archives-xliii-b4-2020-781-2020",
+"doi": "10.5194/isprs-archives-xliii-b4-2020-781-2020"
+},
+{
+"id": "pa41d0a4fd2",
+"titre": "Visualizing multilayered geospatial data in virtual reality to access public lighting",
+"annee": 2020,
+"type": "journal",
+"lieu": "ISPRS International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences",
+"url": "https://hal.science/hal-02932206v1",
+"doi": "10.5194/isprs-archives-xliii-b4-2020-623-2020"
+},
+{
+"id": "p10727ee695",
+"titre": "A LIDAR Interactive Data Visualization for Ground Aircraft Detection at Small Airports",
+"annee": 2019,
+"type": "conférence",
+"lieu": "SID 2019, 9th SESAR Innovation Days",
+"url": "https://enac.hal.science/hal-02558005v1"
+},
+{
+"id": "p2cd9b1abad",
+"titre": "Améliorer la recherche de victimes en montagne grâce à la gestion d'hypothèses et à la géovisualisation",
+"annee": 2019,
+"type": "journal",
+"lieu": "Cartes & géomatique",
+"url": "https://univ-grenoble-alpes.hal.science/hal-02980427v1"
+},
+{
+"id": "p71ebefe4d6",
+"titre": "Améliorer la recherche de victimes en montagne grâce à la gestion d’hypothèses et à la géovisualisation",
+"annee": 2019,
+"type": "journal",
+"lieu": "Cartes & géomatique",
+"url": "https://hal.science/hal-05085234v1",
+"doi": "10.62437/cixz344-652etyknpgmcw-19188375"
+},
+{
+"id": "p7b047e5cc5",
+"titre": "Animation Plans for Before-and-After Satellite Images",
+"annee": 2019,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-01773882v1",
+"doi": "10.1109/tvcg.2018.2796557"
+},
+{
+"id": "p2238ebae59",
+"titre": "Automatic derivation of on-demand tactile maps for visually impaired people: first experiments and research agenda",
+"annee": 2019,
+"type": "journal",
+"lieu": "International Journal of Cartography",
+"url": "https://uca.hal.science/hal-01980146v1",
+"doi": "10.1080/23729333.2018.1486784"
+},
+{
+"id": "pdd7fe0ea50",
+"titre": "Color Theory",
+"annee": 2019,
+"type": "chapitre",
+"lieu": "The Geographic Information Science & Technology Body of Knowledge",
+"url": "https://hal.science/hal-02280409v1",
+"doi": "10.22224/gistbok/2019.1.9"
+},
+{
+"id": "pad627da273",
+"titre": "Data multiplexing through animated texture orientation and color",
+"annee": 2019,
+"type": "conférence",
+"lieu": "VISIGRAPP 2019 - Proceedings of the 14th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications",
+"url": "https://enac.hal.science/hal-02120615v1",
+"doi": "10.5220/0007391602890296"
+},
+{
+"id": "p99f018ea29",
+"titre": "Designing Geovisual Analytics Environments and Displays with Humans in Mind",
+"annee": 2019,
+"type": "journal",
+"lieu": "ISPRS International Journal of Geo-Information",
+"url": "https://hal.science/hal-02866505v1",
+"doi": "10.3390/ijgi8120572"
+},
+{
+"id": "p63fe0b3cf0",
+"titre": "Détection et localisation d'objets 3D par apprentissage profond en topologie capteur",
+"annee": 2019,
+"type": "conférence",
+"lieu": "GRETSI Groupement de Recherche en Traitement du Signal et de l'Image",
+"url": "https://hal.science/hal-02100719v1"
+},
+{
+"id": "p6284ad7b70",
+"titre": "Exploring multiplexing tools for co-visualization in crisis units",
+"annee": 2019,
+"type": "conférence",
+"lieu": "16th International Conference on Information Systems for Crisis Response and Management (ISCRAM 2019)",
+"url": "https://hal.science/hal-02280394v1"
+},
+{
+"id": "p01ece5e23a",
+"titre": "Geospatial Information Visualization and Extended Reality Displays",
+"annee": 2019,
+"type": "chapitre",
+"lieu": "Manual of Digital Earth",
+"url": "https://hal.science/hal-02472783v2",
+"doi": "10.1007/978-981-32-9915-3_5"
+},
+{
+"id": "pc3e8405d8c",
+"titre": "GrAPHiST: a visualization environment for exploratory spatio-temporal data analysis",
+"annee": 2019,
+"type": "conférence",
+"lieu": "SAGEO 2019",
+"url": "https://hal.science/hal-02473607v1"
+},
+{
+"id": "pc53fe2f83b",
+"titre": "Improving the search for victims in mountain environments with geovisualization and competing hypotheses management",
+"annee": 2019,
+"type": "conférence",
+"lieu": "International Cartographic Association Conference",
+"url": "https://inria.hal.science/hal-02279284v1",
+"doi": "10.5194/ica-proc-2-138-2019"
+},
+{
+"id": "p11bfac4283",
+"titre": "Interactive image geolocalization in an immersive web application",
+"annee": 2019,
+"type": "conférence",
+"lieu": "3D-ARCH 2019, 3D Virtual Reconstruction and Visualization of Complex Architectures",
+"url": "https://hal.science/hal-02526285v1",
+"doi": "10.5194/isprs-archives-xlii-2-w9-377-2019"
+},
+{
+"id": "pe9ee8fe8d7",
+"titre": "LU-Net: An Efficient Network for 3D LiDAR Point Cloud Semantic Segmentation Based on End-to-End-Learned 3D Features and U-Net",
+"annee": 2019,
+"type": "conférence",
+"lieu": "IEEE International Conference on Computer Vision Workshops (ICCV)",
+"url": "https://hal.science/hal-02269915v2",
+"doi": "10.1109/iccvw.2019.00123"
+},
+{
+"id": "p012305f1a0",
+"titre": "Rendu et représentation graphiques d'informations spatio-temporelles",
+"annee": 2019,
+"type": "conférence",
+"lieu": "Journées Françaises d’Informatique Graphique et de Réalité Virtuelle",
+"url": "https://hal.science/hal-02354598v1"
+},
+{
+"id": "p084d93fad0",
+"titre": "TOWARDS ESTABLISHING AN OPEN CATALOGUE FOR GEOSPATIAL EDUCATIONAL RESOURCES",
+"annee": 2019,
+"type": "journal",
+"lieu": "The international archives of the photogrammetry, remote sensing and spatial information sciences/International archives of the photogrammetry, remote sensing and spatial information sciences",
+"url": "https://doi.org/10.5194/isprs-archives-xlii-2-w13-1609-2019",
+"doi": "10.5194/isprs-archives-xlii-2-w13-1609-2019"
+},
+{
+"id": "p1ffe57a82b",
+"titre": "Temporal mixt diagrams and harmonic analysis for the identification of cyclic recurrences.",
+"annee": 2019,
+"type": "conférence",
+"lieu": "SAGEO 2019",
+"url": "https://hal.science/hal-02473602v1"
+},
+{
+"id": "pfed0342c86",
+"titre": "Tile & Merge: Distributed Delaunay Triangulations for Cloud Computing",
+"annee": 2019,
+"type": "conférence",
+"lieu": "IEEE Big Data 2019",
+"url": "https://hal.science/hal-02535021v1",
+"doi": "10.1109/bigdata47090.2019.9006534"
+},
+{
+"id": "p1321811071",
+"titre": "Visibility estimation in point clouds with variable density",
+"annee": 2019,
+"type": "conférence",
+"lieu": "International Conference on Computer Vision Theory and Applications (VISAPP)",
+"url": "https://hal.science/hal-01812061v2"
+},
+{
+"id": "pfd5fc09995",
+"titre": "iTowns, le nouveau moteur de visualisation 3D de données géospatiales du Géoportail",
+"annee": 2019,
+"type": "journal",
+"lieu": "Annales des mines - Série Responsabilité et environnement",
+"url": "https://hal.science/hal-02543879v1",
+"doi": "10.3917/re1.094.0014"
+},
+{
+"id": "p2c14fbc544",
+"titre": "3D urban geovisualization: in situ augmented and mixed reality experiments",
+"annee": 2018,
+"type": "conférence",
+"lieu": "ISPRS Technical Commission IV Symposium",
+"url": "https://hal.science/hal-01882336v1",
+"doi": "10.5194/isprs-annals-iv-4-41-2018"
+},
+{
+"id": "pdb39eec665",
+"titre": "Diffusion and inpainting of reflectance and height LiDAR orthoimages",
+"annee": 2018,
+"type": "journal",
+"lieu": "Computer Vision and Image Understanding",
+"url": "https://hal.science/hal-01322822v3",
+"doi": "10.1016/j.cviu.2018.10.011"
+},
+{
+"id": "p09757456ab",
+"titre": "Estimation de visibilité dans un nuage de points LiDAR",
+"annee": 2018,
+"type": "conférence",
+"lieu": "Conférence Annuelle Française de Photogrammétrie et Télédétection (CFPT)",
+"url": "https://hal.science/hal-01756994v2"
+},
+{
+"id": "p833b72afa7",
+"titre": "Estimation à la volée du vignettage par ajustement local du gain",
+"annee": 2018,
+"type": "conférence",
+"lieu": "Conférence Annuelle Française de Photogrammétrie et Télédétection (CFPT)",
+"url": "https://hal.science/hal-02551475v1"
+},
+{
+"id": "pc481aceb1e",
+"titre": "MapMuxing : multiplexing cartographique pour la gestion de crise",
+"annee": 2018,
+"type": "conférence",
+"lieu": "7ème Journée VISU",
+"url": "https://hal.science/hal-02076702v1"
+},
+{
+"id": "p52c21f8a4f",
+"titre": "Modèle de conception cartographique intégrant l'expérience utilisateur",
+"annee": 2018,
+"type": "conférence",
+"lieu": "CIST2018 - Représenter les territoires / Representing territories",
+"url": "https://hal.science/hal-01854521v1"
+},
+{
+"id": "pccd3d2202b",
+"titre": "Range-Image: Incorporating sensor topology for LiDAR point cloud processing",
+"annee": 2018,
+"type": "journal",
+"lieu": "Photogrammetric engineering and remote sensing",
+"url": "https://hal.science/hal-01756975v1",
+"doi": "10.14358/pers.84.6.367"
+},
+{
+"id": "peeeeefc988",
+"titre": "Underground Visualization: web-app, virtual reality, ex situ and in situ augmented reality.",
+"annee": 2018,
+"type": "conférence",
+"lieu": "ISPRS Technical Commission IV Symposium 2018",
+"url": "https://hal.science/hal-02280417v1"
+},
+{
+"id": "pefb979e6e5",
+"titre": "Vers plus d'expressivité dans les représentations graphiques du territoire",
+"annee": 2018,
+"type": "conférence",
+"lieu": "CIST2018 - Représenter les territoires / Representing territories",
+"url": "https://hal.science/hal-01854511v1"
+},
+{
+"id": "p406c9fff99",
+"titre": "A Classification-Segmentation Framework for the Detection of Individual Trees in Dense MMS Point Cloud Data Acquired in Urban Areas",
+"annee": 2017,
+"type": "journal",
+"lieu": "Remote Sensing",
+"url": "https://hal.science/hal-01557698v1",
+"doi": "10.3390/rs9030277"
+},
+{
+"id": "pbd5402ed36",
+"titre": "Cartographic continuum rendering based on color and texture interpolation to enhance photo-realism perception",
+"annee": 2017,
+"type": "journal",
+"lieu": "ISPRS Journal of Photogrammetry and Remote Sensing",
+"url": "https://hal.science/hal-02280479v1",
+"doi": "10.1016/j.isprsjprs.2016.09.012"
+},
+{
+"id": "pe61085224f",
+"titre": "Constrained Palette-Space Exploration",
+"annee": 2017,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-01538733v1",
+"doi": "10.1145/3072959.3073650"
+},
+{
+"id": "pd0b5d8f746",
+"titre": "Correction du flou de mouvement sur des images prises de nuit depuis un véhicule de numérisation terrestre",
+"annee": 2017,
+"type": "journal",
+"lieu": "Revue Française de Photogrammétrie et de Télédétection",
+"url": "https://hal.science/hal-02546430v1"
+},
+{
+"id": "p0382486168",
+"titre": "Disocclusion of 3D LiDAR point clouds using range images",
+"annee": 2017,
+"type": "conférence",
+"lieu": "City Models, Roads and Traffic workshop (CMRT)",
+"url": "https://hal.science/hal-01522366v1",
+"doi": "10.5194/isprs-annals-iv-1-w1-75-2017"
+},
+{
+"id": "pec16e0393b",
+"titre": "Désoccultation de nuage de points LiDAR en topologie capteur",
+"annee": 2017,
+"type": "conférence",
+"lieu": "Groupement de Recherche en Traitement du Signal et de l'Image (GRETSI)",
+"url": "https://hal.science/hal-01812057v1"
+},
+{
+"id": "pce6e627060",
+"titre": "Expressive map design: OGC SLD/SE++ extension for expressive map styles",
+"annee": 2017,
+"type": "conférence",
+"lieu": "ICC 2017 - 28th International Cartographic Conference",
+"url": "https://hal.science/hal-01882520v1",
+"doi": "10.5194/ica-proc-1-21-2018"
+},
+{
+"id": "pe9caf2eafd",
+"titre": "How to design a cartographic continuum to help users to navigate between two topographic styles?",
+"annee": 2017,
+"type": "conférence",
+"lieu": "International Cartographic Conference",
+"url": "https://hal.science/hal-02130681v1"
+},
+{
+"id": "p1f985fb3bf",
+"titre": "Joint inpainting of depth and reflectance with visibility estimation",
+"annee": 2017,
+"type": "journal",
+"lieu": "ISPRS Journal of Photogrammetry and Remote Sensing",
+"url": "https://hal.science/hal-01439299v1",
+"doi": "10.1016/j.isprsjprs.2017.01.005"
+},
+{
+"id": "p645e67b2b0",
+"titre": "MapMosaic: Dynamic Layer Compositing for Interactive Geovisualization",
+"annee": 2017,
+"type": "journal",
+"lieu": "International Journal of Geographical Information Science",
+"url": "https://inria.hal.science/hal-01562084v1",
+"doi": "10.1080/13658816.2017.1325488"
+},
+{
+"id": "pc1c5f586e1",
+"titre": "Production of Topographic Maps with VGI: Quality Management and Automation",
+"annee": 2017,
+"type": "chapitre",
+"lieu": "Mapping and the Citizen Sensor",
+"url": "https://hal.science/hal-02177116v1",
+"doi": "10.5334/bbf.d"
+},
+{
+"id": "p12dac54649",
+"titre": "Projet PLU++ : vers une concertation sur les Plans Locaux d'Urbanisme plus intelligible et plus participative",
+"annee": 2017,
+"type": "conférence",
+"lieu": "Journées de la recherche IGN 2017",
+"url": "https://hal.science/hal-02913646v1"
+},
+{
+"id": "pc468458a1a",
+"titre": "Reanimating aerial images in real time for geospatial web applications",
+"annee": 2017,
+"type": "conférence",
+"lieu": "Journées Françaises d’Informatique Graphique",
+"url": "https://hal.science/hal-01893899v1"
+},
+{
+"id": "pc0e1b113f1",
+"titre": "Virtually physical presentation of data layers for spatio temporal urban data visualization",
+"annee": 2017,
+"type": "conférence",
+"lieu": "2017 23rd International Conference on Virtual System & Multimedia (VSMM)",
+"url": "https://hal.science/hal-02068700v1",
+"doi": "10.1109/vsmm.2017.8346302"
+},
+{
+"id": "pe145f68cfe",
+"titre": "Visual search of cyclic spatio-temporal events",
+"annee": 2017,
+"type": "conférence",
+"lieu": "The 28th International Cartographic Conference: ICC 2017",
+"url": "https://univ-grenoble-alpes.hal.science/hal-01609234v1"
+},
+{
+"id": "p785cf381ac",
+"titre": "3D geovisualization and stylization to manage comprehensive and participative local urban plans",
+"annee": 2016,
+"type": "journal",
+"lieu": "ISPRS Annals of Photogrammetry, Remote Sensing and Spatial Information Sciences",
+"url": "https://hal.science/hal-02280486v1",
+"doi": "10.5194/isprs-annals-iv-2-w1-83-2016"
+},
+{
+"id": "p7297a9e8c5",
+"titre": "3D watertight mesh generation with uncertainties from ubiquitous data",
+"annee": 2016,
+"type": "conférence",
+"lieu": "Asian Conference on Computer Vision (ACCV)",
+"url": "https://hal.science/hal-01882625v1",
+"doi": "10.1007/978-3-319-54190-7_23"
+},
+{
+"id": "peae5f05043",
+"titre": "Améliorer la perception du réalisme dans la géovisualisation du littoral - Utilisation de données spatio-temporelles hétérogènes",
+"annee": 2016,
+"type": "journal",
+"lieu": "Revue Internationale de Géomatique",
+"url": "https://hal.science/hal-02280480v1",
+"doi": "10.3166/rig.2016.00008"
+},
+{
+"id": "p1c20e50ac8",
+"titre": "Anisotropic diffusion and inpainting of orthophotographies from mobile LiDAR",
+"annee": 2016,
+"type": "conférence",
+"lieu": "20ème Congrès national sur la Reconnaissance des Formes et l'Intelligence Artificielle (RFIA 2016)",
+"url": "https://hal.science/hal-01316487v1"
+},
+{
+"id": "p030f008151",
+"titre": "Clutter and Map Legibility in Automated Cartography: A Research Agenda",
+"annee": 2016,
+"type": "journal",
+"lieu": "Cartographica",
+"url": "https://hal.science/hal-02130692v1",
+"doi": "10.3138/cart.51.4.3132"
+},
+{
+"id": "p0f977efe43",
+"titre": "Detection, segmentation and localization of individual trees from mms point cloud data",
+"annee": 2016,
+"type": "conférence",
+"lieu": "GEOBIA 2016 : Solutions and Synergies",
+"url": "https://inria.hal.science/hal-02384459v1",
+"doi": "10.3990/2.388"
+},
+{
+"id": "pe8f9ad2d82",
+"titre": "Geovisualisation of animated tides in coastal area with an OpenSource OpenGL platform",
+"annee": 2016,
+"type": "conférence",
+"lieu": "AGILE 2016 - Code Loves Maps workshop",
+"url": "https://hal.science/hal-01503347v1"
+},
+{
+"id": "pb0e99dffde",
+"titre": "Geovisualization of cyclic dynamics of spatio-temporal events.",
+"annee": 2016,
+"type": "conférence",
+"lieu": "SAGEO 2016",
+"url": "https://univ-grenoble-alpes.hal.science/hal-01609164v1"
+},
+{
+"id": "p016222a96e",
+"titre": "Helical time representation to visualize return-periods of spatio-temporal events",
+"annee": 2016,
+"type": "conférence",
+"lieu": "19th AGILE International Conference on Geographic Information Science",
+"url": "https://univ-grenoble-alpes.hal.science/hal-01609156v1"
+},
+{
+"id": "p37a9ab7e9d",
+"titre": "Integrating expressive rendering techniques in a GIS cartographic pipeline.",
+"annee": 2016,
+"type": "conférence",
+"lieu": "AGILE 2016 - Code Loves Maps:cartographically oriented programming workshop",
+"url": "https://hal.science/hal-02280920v1"
+},
+{
+"id": "p0fbd677f32",
+"titre": "Landmark based localization: LBA refinement using MCMC-optimized projections of RJMCMC-extracted road marks",
+"annee": 2016,
+"type": "conférence",
+"lieu": "2016 IEEE Intelligent Vehicles Symposium (IV)",
+"url": "https://hal.science/hal-01882538v1",
+"doi": "10.1109/ivs.2016.7535501"
+},
+{
+"id": "pb3cfd465d8",
+"titre": "Localisation à base d’amers visuels: Cartographie et mise en correspondance de marquages au sol et intégration dans LBA",
+"annee": 2016,
+"type": "conférence",
+"lieu": "Reconnaissance des Formes et Intelligence Artificielle (RFIA)",
+"url": "https://hal.science/hal-02551465v1"
+},
+{
+"id": "p140fa27397",
+"titre": "Map Style Formalization: Rendering Techniques Extension for Cartography",
+"annee": 2016,
+"type": "conférence",
+"lieu": "Expressive 2016 The Joint Symposium on Computational Aesthetics and Sketch-Based Interfaces and Modeling and Non-Photorealistic Animation and Rendering",
+"url": "https://hal.science/hal-01317403v1",
+"doi": "10.2312/exp.20161064"
+},
+{
+"id": "pbb2737d8db",
+"titre": "Progressive streaming and massive rendering of 3D city models on web-based virtual globe",
+"annee": 2016,
+"type": "conférence",
+"lieu": "the 24th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems",
+"url": "https://hal.science/hal-01882544v1",
+"doi": "10.1145/2996913.2997008"
+},
+{
+"id": "pc5c4c29b69",
+"titre": "Realtime projective multi-texturing of pointclouds and meshes for a realistic street-view web navigation",
+"annee": 2016,
+"type": "conférence",
+"lieu": "21st International Conference on Web3D Technology",
+"url": "https://hal.science/hal-02290370v1",
+"doi": "10.1145/2945292.2945311"
+},
+{
+"id": "pd3409429f1",
+"titre": "Segmentation and localization of individual trees from MMS point cloud data acquired in urban areas",
+"annee": 2016,
+"type": "conférence",
+"lieu": "Tagungsband der 36. Wissenschaftlich-Technischen Jahrestagung der DGPF",
+"url": "https://hal.science/hal-02551478v1"
+},
+{
+"id": "p27012cc671",
+"titre": "Single-Image Interactive 3D Generalized Cylinder Modeling",
+"annee": 2016,
+"type": "conférence",
+"lieu": "Journées Françaises d’Informatique Graphique",
+"url": "https://hal.science/hal-02551493v1"
+},
+{
+"id": "pf901f8eb66",
+"titre": "The IQMULUS urban showcase: automatic tree classification and identification in huge mobile mapping point clouds",
+"annee": 2016,
+"type": "conférence",
+"lieu": "XXIIIrd ISPRS Congress",
+"url": "https://hal.science/hal-01882640v1",
+"doi": "10.5194/isprs-archives-xli-b3-301-2016"
+},
+{
+"id": "ped95290642",
+"titre": "Visibility Estimation and Joint Inpainting of Lidar Depth Maps",
+"annee": 2016,
+"type": "conférence",
+"lieu": "IEEE International Conference on Image Processing (ICIP)",
+"url": "https://hal.science/hal-01316719v1"
+},
+{
+"id": "p5515a8105e",
+"titre": "iTowns, framework web pour la donnée géographique 3D",
+"annee": 2016,
+"type": "journal",
+"lieu": "Revue XYZ",
+"url": "https://hal.science/hal-02551483v1"
+},
+{
+"id": "p40e3273aff",
+"titre": "3D heterogeneous interactive web mapping application",
+"annee": 2015,
+"type": "conférence",
+"lieu": "2015 IEEE Virtual Reality (VR)",
+"url": "https://hal.science/hal-02551476v1",
+"doi": "10.1109/vr.2015.7223426"
+},
+{
+"id": "p126922b3b5",
+"titre": "3D octree based watertight mesh generation from ubiquitous data",
+"annee": 2015,
+"type": "conférence",
+"lieu": "ISPRS Geospatial Week 2015, GeoBigData workshop",
+"url": "https://hal.science/hal-01882668v1",
+"doi": "10.5194/isprsarchives-xl-3-w3-613-2015"
+},
+{
+"id": "p650567d4c2",
+"titre": "A KNOWLEDGE BASE TO CLASSIFY AND MIX 3D RENDERING STYLES",
+"annee": 2015,
+"type": "journal",
+"lieu": "Revista Brasileira de Cartografia",
+"url": "https://doi.org/10.14393/rbcv67n5-44628",
+"doi": "10.14393/rbcv67n5-44628"
+},
+{
+"id": "p976880ffb5",
+"titre": "An Evaluation of Interactive Map Comparison Techniques",
+"annee": 2015,
+"type": "conférence",
+"lieu": "CHI 2015 - Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems",
+"url": "https://inria.hal.science/hal-01144163v1",
+"doi": "10.1145/2702123.2702130"
+},
+{
+"id": "p922bafb643",
+"titre": "Automatic rendering of a Cassini style",
+"annee": 2015,
+"type": "conférence",
+"lieu": "27th International Cartographic Conference",
+"url": "https://hal.science/hal-01295329v1"
+},
+{
+"id": "pa409784b5f",
+"titre": "COLOR AND TEXTURE INTERPOLATION BETWEEN ORTHOIMAGERY AND VECTOR DATA",
+"annee": 2015,
+"type": "journal",
+"lieu": "ISPRS annals of the photogrammetry, remote sensing and spatial information sciences",
+"url": "https://doi.org/10.5194/isprsannals-ii-3-w5-507-2015",
+"doi": "10.5194/isprsannals-ii-3-w5-507-2015"
+},
+{
+"id": "pfd037cfbc4",
+"titre": "Distributed dimensonality-based rendering of lidar point clouds",
+"annee": 2015,
+"type": "conférence",
+"lieu": "ISPRS Geospatial Week 2015, GeoBigData workshop",
+"url": "https://hal.science/hal-02332524v1",
+"doi": "10.5194/isprsarchives-xl-3-w3-559-2015"
+},
+{
+"id": "p0b45438532",
+"titre": "Extracting Mobile Objects in Images using a Velodyne Lidar Point Cloud",
+"annee": 2015,
+"type": "conférence",
+"lieu": "Photogrammetric Image Analysis workshop (PIA)",
+"url": "https://hal.science/hal-02551461v1",
+"doi": "10.5194/isprsannals-ii-3-w4-247-2015"
+},
+{
+"id": "p9de9c51103",
+"titre": "HOMOGENEOUS GEOVISUALIZATION OF COASTAL AREAS FROM HETEROGENEOUS SPATIO-TEMPORAL DATA",
+"annee": 2015,
+"type": "journal",
+"lieu": "The international archives of the photogrammetry, remote sensing and spatial information sciences/International archives of the photogrammetry, remote sensing and spatial information sciences",
+"url": "https://doi.org/10.5194/isprsarchives-xl-3-w3-509-2015",
+"doi": "10.5194/isprsarchives-xl-3-w3-509-2015"
+},
+{
+"id": "p50783a36b5",
+"titre": "How Do Map Readers Recognize a Topographic Mapping Style?",
+"annee": 2015,
+"type": "journal",
+"lieu": "The Cartographic Journal",
+"url": "https://hal.science/hal-02280922v1",
+"doi": "10.1080/00087041.2015.1119459"
+},
+{
+"id": "p9f1bdfa7c9",
+"titre": "Investigating the Mobile Phone Data to Estimate the Origin Destination Flow and Analysis; Case Study: Paris Region",
+"annee": 2015,
+"type": "journal",
+"lieu": "Transportation Research Procedia",
+"url": "https://hal.science/hal-01882717v1",
+"doi": "10.1016/j.trpro.2015.03.006"
+},
+{
+"id": "pf92c31ab4e",
+"titre": "Problématiques de recherche autour de la notion de clutter en cartographie automatique",
+"annee": 2015,
+"type": "journal",
+"lieu": "Cartes & géomatique",
+"url": "https://hal.science/hal-02274439v1"
+},
+{
+"id": "pc324303446",
+"titre": "ROAD MARKING EXTRACTION USING A MODEL&DATA-DRIVEN RJ-MCMC",
+"annee": 2015,
+"type": "journal",
+"lieu": "ISPRS annals of the photogrammetry, remote sensing and spatial information sciences",
+"url": "https://doi.org/10.5194/isprsannals-ii-3-w4-47-2015",
+"doi": "10.5194/isprsannals-ii-3-w4-47-2015"
+},
+{
+"id": "p5916360cb5",
+"titre": "Reciprocal Drag-and-Drop",
+"annee": 2015,
+"type": "journal",
+"lieu": "ACM Transactions on Computer-Human Interaction",
+"url": "https://hal.science/hal-01185805v2",
+"doi": "10.1145/2785670"
+},
+{
+"id": "p7dd8b16058",
+"titre": "Street environment change detection from mobile laser scanning point clouds",
+"annee": 2015,
+"type": "journal",
+"lieu": "ISPRS Journal of Photogrammetry and Remote Sensing",
+"url": "https://hal.science/hal-01882334v1",
+"doi": "10.1016/j.isprsjprs.2015.04.011"
+},
+{
+"id": "pc1e68a2ca7",
+"titre": "TerraMobilita/iQmulus urban point cloud analysis benchmark",
+"annee": 2015,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://hal.science/hal-01167995v1",
+"doi": "10.1016/j.cag.2015.03.004"
+},
+{
+"id": "pc9dde05be9",
+"titre": "A hybrid framework for single tree detection from airborne laser scanning data: A case study in temperate mature coniferous forests in Ontario, Canada",
+"annee": 2014,
+"type": "journal",
+"lieu": "ISPRS Journal of Photogrammetry and Remote Sensing",
+"url": "https://hal.science/hal-01883864v1",
+"doi": "10.1016/j.isprsjprs.2014.08.007"
+},
+{
+"id": "p7573c04ff4",
+"titre": "A stochastic method for the generation of optimized building-layouts respecting urban regulation",
+"annee": 2014,
+"type": "conférence",
+"lieu": "SDH 2014, 16th IGU Spatial Data Handling symposium, Geospatial theory, processing and applications",
+"url": "https://hal.science/hal-01882706v1",
+"doi": "10.1007/978-3-319-19950-4_16"
+},
+{
+"id": "pe37587902a",
+"titre": "Combinatorial clustering and Its Application to 3D Polygonal Traffic Sign Reconstruction From Multiple Images",
+"annee": 2014,
+"type": "conférence",
+"lieu": "ISPRS Technical Commission III Symposium",
+"url": "https://hal.science/hal-01882713v1",
+"doi": "10.5194/isprsannals-ii-3-165-2014"
+},
+{
+"id": "p712e12eec2",
+"titre": "Detecting blind building façades from highly overlapping wide angle aerial imagery",
+"annee": 2014,
+"type": "journal",
+"lieu": "ISPRS Journal of Photogrammetry and Remote Sensing",
+"url": "https://hal.science/hal-01559518v1",
+"doi": "10.1016/j.isprsjprs.2014.07.011"
+},
+{
+"id": "pf2eddbbff3",
+"titre": "Map Specifications and User Requirements",
+"annee": 2014,
+"type": "chapitre",
+"lieu": "Abstracting Geographic Information in a Data Rich World",
+"url": "https://hal.science/hal-02280927v1",
+"doi": "10.1007/978-3-319-00203-3_2"
+},
+{
+"id": "p644f177682",
+"titre": "Multi-view 3D circular target reconstruction with uncertainty analysis",
+"annee": 2014,
+"type": "conférence",
+"lieu": "ISPRS Technical Commission III Symposium",
+"url": "https://hal.science/hal-01882720v1",
+"doi": "10.5194/isprsannals-ii-3-143-2014"
+},
+{
+"id": "p6105f7c0a6",
+"titre": "Projective Texturing Uncertain Geometry: silhouette-aware box-filtered blending using integral radial images",
+"annee": 2014,
+"type": "conférence",
+"lieu": "ISPRS Technical Commission III Symposium",
+"url": "https://hal.science/hal-01882722v1",
+"doi": "10.5194/isprsannals-ii-3-17-2014"
+},
+{
+"id": "p9c530aeb60",
+"titre": "TerraMobilita/IQmulus Urban Point Cloud Classification Benchmark",
+"annee": 2014,
+"type": "conférence",
+"lieu": "Workshop on Processing Large Geospatial Data",
+"url": "https://hal.science/hal-01101621v1"
+},
+{
+"id": "p7afef68c23",
+"titre": "Évaluation comparée de l'apport de l'assistance GPS aux enquêtes de mobilité",
+"annee": 2014,
+"type": "journal",
+"lieu": "NETCOM : Réseaux, communication et territoires / Networks and Communications Studies",
+"url": "https://shs.hal.science/halshs-01137445v1",
+"doi": "10.4000/netcom.1527"
+},
+{
+"id": "pa95508f35c",
+"titre": "2D Arrangement-based Hierarchical Spatial Partitioning: An Application to Pedestrian Network Generation",
+"annee": 2013,
+"type": "conférence",
+"lieu": "6th ACM SIGSPATIAL International Workshop on Computational Transportation Science",
+"url": "https://hal.science/hal-01882727v1",
+"doi": "10.1145/2533828.2533843"
+},
+{
+"id": "p9f0b85f55d",
+"titre": "A hybrid multi-view stereo algorithm for modeling urban scenes",
+"annee": 2013,
+"type": "journal",
+"lieu": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+"url": "https://inria.hal.science/hal-00759261v1",
+"doi": "10.1109/tpami.2012.84"
+},
+{
+"id": "p16aca60a9a",
+"titre": "Extracting polygonal building footprints from digital surface models: A fully-automatic global optimization framework",
+"annee": 2013,
+"type": "journal",
+"lieu": "ISPRS Journal of Photogrammetry and Remote Sensing",
+"url": "https://hal.science/hal-01557735v1",
+"doi": "10.1016/j.isprsjprs.2012.11.007"
+},
+{
+"id": "p62aed638d0",
+"titre": "Extraction de palettes de couleurs pour l’aide à la conception cartographique",
+"annee": 2013,
+"type": "journal",
+"lieu": "Revue des Sciences et Technologies de l'Information - Série TSI : Technique et Science Informatiques",
+"url": "https://hal.science/hal-02280931v1",
+"doi": "10.3166/tsi.32.401-430"
+},
+{
+"id": "p1ac5cf300d",
+"titre": "Image-Based Rendering of LOD1 3D City Models for traffic-augmented Immersive Street-view Navigation",
+"annee": 2013,
+"type": "conférence",
+"lieu": "City Models, Roads and Traffic workshop (CMRT13)",
+"url": "https://hal.science/hal-01882856v1",
+"doi": "10.5194/isprsannals-ii-3-w3-7-2013"
+},
+{
+"id": "pb741393e1a",
+"titre": "Single Tree Detection from Airborne Laser Scanning Data using a Marked Point Process Based Method",
+"annee": 2013,
+"type": "conférence",
+"lieu": "ISPRS Workshop on {3D} Virtual City Modeling (VCM)",
+"url": "https://hal.science/hal-01882675v1",
+"doi": "10.5194/isprsannals-ii-3-w1-41-2013"
+},
+{
+"id": "pb56d2f5c5a",
+"titre": "Virtual City Models : from acquisition to visualization, reconstruction and simulation",
+"annee": 2013,
+"type": "conférence",
+"lieu": "ISPRS Workshop on 3D Virtual City Modeling (VCM)",
+"url": "https://hal.science/hal-01882968v1"
+},
+{
+"id": "p18ece9e820",
+"titre": "A web-based 3D mapping application using WebGL allowing interaction with images, point clouds and models",
+"annee": 2012,
+"type": "conférence",
+"lieu": "20th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems. ACM-GIS’12",
+"url": "https://hal.science/hal-02551502v1",
+"doi": "10.1145/2424321.2424422"
+},
+{
+"id": "p466123d7d6",
+"titre": "An Accuracy Assessment of Automated Photogrammetric Techniques for 3D Modeling of Complex Interiors",
+"annee": 2012,
+"type": "conférence",
+"lieu": "XXII ISPRS Congress",
+"url": "https://hal.science/hal-01882993v1",
+"doi": "10.5194/isprsarchives-xxxix-b3-23-2012"
+},
+{
+"id": "p5ead2fb9ae",
+"titre": "Detecting and Correcting Motion Blur from Images Shot with Channel-dependent Exposure Time",
+"annee": 2012,
+"type": "conférence",
+"lieu": "XXIInd ISPRS Congress",
+"url": "https://hal.science/hal-01882531v1",
+"doi": "10.5194/isprsannals-i-3-341-2012"
+},
+{
+"id": "pea310b9f1f",
+"titre": "Expressive Map Design Based on Pop Art: Revisit of Semiology of Graphics?",
+"annee": 2012,
+"type": "journal",
+"lieu": "Cartographic Perspectives",
+"url": "https://hal.science/hal-02280932v1",
+"doi": "10.14714/cp73.646"
+},
+{
+"id": "p011a7dcf9a",
+"titre": "Lytro: la fin des photos floues",
+"annee": 2012,
+"type": "journal",
+"lieu": "Sciences et vie junior,",
+"url": "https://hal.science/hal-02551485v1"
+},
+{
+"id": "p32c27ed088",
+"titre": "Reconstruction of Sky Illumination Domes from Ground-Based Panorama",
+"annee": 2012,
+"type": "conférence",
+"lieu": "XXII ISPRS Congress",
+"url": "https://hal.science/hal-01883017v1",
+"doi": "10.5194/isprsarchives-xxxix-b3-269-2012"
+},
+{
+"id": "p2df86f096c",
+"titre": "librjmcmc: An Open-source Generic C++ Library for Stochastic Optimization",
+"annee": 2012,
+"type": "conférence",
+"lieu": "XXII ISPRS Congress",
+"url": "https://hal.science/hal-01883008v1",
+"doi": "10.5194/isprsarchives-xxxix-b3-259-2012"
+},
+{
+"id": "p24c50a361d",
+"titre": "3D roof details by 3D aerial vision",
+"annee": 2011,
+"type": "conférence",
+"lieu": "1st IEEE/ISPRS workshop on Computer Vision for Remote Sensing of the Environment",
+"url": "https://hal.science/hal-01883129v1",
+"doi": "10.1109/iccvw.2011.6130245"
+},
+{
+"id": "p41b9c1583f",
+"titre": "Amélioration d’une base de données d’empreintes de bâtiments pour la reconstruction 3D : une approche par découpe et fusion.",
+"annee": 2011,
+"type": "journal",
+"lieu": "Revue Française de Photogrammétrie et de Télédétection",
+"url": "https://hal.science/hal-02551460v1"
+},
+{
+"id": "pe0ec274e83",
+"titre": "Building footprint database improvement for 3D reconstruction: A split and merge approach and its evaluation",
+"annee": 2011,
+"type": "journal",
+"lieu": "ISPRS Journal of Photogrammetry and Remote Sensing",
+"url": "https://hal.science/hal-01883029v1",
+"doi": "10.1016/j.isprsjprs.2011.06.005"
+},
+{
+"id": "pd20d7fbb33",
+"titre": "Creative Colours Specification Based on Knowledge (COLorLEGend system)",
+"annee": 2011,
+"type": "journal",
+"lieu": "The Cartographic Journal",
+"url": "https://hal.science/hal-02286721v1",
+"doi": "10.1179/1743277411y.0000000012"
+},
+{
+"id": "pd965144efa",
+"titre": "Estimation de la réflectance de matériaux d'une scène urbaine : modélisation et méthode d'inversion",
+"annee": 2011,
+"type": "journal",
+"lieu": "Revue Française de Photogrammétrie et de Télédétection",
+"url": "https://hal.science/hal-01883044v1"
+},
+{
+"id": "p13220f214b",
+"titre": "EuroSDR project \"Radiometric aspects of digital photogrammetric images\" - Results of empirical phase",
+"annee": 2011,
+"type": "conférence",
+"lieu": "ISPRS Hannover 2011 Workshop",
+"url": "https://hal.science/hal-01883083v1",
+"doi": "10.5194/isprsarchives-xxxviii-4-w19-123-2011"
+},
+{
+"id": "p4ea5345910",
+"titre": "Evaluation comparée de l’apport de l’assistance GPS aux enquêtes de mobilité",
+"annee": 2011,
+"type": "conférence",
+"lieu": "Séminaire UrbanFabrik",
+"url": "https://shs.hal.science/halshs-02420153v1"
+},
+{
+"id": "pa04f551ba2",
+"titre": "Generalisation, symbol specification and map evaluation: feedback from research done at COGIT laboratory, IGN France",
+"annee": 2011,
+"type": "journal",
+"lieu": "International Journal of Digital Earth",
+"url": "https://doi.org/10.1080/17538947.2010.510305",
+"doi": "10.1080/17538947.2010.510305"
+},
+{
+"id": "p78a3775829",
+"titre": "Interpretation of 2D and 3D building details on facades and roofs",
+"annee": 2011,
+"type": "conférence",
+"lieu": "Photogrammetric Image Analysis workshop (PIA)",
+"url": "https://hal.science/hal-01883096v1",
+"doi": "10.5194/isprsarchives-xxxviii-3-w22-137-2011"
+},
+{
+"id": "p6247edde50",
+"titre": "Multiscale Haar transform for blur estimation from a set of images",
+"annee": 2011,
+"type": "conférence",
+"lieu": "Photogrammetric Image Analysis workshop (PIA)",
+"url": "https://hal.science/hal-01883100v1",
+"doi": "10.5194/isprsarchives-xxxviii-3-w22-65-2011"
+},
+{
+"id": "p64b43e26c8",
+"titre": "Planar roof surface segmentation using 3D vision",
+"annee": 2011,
+"type": "conférence",
+"lieu": "19th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems",
+"url": "https://hal.science/hal-01883108v1",
+"doi": "10.1145/2093973.2093976"
+},
+{
+"id": "pc12b536b75",
+"titre": "Reflectance estimation from urban terrestrial images: Validation of a symbolic ray-tracing method on synthetic data",
+"annee": 2011,
+"type": "conférence",
+"lieu": "Photogrammetric Image Analysis workshop (PIA)",
+"url": "https://hal.science/hal-01883132v1",
+"doi": "10.5194/isprsarchives-xxxviii-3-w22-71-2011"
+},
+{
+"id": "pdfc0efe099",
+"titre": "Un procédé rend nettes les photos... après-coup !",
+"annee": 2011,
+"type": "journal",
+"lieu": "Science & vie",
+"url": "https://hal.science/hal-02551487v1"
+}
+]
+}

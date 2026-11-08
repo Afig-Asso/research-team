@@ -1,0 +1,551 @@
+{
+"equipe": "LJK/ELAN",
+"publications": [
+{
+"id": "p8b3fd97194",
+"titre": "A Noetherian approach to invariants for the statics and dynamics of elastic rods",
+"annee": 2026,
+"type": "journal",
+"lieu": "International Journal of Non-Linear Mechanics",
+"url": "https://hal.science/hal-05149317v3",
+"doi": "10.1016/j.ijnonlinmec.2025.105269"
+},
+{
+"id": "p4a7e15edaa",
+"titre": "Mixed Super-Circles",
+"annee": 2026,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-05551923v1",
+"doi": "10.1111/cgf.70414"
+},
+{
+"id": "pd011b1b0a3",
+"titre": "A Minimal Swimmer Model Unveils Universal Scaling Across Reynolds Numbers",
+"annee": 2025,
+"type": "conférence",
+"lieu": "DFD 2025 - 78th Annual Meeting of the APS Division of Fluid Dynamics",
+"url": "https://hal.science/hal-05390418v1"
+},
+{
+"id": "p7eda504144",
+"titre": "A useful invariant for elastic rods",
+"annee": 2025,
+"type": "conférence",
+"lieu": "ESMC 2025 - 12th European Solid Mechanics Conference",
+"url": "https://hal.science/hal-05162593v1"
+},
+{
+"id": "p93098fcc07",
+"titre": "Accurate frictional contact algorithms for the numerical exploration of the mechanics of fibrous assemblies",
+"annee": 2025,
+"type": "conférence",
+"lieu": "ESMC 2025 - 12th European Solid Mechanics Conference",
+"url": "https://hal.science/hal-05228112v1"
+},
+{
+"id": "p7b02b6c1de",
+"titre": "Hydrodynamics of Confined Swimming: Persistence of Stokes Flow and Emergence of Boundary Layers",
+"annee": 2025,
+"type": "conférence",
+"lieu": "DFD 2025 - 78th Annual Meeting of the APS Division of Fluid Dynamics",
+"url": "https://hal.science/hal-05390358v1"
+},
+{
+"id": "pf2b002533a",
+"titre": "Modelling a Feather as a Strongly Anisotropic Elastic Shell",
+"annee": 2025,
+"type": "conférence",
+"lieu": "ESMC 2025 - 12th European Solid Mechanics Conference",
+"url": "https://hal.science/hal-05230404v1"
+},
+{
+"id": "p2c2c365b36",
+"titre": "Noether symmetries and conserved quantities for elastic rods with contact",
+"annee": 2025,
+"type": "conférence",
+"lieu": "HFSS 2025 - 2nd International Conference on Highly Flexible Slender Structures",
+"url": "https://hal.science/hal-05388769v1"
+},
+{
+"id": "pfc6c7475b5",
+"titre": "Universal Scaling Laws for a Generic Swimmer Model",
+"annee": 2025,
+"type": "journal",
+"lieu": "Physical Review Letters",
+"url": "https://hal.science/hal-04702713v3",
+"doi": "10.1103/physrevlett.134.134002"
+},
+{
+"id": "p84322b4bfb",
+"titre": "Contact detection between curved fibres: high order makes a difference",
+"annee": 2024,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-04364565v2",
+"doi": "10.1145/3658191"
+},
+{
+"id": "pc514830863",
+"titre": "Granular material as a continuum: confronting non-smooth simulations with experiments",
+"annee": 2024,
+"type": "conférence",
+"lieu": "TGF 2024 - 15th edition international conference on Traffic and Granular Flow",
+"url": "https://hal.science/hal-04884407v1"
+},
+{
+"id": "p70bdf5c7ac",
+"titre": "Merci: Mixed curvature-based elements for computing equilibria of thin elastic ribbons",
+"annee": 2024,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-04601301v2",
+"doi": "10.1145/3674502"
+},
+{
+"id": "p13a13d45b6",
+"titre": "Modelling a feather as a strongly anisotropic elastic shell",
+"annee": 2024,
+"type": "conférence",
+"lieu": "ACM SIGGRAPH 2024",
+"url": "https://hal.science/hal-04633434v1",
+"doi": "10.1145/3641519.3657503"
+},
+{
+"id": "p3f685231a8",
+"titre": "Modèle mixte position-courbure pour la statique des rubans élastiques",
+"annee": 2024,
+"type": "conférence",
+"lieu": "16ème Colloque National en Calcul de Structures (CSMA 2024)",
+"url": "https://hal.science/hal-04583083v1"
+},
+{
+"id": "p857f419739",
+"titre": "Modélisation numérique de l'étendard d'une plume, une membrane fortement anisotrope",
+"annee": 2024,
+"type": "conférence",
+"lieu": "16ème Colloque National en Calcul de Structures (CSMA 2024)",
+"url": "https://hal.science/hal-04610994v1"
+},
+{
+"id": "pff474df521",
+"titre": "Revisiting the role of friction in transient granular flows through non-smooth simulations and experiments",
+"annee": 2024,
+"type": "conférence",
+"lieu": "IS-Grenoble 2024 - 5th International Symposium on Geomechanics from Micro to Macro",
+"url": "https://hal.science/hal-04884468v1"
+},
+{
+"id": "p39108a5481",
+"titre": "A hydrodynamic toy model for fish locomotion",
+"annee": 2023,
+"type": "conférence",
+"lieu": "DFD 2023 - 76th Annual Meeting of the Division of Fluid Dynamics",
+"url": "https://hal.science/hal-04254582v1"
+},
+{
+"id": "pfd2385d959",
+"titre": "Accurate contact detection and response in fibre assemblies with friction",
+"annee": 2023,
+"type": "conférence",
+"lieu": "HFSS 2023 – International Conference on Highly Flexible Slender Structures",
+"url": "https://hal.science/hal-04388542v1"
+},
+{
+"id": "p0b3b298bf1",
+"titre": "Investigating the compaction of open ring stacks through real and numerical experiments",
+"annee": 2023,
+"type": "conférence",
+"lieu": "HFSS 2023 - International Conference on Highly Flexible Slender Structures",
+"url": "https://hal.science/hal-04225083v1"
+},
+{
+"id": "p2273b27d3c",
+"titre": "Randomly stacked open cylindrical shells as functional mechanical energy absorber",
+"annee": 2023,
+"type": "journal",
+"lieu": "Communications Materials",
+"url": "https://hal.science/hal-03996830v2",
+"doi": "10.1038/s43246-023-00383-2"
+},
+{
+"id": "p60b3c10802",
+"titre": "Revisiting the role of friction coefficients in granular collapses: confrontation of 3-D non-smooth simulations with experiments",
+"annee": 2023,
+"type": "journal",
+"lieu": "Journal of Fluid Mechanics",
+"url": "https://inria.hal.science/hal-03845323v4",
+"doi": "10.1017/jfm.2023.835"
+},
+{
+"id": "pd18d96539c",
+"titre": "Simulating fibre assemblies: from Hollywood illusions to physical predictions",
+"annee": 2023,
+"type": "conférence",
+"lieu": "HFSS 2023 – International Conference on Highly Flexible Slender Structures",
+"url": "https://inria.hal.science/hal-04265998v1"
+},
+{
+"id": "p81d326ce52",
+"titre": "Untangling the physics of self-locking in tight knots",
+"annee": 2023,
+"type": "conférence",
+"lieu": "HFSS 2023 - International Conference on Highly Flexible Slender Structures",
+"url": "https://inria.hal.science/hal-04388669v1"
+},
+{
+"id": "p7f9367648a",
+"titre": "A Visual Approach to Measure Cloth-Body and Cloth-Cloth Friction",
+"annee": 2022,
+"type": "journal",
+"lieu": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+"url": "https://inria.hal.science/hal-03285624v1",
+"doi": "10.1109/tpami.2021.3097547"
+},
+{
+"id": "pf003d6391c",
+"titre": "Characterisation of the Fracture and Healing of a Feather",
+"annee": 2022,
+"type": "conférence",
+"lieu": "European Solid Mechanics Conference ESMC 2022",
+"url": "https://inria.hal.science/hal-04083228v1"
+},
+{
+"id": "p6186516572",
+"titre": "Frictional three-point bending test: disentangling the role of friction through real and numerical experiments",
+"annee": 2022,
+"type": "conférence",
+"lieu": "European Solid Mechanics Conference ESMC 2022",
+"url": "https://inria.hal.science/hal-03960300v1"
+},
+{
+"id": "pc8fc607b33",
+"titre": "Physical validation of simulators in computer graphics",
+"annee": 2022,
+"type": "conférence",
+"lieu": "European Solid Mechanics Conference - ESMC 2022",
+"url": "https://inria.hal.science/hal-03960328v1",
+"doi": "10.1145/3450626.3459931"
+},
+{
+"id": "p546811dc62",
+"titre": "Test et validation de codes de simulation d'informatique graphique pour les structures élastiques minces et le contact frottant",
+"annee": 2022,
+"type": "conférence",
+"lieu": "CSMA 2022 - 15ème Colloque National en Calcul des Structures",
+"url": "https://inria.hal.science/hal-03685448v1"
+},
+{
+"id": "p7940b4b57d",
+"titre": "Diffusion-redistanciation schemes for 2D and 3D constrained Willmore flow: application to the equilibrium shapes of vesicles",
+"annee": 2021,
+"type": "journal",
+"lieu": "Journal of Computational Physics",
+"url": "https://hal.science/hal-02905870v4",
+"doi": "10.1016/j.jcp.2021.110288"
+},
+{
+"id": "pd74d580040",
+"titre": "Granular material as a continuum: nonsmooth simulations against experiments",
+"annee": 2021,
+"type": "conférence",
+"lieu": "14th World Congress on Computational Mechanics (WCCM) 2020",
+"url": "https://hal.science/hal-04225304v1"
+},
+{
+"id": "pd5604078ef",
+"titre": "Learning to Measure the Static Friction Coefficient in Cloth Contact",
+"annee": 2020,
+"type": "conférence",
+"lieu": "CVPR 2020 - IEEE Conference on Computer Vision and Pattern Recognition",
+"url": "https://inria.hal.science/hal-02511646v1",
+"doi": "10.1109/cvpr42600.2020.00993"
+},
+{
+"id": "p45b3000daf",
+"titre": "Numerical modeling of inextensible elastic ribbons with curvature-based elements",
+"annee": 2020,
+"type": "journal",
+"lieu": "Computer Methods in Applied Mechanics and Engineering",
+"url": "https://inria.hal.science/hal-02515877v2",
+"doi": "10.1016/j.cma.2020.112922"
+},
+{
+"id": "pb9b4c41f02",
+"titre": "Projective Dynamics with Dry Frictional Contact",
+"annee": 2020,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-02563307v2",
+"doi": "10.1145/3386569.3392396"
+},
+{
+"id": "p8c74a6fb7c",
+"titre": "Comparing continuation methods",
+"annee": 2019,
+"type": "conférence",
+"lieu": "24ème Congrès Français de Mécanique",
+"url": "https://hal.science/hal-04323700v1"
+},
+{
+"id": "p52f71677d4",
+"titre": "Estimating friction in cloth, using simulation and machine learning",
+"annee": 2019,
+"type": "conférence",
+"lieu": "APS 2019 - American Physical Society March Meeting",
+"url": "https://inria.hal.science/hal-01982257v1"
+},
+{
+"id": "pffe19ae204",
+"titre": "Inverse design of a suspended Kirchhoff rod: From theory to practice",
+"annee": 2019,
+"type": "conférence",
+"lieu": "APS 2019 - American Physical Society March Meeting",
+"url": "https://inria.hal.science/hal-01981923v1"
+},
+{
+"id": "p9b7be423a9",
+"titre": "Modélisation numérique de rubans en éléments de haut degré",
+"annee": 2019,
+"type": "conférence",
+"lieu": "14ème Colloque National en Calcul de Structures (CSMA 2019)",
+"url": "https://hal.science/hal-02384085v1"
+},
+{
+"id": "p76748e32b0",
+"titre": "An Implicit Frictional Contact Solver for Adaptive Cloth Simulation",
+"annee": 2018,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-01834705v1",
+"doi": "10.1145/3197517.3201308"
+},
+{
+"id": "p431a3e8a8e",
+"titre": "Hemodynamic forces tune the arrest, adhesion and extravasation of circulating tumor cells",
+"annee": 2018,
+"type": "journal",
+"lieu": "Developmental Cell",
+"url": "https://hal.science/hal-01694694v1",
+"doi": "10.1016/j.devcel.2018.02.015"
+},
+{
+"id": "pcba39704dc",
+"titre": "High-order finite-element framework for the efficient simulation of multifluid flows",
+"annee": 2018,
+"type": "journal",
+"lieu": "Mathematics",
+"url": "https://hal.science/hal-01865602v1",
+"doi": "10.3390/math6100203"
+},
+{
+"id": "p448d0519ff",
+"titre": "How to push one's way through a dense crowd",
+"annee": 2018,
+"type": "journal",
+"lieu": "EPL - Europhysics Letters",
+"url": "https://hal.science/hal-02001635v1",
+"doi": "10.1209/0295-5075/121/54003"
+},
+{
+"id": "pa8d91d9a04",
+"titre": "Inverse Elastic Shell Design with Contact and Friction",
+"annee": 2018,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-01883655v1",
+"doi": "10.1145/3272127.3275036"
+},
+{
+"id": "p80d8ee3406",
+"titre": "Inverse design of an isotropic suspended Kirchhoff rod: theoretical and numerical results on the uniqueness of the natural shape",
+"annee": 2018,
+"type": "journal",
+"lieu": "Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences",
+"url": "https://inria.hal.science/hal-01827887v1",
+"doi": "10.1098/rspa.2017.0837"
+},
+{
+"id": "pe08ec73a0f",
+"titre": "A Semi-Implicit Material Point Method for the Continuum Simulation of Granular Materials",
+"annee": 2016,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-01310189v1",
+"doi": "10.1145/2897824.2925877"
+},
+{
+"id": "pc9977d75d3",
+"titre": "Dynamics of a developable shell with uniform curvatures",
+"annee": 2016,
+"type": "conférence",
+"lieu": "The 4th Joint International Conference on Multibody System Dynamics",
+"url": "https://inria.hal.science/hal-01311559v1"
+},
+{
+"id": "pabb8abf67a",
+"titre": "Geometry and Mechanics of fibers: Some numerical models (Invited Talk)",
+"annee": 2016,
+"type": "chapitre",
+"lieu": "Mathematical Progress in Expressive Image Synthesis III",
+"url": "https://inria.hal.science/hal-01430016v1",
+"doi": "10.1007/978-981-10-1076-7_1"
+},
+{
+"id": "pb6577765f9",
+"titre": "Lattice computation of the nucleon scalar quark contents at the physical point",
+"annee": 2016,
+"type": "journal",
+"lieu": "Physical Review Letters",
+"url": "https://hal.science/hal-01259005v1",
+"doi": "10.1103/physrevlett.116.172001"
+},
+{
+"id": "p957c66141d",
+"titre": "Nonsmooth simulation of dense granular flows with pressure-dependent yield stress",
+"annee": 2016,
+"type": "journal",
+"lieu": "Journal of Non-Newtonian Fluid Mechanics",
+"url": "https://inria.hal.science/hal-01236488v2",
+"doi": "10.1016/j.jnnfm.2016.04.006"
+},
+{
+"id": "p5be2450852",
+"titre": "The contact problem in Lagrangian systems subject to bilateral and unilateral constraints, with or without sliding Coulomb's friction: A tutorial",
+"annee": 2016,
+"type": "journal",
+"lieu": "Multibody System Dynamics",
+"url": "https://inria.hal.science/hal-01096394v2",
+"doi": "10.1007/s11044-016-9527-6"
+},
+{
+"id": "p50bf3ff713",
+"titre": "A lattice study of the nucleon quark content at the physical point",
+"annee": 2015,
+"type": "conférence",
+"lieu": "The 33rd International Symposium on Lattice Field Theory",
+"url": "https://hal.science/hal-01362415v1",
+"doi": "10.22323/1.251.0128"
+},
+{
+"id": "p35ed27b9b9",
+"titre": "Approcher des courbes par des hélices",
+"annee": 2015,
+"type": "journal",
+"lieu": "Quadrature",
+"url": "https://hal.science/hal-01224893v1"
+},
+{
+"id": "p4f720b5915",
+"titre": "Nonsmooth simulation of dense granular flows in complex geometries",
+"annee": 2015,
+"type": "conférence",
+"lieu": "International Symposium \"Complex Fluid Flow in Porous Media\"",
+"url": "https://inria.hal.science/hal-01213547v1"
+},
+{
+"id": "pad5908c9f4",
+"titre": "The Contact Problem in Lagrangian Systems subject to Bilateral and Unilateral constraints with sliding Coulomb's Friction",
+"annee": 2015,
+"type": "conférence",
+"lieu": "ECCOMAS Thematic Conference on Multibody Dynamics",
+"url": "https://hal.science/hal-01224915v1"
+},
+{
+"id": "p298dc182f5",
+"titre": "Une approche non régulière pour la simulation continue d'écoulements granulaires denses",
+"annee": 2015,
+"type": "conférence",
+"lieu": "Rencontre du GdR « Transport Solide Naturel »",
+"url": "https://inria.hal.science/hal-01213524v1"
+},
+{
+"id": "p55407cd020",
+"titre": "Lattice QCD at the physical point meets SU(2) chiral perturbation theory",
+"annee": 2014,
+"type": "journal",
+"lieu": "Physical Review D",
+"url": "https://hal.science/hal-01258938v1",
+"doi": "10.1103/physrevd.90.114504"
+},
+{
+"id": "p1f8182c917",
+"titre": "Lattice study of pion-pion scattering using Nf=2+1 Wilson improved quarks with masses down to their physical values",
+"annee": 2014,
+"type": "conférence",
+"lieu": "32nd International Symposium on Lattice Field Theory (Lattice 2014)",
+"url": "https://hal.science/hal-01304448v1"
+},
+{
+"id": "p16d6b1e424",
+"titre": "Simulation par éléments discrets de fibres flexibles avec frottement de Coulomb",
+"annee": 2014,
+"type": "conférence",
+"lieu": "Réunion Thématique Simulation du GDR 3MF",
+"url": "https://inria.hal.science/hal-01213506v1"
+},
+{
+"id": "p218cb6a320",
+"titre": "Floating tangents for approximating spatial curves with G1 piecewise helices",
+"annee": 2013,
+"type": "journal",
+"lieu": "Computer Aided Geometric Design",
+"url": "https://inria.hal.science/hal-00843591v3",
+"doi": "10.1016/j.cagd.2013.02.007"
+},
+{
+"id": "p1750f490c4",
+"titre": "Inverse Dynamic Hair Modeling with Frictional Contact",
+"annee": 2013,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-00857559v1",
+"doi": "10.1145/2508363.2508398"
+},
+{
+"id": "p25bf469112",
+"titre": "Super Space Clothoids",
+"annee": 2013,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-00840335v3",
+"doi": "10.1145/2461912.2461962"
+},
+{
+"id": "p1e90e6076e",
+"titre": "Super-Clothoids",
+"annee": 2012,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-00658996v1",
+"doi": "10.1111/j.1467-8659.2012.03030.x"
+},
+{
+"id": "p5beb437dae",
+"titre": "3D Inverse Dynamic Modeling of Strands",
+"annee": 2011,
+"type": "conférence",
+"lieu": "ACM SIGGRAPH 2011 Posters",
+"url": "https://inria.hal.science/inria-00617857v3",
+"doi": "10.1145/2037715.2037778"
+},
+{
+"id": "p80e50820f4",
+"titre": "A Hybrid Iterative Solver for Robustly Capturing Coulomb Friction in Hair Dynamics",
+"annee": 2011,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-00647497v1",
+"doi": "10.1145/2070781.2024173"
+},
+{
+"id": "pfe07468c8e",
+"titre": "A Nonsmooth Newton Solver for Capturing Exact Coulomb Friction in Fiber Assemblies",
+"annee": 2011,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/inria-00557706v1",
+"doi": "10.1145/1899404.1899410"
+}
+]
+}

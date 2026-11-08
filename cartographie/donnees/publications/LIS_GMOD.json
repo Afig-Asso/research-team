@@ -1,0 +1,1262 @@
+{
+"equipe": "LIS/GMOD",
+"publications": [
+{
+"id": "p0db5a12132",
+"titre": "Characterization of the Homology and Cohomology Bases Computed by Standard Methods",
+"annee": 2026,
+"type": "journal",
+"lieu": "Journal of Mathematical Imaging and Vision",
+"url": "https://doi.org/10.1007/s10851-026-01356-z",
+"doi": "10.1007/s10851-026-01356-z"
+},
+{
+"id": "p0c097b1a06",
+"titre": "Words and Lights : A Poetic Installation Embodying the Collective Creativity of the Generation of 27",
+"annee": 2026,
+"type": "journal",
+"lieu": "Leonardo",
+"url": "https://hal.science/hal-05629567v1",
+"doi": "10.1162/leon.a.2710"
+},
+{
+"id": "p797bb35521",
+"titre": "Characterization of the Computed Homology and Cohomology Bases",
+"annee": 2025,
+"type": "conférence",
+"lieu": "Discrete Geometry and Mathematical Morphology",
+"url": "https://hal.science/hal-05357027v1",
+"doi": "10.1007/978-3-032-09544-2_12"
+},
+{
+"id": "p8a348691be",
+"titre": "Label-Efficient Fine-Tuning for Remote Sensing Imagery Segmentation with Diffusion Models",
+"annee": 2025,
+"type": "journal",
+"lieu": "Remote Sensing",
+"url": "https://doi.org/10.3390/rs17152579",
+"doi": "10.3390/rs17152579"
+},
+{
+"id": "pe58652d79c",
+"titre": "Real-time live compression of dynamic 3D meshes for client-side GPU cloud gaming using skinning decomposition",
+"annee": 2025,
+"type": "journal",
+"lieu": "The Visual Computer",
+"url": "https://hal.science/hal-05248164v1",
+"doi": "10.1007/s00371-025-04112-3"
+},
+{
+"id": "pfc00cfb205",
+"titre": "A constructive approach of alexander duality",
+"annee": 2024,
+"type": "journal",
+"lieu": "Journal of Applied and Computational Topology",
+"url": "https://hal.science/hal-05003653v1",
+"doi": "10.1007/s41468-024-00198-1"
+},
+{
+"id": "p664d423138",
+"titre": "Generating 3D Anisotropic Centroidal Voronoi Tessellations",
+"annee": 2024,
+"type": "journal",
+"lieu": "International Journal of Mathematical, Computational, Statistical, Natural and Physical Engineering",
+"url": "https://hal.science/hal-04706922v2"
+},
+{
+"id": "pade27f751a",
+"titre": "Go To Music - Move 37",
+"annee": 2024,
+"type": "conférence",
+"lieu": "International Computer Music Conference, ICMC 2024",
+"url": "https://hal.science/hal-05146340v1"
+},
+{
+"id": "p949ba29d67",
+"titre": "Intelligences artificielles : Quoi ? Comment ?",
+"annee": 2024,
+"type": "conférence",
+"lieu": "Colloque Intelligence artificielle et images - Enjeux esthétiques, éthiques et technologiques",
+"url": "https://hal.science/hal-05675665v1"
+},
+{
+"id": "p491e364282",
+"titre": "Managing Heterogeneous Historical Data Within the Digital Twin Paradigm",
+"annee": 2024,
+"type": "conférence",
+"lieu": "PLM",
+"url": "https://hal.science/hal-05501567v1",
+"doi": "10.1007/978-3-031-93319-6_12"
+},
+{
+"id": "p97bb7c1b7e",
+"titre": "Mots et Lumières: le surréalisme et la Génération de 27",
+"annee": 2024,
+"type": "conférence",
+"lieu": "ISSS Surréalismes Paris 2024",
+"url": "https://hal.science/hal-05146370v1"
+},
+{
+"id": "pd6720ca8c2",
+"titre": "Supercontinuum laser-based gonio-scatterometer for in and out-of-plane spectral BRDF measurements",
+"annee": 2024,
+"type": "journal",
+"lieu": "Optics Express",
+"url": "https://doi.org/10.1364/oe.520655",
+"doi": "10.1364/oe.520655"
+},
+{
+"id": "p9c3acc67a8",
+"titre": "A Data Structure for Developing Data-Driven Digital Twins",
+"annee": 2023,
+"type": "conférence",
+"lieu": "20th IFIP International Conference on Product Lifecycle Management (PLM)",
+"url": "https://inria.hal.science/hal-05030886v1",
+"doi": "10.1007/978-3-031-62578-7_3"
+},
+{
+"id": "p61f1393c35",
+"titre": "Computing Geometrical Measures of Topological Holes",
+"annee": 2023,
+"type": "journal",
+"lieu": "Computer-Aided Design",
+"url": "https://hal.science/hal-04322031v1",
+"doi": "10.1016/j.cad.2023.103563"
+},
+{
+"id": "pf94c161239",
+"titre": "Conflict Optimization for Binary CSP Applied to Minimum Partition into Plane Subgraphs and Graph Coloring",
+"annee": 2023,
+"type": "journal",
+"lieu": "ACM Journal of Experimental Algorithmics",
+"url": "https://doi.org/10.1145/3588869",
+"doi": "10.1145/3588869"
+},
+{
+"id": "p93928cbeff",
+"titre": "Operational theater generation by a descriptive language",
+"annee": 2023,
+"type": "conférence",
+"lieu": "WSCG 2023 – 31. International Conference in Central Europe on Computer Graphics, Visualization and Computer Vision",
+"url": "https://hal.science/hal-04350763v1",
+"doi": "10.24132/csrn.3301.19"
+},
+{
+"id": "pd3265a8431",
+"titre": "A Heuristic for Short Homology Basis of Digital Objects",
+"annee": 2022,
+"type": "conférence",
+"lieu": "International Joint Conference on Discrete Geometry and Mathematical Morphology (DGMM)",
+"url": "https://hal.science/hal-03953372v1",
+"doi": "10.1007/978-3-031-19897-7_6"
+},
+{
+"id": "p0678c32b85",
+"titre": "A New Data Structure For Handling Efficiently Polyhedral Complexes",
+"annee": 2022,
+"type": "conférence",
+"lieu": "RING Meeting",
+"url": "https://inria.hal.science/hal-03650376v1"
+},
+{
+"id": "p315116fe60",
+"titre": "EXTREME une plateforme de travail dédiée à la prévention des risques en milieu nucléaire",
+"annee": 2022,
+"type": "journal",
+"lieu": "J3eA",
+"url": "https://doi.org/10.1051/j3ea/20222038",
+"doi": "10.1051/j3ea/20222038"
+},
+{
+"id": "p52341d1f93",
+"titre": "Robust Detection of Circular Shapes on 3D Meshes Based on Discrete Curvatures: Application to Impact Craters Recognition",
+"annee": 2022,
+"type": "chapitre",
+"lieu": "3D Digital Geological Models",
+"url": "https://hal.science/hal-03628939v1",
+"doi": "10.1002/9781119313922.ch9"
+},
+{
+"id": "pc62fa32682",
+"titre": "Shadoks Approach to Low-Makespan Coordinated Motion Planning",
+"annee": 2022,
+"type": "journal",
+"lieu": "ACM Journal of Experimental Algorithmics",
+"url": "https://hal.science/hal-04051506v1",
+"doi": "10.1145/3524133"
+},
+{
+"id": "pcc8c02b78c",
+"titre": "Measuring Holes of 3D Meshes",
+"annee": 2021,
+"type": "conférence",
+"lieu": "Groupe de Travail en Modélisation Géométrique (GTMG)",
+"url": "https://hal.science/hal-03650377v1"
+},
+{
+"id": "p1f2fb1801b",
+"titre": "Shadoks Approach to Low-Makespan Coordinated Motion Planning (CG Challenge)",
+"annee": 2021,
+"type": "conférence",
+"lieu": "37th International Symposium on Computational Geometry, SoCG 2021, June 7-11, 2021, Buffalo, NY, USA (Virtual Conference)",
+"url": "https://hal.science/hal-03485486v1",
+"doi": "10.4230/lipics.socg.2021.63"
+},
+{
+"id": "p79767346d4",
+"titre": "Single-Image Super-Resolution for Remote Sensing Images Using a Deep Generative Adversarial Network With Local and Global Attention Mechanisms",
+"annee": 2021,
+"type": "journal",
+"lieu": "IEEE Transactions on Geoscience and Remote Sensing",
+"url": "https://doi.org/10.1109/tgrs.2021.3093043",
+"doi": "10.1109/tgrs.2021.3093043"
+},
+{
+"id": "pad8cc2e4dc",
+"titre": "Survey on the View Planning Problem for Reverse Engineering and Automated Control Applications",
+"annee": 2021,
+"type": "journal",
+"lieu": "Computer-Aided Design",
+"url": "https://hal.science/hal-03322710v1",
+"doi": "10.1016/j.cad.2021.103094"
+},
+{
+"id": "p49ebe787be",
+"titre": "A Robust Method of Eye Torsion Measurement for Medical Applications",
+"annee": 2020,
+"type": "journal",
+"lieu": "Information",
+"url": "https://amu.hal.science/hal-02919784v1",
+"doi": "10.3390/info11090408"
+},
+{
+"id": "p9b8be47442",
+"titre": "Automated Extraction of Crater Rims on 3D Meshes Combining Artificial Neural Network and Discrete Curvature Labeling",
+"annee": 2020,
+"type": "journal",
+"lieu": "Earth, Moon, and Planets",
+"url": "https://hal.science/hal-03146536v1",
+"doi": "10.1007/s11038-020-09535-7"
+},
+{
+"id": "p251e5ff5c7",
+"titre": "Detection and Estimation of Helicopters Vibrations by Adaptive Notch Filters",
+"annee": 2020,
+"type": "conférence",
+"lieu": "17th International Conference on Informatics in Control, Automation and Robotics",
+"url": "https://amu.hal.science/hal-02936935v1",
+"doi": "10.5220/0009910302010207"
+},
+{
+"id": "p3309830501",
+"titre": "Digital Terrain Model From UAV Photogrammetric Data",
+"annee": 2020,
+"type": "conférence",
+"lieu": "Smart Tools and Applications in Graphics (STAG)",
+"url": "https://amu.hal.science/hal-03418438v1"
+},
+{
+"id": "p82869faaf8",
+"titre": "High Accuracy Terrain Reconstruction from Point Clouds Using Implicit Deformable Model",
+"annee": 2020,
+"type": "conférence",
+"lieu": "ICCS",
+"url": "https://amu.hal.science/hal-03418436v1"
+},
+{
+"id": "pb78ac8853e",
+"titre": "Kinship Verification Through Facial Images Using CNN-Based Features",
+"annee": 2020,
+"type": "journal",
+"lieu": "Traitement du Signal",
+"url": "https://amu.hal.science/hal-02517794v1",
+"doi": "10.18280/ts.370101"
+},
+{
+"id": "pa0157cccfd",
+"titre": "Kinship verification through facial images using multiscale and multilevel handcrafted features",
+"annee": 2020,
+"type": "journal",
+"lieu": "Journal of Electronic Imaging",
+"url": "https://amu.hal.science/hal-02531188v1",
+"doi": "10.1117/1.jei.29.2.023017"
+},
+{
+"id": "p38a5462667",
+"titre": "Remote Sensing Single-Image Resolution Improvement Using A Deep Gradient-Aware Network with Image-Specific Enhancement",
+"annee": 2020,
+"type": "journal",
+"lieu": "Remote Sensing",
+"url": "https://amu.hal.science/hal-02492404v1",
+"doi": "10.3390/rs12050758"
+},
+{
+"id": "pd053fe643f",
+"titre": "Segmentation of unbalanced and in-homogeneous point clouds and its application to 3D scanned trees",
+"annee": 2020,
+"type": "journal",
+"lieu": "The Visual Computer",
+"url": "https://amu.hal.science/hal-03418434v1"
+},
+{
+"id": "p7218a27c96",
+"titre": "3D mesh description using \"Subdivided Shape-Curvature-Graphs",
+"annee": 2019,
+"type": "conférence",
+"lieu": "40th Annual Conference of the European Association for Computer Graphics, Eurographics 2019",
+"url": "https://hal.science/hal-02130489v1",
+"doi": "10.2312/egp.20191054"
+},
+{
+"id": "p7d42eb1a38",
+"titre": "A vision-based assistance key diﬀerenciator for helicopters automonous scalable missions",
+"annee": 2019,
+"type": "conférence",
+"lieu": "20th Towards Autonomous Robotic Systems Conference - TAROS",
+"url": "https://amu.hal.science/hal-02095960v1"
+},
+{
+"id": "p625357d8ca",
+"titre": "Adaptive Prediction for Ship Motion in Rotorcraft Maritime Operations",
+"annee": 2019,
+"type": "conférence",
+"lieu": "5th CEAS Specialist Conference on Guidance, Navigation & Control - EUROGNC",
+"url": "https://amu.hal.science/hal-02095955v1"
+},
+{
+"id": "pa64b3c5bd0",
+"titre": "Comparison of Three Algorithms to Estimate Tree Stem Diameter from Terrestrial Laser Scanner Data",
+"annee": 2019,
+"type": "journal",
+"lieu": "Forests",
+"url": "https://hal.science/hal-03325416v1",
+"doi": "10.3390/f10070599"
+},
+{
+"id": "p5c9b8af87d",
+"titre": "Dual-primal skeleton: a thinning scheme for vertex sets lying on a surface mesh",
+"annee": 2019,
+"type": "conférence",
+"lieu": "14th International Symposium on Mathematical Morphology (ISMM 2019)",
+"url": "https://hal.science/hal-02130490v1",
+"doi": "10.1007/978-3-030-20867-7_6"
+},
+{
+"id": "p621dec0c4a",
+"titre": "Geometric and Topological Mesh Feature Extraction for 3D Shape Analysis",
+"annee": 2019,
+"type": "ouvrage",
+"lieu": "",
+"url": "https://inria.hal.science/hal-02361776v1",
+"doi": "10.1002/9781119681069"
+},
+{
+"id": "p22a51efd4d",
+"titre": "Géométrie et topologie pour les maillages 3D",
+"annee": 2019,
+"type": "chapitre",
+"lieu": "Informatique Mathématique, Une photographie en 2019",
+"url": "https://inria.hal.science/hal-02058296v1"
+},
+{
+"id": "pe343e2cf65",
+"titre": "Interactive Hyper Spectral Image Rendering on GPU",
+"annee": 2019,
+"type": "journal",
+"lieu": "Journal of Virtual Reality and Broadcasting",
+"url": "https://hal.science/hal-03982853v1",
+"doi": "10.48663/1860-2037/15.2018.4"
+},
+{
+"id": "p64fcaaca65",
+"titre": "Intérêt des \"Graphes de Courbure de Forme Subdivisé\" pour décrire la déformation des structures complexes",
+"annee": 2019,
+"type": "conférence",
+"lieu": "Journées du Groupe de Travail en Modélisation Géométrique, GTMG 2019",
+"url": "https://hal.science/hal-02130619v1"
+},
+{
+"id": "pe88248bd70",
+"titre": "Investigating Deep CNNs Models Applied in Kinship Verification through Facial Images",
+"annee": 2019,
+"type": "conférence",
+"lieu": "5th International Conference on Frontiers of Signal Processing (ICFSP 2019)",
+"url": "https://hal.science/hal-02400686v1"
+},
+{
+"id": "pf51657d456",
+"titre": "Kinship Verification using Mixed Descriptors and Multi Block Face Representation",
+"annee": 2019,
+"type": "conférence",
+"lieu": "2019 International Conference on Networking and Advanced Systems (ICNAS)",
+"url": "https://amu.hal.science/hal-02319850v1",
+"doi": "10.1109/icnas.2019.8807875"
+},
+{
+"id": "p3bb2a058fa",
+"titre": "Novel Method for Brain Tumor Classification Based on Use of Image Entropy and Seven Hu’s Invariant Moments",
+"annee": 2019,
+"type": "journal",
+"lieu": "Traitement du Signal",
+"url": "https://hal.science/hal-02400717v1",
+"doi": "10.18280/ts.360602"
+},
+{
+"id": "pbe94f7ab8c",
+"titre": "One-step compact skeletonization",
+"annee": 2019,
+"type": "conférence",
+"lieu": "40th Annual Conference of the European Association for Computer Graphics - Eurographics 2019",
+"url": "https://hal.science/hal-02130468v1",
+"doi": "10.2312/egs.20191005"
+},
+{
+"id": "p218cdf4ba8",
+"titre": "The propagated skeleton: a robust detail-preserving approach",
+"annee": 2019,
+"type": "conférence",
+"lieu": "21th IAPR International Conference on Discrete Geometry for Computer Imagery, DGCI 2019",
+"url": "https://hal.science/hal-02130484v1",
+"doi": "10.1007/978-3-030-14085-4_27"
+},
+{
+"id": "pd596f36e92",
+"titre": "Automatic Extraction of Complex 3D Structures - Application to the Inner Ear Segmentation from Cone Beam CT Digital Volumes",
+"annee": 2018,
+"type": "conférence",
+"lieu": "Eurographics Workshop on 3D Object Retrieval",
+"url": "https://hal.science/hal-01795062v1",
+"doi": "10.2312/3dor.20181048"
+},
+{
+"id": "p2165d47b8a",
+"titre": "Channel-based Spectral Image Rendering on GPU",
+"annee": 2018,
+"type": "conférence",
+"lieu": "Soirée annuelle SIGGRAPH \"Papiers de l’AFIG et R&D\"",
+"url": "https://hal.science/hal-01785862v1"
+},
+{
+"id": "p85723e9fea",
+"titre": "Description de formes complexes par subdivision de graphes de courbures",
+"annee": 2018,
+"type": "conférence",
+"lieu": "Journées Françaises d’Informatique Graphique et du chapitre français d’Eurographics, JFIG 2018",
+"url": "https://hal.science/hal-02130618v1"
+},
+{
+"id": "pce59ccd0ac",
+"titre": "Distributed Combinatorial Maps for Parallel Mesh Processing",
+"annee": 2018,
+"type": "journal",
+"lieu": "Algorithms",
+"url": "https://hal.science/hal-01844433v1",
+"doi": "10.3390/a11070105"
+},
+{
+"id": "p1d33ac4c89",
+"titre": "Embedding intelligent image processing algorithms : the new safety enhancer for helicopters missions",
+"annee": 2018,
+"type": "conférence",
+"lieu": "44th European Rotorcraft Forum - ERF 2018",
+"url": "https://amu.hal.science/hal-02095941v1"
+},
+{
+"id": "pf87f4b3f3a",
+"titre": "Estimating 3D deformations in real time using 2D visual information: a Bayesian filter approach",
+"annee": 2018,
+"type": "conférence",
+"lieu": "Journées du Groupe de Travail en Modélisation Géométrique, GTMG 2018",
+"url": "https://hal.science/hal-02130616v1"
+},
+{
+"id": "p70d13aef49",
+"titre": "Extraction automatique de structures 3D complexes - Application à la segmentation de l’oreille interne à partir de volumes numériques",
+"annee": 2018,
+"type": "conférence",
+"lieu": "Journées du Groupe de Travail en Modélisation Géométrique, GTMG 2018",
+"url": "https://hal.science/hal-02130617v1"
+},
+{
+"id": "p65e08ba871",
+"titre": "Geometric feature extraction and shape description using discrete curvature",
+"annee": 2018,
+"type": "conférence",
+"lieu": "5th Sino-French Symposium on Virtual Reality",
+"url": "https://hal.science/hal-02130537v1"
+},
+{
+"id": "pceadfa1ae6",
+"titre": "Hierarchical representation for rasterized planar face complexes",
+"annee": 2018,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://hal.science/hal-01838454v1",
+"doi": "10.1016/j.cag.2018.05.017"
+},
+{
+"id": "p3ba929b604",
+"titre": "Interactive Hyper Spectral Image Rendering on GPU",
+"annee": 2018,
+"type": "conférence",
+"lieu": "International Conference on Computer Graphics Theory and Applications",
+"url": "https://hal.science/hal-01785872v1",
+"doi": "10.5220/0006549800710080"
+},
+{
+"id": "pe860875ed6",
+"titre": "Level-set based algorithm for automatic feature extraction on 3D meshes: Application to crater detection on Mars",
+"annee": 2018,
+"type": "conférence",
+"lieu": "International Conference on Computer Vision and Graphics 2018 (ICCVG 2018)",
+"url": "https://hal.science/hal-02130551v1",
+"doi": "10.1007/978-3-030-00692-1_10"
+},
+{
+"id": "p0214a57b9e",
+"titre": "Shallow-water Image Enhancement Using Relative Global Histogram Stretching Based on Adaptive Parameter Acquisition",
+"annee": 2018,
+"type": "conférence",
+"lieu": "24th International Conference on Multimedia Modeling - MMM2018",
+"url": "https://amu.hal.science/hal-01632263v1"
+},
+{
+"id": "p2add342518",
+"titre": "Surface reconstruction of incomplete datasets: A novel Poisson surface approach based on CSRBF",
+"annee": 2018,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://hal.science/hal-02109646v1",
+"doi": "10.1016/j.cag.2018.05.004"
+},
+{
+"id": "p36589d004e",
+"titre": "Surface reconstruction of incomplete datasets: a novel Poisson surface approach based on CSRBF",
+"annee": 2018,
+"type": "conférence",
+"lieu": "Paper presented at the Shape Modelling International (SMI 2018) Symposium",
+"url": "https://hal.science/hal-02902826v1"
+},
+{
+"id": "pa4a3418e26",
+"titre": "Allowing cycles in discrete Morse theory",
+"annee": 2017,
+"type": "journal",
+"lieu": "Topology and its Applications",
+"url": "https://hal.science/hal-01528103v1",
+"doi": "10.1016/j.topol.2017.05.008"
+},
+{
+"id": "p25afff5146",
+"titre": "Anisotropic Octrees: a Tool for Fast Normals Estimation on Unorganized Point Clouds",
+"annee": 2017,
+"type": "conférence",
+"lieu": "WSCG",
+"url": "https://hal.science/hal-01690397v1"
+},
+{
+"id": "pb6f85db563",
+"titre": "Discrete curvatures combined with machine learning for automated extraction of impact craters on 3D topographic meshes",
+"annee": 2017,
+"type": "conférence",
+"lieu": "EGU General Assembly 2017",
+"url": "https://amu.hal.science/hal-01495367v1"
+},
+{
+"id": "p13490a0739",
+"titre": "Ellipse Detection in Very Noisy Environment",
+"annee": 2017,
+"type": "conférence",
+"lieu": "25th International Conference on Computer Graphics, Visualization and Computer Vision",
+"url": "https://amu.hal.science/hal-01569103v1"
+},
+{
+"id": "pc81c365de7",
+"titre": "Extraction of tubular shapes from dense point clouds and application to tree reconstruction from laser scanned data",
+"annee": 2017,
+"type": "conférence",
+"lieu": "Shape Modeling International",
+"url": "https://hal.science/hal-01685231v1"
+},
+{
+"id": "pc4642c2939",
+"titre": "Extraction of tubular shapes from dense point clouds and application to tree reconstruction from laser scanned data",
+"annee": 2017,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://hal.science/hal-01685214v1",
+"doi": "10.1016/j.cag.2017.05.016"
+},
+{
+"id": "p9330bc8bb1",
+"titre": "Opening Holes in Discrete Objects with Digital Homotopy",
+"annee": 2017,
+"type": "conférence",
+"lieu": "20th IAPR International Conference on Discrete Geometry for Computer Imagery (DGCI 2017)",
+"url": "https://hal.science/hal-01698847v1",
+"doi": "10.1007/978-3-319-66272-5_18"
+},
+{
+"id": "p9466485a4a",
+"titre": "Shape-Curvature-Graph\": Towards a New Model of Representation for the Description of 3D Meshes",
+"annee": 2017,
+"type": "conférence",
+"lieu": "4th International Conference on Augmented Reality, Virtual Reality and Computer Graphics (AVR 2017)",
+"url": "https://hal.science/hal-01794890v1",
+"doi": "10.1007/978-3-319-60928-7_32"
+},
+{
+"id": "p9532d845e4",
+"titre": "Terrain model reconstruction from terrestrial LiDAR data using radial basis functions",
+"annee": 2017,
+"type": "journal",
+"lieu": "IEEE Computer Graphics and Applications",
+"url": "https://hal.science/hal-01380160v1",
+"doi": "10.1109/mcg.2017.3621225"
+},
+{
+"id": "p4ba4203b5b",
+"titre": "The use of terrestrial LiDAR for enhanced forest inventory",
+"annee": 2017,
+"type": "conférence",
+"lieu": "Earth Observation Summit",
+"url": "https://hal.science/hal-02080481v1"
+},
+{
+"id": "p82da010b66",
+"titre": "Zones « menottables » sur un maillage 3D",
+"annee": 2017,
+"type": "conférence",
+"lieu": "Journées du Groupe de Travail en Modélisation géométrique (GTMG 2017)",
+"url": "https://hal.science/hal-01493023v1"
+},
+{
+"id": "pb7cea74fe4",
+"titre": "Comparison of quasi-spherical surfaces – application to corneal biometry",
+"annee": 2016,
+"type": "journal",
+"lieu": "IET journal on Biometrics",
+"url": "https://amu.hal.science/hal-01318144v1",
+"doi": "10.1049/iet-bmt.2015.0048"
+},
+{
+"id": "p7c1915dc8e",
+"titre": "Extraction of \"best fit circles\" on 3D meshes based on discrete curvatures: application to impact craters detection",
+"annee": 2016,
+"type": "conférence",
+"lieu": "EGU General Assembly 2016",
+"url": "https://amu.hal.science/hal-01490130v1"
+},
+{
+"id": "p5411456a1e",
+"titre": "Fast, Simple and Separable Computation of Betti Numbers on Three-dimensional Cubical Complexes",
+"annee": 2016,
+"type": "conférence",
+"lieu": "6th International Workshop on Computational Topology in Image Context (CTIC 2016)",
+"url": "https://amu.hal.science/hal-01341014v1",
+"doi": "10.1007/978-3-319-39441-1_12"
+},
+{
+"id": "pe7da13b5cb",
+"titre": "Importing cooperative pedagogy into postgraduate courses - an experiment",
+"annee": 2016,
+"type": "conférence",
+"lieu": "Future Of Education - FOE",
+"url": "https://hal.science/hal-01380181v1"
+},
+{
+"id": "p4c41303f88",
+"titre": "Mesures géométriques pour les groupes d’homologie : vers une adaptation aux complexes simpliciaux",
+"annee": 2016,
+"type": "conférence",
+"lieu": "Journées du Groupe de Travail en Modélisation géométrique (GTMG 2016)",
+"url": "https://hal.science/hal-01476541v1"
+},
+{
+"id": "p4079f1a50d",
+"titre": "Realistic Urban Road Network Modelling From GIS Data",
+"annee": 2016,
+"type": "conférence",
+"lieu": "Eurographics Workshop on Urban Data Modelling and Visualisation",
+"url": "https://hal.science/hal-01414268v1",
+"doi": "10.2312/udmv.20161414"
+},
+{
+"id": "p6c53cd069e",
+"titre": "Topological Comparisons of Fluvial Reservoir Rock Volumes Using Betti Numbers: Application to CO2 Storage Uncertainty Analysis",
+"annee": 2016,
+"type": "conférence",
+"lieu": "6th International Workshop on Computational Topology in Image Context (CTIC 2016)",
+"url": "https://amu.hal.science/hal-01341013v1",
+"doi": "10.1007/978-3-319-39441-1_10"
+},
+{
+"id": "pb39bb170ef",
+"titre": "Two Measures for the Homology Groups of Binary Volumes",
+"annee": 2016,
+"type": "conférence",
+"lieu": "19th IAPR International Conference on Discrete Geometry for Computer Imagery (DGCI 2016)",
+"url": "https://amu.hal.science/hal-01341015v1",
+"doi": "10.1007/978-3-319-32360-2_12"
+},
+{
+"id": "p90924a01df",
+"titre": "Two new measures for the homology groups of discrete objects",
+"annee": 2016,
+"type": "conférence",
+"lieu": "Journées du Groupement de Recherche \"Informatique Mathématique\" (GdR IM)",
+"url": "https://hal.science/hal-01381805v1"
+},
+{
+"id": "p13106c195c",
+"titre": "Cellular Skeletons: a New Approach to Topological Skeletons with Geometric Features",
+"annee": 2015,
+"type": "conférence",
+"lieu": "16th International Conference on Computer Analysis of Images and Patterns (CAIP 2015)",
+"url": "https://amu.hal.science/hal-01341037v1",
+"doi": "10.1007/978-3-319-23117-4_53"
+},
+{
+"id": "pbd5d80b6f4",
+"titre": "Circular shapes automatic detection on meshes based on discrete curvatures - Application to impact craters recognition",
+"annee": 2015,
+"type": "conférence",
+"lieu": "Computer Graphics International (CGI 2015)",
+"url": "https://amu.hal.science/hal-01341019v1"
+},
+{
+"id": "p025d13fcf0",
+"titre": "Computation of tree volume from terrestrial LiDAR data",
+"annee": 2015,
+"type": "conférence",
+"lieu": "MMT",
+"url": "https://hal.science/hal-01381812v1"
+},
+{
+"id": "pc8b2eee76c",
+"titre": "Constructing average models of quasi-spherical objects: application to corneal topographies",
+"annee": 2015,
+"type": "journal",
+"lieu": "Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization",
+"url": "https://amu.hal.science/hal-01285963v1",
+"doi": "10.1080/21681163.2015.1077164"
+},
+{
+"id": "pcd72f35584",
+"titre": "Fast computation of Betti numbers on three-dimensional cubical complexes",
+"annee": 2015,
+"type": "conférence",
+"lieu": "Applications of Computer Algebra (ACA 2015)",
+"url": "https://amu.hal.science/hal-01341017v1"
+},
+{
+"id": "p587e2a91d4",
+"titre": "Feature extraction using a shape descriptor graph based on discrete curvature patches",
+"annee": 2015,
+"type": "conférence",
+"lieu": "Computer Graphics International (CGI 2015)",
+"url": "https://amu.hal.science/hal-01341018v1"
+},
+{
+"id": "p098332027e",
+"titre": "Forest carbon assessment from LiDAR 3D point cloud analysis",
+"annee": 2015,
+"type": "conférence",
+"lieu": "RFCC - Regional Forum on Climate Change",
+"url": "https://hal.science/hal-01381790v1"
+},
+{
+"id": "p4bb7cfe853",
+"titre": "Homological Discrete Vector Fields and homotopy equivalence",
+"annee": 2015,
+"type": "conférence",
+"lieu": "Applications of Computer Algebra (ACA 2015)",
+"url": "https://hal.science/hal-01499699v1"
+},
+{
+"id": "p96280f675c",
+"titre": "Modélisation de tiges d'arbres à partir de contours actifs",
+"annee": 2015,
+"type": "conférence",
+"lieu": "GTMG 2015",
+"url": "https://hal.science/hal-01376474v1"
+},
+{
+"id": "p43c2f1b953",
+"titre": "Multiple reconstruction and dynamic modeling of 3D digital objects using a morphing approach",
+"annee": 2015,
+"type": "journal",
+"lieu": "The Visual Computer",
+"url": "https://amu.hal.science/hal-01281355v1",
+"doi": "10.1007/s00371-014-0978-6"
+},
+{
+"id": "p42dabb5a63",
+"titre": "Robust Detection of Round Shaped Pits Lying on 3D Meshes: Application to Impact Crater Recognition",
+"annee": 2015,
+"type": "conférence",
+"lieu": "EGU General Assembly 2015",
+"url": "https://hal.science/hal-01499700v1"
+},
+{
+"id": "pda8aca57a7",
+"titre": "Searching combinatorial optimality using graph-based homology information",
+"annee": 2015,
+"type": "journal",
+"lieu": "Applicable Algebra in Engineering, Communication and Computing",
+"url": "https://amu.hal.science/hal-01285969v1",
+"doi": "10.1007/s00200-014-0248-x"
+},
+{
+"id": "p9251dff956",
+"titre": "Topological comparisons of fluvial reservoir rock volumes using Betti numbers: application to CO2 storage uncertainty analysis",
+"annee": 2015,
+"type": "conférence",
+"lieu": "35th gOcad Meeting",
+"url": "https://amu.hal.science/hal-01341016v1"
+},
+{
+"id": "pcc5a2549b1",
+"titre": "Tree stem reconstruction from terrestrial laser scanner point cloud using Hough transform and open active contours",
+"annee": 2015,
+"type": "conférence",
+"lieu": "Silvilaser 2015",
+"url": "https://hal.science/hal-01376470v1"
+},
+{
+"id": "p2cdddbfc66",
+"titre": "A New Registration Algorithm for Estimating and Discriminating Average Shapes of Sets of Corneal Topographies",
+"annee": 2014,
+"type": "conférence",
+"lieu": "36th Annual International Conference of the IEEE Engineering in Medicine and Biology Society, EMBC 2014",
+"url": "https://hal.science/hal-01499702v1",
+"doi": "10.1109/embc.2014.6944338"
+},
+{
+"id": "p1969842db6",
+"titre": "Adaptive surface extraction from anisotropic volumetric data: contouring on generalized octrees",
+"annee": 2014,
+"type": "journal",
+"lieu": "Annals of Telecommunications - annales des télécommunications",
+"url": "https://hal.science/hal-01119413v1",
+"doi": "10.1007/s12243-013-0369-4"
+},
+{
+"id": "p45c0da3147",
+"titre": "An explorative study on the proximity of buildings to green spaces in urban areas using remotely sensed imagery",
+"annee": 2014,
+"type": "journal",
+"lieu": "Annals of GIS",
+"url": "https://hal.science/hal-01286202v1",
+"doi": "10.1080/19475683.2014.945482"
+},
+{
+"id": "pb894a9fdc8",
+"titre": "Comparison of quasi-spherical surfaces using spherical harmonics: Application to corneal biometry",
+"annee": 2014,
+"type": "conférence",
+"lieu": "4th International Conference on Image Processing Theory, Tools and Applications, IPTA 2014",
+"url": "https://hal.science/hal-01499703v1",
+"doi": "10.1109/ipta.2014.7001979"
+},
+{
+"id": "pc3e1f5b77b",
+"titre": "Computing Homological Information Based on Directed Graphs within Discrete Objects",
+"annee": 2014,
+"type": "conférence",
+"lieu": "16th International Symposium on Symbolic and Numeric Algorithms for Scientific Computing (SYNASC 2014)",
+"url": "https://hal.science/hal-01381797v1",
+"doi": "10.1109/synasc.2014.82"
+},
+{
+"id": "pcd7cd43e25",
+"titre": "Construction of a mean surface for the variability study of the cornea",
+"annee": 2014,
+"type": "conférence",
+"lieu": "11th Canadian Conference on Computer and Robot Vision, CRV 2014",
+"url": "https://hal.science/hal-01499701v1",
+"doi": "10.1109/crv.2014.51"
+},
+{
+"id": "pc832c0de1e",
+"titre": "Extraction out-of-core de surfaces à partir de volumes de grande taille",
+"annee": 2014,
+"type": "conférence",
+"lieu": "Journées du groupe de travail en modélisation géométrique",
+"url": "https://hal.science/hal-01271912v1"
+},
+{
+"id": "p1f26e3d0bc",
+"titre": "Kidney 3D dynamic modeling and tumor tracking for therapeutic transcutaneous treatment",
+"annee": 2014,
+"type": "conférence",
+"lieu": "Computer Assisted Medical Interventions Conference, SURGETICA 2014",
+"url": "https://hal.science/hal-01311429v1"
+},
+{
+"id": "p8f8fee95cd",
+"titre": "Opérateurs de morphologie mathématique et exploitation des courbures discrètes pour la détection de tumeurs dans un modèle rénal",
+"annee": 2014,
+"type": "conférence",
+"lieu": "Journées du Groupe de Travail en Modélisation Géométrique, GTMG 2014",
+"url": "https://hal.science/hal-01311372v1"
+},
+{
+"id": "p3a115147b6",
+"titre": "Out-of-Core Adaptive iso-surface extraction from binary Volume Data",
+"annee": 2014,
+"type": "journal",
+"lieu": "Graphical Models",
+"url": "https://hal.science/hal-01016785v1",
+"doi": "10.1016/j.gmod.2014.06.001"
+},
+{
+"id": "p75f9bf09ff",
+"titre": "Realistic road path reconstruction from GIS data",
+"annee": 2014,
+"type": "conférence",
+"lieu": "Pacific Graphics 2014",
+"url": "https://hal.science/hal-01311427v1"
+},
+{
+"id": "pfa17d8b21b",
+"titre": "Realistic road path reconstruction from GIS data.",
+"annee": 2014,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://amu.hal.science/hal-01281353v1",
+"doi": "10.1111/cgf.12494"
+},
+{
+"id": "p830f97defe",
+"titre": "Segmentation de nuages de points par octrees et analyse en composantes principales",
+"annee": 2014,
+"type": "conférence",
+"lieu": "GTMG 2014",
+"url": "https://hal.science/hal-01376473v1"
+},
+{
+"id": "p4ec797c7ac",
+"titre": "Spatial vegetation density index from terrestrial laser scanner : a continuous approach applied to forestry",
+"annee": 2014,
+"type": "conférence",
+"lieu": "IGARSS",
+"url": "https://hal.science/hal-01381800v1"
+},
+{
+"id": "pe7a174aa81",
+"titre": "Triangulation of an elevation surface structured by a sparse 3D grid",
+"annee": 2014,
+"type": "conférence",
+"lieu": "The Fifth IEEE International Conference on Communications and Electronics IEEE ICCE 2014",
+"url": "https://hal.science/hal-01311428v1"
+},
+{
+"id": "p493274f549",
+"titre": "Visualisation de musique par génération fréquentielle de carte 3D guidée par la théorie de Airy",
+"annee": 2014,
+"type": "conférence",
+"lieu": "CartoMuse 2014",
+"url": "https://hal.science/hal-01426221v1"
+},
+{
+"id": "p5d235eab40",
+"titre": "Vol sans effraction : un serious game de médiation culturelle en réalité augmentée",
+"annee": 2014,
+"type": "conférence",
+"lieu": "Ludovia 2014",
+"url": "https://hal.science/hal-01426218v1"
+},
+{
+"id": "p1d78aebd3d",
+"titre": "3D Interactive Annotations on Digital Outcrops using a Touch Pad",
+"annee": 2013,
+"type": "conférence",
+"lieu": "8th workshop of the ILP-Task Force on Sedimentary Basin",
+"url": "https://hal.science/hal-01499707v1"
+},
+{
+"id": "pe38430286a",
+"titre": "3D Reconstruction of Sport Scenes",
+"annee": 2013,
+"type": "chapitre",
+"lieu": "3D Video: From Capture to Diffusion",
+"url": "https://hal.science/hal-01286373v1"
+},
+{
+"id": "p1cb9eb6a0e",
+"titre": "A Continuous Analog for 4-Dimensional Objects",
+"annee": 2013,
+"type": "journal",
+"lieu": "Annals of Mathematics and Artificial Intelligence",
+"url": "https://amu.hal.science/hal-01341023v1",
+"doi": "10.1007/s10472-013-9336-z"
+},
+{
+"id": "pcef15cded8",
+"titre": "A hybrid method combining pixel-based and object-oriented methods and its application in Hungary using Chinese HJ-1 satellite images",
+"annee": 2013,
+"type": "journal",
+"lieu": "International Journal of Remote Sensing",
+"url": "https://hal.science/hal-01286203v1",
+"doi": "10.1080/01431161.2013.780669"
+},
+{
+"id": "pa52e3dc359",
+"titre": "Application of discrete curvatures to surface mesh simplification and feature line extraction",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Discrete Curvature - Theory and Applications, a colloquium on discrete curvature",
+"url": "https://hal.science/hal-01311433v1"
+},
+{
+"id": "paa9a2ca6a7",
+"titre": "Characterization of impact craters in 3D meshes using a feature lines approach",
+"annee": 2013,
+"type": "conférence",
+"lieu": "American Geophysical Union, AGU Fall Meeting 2013",
+"url": "https://hal.science/hal-01499706v1"
+},
+{
+"id": "p286a026515",
+"titre": "Detection of impact craters in 3D mesh by extraction of feature lines",
+"annee": 2013,
+"type": "conférence",
+"lieu": "European Planetary Science Congress, EPSC 2013",
+"url": "https://hal.science/hal-01499705v1"
+},
+{
+"id": "pb800e67c05",
+"titre": "Feature lines extraction within surface mesh models - Application to impact craters detection",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Geometric Computing and Modeling track of conference 19th IMACS World Congress (International Association for Mathematics and Computers in Simulation)",
+"url": "https://amu.hal.science/hal-01341022v1"
+},
+{
+"id": "p5ac2628a2c",
+"titre": "Flying a drone in a museum - an augmented-reality cultural serious game in Provence",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Digital Heritage 2013",
+"url": "https://hal.science/hal-01426171v1"
+},
+{
+"id": "pdcf856c0bc",
+"titre": "Individual surface representations and optimization",
+"annee": 2013,
+"type": "chapitre",
+"lieu": "Shared Earth Modeling: Knowledge driven solutions for building and managing subsurface 3D geological models",
+"url": "https://hal.science/hal-01288312v1"
+},
+{
+"id": "p190fe99623",
+"titre": "Interactions ludiques dans un monde virtuel généré par la musique",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Observatoire des pratiques de création de l'image numérique 2013",
+"url": "https://hal.science/hal-01426229v1"
+},
+{
+"id": "p3e44f54f61",
+"titre": "Laser-scanned tree stem filtering for forest inventories measurements",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Digital Heritage",
+"url": "https://hal.science/hal-01376465v1",
+"doi": "10.1109/digitalheritage.2013.6743809"
+},
+{
+"id": "p15a8e1a9b2",
+"titre": "Recalage contraint par cartes de courbures discrètes pour la modélisation dynamique du rein",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Journées du Groupe de Travail en Modélisation Géométrique, GTMG 2013",
+"url": "https://hal.science/hal-01311373v1"
+},
+{
+"id": "p24216d6621",
+"titre": "Reconstruction 3D de scènes sportives",
+"annee": 2013,
+"type": "chapitre",
+"lieu": "Vidéo 3D : Capture, traitement et diffusion",
+"url": "https://hal.science/hal-01286372v1"
+},
+{
+"id": "p1e996bc22a",
+"titre": "Shape and texture indexes - Application to cell nuclei classification",
+"annee": 2013,
+"type": "journal",
+"lieu": "International Journal of Pattern Recognition and Artificial Intelligence",
+"url": "https://amu.hal.science/hal-01341021v1",
+"doi": "10.1142/s0218001413570024"
+},
+{
+"id": "p9cd8fdee8f",
+"titre": "Simplification of 3D point clouds sampled from elevation surfaces",
+"annee": 2013,
+"type": "conférence",
+"lieu": "21th International Conference on Computer Graphics, Visualization and Computer Vision, WSCG2013",
+"url": "https://hal.science/hal-01311430v1"
+},
+{
+"id": "pba3d3d5866",
+"titre": "Skeleton extraction of vertex sets lying on arbitrary triangulated 3D meshes",
+"annee": 2013,
+"type": "conférence",
+"lieu": "17th IAPR International Conference on Discrete Geometry for Computer Imagery, DGCI 2013",
+"url": "https://hal.science/hal-01499704v1",
+"doi": "10.1007/978-3-642-37067-0-18"
+},
+{
+"id": "pc481f48787",
+"titre": "Un jeu en réalité augmentée au service de la médiation culturelle",
+"annee": 2013,
+"type": "conférence",
+"lieu": "ArtGame 2013",
+"url": "https://hal.science/hal-01426224v1"
+},
+{
+"id": "p1e90e07f83",
+"titre": "A Morphing Approach for Kidney Dynamic Modeling - From 3D Reconstruction to Motion Simulation",
+"annee": 2012,
+"type": "conférence",
+"lieu": "20th International Conference in Central Europe on Computer Graphics, Visualization and Computer Vision, WSCG 2012",
+"url": "https://hal.science/hal-01311434v1"
+},
+{
+"id": "pfdfcbd0f04",
+"titre": "Boundary Extraction and Simplification of a Surface Defined by a Sparse 3D Volume",
+"annee": 2012,
+"type": "conférence",
+"lieu": "Proceeding of the third international symposium on information and communication technology SoICT 2012",
+"url": "https://hal.science/hal-01311438v1"
+},
+{
+"id": "pd86d10986f",
+"titre": "Characterization of Similar Areas of Two 2D Point Clouds",
+"annee": 2012,
+"type": "conférence",
+"lieu": "Advances in Visual Computing",
+"url": "https://hal.science/hal-01287589v1",
+"doi": "10.1007/978-3-642-33191-6_50"
+},
+{
+"id": "pa8ea902069",
+"titre": "Génération de surfaces adaptatives à partir de données volumiques binaires",
+"annee": 2012,
+"type": "conférence",
+"lieu": "15èmes journées CORESA 2012",
+"url": "https://hal.science/hal-00838626v1"
+},
+{
+"id": "pd9f8944d10",
+"titre": "Mesure de similarité entre sous-parties de nuages de points 2D",
+"annee": 2012,
+"type": "journal",
+"lieu": "Traitement du Signal",
+"url": "https://hal.science/hal-01286204v1"
+},
+{
+"id": "p5eb4caa893",
+"titre": "Multi-Resolution dual contouring from volumetric data",
+"annee": 2012,
+"type": "conférence",
+"lieu": "International Conference on Computer Graphics Theory and Applications",
+"url": "https://hal.science/hal-01352948v1"
+},
+{
+"id": "p8970dc1cb1",
+"titre": "Pairing regions in remote sensing images of different modalities",
+"annee": 2012,
+"type": "journal",
+"lieu": "Journal of Remote Sensing (JRS)",
+"url": "https://amu.hal.science/hal-01482884v1"
+},
+{
+"id": "p3b458478f9",
+"titre": "Quantitative in vivo MRI measurement of cortical development in the fetus",
+"annee": 2012,
+"type": "journal",
+"lieu": "Brain Structure and Function",
+"url": "https://amu.hal.science/hal-01341024v1",
+"doi": "10.1007/s00429-011-0325-x"
+},
+{
+"id": "p8799a95b00",
+"titre": "Real-time Walkthrough Rendering - Speed Improvement of Photon Mapping Algorithm",
+"annee": 2012,
+"type": "conférence",
+"lieu": "Proceedings of the International Conference on Computer Graphics Theory and Applications (VISIGRAPP 2012)",
+"url": "https://hal.science/hal-01287590v1",
+"doi": "10.5220/0003817702910294"
+},
+{
+"id": "p2ae3fea265",
+"titre": "Simulation du mouvement du rein par une approche de type morphing",
+"annee": 2012,
+"type": "conférence",
+"lieu": "Journées du Laboratoire des Sciences de l'Information et des Systèmes",
+"url": "https://amu.hal.science/hal-01488256v1"
+},
+{
+"id": "p345d01ffc2",
+"titre": "3D Reconstruction from CT-Scan Volume Dataset - Application to Kidney Modeling",
+"annee": 2011,
+"type": "conférence",
+"lieu": "SCCG 2011, 27th Spring conference on Computer Graphics",
+"url": "https://hal.science/hal-01311443v1",
+"doi": "10.1145/2461217.2461239"
+},
+{
+"id": "p6f9010e3b9",
+"titre": "A new geometric invariant to match regions within remote sensing images of different modalities",
+"annee": 2011,
+"type": "conférence",
+"lieu": "SPIE Remote Sensing",
+"url": "https://hal.science/hal-01287592v1",
+"doi": "10.1117/12.898158"
+},
+{
+"id": "pd6fc47e9a9",
+"titre": "A repartition structure for collision detection and deformation of discrete objets based on 3D wavelets",
+"annee": 2011,
+"type": "journal",
+"lieu": "International Journal of Computer Information Systems and Industrial Management Applications",
+"url": "https://hal.science/hal-01396228v1"
+},
+{
+"id": "pe0b3e07488",
+"titre": "Determining bricks of 3-dimensional cell complexes",
+"annee": 2011,
+"type": "conférence",
+"lieu": "14th International Workshop in Combinatorial Image Analysis, IWCIA 2011",
+"url": "https://hal.science/hal-01499708v1"
+},
+{
+"id": "p60184b81f5",
+"titre": "Extraction of feature lines with connectivity preservation",
+"annee": 2011,
+"type": "conférence",
+"lieu": "Computer Graphics International 2011 (CGI'2011)",
+"url": "https://hal.science/hal-01499709v1"
+},
+{
+"id": "p392457718f",
+"titre": "Feature Line Extraction on Meshes through Vertex Marking and 2D Topological Operators",
+"annee": 2011,
+"type": "journal",
+"lieu": "International Journal of Image and Graphics (IJIG)",
+"url": "https://amu.hal.science/hal-01341026v1",
+"doi": "10.1142/s0219467811004226"
+},
+{
+"id": "pa7091e7c7a",
+"titre": "Reconstruction 3D du Volume Rénal à partir d'Acquisitions Scanner Volumiques",
+"annee": 2011,
+"type": "conférence",
+"lieu": "Journées du Groupe de Travail en Modélisation Géométrique, GTMG 2011",
+"url": "https://hal.science/hal-01311376v1"
+}
+]
+}

@@ -1,0 +1,89 @@
+equipe: IRISA/VirtUs
+domaines:
+  principaux:
+  - humains
+  - animation
+  secondaires:
+  - rv
+  - ia
+themes:
+- id: foules
+  phrase: Simulation de foules jusqu'aux très fortes densités, avec contacts, rattrapage d'équilibre et apprentissage par
+    renforcement.
+  preuves:
+  - pa50fb1ce86
+  - p2929a7747a
+  - p5d2a877f2b
+- id: perception_action_rv
+  phrase: 'Études expérimentales, réelles et en RV, de l''évitement de collision entre piétons : regard, allure et apparence
+    du piéton virtuel, indices sonores d''anticipation.'
+  preuves:
+  - pd88f2c81d3
+  - pf1c08512a6
+  - p0bee8c26fe
+- id: synthese_mouvement
+  phrase: Génération et évaluation d'animations de personnages, dont la saisie d'objets par modèles de diffusion.
+  preuves:
+  - p6e968d5783
+  - p512f68a8d9
+  - p9fe723567a
+- id: cinematographie
+  phrase: Génération conjointe de mouvements de caméra et de personnages et contrôle de caméra cinématographique par apprentissage.
+  preuves:
+  - pebf1a1ade4
+  - pf4049d9293
+  - p9c6626ebae
+- id: incarnation_presence
+  phrase: Étude du comportement locomoteur et des interactions sociales face à des humains virtuels et des foules en RV.
+  preuves:
+  - pb48003a061
+  - p5b7e2d593e
+  - pc262b0eccb
+- id: perception
+  phrase: Saillance visuelle des défauts sur maillages 3D et qualité perçue des animations humaines.
+  preuves:
+  - pef4e7cce20
+  - p3458eb6912
+  - pd1c47911aa
+applications:
+- id: securite_foules
+  preuves:
+  - pf6d7944c9a
+  - pc8d965c952
+  - p69a4a35418
+- id: jeu_video
+  preuves:
+  - p5d2a877f2b
+  - p2929a7747a
+  - p512f68a8d9
+- id: cinema_vfx
+  preuves:
+  - pebf1a1ade4
+  - pf4049d9293
+  - pb31608ccad
+- id: robotique
+  preuves:
+  - p03004e64c4
+  - pe607ec3b3a
+  - p245b51b8d3
+- id: sante
+  preuves:
+  - p7c8aa65ea6
+  - p9b3dd2860c
+  - p76c2874442
+- id: sport
+  preuves:
+  - pa4ae90fd83
+  - p4fd653ef52
+  - p2520f67491
+publications_representatives:
+- pa50fb1ce86
+- p2929a7747a
+- pe87996118a
+- p08621bd193
+- pde80d33443
+synthese: Simulation de foules et d'humains virtuels, étude du comportement en réalité virtuelle et cinématographie virtuelle.
+pour_etudiants: On y simule des foules et des personnages virtuels qui bougent comme de vrais humains, et on filme des scènes
+  avec des caméras virtuelles.
+pour_entreprises: Simulation de foules denses pour la sécurité, animation de personnages et caméra virtuelle pour le cinéma
+  et le jeu, et études de locomotion en RV pour la santé et le sport.

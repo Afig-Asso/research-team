@@ -1,0 +1,63 @@
+{
+"equipe": "LIASD/PASTIS",
+"publications": [
+{
+"id": "p1a18abf28d",
+"titre": "Four years of sharing teaching practices within the French Computer Graphics community",
+"annee": 2025,
+"type": "conférence",
+"lieu": "Eurographics 2025 - Education Papers",
+"url": "https://hal.science/hal-05085593v1",
+"doi": "10.2312/eged.20251014"
+},
+{
+"id": "pa3cc65430d",
+"titre": "Real-Time Sketch-Based Terrain Generation",
+"annee": 2018,
+"type": "journal",
+"lieu": "CGI 2018",
+"url": "https://univ-paris8.hal.science/hal-03259380v1",
+"doi": "10.1145/3208159.3208184"
+},
+{
+"id": "p15aa8e4da6",
+"titre": "Real-time 3D rendering with hatching",
+"annee": 2017,
+"type": "journal",
+"lieu": "The Visual Computer",
+"url": "https://univ-paris8.hal.science/hal-03236781v1"
+},
+{
+"id": "p3c48e45ea5",
+"titre": "Toward a generic approach to stylization",
+"annee": 2016,
+"type": "journal",
+"lieu": "AICCSA 2016",
+"url": "https://univ-paris8.hal.science/hal-03259831v1"
+},
+{
+"id": "p69771577d9",
+"titre": "GPU Real Time Hatching",
+"annee": 2013,
+"type": "journal",
+"lieu": "Journal of WSCG",
+"url": "https://univ-paris8.hal.science/hal-03243270v1"
+},
+{
+"id": "pffe3c60809",
+"titre": "Learning Café: a semantic multimedia collaborative platform for e-learning.",
+"annee": 2013,
+"type": "conférence",
+"lieu": "IEEE International Workshop on Multimedia Technologies for E-Learning (MTEL) - IEEE International Symposium of multimedia (ISM 2013)",
+"url": "https://hal.science/hal-00905201v1"
+},
+{
+"id": "pe716e8471a",
+"titre": "GPU Real-Time Medium Model for Artistic Temporally Coherent Rendering",
+"annee": 2012,
+"type": "journal",
+"lieu": "SITIS '12 : The 8th International Conference on Signal-Image Technology & Internet Systems",
+"url": "https://univ-paris8.hal.science/hal-03254505v1"
+}
+]
+}

@@ -1,0 +1,1174 @@
+{
+"equipe": "LJK/MAVERICK",
+"publications": [
+{
+"id": "p78287c3ad9",
+"titre": "Approximating Sparse BRDF Measurements",
+"annee": 2026,
+"type": "conférence",
+"lieu": "MAM/MANER/APPAMAT workshop 2026 - Eurographics Workshop on Material Appearance Modeling (MAM2026) and MANER Conference Bordeaux 2026 (Material Appearance Network for Education and Research), and APPAMAT 2026",
+"url": "https://hal.science/hal-05709908v1"
+},
+{
+"id": "p4eae74da8e",
+"titre": "Comment crée-t-on un plan des pistes de ski ?",
+"annee": 2026,
+"type": "conférence",
+"lieu": "Le printemps des cartes",
+"url": "https://hal.science/hal-05696602v1"
+},
+{
+"id": "pd03dcdf8e1",
+"titre": "Gaussian Light Transport",
+"annee": 2026,
+"type": "conférence",
+"lieu": "SIGGRAPH Asia 2026 Conference Papers",
+"url": "https://inria.hal.science/hal-05748663v1",
+"doi": "10.1145/3829340.3842373"
+},
+{
+"id": "p7e1e1cdb1b",
+"titre": "Spectral Theory of Light Transport Operators",
+"annee": 2026,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-05407513v1",
+"doi": "10.1145/3774756"
+},
+{
+"id": "p09ade3f93a",
+"titre": "A Discrete Microfacet Model for Transparent Glints Rendering",
+"annee": 2025,
+"type": "journal",
+"lieu": "Computational Visual Media",
+"url": "https://doi.org/10.26599/cvm.2025.9450396",
+"doi": "10.26599/cvm.2025.9450396"
+},
+{
+"id": "p56440139a6",
+"titre": "Fast sphere tracing of procedural volumetric noise for very large and detailed scenes",
+"annee": 2025,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-05046040v1",
+"doi": "10.1111/cgf.70072"
+},
+{
+"id": "pb9dda8b870",
+"titre": "Motion ribbons: Parametrized surfaces for depicting motion effects",
+"annee": 2025,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://hal.science/hal-05084833v1",
+"doi": "10.1016/j.cag.2025.104227"
+},
+{
+"id": "p42dc359890",
+"titre": "Orientation fields predict human perception of 3D shape from shading",
+"annee": 2025,
+"type": "journal",
+"lieu": "Proceedings of the National Academy of Sciences of the United States of America",
+"url": "https://inria.hal.science/hal-05612523v1",
+"doi": "10.1073/pnas.2503088122"
+},
+{
+"id": "pcd4d4ba9a3",
+"titre": "Real-time rendering of animated meshless representations",
+"annee": 2025,
+"type": "conférence",
+"lieu": "HPG 2025 - Conference on High Performance Graphics",
+"url": "https://hal.science/hal-05095359v1"
+},
+{
+"id": "p25031fa454",
+"titre": "Computing Manifold Next-Event Estimation without Derivatives using the Nelder-Mead Method",
+"annee": 2024,
+"type": "conférence",
+"lieu": "EGSR 2024 - 35th edition of Eurographics Symposium on Rendering",
+"url": "https://hal.science/hal-04702018v1",
+"doi": "10.2312/sr.20241156"
+},
+{
+"id": "pf25be50ab4",
+"titre": "De l'atelier Novat au projet micmap",
+"annee": 2024,
+"type": "conférence",
+"lieu": "5e édition du Festival Printemps des cartes",
+"url": "https://inria.hal.science/hal-04589120v1"
+},
+{
+"id": "pcd1ee07d47",
+"titre": "Faking reality for generating panorama maps",
+"annee": 2024,
+"type": "conférence",
+"lieu": "13th Mountain Cartography Workshop",
+"url": "https://inria.hal.science/hal-04589342v1"
+},
+{
+"id": "p5216aa5989",
+"titre": "GigaVoxels DP: Starvation-Less Render and Production for Large and Detailed Volumetric Worlds Walkthrough",
+"annee": 2024,
+"type": "conférence",
+"lieu": "HPG 2024 - High Performance Graphics",
+"url": "https://hal.science/hal-04654692v1"
+},
+{
+"id": "p795bbdf4f4",
+"titre": "Interactive Rendering of Caustics using Dimension Reduction for Manifold Next-Event Estimation",
+"annee": 2024,
+"type": "journal",
+"lieu": "Proceedings of the ACM on Computer Graphics and Interactive Techniques",
+"url": "https://inria.hal.science/hal-04561024v1",
+"doi": "10.1145/3651297"
+},
+{
+"id": "p440958745f",
+"titre": "Interval Shading: using Mesh Shaders to generate shading intervals for volume rendering",
+"annee": 2024,
+"type": "journal",
+"lieu": "Proceedings of the ACM on Computer Graphics and Interactive Techniques",
+"url": "https://hal.science/hal-04561269v4",
+"doi": "10.1145/3675380"
+},
+{
+"id": "p954b08cd02",
+"titre": "Les déformations topographiques dans les panoramas de Pierre Novat et leur application à la cartographie numérique",
+"annee": 2024,
+"type": "journal",
+"lieu": "Cartes & géomatique",
+"url": "https://hal.science/hal-05034783v1",
+"doi": "10.62437/cixz350-668etyknpgmcw-19137824"
+},
+{
+"id": "pbb674fcad8",
+"titre": "Controllable motion lines generation for an abstracted depiction of 3D motion.",
+"annee": 2023,
+"type": "conférence",
+"lieu": "J.FIG 2023 - journées Françaises de l'Informatique Graphique",
+"url": "https://hal.science/hal-04397569v1"
+},
+{
+"id": "p2ab635c64a",
+"titre": "Dry powders reflectance model based on enhanced backscattering: case of hematite $\\alpha$–Fe2O3",
+"annee": 2023,
+"type": "journal",
+"lieu": "Journal of the Optical Society of America. A Optics, Image Science, and Vision",
+"url": "https://inria.hal.science/hal-04316639v2",
+"doi": "10.1364/josaa.487498"
+},
+{
+"id": "paba3bf8edb",
+"titre": "Exploring the Untapped Potential of Text Fields in Creative Software",
+"annee": 2023,
+"type": "conférence",
+"lieu": "IHM '23: 34th International Francophone Conference on Human-Computer Interaction",
+"url": "https://hal.science/hal-04014966v2",
+"doi": "10.1145/3583961.3583971"
+},
+{
+"id": "p1f03b764c6",
+"titre": "Tricher avec la lumière pour mieux percevoir",
+"annee": 2023,
+"type": "conférence",
+"lieu": "JC3DSHS 2023 - Les Journées du Consortium 3D SHS",
+"url": "https://hal.science/hal-04494667v2"
+},
+{
+"id": "p45b6536bb9",
+"titre": "A Data-Driven Paradigm for Precomputed Radiance Transfer",
+"annee": 2022,
+"type": "conférence",
+"lieu": "SIGGRAPH 2022 - Conference & Exhibition on Computer Graphics & Interactive Techniques",
+"url": "https://inria.hal.science/hal-03726655v1"
+},
+{
+"id": "p0b28ba039d",
+"titre": "A Theoretical Analysis of Compactness of the Light Transport Operator",
+"annee": 2022,
+"type": "conférence",
+"lieu": "SIGGRAPH 2022 - ACM Conference and Exhibition on Computer Graphics and Interactive Techniques",
+"url": "https://inria.hal.science/hal-03673578v1",
+"doi": "10.1145/3528233.3530725"
+},
+{
+"id": "p46b4a4a165",
+"titre": "Constant-Cost Spatio-Angular Prefiltering of Glinty Appearance Using Tensor Decomposition",
+"annee": 2022,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-03938085v1",
+"doi": "10.1145/3507915"
+},
+{
+"id": "p391e05a4f4",
+"titre": "Interactive simulation of plume and pyroclastic volcanic ejections",
+"annee": 2022,
+"type": "journal",
+"lieu": "Proceedings of the ACM on Computer Graphics and Interactive Techniques",
+"url": "https://hal.science/hal-03639288v2",
+"doi": "10.1145/3522609"
+},
+{
+"id": "p3c1b76ed5f",
+"titre": "Position-free multiple-bounce computations for smith microfacet BSDFs",
+"annee": 2022,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-03937876v1",
+"doi": "10.1145/3528223.3530112"
+},
+{
+"id": "p79cdbba50f",
+"titre": "SVBRDF Recovery from a Single Image with Highlights Using a Pre‐trained Generative Adversarial Network",
+"annee": 2022,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-03937939v1",
+"doi": "10.1111/cgf.14514"
+},
+{
+"id": "p2a97c81d57",
+"titre": "Unbiased Caustics Rendering Guided by Representative Specular Paths",
+"annee": 2022,
+"type": "conférence",
+"lieu": "ASIA 2022 - 15th ACM SIGGRAPH Conference and Exhibition on Computer Graphics and Interactive Techniques in Asia",
+"url": "https://inria.hal.science/hal-03938179v1",
+"doi": "10.1145/3550469.3555381"
+},
+{
+"id": "p30cc1bb340",
+"titre": "A Low-Dimensional Perceptual Space for Intuitive BRDF Editing",
+"annee": 2021,
+"type": "conférence",
+"lieu": "EGSR 2021 - Eurographics Symposium on Rendering - DL-only Track",
+"url": "https://inria.hal.science/hal-03364272v1"
+},
+{
+"id": "p29d537e983",
+"titre": "A brick in the wall: Staggered orientable infills for additive manufacturing",
+"annee": 2021,
+"type": "conférence",
+"lieu": "SCF 2021 - ACM Symposium on Computational Fabrication",
+"url": "https://inria.hal.science/hal-03352656v1",
+"doi": "10.1145/3485114.3485117"
+},
+{
+"id": "pedf53bce13",
+"titre": "Coherent Mark-based Stylization of 3D Scenes at the Compositing Stage",
+"annee": 2021,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-03143244v1",
+"doi": "10.1111/cgf.142613"
+},
+{
+"id": "p5954547ef3",
+"titre": "Influence of micro-structural features on the colour of nanocrystallised powders of hematite and visible-NIR reflectance spectra simulations",
+"annee": 2021,
+"type": "journal",
+"lieu": "Journal of the international colour association",
+"url": "https://hal.science/hal-03174514v1"
+},
+{
+"id": "p32dd331d09",
+"titre": "Interactive Simulation of Scattering Effects in Participating Media Using a Neural Network Model",
+"annee": 2021,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://hal.science/hal-02486039v1",
+"doi": "10.1109/tvcg.2019.2963015"
+},
+{
+"id": "p5543c895af",
+"titre": "Local Light Alignment for Multi-Scale Shape Depiction",
+"annee": 2021,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-03140647v2",
+"doi": "10.1111/cgf.142656"
+},
+{
+"id": "p7f02452f42",
+"titre": "Perceptual quality of BRDF approximations: dataset and metrics",
+"annee": 2021,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-03128383v1",
+"doi": "10.1111/cgf.142636"
+},
+{
+"id": "p9879e62c20",
+"titre": "A Detail Preserving Neural Network Model for Monte Carlo Denoising",
+"annee": 2020,
+"type": "journal",
+"lieu": "Computational Visual Media",
+"url": "https://inria.hal.science/hal-02488602v1",
+"doi": "10.1007/s41095-020-0167-7"
+},
+{
+"id": "p1f963b51da",
+"titre": "A Practical Path Guiding Method for Participating Media",
+"annee": 2020,
+"type": "journal",
+"lieu": "Computational Visual Media",
+"url": "https://inria.hal.science/hal-02486014v1",
+"doi": "10.1007/s41095-020-0160-1"
+},
+{
+"id": "p85fdc53479",
+"titre": "Adaptive Matrix Completion for Fast Visibility Computations with Many Lights Rendering",
+"annee": 2020,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-02873134v1",
+"doi": "10.1111/cgf.14053"
+},
+{
+"id": "p65c805a9dc",
+"titre": "Correlation between micro-structural features and color of nanocrystallized powders of hematite",
+"annee": 2020,
+"type": "conférence",
+"lieu": "AIC 2020 - Association Internationale de la Couleur / Couleur Naturelles - Couleurs Numériques",
+"url": "https://inria.hal.science/hal-02975266v1"
+},
+{
+"id": "p2ddd99188e",
+"titre": "Example-Based Microstructure Rendering with Constant Storage",
+"annee": 2020,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-03156347v1",
+"doi": "10.1145/3406836"
+},
+{
+"id": "p7ff7d4d420",
+"titre": "Fast Computation of Single Scattering in Participating Media with Refractive Boundaries using Frequency Analysis",
+"annee": 2020,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-02089988v1",
+"doi": "10.1109/tvcg.2019.2909875"
+},
+{
+"id": "pdf9240ef83",
+"titre": "Freely orientable microstructures for designing deformable 3D prints",
+"annee": 2020,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-02524371v3",
+"doi": "10.1145/3414685.3417790"
+},
+{
+"id": "pf41eb11883",
+"titre": "Joint SVBRDF Recovery and Synthesis From a Single Image using an Unsupervised Generative Adversarial Network",
+"annee": 2020,
+"type": "conférence",
+"lieu": "EGSR 2020 - The 31th Eurographics Symposium on Rendering (DL-only Track)",
+"url": "https://inria.hal.science/hal-03156291v1",
+"doi": "10.2312/sr.20201136"
+},
+{
+"id": "p3fd4cc8c90",
+"titre": "Precomputed Multiple Scattering for Rapid Light Simulation in Participating Media",
+"annee": 2020,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-01970399v1",
+"doi": "10.1109/tvcg.2018.2890466"
+},
+{
+"id": "p392ded74ba",
+"titre": "Real-Time Glints Rendering with Prefiltered Discrete Stochastic Microfacets",
+"annee": 2020,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-03156230v1",
+"doi": "10.1111/cgf.14007"
+},
+{
+"id": "p92ab0a87f3",
+"titre": "Slope-space integrals for specular next event estimation",
+"annee": 2020,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-03146049v1",
+"doi": "10.1145/3414685.3417811"
+},
+{
+"id": "pbdce42303d",
+"titre": "(keynote) Graphics vs Physics : the light and dark sides of the Force",
+"annee": 2019,
+"type": "conférence",
+"lieu": "GraPhyz 2019 - Workshop physique/mécanique/informatique graphique",
+"url": "https://inria.hal.science/hal-02333788v1"
+},
+{
+"id": "pdd98b0d943",
+"titre": "(keynote) Managing Ultra-high Complexity in Real-time Graphics: Some Hints and Ingredients",
+"annee": 2019,
+"type": "conférence",
+"lieu": "HPG 2019 - High-Performance Graphics",
+"url": "https://inria.hal.science/hal-02333768v1"
+},
+{
+"id": "p60ac7362ce",
+"titre": "Making Gabor Noise Fast and Normalized",
+"annee": 2019,
+"type": "conférence",
+"lieu": "Eurographics 2019 - 40th Annual Conference of the European Association for Computer Graphics",
+"url": "https://inria.hal.science/hal-02104389v1",
+"doi": "10.2312/egs.20191009"
+},
+{
+"id": "p7505f01496",
+"titre": "Procedural Phasor Noise",
+"annee": 2019,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-02118508v1",
+"doi": "10.1145/3306346.3322990"
+},
+{
+"id": "pffe5f47fd2",
+"titre": "Rendering transparent materials with a complex refractive index: semi-conductor and conductor thin layers",
+"annee": 2019,
+"type": "conférence",
+"lieu": "MAM 2019 - 7th annual Workshop on Material Appearance Modeling",
+"url": "https://inria.hal.science/hal-02191534v1",
+"doi": "10.2312/mam.20191306"
+},
+{
+"id": "pd04a3837b8",
+"titre": "Reparameterizing Discontinuous Integrands for Differentiable Rendering",
+"annee": 2019,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-02497191v1",
+"doi": "10.1145/3355089.3356510"
+},
+{
+"id": "pc95c3801b7",
+"titre": "Ribbed support vaults for 3D printing of hollowed objects",
+"annee": 2019,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-02155929v1",
+"doi": "10.1111/cgf.13750"
+},
+{
+"id": "pc41703c6f2",
+"titre": "A Compact Representation for Multiple Scattering in Participating Media using Neural Networks",
+"annee": 2018,
+"type": "conférence",
+"lieu": "Siggraph 2018 Talks",
+"url": "https://inria.hal.science/hal-01809890v1",
+"doi": "10.1145/3214745.3214758"
+},
+{
+"id": "p1f54300079",
+"titre": "A Versatile Parameterization for Measured Material Manifolds",
+"annee": 2018,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-01702722v1",
+"doi": "10.1111/cgf.13348"
+},
+{
+"id": "p6b74f59fda",
+"titre": "A new microflake model with microscopic self-shadowing for accurate volume downsampling",
+"annee": 2018,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-01702000v1",
+"doi": "10.1111/cgf.13346"
+},
+{
+"id": "pe4585c89c0",
+"titre": "Fast Global Illumination with Discrete Stochastic Microfacets Using a Filterable Model",
+"annee": 2018,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-01856980v1",
+"doi": "10.1111/cgf.13547"
+},
+{
+"id": "pd897eb1eec",
+"titre": "Gabor Noise Revisited",
+"annee": 2018,
+"type": "conférence",
+"lieu": "j•FIG 2018 - Journées Françaises d'Informatique Graphique",
+"url": "https://hal.science/hal-01926451v1"
+},
+{
+"id": "p79c681f9f1",
+"titre": "High-Performance By-Example Noise using a Histogram-Preserving Blending Operator",
+"annee": 2018,
+"type": "journal",
+"lieu": "Proceedings of the ACM on Computer Graphics and Interactive Techniques",
+"url": "https://inria.hal.science/hal-01824773v1",
+"doi": "10.1145/3233304"
+},
+{
+"id": "p2b8c93f70d",
+"titre": "In-situ Evaluation of a \"What if\" Approach for Eco-feedback",
+"annee": 2018,
+"type": "conférence",
+"lieu": "IHM 2018 - 30eme conférence francophone sur l'interaction homme-machine",
+"url": "https://hal.science/hal-01899031v1"
+},
+{
+"id": "pb9e080f7d4",
+"titre": "MNPR: A Framework for Real-Time Expressive Non-Photorealistic Rendering of 3D Computer Graphics",
+"annee": 2018,
+"type": "conférence",
+"lieu": "Expressive ’18 - The Joint Symposium on Computational Aesthetics and Sketch Based Interfaces and Modeling and Non-Photorealistic Animation and Rendering",
+"url": "https://inria.hal.science/hal-01814332v2",
+"doi": "10.1145/3229147.3229162"
+},
+{
+"id": "p9254a785b4",
+"titre": "Motion-coherent stylization with screen-space image filters",
+"annee": 2018,
+"type": "conférence",
+"lieu": "Expressive ’18 - The Joint Symposium on Computational Aesthetics and Sketch Based Interfaces and Modeling and Non-Photorealistic Animation and Rendering",
+"url": "https://inria.hal.science/hal-01826558v1",
+"doi": "10.1145/3229147.3229163"
+},
+{
+"id": "pd254c44fae",
+"titre": "Point-Based Rendering for Homogeneous Participating Media with Refractive Boundaries",
+"annee": 2018,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-01628188v1",
+"doi": "10.1109/tvcg.2017.2768525"
+},
+{
+"id": "pe5bf36ee63",
+"titre": "Rendu stylisé d'animations 3D : une approche centrée utilisateur",
+"annee": 2018,
+"type": "conférence",
+"lieu": "Rencontres Animation Développement Innovation",
+"url": "https://inria.hal.science/hal-01985934v1"
+},
+{
+"id": "pe9f02b859e",
+"titre": "What if we use the \"What if\" Approach for Eco-Feedback? Designing an Electricity Consumption Analysis for Layman Users",
+"annee": 2018,
+"type": "conférence",
+"lieu": "EnvirVis 2018 - Workshop on Visualisation in Environmental Sciences",
+"url": "https://inria.hal.science/hal-01813283v1",
+"doi": "10.2312/envirvis.20181140"
+},
+{
+"id": "pcb2043d153",
+"titre": "A Two-Scale Microfacet Reflectance Model Combining Reflection and Diffraction",
+"annee": 2017,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-01515948v1",
+"doi": "10.1145/3072959.3073621"
+},
+{
+"id": "pccf3538f15",
+"titre": "Activelec: an Interaction-Based Visualization System to Analyze Household Electricity Consumption",
+"annee": 2017,
+"type": "conférence",
+"lieu": "Workshop Vis in Practice - Visualization Solutions in the Wild, IEEE VIS 2017",
+"url": "https://inria.hal.science/hal-01618111v1"
+},
+{
+"id": "pdec2e0ea05",
+"titre": "Direct 3D stylization pipelines",
+"annee": 2017,
+"type": "conférence",
+"lieu": "ACM SIGGRAPH 2017 Real Time Live!",
+"url": "https://inria.hal.science/hal-01574958v1",
+"doi": "10.1145/3098333.3098339"
+},
+{
+"id": "p38bc17f1ea",
+"titre": "Edge- and substrate-based effects for watercolor stylization",
+"annee": 2017,
+"type": "conférence",
+"lieu": "Expressive 2017, the Symposium on Computational Aesthetics, Sketch-Based Interfaces and Modeling, and Non-Photorealistic Animation and Rendering",
+"url": "https://inria.hal.science/hal-01539599v1",
+"doi": "10.1145/3092919.3092928"
+},
+{
+"id": "pce6e627060",
+"titre": "Expressive map design: OGC SLD/SE++ extension for expressive map styles",
+"annee": 2017,
+"type": "conférence",
+"lieu": "ICC 2017 - 28th International Cartographic Conference",
+"url": "https://hal.science/hal-01882520v1",
+"doi": "10.5194/ica-proc-1-21-2018"
+},
+{
+"id": "p5548b16c4e",
+"titre": "Hybrid mesh-volume LoDs for all-scale pre-filtering of complex 3D assets",
+"annee": 2017,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-01468817v1",
+"doi": "10.1111/cgf.13138"
+},
+{
+"id": "p74295a2627",
+"titre": "Local texture-based color transfer and colorization",
+"annee": 2017,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://inria.hal.science/hal-01520729v1",
+"doi": "10.1016/j.cag.2016.12.005"
+},
+{
+"id": "pafbc2f5085",
+"titre": "Precomputed Multiple Scattering for Light Simulation in Participating Medium",
+"annee": 2017,
+"type": "conférence",
+"lieu": "Siggraph 2017 Talk",
+"url": "https://inria.hal.science/hal-01522404v1",
+"doi": "10.1145/3084363.3085037"
+},
+{
+"id": "p38b4a9b95d",
+"titre": "Programmable 2D Arrangements for Element Texture Design",
+"annee": 2017,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-01520258v1",
+"doi": "10.1145/2983617"
+},
+{
+"id": "pde5243c11a",
+"titre": "Real-time landscape-size convective clouds simulation and rendering",
+"annee": 2017,
+"type": "conférence",
+"lieu": "VRIPHYS 2017 - 13th Workshop on Virtual Reality Interaction and Physical Simulation",
+"url": "https://inria.hal.science/hal-03748553v2",
+"doi": "10.2312/vriphys20171078"
+},
+{
+"id": "pd0386c412e",
+"titre": "The Effects of Digital Cameras Optics and Electronics for Material Acquisition",
+"annee": 2017,
+"type": "conférence",
+"lieu": "Workshop on Material Appearance Modeling",
+"url": "https://inria.hal.science/hal-01576742v1"
+},
+{
+"id": "p4f994e8eea",
+"titre": "Automatic Texture Guided Color Transfer and Colorization",
+"annee": 2016,
+"type": "conférence",
+"lieu": "Expressive 2016",
+"url": "https://hal.science/hal-01305596v1",
+"doi": "10.2312/exp.20161060"
+},
+{
+"id": "pfbcc8b78c2",
+"titre": "Automatic lighting design from photographic rules",
+"annee": 2016,
+"type": "conférence",
+"lieu": "WICED: Eurographics Workshop on Intelligent Cinematography and Editing",
+"url": "https://inria.hal.science/hal-01316577v1",
+"doi": "10.2312/wiced.20161094"
+},
+{
+"id": "p1c858101e3",
+"titre": "Capturing Spatially Varying Anisotropic Reflectance Parameters using Fourier Analysis",
+"annee": 2016,
+"type": "conférence",
+"lieu": "Graphics Interface Conference 2016",
+"url": "https://inria.hal.science/hal-01302120v2",
+"doi": "10.20380/gi2016.09"
+},
+{
+"id": "p7142f64efa",
+"titre": "Estimating Local Beckmann Roughness for Complex BSDFs",
+"annee": 2016,
+"type": "conférence",
+"lieu": "ACM Siggraph talks",
+"url": "https://inria.hal.science/hal-01312227v1",
+"doi": "10.1145/2897839.2927416"
+},
+{
+"id": "p436d049440",
+"titre": "Flow-Guided Warping for Image-Based Shape Manipulation",
+"annee": 2016,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-01307571v1",
+"doi": "10.1145/2897824.2925937"
+},
+{
+"id": "pa62fe19c27",
+"titre": "Local Shape Editing at the Compositing Stage",
+"annee": 2016,
+"type": "conférence",
+"lieu": "27th Eurographics Symposium on Rendering (ESRG)",
+"url": "https://inria.hal.science/hal-01338414v1",
+"doi": "10.2312/sre.20161206"
+},
+{
+"id": "p140fa27397",
+"titre": "Map Style Formalization: Rendering Techniques Extension for Cartography",
+"annee": 2016,
+"type": "conférence",
+"lieu": "Expressive 2016 The Joint Symposium on Computational Aesthetics and Sketch-Based Interfaces and Modeling and Non-Photorealistic Animation and Rendering",
+"url": "https://hal.science/hal-01317403v1",
+"doi": "10.2312/exp.20161064"
+},
+{
+"id": "p9875466dfa",
+"titre": "PBVLT: a point based method for volumetric light transport computation in participating media with refractive boundaries",
+"annee": 2016,
+"type": "conférence",
+"lieu": "Groupe de Travail Rendu du GDR IG RV",
+"url": "https://inria.hal.science/hal-01273887v1"
+},
+{
+"id": "p5d996a4507",
+"titre": "Point-Based Light Transport for Participating Media with Refractive Boundaries",
+"annee": 2016,
+"type": "conférence",
+"lieu": "Eurographics Symposium on Rendering 2016 - Experimental Ideas & Implementations",
+"url": "https://inria.hal.science/hal-01327239v2",
+"doi": "10.2312/sre20161216"
+},
+{
+"id": "pc99cb1f5e6",
+"titre": "veRTIGE: Using simulation data to teach about galaxies",
+"annee": 2016,
+"type": "conférence",
+"lieu": "Revolve IPS conference",
+"url": "https://hal.science/hal-02461691v1"
+},
+{
+"id": "pd317ec778a",
+"titre": "Accurate computation of single scattering in participating media with refractive boundaries",
+"annee": 2015,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-01083246v2",
+"doi": "10.1111/cgf.12517"
+},
+{
+"id": "p3a4da5779a",
+"titre": "Appearance controls interpretation of orientation flows for 3D shape estimation",
+"annee": 2015,
+"type": "conférence",
+"lieu": "Computational and Mathematical Models in Vision",
+"url": "https://inria.hal.science/hal-01600027v1"
+},
+{
+"id": "p11f29dc758",
+"titre": "Designing Gratin, A GPU-Tailored Node-Based System",
+"annee": 2015,
+"type": "journal",
+"lieu": "Journal of Computer Graphics Techniques",
+"url": "https://inria.hal.science/hal-01254546v1"
+},
+{
+"id": "p9c9871a392",
+"titre": "Distinguishing between texture and shading flows for 3D shape estimation",
+"annee": 2015,
+"type": "journal",
+"lieu": "Journal of Vision",
+"url": "https://doi.org/10.1167/15.12.965",
+"doi": "10.1167/15.12.965"
+},
+{
+"id": "p053e479df0",
+"titre": "Efficient and Accurate Spherical Kernel Integrals using Isotropic Decomposition",
+"annee": 2015,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-01187865v1",
+"doi": "10.1145/2797136"
+},
+{
+"id": "pced0236bfc",
+"titre": "Identifying diffraction effects in measured reflectances",
+"annee": 2015,
+"type": "conférence",
+"lieu": "Eurographics Workshop on Material Appearance Modeling",
+"url": "https://inria.hal.science/hal-01170614v1",
+"doi": "10.2312/mam.20151201"
+},
+{
+"id": "p8ea128a3da",
+"titre": "Recent Advances in Adaptive Sampling and Reconstruction for Monte Carlo Rendering",
+"annee": 2015,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-01252647v1",
+"doi": "10.1111/cgf.12592"
+},
+{
+"id": "pb5ca043ddc",
+"titre": "Transfert de couleurs et colorisation guidés par la texture",
+"annee": 2015,
+"type": "conférence",
+"lieu": "28ème journées de l'Association Française d'Informatique Graphique",
+"url": "https://hal.science/hal-01245713v2"
+},
+{
+"id": "p1aa1e2ac0d",
+"titre": "A Local Frequency Analysis of Light Scattering and Absorption",
+"annee": 2014,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-00957242v1",
+"doi": "10.1145/2629490"
+},
+{
+"id": "pe5371f59cd",
+"titre": "Filtering Non-Linear Transfer Functions on Surfaces",
+"annee": 2014,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-00876432v2",
+"doi": "10.1109/tvcg.2013.102"
+},
+{
+"id": "pc7bc2f163b",
+"titre": "The effects of surface gloss and roughness on color constancy for real 3-D objects",
+"annee": 2014,
+"type": "journal",
+"lieu": "Journal of Vision",
+"url": "https://inria.hal.science/hal-00952552v1",
+"doi": "10.1167/14.2.16"
+},
+{
+"id": "pde8860bad3",
+"titre": "5D Covariance Tracing for Efficient Defocus and Motion Blur",
+"annee": 2013,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-00814164v1",
+"doi": "10.1145/2487228.2487239"
+},
+{
+"id": "pb4ed63707d",
+"titre": "Accurate Binary Image Selection from Inaccurate User Input",
+"annee": 2013,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-00782232v1",
+"doi": "10.1111/cgf.12024"
+},
+{
+"id": "pf6c85cd5e7",
+"titre": "Decomposing intensity gradients into information about shape and material",
+"annee": 2013,
+"type": "journal",
+"lieu": "Journal of Vision",
+"url": "https://inria.hal.science/hal-00851908v1",
+"doi": "10.1167/13.9.443"
+},
+{
+"id": "p3f506dde8d",
+"titre": "Diffusion Curves: A Vector Representation for Smooth-Shaded Images",
+"annee": 2013,
+"type": "journal",
+"lieu": "Communications of the ACM",
+"url": "https://inria.hal.science/hal-00840848v1",
+"doi": "10.1145/2483852.2483873"
+},
+{
+"id": "pee74364744",
+"titre": "Discrete Texture Design Using a Programmable Approach",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Siggraph 2013 Talks",
+"url": "https://inria.hal.science/hal-00857482v1",
+"doi": "10.1145/2504459.2504513"
+},
+{
+"id": "pb1783b76af",
+"titre": "Double- and Multiple-scattering Effects in Translucent Materials",
+"annee": 2013,
+"type": "journal",
+"lieu": "IEEE Computer Graphics and Applications",
+"url": "https://inria.hal.science/hal-00760054v1",
+"doi": "10.1109/mcg.2013.19"
+},
+{
+"id": "p8750cd6b13",
+"titre": "Filtering Color Mapped Textures and Surfaces",
+"annee": 2013,
+"type": "conférence",
+"lieu": "I3D'13 - ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games",
+"url": "https://inria.hal.science/hal-00765799v1",
+"doi": "10.1145/2448196.2448217"
+},
+{
+"id": "p218cb6a320",
+"titre": "Floating tangents for approximating spatial curves with G1 piecewise helices",
+"annee": 2013,
+"type": "journal",
+"lieu": "Computer Aided Geometric Design",
+"url": "https://inria.hal.science/hal-00843591v3",
+"doi": "10.1016/j.cagd.2013.02.007"
+},
+{
+"id": "p44afbffad6",
+"titre": "Interactive Rendering of Acquired Materials on Dynamic Geometry Using Frequency Analysis",
+"annee": 2013,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-00814104v1",
+"doi": "10.1109/tvcg.2012.298"
+},
+{
+"id": "p1750f490c4",
+"titre": "Inverse Dynamic Hair Modeling with Frictional Contact",
+"annee": 2013,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-00857559v1",
+"doi": "10.1145/2508363.2508398"
+},
+{
+"id": "p90c510ff5f",
+"titre": "Linear Efficient Antialiased Displacement and Reflectance Mapping",
+"annee": 2013,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-00858220v4",
+"doi": "10.1145/2508363.2508422"
+},
+{
+"id": "p39abfff1bc",
+"titre": "Predicting the effects of illumination in shape from shading",
+"annee": 2013,
+"type": "journal",
+"lieu": "Journal of Vision",
+"url": "https://inria.hal.science/hal-00925016v1",
+"doi": "10.1167/13.9.611"
+},
+{
+"id": "peba9db19a1",
+"titre": "A Survey of Non-linear Pre-filtering Methods for Efficient and Accurate Surface Shading",
+"annee": 2012,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/inria-00589940v1",
+"doi": "10.1109/tvcg.2011.81"
+},
+{
+"id": "pf8c9c4b375",
+"titre": "Accurate fitting of measured reflectances using a Shifted Gamma micro-facet distribution",
+"annee": 2012,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-00702304v1",
+"doi": "10.1111/j.1467-8659.2012.03147.x"
+},
+{
+"id": "pbf8e1f6105",
+"titre": "Active Strokes: Coherent Line Stylization for Animated 3D Models",
+"annee": 2012,
+"type": "conférence",
+"lieu": "NPAR 2012 - 10th International Symposium on Non-photorealistic Animation and Rendering",
+"url": "https://inria.hal.science/hal-00693453v1"
+},
+{
+"id": "p1ab5979c79",
+"titre": "Enhancing surface features with the Radiance Scaling Meshlab Plugin",
+"annee": 2012,
+"type": "conférence",
+"lieu": "Computer Applications and Quantitative Methods in Archaeology (CAA) 2012",
+"url": "https://inria.hal.science/hal-00877158v1"
+},
+{
+"id": "p32ebd48bed",
+"titre": "GigaVoxels, librairie et kit de développement sur GPU pour l'exploration temps-réel et visuellement réaliste d'immenses scènes détaillées à base de SVO",
+"annee": 2012,
+"type": "conférence",
+"lieu": "AFIG 2012 - Journées de l'Association Française d'Informatique Graphique",
+"url": "https://hal.science/hal-00766682v1"
+},
+{
+"id": "p255ccbd092",
+"titre": "Interactive rendering of acquired materials on dynamic geometry using bandwidth prediction",
+"annee": 2012,
+"type": "conférence",
+"lieu": "I3D - ACM Siggraph Symposium on Interactive 3D Graphics and Games",
+"url": "https://inria.hal.science/hal-00652066v4",
+"doi": "10.1145/2159616.2159637"
+},
+{
+"id": "p83d46c2446",
+"titre": "Open Archives and the Invisible College: driving forces towards a new publication model",
+"annee": 2012,
+"type": "conférence",
+"lieu": "Dagstuhl Perspectives Workshop: Publication Culture in Computing Research",
+"url": "https://inria.hal.science/hal-00749806v3",
+"doi": "10.4230/dagrep.2.11.20"
+},
+{
+"id": "p904abd48a4",
+"titre": "Orientation fields in shape from shading",
+"annee": 2012,
+"type": "journal",
+"lieu": "Journal of Vision",
+"url": "https://inria.hal.science/hal-00925011v1",
+"doi": "10.1167/12.9.231"
+},
+{
+"id": "p4fd8ad15f5",
+"titre": "Real-Time Rendering of Rough Refraction",
+"annee": 2012,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-00652076v1",
+"doi": "10.1109/tvcg.2011.282"
+},
+{
+"id": "p2c033ecff0",
+"titre": "Real-time Realistic Rendering and Lighting of Forests",
+"annee": 2012,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-00650120v1",
+"doi": "10.1111/j.1467-8659.2012.03016.x"
+},
+{
+"id": "pc369c63a5f",
+"titre": "Representing Appearance and Pre-filtering Subpixel Data in Sparse Voxel Octrees",
+"annee": 2012,
+"type": "conférence",
+"lieu": "EGGH-HPG'12 - Eurographics conference on High Performance Graphics",
+"url": "https://inria.hal.science/hal-00704461v1",
+"doi": "10.2312/eggh/hpg12/125-134"
+},
+{
+"id": "p4194f2e065",
+"titre": "Surface Flows for Image-based Shading Design",
+"annee": 2012,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-00702280v2",
+"doi": "10.1145/2185520.2185590"
+},
+{
+"id": "p76ba8b479b",
+"titre": "Temporally Coherent Video Stylization",
+"annee": 2012,
+"type": "chapitre",
+"lieu": "Image and Video-based Artistic Stylisation",
+"url": "https://inria.hal.science/hal-00762944v1",
+"doi": "10.1007/978-1-4471-4519-6_13"
+},
+{
+"id": "p5beb437dae",
+"titre": "3D Inverse Dynamic Modeling of Strands",
+"annee": 2011,
+"type": "conférence",
+"lieu": "ACM SIGGRAPH 2011 Posters",
+"url": "https://inria.hal.science/inria-00617857v3",
+"doi": "10.1145/2037715.2037778"
+},
+{
+"id": "pd22565f6bd",
+"titre": "Dynamic Stylized Shading Primitives",
+"annee": 2011,
+"type": "conférence",
+"lieu": "NPAR '11:Proceedings of the 8th International Symposium on Non-Photorealistic Animation and Rendering",
+"url": "https://hal.science/hal-00617157v1",
+"doi": "10.1145/2024676.2024693"
+},
+{
+"id": "p83d120e626",
+"titre": "Feature-Based Vector Simulation of Water Waves",
+"annee": 2011,
+"type": "journal",
+"lieu": "Computer Animation and Virtual Worlds",
+"url": "https://inria.hal.science/inria-00590401v1",
+"doi": "10.1002/cav.391"
+},
+{
+"id": "p06b5d819a4",
+"titre": "Frequency-Based Kernel Estimation for Progressive Photon Mapping",
+"annee": 2011,
+"type": "conférence",
+"lieu": "ACM SIGGRAPH Conference and Exhibition on Computer Graphics and Interactive Techniques in Asia",
+"url": "https://inria.hal.science/inria-00633940v1",
+"doi": "10.1145/2073304.2073357"
+},
+{
+"id": "p62d7a73399",
+"titre": "Implicit Brushes for Stylized Line-based Rendering",
+"annee": 2011,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/inria-00569958v1",
+"doi": "10.1111/j.1467-8659.2011.01892.x"
+},
+{
+"id": "p675be63af7",
+"titre": "Improving Shape Depiction under Arbitrary Rendering",
+"annee": 2011,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/inria-00585144v1",
+"doi": "10.1109/tvcg.2010.252"
+},
+{
+"id": "p01fd926408",
+"titre": "Interactive Indirect Illumination Using Voxel Cone Tracing",
+"annee": 2011,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-00650173v1",
+"doi": "10.1111/j.1467-8659.2011.02063.x"
+},
+{
+"id": "p445731d056",
+"titre": "La numérisation et la visualisation 3D de l'épitaphe de Costaulus",
+"annee": 2011,
+"type": "chapitre",
+"lieu": "Fabrique d'une ville médiévale. Saint-Émilion au Moyen Âge",
+"url": "https://inria.hal.science/hal-00924986v1"
+},
+{
+"id": "p658b9f47d2",
+"titre": "Lagrangian Texture Advection: Preserving both Spectrum and Velocity Field",
+"annee": 2011,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/inria-00536064v2",
+"doi": "10.1109/tvcg.2010.263"
+},
+{
+"id": "pac5222eb70",
+"titre": "Multiscale Feature-Preserving Smoothing of Tomographic Data",
+"annee": 2011,
+"type": "conférence",
+"lieu": "ACM SIGGRAPH 2011 Posters",
+"url": "https://inria.hal.science/inria-00611915v1",
+"doi": "10.1145/2037715.2037786"
+},
+{
+"id": "p75530c6c84",
+"titre": "Real-Time Rough Refraction",
+"annee": 2011,
+"type": "conférence",
+"lieu": "ACM Siggraph Symposium on Interactive 3D Graphics and Games (I3D)",
+"url": "https://inria.hal.science/inria-00545955v5",
+"doi": "10.1145/1944745.1944764"
+},
+{
+"id": "p94b1e9d6f0",
+"titre": "State-of-the-Art Report on Temporal Coherence for Stylized Animations",
+"annee": 2011,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/inria-00636210v1",
+"doi": "10.1111/j.1467-8659.2011.02075.x"
+}
+]
+}

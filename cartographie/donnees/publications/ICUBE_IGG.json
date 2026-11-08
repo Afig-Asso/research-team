@@ -1,0 +1,1730 @@
+{
+"equipe": "ICUBE/IGG",
+"publications": [
+{
+"id": "p26a997a55d",
+"titre": "A Versatile Adaptive Multiresolution Framework for Geometry Processing and Animation",
+"annee": 2026,
+"type": "conférence",
+"lieu": "WSCG 2026 - 34th International Conference on Computer Graphics, Visualization and Computer Vision",
+"url": "https://univoak.hal.science/hal-05747370v1",
+"doi": "10.24132/csrn.2026-e23"
+},
+{
+"id": "pe3f339df9d",
+"titre": "Dynamic Wave Trains: A Procedural Approach to Spatially Varying Ocean Synthesis",
+"annee": 2026,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.70495",
+"doi": "10.1111/cgf.70495"
+},
+{
+"id": "p3b656fff75",
+"titre": "Making environmental compensation visible. Biased data transparency and agrobusiness strategies in the Bahianese agricultural frontier of the Cerrado",
+"annee": 2026,
+"type": "journal",
+"lieu": "Cybergeo : Revue européenne de géographie / European journal of geography",
+"url": "https://shs.hal.science/halshs-05565975v1",
+"doi": "10.4000/15ly4"
+},
+{
+"id": "p10627a7e4e",
+"titre": "UrTrees: Towards collaborative and reliable quantification of urban tree ecosystem services",
+"annee": 2026,
+"type": "conférence",
+"lieu": "UrbaTree - L'arbre urbain : du gène au paysage",
+"url": "https://hal.science/hal-05694600v1"
+},
+{
+"id": "p51a33a699d",
+"titre": "A 3D data processing pipeline to automatically estimate tree dendrometric parameters from a single mobile phone video",
+"annee": 2025,
+"type": "journal",
+"lieu": "Ecological Informatics",
+"url": "https://hal.science/hal-05417905v2",
+"doi": "10.1016/j.ecoinf.2025.103552"
+},
+{
+"id": "pb6fffa7c93",
+"titre": "An Automatic Scoring Method for Responses to the Hayling Test",
+"annee": 2025,
+"type": "conférence",
+"lieu": "2025 IEEE 37th International Conference on Tools with Artificial Intelligence (ICTAI)",
+"url": "https://hal.science/hal-05355459v1",
+"doi": "10.1109/ictai66417.2025.00181"
+},
+{
+"id": "pecb5990104",
+"titre": "Deformed tiling and blending: application to the correction of distortions implied by texture mapping",
+"annee": 2025,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-04975107v1",
+"doi": "10.1111/cgf.70011"
+},
+{
+"id": "p7aa757bee2",
+"titre": "Dialectical behavior therapy in autistic adults: effects on ecological subjective and physiological measures of emotion dysregulation",
+"annee": 2025,
+"type": "journal",
+"lieu": "Borderline Personality Disorder and Emotion Dysregulation",
+"url": "https://hal.science/hal-05117904v1",
+"doi": "10.1186/s40479-025-00288-1"
+},
+{
+"id": "p1a18abf28d",
+"titre": "Four years of sharing teaching practices within the French Computer Graphics community",
+"annee": 2025,
+"type": "conférence",
+"lieu": "Eurographics 2025 - Education Papers",
+"url": "https://hal.science/hal-05085593v1",
+"doi": "10.2312/eged.20251014"
+},
+{
+"id": "p5769f3efe6",
+"titre": "Impact of avatar's legs on collaborative performance and social presence",
+"annee": 2025,
+"type": "conférence",
+"lieu": "VRW 2025 - IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops",
+"url": "https://hal.science/hal-04972371v1"
+},
+{
+"id": "p3c755d7d77",
+"titre": "Inattentional Blindness in Assembly Tasks: Implications of Cognitive and Perceptual Load for Human-Centered Interface Design",
+"annee": 2025,
+"type": "journal",
+"lieu": "International Conference Human Factors in Design, Engineering, and Computing",
+"url": "https://hal.science/hal-05283616v1"
+},
+{
+"id": "pf7c93c6f6a",
+"titre": "Multi-Dimensional Procedural Wave Noise",
+"annee": 2025,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://ip-paris.hal.science/hal-05089067v1",
+"doi": "10.1145/3730928"
+},
+{
+"id": "p1b01b8612a",
+"titre": "Occurrence of multidrug-resistant Enterobacteriaceae and antibiotic-resistant genes in the anthropogenic impacted bay of Nha Trang, Viet Nam",
+"annee": 2025,
+"type": "journal",
+"lieu": "Regional Studies in Marine Science",
+"url": "https://doi.org/10.1016/j.rsma.2025.104084",
+"doi": "10.1016/j.rsma.2025.104084"
+},
+{
+"id": "p67fb1e5c52",
+"titre": "Procedural Foam on Large-Scale Oceans",
+"annee": 2025,
+"type": "conférence",
+"lieu": "Journée Françaises de l'Informatique Graphique",
+"url": "https://hal.science/hal-05853937v1"
+},
+{
+"id": "p8e6bcd9982",
+"titre": "Vibrotactile heatmaps to encourage discussion in a VR environmental city builder",
+"annee": 2025,
+"type": "conférence",
+"lieu": "VRW 2025 - IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops",
+"url": "https://hal.science/hal-04939410v1"
+},
+{
+"id": "pf6147d9d80",
+"titre": "A deep learning-based algorithm for automatic detection of perilunate dislocation in frontal wrist radiographs",
+"annee": 2024,
+"type": "journal",
+"lieu": "Hand surgery & rehabilitation",
+"url": "https://doi.org/10.1016/j.hansur.2024.101742",
+"doi": "10.1016/j.hansur.2024.101742"
+},
+{
+"id": "p788b9e031e",
+"titre": "Algorithme basé sur l’apprentissage profond pour la détection automatique des luxations périlunaires sur les radiographies frontales du poignet",
+"annee": 2024,
+"type": "journal",
+"lieu": "Hand surgery & rehabilitation",
+"url": "https://doi.org/10.1016/j.hansur.2024.101842",
+"doi": "10.1016/j.hansur.2024.101842"
+},
+{
+"id": "pfa67c567c7",
+"titre": "Dynamic Skeletonization via Variational Medial Axis Sampling",
+"annee": 2024,
+"type": "conférence",
+"lieu": "ACM SIGGRAPH Asia, Tokyo, Japan, décembre 2024",
+"url": "https://hal.science/hal-04692444v1",
+"doi": "10.1145/3680528.3687678"
+},
+{
+"id": "p9784931cae",
+"titre": "Exploring Emotion Control and Alexithymia in Autistic Adults: An Ecological Momentary Assessment Study",
+"annee": 2024,
+"type": "journal",
+"lieu": "Journal of Autism and Developmental Disorders",
+"url": "https://hal.science/hal-04986429v1",
+"doi": "10.1007/s10803-024-06551-8"
+},
+{
+"id": "p24f12b1b26",
+"titre": "Ink-Edit: Interactive color-constrained textures editing",
+"annee": 2024,
+"type": "conférence",
+"lieu": "SIGGRAPH ASIA 2024 - technical communications, Tokyo, Japan, décembre 2024",
+"url": "https://hal.science/hal-04792161v1",
+"doi": "10.1145/3681758.3697991"
+},
+{
+"id": "p3828f7c0d9",
+"titre": "Le cuisinier pressé",
+"annee": 2024,
+"type": "journal",
+"lieu": "Tangente Éducation",
+"url": "https://hal.science/hal-04694095v1"
+},
+{
+"id": "pe1e75ea59e",
+"titre": "Mix‐Max: A Content-Aware Operator for Real-Time Texture Transitions",
+"annee": 2024,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-04692440v1",
+"doi": "10.1111/cgf.15193"
+},
+{
+"id": "p58f8cb1034",
+"titre": "Pure Physics-Based Hand Interaction in VR",
+"annee": 2024,
+"type": "conférence",
+"lieu": "19th International Conference on Computer Graphics Theory and Applications (VISIGRAPP 2024)",
+"url": "https://hal.science/hal-04509013v1",
+"doi": "10.5220/0012320400003660"
+},
+{
+"id": "p63e7e17493",
+"titre": "Towards virtual reality exposure therapy for cocaine use disorder: A feasibility study of inducing cocaine craving through virtual reality",
+"annee": 2024,
+"type": "journal",
+"lieu": "Addictive Behaviors Reports",
+"url": "https://hal.science/hal-04577112v1",
+"doi": "10.1016/j.abrep.2024.100549"
+},
+{
+"id": "p4001700413",
+"titre": "UrTrees : étude des arbres urbains",
+"annee": 2024,
+"type": "conférence",
+"lieu": "Journées du GTMG, Marseille, France, Groupe de Travail en Modélisation Géométrie, octobre 2024",
+"url": "https://hal.science/hal-04812160v1"
+},
+{
+"id": "pca763a749f",
+"titre": "UrTrees: a mobile app to involve citizens in measuring urban trees",
+"annee": 2024,
+"type": "conférence",
+"lieu": "ARPHA Proceedings 6, European Citizen Science Association (ECSA) conference",
+"url": "https://hal.science/hal-04471930v1",
+"doi": "10.3897/ap.e126455"
+},
+{
+"id": "p5ae6a052ec",
+"titre": "Urtrees: science citoyenne et mesure d’arbres urbains",
+"annee": 2024,
+"type": "conférence",
+"lieu": "Atelier francophone international Tridifor, Sherbrooke, Canada, ONF, IGN, Ressources naturelles Canada, Université de Sherbrooke, novembre 2024",
+"url": "https://hal.science/hal-04812159v1"
+},
+{
+"id": "pa47620591b",
+"titre": "Virtual reality cue-exposure therapy in reducing cocaine craving: the Promoting Innovative COgnitive behavioral therapy for Cocaine use disorder (PICOC) study protocol for a randomized controlled trial",
+"annee": 2024,
+"type": "journal",
+"lieu": "Trials",
+"url": "https://hal.science/hal-04631166v1",
+"doi": "10.1186/s13063-024-08275-7"
+},
+{
+"id": "p513a8c4cfc",
+"titre": "“Not my fault!” “All thanks to me!”: Studying Agency, Satisfaction and Self-Serving Attributional Bias with Rigged Archery in Virtual Reality",
+"annee": 2024,
+"type": "conférence",
+"lieu": "International Symposium on Mixed and Augmented Reality (ISMAR)",
+"url": "https://hal.science/hal-04674968v1",
+"doi": "10.1109/ismar62088.2024.00059"
+},
+{
+"id": "p717d2a5252",
+"titre": "Computer vision, imaging and computer graphics – theory and applications",
+"annee": 2023,
+"type": "ouvrage",
+"lieu": "",
+"url": "https://hal.science/hal-02042875v1",
+"doi": "10.1007/978-3-031-25477-2"
+},
+{
+"id": "pbe0ee99e05",
+"titre": "Differentiable point process texture basis functions for inverse procedural modeling of cellular stochastic structures",
+"annee": 2023,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://hal.science/hal-04085466v2",
+"doi": "10.1016/j.cag.2023.04.004"
+},
+{
+"id": "pd1ee427f73",
+"titre": "Exploring the food system & global health nexus: The case of aquaculture practices and the risk of antimicrobial resistance in the Nha Trang bay (Vietnam)",
+"annee": 2023,
+"type": "conférence",
+"lieu": "Conference of the Canadian Council for South East Asian Studies (CCSEAS)",
+"url": "https://hal.science/hal-04455665v1"
+},
+{
+"id": "p556b5622d4",
+"titre": "Interaction physique en RV basée sur les mouvements de la main capturés",
+"annee": 2023,
+"type": "conférence",
+"lieu": "journées Françaises de l'Informatique Graphique",
+"url": "https://hal.science/hal-04814226v1"
+},
+{
+"id": "pd345efe938",
+"titre": "Meso-Skeleton Guided Hexahedral Mesh Design",
+"annee": 2023,
+"type": "conférence",
+"lieu": "31th Pacific Conference on Computer Graphics and Applications, Pacific Graphics 2023, Daejeon Convention Center, Daejeon, South Korea, October 10th-13th, 2023",
+"url": "https://hal.science/hal-04301289v1"
+},
+{
+"id": "p66eca5f8e6",
+"titre": "Meso-Skeleton Guided Hexahedral Mesh Design",
+"annee": 2023,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-04206638v1",
+"doi": "10.1111/cgf.14932"
+},
+{
+"id": "p3080d9aca8",
+"titre": "Preserving the autocovariance of texture tilings using importance sampling",
+"annee": 2023,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-03964175v1",
+"doi": "10.1111/cgf.14766"
+},
+{
+"id": "pdc9cacbde7",
+"titre": "Real-time terrain enhancement with controlled procedural patterns",
+"annee": 2023,
+"type": "conférence",
+"lieu": "journées Françaises de l'Informatique Graphique 2023",
+"url": "https://hal.science/hal-04445819v1"
+},
+{
+"id": "p2872c316a0",
+"titre": "Real-time terrain enhancement with controlled procedural patterns",
+"annee": 2023,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-04360714v2",
+"doi": "10.1111/cgf.14992"
+},
+{
+"id": "pfc8151e6ee",
+"titre": "State-of-the-art in Large-Scale Volume Visualization Beyond Structured Data",
+"annee": 2023,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-04430557v1",
+"doi": "10.1111/cgf.14857"
+},
+{
+"id": "p0a985e7d81",
+"titre": "VR authentication through 3D key block building",
+"annee": 2023,
+"type": "conférence",
+"lieu": "IEEE Conference on Virtual Reality and 3D User Interfaces (VRW 2023)",
+"url": "https://hal.science/hal-04054691v1",
+"doi": "10.1109/vrw58643.2023.00311"
+},
+{
+"id": "pb90495e78a",
+"titre": "A Graph-Based Approach for Simultaneous Semantic and Instance Segmentation of Plant 3D Point Clouds",
+"annee": 2022,
+"type": "journal",
+"lieu": "Frontiers in Plant Science",
+"url": "https://inria.hal.science/hal-03746572v2",
+"doi": "10.3389/fpls.2022.1012669"
+},
+{
+"id": "p3a8061eb65",
+"titre": "Color-mapped noise vector fields for generating procedural micro-patterns",
+"annee": 2022,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-03797649v1",
+"doi": "10.1111/cgf.14693"
+},
+{
+"id": "pa0e2f77c93",
+"titre": "Conditional image synthesis for improved segmentation of glomeruli in renal histopathological images",
+"annee": 2022,
+"type": "conférence",
+"lieu": "IEEE-EMBS International Conference on Biomedical and Health Informatics, Sept. 27-30 2022, Ioannina, Greece",
+"url": "https://hal.science/hal-03797648v1",
+"doi": "10.1109/bhi56158.2022.9926880"
+},
+{
+"id": "p3bf114bd1c",
+"titre": "Data augmentation based on spatial deformations for histopathology: An evaluation in the context of glomeruli segmentation",
+"annee": 2022,
+"type": "journal",
+"lieu": "Computer Methods and Programs in Biomedicine",
+"url": "https://hal.science/hal-03736936v1",
+"doi": "10.1016/j.cmpb.2022.106919"
+},
+{
+"id": "p68f4190a31",
+"titre": "Design of a Virtual Cocaine Consumption Scenario for Craving Study",
+"annee": 2022,
+"type": "conférence",
+"lieu": "The 10th IEEE International Conference on Healthcare Informatics, Rochester, Minnesota, USA, June 11th-14th, 2022",
+"url": "https://hal.science/hal-03752547v1",
+"doi": "10.1109/ichi2022.2022.00046"
+},
+{
+"id": "pd51f9200f0",
+"titre": "Differentiable Point Process Texture Basis Functions for inverse procedural modeling of cellular stochastic structures",
+"annee": 2022,
+"type": "conférence",
+"lieu": "Journées Françaises de l'Informatique Graphique, (jFIG 2022), Bordeaux, France, 23 au 25 novembre 2022",
+"url": "https://hal.science/hal-03926460v1"
+},
+{
+"id": "p92e141c03a",
+"titre": "General framework of geometric simplification for mitigating cybersickness",
+"annee": 2022,
+"type": "conférence",
+"lieu": "International Conference on Future Trends in Smart Communities",
+"url": "https://hal.science/hal-03953795v1",
+"doi": "10.1109/icftsc57269.2022.10040068"
+},
+{
+"id": "p4b6cc3c874",
+"titre": "Geometric Deformation for Reducing Optic Flow and Cybersickness Dose Value in VR",
+"annee": 2022,
+"type": "conférence",
+"lieu": "Eurographics 2022",
+"url": "https://hal.science/hal-03665736v1"
+},
+{
+"id": "p3eb0f6f164",
+"titre": "Geometric models for plant leaf area estimation from 3D point clouds: a comparative study",
+"annee": 2022,
+"type": "journal",
+"lieu": "Graphics and Visual Computing",
+"url": "https://hal.science/hal-03770764v1",
+"doi": "10.1016/j.gvc.2022.200057"
+},
+{
+"id": "p45b55d1c56",
+"titre": "Geometric simplification for reducing optic flow in VR",
+"annee": 2022,
+"type": "conférence",
+"lieu": "International Symposium on Mixed and Augmented Reality (ISMAR), 17-21 oct. 2022, Singapour",
+"url": "https://hal.science/hal-03797769v1",
+"doi": "10.1109/ismar-adjunct57072.2022.00142"
+},
+{
+"id": "p747bf1a73f",
+"titre": "Gradient Terrain Authoring",
+"annee": 2022,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-03577171v1",
+"doi": "10.1111/cgf.14460"
+},
+{
+"id": "p22e05dee11",
+"titre": "Génération de maillage hexaédrique à partir d’un squelette 2D",
+"annee": 2022,
+"type": "conférence",
+"lieu": "Journées Françaises d'Informatique Graphique, Bordeaux, France, novembre 2022",
+"url": "https://hal.science/hal-03991572v1"
+},
+{
+"id": "p7f6bc85bb8",
+"titre": "Historical 10Be cosmogenic isotope dating of an early LIA advance in the Alps: the 17th century Mer de Glace surge",
+"annee": 2022,
+"type": "conférence",
+"lieu": "Quaternaire 13 meeting - Strasbourg 14-18 March 2022",
+"url": "https://hal.science/hal-03797686v1"
+},
+{
+"id": "p8ad5eb7a33",
+"titre": "Petting a cat helps you incarnate the avatar: Influence on the emotions over embodiment in VR",
+"annee": 2022,
+"type": "conférence",
+"lieu": "21st IEEE International Symposium on Mixed and Augmented Reality (ISMAR),",
+"url": "https://hal.science/hal-03797644v1"
+},
+{
+"id": "pca3343bc32",
+"titre": "eXtended Reality for Cultural Heritage",
+"annee": 2022,
+"type": "chapitre",
+"lieu": "Handbook of Cultural Heritage Analysis",
+"url": "https://inria.hal.science/hal-03548338v1",
+"doi": "10.1007/978-3-030-60016-7_48"
+},
+{
+"id": "pf98f9d8c61",
+"titre": "Émergence d'un leadership distribué pour la construction d'un enseignement",
+"annee": 2022,
+"type": "conférence",
+"lieu": "AIPU22 - 32ème Congrès de l'Association Internationale de Pédagogie Universitaire",
+"url": "https://inria.hal.science/hal-03653969v1"
+},
+{
+"id": "p1a4d0a08a7",
+"titre": "Cyclostationary Gaussian noise: theory and synthesis",
+"annee": 2021,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.142629",
+"doi": "10.1111/cgf.142629"
+},
+{
+"id": "p92ba3a60fd",
+"titre": "Découvrir des concepts informatiques autour des arbres binaires, Une série d’activités d’informatique débranchée",
+"annee": 2021,
+"type": "journal",
+"lieu": "Repères IREM",
+"url": "https://hal.science/hal-03797893v1"
+},
+{
+"id": "p7176d6acc3",
+"titre": "Edge-based procedural textures",
+"annee": 2021,
+"type": "journal",
+"lieu": "The Visual Computer",
+"url": "https://hal.science/hal-03402879v1",
+"doi": "10.1007/s00371-021-02212-4"
+},
+{
+"id": "pc1a492d0ac",
+"titre": "Ergonom.io ou l’ergonomie pour l’usine du futur",
+"annee": 2021,
+"type": "conférence",
+"lieu": "CONFERE 2021 27ème Colloque des Sciences de la Conception et de l’Innovation",
+"url": "https://hal.science/hal-03736014v1"
+},
+{
+"id": "p68ad5bdcce",
+"titre": "Hexahedral Mesh Generation For Tubular Shapes Using Skeletons and Connection Surfaces",
+"annee": 2021,
+"type": "conférence",
+"lieu": "16th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications",
+"url": "https://hal.science/hal-03268100v1",
+"doi": "10.5220/0010222000450054"
+},
+{
+"id": "pa5472157f8",
+"titre": "Importance Sampling of Glittering BSDFs based on Finite Mixture Distributions",
+"annee": 2021,
+"type": "conférence",
+"lieu": "Eurographics Symposium on Rendering",
+"url": "https://hal.science/hal-03402859v1",
+"doi": "10.2312/sr.20211289"
+},
+{
+"id": "p0e335ea30f",
+"titre": "La complexité algorithmique : on débranche et on dénombre",
+"annee": 2021,
+"type": "conférence",
+"lieu": "26ème colloque de la CORFEM, 10-11 juin 2021, Strasbourg (en ligne)",
+"url": "https://hal.science/hal-03249122v1"
+},
+{
+"id": "p6e672e208a",
+"titre": "La cordée de la réussite \"décodeuses d'informatique",
+"annee": 2021,
+"type": "journal",
+"lieu": "1024 : Bulletin de la Société Informatique de France",
+"url": "https://hal.science/hal-04476335v1",
+"doi": "10.48556/sif.1024.18.87"
+},
+{
+"id": "p229131c6bc",
+"titre": "Les mésusages de l’Internet ou l’autre fracture numérique : étude expérimentale sur la consultation de sites institutionnels par des personnes en situation d’illectronisme",
+"annee": 2021,
+"type": "conférence",
+"lieu": "FractureS : Publics vulnérables et numérique: entre fractures, inclusions et innovations, 2-3 Juin 2021, Bordeaux, France, en distanciel",
+"url": "https://hal.science/hal-03946070v1"
+},
+{
+"id": "pf5bc2ac0f9",
+"titre": "Multi-scale Space-time Registration of Growing Plants",
+"annee": 2021,
+"type": "conférence",
+"lieu": "The 9th International Conference on 3D Vision (3DV)",
+"url": "https://hal.science/hal-03402870v1"
+},
+{
+"id": "pff02cb97ea",
+"titre": "Real-Time Geometric Glint Anti-Aliasing with Normal Map Filtering",
+"annee": 2021,
+"type": "conférence",
+"lieu": "ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games, 20-22 avril 2021",
+"url": "https://hal.science/hal-03243968v1",
+"doi": "10.1145/3451257"
+},
+{
+"id": "p5e6392d57e",
+"titre": "Semi-Procedural Textures Using Point Process Texture Basis Functions",
+"annee": 2021,
+"type": "conférence",
+"lieu": "JCI 2021 (Les Journées du Campus d’Illkirch), 19 avril 2021 (en ligne)",
+"url": "https://hal.science/hal-03393579v1"
+},
+{
+"id": "p66e632a27e",
+"titre": "Un dispositif pour favoriser l’engagement des étudiants dans la rédaction de leur rapport de stage",
+"annee": 2021,
+"type": "conférence",
+"lieu": "XIème Colloque QPES (Questions de Pédagogies dans l'Enseignement Supérieur) : (S')engager et pouvoir (d')agir",
+"url": "https://hal.science/hal-03393646v1"
+},
+{
+"id": "pb224e8ff20",
+"titre": "Using abstract icon systems in the digital divide era: are users icon blind ?",
+"annee": 2021,
+"type": "conférence",
+"lieu": "International Conference on Human-Computer Interaction",
+"url": "https://hal.science/hal-03322294v1"
+},
+{
+"id": "pa5252f685d",
+"titre": "Volatility of subliminal haptic feedback alters the feeling of control in schizophrenia.",
+"annee": 2021,
+"type": "journal",
+"lieu": "Journal of Abnormal Psychology",
+"url": "https://hal.science/hal-03433746v1",
+"doi": "10.1037/abn0000703"
+},
+{
+"id": "p1155b05c37",
+"titre": "3Dexterity: Finding your place in a 3-armed world",
+"annee": 2020,
+"type": "conférence",
+"lieu": "VRW 2020 - IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops",
+"url": "https://inria.hal.science/hal-03066625v1",
+"doi": "10.1109/vrw50115.2020.00112"
+},
+{
+"id": "p337b96da2e",
+"titre": "Action sequencing in VR, a no-code approach",
+"annee": 2020,
+"type": "journal",
+"lieu": "Transactions on Computational Science",
+"url": "https://inria.hal.science/hal-02879073v1",
+"doi": "10.1007/978-3-662-61983-4_4"
+},
+{
+"id": "p0f74754f8e",
+"titre": "Content-aware texture deformation with dynamic control",
+"annee": 2020,
+"type": "journal",
+"lieu": "Computers & Graphics",
+"url": "https://doi.org/10.1016/j.cag.2020.07.006",
+"doi": "10.1016/j.cag.2020.07.006"
+},
+{
+"id": "pf51165e3db",
+"titre": "Descriptive: Interactive 3D Shape Modeling from A Single Descriptive Sketch",
+"annee": 2020,
+"type": "journal",
+"lieu": "Computer-Aided Design",
+"url": "https://hal.science/hal-03018362v1",
+"doi": "10.1016/j.cad.2020.102904"
+},
+{
+"id": "p228ce754b7",
+"titre": "Ecological Functioning of the Seine River: From Long-Term Modelling Approaches to High-Frequency Data Analysis",
+"annee": 2020,
+"type": "chapitre",
+"lieu": "Nicolas Flipo, Pierre Labadie, and Laurence Lestel (eds.), The Seine River Basin,",
+"url": "https://hal.science/hal-03044547v1",
+"doi": "10.1007/698_2019_379"
+},
+{
+"id": "p589bc6ec04",
+"titre": "Flux de nutriments dans le continuum Homme-Terr-Mer : évaluation de scénarios agricoles et impacts du changement climatique",
+"annee": 2020,
+"type": "chapitre",
+"lieu": "Rapport de synthèse. Phase 7 du PIREN-Seine (2015-2019). Volume 2. Flux dans le continuum Homme-Terre-Mer. Josette Garnier & Johnny Gasperi (Eds) DOI : 10.26047/PIREN.rapp.synth.2019.vol2. Chap.9, pp.172-197",
+"url": "https://hal.science/hal-04309621v1"
+},
+{
+"id": "pb104ea426a",
+"titre": "GAN-based data augmentation for histopathological image segmentation",
+"annee": 2020,
+"type": "conférence",
+"lieu": "Atelier Extraction et Gestion des Connaissances (EGC) - Apprentissage Profond: Théorie et Applications (APTA)",
+"url": "https://univoak.hal.science/hal-05508204v1"
+},
+{
+"id": "p7bf9e4d356",
+"titre": "Geometric models for plant leaf area estimation from 3D point clouds: a comparative study",
+"annee": 2020,
+"type": "conférence",
+"lieu": "Journées Françaises d'Informatique Graphique",
+"url": "https://hal.science/hal-03256446v1"
+},
+{
+"id": "pe89517f90f",
+"titre": "Graphical Models (GMOD) Special issue on Computer Graphics Theory, Information Visualization Theory and Applications",
+"annee": 2020,
+"type": "ouvrage",
+"lieu": "",
+"url": "https://hal.science/hal-03245672v1"
+},
+{
+"id": "paadc4204da",
+"titre": "Génération de maillage hexaédrique à partir d’un squelette",
+"annee": 2020,
+"type": "conférence",
+"lieu": "Journées du Groupe de Travail en Modélisation Géométrique, 2-3 juillet 2020",
+"url": "https://hal.science/hal-03235723v1"
+},
+{
+"id": "p8265b27c5d",
+"titre": "High-precision 3D segmentation of plants combining spectral clustering and quotient graph techniques: a multi-level approach",
+"annee": 2020,
+"type": "conférence",
+"lieu": "9th International Conference on Functional-Structural Plant Models",
+"url": "https://hal.science/hal-03245673v1"
+},
+{
+"id": "pdbe2ef3d08",
+"titre": "Interactions with a Hybrid Map for Navigation Information Visualization in Virtual Reality",
+"annee": 2020,
+"type": "conférence",
+"lieu": "ACM Interactive Surfaces and Spaces (ACM ISS 2020), 8-11 novembre 2020, Lisbonne, Portugal",
+"url": "https://hal.science/hal-03255939v1",
+"doi": "10.1559/152304007780279096"
+},
+{
+"id": "p8272793747",
+"titre": "Interactive Visualization and On-Demand Processing of Large Volume Data: A Fully GPU-Based Out-Of-Core Approach",
+"annee": 2020,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://univ-reims.hal.science/hal-01705431v3",
+"doi": "10.1109/tvcg.2019.2912752"
+},
+{
+"id": "p91d61966c3",
+"titre": "Modeling Rocky Scenery using Implicit Blocks",
+"annee": 2020,
+"type": "journal",
+"lieu": "The Visual Computer",
+"url": "https://hal.science/hal-02926218v2",
+"doi": "10.1007/s00371-020-01905-6"
+},
+{
+"id": "p7a7ed6e928",
+"titre": "Modeling Rocky Scenery using Implicit Blocks",
+"annee": 2020,
+"type": "conférence",
+"lieu": "Journées Françaises d'Informatique Graphique (JFIG 2020)",
+"url": "https://hal.science/hal-04360946v1"
+},
+{
+"id": "p5aa9240cd1",
+"titre": "Modeling indirect N2O emissions along the N cascade from cropland soils to rivers",
+"annee": 2020,
+"type": "journal",
+"lieu": "Biogeochemistry",
+"url": "https://hal.sorbonne-universite.fr/hal-02553360v1",
+"doi": "10.1007/s10533-020-00654-x"
+},
+{
+"id": "p7a97e8bc7c",
+"titre": "Procedural Physically-based BRDF for Real-Time Rendering of Glints",
+"annee": 2020,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-03235727v1",
+"doi": "10.1111/cgf.14141"
+},
+{
+"id": "p188fa65092",
+"titre": "Semi‐Procedural Textures Using Point Process Texture Basis Functions",
+"annee": 2020,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-03158479v1",
+"doi": "10.1111/cgf.14061"
+},
+{
+"id": "pc34dfe7a9b",
+"titre": "Sensitivity analysis of an automated processing chain and uncertainty in the prediction of tree above ground biomass from TLS data",
+"annee": 2020,
+"type": "conférence",
+"lieu": "3D Tree Models for Forest Dynamics",
+"url": "https://inria.hal.science/hal-02374414v1"
+},
+{
+"id": "pbf5e45aa7b",
+"titre": "The Seine watershed water-agro-food system: long-term trajectories of C, N, P metabolism",
+"annee": 2020,
+"type": "chapitre",
+"lieu": "The Seine River basin",
+"url": "https://minesparis-psl.hal.science/hal-02404947v1",
+"doi": "10.1007/698_2019_393"
+},
+{
+"id": "p40225f1d88",
+"titre": "Unveiling the implicit knowledge, one scenario at a time",
+"annee": 2020,
+"type": "journal",
+"lieu": "The Visual Computer",
+"url": "https://inria.hal.science/hal-02879083v1",
+"doi": "10.1007/s00371-020-01904-7"
+},
+{
+"id": "pcc08cae5f2",
+"titre": "A UMI3D-based Interactions Analytics System for XR Devices and Interaction Techniques",
+"annee": 2019,
+"type": "conférence",
+"lieu": "IEEE VR Conferences on Virtual reality and 3D User Interface",
+"url": "https://hal.science/hal-03238127v1",
+"doi": "10.1109/vr.2019.8797958"
+},
+{
+"id": "pc47cf595f3",
+"titre": "Anisotropic Filtering for On-the-fly Patch-based Texturing",
+"annee": 2019,
+"type": "conférence",
+"lieu": "Eurographics 2019",
+"url": "https://hal.science/hal-02127441v1",
+"doi": "10.2312/egs.20191019"
+},
+{
+"id": "pf588a07477",
+"titre": "Approach for Intuitive and Touchless Interaction in the Operating Room",
+"annee": 2019,
+"type": "journal",
+"lieu": "J",
+"url": "https://hal.science/hal-03229395v1",
+"doi": "10.3390/j2010005"
+},
+{
+"id": "pf76f9bc09b",
+"titre": "Authoring AR Interaction by AR",
+"annee": 2019,
+"type": "conférence",
+"lieu": "ICAT-EGVE 2019 - International Conference on Artificial Reality and Telexistence - Eurographics Symposium on Virtual Environments",
+"url": "https://inria.hal.science/hal-02272930v1"
+},
+{
+"id": "p39f909a714",
+"titre": "Computer Vision, Imaging and Computer Graphics – Theory and Applications",
+"annee": 2019,
+"type": "ouvrage",
+"lieu": "",
+"url": "https://hal.science/hal-03243952v1"
+},
+{
+"id": "pc47cfedab9",
+"titre": "Create by doing - Action sequencing in VR",
+"annee": 2019,
+"type": "conférence",
+"lieu": "CGI 2019 - Computer Graphics International, Advances in Computer Graphics",
+"url": "https://hal.science/hal-02119288v1",
+"doi": "10.1007/978-3-030-22514-8_27"
+},
+{
+"id": "pf8de64a88a",
+"titre": "Depth Sensor Based Detection of Obstacles and Notification for Virtual Reality Systems",
+"annee": 2019,
+"type": "conférence",
+"lieu": "10th Conference in Applied Human Factors and Ergonomics",
+"url": "https://hal.science/hal-03243980v1",
+"doi": "10.1007/978-3-030-20476-1_28"
+},
+{
+"id": "p192679ddb1",
+"titre": "Distributed Out-of-Core Approach for In-Situ Volume Rendering of Massive Dataset",
+"annee": 2019,
+"type": "conférence",
+"lieu": "ISC High Performance International Workshops",
+"url": "https://univ-reims.hal.science/hal-02977394v1",
+"doi": "10.1007/978-3-030-34356-9_47"
+},
+{
+"id": "p621dec0c4a",
+"titre": "Geometric and Topological Mesh Feature Extraction for 3D Shape Analysis",
+"annee": 2019,
+"type": "ouvrage",
+"lieu": "",
+"url": "https://inria.hal.science/hal-02361776v1",
+"doi": "10.1002/9781119681069"
+},
+{
+"id": "p22a51efd4d",
+"titre": "Géométrie et topologie pour les maillages 3D",
+"annee": 2019,
+"type": "chapitre",
+"lieu": "Informatique Mathématique, Une photographie en 2019",
+"url": "https://inria.hal.science/hal-02058296v1"
+},
+{
+"id": "pbf7a33e5ec",
+"titre": "Interactive Visualization and On-Demand Processing of Large Volume Data: A Fully GPU-Based Out-Of-Core Approach",
+"annee": 2019,
+"type": "conférence",
+"lieu": "IEEE VIS 2019",
+"url": "https://univ-reims.hal.science/hal-02994413v1"
+},
+{
+"id": "pa4906a3b13",
+"titre": "Le Diplôme Universitaire « Pédagogie dans l'Enseignement Supérieur » : un exemple de collapération",
+"annee": 2019,
+"type": "conférence",
+"lieu": "Questions de Pédagogies dans l'Enseignement Supérieur",
+"url": "https://hal.science/hal-02284000v1"
+},
+{
+"id": "pa850789052",
+"titre": "Managing the Agri-Food System of Watersheds to Combat Coastal Eutrophication: A Land-to-Sea Modelling Approach to the French Coastal English Channel",
+"annee": 2019,
+"type": "journal",
+"lieu": "Geosciences",
+"url": "https://hal.science/hal-03841965v1",
+"doi": "10.3390/geosciences9100441"
+},
+{
+"id": "p0c70b3c572",
+"titre": "Procedural Texture Extrapolation",
+"annee": 2019,
+"type": "conférence",
+"lieu": "Journée thématique du GdR IG-RV",
+"url": "https://hal.science/hal-03161277v1"
+},
+{
+"id": "p35af6961c0",
+"titre": "Proceedings of the 13th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications",
+"annee": 2019,
+"type": "conférence",
+"lieu": "13th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications, 27-29 janvier 2019, Funchal, Madeira, Portugal",
+"url": "https://hal.science/hal-03243966v1"
+},
+{
+"id": "p964bdd5040",
+"titre": "Pyramid Escape: Design of Novel Passive Haptics Interactions for an Immersive and Modular Scenario",
+"annee": 2019,
+"type": "conférence",
+"lieu": "VR 2019 - 26th IEEE Conference on Virtual Reality and 3D User Interfaces",
+"url": "https://inria.hal.science/hal-02284129v2",
+"doi": "10.1109/vr.2019.8797848"
+},
+{
+"id": "pa129a1e307",
+"titre": "Trajectoires du système agro-alimentaire du bassin de la Seine : passé, présent, futur.",
+"annee": 2019,
+"type": "conférence",
+"lieu": "30ème colloque du programme PIREN Seine",
+"url": "https://minesparis-psl.hal.science/hal-02404818v1"
+},
+{
+"id": "p5478c2f35a",
+"titre": "Using jointly geometry and algebra to determine RC-constructibility",
+"annee": 2019,
+"type": "journal",
+"lieu": "Journal of Symbolic Computation",
+"url": "https://hal.science/hal-02485481v1",
+"doi": "10.1016/j.jsc.2018.04.006"
+},
+{
+"id": "pc707426c03",
+"titre": "A Fully GPU-Based Out-Of-Core Approach to Handle Large Volume Data",
+"annee": 2018,
+"type": "conférence",
+"lieu": "GPU Technology Conference Europe (GTC)",
+"url": "https://univ-reims.hal.science/hal-02977440v1"
+},
+{
+"id": "p4a4186a571",
+"titre": "Analyzing Clothing Layer Deformation Statistics of 3D Human Motions",
+"annee": 2018,
+"type": "conférence",
+"lieu": "ECCV 2018 - European Conference on Computer Vision",
+"url": "https://inria.hal.science/hal-01763706v2",
+"doi": "10.1007/978-3-030-01234-2_15"
+},
+{
+"id": "p4d4e2f20c5",
+"titre": "Designing HumanS-Centered Interactive Systems on Top of the Industrial Internet of Things",
+"annee": 2018,
+"type": "conférence",
+"lieu": "CSCW2018 Workshop",
+"url": "https://hal.science/hal-03229396v1"
+},
+{
+"id": "pe8389d505f",
+"titre": "How can water quality be improved when the urban waste water directive has been fulfilled? A case study of the Lot river (France)",
+"annee": 2018,
+"type": "journal",
+"lieu": "Environmental Science and Pollution Research",
+"url": "https://hal.sorbonne-universite.fr/hal-01961860v1",
+"doi": "10.1007/s11356-018-1428-1"
+},
+{
+"id": "p6d697af868",
+"titre": "INSIDE Interactive and Non-destructive Solution for Introspection in Digital Environments",
+"annee": 2018,
+"type": "conférence",
+"lieu": "Digital Heritage 2018 - 3rd International Congress & Expo, IEEE",
+"url": "https://hal.science/hal-01875793v1"
+},
+{
+"id": "peb2511a48b",
+"titre": "Nitrate retention at the river–watershed interface: a new conceptual modeling approach",
+"annee": 2018,
+"type": "journal",
+"lieu": "Biogeochemistry",
+"url": "https://hal.sorbonne-universite.fr/hal-01822912v1",
+"doi": "10.1007/s10533-018-0455-9"
+},
+{
+"id": "p9fec503466",
+"titre": "Nutrient inputs and hydrology together determine biogeochemical status of the Loire River (France): Current situation and possible future scenarios",
+"annee": 2018,
+"type": "journal",
+"lieu": "Science of the Total Environment",
+"url": "https://hal.sorbonne-universite.fr/hal-01792783v2",
+"doi": "10.1016/j.scitotenv.2018.05.045"
+},
+{
+"id": "pbfda99bc6f",
+"titre": "Reconstructing Flowers from Sketches",
+"annee": 2018,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-02404228v1",
+"doi": "10.1111/cgf.13557"
+},
+{
+"id": "p294068cca5",
+"titre": "The Use of SAGA GIS Modules in QGIS",
+"annee": 2018,
+"type": "chapitre",
+"lieu": "QGIS and Generic Tools",
+"url": "https://hal.science/hal-03102442v1",
+"doi": "10.1002/9781119457091.ch4"
+},
+{
+"id": "pae47ae65ea",
+"titre": "Towards Unobtrusive Obstacle Detection and Notification for Virtual Reality Using Metaphors",
+"annee": 2018,
+"type": "conférence",
+"lieu": "6th ACM Symposium on Spatial User Interaction, SUI '18",
+"url": "https://hal.science/hal-04830559v1",
+"doi": "10.1145/3267782.3274682"
+},
+{
+"id": "pf093315875",
+"titre": "Towards unobtrusive obstacle detection and notification for VR",
+"annee": 2018,
+"type": "conférence",
+"lieu": "24th ACM Symposium on Virtual Reality Software and Technology",
+"url": "https://hal.science/hal-04830509v1",
+"doi": "10.1145/3281505.3283391"
+},
+{
+"id": "p8e7530f246",
+"titre": "UMI3D: A Unity3D Toolbox to support CSCW Systems Properties in Generic 3D User Interfaces",
+"annee": 2018,
+"type": "journal",
+"lieu": "Proceedings of the ACM on Human-Computer Interaction",
+"url": "https://hal.science/hal-05477886v1",
+"doi": "10.1145/3274298"
+},
+{
+"id": "pb422124b1f",
+"titre": "Utilisation des modules SAGA GIS dans QGIS",
+"annee": 2018,
+"type": "chapitre",
+"lieu": "QGIS et outils génériques",
+"url": "https://hal.science/hal-03102527v1"
+},
+{
+"id": "p807cf39f93",
+"titre": "A Unified Model for Interaction in 3D Environment",
+"annee": 2017,
+"type": "conférence",
+"lieu": "23rd ACM Symposium on Virtual Reality Software and Technology (VRST)",
+"url": "https://hal.science/hal-03191208v1"
+},
+{
+"id": "p821af8834d",
+"titre": "A robust and efficient method for solving point distance problems by homotopy",
+"annee": 2017,
+"type": "journal",
+"lieu": "Mathematical Programming",
+"url": "https://hal.science/hal-02077912v1",
+"doi": "10.1007/s10107-016-1058-7"
+},
+{
+"id": "pc1b921008f",
+"titre": "Bi-Layer textures: a Model for Synthesis and Deformation of Composite Textures",
+"annee": 2017,
+"type": "conférence",
+"lieu": "Eurographics Symposium on Rendering, June 19-21, 2017, Helsinki",
+"url": "https://hal.science/hal-03192316v1"
+},
+{
+"id": "p2fdfd2f29a",
+"titre": "Bi-Layer textures: a Model for Synthesis and Deformation of Composite Textures",
+"annee": 2017,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-01528537v1",
+"doi": "10.1111/cgf.13229"
+},
+{
+"id": "p311165bfc4",
+"titre": "Distinctive Approaches to Computer Graphics Education",
+"annee": 2017,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.13305",
+"doi": "10.1111/cgf.13305"
+},
+{
+"id": "p9fb24f417c",
+"titre": "Effects of Adding Visual Cues on Distance Estimation, Presence and Simulator Sickness During Virtual Visits Using Wall Screen",
+"annee": 2017,
+"type": "conférence",
+"lieu": "34th Computer Graphics International Conference (CGI)",
+"url": "https://hal.science/hal-03191207v1"
+},
+{
+"id": "p066e61c073",
+"titre": "Effects of Stereo and Head Tracking on Distance Estimation, Presence, and Simulator Sickness using Wall Screen in Architectural Project Review",
+"annee": 2017,
+"type": "conférence",
+"lieu": "IEEE symposium on 3D User Interfaces (3DUI)",
+"url": "https://hal.science/hal-03191206v1"
+},
+{
+"id": "pdaf814b359",
+"titre": "Global-scale river network extraction based on high-resolution topography and constrained by lithology, climate, slope, and observed drainage density",
+"annee": 2017,
+"type": "journal",
+"lieu": "Geophysical Research Letters",
+"url": "https://hal.sorbonne-universite.fr/hal-01496152v1",
+"doi": "10.1002/2016gl071844"
+},
+{
+"id": "p1c8ff51061",
+"titre": "Indoor scene reconstruction from a sparse set of 3D shots",
+"annee": 2017,
+"type": "conférence",
+"lieu": "CGI '17: Computer Graphics International 2017 Yokohama Japan June 27 - 30, 2017",
+"url": "https://hal.science/hal-03594855v1",
+"doi": "10.1145/3095140.3095167"
+},
+{
+"id": "pd8bdb3deaf",
+"titre": "Interaction sans contact : vocabulaire gestuel centré utilisateur",
+"annee": 2017,
+"type": "conférence",
+"lieu": "Journées IGRV2017 de Réalité Virtuelle (j•RV), 23-27 octobre 2017, Rennes",
+"url": "https://hal.science/hal-03247216v1"
+},
+{
+"id": "p39d4197b3f",
+"titre": "L’approche-programme dans un Master à l’Université de Strasbourg : comment initier un projet collectif ?",
+"annee": 2017,
+"type": "conférence",
+"lieu": "IXème Colloque QPES (Questions de Pédagogies dans l'Enseignement Supérieur) : relever les défis de l’altérité dans l’enseignement supérieur",
+"url": "https://univoak.hal.science/hal-05496330v1"
+},
+{
+"id": "pded1018288",
+"titre": "Proceedings of the 12th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications",
+"annee": 2017,
+"type": "conférence",
+"lieu": "12th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications, 27 février - 01 mars 2017, Porto, Portugal",
+"url": "https://hal.science/hal-03243956v1"
+},
+{
+"id": "p19dabadaa7",
+"titre": "Un Modèle Unifié de l’Interaction en Environnement 3D",
+"annee": 2017,
+"type": "conférence",
+"lieu": "journées de Réalité Virtuelle (j•RV)",
+"url": "https://hal.science/hal-03191204v1"
+},
+{
+"id": "pbc5d562d6b",
+"titre": "Visual Quality Assessment of 3D Models : on the Influence of Light-Material Interaction",
+"annee": 2017,
+"type": "journal",
+"lieu": "ACM Transactions on Applied Perception",
+"url": "https://hal.science/hal-01648921v1",
+"doi": "10.1145/3129505"
+},
+{
+"id": "pb8021ff9bf",
+"titre": "A 3D+t Laplace operator for temporal mesh sequences",
+"annee": 2016,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://inria.hal.science/hal-01318763v1",
+"doi": "10.1016/j.cag.2016.05.018"
+},
+{
+"id": "p8c271a81d6",
+"titre": "A Hierarchical Approach for Regular Centroidal Voronoi Tessellations",
+"annee": 2016,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-01185210v1",
+"doi": "10.1111/cgf.12716"
+},
+{
+"id": "p742afa5990",
+"titre": "A Hybrid Projection for Widen Vertical Field of View with Large Screen to Improve the Perception of Personal Space in Architectural Project Review",
+"annee": 2016,
+"type": "conférence",
+"lieu": "IEEE Symposium on 3D User Interfaces (3DUI 2016)",
+"url": "https://hal.science/hal-03228214v1",
+"doi": "10.1109/vr.2016.7504702"
+},
+{
+"id": "peb975c457d",
+"titre": "A comprehensive sensitivity analysis of forest tree mock-up reconstruction methods from phase-shift based tLiDAR point-cloud data",
+"annee": 2016,
+"type": "conférence",
+"lieu": "International Conference on Functional-Structural Plant Growth Modeling, Simulation, Visualization and Applications (FSPMA)",
+"url": "https://inria.hal.science/hal-01399491v1"
+},
+{
+"id": "p5a0cc7d303",
+"titre": "Automatic Constructibility Checking of a Corpus of Geometric Construction Problems",
+"annee": 2016,
+"type": "journal",
+"lieu": "Mathematics in Computer Science",
+"url": "https://univoak.hal.science/hal-05398729v1",
+"doi": "10.1007/s11786-016-0247-3"
+},
+{
+"id": "pcb7d360ae7",
+"titre": "Computing temporal alignments of human motion sequences in wide clothing using geodesic patches",
+"annee": 2016,
+"type": "conférence",
+"lieu": "3DV 2016 - International Conference on 3D Vision 2016",
+"url": "https://inria.hal.science/hal-01367791v1",
+"doi": "10.1109/3dv.2016.27"
+},
+{
+"id": "p2a8fefc467",
+"titre": "Estimation of Human Body Shape in Motion with Wide Clothing",
+"annee": 2016,
+"type": "conférence",
+"lieu": "ECCV 2016 - European Conference on Computer Vision 2016",
+"url": "https://inria.hal.science/hal-01344795v4",
+"doi": "10.1007/978-3-319-46493-0_27"
+},
+{
+"id": "p3f74e02e28",
+"titre": "Handling Topological Changes during Elastic Registration: Application to Augmented Reality in Laparoscopic Surgery",
+"annee": 2016,
+"type": "journal",
+"lieu": "International Journal of Computer Assisted Radiology and Surgery",
+"url": "https://inria.hal.science/hal-01397409v1",
+"doi": "10.1007/s11548-016-1502-4"
+},
+{
+"id": "p53325ec599",
+"titre": "Impact of Frame of Reference on Memorization in Virtual Environments",
+"annee": 2016,
+"type": "conférence",
+"lieu": "2016 IEEE 16th International Conference on Advanced Learning Technologies (ICALT)",
+"url": "https://hal.science/hal-04833403v1",
+"doi": "10.1109/icalt.2016.77"
+},
+{
+"id": "pbd0b88e637",
+"titre": "Just Noticeable Distortion Profile for Flat-Shaded 3D Mesh Surfaces",
+"annee": 2016,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://hal.science/hal-01242271v1",
+"doi": "10.1109/tvcg.2015.2507578"
+},
+{
+"id": "p4c7c94fc3f",
+"titre": "Multi-Scale Label-Maps Extraction for Texture Synthesis",
+"annee": 2016,
+"type": "conférence",
+"lieu": "SIGGRAPH, 24-28 juilet 2016, Anaheim, États-Unis",
+"url": "https://hal.science/hal-03192356v1"
+},
+{
+"id": "pe604c43fcc",
+"titre": "Multi-Scale Label-Maps Extraction for Texture Synthesis",
+"annee": 2016,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-03703432v1",
+"doi": "10.1145/2897824.2925964"
+},
+{
+"id": "p9833b79e3f",
+"titre": "On Volumetric Shape Reconstruction from Implicit Forms",
+"annee": 2016,
+"type": "conférence",
+"lieu": "ECCV 2016 - European Conference on Computer Vision",
+"url": "https://inria.hal.science/hal-01349059v1",
+"doi": "10.1007/978-3-319-46487-9_11"
+},
+{
+"id": "pe684b08906",
+"titre": "Procedural Texture Synthesis by Locally Controlled Spot Noise",
+"annee": 2016,
+"type": "journal",
+"lieu": "Computer Science Research Notes",
+"url": "https://hal.science/hal-02413318v1"
+},
+{
+"id": "pd65654dddc",
+"titre": "Segmentation of tree seedling point clouds into elementary units",
+"annee": 2016,
+"type": "journal",
+"lieu": "International Journal of Remote Sensing",
+"url": "https://inria.hal.science/hal-01285419v1",
+"doi": "10.1080/01431161.2016.1190988"
+},
+{
+"id": "p110f7af46e",
+"titre": "Semi-regular Triangle Remeshing: a Comprehensive Study",
+"annee": 2016,
+"type": "conférence",
+"lieu": "Eurographics 2016",
+"url": "https://hal.science/hal-01292006v1"
+},
+{
+"id": "p7fabe7f908",
+"titre": "Visual Contrast Sensitivity and Discrimination for 3D Meshes and their Applications",
+"annee": 2016,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-01376275v1",
+"doi": "10.1111/cgf.13046"
+},
+{
+"id": "pb44614bf78",
+"titre": "Volumetric Spot Noise for Procedural 3D Shell Texture Synthesis",
+"annee": 2016,
+"type": "journal",
+"lieu": "Computer Graphics and Visual Computing (CGVC)",
+"url": "https://hal.science/hal-02413269v1"
+},
+{
+"id": "pfd16575ded",
+"titre": "Wernick's List: A Final Update",
+"annee": 2016,
+"type": "journal",
+"lieu": "Forum Geometricorum",
+"url": "https://univoak.hal.science/hal-05398731v1"
+},
+{
+"id": "paacd183da0",
+"titre": "Augmented Reality during Cutting and Tearing of Deformable Objects",
+"annee": 2015,
+"type": "conférence",
+"lieu": "The 14th IEEE International Symposium on Mixed and Augmented Reality",
+"url": "https://inria.hal.science/hal-01184495v2"
+},
+{
+"id": "pe17edbd430",
+"titre": "CPH: a compact representation for hierarchical meshes generated by primal refinement",
+"annee": 2015,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-01162098v1",
+"doi": "10.1111/cgf.12667"
+},
+{
+"id": "p55599e5b79",
+"titre": "Collision Detection for Articulated Deformable Characters",
+"annee": 2015,
+"type": "conférence",
+"lieu": "ACM SIGGRAPH Conference Motion in Games (MIG2015)",
+"url": "https://hal.science/hal-03243961v1",
+"doi": "10.1145/2822013.2822034"
+},
+{
+"id": "pe445614073",
+"titre": "Evaluation of Factors Affecting Distance Perception in Architectural Project Review in Immersive Virtual Environments",
+"annee": 2015,
+"type": "conférence",
+"lieu": "The 21th ACM Symposium on Virtual Reality Software and Technology (VRST2015)",
+"url": "https://hal.science/hal-03243993v1",
+"doi": "10.1145/2821592.2821595"
+},
+{
+"id": "pd243728575",
+"titre": "Feeling of control of an action after supra and subliminal haptic distortions",
+"annee": 2015,
+"type": "journal",
+"lieu": "Consciousness and Cognition",
+"url": "https://hal.science/hal-01208117v1",
+"doi": "10.1016/j.concog.2015.04.011"
+},
+{
+"id": "p5996d9d9a1",
+"titre": "Les Facteurs Affectant la Perception des Distances en Environnement Virtuel Immersif",
+"annee": 2015,
+"type": "conférence",
+"lieu": "27ème Conférence Francophone sur l’interaction Homme-Machine, 27-30 octobre 2015, Toulouse",
+"url": "https://hal.science/hal-03245643v1",
+"doi": "10.1145/2820619.2820627"
+},
+{
+"id": "p3a58000a99",
+"titre": "Mesh sequence morphing",
+"annee": 2015,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-03228217v1",
+"doi": "10.1111/cgf.12718"
+},
+{
+"id": "p347031fe50",
+"titre": "Modèle Perceptuel pour la Détection du Seuil de Visibilité des Distorsions sur un Maillage 3D",
+"annee": 2015,
+"type": "conférence",
+"lieu": "AFIG 2015 - 28èmes journées de l’Association Française en Informatique Graphique",
+"url": "https://hal.science/hal-01245373v1"
+},
+{
+"id": "pa4f8a588d6",
+"titre": "Semi-Regular Triangle Remeshing: A Comprehensive Study",
+"annee": 2015,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-01058839v1",
+"doi": "10.1111/cgf.12461"
+},
+{
+"id": "peb22b21121",
+"titre": "Simplification of meshes with digitized radiance",
+"annee": 2015,
+"type": "journal",
+"lieu": "The Visual Computer",
+"url": "https://doi.org/10.1007/s00371-015-1124-9",
+"doi": "10.1007/s00371-015-1124-9"
+},
+{
+"id": "p1796f9bcc8",
+"titre": "Statistical study of parameters for deep brain stimulation automatic preoperative planning of electrodes trajectories.",
+"annee": 2015,
+"type": "journal",
+"lieu": "International Journal of Computer Assisted Radiology and Surgery",
+"url": "https://univ-rennes.hal.science/hal-01207334v1",
+"doi": "10.1007/s11548-015-1263-5"
+},
+{
+"id": "p2d0d4b4dc8",
+"titre": "Surgical Augmented Reality with Topological Changes",
+"annee": 2015,
+"type": "conférence",
+"lieu": "Medical Image Computing and Computer Assisted Interventions",
+"url": "https://inria.hal.science/hal-01184498v2",
+"doi": "10.1007/978-3-319-24553-9_51"
+},
+{
+"id": "p5203d30eb7",
+"titre": "Virtual Cutting of Deformable Objects based on Efficient Topological Operations",
+"annee": 2015,
+"type": "conférence",
+"lieu": "Computer Graphics International",
+"url": "https://hal.science/hal-01208546v1"
+},
+{
+"id": "p319533c69a",
+"titre": "Virtual Cutting of Deformable Objects based on Efficient Topological Operations",
+"annee": 2015,
+"type": "journal",
+"lieu": "The Visual Computer",
+"url": "https://hal.science/hal-01162099v1",
+"doi": "10.1007/s00371-015-1123-x"
+},
+{
+"id": "p4096ab68eb",
+"titre": "Coordinate-free geometry and decomposition in geometrical constraint solving",
+"annee": 2014,
+"type": "journal",
+"lieu": "Computer-Aided Design",
+"url": "https://doi.org/10.1016/j.cad.2014.01.012",
+"doi": "10.1016/j.cad.2014.01.012"
+},
+{
+"id": "pdeed514a4b",
+"titre": "Deformable polygonal agents in crowd simulation",
+"annee": 2014,
+"type": "journal",
+"lieu": "Computer Animation and Virtual Worlds",
+"url": "https://hal.science/hal-01208548v1",
+"doi": "10.1002/cav.1581"
+},
+{
+"id": "p85300d1402",
+"titre": "Deformable polygonal agents in crowd simulation",
+"annee": 2014,
+"type": "conférence",
+"lieu": "International Conference on Computer Animation and Social Agents",
+"url": "https://hal.science/hal-01208547v1"
+},
+{
+"id": "p857a11db35",
+"titre": "Local random-phase noise for procedural texturing",
+"annee": 2014,
+"type": "conférence",
+"lieu": "SIGGRAPH Asia 2014, 03-06 décembre 2014, Shenzen, China",
+"url": "https://hal.science/hal-03245634v1",
+"doi": "10.1145/2661229.2661249"
+},
+{
+"id": "pfac6c7de6f",
+"titre": "Local random-phase noise for procedural texturing",
+"annee": 2014,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-01295389v1"
+},
+{
+"id": "pd64b4eacf2",
+"titre": "Serious game et apprentissage en réalité virtuelle : résultats d'une étude préliminaire sur la mémorisation en langue étrangère",
+"annee": 2014,
+"type": "journal",
+"lieu": "Synergies Pays germanophones",
+"url": "https://hal.science/hal-05416047v1"
+},
+{
+"id": "p8fd1d70e8d",
+"titre": "A spectral clustering approach of vegetation components for describing plant topology and geometry from terrestrial waveform LiDAR data",
+"annee": 2013,
+"type": "conférence",
+"lieu": "FSPM2013 - 7th International Conference on Functional-Structural Plant Models",
+"url": "https://inria.hal.science/hal-00817508v1"
+},
+{
+"id": "pee256b1a0c",
+"titre": "Bubble Bee, an Alternative to Arrow for Pointing Out Directions",
+"annee": 2013,
+"type": "conférence",
+"lieu": "The 19th ACM Symposium on Virtual Reality and Software Technology (VRST13)",
+"url": "https://univoak.hal.science/hal-05395098v1",
+"doi": "10.1145/2503713.2503753"
+},
+{
+"id": "pc1e8a5d257",
+"titre": "CGoGN: N-dimensional Meshes with Combinatorial Maps",
+"annee": 2013,
+"type": "conférence",
+"lieu": "22nd International Meshing Roundtable",
+"url": "https://hal.science/hal-01162100v1",
+"doi": "10.1007/978-3-319-02335-9_27"
+},
+{
+"id": "p9cfd0dc1dc",
+"titre": "Leading a continuation method by geometry for solving geometric constraints",
+"annee": 2013,
+"type": "journal",
+"lieu": "Computer-Aided Design",
+"url": "https://doi.org/10.1016/j.cad.2013.08.026",
+"doi": "10.1016/j.cad.2013.08.026"
+},
+{
+"id": "p11f95efcce",
+"titre": "Looking Inside Marine Organisms with Magnetic Resonance and X-ray Imaging",
+"annee": 2013,
+"type": "chapitre",
+"lieu": "Imaging Marine Life: Macrophotography and Microscopy Approaches for Marine Biology",
+"url": "https://hal.science/hal-02268594v1",
+"doi": "10.1002/9783527675418.ch7"
+},
+{
+"id": "p4abc69f547",
+"titre": "On-the-fly multi-scale infinite texturing from example",
+"annee": 2013,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://doi.org/10.1145/2508363.2508383",
+"doi": "10.1145/2508363.2508383"
+},
+{
+"id": "p253fb4edb9",
+"titre": "Robust Fitting on Poorly Sampled Data for Surface Light Field Rendering and Image Relighting",
+"annee": 2013,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.12073",
+"doi": "10.1111/cgf.12073"
+},
+{
+"id": "p9268a8e410",
+"titre": "Segmentation of temporal mesh sequences into rigidly moving components",
+"annee": 2013,
+"type": "journal",
+"lieu": "Graphical Models",
+"url": "https://inria.hal.science/hal-00749302v1",
+"doi": "10.1016/j.gmod.2012.10.004"
+},
+{
+"id": "p580f72af8f",
+"titre": "n-Dimensional multiresolution representation of subdivision meshes with arbitrary topology",
+"annee": 2013,
+"type": "journal",
+"lieu": "Graphical Models",
+"url": "https://hal.science/hal-01162101v1",
+"doi": "10.1016/j.gmod.2013.03.003"
+},
+{
+"id": "p88359b0a9e",
+"titre": "A unified structure for crowd simulation",
+"annee": 2012,
+"type": "journal",
+"lieu": "Computer Animation and Virtual Worlds",
+"url": "https://hal.science/hal-01208549v1",
+"doi": "10.1002/cav.1449"
+},
+{
+"id": "p0d4e49fc5e",
+"titre": "A unified structure for crowd simulation",
+"annee": 2012,
+"type": "conférence",
+"lieu": "International Conference on Computer Animation and Social Agents",
+"url": "https://hal.science/hal-01208550v1"
+},
+{
+"id": "pfa174d51d3",
+"titre": "Multiple kernels noise for improved procedural texturing",
+"annee": 2012,
+"type": "journal",
+"lieu": "The Visual Computer",
+"url": "https://doi.org/10.1007/s00371-012-0711-2",
+"doi": "10.1007/s00371-012-0711-2"
+},
+{
+"id": "p075b02c326",
+"titre": "Multi‐scale Assemblage for Procedural Texturing",
+"annee": 2012,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/j.1467-8659.2012.03204.x",
+"doi": "10.1111/j.1467-8659.2012.03204.x"
+},
+{
+"id": "p15a6753f75",
+"titre": "Représentation efficace des maillages volumiques multirésolutions",
+"annee": 2012,
+"type": "journal",
+"lieu": "Revue Electronique Francophone d'Informatique Graphique",
+"url": "https://hal.science/hal-01162102v1"
+},
+{
+"id": "p919dcfdd3e",
+"titre": "S kin E xplorer TM : a new high‐tech platform to interact inside the skin by immersive virtual 3 D cutaneous environment",
+"annee": 2012,
+"type": "journal",
+"lieu": "Skin Research and Technology",
+"url": "https://doi.org/10.1111/j.1600-0846.2011.00599.x",
+"doi": "10.1111/j.1600-0846.2011.00599.x"
+},
+{
+"id": "pc5d249d418",
+"titre": "An iterative algorithm for homology computation on simplicial shapes",
+"annee": 2011,
+"type": "journal",
+"lieu": "Computer-Aided Design",
+"url": "https://inria.hal.science/hal-00644410v2",
+"doi": "10.1016/j.cad.2011.08.015"
+},
+{
+"id": "p5f41e99ed4",
+"titre": "Automatic localization and quantification of intracranial aneurysms",
+"annee": 2011,
+"type": "conférence",
+"lieu": "CAIP - 14th International Conference on Computer Analysis of Images and Patterns",
+"url": "https://inria.hal.science/inria-00598491v2",
+"doi": "10.1007/978-3-642-23672-3_67"
+},
+{
+"id": "p6baf7b17c8",
+"titre": "Impact du changement climatique sur les ressources en eau du bassin versant de la Seine",
+"annee": 2011,
+"type": "ouvrage",
+"lieu": "",
+"url": "https://minesparis-psl.hal.science/hal-00667192v1"
+},
+{
+"id": "pda6c07ba8a",
+"titre": "Landscape management and nitrogen retention in the watersheds : quantitative impact at the coastal zone",
+"annee": 2011,
+"type": "conférence",
+"lieu": "Nitrogen and global change",
+"url": "https://hal.science/hal-03084818v1"
+},
+{
+"id": "p15a994a56b",
+"titre": "Le risque écotoxicologique dans le bassin de la Seine",
+"annee": 2011,
+"type": "ouvrage",
+"lieu": "",
+"url": "https://hal.inrae.fr/hal-02595204v1"
+},
+{
+"id": "p0e24c56bea",
+"titre": "Le risque écotoxicologique dans le bassin de la Seine : comprendre et diagnostiquer l'impact de la contamination sur les organismes",
+"annee": 2011,
+"type": "chapitre",
+"lieu": "Le risque écotoxicologique dans le bassin de la Seine",
+"url": "https://ineris.hal.science/ineris-00969441v1"
+},
+{
+"id": "pbc4109519a",
+"titre": "Les apports de nutriments à la mer : de la Convention OSPAR au Grenelle de l’Environnement",
+"annee": 2011,
+"type": "conférence",
+"lieu": "PIREN Seine 2011",
+"url": "https://hal.science/hal-03097720v1"
+},
+{
+"id": "p58308ca5d6",
+"titre": "Les pesticides dans le bassin de la Seine",
+"annee": 2011,
+"type": "ouvrage",
+"lieu": "",
+"url": "https://hal.science/hal-01192340v1"
+},
+{
+"id": "p7337ba922c",
+"titre": "Mesh repair with user-friendly topology control",
+"annee": 2011,
+"type": "journal",
+"lieu": "Computer-Aided Design",
+"url": "https://inria.hal.science/inria-00523005v1",
+"doi": "10.1016/j.cad.2010.09.012"
+}
+]
+}

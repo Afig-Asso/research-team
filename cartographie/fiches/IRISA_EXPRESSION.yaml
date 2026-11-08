@@ -1,0 +1,56 @@
+equipe: IRISA/EXPRESSION
+domaines:
+  principaux:
+  - humains
+  secondaires:
+  - animation
+  - ia
+themes:
+- id: avatars_signeurs
+  phrase: Avatars signeurs 3D qui produisent de la langue des signes française à partir de texte, et leur évaluation linguistique.
+  preuves:
+  - pa1f085c70b
+  - p50cff753a8
+  - p95e217ae46
+- id: capture_mouvement
+  phrase: Constitution de corpus de mouvements capturés (langue des signes, handicap moteur) et reconstruction 3D du mouvement
+    à partir de vidéo.
+  preuves:
+  - pedbece6074
+  - pa1149fc55b
+  - p99b41a20e3
+- id: synthese_mouvement
+  phrase: Synthèse, édition et correction de mouvements de personnages à partir de données capturées, y compris par apprentissage
+    profond.
+  preuves:
+  - p3070e39789
+  - pe4da665c66
+  - p55c95c4335
+- id: interaction_gestuelle
+  phrase: Analyse de gestes expressifs (direction d'orchestre, percussions) pour le contrôle sonore.
+  preuves:
+  - p14c7f0f7e3
+  - p59acde1a0f
+  - p3bfc5fcb9c
+applications:
+- id: accessibilite
+  preuves:
+  - pa1f085c70b
+  - p50cff753a8
+  - pa1149fc55b
+- id: education
+  preuves:
+  - pedbece6074
+- id: art_musique
+  preuves:
+  - p14c7f0f7e3
+  - p3bfc5fcb9c
+publications_representatives:
+- pa1f085c70b
+- p3070e39789
+- p50cff753a8
+- pe4da665c66
+- pa4e9a8d604
+synthese: Synthèse de gestes expressifs et animation d'avatars signeurs à partir de données de capture de mouvement.
+pour_etudiants: On y anime des personnages virtuels qui parlent la langue des signes, à partir de mouvements enregistrés.
+pour_entreprises: Animation d'avatars signeurs pour l'accessibilité et nettoyage de mouvements capturés par caméra pour l'animation.

@@ -1,0 +1,83 @@
+equipe: XLIM/IG
+domaines:
+  principaux:
+  - rendu
+  - modelisation
+  secondaires:
+  - visu
+  - geometrie
+themes:
+- id: materiaux_brdf
+  phrase: Modèles de BSDF à microfacettes et à micrograins pour les matériaux rugueux, poreux, stratifiés ou mouillés.
+  preuves:
+  - pafcfce4f57
+  - pced90647ad
+  - p8c99c3bb12
+- id: modeles_topologiques
+  phrase: Modélisation à base topologique (cartes généralisées) par règles de transformation de graphes et synthèse de programmes.
+  preuves:
+  - p5a2b11a6c2
+  - p9d0b7dbae2
+  - p87794802e9
+- id: surfaces_courbes
+  phrase: Courbes de Bézier rationnelles à points massiques, raccords G2 et subdivision de cyclides de Dupin.
+  preuves:
+  - p0100ac0ffd
+  - pccc02c2f37
+  - pf22839e987
+- id: visu_scientifique
+  phrase: Visualisation de données médicales multimodales et de systèmes moléculaires, avec reconstruction topologique de
+    structures anatomiques.
+  preuves:
+  - p60d5294579
+  - p8f7522574c
+  - p1e7a1e8233
+- id: geometrie_discrete
+  phrase: 'Objets et transformations discrets sur grilles hexagonales, triangulaires, cubiques centrées et dodécaédriques
+    : cercles et droites analytiques, rotations bijectives, surfaces de révolution et dépliage de polycubes.'
+  preuves:
+  - pba04cd5a89
+  - p48312886bf
+  - p8ee5461978
+- id: topologie_algorithmique
+  phrase: Calcul incrémental de l'homologie, graphes de Reeb parallèles pour les arbres vasculaires et statistiques de persistance
+    pour classer des nuages de points.
+  preuves:
+  - p001606a367
+  - p731e80522c
+  - p9168f16309
+applications:
+- id: cinema_vfx
+  preuves:
+  - pafcfce4f57
+  - pced90647ad
+  - p8c99c3bb12
+- id: sante
+  preuves:
+  - p60d5294579
+  - p8f7522574c
+  - p7f53852839
+- id: biologie
+  preuves:
+  - p1e7a1e8233
+  - p433bf02b44
+- id: patrimoine
+  preuves:
+  - p1e126bdae6
+  - pcea628a437
+- id: architecture_urbain
+  preuves:
+  - p24810d953f
+  - pccf91467e5
+publications_representatives:
+- p60d5294579
+- p2dbafdbb1a
+- p1dbd0c40cb
+- pcf990db045
+- p811600e44e
+synthese: Modélisation géométrique et topologique (cartes combinatoires, géométrie discrète, courbes et surfaces), modèles
+  de réflectance et visualisation scientifique.
+pour_etudiants: On décrit mathématiquement les formes, y compris sur des grilles de pixels et de voxels, et la manière dont
+  la lumière se reflète sur les matériaux, et on visualise des données médicales ou moléculaires.
+pour_entreprises: Modèles d'apparence de matériaux (routes, surfaces mouillées, revêtements), modeleurs géométriques fiables,
+  géométrie discrète pour l'imagerie et les données voxeliques, visualisation de données médicales 3D.

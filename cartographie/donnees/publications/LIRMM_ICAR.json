@@ -1,0 +1,1955 @@
+{
+"equipe": "LIRMM/ICAR",
+"publications": [
+{
+"id": "pf44e31f452",
+"titre": "2D Multimodal Image Collection for Fluorescence Prediction from Transmitted Light Microscopy",
+"annee": 2026,
+"type": "journal",
+"lieu": "Scientific Data",
+"url": "https://hal.science/hal-05579341v1",
+"doi": "10.1038/s41597-026-07004-w"
+},
+{
+"id": "p04b545e882",
+"titre": "A Tracking‐By‐Detection Framework to Automatically Count Rare and Elusive Megafauna in Aerial Video Surveys",
+"annee": 2026,
+"type": "journal",
+"lieu": "Remote Sensing in Ecology and Conservation",
+"url": "https://hal.science/hal-05801656v1",
+"doi": "10.1002/rse2.70097"
+},
+{
+"id": "pc4efafb33c",
+"titre": "An improved architecture for part-based animal re-identification through semantic segmentation distillation",
+"annee": 2026,
+"type": "conférence",
+"lieu": "WACV 2026 - IEEE/CVF Winter Conference on Applications of Computer Vision",
+"url": "https://hal.science/hal-05546380v1",
+"doi": "10.1109/wacv61042.2026.00512"
+},
+{
+"id": "pa43a69b523",
+"titre": "Compassionate Use of Olorofim for Invasive Mold Infections: A Nationwide Observational Study in France",
+"annee": 2026,
+"type": "journal",
+"lieu": "Open Forum Infectious Diseases",
+"url": "https://hal.science/hal-05512639v1",
+"doi": "10.1093/ofid/ofaf750"
+},
+{
+"id": "pd935a81541",
+"titre": "Construction of clustered HLOD with As‐Simplified‐As‐Possible boundaries",
+"annee": 2026,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.70380",
+"doi": "10.1111/cgf.70380"
+},
+{
+"id": "p47e02cecfa",
+"titre": "Craniofacial Asymmetric Patterns in Congenital Muscular Torticollis: A Computed Tomography-Based Visual Classification and Cluster Analysis With Clinical Implications",
+"annee": 2026,
+"type": "journal",
+"lieu": "Journal of Craniofacial Surgery",
+"url": "https://hal.science/hal-05801662v1",
+"doi": "10.1097/scs.0000000000012790"
+},
+{
+"id": "pa801ab15aa",
+"titre": "Development of a Generic Geometric 3D Model of the Breast Based on Magnetic Resonance Imaging and Clinical Constatations",
+"annee": 2026,
+"type": "journal",
+"lieu": "Clinical Anatomy",
+"url": "https://hal.science/hal-05800100v1",
+"doi": "10.1002/ca.70216"
+},
+{
+"id": "p7749802353",
+"titre": "Developmental roots of cortical bone distribution and mandibular robusticity in early hominins",
+"annee": 2026,
+"type": "journal",
+"lieu": "The Anatomical Record: Advances in Integrative Anatomy and Evolutionary Biology",
+"url": "https://hal.science/hal-05801672v1",
+"doi": "10.1002/ar.70153"
+},
+{
+"id": "p78c81eb25f",
+"titre": "Découverte de sous-parties d'un objet dans une image à partir des proportions partielles",
+"annee": 2026,
+"type": "conférence",
+"lieu": "IABM 2026 - Colloque Français d'Intelligence Artificielle en Imagerie Biomédicale",
+"url": "https://hal.science/hal-05546386v1"
+},
+{
+"id": "p30f06504ce",
+"titre": "Evaluating fluctuating and directional asymmetry in postnatal petrous bone growth: a 3D morphometric study",
+"annee": 2026,
+"type": "journal",
+"lieu": "Surgical and Radiologic Anatomy",
+"url": "https://hal.science/hal-05801683v1",
+"doi": "10.1007/s00276-025-03716-7"
+},
+{
+"id": "p8796c1afbc",
+"titre": "Inner Part Discovery Based on Partial Label Proportions",
+"annee": 2026,
+"type": "conférence",
+"lieu": "ICIP 2026 - IEEE International Conference on Image Processing",
+"url": "https://hal.science/hal-05801696v1",
+"doi": "10.1109/icip61757.2026.11630410"
+},
+{
+"id": "p0f151f9445",
+"titre": "Long-term prognosis of patients surviving progressive multifocal leukoencephalopathy",
+"annee": 2026,
+"type": "journal",
+"lieu": "Brain - A Journal of Neurology",
+"url": "https://hal.science/hal-05678285v1",
+"doi": "10.1093/brain/awag213"
+},
+{
+"id": "p4049c95f19",
+"titre": "New Insights on Breast Anatomy Based on Magnetic Resonance Imaging and Surgical Observations",
+"annee": 2026,
+"type": "journal",
+"lieu": "Clinical Anatomy",
+"url": "https://hal.science/hal-05801678v1",
+"doi": "10.1002/ca.70071"
+},
+{
+"id": "p70b6075a48",
+"titre": "Sharp Features Graph Extraction from Segmented 3D Images for Mesh Generation",
+"annee": 2026,
+"type": "chapitre",
+"lieu": "Society for Industrial and Applied Mathematics eBooks",
+"url": "https://doi.org/10.1137/1.9781611979138.14",
+"doi": "10.1137/1.9781611979138.14"
+},
+{
+"id": "p3617bc47af",
+"titre": "Virtual reconstruction and comparative study of the face of StW 573 (“Little Foot”)",
+"annee": 2026,
+"type": "journal",
+"lieu": "Comptes Rendus. Palevol",
+"url": "https://hal.science/hal-05550605v1",
+"doi": "10.5852/cr-palevol2026v25a3"
+},
+{
+"id": "pf385d2dbf7",
+"titre": "Analyzing Deep-Learning Methods for Power Line Component Detection in Unmanned Aircraft System Imagery With Few Data",
+"annee": 2025,
+"type": "conférence",
+"lieu": "ICUAS 2025 - International Conference on Unmanned Aircraft Systems",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-05238693v1",
+"doi": "10.1109/icuas65942.2025.11007893"
+},
+{
+"id": "pb5da21d670",
+"titre": "Anomaly Detection in Drone Videos for Preventive Maintenance of Power Lines",
+"annee": 2025,
+"type": "conférence",
+"lieu": "IGARSS 2025 - 2025 IEEE International Geoscience and Remote Sensing Symposium",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-05502070v1",
+"doi": "10.1109/igarss55030.2025.11243920"
+},
+{
+"id": "p710a110ade",
+"titre": "Artificial intelligence in dentistry: From general to custom GPTs: Part 1",
+"annee": 2025,
+"type": "journal",
+"lieu": "BDJ In Practice",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-05238684v1",
+"doi": "10.1038/s41404-025-3082-x"
+},
+{
+"id": "pdda3397a95",
+"titre": "Automated CT binary/multiclass segmentation of ovarian masses and peritoneal lesions comparative assessment of nnU-net models",
+"annee": 2025,
+"type": "conférence",
+"lieu": "European Society of Medical Imaging Informatics",
+"url": "https://asnr.hal.science/hal-05562445v1"
+},
+{
+"id": "p5efdee7f31",
+"titre": "Automated detection of reef fishes on underwater videos",
+"annee": 2025,
+"type": "conférence",
+"lieu": "ITRS 2025 - 14th International Temperate Reefs Symposium",
+"url": "https://hal.science/hal-05537130v1"
+},
+{
+"id": "p3c244b8a23",
+"titre": "Background-invariant re-identification of dogs from camera-trap videos in non-controlled environments",
+"annee": 2025,
+"type": "journal",
+"lieu": "Ecological Informatics",
+"url": "https://hal.science/hal-05492220v1",
+"doi": "10.1016/j.ecoinf.2025.103547"
+},
+{
+"id": "p0cf5759cd1",
+"titre": "Chronic Ulcers Healing Prediction through Machine Learning Approaches: Preliminary Results on Diabetic Foot Ulcers Case Study",
+"annee": 2025,
+"type": "journal",
+"lieu": "Journal of Clinical Medicine",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-05238683v1",
+"doi": "10.3390/jcm14092943"
+},
+{
+"id": "pfc21cdb53d",
+"titre": "Colorectal Cancer Tumor Grade Segmentation in Digital Histopathology Images: from GIGA to Mini Challenge",
+"annee": 2025,
+"type": "conférence",
+"lieu": "ICIPW 2025 - IEEE International Conference on Image Processing Workshops",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-05518551v1",
+"doi": "10.1109/icipw68931.2025.11385990"
+},
+{
+"id": "p667bd145a6",
+"titre": "End-to-end 3D instance segmentation of synthetic data and embryo microscopy images with a 3D Mask R-CNN",
+"annee": 2025,
+"type": "journal",
+"lieu": "Frontiers in Bioinformatics",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-05395822v1",
+"doi": "10.3389/fbinf.2024.1497539"
+},
+{
+"id": "p126e481a3b",
+"titre": "Implementation of a Virtual Dental Assistant based on GPT: Part 2",
+"annee": 2025,
+"type": "journal",
+"lieu": "BDJ In Practice",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-05238677v1",
+"doi": "10.1038/s41404-025-3143-1"
+},
+{
+"id": "pb658487435",
+"titre": "Improving Yolov8 For Fast Few-Shot Object Detection By Dinov2 Distillation",
+"annee": 2025,
+"type": "conférence",
+"lieu": "ICIP 2025 - 32nd IEEE International Conference on Image Processing",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-05238690v1",
+"doi": "10.1109/icip55913.2025.11084724"
+},
+{
+"id": "p81c3fefe48",
+"titre": "Interactive pipeline for mandible reconstruction surgery planning using fibula free flap",
+"annee": 2025,
+"type": "journal",
+"lieu": "International Journal of Computer Assisted Radiology and Surgery",
+"url": "https://doi.org/10.1007/s11548-025-03392-3",
+"doi": "10.1007/s11548-025-03392-3"
+},
+{
+"id": "p6243e234d7",
+"titre": "Longstanding, undiagnosed, highly replicative hepatitis B virus reactivation in the presence of high levels of anti-HBs antibodies.",
+"annee": 2025,
+"type": "journal",
+"lieu": "Laboratory Medicine",
+"url": "https://lilloa.hal.science/hal-05225874v1",
+"doi": "10.1093/labmed/lmaf003"
+},
+{
+"id": "pe46cc16532",
+"titre": "MorphoNet 2.0: An innovative approach for qualitative assessment and segmentation curation of large-scale 3D time-lapse imaging datasets",
+"annee": 2025,
+"type": "journal",
+"lieu": "eLife",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-05283538v1",
+"doi": "10.7554/elife.106227.2"
+},
+{
+"id": "pea2494d11c",
+"titre": "Toward the prediction of flowering date of apple trees from unmanned aerial vehicle (UAV) imagery",
+"annee": 2025,
+"type": "journal",
+"lieu": "Acta Horticulturae",
+"url": "https://hal.science/hal-05053670v1",
+"doi": "10.17660/actahortic.2025.1425.54"
+},
+{
+"id": "p133bd5af51",
+"titre": "Using Saliency for Semantic Image Abstractions in Robotic Painting",
+"annee": 2025,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.70259",
+"doi": "10.1111/cgf.70259"
+},
+{
+"id": "pf1ffe07513",
+"titre": "Vers des algorithmes de segmentation de plaies chroniques économes en données annotées",
+"annee": 2025,
+"type": "conférence",
+"lieu": "Journée Cicatrisations 2025",
+"url": "https://hal.science/hal-05537117v1"
+},
+{
+"id": "p982f7046b5",
+"titre": "Weekly Screening of Circulating Mucorales DNA and early treatment in Severely Burned Patients Improves Survival: Real-Life Bi-center Experience in France.",
+"annee": 2025,
+"type": "journal",
+"lieu": "Clinical Infectious Diseases",
+"url": "https://lilloa.hal.science/hal-05302865v1",
+"doi": "10.1093/cid/ciaf423"
+},
+{
+"id": "p619a816383",
+"titre": "A Brief Analysis of the Generic Framework for the Structured Abstraction of Images",
+"annee": 2024,
+"type": "journal",
+"lieu": "Image Processing On Line",
+"url": "https://hal.science/hal-04756299v1",
+"doi": "10.5201/ipol.2024.495"
+},
+{
+"id": "pfb6f25dba2",
+"titre": "Acoustic and video remote sensing for monitoring and removal of seafloor macrolitter in the Venice Coastal Area",
+"annee": 2024,
+"type": "conférence",
+"lieu": "MICRO 2024 - 5th Edition of the International Conference on Plastic Pollution from Macro to Nano",
+"url": "https://hal.science/hal-04775058v1"
+},
+{
+"id": "pda8270d137",
+"titre": "Adaptation de Yolov8 pour la détection d'objets avec peu d'exemples",
+"annee": 2024,
+"type": "conférence",
+"lieu": "CNIA 2024 - 8e Conférence Nationale en Intelligence Artificielle",
+"url": "https://hal.science/hal-04628594v1"
+},
+{
+"id": "p9e2cf5c12a",
+"titre": "Analyse de l'encodeur pour la segmentation d'une base de données hétérogène de photographies de plaies chroniques avec peu d'annotations",
+"annee": 2024,
+"type": "conférence",
+"lieu": "CNIA 2024 - 8e Conférence Nationale en Intelligence Artificielle",
+"url": "https://hal.science/hal-04628579v1"
+},
+{
+"id": "p64606a1671",
+"titre": "Cardiac Adverse Events and Remdesivir in Hospitalized Patients with Coronavirus Disease 2019 (COVID-19): A Post Hoc Safety Analysis of the Randomized DisCoVeRy Trial",
+"annee": 2024,
+"type": "journal",
+"lieu": "Clinical Infectious Diseases",
+"url": "https://u-picardie.hal.science/hal-04529469v2",
+"doi": "10.1093/cid/ciae170"
+},
+{
+"id": "pac9dfbf9e5",
+"titre": "Characteristics and incidence of infections in patients with multiple myeloma treated by bispecific antibodies: a national retrospective study",
+"annee": 2024,
+"type": "journal",
+"lieu": "Clinical Microbiology and Infection",
+"url": "https://hal.science/hal-04916309v1",
+"doi": "10.1016/j.cmi.2024.02.023"
+},
+{
+"id": "p6535837523",
+"titre": "Comparer le paradigme spatial au spatio-temporel pour estimer l’évolution d’indicateurs socio-économiques à partir d’images satellites",
+"annee": 2024,
+"type": "conférence",
+"lieu": "CNIA 2024 - 8e Conférence Nationale en Intelligence Artificielle",
+"url": "https://hal.science/hal-04637143v1"
+},
+{
+"id": "pbea0f2c4fc",
+"titre": "Evaluation of breast skin and tissue stiffness using a non‐invasive aspiration device and impact of clinical predictors",
+"annee": 2024,
+"type": "journal",
+"lieu": "Clinical Anatomy",
+"url": "https://hal.science/hal-04495818v1",
+"doi": "10.1002/ca.24134"
+},
+{
+"id": "p4575efec26",
+"titre": "FBI DATA : une gestion FAIR et libre des données de bio-imagerie",
+"annee": 2024,
+"type": "conférence",
+"lieu": "JRES 2024 - Journées réseaux de l'enseignement et de la recherche",
+"url": "https://hal.science/hal-04893882v1"
+},
+{
+"id": "pd7f0289766",
+"titre": "Flexible Terrain Erosion",
+"annee": 2024,
+"type": "journal",
+"lieu": "The Visual Computer",
+"url": "https://hal.science/hal-04603075v1",
+"doi": "10.1007/s00371-024-03444-w"
+},
+{
+"id": "p873a4ca985",
+"titre": "Herbivorous fish feeding dynamics and energy expenditure on a coral reef: Insights from stereo‐video and AI‐driven 3D tracking",
+"annee": 2024,
+"type": "journal",
+"lieu": "Ecology and Evolution",
+"url": "https://hal.science/hal-04525101v1",
+"doi": "10.1002/ece3.11070"
+},
+{
+"id": "p4e6ab1244a",
+"titre": "Light My Cells : Bright Field to Fluorescence Imaging Challenge 2024",
+"annee": 2024,
+"type": "conférence",
+"lieu": "ISBI 2024 - 21st IEEE International Symposium on Biomedical Imaging",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-04796737v1",
+"doi": "10.5281/zenodo.10687569"
+},
+{
+"id": "p22f315e3e1",
+"titre": "Managing linguistic obstacles in multidisciplinary, multinational, and multilingual research projects",
+"annee": 2024,
+"type": "journal",
+"lieu": "PLoS ONE",
+"url": "https://ird.hal.science/ird-04822119v1",
+"doi": "10.1371/journal.pone.0311967"
+},
+{
+"id": "pb1e3669319",
+"titre": "Micro‐CT and high‐field MRI for studying very early post‐mortem human fetal anatomy at 8 weeks of gestation",
+"annee": 2024,
+"type": "journal",
+"lieu": "Prenatal Diagnosis",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-04694873v1",
+"doi": "10.1002/pd.6489"
+},
+{
+"id": "p1d6492733b",
+"titre": "Optimiser la visualisation des organes du fœtus humain au premier trimestre en micro-TDM post-mortem",
+"annee": 2024,
+"type": "journal",
+"lieu": "Morphologie",
+"url": "https://doi.org/10.1016/j.morpho.2024.100839",
+"doi": "10.1016/j.morpho.2024.100839"
+},
+{
+"id": "p032ab8f606",
+"titre": "Predicting Socio-economic Indicator Variations with Satellite Image Time Series and Transformer",
+"annee": 2024,
+"type": "conférence",
+"lieu": "MVEO 2024 - Workshop on Machine Vision for Earth Observation and Environment Monitoring",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-04895134v2"
+},
+{
+"id": "p67e2edf7aa",
+"titre": "SSL based encoder pre-training for segmenting a heterogeneous chronic wound image database with few annotations",
+"annee": 2024,
+"type": "conférence",
+"lieu": "Diabetic Foot Ulcers Grand Challenge 2024 @MICCAI",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-04895166v1",
+"doi": "10.1007/978-3-031-80871-5_6"
+},
+{
+"id": "p296d99b511",
+"titre": "Spectral decomposition unlocks ascidian morphogenesis",
+"annee": 2024,
+"type": "journal",
+"lieu": "eLife",
+"url": "https://hal.science/hal-04804074v1",
+"doi": "10.7554/elife.94391.1"
+},
+{
+"id": "p5fcf6eb36d",
+"titre": "Tixagevimab-cilgavimab (AZD7442) for the treatment of patients hospitalized with COVID-19 (DisCoVeRy): A phase 3, randomized, double-blind, placebo-controlled trial",
+"annee": 2024,
+"type": "journal",
+"lieu": "Journal of Infection",
+"url": "https://hal.science/hal-04577427v1",
+"doi": "10.1016/j.jinf.2024.106120"
+},
+{
+"id": "pff3584002d",
+"titre": "Unified protocol to evaluate intraoral scanner resolution, trueness and precision: the RTP-protocol",
+"annee": 2024,
+"type": "journal",
+"lieu": "Metrology and Measurement Systems / Metrologia i Systemy Pomiarowe",
+"url": "https://hal.science/hal-04695264v1",
+"doi": "10.24425/mms.2024.148541"
+},
+{
+"id": "p9c94b44148",
+"titre": "A deep‐learning algorithm to localize basal cell carcinoma foci on Mohs surgery frozen sections",
+"annee": 2023,
+"type": "journal",
+"lieu": "Journal of the European Academy of Dermatology and Venereology",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-04260897v1",
+"doi": "10.1111/jdv.18859"
+},
+{
+"id": "p257bc7db2e",
+"titre": "A single oscillating proto-hypothalamic neuron gates taxis behavior in the primitive chordate Ciona",
+"annee": 2023,
+"type": "journal",
+"lieu": "Current Biology",
+"url": "https://doi.org/10.1016/j.cub.2023.06.080",
+"doi": "10.1016/j.cub.2023.06.080"
+},
+{
+"id": "p6fdb9cd3d5",
+"titre": "Absence of association between persistent skin lesion and virological replication in severe disseminated monkeypox infection in solid organ transplant recipient.",
+"annee": 2023,
+"type": "journal",
+"lieu": "Infectious Diseases Now",
+"url": "https://lilloa.hal.science/hal-04446835v1",
+"doi": "10.1016/j.idnow.2023.104749"
+},
+{
+"id": "pb1cad72f2a",
+"titre": "Annotation semi-automatique de base de données d'images complexes non standardisées",
+"annee": 2023,
+"type": "conférence",
+"lieu": "CORESA 2023 - 22e colloque COmpression et REprésentation des Signaux Audiovisuels",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-04260935v1"
+},
+{
+"id": "p7f1539612a",
+"titre": "Assessing ecosystem functioning through 3D AI-enhanced fish tracking: A Red Sea Case Study",
+"annee": 2023,
+"type": "conférence",
+"lieu": "11th Indo-Pacific Fish Conference (IPFC) and Annual Conference of the Australian Society for Fish Biology",
+"url": "https://hal.science/hal-04637832v1"
+},
+{
+"id": "p5d102741c7",
+"titre": "Combinatorial maps, a new framework to model agroforestry systems",
+"annee": 2023,
+"type": "journal",
+"lieu": "Plant Phenomics",
+"url": "https://hal.inrae.fr/hal-04344009v1",
+"doi": "10.34133/plantphenomics.0120"
+},
+{
+"id": "pc9bb757bed",
+"titre": "Comparing spatial and spatio-temporal paradigms to estimate the evolution of socio-economical indicators from satellite images",
+"annee": 2023,
+"type": "conférence",
+"lieu": "IGARSS 2023 - IEEE International Geoscience and Remote Sensing Symposium",
+"url": "https://hal.science/hal-04268542v1",
+"doi": "10.1109/igarss52108.2023.10282306"
+},
+{
+"id": "p620df67175",
+"titre": "Duodenal Stenosis Linked to Drug Reaction With Eosinophilia and Systemic Symptoms.",
+"annee": 2023,
+"type": "journal",
+"lieu": "Dermatitis",
+"url": "https://lilloa.hal.science/hal-04520605v1",
+"doi": "10.1089/derm.2022.29001.mdo"
+},
+{
+"id": "pdf45c7bd7b",
+"titre": "Détection d’anomalies dans des vidéos acquises par drone pour la maintenance préventive de lignes électriques",
+"annee": 2023,
+"type": "conférence",
+"lieu": "CORESA 2023 - 22e colloque COmpression et REprésentation des Signaux Audiovisuels",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-04260979v1"
+},
+{
+"id": "pdd8df7a356",
+"titre": "Immersive and interactive visualization of 3D spatio-temporal data using a space time hypercube: Application to cell division and morphogenesis analysis",
+"annee": 2023,
+"type": "journal",
+"lieu": "Frontiers in Bioinformatics",
+"url": "https://inria.hal.science/hal-04112210v1",
+"doi": "10.3389/fbinf.2023.998991"
+},
+{
+"id": "p47c5f883e1",
+"titre": "Movie character re-identification by agglomerative clustering of deep features",
+"annee": 2023,
+"type": "journal",
+"lieu": "Electronic Imaging",
+"url": "https://hal.science/hal-04151395v1",
+"doi": "10.2352/ei.2023.35.7.image-271"
+},
+{
+"id": "p3080d9aca8",
+"titre": "Preserving the autocovariance of texture tilings using importance sampling",
+"annee": 2023,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-03964175v1",
+"doi": "10.1111/cgf.14766"
+},
+{
+"id": "pfb28862fdd",
+"titre": "Reliability of QuantiFERON®-CMV in predicting CMV recurrence in heart transplant recipients: A single-center retrospective study.",
+"annee": 2023,
+"type": "journal",
+"lieu": "Clinical Transplantation",
+"url": "https://lilloa.hal.science/hal-04445753v1",
+"doi": "10.1111/ctr.15109"
+},
+{
+"id": "pfdfe34b52c",
+"titre": "Ré-identification de chiens à partir de vidéos en environnement non-contrôlé",
+"annee": 2023,
+"type": "conférence",
+"lieu": "GRETSI 2023 - 29. Colloque Francophone de Traitement du Signal et des Images",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-04261054v1"
+},
+{
+"id": "p3c9cbf8986",
+"titre": "Sur l'applicabilité du transport optimal au recalage rigide",
+"annee": 2023,
+"type": "conférence",
+"lieu": "ORASIS 2023 - 19e journées francophones des jeunes chercheurs en vision par ordinateur",
+"url": "https://hal.science/hal-04219568v1"
+},
+{
+"id": "p6c2b1c982b",
+"titre": "The Robotic Seabed Cleaning Platform: An Underwater Cable-Driven Parallel Robot for Marine Litter Removal",
+"annee": 2023,
+"type": "conférence",
+"lieu": "CableCon 2023 - 6th International Conference on Cable-Driven Parallel Robots",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-04261099v1",
+"doi": "10.1007/978-3-031-32322-5_35"
+},
+{
+"id": "p1d649953e6",
+"titre": "Animating and Adjusting 3D Orthodontic Treatment Objectives",
+"annee": 2022,
+"type": "conférence",
+"lieu": "GRAPP 2022 - 17th International Conference on Computer Graphics Theory and Applications",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-03579792v1",
+"doi": "10.5220/0010822100003124"
+},
+{
+"id": "pfb74218e72",
+"titre": "Challenges of intracellular visualization using virtual and augmented reality",
+"annee": 2022,
+"type": "journal",
+"lieu": "Frontiers in Bioinformatics",
+"url": "https://inria.hal.science/hal-03790274v1",
+"doi": "10.3389/fbinf.2022.997082"
+},
+{
+"id": "pd01be68bc5",
+"titre": "Dynamic Three‐Dimensional Virtual Environment to Improve Learning of Anatomical Structures",
+"annee": 2022,
+"type": "journal",
+"lieu": "Anatomical Sciences Education",
+"url": "https://hal.science/hal-03472889v1",
+"doi": "10.1002/ase.2158"
+},
+{
+"id": "p1f054e7947",
+"titre": "Dériver une base de données d'images en une nouvelle version plus cohérente et équilibrée pour de l'apprentissage profond",
+"annee": 2022,
+"type": "conférence",
+"lieu": "GRETSI 2022 - 28e Colloque Francophone de Traitement du Signal et des Images",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-03815617v1"
+},
+{
+"id": "p304171ce55",
+"titre": "Détection d'objets urbains dans des nuages de points LiDAR",
+"annee": 2022,
+"type": "conférence",
+"lieu": "CNIA 2022 - Conférence Nationale en Intelligence Artificielle @PFIA2022",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-03815620v1"
+},
+{
+"id": "pb2eefa6970",
+"titre": "FSPM applied to agroforestry system co-design",
+"annee": 2022,
+"type": "conférence",
+"lieu": "7. International Symposium on Plant Growth Modeling, Simulation, Visualization, and Applications (PMA 2022)",
+"url": "https://hal.inrae.fr/hal-03996877v1"
+},
+{
+"id": "pba7be98e1b",
+"titre": "From TrashCan to UNO: Deriving an Underwater Image Dataset To Get a More Consistent and Balanced Version",
+"annee": 2022,
+"type": "conférence",
+"lieu": "CVAUI 2022 - 5th Workshop on Computer Vision for Analysis of Underwater Imagery @ICPR",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-03815628v1",
+"doi": "10.1007/978-3-031-37731-0_30"
+},
+{
+"id": "p7c3126414b",
+"titre": "Introducing [MALMO]: Mathematical approaches to modelling metabolic plasticity and heterogeneity in Melanoma",
+"annee": 2022,
+"type": "conférence",
+"lieu": "RITS 2022 - Recherche en Imagerie et Technologie pour la Santé",
+"url": "https://hal.science/hal-03834055v1"
+},
+{
+"id": "pbe9346e410",
+"titre": "Mitigation Strategies to Improve Reproducibility of Poverty Estimations From Remote Sensing Images Using Deep Learning",
+"annee": 2022,
+"type": "journal",
+"lieu": "Earth and Space Science",
+"url": "https://hal.science/hal-03761874v1",
+"doi": "10.1029/2022ea002379"
+},
+{
+"id": "pb6c82458da",
+"titre": "Multi-modal 3D image registration using interactive voxel grid deformation and rendering",
+"annee": 2022,
+"type": "conférence",
+"lieu": "VCBM 2022 - 12th Eurographics Workshop on Visual Computing for Biology and Medicine",
+"url": "https://hal.science/hal-04702915v1",
+"doi": "10.2312/vcbm.20221191"
+},
+{
+"id": "p72ba4dcda8",
+"titre": "New method to analyze resolution acquisition for intraoral scanners",
+"annee": 2022,
+"type": "journal",
+"lieu": "Metrology and Measurement Systems / Metrologia i Systemy Pomiarowe",
+"url": "https://hal.science/hal-03806347v1",
+"doi": "10.24425/mms.2022.140032"
+},
+{
+"id": "pa9dc3d39ad",
+"titre": "Oropharyngeal samples versus lesion specimens at diagnosis in patients infected with Monkeypox virus in Northern France.",
+"annee": 2022,
+"type": "journal",
+"lieu": "Journal of Medical Virology",
+"url": "https://lilloa.hal.science/hal-04560872v1",
+"doi": "10.1002/jmv.28276"
+},
+{
+"id": "p8d68ba88db",
+"titre": "Pose estimation of teeth in pathological dental models",
+"annee": 2022,
+"type": "journal",
+"lieu": "Electronic Imaging",
+"url": "https://hal.science/hal-04702784v1",
+"doi": "10.2352/ei.2022.34.17.3dia-212"
+},
+{
+"id": "pe59cc9f1e4",
+"titre": "Remdesivir for the Treatment of Hospitalised Patients with COVID-19 (DisCoVeRy): A Randomised, Controlled, Open-Label Trial",
+"annee": 2022,
+"type": "journal",
+"lieu": "SSRN : Social Science Research Network",
+"url": "https://u-picardie.hal.science/hal-04119314v1",
+"doi": "10.2139/ssrn.3854628"
+},
+{
+"id": "p88d804807a",
+"titre": "Sensing of COVID-19 spike protein in nasopharyngeal samples using a portable surface plasmon resonance diagnostic system",
+"annee": 2022,
+"type": "journal",
+"lieu": "Sensors & Diagnostics",
+"url": "https://hal.science/hal-03789773v1",
+"doi": "10.1039/d2sd00087c"
+},
+{
+"id": "p00743eeec8",
+"titre": "The promising efficacy of a risk-based letermovir use strategy in CMV-positive allogeneic hematopoietic cell recipients.",
+"annee": 2022,
+"type": "journal",
+"lieu": "Blood Advances",
+"url": "https://lilloa.hal.science/hal-04144209v1",
+"doi": "10.1182/bloodadvances.2022008667"
+},
+{
+"id": "pcca8342981",
+"titre": "Timeline Design Space for Immersive Exploration of Time-Varying Spatial 3D Data",
+"annee": 2022,
+"type": "conférence",
+"lieu": "VRST 2022 - 28th ACM Symposium on Virtual Reality Software and Technology",
+"url": "https://inria.hal.science/hal-03903025v1",
+"doi": "10.1145/3562939.3565612"
+},
+{
+"id": "p8891144685",
+"titre": "A multiscale analysis of early flower development in Arabidopsis provides an integrated view of molecular regulation and growth control",
+"annee": 2021,
+"type": "journal",
+"lieu": "Developmental Cell",
+"url": "https://hal.inrae.fr/hal-03299500v1",
+"doi": "10.1016/j.devcel.2021.01.019"
+},
+{
+"id": "pe943181aa2",
+"titre": "Analyse de l'évolutivité d'un réseau d'apprentissage profond pour la stéganalyse d'images",
+"annee": 2021,
+"type": "conférence",
+"lieu": "CORESA 2021 - 21e colloque COmpression et REprésentation des Signaux Audiovisuels",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-03819818v1"
+},
+{
+"id": "p6d668cf605",
+"titre": "Analysis of the Scalability of a Deep-Learning Network for Steganography \"Into the Wild",
+"annee": 2021,
+"type": "conférence",
+"lieu": "MMForWILD 2021 - Workshop on MultiMedia FORensics in the WILD",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-03090482v1",
+"doi": "10.1007/978-3-030-68780-9_36"
+},
+{
+"id": "pdc6d5eec6b",
+"titre": "Are endocasts reliable proxies for brains? A 3D quantitative comparison of the extant human brain and endocast",
+"annee": 2021,
+"type": "journal",
+"lieu": "Journal of Anatomy",
+"url": "https://hal.science/hal-02964453v1",
+"doi": "10.1111/joa.13318"
+},
+{
+"id": "pdacebc083e",
+"titre": "Assessment of CNN-based Methods for Poverty Estimation from Satellite Images",
+"annee": 2021,
+"type": "conférence",
+"lieu": "PRRS 2021 - 11th IAPR International Workshop on Pattern Recognition in Remote Sensing",
+"url": "https://hal.science/hal-03066937v1",
+"doi": "10.1007/978-3-030-68787-8_40"
+},
+{
+"id": "p59a1d36130",
+"titre": "Coupling underwater autonomous vehicles and automatic video analysis for efficient monitoring of coral reef ecosystems: promises and challenges",
+"annee": 2021,
+"type": "conférence",
+"lieu": "ICRS 2021 - 15th International Coral Reef Symposium",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-03820865v1"
+},
+{
+"id": "p1a4d0a08a7",
+"titre": "Cyclostationary Gaussian noise: theory and synthesis",
+"annee": 2021,
+"type": "conférence",
+"lieu": "Eurographics 2021",
+"url": "https://hal.science/hal-03181139v1",
+"doi": "10.1111/cgf.142629"
+},
+{
+"id": "p9959e0cdea",
+"titre": "Emergence of Q493R mutation in SARS-CoV-2 spike protein during bamlanivimab/etesevimab treatment and resistance to viral clearance.",
+"annee": 2021,
+"type": "journal",
+"lieu": "Journal of Infection",
+"url": "https://lilloa.hal.science/hal-04456661v1",
+"doi": "10.1016/j.jinf.2021.08.033"
+},
+{
+"id": "pc740422746",
+"titre": "Feasibility of Cochlea High-frequency Ultrasound and Microcomputed Tomography Registration for Cochlear Computer-assisted Surgery: A Testbed",
+"annee": 2021,
+"type": "journal",
+"lieu": "Otology and Neurotology",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-03250536v1",
+"doi": "10.1097/mao.0000000000003091"
+},
+{
+"id": "p8761b27e93",
+"titre": "HFUS Imaging of the Cochlea: A Feasibility Study for Anatomical Identification by Registration with MicroCT",
+"annee": 2021,
+"type": "journal",
+"lieu": "Annals of Biomedical Engineering",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-02960692v1",
+"doi": "10.1007/s10439-020-02671-1"
+},
+{
+"id": "pddd3235dab",
+"titre": "Haptic Fidelity: The Game Changer in Surgical Simulators for the Next Decade?",
+"annee": 2021,
+"type": "journal",
+"lieu": "Frontiers in Oncology",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-03477162v2",
+"doi": "10.3389/fonc.2021.713343"
+},
+{
+"id": "p66605f065b",
+"titre": "LSSD: a Controlled Large JPEG Image Database for Deep-Learning-based Steganalysis \"into the Wild",
+"annee": 2021,
+"type": "conférence",
+"lieu": "MMForWILD 2020 - Workshop on MultiMedia FORensics in the WILD",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-03098196v1",
+"doi": "10.1007/978-3-030-68780-9_38"
+},
+{
+"id": "pf7bafe9550",
+"titre": "National early warning score to predict intensive care unit transfer and mortality in COVID-19 in a French cohort",
+"annee": 2021,
+"type": "journal",
+"lieu": "The International journal of clinical practice",
+"url": "https://lilloa.hal.science/hal-04320669v1",
+"doi": "10.1111/ijcp.14121"
+},
+{
+"id": "pfdff271b24",
+"titre": "Shape-changing chains for morphometric analysis of 2D and 3D, open or closed outlines",
+"annee": 2021,
+"type": "journal",
+"lieu": "Scientific Reports",
+"url": "https://hal.science/hal-03472877v1",
+"doi": "10.1038/s41598-021-00911-5"
+},
+{
+"id": "pa8b4f9f650",
+"titre": "Three‐dimensional printing to compare endoscopic endonasal surgical approaches: A technical note",
+"annee": 2021,
+"type": "journal",
+"lieu": "Clinical Otolaryngology",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-03002267v1",
+"doi": "10.1111/coa.13641"
+},
+{
+"id": "p67897de03e",
+"titre": "Élaboration d’un algorithme d’intelligence artificielle appliqué à la localisation de foyers de carcinomes basocellulaires sur coupes extemporanées de chirurgie de Mohs",
+"annee": 2021,
+"type": "journal",
+"lieu": "Annales de Dermatologie et de Vénéréologie - FMC",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-03819797v1",
+"doi": "10.1016/j.fander.2021.09.129"
+},
+{
+"id": "p62755cfacb",
+"titre": "A flexible targetless LiDAR–GNSS/INS–camera calibration method for UAV platforms",
+"annee": 2020,
+"type": "journal",
+"lieu": "ISPRS Journal of Photogrammetry and Remote Sensing",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-03474318v1",
+"doi": "10.1016/j.isprsjprs.2020.05.014"
+},
+{
+"id": "p81838f809b",
+"titre": "A new method to control error rates in automated species identification with deep learning algorithms",
+"annee": 2020,
+"type": "journal",
+"lieu": "Scientific Reports",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-03002261v1",
+"doi": "10.1038/s41598-020-67573-7"
+},
+{
+"id": "p74e3332159",
+"titre": "ANISEED 2019: 4D exploration of genetic data for an extended range of tunicates",
+"annee": 2020,
+"type": "journal",
+"lieu": "Nucleic Acids Research",
+"url": "https://hal.science/hal-02415680v1",
+"doi": "10.1093/nar/gkz955"
+},
+{
+"id": "p4c806bf0d0",
+"titre": "Adaptive Compositing and Navigation of Variable Resolution Images",
+"annee": 2020,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.14178",
+"doi": "10.1111/cgf.14178"
+},
+{
+"id": "pe054c3c454",
+"titre": "CAD-driven analysis and beautification of reverse engineered geometric models",
+"annee": 2020,
+"type": "journal",
+"lieu": "International Journal on Interactive Design and Manufacturing",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-03002256v1",
+"doi": "10.1007/s12008-020-00693-6"
+},
+{
+"id": "p8e17ddd612",
+"titre": "Contact area-dependent cell communication and the morphological invariance of ascidian embryogenesis",
+"annee": 2020,
+"type": "journal",
+"lieu": "Science",
+"url": "https://inria.hal.science/hal-02903409v1",
+"doi": "10.1126/science.aar5663"
+},
+{
+"id": "p0f74754f8e",
+"titre": "Content-aware texture deformation with dynamic control",
+"annee": 2020,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://hal.science/hal-03183556v1",
+"doi": "10.1016/j.cag.2020.07.006"
+},
+{
+"id": "pf0742e1a15",
+"titre": "In-situ tensile test under microtomography to characterize mechanical behavior of ethmoid bone: a preliminary study",
+"annee": 2020,
+"type": "journal",
+"lieu": "Computer Methods in Biomechanics & Biomedical Engineering",
+"url": "https://doi.org/10.1080/10255842.2020.1816292",
+"doi": "10.1080/10255842.2020.1816292"
+},
+{
+"id": "pd32364979d",
+"titre": "A challenge in dental computerised photogrammetry",
+"annee": 2019,
+"type": "journal",
+"lieu": "CAD/CAM International",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-02365224v1"
+},
+{
+"id": "pc47cf595f3",
+"titre": "Anisotropic Filtering for On-the-fly Patch-based Texturing",
+"annee": 2019,
+"type": "conférence",
+"lieu": "Eurographics 2019",
+"url": "https://hal.science/hal-02127441v1",
+"doi": "10.2312/egs.20191019"
+},
+{
+"id": "pe5e9346218",
+"titre": "CAD-driven pattern recognition in reverse engineered models",
+"annee": 2019,
+"type": "conférence",
+"lieu": "VISIGRAPP 2019 - 14th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-02084850v1",
+"doi": "10.5220/0007360702440254"
+},
+{
+"id": "pbd3d1ab9ba",
+"titre": "Deep Analysis of CNN Settings for New Cancer whole-slide Histological Images Segmentation: the Case of Small Training Sets",
+"annee": 2019,
+"type": "conférence",
+"lieu": "6th International conference on BioImaging (BIOIMAGING 2019)",
+"url": "https://hal.science/hal-02092926v1",
+"doi": "10.5220/0007406601200128"
+},
+{
+"id": "p621dec0c4a",
+"titre": "Geometric and Topological Mesh Feature Extraction for 3D Shape Analysis",
+"annee": 2019,
+"type": "ouvrage",
+"lieu": "",
+"url": "https://inria.hal.science/hal-02361776v1",
+"doi": "10.1002/9781119681069"
+},
+{
+"id": "p22a51efd4d",
+"titre": "Géométrie et topologie pour les maillages 3D",
+"annee": 2019,
+"type": "chapitre",
+"lieu": "Informatique Mathématique, Une photographie en 2019",
+"url": "https://inria.hal.science/hal-02058296v1"
+},
+{
+"id": "p50ec9c667e",
+"titre": "Method to approximate intra oral scanner noise and resolution",
+"annee": 2019,
+"type": "conférence",
+"lieu": "Lasers in Dentistry XXV",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-02084852v1",
+"doi": "10.1117/12.2509460"
+},
+{
+"id": "p3c8500de19",
+"titre": "MorphoNet: an interactive online morphological browser to explore complex multi-scale data",
+"annee": 2019,
+"type": "journal",
+"lieu": "Nature Communications",
+"url": "https://hal.science/hal-01938153v1",
+"doi": "10.1038/s41467-019-10668-1"
+},
+{
+"id": "p62084cfc8b",
+"titre": "Pooled Steganalysis in JPEG: how to deal with the spreading strategy?",
+"annee": 2019,
+"type": "conférence",
+"lieu": "WIFS 2019 - 11th IEEE International Workshop on Information Forensics and Security",
+"url": "https://hal.science/hal-02301698v1",
+"doi": "10.1109/wifs47025.2019.9035096"
+},
+{
+"id": "p01b052ff0d",
+"titre": "Stéganalyse groupée en JPEG : comment gérer la stratégie d'étalement?",
+"annee": 2019,
+"type": "conférence",
+"lieu": "GRETSI 2019 - 27e Colloque francophone de Traitement du Signal et des Images",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-03819907v1"
+},
+{
+"id": "p22943fc00c",
+"titre": "Training Set Class Distribution Analysis for Deep Learning Model - Application to Cancer Detection",
+"annee": 2019,
+"type": "conférence",
+"lieu": "1st International Conference on Advances in Signal Processing and Artificial Intelligence (ASPAI 2019)",
+"url": "https://hal.science/hal-02891748v1"
+},
+{
+"id": "p2141fb11c9",
+"titre": "Transcriptional regulation of the Ciona Gsx gene in the neural plate",
+"annee": 2019,
+"type": "journal",
+"lieu": "Developmental Biology",
+"url": "https://hal.science/hal-02115329v1",
+"doi": "10.1016/j.ydbio.2018.12.013"
+},
+{
+"id": "p260a1b0470",
+"titre": "Understanding the Biomechanical Properties of Skull Base Tissues Is Essential for the Future of Virtual Reality Endoscopic Sinus and Skull Base Surgery Simulators",
+"annee": 2019,
+"type": "journal",
+"lieu": "Clinical and Experimental Otorhinolaryngology",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-02084847v1",
+"doi": "10.21053/ceo.2018.01627"
+},
+{
+"id": "p80694b1462",
+"titre": "Urban object classification with 3D Deep-Learning",
+"annee": 2019,
+"type": "conférence",
+"lieu": "JURSE 2019 - Joint Urban Remote Sensing Event",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-02087761v1",
+"doi": "10.1109/jurse.2019.8809043"
+},
+{
+"id": "p8f79bccd05",
+"titre": "A Deep learning method for accurate and fast identification of coral reef fishes in underwater images",
+"annee": 2018,
+"type": "journal",
+"lieu": "Ecological Informatics",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-01884005v1",
+"doi": "10.1016/j.ecoinf.2018.09.007"
+},
+{
+"id": "pf85b79bce3",
+"titre": "A deep learning algorithm for automatic identification of coral reef fish species on images",
+"annee": 2018,
+"type": "conférence",
+"lieu": "WCMB 2018 - 4th World Conference on Marine Biodiversity",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-01883997v1"
+},
+{
+"id": "p096c19a58c",
+"titre": "A new approach to quantify enamel thickness distribution and the enamel-dentine junction topography in primate teeth",
+"annee": 2018,
+"type": "conférence",
+"lieu": "SMEF 2018 - 10e Symposium de Morphométrie et Évolution des Formes",
+"url": "https://hal.science/hal-03154905v1"
+},
+{
+"id": "p088cb35f2b",
+"titre": "ANISEED 2017: extending the integrated ascidian database to the exploration and evolutionary comparison of genome-scale datasets",
+"annee": 2018,
+"type": "journal",
+"lieu": "Nucleic Acids Research",
+"url": "https://hal.science/hal-01636650v1",
+"doi": "10.1093/nar/gkx1108"
+},
+{
+"id": "p2a33e33c0a",
+"titre": "Automatic Extraction of a Piecewise Symmetry Surface of a 3D Mesh: Application to Scoliosis",
+"annee": 2018,
+"type": "conférence",
+"lieu": "International Workshop on Shape in Medical Imaging (ShapeMI)",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-01940108v1",
+"doi": "10.1007/978-3-030-04747-4_14"
+},
+{
+"id": "p6a6e0c3b83",
+"titre": "Automatic extraction of the 3D symmetry line of back surface: application on scoliotic adolescents",
+"annee": 2018,
+"type": "conférence",
+"lieu": "EMBC 2018 - 40th International Conference of the IEEE Engineering in Medicine and Biology Society",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-01914725v1",
+"doi": "10.1109/embc.2018.8513282"
+},
+{
+"id": "pd96c3fa0b4",
+"titre": "Classification d'objets urbains à partir de données LiDAR 3D terrestre par Deep-Learning",
+"annee": 2018,
+"type": "conférence",
+"lieu": "SAGEO 2018 - Conférence internationale francophone Spatial Analysis and GEOmatics",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-03820925v1"
+},
+{
+"id": "p1987a5c6df",
+"titre": "Developing and Validating a Predictive Model of Measurement Uncertainty for Multi-Beam Lidars: Application to the Velodyne VLP-16",
+"annee": 2018,
+"type": "conférence",
+"lieu": "8. International Conference on Image Processing Theory, Tools and Applications (IPTA 2018)",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-02086853v1",
+"doi": "10.1109/ipta.2018.8608146"
+},
+{
+"id": "pc1b684e34e",
+"titre": "Détection de regards de visite sur des images à haute résolution spatiale par une méthode d'apprentissage",
+"annee": 2018,
+"type": "conférence",
+"lieu": "TEMU: Télédétection pour l'Etude des Milieux Urbains",
+"url": "https://hal.science/hal-01867226v1"
+},
+{
+"id": "peb6b0ffc29",
+"titre": "First Experiments of Deep Learning on LiDAR Point Clouds for Classification of Urban Objects",
+"annee": 2018,
+"type": "conférence",
+"lieu": "CFPT: Conférence Française de Photogrammétrie et de Télédétection",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-01884001v1"
+},
+{
+"id": "pbadaf99cff",
+"titre": "GT-RootS: An integrated software for automated root system measurement from high-throughput phenotyping platform images",
+"annee": 2018,
+"type": "journal",
+"lieu": "Computers and Electronics in Agriculture",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-01790777v1",
+"doi": "10.1016/j.compag.2018.05.003"
+},
+{
+"id": "p8397ff4b79",
+"titre": "Orientation Beautification of Reverse Engineered Models",
+"annee": 2018,
+"type": "conférence",
+"lieu": "VISIGRAPP 2018 - 13th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-01728147v1",
+"doi": "10.5220/0006606000910100"
+},
+{
+"id": "p230b0c17f4",
+"titre": "Quantitative and Binary Steganalysis in JPEG: A Comparative Study",
+"annee": 2018,
+"type": "conférence",
+"lieu": "EUSIPCO: European Signal Processing Conference",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-01884006v1"
+},
+{
+"id": "p5729fc517e",
+"titre": "The endocranial shape of Australopithecus africanus : surface analysis of the endocasts of Sts 5 and Sts 60",
+"annee": 2018,
+"type": "journal",
+"lieu": "Journal of Anatomy",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-01636811v1",
+"doi": "10.1111/joa.12745"
+},
+{
+"id": "p3a79f58b14",
+"titre": "The “computable egg”: Myth or useful concept?",
+"annee": 2018,
+"type": "journal",
+"lieu": "Current Opinion in Systems Biology",
+"url": "https://hal.science/hal-01919148v1",
+"doi": "10.1016/j.coisb.2018.09.003"
+},
+{
+"id": "p4b1002f8aa",
+"titre": "Three-dimensional computer-assisted dissection of pancreatic lymphatic anatomy on human fetuses: a step toward automatic image alignment",
+"annee": 2018,
+"type": "journal",
+"lieu": "Surgical and Radiologic Anatomy",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-01789575v1",
+"doi": "10.1007/s00276-018-2008-2"
+},
+{
+"id": "p398487f0be",
+"titre": "Web-Based Configurable Image Annotations",
+"annee": 2018,
+"type": "conférence",
+"lieu": "26th ACM Multimedia Conference (MM 2018)",
+"url": "https://hal.science/hal-03635560v1",
+"doi": "10.1145/3240508.3243656"
+},
+{
+"id": "p626927cb21",
+"titre": "A New Metric for Statistical Analysis of Rigid Transformations: Application to the Rib Cage",
+"annee": 2017,
+"type": "conférence",
+"lieu": "GRAIL-MICGen-MFCA",
+"url": "https://hal.science/hal-01588289v1",
+"doi": "10.1007/978-3-319-67675-3_11"
+},
+{
+"id": "pf28b93ec27",
+"titre": "Analysis of digitized 3D mesh curvature histograms for reverse engineering",
+"annee": 2017,
+"type": "journal",
+"lieu": "Computers in Industry",
+"url": "https://hal.science/hal-01575669v1",
+"doi": "10.1016/j.compind.2017.06.008"
+},
+{
+"id": "p5b5324dc71",
+"titre": "Automated efficient computation of crown transparency from tree silhouette images",
+"annee": 2017,
+"type": "journal",
+"lieu": "Computers and Electronics in Agriculture",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-01494935v1",
+"doi": "10.1016/j.compag.2016.12.011"
+},
+{
+"id": "pf984feef9f",
+"titre": "Automatic reconstruction of urban wastewater and stormwater networks based on uncertain manhole cover locations",
+"annee": 2017,
+"type": "conférence",
+"lieu": "ICUD: International Conference on Urban Drainage",
+"url": "https://hal.science/hal-01584776v2"
+},
+{
+"id": "p9e4c9b0db5",
+"titre": "Cart'Eaux: an automatic mapping procedure for wastewater networks using machine learning and data mining",
+"annee": 2017,
+"type": "conférence",
+"lieu": "AGU2017 Fall Meeting",
+"url": "https://hal.science/hal-01680121v1"
+},
+{
+"id": "p50205dddbe",
+"titre": "Cerebrospinal fluid volume does not have etiological role in the incidence of positional skull deformities",
+"annee": 2017,
+"type": "journal",
+"lieu": "Journal of Cranio-Maxillofacial Surgery",
+"url": "https://hal.science/hal-01580898v1",
+"doi": "10.1016/j.jcms.2017.06.005"
+},
+{
+"id": "p48d1f872a8",
+"titre": "Cost-Effective Active Learning for Melanoma Segmentation",
+"annee": 2017,
+"type": "conférence",
+"lieu": "31st Conference on Machine Learning for Health: Workshop at NIPS 2017 (ML4H 2017)",
+"url": "https://hal.science/hal-02871320v1"
+},
+{
+"id": "p978fbeae30",
+"titre": "Digitized 3D mesh segmentation based on curvature analysis",
+"annee": 2017,
+"type": "conférence",
+"lieu": "Electronic Imaging",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-01494957v1",
+"doi": "10.2352/issn.2470-1173.2017.20.3dipm-005"
+},
+{
+"id": "p8f399aadc2",
+"titre": "Geometric and mechanical evaluation of 3D-printing materials for skull base anatomical education and endoscopic surgery simulation – A first step to create reliable customized simulators.",
+"annee": 2017,
+"type": "journal",
+"lieu": "PLoS ONE",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-01667197v1",
+"doi": "10.1371/journal.pone.0189486"
+},
+{
+"id": "p82c68730de",
+"titre": "How to Deal with Multi-source Data for Tree Detection Based on Deep Learning",
+"annee": 2017,
+"type": "conférence",
+"lieu": "5th IEEE Global Conference on Signal and Information Processing (GlobalSIP)",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-01685327v1",
+"doi": "10.1109/globalsip.2017.8309141"
+},
+{
+"id": "pe3ea9121a6",
+"titre": "Method to evaluate the noise of 3D intra-oral scanner",
+"annee": 2017,
+"type": "journal",
+"lieu": "PLoS ONE",
+"url": "https://hal.science/hal-01575681v1",
+"doi": "10.1371/journal.pone.0182206"
+},
+{
+"id": "p54c6fd4cfa",
+"titre": "Outlining Objects for Interactive Segmentation on Touch Devices",
+"annee": 2017,
+"type": "conférence",
+"lieu": "MM '17: 25th ACM international conference on Multimedia",
+"url": "https://hal.science/hal-01919274v1",
+"doi": "10.1145/3123266.3123409"
+},
+{
+"id": "p582149d457",
+"titre": "Supervised image segmentation using Q-Shift Dual-Tree Complex Wavelet Transform coefficients with a texton approach",
+"annee": 2017,
+"type": "journal",
+"lieu": "Pattern Analysis and Applications",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-01168016v1",
+"doi": "10.1007/s10044-015-0491-1"
+},
+{
+"id": "p0e646cfee1",
+"titre": "A computer-guided 3D multiscale reconstruction of the Kromdraai site",
+"annee": 2016,
+"type": "chapitre",
+"lieu": "Kromdraai, a Birthplace of Paranthropus in the Cradle of Humankind",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-01633989v1"
+},
+{
+"id": "p358a819f50",
+"titre": "A workflow to process 3D+time microscopy images of developing organisms and reconstruct their cell lineage",
+"annee": 2016,
+"type": "journal",
+"lieu": "Nature Communications",
+"url": "https://hal.umontpellier.fr/hal-02086959v1",
+"doi": "10.1038/ncomms9674"
+},
+{
+"id": "p43b1c13863",
+"titre": "Anatomie 3D de la toile sous-cutanée et des lobules adipeux par micro-imagerie",
+"annee": 2016,
+"type": "journal",
+"lieu": "Morphologie",
+"url": "https://doi.org/10.1016/j.morpho.2016.07.109",
+"doi": "10.1016/j.morpho.2016.07.109"
+},
+{
+"id": "pc7206a6f6f",
+"titre": "Automated characterization of the mature root system form by a double-quadrangle-shaped polygon",
+"annee": 2016,
+"type": "conférence",
+"lieu": "FSPMA: Functional-Structural Plant Growth Modeling, Simulation, Visualization and Applications",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-02020635v1",
+"doi": "10.1109/fspma.2016.7818282"
+},
+{
+"id": "p013d4bfdb1",
+"titre": "Coral reef fish detection and recognition in underwater videos by supervised machine learning : Comparison between Deep Learning and HOG+SVM methods",
+"annee": 2016,
+"type": "conférence",
+"lieu": "ACIVS 2016 - 17th International Conference on Advanced Concepts for Intelligent Vision Systems",
+"url": "https://hal.science/hal-01374123v1"
+},
+{
+"id": "p82241d7dbb",
+"titre": "Detection of Manhole Covers in High-Resolution Aerial Images of Urban Areas by Combining Two Methods",
+"annee": 2016,
+"type": "journal",
+"lieu": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-01275684v1",
+"doi": "10.1109/jstars.2015.2504401"
+},
+{
+"id": "pa10aa065c6",
+"titre": "Dissection virtuelle du cou à partir d’acquisitions de scanner surfacique : un nouvel outil d’enseignement de l’anatomie et d’entraînement chirurgical",
+"annee": 2016,
+"type": "journal",
+"lieu": "Morphologie",
+"url": "https://doi.org/10.1016/j.morpho.2016.07.140",
+"doi": "10.1016/j.morpho.2016.07.140"
+},
+{
+"id": "p1264d3d3c2",
+"titre": "Fusion d’images ultrasonographiques haute fréquence et microscannographiques de la cochlée pour navigation intracochléaire",
+"annee": 2016,
+"type": "journal",
+"lieu": "Morphologie",
+"url": "https://doi.org/10.1016/j.morpho.2016.07.141",
+"doi": "10.1016/j.morpho.2016.07.141"
+},
+{
+"id": "pd5aa63b3c0",
+"titre": "How to build an average model when samples are variably incomplete? Application to fossil data",
+"annee": 2016,
+"type": "conférence",
+"lieu": "Computer Vision and Pattern Recognition Workshops (CVPRW 2016)",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-01381310v1",
+"doi": "10.1109/cvprw.2016.74"
+},
+{
+"id": "pb334720477",
+"titre": "Innovative approaches to quantify and statistically compare tooth enamel thickness distribution",
+"annee": 2016,
+"type": "conférence",
+"lieu": "ESHE 2016 - 6th Annual Meeting of the European Society for the Study of Human Evolution",
+"url": "https://hal.science/hal-03153972v1"
+},
+{
+"id": "pba2306ab60",
+"titre": "Modèles pour la représentation et la visualisation des plantes et des paysages",
+"annee": 2016,
+"type": "chapitre",
+"lieu": "Architecture et croissance des plantes. Modélisation et applications",
+"url": "https://hal.umontpellier.fr/hal-02305769v1"
+},
+{
+"id": "p665df077db",
+"titre": "Multi-material adaptive volume remesher",
+"annee": 2016,
+"type": "journal",
+"lieu": "Computers & Graphics",
+"url": "https://doi.org/10.1016/j.cag.2016.05.019",
+"doi": "10.1016/j.cag.2016.05.019"
+},
+{
+"id": "p6ade653c8f",
+"titre": "Optimizing color information processing inside an SVM network",
+"annee": 2016,
+"type": "conférence",
+"lieu": "EI: Electronic Imaging",
+"url": "https://hal.science/hal-01374090v1"
+},
+{
+"id": "p80f848c61a",
+"titre": "Phylogeny of JPEG images by ancestor estimation using missing markers on image pairs",
+"annee": 2016,
+"type": "conférence",
+"lieu": "IPTA: Image Processing Theory, Tools and Applications",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-01883738v1",
+"doi": "10.1109/ipta.2016.7820992"
+},
+{
+"id": "p19761f1230",
+"titre": "Speeding-up a convolutional neural network by connecting an SVM network",
+"annee": 2016,
+"type": "conférence",
+"lieu": "ICIP: International Conference on Image Processing",
+"url": "https://hal.science/hal-01374118v1",
+"doi": "10.1109/icip.2016.7532766"
+},
+{
+"id": "pc8ef4aeb03",
+"titre": "Synthesizing Planar Rigid-Body Chains for Morphometric Applications",
+"annee": 2016,
+"type": "conférence",
+"lieu": "IDETC/CIE: International Design Engineering Technical Conferences & Computers and Information in Engineering",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-01381306v1"
+},
+{
+"id": "pd73a504878",
+"titre": "Three-Dimensional Surface Imaging Is Not Enough for Surgical Simulation",
+"annee": 2016,
+"type": "journal",
+"lieu": "Plastic and Reconstructive Surgery",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-01275683v1",
+"doi": "10.1097/prs.0000000000001921"
+},
+{
+"id": "pce29c3f0ed",
+"titre": "Advanced sensor noise analysis for CT-scanner identification from its 3D images",
+"annee": 2015,
+"type": "conférence",
+"lieu": "IPTA: Image Processing Theory, Tools and Applications",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-01379571v1",
+"doi": "10.1109/ipta.2015.7367158"
+},
+{
+"id": "p16141696a0",
+"titre": "An automated method for tree-ring delineation based on active contours guided by DT-CWT complex coefficients in photographic images: Application to Abies alba wood slice images",
+"annee": 2015,
+"type": "journal",
+"lieu": "Computers and Electronics in Agriculture",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-01275680v1",
+"doi": "10.1016/j.compag.2015.09.009"
+},
+{
+"id": "p9bf242cd80",
+"titre": "An efficient multi-resolution SVM network approach for object detection in aerial images",
+"annee": 2015,
+"type": "conférence",
+"lieu": "MLSP: Machine Learning for Signal Processing",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-01234225v1",
+"doi": "10.1109/mlsp.2015.7324329"
+},
+{
+"id": "p45b163e597",
+"titre": "Analysis of an EMST-based path for 3D meshes",
+"annee": 2015,
+"type": "journal",
+"lieu": "Computer-Aided Design",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-01233558v1",
+"doi": "10.1016/j.cad.2015.02.005"
+},
+{
+"id": "p0bff0f7a7c",
+"titre": "Capteurs infrarouge « low cost » pour l’analyse spectrale des plantes",
+"annee": 2015,
+"type": "conférence",
+"lieu": "Journées Electronique et Environnement du club EEA",
+"url": "https://hal.science/hal-01903582v1"
+},
+{
+"id": "p3e8fee701c",
+"titre": "Comment caractériser la variabilité d'une surface 3D ? Analyse à partir d'exemples en anatomie comparée",
+"annee": 2015,
+"type": "conférence",
+"lieu": "GTMG 2015 - Journées du Groupe de Travail en Modélisation Géométrique",
+"url": "https://hal.science/hal-03209334v1"
+},
+{
+"id": "p4e202d6fc9",
+"titre": "Detection of manhole covers in high-resolution aerial images of urban areas by combining two methods",
+"annee": 2015,
+"type": "conférence",
+"lieu": "JURSE: Joint Urban Remote Sensing Event",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-01234242v1",
+"doi": "10.1109/jurse.2015.7120524"
+},
+{
+"id": "p483eacad9b",
+"titre": "Hue class equalization to improve a hierarchical image retrieval system",
+"annee": 2015,
+"type": "conférence",
+"lieu": "IPTA: Image Processing Theory, Tools and Applications",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-01273971v1",
+"doi": "10.1109/ipta.2015.7367210"
+},
+{
+"id": "pabcdb2c393",
+"titre": "Improving sensor noise analysis for CT-Scanner identification",
+"annee": 2015,
+"type": "conférence",
+"lieu": "EUSIPCO: European Signal Processing Conference",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-01379558v1",
+"doi": "10.1109/eusipco.2015.7362817"
+},
+{
+"id": "pc86a6611d1",
+"titre": "In situ 3D Digitization of the \"Little Foot\" Australopithecus skeleton from Sterkfontein",
+"annee": 2015,
+"type": "journal",
+"lieu": "Paleoanthropology",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-01275682v1",
+"doi": "10.4207/pa.2015.art95"
+},
+{
+"id": "p3bfe268e81",
+"titre": "Modélisation biomécanique du muscle masséter : étude préliminaire",
+"annee": 2015,
+"type": "journal",
+"lieu": "Morphologie",
+"url": "https://doi.org/10.1016/j.morpho.2015.07.047",
+"doi": "10.1016/j.morpho.2015.07.047"
+},
+{
+"id": "p99994fa1d6",
+"titre": "Nonlinear PDE based numerical methods for cell tracking in zebrafish embryogenesis",
+"annee": 2015,
+"type": "journal",
+"lieu": "Applied Numerical Mathematics: an IMACS journal",
+"url": "https://hal.science/hal-01179899v1",
+"doi": "10.1016/j.apnum.2014.09.002"
+},
+{
+"id": "pefd6d16fa0",
+"titre": "Répercussion endocrânienne des déformations posturales du crâne : étude morphométrique 3D",
+"annee": 2015,
+"type": "journal",
+"lieu": "Morphologie",
+"url": "https://doi.org/10.1016/j.morpho.2015.07.093",
+"doi": "10.1016/j.morpho.2015.07.093"
+},
+{
+"id": "p284862061d",
+"titre": "Three-dimensional study of the skin/subcutaneous complex using in vivo whole body 3T MRI: review of the literature and confirmation of a generic pattern of organization",
+"annee": 2015,
+"type": "journal",
+"lieu": "Surgical and Radiologic Anatomy",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-01239180v1",
+"doi": "10.1007/s00276-014-1409-0"
+},
+{
+"id": "p663a2c02c8",
+"titre": "Automatic identification and characterization of radial files in light microscopy images of wood",
+"annee": 2014,
+"type": "journal",
+"lieu": "Annals of Botany",
+"url": "https://sde.hal.science/hal-01076468v1",
+"doi": "10.1093/aob/mcu119"
+},
+{
+"id": "p06cd240b69",
+"titre": "CT-Scanner identification based on sensor noise analysis",
+"annee": 2014,
+"type": "conférence",
+"lieu": "EUVIP: European Workshop on Visual Information Processing",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-01379581v1",
+"doi": "10.1109/euvip.2014.7018385"
+},
+{
+"id": "pba4e3f17a1",
+"titre": "Comparaison de la segmentation pixel et segmentation objet pour la détection d'objets multiples et variables dans des images",
+"annee": 2014,
+"type": "conférence",
+"lieu": "CORESA: COmpression et REprésentation des Signaux Audiovisuels",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-01234244v1"
+},
+{
+"id": "p1d83819bef",
+"titre": "Fast semi-supervised segmentation of in-situ tree color images",
+"annee": 2014,
+"type": "conférence",
+"lieu": "ICISP: International Conference on Image and Signal Processing",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-01381829v1",
+"doi": "10.1007/978-3-319-07998-1_19"
+},
+{
+"id": "p1452825f53",
+"titre": "Generic 3D Geometrical and Mechanical Modeling of the Skin/Subcutaneous Complex by a Procedural Hybrid Method",
+"annee": 2014,
+"type": "conférence",
+"lieu": "ISBMS: International Symposium on Biomedical Simulation",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-01239192v1",
+"doi": "10.1007/978-3-319-12057-7_20"
+},
+{
+"id": "pc1e5e13ad4",
+"titre": "Identification of Homo-like features in virtually rendered South African australopiths endocasts",
+"annee": 2014,
+"type": "conférence",
+"lieu": "Symposium Le Registre Fossile Humain Africain / The African Human Fossil Record (2014)",
+"url": "https://hal.science/hal-03266927v1"
+},
+{
+"id": "pafa141f5ec",
+"titre": "Landmark-free 3D method for comparison of fossil hominins and hominids based on endocranium and EDJ shapes",
+"annee": 2014,
+"type": "conférence",
+"lieu": "83rd Annual Meeting of the American Association of Physical Anthropologists (2014)",
+"url": "https://inria.hal.science/hal-00935054v1"
+},
+{
+"id": "pfc963763c2",
+"titre": "Mandibular effects of maxillary distraction osteogenesis in cleft lip and palate",
+"annee": 2014,
+"type": "journal",
+"lieu": "International Journal of Oral and Maxillofacial Surgery",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-01275685v1",
+"doi": "10.1016/j.ijom.2014.01.017"
+},
+{
+"id": "pd480f045ae",
+"titre": "REX:Innovation pédagogique via l'utilisation de tablettes numériques à Polytech Montpellier",
+"annee": 2014,
+"type": "conférence",
+"lieu": "TICE: Technologies de l'Information et de la Communication pour l'Enseignement",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-01118757v1"
+},
+{
+"id": "p81fc1e99d8",
+"titre": "Étude de la co-variation de croissance entre l’os maxillaire, les dents et les sinus maxillaires",
+"annee": 2014,
+"type": "journal",
+"lieu": "Morphologie",
+"url": "https://doi.org/10.1016/j.morpho.2014.04.016",
+"doi": "10.1016/j.morpho.2014.04.016"
+},
+{
+"id": "pb2ab4bcfd4",
+"titre": "A New Software Package for Predictive Gene Regulatory Network Modeling and Redesign",
+"annee": 2013,
+"type": "journal",
+"lieu": "Journal of Computational Biology",
+"url": "https://inria.hal.science/hal-01101032v1",
+"doi": "10.1089/cmb.2012.0297"
+},
+{
+"id": "pd69d3d9eba",
+"titre": "A comprehensive process of reverse engineering from 3D meshes to CAD models",
+"annee": 2013,
+"type": "journal",
+"lieu": "Computer-Aided Design",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-00857347v1",
+"doi": "10.1016/j.cad.2013.06.004"
+},
+{
+"id": "pd88f1c6c96",
+"titre": "Assessment of an automatic system classifying hepatic lesions on multi-phase computer tomography images",
+"annee": 2013,
+"type": "conférence",
+"lieu": "EUSIPCO: European Signal Processing Conference",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-01379596v1"
+},
+{
+"id": "p4c3ca2dc12",
+"titre": "Automatic localization of tombs in aerial imagery: Application to the digital archiving of cemetery heritage",
+"annee": 2013,
+"type": "conférence",
+"lieu": "DigitalHeritage",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-01234256v1",
+"doi": "10.1109/digitalheritage.2013.6743811"
+},
+{
+"id": "pa1abc3f46f",
+"titre": "Comparison of endocranial and ectocranial \"symmetry planes\" and application to the virtual reconstruction of hominid fossils",
+"annee": 2013,
+"type": "conférence",
+"lieu": "AAPA: American Association of Physical Anthropologists",
+"url": "https://inserm.hal.science/inserm-00767670v1"
+},
+{
+"id": "pb78ed7bb7a",
+"titre": "Defining reliability coefficients in an automated method of identification and characterization of radial files in microscopic images of gymnosperms",
+"annee": 2013,
+"type": "conférence",
+"lieu": "FSPM: Functional-Structural Plant Models",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-01381832v1"
+},
+{
+"id": "pd75172975b",
+"titre": "Effect of In Vitro and In Vivo Anakinra on Cytokines Production in Schnitzler Syndrome",
+"annee": 2013,
+"type": "journal",
+"lieu": "PLoS ONE",
+"url": "https://hal.science/hal-04757594v1",
+"doi": "10.1371/journal.pone.0059327"
+},
+{
+"id": "p23485be4c7",
+"titre": "Effects of growth on maxillary distraction osteogenesis in cleft lip and palate",
+"annee": 2013,
+"type": "journal",
+"lieu": "Journal of Cranio-Maxillofacial Surgery",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-01275686v1",
+"doi": "10.1016/j.jcms.2013.01.038"
+},
+{
+"id": "p4ba59876a3",
+"titre": "Multigrid Convergent Curvature Estimator",
+"annee": 2013,
+"type": "conférence",
+"lieu": "DGCI 2013 - 17th IAPR International Conference on Discrete Geometry for Computer Imagery",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-01379922v1",
+"doi": "10.1007/978-3-642-37067-0_34"
+},
+{
+"id": "p4a38a63b49",
+"titre": "Protection of JPEG compressed e-comics by selective encryption",
+"annee": 2013,
+"type": "conférence",
+"lieu": "ICIP: International Conference on Image Processing",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-01379600v1",
+"doi": "10.1109/icip.2013.6738945"
+},
+{
+"id": "p33913a837c",
+"titre": "Simple-graph fusion in image mosaic. Application to automated cell file identification in wood slices",
+"annee": 2013,
+"type": "conférence",
+"lieu": "SCIA: Scandinavian Conference on Image Analysis",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-01381834v1",
+"doi": "10.1007/978-3-642-38886-6_4"
+},
+{
+"id": "pe9d7922910",
+"titre": "VirtuaL reconstruction of the taung chiLd’s endocast",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Colloque annuel de la société d'anthropologie de Paris - 1838e Réunion scientifique",
+"url": "https://inserm.hal.science/inserm-00935232v1",
+"doi": "10.1007/s13219-012-0077-z"
+},
+{
+"id": "p2541ea1081",
+"titre": "3D+t Morphological Processing: Applications to Embryogenesis Image Analysis.",
+"annee": 2012,
+"type": "journal",
+"lieu": "IEEE Transactions on Image Processing",
+"url": "https://hal.science/hal-00723216v1",
+"doi": "10.1109/tip.2012.2197007"
+},
+{
+"id": "p54d682917e",
+"titre": "A Combinatorial Method for 3D Landmark-based Morphometry: Application to the Study of Coronal Craniosynostosis",
+"annee": 2012,
+"type": "conférence",
+"lieu": "MICCAI: Medical Image Computing and Computer-Assisted Intervention",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-00739362v1",
+"doi": "10.1007/978-3-642-33454-2_66"
+},
+{
+"id": "p5a3b1ec086",
+"titre": "An iterative hyperspectral image segmentation method using a cross analysis of spectral and spatial information",
+"annee": 2012,
+"type": "journal",
+"lieu": "Chemometrics and Intelligent Laboratory Systems",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-00841482v1",
+"doi": "10.1016/j.chemolab.2012.05.004"
+},
+{
+"id": "pb2dd76cb69",
+"titre": "Methodology for reconstructing early zebrafish development from in vivo multiphoton microscopy.",
+"annee": 2012,
+"type": "journal",
+"lieu": "IEEE Transactions on Image Processing",
+"url": "https://hal.science/hal-00683640v1",
+"doi": "10.1109/tip.2011.2177911"
+},
+{
+"id": "p2a70285f2f",
+"titre": "The Problem of the Definition of 3D Features for the Morphometric Analysis in Physcial Anthropology",
+"annee": 2012,
+"type": "journal",
+"lieu": "Biométrie Humaine et Anthropologie - revue de la Société de biométrie humaine",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-01275993v1"
+},
+{
+"id": "p4748fa86eb",
+"titre": "VoxMorph: 3-scale freeform deformation of large voxel grids",
+"annee": 2012,
+"type": "journal",
+"lieu": "Computers & Graphics",
+"url": "https://doi.org/10.1016/j.cag.2012.03.020",
+"doi": "10.1016/j.cag.2012.03.020"
+},
+{
+"id": "p06191008f6",
+"titre": "Adaptive Discrete Laplace Operator",
+"annee": 2011,
+"type": "conférence",
+"lieu": "ISVC 2011 - 7th International Symposium on Visual Computing",
+"url": "https://hal.science/hal-00659019v1"
+},
+{
+"id": "pde805a2d5d",
+"titre": "Décomposition d'un maillage triangulaire 3D en carreaux quadrangulés",
+"annee": 2011,
+"type": "journal",
+"lieu": "Revue Electronique Francophone d'Informatique Graphique",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-00857215v1"
+},
+{
+"id": "p2c499dfac6",
+"titre": "Evolutionary perspectives of high resolution three-dimensional comparisons of bony labyrinths in humans, chimpanzees and baboons",
+"annee": 2011,
+"type": "conférence",
+"lieu": "AAPA: American Association of Physical Anthropologists",
+"url": "https://inserm.hal.science/inserm-00649376v1"
+},
+{
+"id": "pc53de6c4a5",
+"titre": "Finding Robust Vertices for 3D Synchronization Based on Euclidean Minimum Spanning Tree",
+"annee": 2011,
+"type": "conférence",
+"lieu": "Electronic Imaging",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-00845510v1",
+"doi": "10.1117/12.872384"
+},
+{
+"id": "p7964dfcc0f",
+"titre": "First virtual reconstructions of the frontal lobe and temporal pole of the Taung (Australopithecus africanus) endocast",
+"annee": 2011,
+"type": "conférence",
+"lieu": "AAPA: American Association of Physical Anthropologists",
+"url": "https://inserm.hal.science/inserm-00649393v1"
+},
+{
+"id": "pce3afd3820",
+"titre": "Imagerie tridimensionnelle à haute résolution des labyrinthes osseux de l'Homme, des Chimpanzés et des Babouins : Perspectives évolutives",
+"annee": 2011,
+"type": "conférence",
+"lieu": "1836èmes journées de la Société d'Anthropologie de Paris (SAP)",
+"url": "https://inserm.hal.science/inserm-00814280v1",
+"doi": "10.1007/s13219-011-0037-z"
+},
+{
+"id": "pf687e9fcd2",
+"titre": "New 3D automatic methods for the analysis of the endocranial shape and its relationship with ectocranial structures: assessment and preliminary experiments",
+"annee": 2011,
+"type": "conférence",
+"lieu": "AAPA: American Association of Physical Anthropologists",
+"url": "https://inserm.hal.science/inserm-00649392v1"
+},
+{
+"id": "p4c5a100d26",
+"titre": "Orientations of Simplices Determined by Orderings on the Coordinates of their Vertices",
+"annee": 2011,
+"type": "conférence",
+"lieu": "CCCG 2011 - 23rd Canadian Conference on Computational Geometry",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-00741936v1"
+},
+{
+"id": "p0e6bb425c4",
+"titre": "Processing pipeline for digitalizing the lineage tree of early zebrafish embryogenesis from multiharmonic imaging",
+"annee": 2011,
+"type": "chapitre",
+"lieu": "Biomedical Imaging : From Nano to Macro",
+"url": "https://hal.science/hal-00723346v1",
+"doi": "10.1109/isbi.2011.5872699"
+},
+{
+"id": "p498af33491",
+"titre": "Une nouvelle méthode de morphométrie 3D par codage combinatoire de confgurations de points 3D: application à l'anatomie du crâne.",
+"annee": 2011,
+"type": "conférence",
+"lieu": "18ièmes Journées de la Societé d'Anthropologie de Paris",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-00815226v1"
+}
+]
+}

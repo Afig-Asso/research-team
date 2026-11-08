@@ -1,0 +1,1496 @@
+{
+"equipe": "LIX/VISTA",
+"publications": [
+{
+"id": "p9fc75cd475",
+"titre": "Authoring Terrestrial Planets with Diffusion Models",
+"annee": 2026,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-05608820v1",
+"doi": "10.1111/cgf.70390"
+},
+{
+"id": "p0f07fdbd73",
+"titre": "Deformable Polygonal Flow Matching with Informed Priors and Hierarchical Graph Constraints",
+"annee": 2026,
+"type": "conférence",
+"lieu": "40th Annual AAAI Conference on Artificial Intelligence",
+"url": "https://hal.science/hal-05502459v1"
+},
+{
+"id": "p8d955361be",
+"titre": "Dynamic Skinning: Kinematics-Driven Cartoon Effects for Articulated Characters",
+"annee": 2026,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://hal.science/hal-05838290v1",
+"doi": "10.1109/tvcg.2026.3653317"
+},
+{
+"id": "pf9ef931eb6",
+"titre": "Extreme continuous level of detail for skeleton-based implicit surfaces",
+"annee": 2026,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://hal.science/hal-05690636v1",
+"doi": "10.1016/j.cag.2026.104646"
+},
+{
+"id": "pe2fc9f02b4",
+"titre": "IdEst: Assessing Self-Supervised Learning Representations via Intrinsic Dimension",
+"annee": 2026,
+"type": "conférence",
+"lieu": "ICML 2026 - 43rd International Conference on Machine Learning",
+"url": "https://hal.science/hal-05640747v1"
+},
+{
+"id": "p2afafd7ba9",
+"titre": "Long Story Short: Story-level Video Understanding from 20K Short Films",
+"annee": 2026,
+"type": "journal",
+"lieu": "International Journal of Computer Vision",
+"url": "https://doi.org/10.1007/s11263-026-02940-x",
+"doi": "10.1007/s11263-026-02940-x"
+},
+{
+"id": "pfe5d36ca74",
+"titre": "MIRO: MultI-Reward cOnditioned pretraining improves T2I quality and efficiency",
+"annee": 2026,
+"type": "conférence",
+"lieu": "International Conference on Machine Learning",
+"url": "https://hal.science/hal-05725883v1"
+},
+{
+"id": "pa34ac9da23",
+"titre": "NeuralSketch2Surf: Fast Neural Surfacing of Unoriented 3D Sketches",
+"annee": 2026,
+"type": "conférence",
+"lieu": "Siggraph 2026 - ACM SIGGRAPH International Conference on Computer Graphics and Interactive Techniques",
+"url": "https://inria.hal.science/hal-05615004v1",
+"doi": "10.1145/3799902.3811227"
+},
+{
+"id": "peb169ae221",
+"titre": "ProxiVideoFriends: Revisiting Proxemics through Temporal and Social Reasoning",
+"annee": 2026,
+"type": "conférence",
+"lieu": "Proceedings of VISAPP 2026",
+"url": "https://hal.science/hal-05623277v1",
+"doi": "10.5220/0014345000004084"
+},
+{
+"id": "pebf1a1ade4",
+"titre": "Pulp Motion: framing-aware multimodal camera and human motion generation",
+"annee": 2026,
+"type": "conférence",
+"lieu": "ICLR 2026 - International Conference on Learning Representations",
+"url": "https://hal.science/hal-05584176v1"
+},
+{
+"id": "p72cbdd4daf",
+"titre": "Sketch2Growth: Generating Stochastic, Evolving Branching Shapes From a Single Sketch",
+"annee": 2026,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.70593",
+"doi": "10.1111/cgf.70593"
+},
+{
+"id": "p2a549b9738",
+"titre": "Soft-Di[M]O: Improving One-Step Discrete Image Generation with Soft Embeddings",
+"annee": 2026,
+"type": "conférence",
+"lieu": "ICLR 2026 - Fourteenth International Conference on Learning Representations",
+"url": "https://hal.science/hal-05566623v1"
+},
+{
+"id": "p8cc06c3eeb",
+"titre": "Stylizing 2D & 3D liquid animations through adaptive particle-based implicit fields",
+"annee": 2026,
+"type": "journal",
+"lieu": "Graphical Models",
+"url": "https://hal.science/hal-05727754v1",
+"doi": "10.1016/j.gmod.2026.101340"
+},
+{
+"id": "p5315f4d69a",
+"titre": "The PhaseTree: Multiphase Signed Distance Fields",
+"annee": 2026,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-05713515v1",
+"doi": "10.1145/3811379"
+},
+{
+"id": "p1990dfc54c",
+"titre": "VOX2Surf: Faithful surface extraction from coarse binary voxels",
+"annee": 2026,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://hal.science/hal-05657595v1",
+"doi": "10.1016/j.cag.2026.104649"
+},
+{
+"id": "p0f52c5f867",
+"titre": "When Surgery Meets the Unknown: Uncertainty-Aware Open-Set Recognition for Surgery Phase Classification",
+"annee": 2026,
+"type": "conférence",
+"lieu": "Proceedings of VISAPP 2026",
+"url": "https://hal.science/hal-05623280v1",
+"doi": "10.5220/0014311000004084"
+},
+{
+"id": "pc41dcb9d0d",
+"titre": "AKiRa: Augmentation Kit on Rays for optical video generation",
+"annee": 2025,
+"type": "conférence",
+"lieu": "CVPR 2025 - IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+"url": "https://hal.science/hal-05003836v1"
+},
+{
+"id": "p9e6a3f3d85",
+"titre": "Arenite: A Physics-based Sandstone Simulator",
+"annee": 2025,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-05168310v1",
+"doi": "10.1145/3731201"
+},
+{
+"id": "p8db8d6cf12",
+"titre": "Around the World in 80 Timesteps: A Generative Approach to Global Visual Geolocation",
+"annee": 2025,
+"type": "conférence",
+"lieu": "2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+"url": "https://hal.science/hal-05427428v1",
+"doi": "10.1109/cvpr52734.2025.02143"
+},
+{
+"id": "p0e0237f153",
+"titre": "Di[M]O: Distilling Masked Diffusion Models into One-step Generator",
+"annee": 2025,
+"type": "conférence",
+"lieu": "2025 International Conference on Computer Vision (ICCV 2025)",
+"url": "https://hal.science/hal-05413533v1"
+},
+{
+"id": "pdb1709b47b",
+"titre": "Herds From Video: Learning a Microscopic Herd Model From Macroscopic Motion Data",
+"annee": 2025,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.70225",
+"doi": "10.1111/cgf.70225"
+},
+{
+"id": "p0f83441bbf",
+"titre": "Imitation in relative terms using ReGAIL: Making motion controllers agile and transferable",
+"annee": 2025,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://hal.science/hal-05495422v1",
+"doi": "10.1016/j.cag.2025.104457"
+},
+{
+"id": "p7412ffc717",
+"titre": "Implicit Field-Based Stylization of 2D and 3D Liquid Animations",
+"annee": 2025,
+"type": "conférence",
+"lieu": "Smart Tools and Applications in Graphics (STAG)",
+"url": "https://hal.science/hal-05471896v1",
+"doi": "10.2312/stag.20251324"
+},
+{
+"id": "p6e8bb4a131",
+"titre": "LEAD: Latent Realignment for Human Motion Diffusion",
+"annee": 2025,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.70093",
+"doi": "10.1111/cgf.70093"
+},
+{
+"id": "p457202e0d8",
+"titre": "Lightweight Morphology-Aware Encoding for Motion Learning",
+"annee": 2025,
+"type": "conférence",
+"lieu": "Eurographics short paper",
+"url": "https://hal.science/hal-05147828v1",
+"doi": "10.2312/egs.20251048"
+},
+{
+"id": "p7968e1ce93",
+"titre": "MIRRORED-Anims: Motion Inversion for Rig-space Retargeting to Obtain a Reliable Enlarged Dataset of Character Animations",
+"annee": 2025,
+"type": "conférence",
+"lieu": "Motion, Interaction and Games",
+"url": "https://ip-paris.hal.science/hal-05374789v1",
+"doi": "10.1145/3769047.3769064"
+},
+{
+"id": "pf7c93c6f6a",
+"titre": "Multi-Dimensional Procedural Wave Noise",
+"annee": 2025,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://ip-paris.hal.science/hal-05089067v1",
+"doi": "10.1145/3730928"
+},
+{
+"id": "p0b86d79b3e",
+"titre": "PerceptualLift: Using hatches to infer a 3D organic shape from a sketch",
+"annee": 2025,
+"type": "conférence",
+"lieu": "Expressive + WICED 2025",
+"url": "https://hal.science/hal-05091483v1",
+"doi": "10.2312/exw.20251055"
+},
+{
+"id": "pd75a632df1",
+"titre": "ReConForM : Real‐time Contact‐aware Motion Retargeting for more Diverse Character Morphologies",
+"annee": 2025,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-05072116v1",
+"doi": "10.1111/cgf.70028"
+},
+{
+"id": "pc68147eb62",
+"titre": "Renal Transplant Survival Prediction From Unsupervised Deep Learning-Based Radiomics on Early Dynamic Contrast-Enhanced MRI",
+"annee": 2025,
+"type": "journal",
+"lieu": "Academic Radiology",
+"url": "https://hal.science/hal-05135621v1",
+"doi": "10.1016/j.acra.2025.05.001"
+},
+{
+"id": "p90348d2197",
+"titre": "RibbonSculpt: Voronoi Ball based 3D Sculpting from Sparse VR Ribbons",
+"annee": 2025,
+"type": "conférence",
+"lieu": "Proceedings of the SIGGRAPH Asia 2025 Conference Papers",
+"url": "https://inria.hal.science/hal-05330313v1",
+"doi": "10.1145/3757377.3763994"
+},
+{
+"id": "pd3918ab28f",
+"titre": "SMACC: Sketching Motion for Articulated Characters with Comics-based annotations",
+"annee": 2025,
+"type": "conférence",
+"lieu": "Pacific Graphics",
+"url": "https://hal.science/hal-05323494v1",
+"doi": "10.2312/pg.20251255"
+},
+{
+"id": "p33c9cdd1c4",
+"titre": "Studying Image Diffusion Features for Zero-Shot Video Object Segmentation",
+"annee": 2025,
+"type": "conférence",
+"lieu": "IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops",
+"url": "https://polytechnique.hal.science/hal-05026450v1"
+},
+{
+"id": "pc6c1f71f67",
+"titre": "T-REGS: Minimum Spanning Tree Regularization for Self-Supervised Learning",
+"annee": 2025,
+"type": "conférence",
+"lieu": "NeurIPS 2025 - Annual Conference on Neural Information Processing Systems",
+"url": "https://inria.hal.science/hal-05433730v1"
+},
+{
+"id": "p1309b80a57",
+"titre": "Training-Free Synthetic Data Generation with Dual IP-Adapter Guidance",
+"annee": 2025,
+"type": "conférence",
+"lieu": "British Machine Vision Conference (BMVC) 2025",
+"url": "https://hal.science/hal-05413554v1"
+},
+{
+"id": "peecf84cbcc",
+"titre": "VRSurf: Surface Creation from Sparse, Unoriented 3D Strokes",
+"annee": 2025,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.70071",
+"doi": "10.1111/cgf.70071"
+},
+{
+"id": "p15c17e68d5",
+"titre": "ADAPT: Multimodal Learning for Detecting Physiological Changes under Missing Modalities",
+"annee": 2024,
+"type": "conférence",
+"lieu": "MIDL 2024 - Medical Imaging with Deep Learning",
+"url": "https://hal.science/hal-04597429v1"
+},
+{
+"id": "p2c13288c77",
+"titre": "Analysis of Classifier-Free Guidance Weight Schedulers",
+"annee": 2024,
+"type": "journal",
+"lieu": "Transactions on Machine Learning Research",
+"url": "https://hal.science/hal-04823146v1",
+"doi": "10.48550/arxiv.2404.13040"
+},
+{
+"id": "p92c97c23fd",
+"titre": "Art-directable expressive oscillation behavior for rigged characters",
+"annee": 2024,
+"type": "conférence",
+"lieu": "Symposium on Computer Animation",
+"url": "https://hal.science/hal-04676297v1",
+"doi": "10.2312/sca.20241169"
+},
+{
+"id": "pf4049d9293",
+"titre": "Cinematographic Camera Diffusion Model",
+"annee": 2024,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-04826479v1",
+"doi": "10.1111/cgf.15055"
+},
+{
+"id": "p4bef52c3b9",
+"titre": "Conditional Gradient-based Textual Inversion",
+"annee": 2024,
+"type": "conférence",
+"lieu": "European Conference on Computer Vision (Workshop GreenFomo)",
+"url": "https://hal.science/hal-04713286v1"
+},
+{
+"id": "p7e99d4996a",
+"titre": "Don't Drop Your Samples! Coherence-Aware Training Benefits Conditional Diffusion",
+"annee": 2024,
+"type": "conférence",
+"lieu": "2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+"url": "https://hal.science/hal-05427418v1",
+"doi": "10.1109/cvpr52733.2024.00599"
+},
+{
+"id": "pb06ef6620d",
+"titre": "Driller: An Intuitive Interface for Designing Tangled and Nested Shapes",
+"annee": 2024,
+"type": "conférence",
+"lieu": "45th Eurographics 2024 - Short Papers",
+"url": "https://ip-paris.hal.science/hal-04824957v1",
+"doi": "10.2312/egs.20241025"
+},
+{
+"id": "pba035884a3",
+"titre": "DynBioSketch: A tool for sketching dynamic visual summaries in biology, and its application to infection phenomena",
+"annee": 2024,
+"type": "journal",
+"lieu": "Computers & Graphics",
+"url": "https://doi.org/10.1016/j.cag.2024.103956",
+"doi": "10.1016/j.cag.2024.103956"
+},
+{
+"id": "p2ec6eb5145",
+"titre": "E.T. the Exceptional Trajectories: Text-to-camera-trajectory generation with character awareness",
+"annee": 2024,
+"type": "conférence",
+"lieu": "ECCV 2024",
+"url": "https://hal.science/hal-04707138v1"
+},
+{
+"id": "pf2dfc1af18",
+"titre": "Expressive Animation Retiming from Impulse-Based Gestures",
+"annee": 2024,
+"type": "conférence",
+"lieu": "Motion, Interaction, and Games",
+"url": "https://ip-paris.hal.science/hal-04761328v1",
+"doi": "10.1145/3677388.3696323"
+},
+{
+"id": "pfb3ea35d2c",
+"titre": "FunnyNet-W: Multimodal Learning of Funny Moments in Videos in the Wild",
+"annee": 2024,
+"type": "journal",
+"lieu": "International Journal of Computer Vision",
+"url": "https://doi.org/10.1007/s11263-024-02000-2",
+"doi": "10.1007/s11263-024-02000-2"
+},
+{
+"id": "p26a6ad728b",
+"titre": "Generating Flight Summaries Conforming to Cinematographic Principles",
+"annee": 2024,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.15179",
+"doi": "10.1111/cgf.15179"
+},
+{
+"id": "p49ab33db6f",
+"titre": "NeRFail: Neural Radiance Fields-Based Multiview Adversarial Attack",
+"annee": 2024,
+"type": "conférence",
+"lieu": "Proceedings of the AAAI Conference on Artificial Intelligence",
+"url": "https://hal.science/hal-04826512v1",
+"doi": "10.1609/aaai.v38i19.30113"
+},
+{
+"id": "p86221890fd",
+"titre": "PhysOM: Physarum polycephalum Oriented Microstructures",
+"annee": 2024,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-04572077v2",
+"doi": "10.1111/cgf.15075"
+},
+{
+"id": "p1ef4e2b113",
+"titre": "ReGAIL: Toward Agile Character Control From a Single Reference Motion",
+"annee": 2024,
+"type": "conférence",
+"lieu": "MIG '24: The 17th ACM SIGGRAPH Conference on Motion, Interaction, and Games",
+"url": "https://hal.science/hal-04807545v1",
+"doi": "10.1145/3677388.3696330"
+},
+{
+"id": "p0c66320547",
+"titre": "Reactive Gaze during Locomotion in Natural Environments",
+"annee": 2024,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-04665242v1",
+"doi": "10.1111/cgf.15168"
+},
+{
+"id": "pc365bd7fd6",
+"titre": "TRAIL: Simulating the impact of human locomotion on natural landscapes",
+"annee": 2024,
+"type": "journal",
+"lieu": "The Visual Computer",
+"url": "https://doi.org/10.1007/s00371-024-03506-z",
+"doi": "10.1007/s00371-024-03506-z"
+},
+{
+"id": "p800fca680f",
+"titre": "TwisterForge: controllable and efficient animation of virtual tornadoes",
+"annee": 2024,
+"type": "conférence",
+"lieu": "MIG 2024 - The 17th Annual ACM SIGGRAPH Conference on Motion, Interaction and Games",
+"url": "https://hal.science/hal-04778664v2",
+"doi": "10.1145/3677388.3696335"
+},
+{
+"id": "pe9bdaaf8fe",
+"titre": "Unerosion: Simulating Terrain Evolution Back in Time",
+"annee": 2024,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-04714138v1",
+"doi": "10.1111/cgf.15182"
+},
+{
+"id": "pc06a3979b1",
+"titre": "Volcanic Skies: coupling explosive eruptions with atmospheric simulation to create consistent skyscapes",
+"annee": 2024,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-04527448v1",
+"doi": "10.1111/cgf.15034"
+},
+{
+"id": "p174cf0f95b",
+"titre": "With or Without You: Effect of Contextual and Responsive Crowds on VR-based Crowd Motion Capture",
+"annee": 2024,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://doi.org/10.1109/tvcg.2024.3372038",
+"doi": "10.1109/tvcg.2024.3372038"
+},
+{
+"id": "p8876773d64",
+"titre": "Your diffusion model is an implicit synthetic image detector",
+"annee": 2024,
+"type": "conférence",
+"lieu": "European Conference on Computer Vision (Workshop TWYN)",
+"url": "https://hal.science/hal-04713283v1"
+},
+{
+"id": "pe03f45f669",
+"titre": "BluNF: Blueprint Neural Field",
+"annee": 2023,
+"type": "conférence",
+"lieu": "ICCW AI3DCC",
+"url": "https://ip-paris.hal.science/hal-04205896v1"
+},
+{
+"id": "pefa16bc425",
+"titre": "Collision Free Simplification for 2D Multi-Layered Shapes",
+"annee": 2023,
+"type": "conférence",
+"lieu": "International Conference on Interactive Media, Smart Systems and Emerging Technologies",
+"url": "https://hal.science/hal-04215443v1"
+},
+{
+"id": "pd148ccafa4",
+"titre": "Floor Plan Reconstruction from Sparse Views: Combining Graph Neural Network with Constrained Diffusion",
+"annee": 2023,
+"type": "conférence",
+"lieu": "ICCV Workshop on Computer Vision Aided Architectural Design",
+"url": "https://hal.science/hal-04216274v1"
+},
+{
+"id": "p38bd5cd154",
+"titre": "Forming Terrains by Glacial Erosion",
+"annee": 2023,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://doi.org/10.1145/3592422",
+"doi": "10.1145/3592422"
+},
+{
+"id": "pbd49b36049",
+"titre": "Heat Simulation on Meshless Crafted-Made Shapes",
+"annee": 2023,
+"type": "conférence",
+"lieu": "Motion, Interaction and Games",
+"url": "https://hal.science/hal-04215955v2",
+"doi": "10.1145/3623264.3624457"
+},
+{
+"id": "p9c6626ebae",
+"titre": "JAWS: Just A Wild Shot for Cinematic Transfer in Neural Radiance Fields",
+"annee": 2023,
+"type": "conférence",
+"lieu": "CVPR 2023 - IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+"url": "https://inria.hal.science/hal-04046701v1",
+"doi": "10.1109/icra48891.2023.10160963"
+},
+{
+"id": "pd94fbaed97",
+"titre": "MEDIMP: 3D Medical Images with clinical Prompts from limited tabular data for renal transplantation",
+"annee": 2023,
+"type": "conférence",
+"lieu": "MIDL 2023 - Medical Imaging with Deep Learning",
+"url": "https://centralesupelec.hal.science/hal-04040697v2"
+},
+{
+"id": "p55058bc898",
+"titre": "PerfectDart: Automatic Dart Design for Garment Fitting",
+"annee": 2023,
+"type": "conférence",
+"lieu": "SA'2023, SIGGRAPH Asia Technical Communications",
+"url": "https://hal.science/hal-04347776v1",
+"doi": "10.1145/3610543.3626154"
+},
+{
+"id": "pb5d5221516",
+"titre": "PointCloudSlicer: Gesture-based segmentation of point clouds",
+"annee": 2023,
+"type": "conférence",
+"lieu": "44th Annual Conference of the European Association for Computer Graphics (EUROGRAPHICS 2023)",
+"url": "https://hal.science/hal-04013673v1"
+},
+{
+"id": "p4ce682609e",
+"titre": "Real-time Computational Cinematographic Editing for Broadcasting of Volumetric-captured events: an Application to Ultimate Fighting",
+"annee": 2023,
+"type": "conférence",
+"lieu": "16th ACM SIGGRAPH Conference on Motion, Interaction and Games (MIG '23)",
+"url": "https://hal.science/hal-04394781v1",
+"doi": "10.1145/3623264.3624468"
+},
+{
+"id": "p1c1a153f52",
+"titre": "Reward Function Design for Crowd Simulation via Reinforcement Learning",
+"annee": 2023,
+"type": "conférence",
+"lieu": "MIG 2023 - 16th ACM SIGGRAPH Conference on Motion, Interaction and Games",
+"url": "https://inria.hal.science/hal-04377287v1",
+"doi": "10.1145/3623264.3624452"
+},
+{
+"id": "p143da9c7b5",
+"titre": "Robust Pointset Denoising of Piecewise-Smooth Surfaces through Line Processes",
+"annee": 2023,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://polytechnique.hal.science/hal-04027983v1",
+"doi": "10.1111/cgf.14752"
+},
+{
+"id": "p83b4d81199",
+"titre": "Transformers and Visual Transformers",
+"annee": 2023,
+"type": "chapitre",
+"lieu": "Machine Learning for Brain Disorders",
+"url": "https://hal.science/hal-04239600v1",
+"doi": "10.1007/978-1-0716-3195-9_6"
+},
+{
+"id": "p1b5b5f114a",
+"titre": "A Survey on Reinforcement Learning Methods in Character Animation",
+"annee": 2022,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.14504",
+"doi": "10.1111/cgf.14504"
+},
+{
+"id": "p583b0c12e4",
+"titre": "Acceleration Skinning: Kinematics-Driven Cartoon Effects for Articulated Characters",
+"annee": 2022,
+"type": "conférence",
+"lieu": "Graphics Interface",
+"url": "https://hal.science/hal-03670370v1"
+},
+{
+"id": "pcad5a686de",
+"titre": "An Analytical Algorithm for Tensor Tomography from Projections Acquired about Three Axes",
+"annee": 2022,
+"type": "journal",
+"lieu": "IEEE Transactions on Medical Imaging",
+"url": "https://ip-paris.hal.science/hal-03738159v1",
+"doi": "10.1109/tmi.2022.3186983"
+},
+{
+"id": "pf72f57abc8",
+"titre": "Binary Graph Descriptor for Robust Relocalization on Heterogeneous Data",
+"annee": 2022,
+"type": "journal",
+"lieu": "IEEE Robotics and Automation Letters",
+"url": "https://doi.org/10.1109/lra.2022.3142854",
+"doi": "10.1109/lra.2022.3142854"
+},
+{
+"id": "pd64f0272f1",
+"titre": "Constrative Learning for Kidney Transplant Analysis using MRI data and Deep Convolutional Networks",
+"annee": 2022,
+"type": "conférence",
+"lieu": "Medical Imaging with Deep Learning 2022",
+"url": "https://hal.science/hal-04528420v1"
+},
+{
+"id": "pc8f3e6d767",
+"titre": "Delaunay Painting: Perceptual Image Colouring from Raster Contours with Gaps",
+"annee": 2022,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.14517",
+"doi": "10.1111/cgf.14517"
+},
+{
+"id": "pfd3b7a23a7",
+"titre": "Generating Upper-Body Motion for Real-Time Characters Making their Way through Dynamic Environments",
+"annee": 2022,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://ip-paris.hal.science/hal-03757439v1",
+"doi": "10.1111/cgf.14633"
+},
+{
+"id": "p82b63ba773",
+"titre": "Growth of oriented orthotropic structures with reaction/diffusion",
+"annee": 2022,
+"type": "journal",
+"lieu": "Structural and Multidisciplinary Optimization",
+"url": "https://hal.science/hal-03842830v1",
+"doi": "10.1007/s00158-022-03395-7"
+},
+{
+"id": "p391e05a4f4",
+"titre": "Interactive simulation of plume and pyroclastic volcanic ejections",
+"annee": 2022,
+"type": "journal",
+"lieu": "Proceedings of the ACM on Computer Graphics and Interactive Techniques",
+"url": "https://doi.org/10.1145/3522609",
+"doi": "10.1145/3522609"
+},
+{
+"id": "p6f35332e73",
+"titre": "Real-Time Locomotion on Soft Grounds With Dynamic Footprints",
+"annee": 2022,
+"type": "journal",
+"lieu": "Frontiers in Virtual Reality",
+"url": "https://doi.org/10.3389/frvir.2022.801856",
+"doi": "10.3389/frvir.2022.801856"
+},
+{
+"id": "pc7b2b1225f",
+"titre": "See360: Novel Panoramic View Interpolation",
+"annee": 2022,
+"type": "journal",
+"lieu": "IEEE Transactions on Image Processing",
+"url": "https://doi.org/10.1109/tip.2022.3148819",
+"doi": "10.1109/tip.2022.3148819"
+},
+{
+"id": "p942bb90c1a",
+"titre": "Structured Shape-Patterns from a Sketch: A Multi-Scale Approach",
+"annee": 2022,
+"type": "conférence",
+"lieu": "Graphics Interface",
+"url": "https://hal.science/hal-03706546v1"
+},
+{
+"id": "pfc693ac31f",
+"titre": "The One-Man-Crowd: Single User Generation of Crowd Motions Using Virtual Reality",
+"annee": 2022,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://doi.org/10.1109/tvcg.2022.3150507",
+"doi": "10.1109/tvcg.2022.3150507"
+},
+{
+"id": "p21c37ff6ff",
+"titre": "Understanding reinforcement learned crowds",
+"annee": 2022,
+"type": "journal",
+"lieu": "Computers & Graphics",
+"url": "https://doi.org/10.1016/j.cag.2022.11.007",
+"doi": "10.1016/j.cag.2022.11.007"
+},
+{
+"id": "p9e7cda5835",
+"titre": "Authoring Consistent Landscapes with Flora and Fauna",
+"annee": 2021,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-03245206v1",
+"doi": "10.1145/3450626.3459952"
+},
+{
+"id": "p42edde52c9",
+"titre": "Camera keyframing with style and control",
+"annee": 2021,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://doi.org/10.1145/3478513.3480533",
+"doi": "10.1145/3478513.3480533"
+},
+{
+"id": "pdd740cbb10",
+"titre": "Fashion Transfer: Dressing 3D Characters from Stylized Fashion Sketches",
+"annee": 2021,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.14390",
+"doi": "10.1111/cgf.14390"
+},
+{
+"id": "p60ba3e15bf",
+"titre": "Growing Optimized Anisotropic Microstructures with Reaction/Diffusion",
+"annee": 2021,
+"type": "conférence",
+"lieu": "Journées Françaises d’Informatique Graphique",
+"url": "https://cnrs.hal.science/hal-03841181v1"
+},
+{
+"id": "pd424361682",
+"titre": "Multiple Style Transfer Via Variational Autoencoder",
+"annee": 2021,
+"type": "conférence",
+"lieu": "2021 IEEE International Conference on Image Processing (ICIP)",
+"url": "https://polytechnique.hal.science/hal-03353538v1",
+"doi": "10.1109/icip42928.2021.9506379"
+},
+{
+"id": "p39920a7a57",
+"titre": "Soft Walks: Real-Time, Two-Ways Interaction between a Character and Loose Grounds",
+"annee": 2021,
+"type": "conférence",
+"lieu": "Eurographics (Short)",
+"url": "https://polytechnique.hal.science/hal-03200160v3"
+},
+{
+"id": "p4552d5e659",
+"titre": "UGaitNet: Multimodal Gait Recognition With Missing Input Modalities",
+"annee": 2021,
+"type": "journal",
+"lieu": "IEEE Transactions on Information Forensics and Security",
+"url": "https://doi.org/10.1109/tifs.2021.3132579",
+"doi": "10.1109/tifs.2021.3132579"
+},
+{
+"id": "p50726b2c8c",
+"titre": "Urban Brush: Intuitive and Controllable Urban Layout Editing",
+"annee": 2021,
+"type": "conférence",
+"lieu": "UIST '21: The 34th Annual ACM Symposium on User Interface Software and Technology",
+"url": "https://hal.science/hal-03431693v1",
+"doi": "10.1145/3472749.3474787"
+},
+{
+"id": "p3741b88c80",
+"titre": "Velocity Skinning for Real-time Stylized Skeletal Animation",
+"annee": 2021,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://polytechnique.hal.science/hal-03195315v1"
+},
+{
+"id": "p1e04c4c0a8",
+"titre": "Velocity Skinning for Real‐time Stylized Skeletal Animation",
+"annee": 2021,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.142654",
+"doi": "10.1111/cgf.142654"
+},
+{
+"id": "p0f74754f8e",
+"titre": "Content-aware texture deformation with dynamic control",
+"annee": 2020,
+"type": "journal",
+"lieu": "Computers & Graphics",
+"url": "https://doi.org/10.1016/j.cag.2020.07.006",
+"doi": "10.1016/j.cag.2020.07.006"
+},
+{
+"id": "p3942884c09",
+"titre": "Example-driven virtual cinematography by learning camera behaviors",
+"annee": 2020,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://doi.org/10.1145/3386569.3392427",
+"doi": "10.1145/3386569.3392427"
+},
+{
+"id": "p344ea7b18e",
+"titre": "Interactive Meso‐scale Simulation of Skyscapes",
+"annee": 2020,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.13954",
+"doi": "10.1111/cgf.13954"
+},
+{
+"id": "p1f44fd04d6",
+"titre": "LAEO-Net++: Revisiting People Looking at Each Other in Videos",
+"annee": 2020,
+"type": "journal",
+"lieu": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+"url": "https://doi.org/10.1109/tpami.2020.3048482",
+"doi": "10.1109/tpami.2020.3048482"
+},
+{
+"id": "p7896326890",
+"titre": "Nouvelles images : l’intelligence artificielle au service de la créativité",
+"annee": 2020,
+"type": "journal",
+"lieu": "Raison présente",
+"url": "https://doi.org/10.3917/rpre.214.0089",
+"doi": "10.3917/rpre.214.0089"
+},
+{
+"id": "pf098ef06c5",
+"titre": "A Review of Digital Terrain Modeling",
+"annee": 2019,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.13657",
+"doi": "10.1111/cgf.13657"
+},
+{
+"id": "p53e837695a",
+"titre": "Accurate Synthesis of Multi‐Class Disk Distributions",
+"annee": 2019,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.13627",
+"doi": "10.1111/cgf.13627"
+},
+{
+"id": "pc5d9a37fcc",
+"titre": "Animation Synthesis Triggered by Vocal Mimics",
+"annee": 2019,
+"type": "conférence",
+"lieu": "Motion, Interaction and Games",
+"url": "https://hal.science/hal-02307215v1",
+"doi": "10.1145/3359566.3360067"
+},
+{
+"id": "pe11d537204",
+"titre": "Automatic structuring of organic shapes from a single drawing",
+"annee": 2019,
+"type": "journal",
+"lieu": "Computers & Graphics",
+"url": "https://doi.org/10.1016/j.cag.2019.04.006",
+"doi": "10.1016/j.cag.2019.04.006"
+},
+{
+"id": "p8b4f4ef270",
+"titre": "Dendry: A Procedural Model for Dendritic Patterns",
+"annee": 2019,
+"type": "conférence",
+"lieu": "The ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games",
+"url": "https://hal.science/hal-02150651v1"
+},
+{
+"id": "p20b8d533ec",
+"titre": "Designing chain reaction contraptions from causal graphs",
+"annee": 2019,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://doi.org/10.1145/3306346.3322977",
+"doi": "10.1145/3306346.3322977"
+},
+{
+"id": "p13895f7daa",
+"titre": "Image‐based authoring of herd animations",
+"annee": 2019,
+"type": "journal",
+"lieu": "Computer Animation and Virtual Worlds",
+"url": "https://doi.org/10.1002/cav.1903",
+"doi": "10.1002/cav.1903"
+},
+{
+"id": "pbf2418ab6d",
+"titre": "Implicit untangling",
+"annee": 2019,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://doi.org/10.1145/3306346.3323010",
+"doi": "10.1145/3306346.3323010"
+},
+{
+"id": "p11d94c3f40",
+"titre": "Nested Explorative Maps: A new 3D canvas for conceptual design in architecture",
+"annee": 2019,
+"type": "journal",
+"lieu": "Computers & Graphics",
+"url": "https://doi.org/10.1016/j.cag.2019.05.027",
+"doi": "10.1016/j.cag.2019.05.027"
+},
+{
+"id": "p4fef2d4d84",
+"titre": "Spatial Motion Doodles: Sketching Animation in VR Using Hand Gestures and Laban Motion Analysis",
+"annee": 2019,
+"type": "conférence",
+"lieu": "MIG 2019 - ACM SIGGRAPH Conference on Motion, Interaction and Games",
+"url": "https://hal.science/hal-02303803v1",
+"doi": "10.1145/3359566.3360061"
+},
+{
+"id": "p0a8427a3df",
+"titre": "A proposal of experimental protocol to assembly scanning",
+"annee": 2018,
+"type": "journal",
+"lieu": "Computer-Aided Design and Applications",
+"url": "https://doi.org/10.1080/16864360.2017.1397892",
+"doi": "10.1080/16864360.2017.1397892"
+},
+{
+"id": "pf07d929b6d",
+"titre": "An Explicit Isometric Reduction of the Unit Sphere into an Arbitrarily Small Ball",
+"annee": 2018,
+"type": "journal",
+"lieu": "Foundations of Computational Mathematics",
+"url": "https://inria.hal.science/hal-01647062v1",
+"doi": "10.1007/s10208-017-9360-1"
+},
+{
+"id": "p8352e1c60a",
+"titre": "Automatic Generation of Geological Stories from a Single Sketch",
+"annee": 2018,
+"type": "conférence",
+"lieu": "Expressive ’18 - The Joint Symposium on Computational Aesthetics and Sketch Based Interfaces and Modeling and Non-Photorealistic Animation and Rendering",
+"url": "https://inria.hal.science/hal-01817923v1",
+"doi": "10.1145/3229147.3229161"
+},
+{
+"id": "pa987f3843a",
+"titre": "Exploratory design of mechanical devices with motion constraints",
+"annee": 2018,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://hal.science/hal-01828500v1",
+"doi": "10.1016/j.cag.2018.05.023"
+},
+{
+"id": "pec4eb941d5",
+"titre": "Interactive Generation of Time‐evolving, Snow‐Covered Landscapes with Avalanches",
+"annee": 2018,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.13379",
+"doi": "10.1111/cgf.13379"
+},
+{
+"id": "p01a251f8fd",
+"titre": "Progressive and Efficient Multi-Resolution Representations for Brain Tractograms",
+"annee": 2018,
+"type": "conférence",
+"lieu": "Eurographics Workshop on Visual Computing for Biology and Medicine (EG VCBM)",
+"url": "https://hal.science/hal-01865128v1"
+},
+{
+"id": "pb9e85478b2",
+"titre": "Une approche implicite pour la modélisation de couches de vêtements",
+"annee": 2018,
+"type": "conférence",
+"lieu": "GTMG 2018 - Journées du Groupe de Travail en Modélisation Géométrique",
+"url": "https://hal.science/hal-02118948v1"
+},
+{
+"id": "p6986f3b895",
+"titre": "Authoring landscapes by combining ecosystem and terrain erosion simulation",
+"annee": 2017,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://doi.org/10.1145/3072959.3073667",
+"doi": "10.1145/3072959.3073667"
+},
+{
+"id": "p2fdfd2f29a",
+"titre": "Bi‐Layer textures: a Model for Synthesis and Deformation of Composite Textures",
+"annee": 2017,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.13229",
+"doi": "10.1111/cgf.13229"
+},
+{
+"id": "p812da4a917",
+"titre": "Deformation Grammars: Hierarchical Constraint Preservation Under Deformation",
+"annee": 2017,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.13090",
+"doi": "10.1111/cgf.13090"
+},
+{
+"id": "pf2449b7e98",
+"titre": "EcoBrush: Interactive Control of Visually Consistent Large-Scale Ecosystems",
+"annee": 2017,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.13107",
+"doi": "10.1111/cgf.13107"
+},
+{
+"id": "p2396e37122",
+"titre": "Interactive paper tearing",
+"annee": 2017,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-01647113v1",
+"doi": "10.1111/cgf.13110"
+},
+{
+"id": "pb783bc68d8",
+"titre": "Learning to Group Discrete Graphical Patterns",
+"annee": 2017,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-01703062v1"
+},
+{
+"id": "p6bb1bb5dc2",
+"titre": "Patterns from photograph: Reverse-engineering developable products",
+"annee": 2017,
+"type": "journal",
+"lieu": "Computers & Graphics",
+"url": "https://doi.org/10.1016/j.cag.2017.05.017",
+"doi": "10.1016/j.cag.2017.05.017"
+},
+{
+"id": "p51cf42204e",
+"titre": "Sculpting Mountains: Interactive Terrain Modeling Based on Subsurface Geology",
+"annee": 2017,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://doi.org/10.1109/tvcg.2017.2689022",
+"doi": "10.1109/tvcg.2017.2689022"
+},
+{
+"id": "pa8e43ef861",
+"titre": "Adaptive Physically Based Models in Computer Graphics",
+"annee": 2016,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.12941",
+"doi": "10.1111/cgf.12941"
+},
+{
+"id": "p269f6d20d0",
+"titre": "Analysing Domain Shift Factors between Videos and Images for Object Detection",
+"annee": 2016,
+"type": "journal",
+"lieu": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+"url": "https://doi.org/10.1109/tpami.2016.2551239",
+"doi": "10.1109/tpami.2016.2551239"
+},
+{
+"id": "p465017e290",
+"titre": "Informatique et sciences numériques",
+"annee": 2016,
+"type": "journal",
+"lieu": "L’annuaire du Collège de France",
+"url": "https://doi.org/10.4000/annuaire-cdf.12595",
+"doi": "10.4000/annuaire-cdf.12595"
+},
+{
+"id": "pa539674db2",
+"titre": "Large Scale Terrain Generation from Tectonic Uplift and Fluvial Erosion",
+"annee": 2016,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.12820",
+"doi": "10.1111/cgf.12820"
+},
+{
+"id": "p6e502ae802",
+"titre": "Modeling Symmetric Developable Surfaces from a Single Photo",
+"annee": 2016,
+"type": "conférence",
+"lieu": "Journées Françaises d’Informatique Graphique",
+"url": "https://inria.hal.science/hal-01670545v1"
+},
+{
+"id": "pe84ccecd68",
+"titre": "Programmable Animation Texturing using Motion Stamps",
+"annee": 2016,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.13004",
+"doi": "10.1111/cgf.13004"
+},
+{
+"id": "p81d8a1424d",
+"titre": "Real-time sound synthesis for paper material based on geometric analysis",
+"annee": 2016,
+"type": "conférence",
+"lieu": "ACM SIGGRAPH/Eurographics Symposium on Computer Animation (SCA'16)",
+"url": "https://inria.hal.science/hal-01333238v3"
+},
+{
+"id": "pd83c485870",
+"titre": "Space-time sculpting of liquid animation",
+"annee": 2016,
+"type": "conférence",
+"lieu": "Motion In Games",
+"url": "https://inria.hal.science/hal-01367181v1",
+"doi": "10.1145/2994258.2994261"
+},
+{
+"id": "p25b5891245",
+"titre": "Animation interactive de papier froissé",
+"annee": 2015,
+"type": "conférence",
+"lieu": "Journées du Groupe de Travail de Modélisation Géométrique",
+"url": "https://hal.science/hal-01146948v1"
+},
+{
+"id": "pc3cbf4f382",
+"titre": "Déformation d’objet complexe par graphe d’interaction",
+"annee": 2015,
+"type": "conférence",
+"lieu": "GTMG - Groupe de Travail en Modélisation Géométrique",
+"url": "https://inria.hal.science/hal-01153787v1"
+},
+{
+"id": "p73f6a76bb6",
+"titre": "Façonner l’imaginaire",
+"annee": 2015,
+"type": "journal",
+"lieu": "La lettre du Collège de France",
+"url": "https://doi.org/10.4000/lettre-cdf.2078",
+"doi": "10.4000/lettre-cdf.2078"
+},
+{
+"id": "p6698656c86",
+"titre": "Identifying Perceptually Salient Features on 2D Shapes",
+"annee": 2015,
+"type": "chapitre",
+"lieu": "Association for Women in Mathematics series",
+"url": "https://doi.org/10.1007/978-3-319-16348-2_9",
+"doi": "10.1007/978-3-319-16348-2_9"
+},
+{
+"id": "p933f93376f",
+"titre": "Interactively animating crumpling paper",
+"annee": 2015,
+"type": "conférence",
+"lieu": "womEncourage 2015",
+"url": "https://inria.hal.science/hal-01146700v1"
+},
+{
+"id": "p7fa5fca036",
+"titre": "My Corporis Fabrica Embryo: An ontology-based 3D spatio-temporal modeling of human embryo development",
+"annee": 2015,
+"type": "journal",
+"lieu": "Journal of Biomedical Semantics",
+"url": "https://inria.hal.science/hal-01214229v1",
+"doi": "10.1186/s13326-015-0034-0"
+},
+{
+"id": "p8a1c0cb21e",
+"titre": "Nonsmooth Developable Geometry for Interactively Animating Paper Crumpling",
+"annee": 2015,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://doi.org/10.1145/2829948",
+"doi": "10.1145/2829948"
+},
+{
+"id": "p9795439fcf",
+"titre": "Real-time continuous self-replicating details for shape deformation",
+"annee": 2015,
+"type": "journal",
+"lieu": "Computers & Graphics",
+"url": "https://doi.org/10.1016/j.cag.2015.05.011",
+"doi": "10.1016/j.cag.2015.05.011"
+},
+{
+"id": "p34db241a4b",
+"titre": "Replaceable Substructures for Efficient Part‐Based Modeling",
+"annee": 2015,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.12579",
+"doi": "10.1111/cgf.12579"
+},
+{
+"id": "pe20d75357d",
+"titre": "Sketching Folds",
+"annee": 2015,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://doi.org/10.1145/2749458",
+"doi": "10.1145/2749458"
+},
+{
+"id": "p4a5f0a6681",
+"titre": "Space-time sketching of character animation",
+"annee": 2015,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://doi.org/10.1145/2766893",
+"doi": "10.1145/2766893"
+},
+{
+"id": "pe3b496bdd0",
+"titre": "Synthèse de son de papier adaptée au mouvement et à la géométrie de la surface",
+"annee": 2015,
+"type": "conférence",
+"lieu": "Journée de l'AFIG",
+"url": "https://inria.hal.science/hal-01240030v1"
+},
+{
+"id": "p0b2fe8adc0",
+"titre": "WorldBrush",
+"annee": 2015,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://doi.org/10.1145/2766975",
+"doi": "10.1145/2766975"
+},
+{
+"id": "pb2850a05f4",
+"titre": "Crowd sculpting: A space‐time sculpting method for populating virtual environments",
+"annee": 2014,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.12316",
+"doi": "10.1111/cgf.12316"
+},
+{
+"id": "pbeda635a1f",
+"titre": "Feature-based terrain editing from complex sketches",
+"annee": 2014,
+"type": "journal",
+"lieu": "Computers & Graphics",
+"url": "https://doi.org/10.1016/j.cag.2014.09.001",
+"doi": "10.1016/j.cag.2014.09.001"
+},
+{
+"id": "p6483e0eeee",
+"titre": "Interactive Procedural Modelling of Coherent Waterfall Scenes",
+"annee": 2014,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.12515",
+"doi": "10.1111/cgf.12515"
+},
+{
+"id": "p66d6f29d2c",
+"titre": "Les surfaces gagnent du volume",
+"annee": 2014,
+"type": "journal",
+"lieu": "Quadrature",
+"url": "https://inria.hal.science/hal-01017885v1"
+},
+{
+"id": "p6525f6bcfc",
+"titre": "Modeling 3D animals from a side-view sketch",
+"annee": 2014,
+"type": "journal",
+"lieu": "Computers & Graphics",
+"url": "https://doi.org/10.1016/j.cag.2014.09.037",
+"doi": "10.1016/j.cag.2014.09.037"
+},
+{
+"id": "p9e330583a7",
+"titre": "N-ary implicit blends with topology control",
+"annee": 2014,
+"type": "journal",
+"lieu": "Computers & Graphics",
+"url": "https://doi.org/10.1016/j.cag.2014.09.012",
+"doi": "10.1016/j.cag.2014.09.012"
+},
+{
+"id": "p10f1b51e97",
+"titre": "Robust iso-surface tracking for interactive character skinning",
+"annee": 2014,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://doi.org/10.1145/2661229.2661264",
+"doi": "10.1145/2661229.2661264"
+},
+{
+"id": "p364fdec0a8",
+"titre": "A gradient-based implicit blend",
+"annee": 2013,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://doi.org/10.1145/2451236.2451238",
+"doi": "10.1145/2451236.2451238"
+},
+{
+"id": "pbf32cc9095",
+"titre": "Anatomy transfer",
+"annee": 2013,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://doi.org/10.1145/2508363.2508415",
+"doi": "10.1145/2508363.2508415"
+},
+{
+"id": "pb68184f60d",
+"titre": "Duplication de détails pour la déformation de surfaces",
+"annee": 2013,
+"type": "conférence",
+"lieu": "GTMG 2013 - Groupe de Travail en Modélisation Géométrique",
+"url": "https://hal.science/hal-00819277v1"
+},
+{
+"id": "p6f98b7c295",
+"titre": "Implicit skinning",
+"annee": 2013,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://doi.org/10.1145/2461912.2461960",
+"doi": "10.1145/2461912.2461960"
+},
+{
+"id": "p890888d564",
+"titre": "Mutable elastic models for sculpting structured shapes",
+"annee": 2013,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.12022",
+"doi": "10.1111/cgf.12022"
+},
+{
+"id": "p4adac46595",
+"titre": "SCALe‐invariant Integral Surfaces",
+"annee": 2013,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.12199",
+"doi": "10.1111/cgf.12199"
+},
+{
+"id": "pad27680456",
+"titre": "Sculpting multi-dimensional nested structures",
+"annee": 2013,
+"type": "journal",
+"lieu": "Computers & Graphics",
+"url": "https://doi.org/10.1016/j.cag.2013.05.010",
+"doi": "10.1016/j.cag.2013.05.010"
+},
+{
+"id": "p2253be46f7",
+"titre": "The line of action",
+"annee": 2013,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://doi.org/10.1145/2508363.2508397",
+"doi": "10.1145/2508363.2508397"
+},
+{
+"id": "p6f1f799e55",
+"titre": "Design preserving garment transfer",
+"annee": 2012,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://doi.org/10.1145/2185520.2185532",
+"doi": "10.1145/2185520.2185532"
+},
+{
+"id": "pc434bb7c1f",
+"titre": "Diffusion Tensor Magnetic Resonance Imaging-Derived Myocardial Fiber Disarray in Hypertensive Left Ventricular Hypertrophy: Visualization, Quantification and the Effect on Mechanical Function",
+"annee": 2012,
+"type": "chapitre",
+"lieu": "Cardiac Mapping, 4th Edition",
+"url": "https://inria.hal.science/hal-00765985v1",
+"doi": "10.1002/9781118481585.ch53"
+},
+{
+"id": "pae367a271b",
+"titre": "Déformation de la peau d'un personnage avec prise en compte des contacts",
+"annee": 2012,
+"type": "journal",
+"lieu": "Revue Electronique Francophone d'Informatique Graphique",
+"url": "https://hal.science/hal-00819243v1"
+},
+{
+"id": "pda25452f83",
+"titre": "Procedural generation of villages on arbitrary terrains",
+"annee": 2012,
+"type": "journal",
+"lieu": "The Visual Computer",
+"url": "https://doi.org/10.1007/s00371-012-0699-7",
+"doi": "10.1007/s00371-012-0699-7"
+},
+{
+"id": "p613e060e7c",
+"titre": "3D Modeling of branching vessels from anatomical sketches: towards a new interactive teaching of anatomy",
+"annee": 2011,
+"type": "journal",
+"lieu": "Surgical and Radiologic Anatomy",
+"url": "https://doi.org/10.1007/s00276-011-0827-5",
+"doi": "10.1007/s00276-011-0827-5"
+},
+{
+"id": "pad5a0ca810",
+"titre": "Convolution surfaces based on polygonal curve skeletons",
+"annee": 2011,
+"type": "journal",
+"lieu": "Journal of Symbolic Computation",
+"url": "https://doi.org/10.1016/j.jsc.2011.12.026",
+"doi": "10.1016/j.jsc.2011.12.026"
+},
+{
+"id": "p5c708324c5",
+"titre": "Folded Paper Geometry from 2D Pattern and 3D Contour",
+"annee": 2011,
+"type": "conférence",
+"lieu": "Eurographics 2011 (short paper)",
+"url": "https://inria.hal.science/inria-00567408v1"
+},
+{
+"id": "p60598296bb",
+"titre": "Freestyle: Sculpting meshes with self-adaptive topology",
+"annee": 2011,
+"type": "journal",
+"lieu": "Computers & Graphics",
+"url": "https://doi.org/10.1016/j.cag.2011.03.033",
+"doi": "10.1016/j.cag.2011.03.033"
+},
+{
+"id": "p135e4ea19f",
+"titre": "Warp-based helical implicit primitives",
+"annee": 2011,
+"type": "journal",
+"lieu": "Computers & Graphics",
+"url": "https://doi.org/10.1016/j.cag.2011.03.027",
+"doi": "10.1016/j.cag.2011.03.027"
+}
+]
+}

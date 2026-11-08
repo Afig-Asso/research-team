@@ -1,0 +1,81 @@
+equipe: Inria/GraphDeco
+domaines:
+  principaux:
+  - rendu
+  - modelisation
+  secondaires:
+  - ia
+  - capture
+  - animation
+themes:
+- id: rendu_neuronal
+  phrase: Gaussian splatting 3D pour la synthèse de nouvelles vues temps réel, sa mise à l'échelle, son tracé de rayons et
+    son édition ; rendu libre point de vue à partir de photos, avec mélange appris et rendu neuronal à base de points.
+  preuves:
+  - p45c847bb25
+  - p367b108c69
+  - pd1521f2a0a
+  - p1d5a82856d
+- id: sketching
+  phrase: Modélisation CAO et 3D à partir d'esquisses de conception, en 2D comme en immersion.
+  preuves:
+  - p343f8dab3d
+  - pf262e563d5
+  - p2a408efec3
+- id: terrains_nature
+  phrase: Simulation d'érosion, de coulées, de dunes et de volcans pour générer des terrains et paysages crédibles.
+  preuves:
+  - p31b463e40a
+  - p9e6a3f3d85
+  - p83bc6ff46d
+- id: acquisition_apparence
+  phrase: Estimation de matériaux SVBRDF et ré-éclairage de scènes à partir d'images par apprentissage profond.
+  preuves:
+  - p6a75405e42
+  - p55aa8fe844
+  - pbe1736bb0e
+- id: conception_durable
+  phrase: 'Conception computationnelle par réemploi : vêtements recyclés, approximation de formes et structures à partir de
+    surfaces et pièces récupérées pour le design circulaire.'
+  preuves:
+  - p8b02fc0e41
+  - p9990a8367c
+  - peb412d2af6
+applications:
+- id: jeu_video
+  preuves:
+  - p45c847bb25
+  - pe9bdaaf8fe
+  - pf7d14f6a56
+- id: cinema_vfx
+  preuves:
+  - pc06a3979b1
+  - pbe1736bb0e
+  - p9c0649ea10
+- id: environnement
+  preuves:
+  - p31b463e40a
+  - p94f96b9272
+  - p37634107fc
+- id: mode_textile
+  preuves:
+  - p8b02fc0e41
+  - p1e79bb5a2f
+  - pdd740cbb10
+- id: industrie_cao
+  preuves:
+  - p343f8dab3d
+  - pf262e563d5
+  - p5abdcc21e7
+publications_representatives:
+- p45c847bb25
+- p367b108c69
+- p31b463e40a
+- p8b02fc0e41
+- p343f8dab3d
+synthese: Rendu neuronal et à base d'images (Gaussian splatting), modélisation par esquisse, simulation de terrains et acquisition
+  de l'apparence.
+pour_etudiants: On transforme des photos en scènes 3D qu'on peut parcourir en temps réel, on crée des modèles à partir de
+  croquis et on simule la formation des paysages.
+pour_entreprises: Numérisation photoréaliste de lieux par Gaussian splatting, CAO par esquisse, génération de terrains, conception
+  par réemploi de matériaux.

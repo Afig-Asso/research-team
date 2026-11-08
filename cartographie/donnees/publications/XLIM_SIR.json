@@ -1,0 +1,928 @@
+{
+"equipe": "XLIM/SIR",
+"publications": [
+{
+"id": "pbaf8d97dfe",
+"titre": "Advancing RT core-accelerated fixed-radius nearest neighbor search",
+"annee": 2026,
+"type": "journal",
+"lieu": "Future Generation Computer Systems",
+"url": "https://hal.science/hal-05608661v1",
+"doi": "10.1016/j.future.2026.108555"
+},
+{
+"id": "p9e7b57e06c",
+"titre": "Dual-Stream CNN-ViT Cross-Attention Architecture for Alzheimer's Disease Diagnosis and MCI Progression Scoring from Structural MRI",
+"annee": 2026,
+"type": "conférence",
+"lieu": "30th International Conference on Knowledge-Based and Intelligent Information & Engineering Systems",
+"url": "https://hal.science/hal-05667792v1"
+},
+{
+"id": "pa72b09e039",
+"titre": "FAISS-Indexed Vision Transformer Descriptors for Alzheimer's Disease Diagnosis",
+"annee": 2026,
+"type": "conférence",
+"lieu": "23rd IEEE International Conference on Content-Based Multimedia Indexing (CBMI 2026)",
+"url": "https://hal.science/hal-05667787v1"
+},
+{
+"id": "pd4e6f6f8c0",
+"titre": "The screw-like mechanism of muscle contraction suggested by 3D SHG imaging and computational reconstruction",
+"annee": 2026,
+"type": "conférence",
+"lieu": "SPIE Photonics Europe",
+"url": "https://hal.science/hal-05640320v1",
+"doi": "10.1117/12.3099143"
+},
+{
+"id": "p07c87667c9",
+"titre": "Colloid aggregation simulation in a Poiseuille flow using SRD-MD simulations",
+"annee": 2025,
+"type": "journal",
+"lieu": "Colloids and Surfaces A: Physicochemical and Engineering Aspects",
+"url": "https://hal.science/hal-05004876v1",
+"doi": "10.1016/j.colsurfa.2024.135896"
+},
+{
+"id": "p929d319d79",
+"titre": "Enhancing production rates at El Teniente's black cave mine through optimizing HF hole distribution using discrete fracture network modeling and geostatistical simulation methods",
+"annee": 2025,
+"type": "journal",
+"lieu": "Rock Mechanics Bulletin",
+"url": "https://hal.science/hal-04921808v1",
+"doi": "10.1016/j.rockmb.2024.100165"
+},
+{
+"id": "p35aec3107f",
+"titre": "Exploring Experimental Approaches for Enhancing Alzheimer's Disease Prediction with MRI Data and Deep Learning",
+"annee": 2025,
+"type": "conférence",
+"lieu": "37th International Conference on Tools with Artificial Intelligence",
+"url": "https://hal.science/hal-05298990v1"
+},
+{
+"id": "p423d1e30d6",
+"titre": "Improving Consistency of Viewpoint Selection for Molecules",
+"annee": 2025,
+"type": "journal",
+"lieu": "SN Computer Science",
+"url": "https://hal.science/hal-05798227v1",
+"doi": "10.1007/s42979-025-04584-z"
+},
+{
+"id": "pb8e0b2ce43",
+"titre": "In Search of Empty Spheres: 3D Apollonius Diagrams on GPU",
+"annee": 2025,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-05246943v1",
+"doi": "10.1145/3730868"
+},
+{
+"id": "p02ca67518d",
+"titre": "Interactive visualization of large molecular systems with VTX: example with a minimal whole-cell model",
+"annee": 2025,
+"type": "journal",
+"lieu": "Frontiers in Bioinformatics",
+"url": "https://hal.science/hal-04986917v1",
+"doi": "10.3389/fbinf.2025.1588661"
+},
+{
+"id": "p0da766ca9e",
+"titre": "Quantitative Semantic Models in Digital Twin Representations of Rock Masses Using Universal Discontinuity Index (UDi)",
+"annee": 2025,
+"type": "journal",
+"lieu": "Rock Mechanics and Rock Engineering",
+"url": "https://hal.science/hal-04921800v1",
+"doi": "10.1007/s00603-024-04279-6"
+},
+{
+"id": "p1e7a1e8233",
+"titre": "VTX: Real-time high-performance molecular structure and dynamics visualization software",
+"annee": 2025,
+"type": "journal",
+"lieu": "Bioinformatics",
+"url": "https://hal.science/hal-04917948v1",
+"doi": "10.1093/bioinformatics/btaf295"
+},
+{
+"id": "pe9c11e7670",
+"titre": "Construction de diagrammes d'Apollonius 3D sur GPU",
+"annee": 2024,
+"type": "conférence",
+"lieu": "Les journées Françaises de l'Informatique Graphique (JFIG24)",
+"url": "https://hal.science/hal-05246934v1"
+},
+{
+"id": "p1afadc2bff",
+"titre": "Efficient GPU computation of large protein Solvent-Excluded Surface",
+"annee": 2024,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://hal.science/hal-04550117v1",
+"doi": "10.1109/tvcg.2024.3380100"
+},
+{
+"id": "pefc42e65bf",
+"titre": "Numerical study of the effect of particle size dispersion on order within colloidal assemblies",
+"annee": 2024,
+"type": "journal",
+"lieu": "Materials Today Communications",
+"url": "https://hal.science/hal-04385172v1",
+"doi": "10.1016/j.mtcomm.2023.107973"
+},
+{
+"id": "pe3fc5e4603",
+"titre": "SOMA-BD: Brownian dynamics simulation for soft matter on GPU",
+"annee": 2024,
+"type": "journal",
+"lieu": "Engineering with Computers",
+"url": "https://hal.science/hal-04740841v1",
+"doi": "10.1007/s00366-024-02072-1"
+},
+{
+"id": "p5027809702",
+"titre": "Viewpoint Selection for Molecular Visualization: Analysis and Applications",
+"annee": 2024,
+"type": "conférence",
+"lieu": "19th International Conference on Computer Graphics Theory and Applications",
+"url": "https://hal.science/hal-04500514v1",
+"doi": "10.5220/0012383300003660"
+},
+{
+"id": "pd556a7743d",
+"titre": "Construction efficace de la surface de systèmes moléculaires complexes sur GPU",
+"annee": 2023,
+"type": "conférence",
+"lieu": "J.FIG 2023 - Journées Françaises de l'Informatique Graphique",
+"url": "https://hal.science/hal-04633888v1"
+},
+{
+"id": "pa2a04b01dd",
+"titre": "Dense, deep learning-based intracranial aneurysm detection on TOF MRI using two-stage regularized U-Net",
+"annee": 2023,
+"type": "journal",
+"lieu": "Journal de Neuroradiologie / Journal of Neuroradiology",
+"url": "https://hal.science/hal-04504256v1",
+"doi": "10.1016/j.neurad.2022.03.005"
+},
+{
+"id": "pca64d32ce6",
+"titre": "L'Identification des Projets de Logiciel Libre Accessibles aux Nouveaux Contributeurs",
+"annee": 2023,
+"type": "conférence",
+"lieu": "EIAH2023 : 11ème Conférence sur les Environnements Informatiques pour l'Apprentissage Humain",
+"url": "https://hal.science/hal-04108453v1"
+},
+{
+"id": "p97880672fb",
+"titre": "Maintaining 2D Delaunay triangulations on the GPU for proximity queries of moving points",
+"annee": 2023,
+"type": "conférence",
+"lieu": "SIAM International Meshing Roundtable Workshop 2023 (SIAM IMR 2023)",
+"url": "https://hal.science/hal-04029968v1"
+},
+{
+"id": "pb8b6a43ee9",
+"titre": "PREFAB-GEN : AD HOC Image Generation for Pre-Manufacturing of Tires Using Image-To-Image Translation",
+"annee": 2023,
+"type": "conférence",
+"lieu": "2023 IEEE International Conference on Image Processing (ICIP)",
+"url": "https://hal.science/hal-04470452v1",
+"doi": "10.1109/icip49359.2023.10222342"
+},
+{
+"id": "p610d352953",
+"titre": "SRD-MD simulations of colloidal suspensions in confined environments",
+"annee": 2023,
+"type": "conférence",
+"lieu": "ECerS 2023 - XVIIIth Conference of the European Ceramic Society",
+"url": "https://unilim.hal.science/hal-05825708v1"
+},
+{
+"id": "p7cc7a9409e",
+"titre": "SRD-MD simulations of colloidal suspensions in flow",
+"annee": 2023,
+"type": "conférence",
+"lieu": "18th Conference of the European Ceramic Society - ECerS XVIII",
+"url": "https://hal.science/hal-05027347v1"
+},
+{
+"id": "pd1e0df02a1",
+"titre": "Simulations de suspensions colloïdales en écoulement",
+"annee": 2023,
+"type": "conférence",
+"lieu": "Journées Annuelles du Groupe Français de la Céramique 2023",
+"url": "https://unilim.hal.science/hal-04083855v1"
+},
+{
+"id": "p4b7fb68cda",
+"titre": "Two-Steps Versus One-Step Solidification Pathways of Binary Metallic Nanodroplets",
+"annee": 2023,
+"type": "journal",
+"lieu": "ACS Nano",
+"url": "https://hal.science/hal-04262584v1",
+"doi": "10.1021/acsnano.2c09741"
+},
+{
+"id": "p433bf02b44",
+"titre": "UDock2 : interactive real-time multi-body protein–protein docking software",
+"annee": 2023,
+"type": "journal",
+"lieu": "Bioinformatics",
+"url": "https://hal.science/hal-04356674v1",
+"doi": "10.1093/bioinformatics/btad609"
+},
+{
+"id": "p7f12b51205",
+"titre": "Depth Completion for Close-Range Specular Objects",
+"annee": 2022,
+"type": "journal",
+"lieu": "Computer Science Research Notes",
+"url": "https://hal.science/hal-04492739v1",
+"doi": "10.24132/csrn.3201.17"
+},
+{
+"id": "pfd402fe906",
+"titre": "Multimedia Indexing and Retrieval: Optimized Combination of Low-level and High-level Features",
+"annee": 2022,
+"type": "conférence",
+"lieu": "24th International Conference on Enterprise Information Systems",
+"url": "https://hal.science/hal-03788722v1",
+"doi": "10.5220/0011063000003179"
+},
+{
+"id": "p4bcf5e13c9",
+"titre": "Presentation of the Universal Discontinuity index (UDi) system and its application to predict the geometry of over-excavation along a tunnel at New El Teniente mine",
+"annee": 2022,
+"type": "journal",
+"lieu": "Engineering Geology",
+"url": "https://hal.science/hal-05475336v1",
+"doi": "10.1016/j.enggeo.2022.106901"
+},
+{
+"id": "pabd2b51c4e",
+"titre": "A New Content-Based Image Retrieval System Using Deep Visual Features",
+"annee": 2021,
+"type": "journal",
+"lieu": "International Journal of Image and Graphics",
+"url": "https://doi.org/10.1142/s0219467821500558",
+"doi": "10.1142/s0219467821500558"
+},
+{
+"id": "pb154d032b8",
+"titre": "A hybrid approach to predict hang-up frequency in real scale block cave mining at El Teniente mine, Chile",
+"annee": 2021,
+"type": "journal",
+"lieu": "Tunnelling and Underground Space Technology",
+"url": "https://hal.science/hal-03337845v1"
+},
+{
+"id": "pf8d2455fa4",
+"titre": "A hybrid predictive model of unstable rock blocks around a tunnel based on estimated volumetric fracture intensity and circular variance from borehole data sets",
+"annee": 2021,
+"type": "journal",
+"lieu": "Tunnelling and Underground Space Technology",
+"url": "https://unilim.hal.science/hal-03188642v1",
+"doi": "10.1016/j.tust.2021.103865"
+},
+{
+"id": "p0393be5a60",
+"titre": "A web-based collaborative virtual reality environment for distance learning",
+"annee": 2021,
+"type": "journal",
+"lieu": "International Journal of Scientific and Research Publications",
+"url": "https://hal.science/hal-03196576v1",
+"doi": "10.29322/ijsrp.11.03.2021.p11125"
+},
+{
+"id": "pf0f3f80963",
+"titre": "Designing VR environments for distance learning",
+"annee": 2021,
+"type": "conférence",
+"lieu": "7th International Conference of the Immersive Learning Research Network (iLRN 2021)",
+"url": "https://hal.science/hal-03194957v1"
+},
+{
+"id": "pcced823427",
+"titre": "Multimodal Video Indexing (MVI): A New Method Based on Machine Learning and Semi-Automatic Annotation on Large Video Collections",
+"annee": 2021,
+"type": "journal",
+"lieu": "International Journal of Image and Graphics",
+"url": "https://hal.science/hal-04556584v1",
+"doi": "10.1142/s021946782250022x"
+},
+{
+"id": "p7cb14b3383",
+"titre": "Particle-based numerical modeling of a thin granular layer subjected to oscillating flow",
+"annee": 2021,
+"type": "journal",
+"lieu": "Communications in Nonlinear Science and Numerical Simulation",
+"url": "https://unilim.hal.science/hal-03188646v1",
+"doi": "10.1016/j.cnsns.2021.105770"
+},
+{
+"id": "pee6e017a1a",
+"titre": "Réalité virtuelle et formation à distance : impact de la représentation des avatars sur la coprésence des apprenants dans un environnement virtuel collaboratif.",
+"annee": 2021,
+"type": "conférence",
+"lieu": "Conférence internationale EIAH 2021",
+"url": "https://hal.science/hal-03217585v1"
+},
+{
+"id": "p18b85f8784",
+"titre": "Réalité virtuelle et formationà distance : impact de la représentation des avatars sur la coprésence des apprenants dans un environnement virtuel collaboratif",
+"annee": 2021,
+"type": "conférence",
+"lieu": "10e Conférence sur les Environnements Informatiques pour l’Apprentissage Humain",
+"url": "https://hal.science/hal-03292842v1"
+},
+{
+"id": "pc7e86c0dd2",
+"titre": "CovCopCan: An efficient tool to detect Copy Number Variation from amplicon sequencing data in inherited diseases and cancer",
+"annee": 2020,
+"type": "journal",
+"lieu": "PLoS Computational Biology",
+"url": "https://hal.science/hal-03269253v1",
+"doi": "10.1371/journal.pcbi.1007503"
+},
+{
+"id": "p46d7c44518",
+"titre": "Investigating the impact of the estimation error of fracture intensity (P32) on the evaluation of in-situ rock fragmentation and potential of blocks forming around tunnels",
+"annee": 2020,
+"type": "journal",
+"lieu": "Tunnelling and Underground Space Technology",
+"url": "https://doi.org/10.1016/j.tust.2020.103596",
+"doi": "10.1016/j.tust.2020.103596"
+},
+{
+"id": "pb6f4e93239",
+"titre": "Parallélisation GPU de simulations de type Dynamique Moléculaire",
+"annee": 2020,
+"type": "conférence",
+"lieu": "MatV2L-num : MAT2VL Methodes numeriques et simulation",
+"url": "https://unilim.hal.science/hal-03019241v1"
+},
+{
+"id": "pc8bea2ef1b",
+"titre": "Two-Dimensional Stochastic Rotation Dynamics for Fluid Simulation",
+"annee": 2020,
+"type": "journal",
+"lieu": "Journal of Computer and Communications",
+"url": "https://hal.science/hal-02613685v1",
+"doi": "10.4236/jcc.2020.82003"
+},
+{
+"id": "pc878a0b665",
+"titre": "A microfacet-based BRDF for the accurate and efficient rendering of high-definition specular normal maps",
+"annee": 2019,
+"type": "journal",
+"lieu": "The Visual Computer",
+"url": "https://hal.science/hal-02157630v1",
+"doi": "10.1007/s00371-018-1606-7"
+},
+{
+"id": "pb4f4073cd1",
+"titre": "Brownian dynamics simulations of one-patch inverse patchy particles",
+"annee": 2019,
+"type": "journal",
+"lieu": "Physical Chemistry Chemical Physics",
+"url": "https://unilim.hal.science/hal-02320213v1",
+"doi": "10.1039/c9cp04247d"
+},
+{
+"id": "pff038ac37f",
+"titre": "Design d'environnements de réalité virtuelle pour la formation à distance basé sur la conception centrée utilisateur.",
+"annee": 2019,
+"type": "conférence",
+"lieu": "Conférence Journées Françaises de l'Informatique Graphique et de la Réalité Virtuelle (JFIGRV 2019), Marseille , France",
+"url": "https://hal.science/hal-03217576v1"
+},
+{
+"id": "peb9dd84cff",
+"titre": "Glint Rendering based on a Multiple‐Scattering Patch BRDF",
+"annee": 2019,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-02364885v1",
+"doi": "10.1111/cgf.13767"
+},
+{
+"id": "pc95c3801b7",
+"titre": "Ribbed support vaults for 3D printing of hollowed objects",
+"annee": 2019,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-02155929v1",
+"doi": "10.1111/cgf.13750"
+},
+{
+"id": "p71cfa75ce6",
+"titre": "Calibrating Low-cost Structured-light 3D Sensors",
+"annee": 2018,
+"type": "conférence",
+"lieu": "26. International Conference in Central Europe on Computer Graphics, Visualization and Computer Vision'2017",
+"url": "https://hal.science/hal-02482923v1",
+"doi": "10.24132/csrn.2018.2801.4"
+},
+{
+"id": "pf79aa90235",
+"titre": "Colloidal suspension by SRD–MD simulation on GPU",
+"annee": 2018,
+"type": "journal",
+"lieu": "Computer Physics Communications",
+"url": "https://unilim.hal.science/hal-02121426v1",
+"doi": "10.1016/j.cpc.2018.06.004"
+},
+{
+"id": "p2accfaac4d",
+"titre": "Computer simulations of heteroaggregation with large size asymmetric colloids",
+"annee": 2018,
+"type": "journal",
+"lieu": "Journal of Colloid and Interface Science",
+"url": "https://unilim.hal.science/hal-02121432v1",
+"doi": "10.1016/j.jcis.2017.12.071"
+},
+{
+"id": "p17f9ebab18",
+"titre": "HCSG: Hashing for real-time CSG modeling",
+"annee": 2018,
+"type": "conférence",
+"lieu": "Proceedings of the ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games",
+"url": "https://inria.hal.science/hal-01792866v1",
+"doi": "10.1145/3203198"
+},
+{
+"id": "p2704f832d5",
+"titre": "Photon mapping with visible kernel domains",
+"annee": 2018,
+"type": "journal",
+"lieu": "The Visual Computer",
+"url": "https://unilim.hal.science/hal-01966348v1",
+"doi": "10.1007/s00371-018-1505-y"
+},
+{
+"id": "pb7ec59b94e",
+"titre": "Scalable Real-Time Shadows using Clustering and Metric Trees",
+"annee": 2018,
+"type": "conférence",
+"lieu": "Eurographics Symposium on Rendering",
+"url": "https://hal.science/hal-02089095v1",
+"doi": "10.2312/sre20181175"
+},
+{
+"id": "p172698c88b",
+"titre": "Urban Weathering: Interactive Rendering of Polluted Cities",
+"annee": 2018,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://hal.science/hal-02466928v1",
+"doi": "10.1109/tvcg.2018.2794526"
+},
+{
+"id": "pd9592ebb1a",
+"titre": "Visual-aided ontology-based ranking on multidimensional data: a case study in academia",
+"annee": 2018,
+"type": "journal",
+"lieu": "Data Technologies and Applications",
+"url": "https://doi.org/10.1108/dta-03-2017-0014",
+"doi": "10.1108/dta-03-2017-0014"
+},
+{
+"id": "p7d3f218d16",
+"titre": "Interdiffusion and crystallization of oppositely charged colloids",
+"annee": 2017,
+"type": "journal",
+"lieu": "Physical Chemistry Chemical Physics",
+"url": "https://hal.science/hal-01651759v1",
+"doi": "10.1039/c7cp05872a"
+},
+{
+"id": "pae47c1110e",
+"titre": "Real-Time Solar Exposure Simulation in Complex Cities",
+"annee": 2017,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-02466916v1",
+"doi": "10.1111/cgf.13152"
+},
+{
+"id": "p0ecab85514",
+"titre": "“ COV’COP ” allows to detect CNVs responsible for inherited diseases among amplicons sequencing data",
+"annee": 2017,
+"type": "journal",
+"lieu": "Bioinformatics",
+"url": "https://hal.science/hal-02482942v1",
+"doi": "10.1093/bioinformatics/btx017"
+},
+{
+"id": "p33bb6223ec",
+"titre": "Colloidal suspension by SRD-MD simulation on GPU",
+"annee": 2016,
+"type": "conférence",
+"lieu": "j.FIG 2016",
+"url": "https://unilim.hal.science/hal-01850280v1"
+},
+{
+"id": "pdca7d245a2",
+"titre": "Deep Partitioned Shadow Volumes Using Stackless and Hybrid Traversals",
+"annee": 2016,
+"type": "conférence",
+"lieu": "EGSR16: Eurographics Symposium on Rendering",
+"url": "https://hal.science/hal-01406370v1"
+},
+{
+"id": "p6458c85f92",
+"titre": "Environmental Objects for Authoring Procedural Scenes",
+"annee": 2016,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://unilim.hal.science/hal-01250526v1",
+"doi": "10.1111/cgf.12726"
+},
+{
+"id": "p26b2e523df",
+"titre": "Simulation and Control of Breaking Waves using an External Force Model",
+"annee": 2016,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://hal.science/hal-01285926v1",
+"doi": "10.1016/j.cag.2016.03.003"
+},
+{
+"id": "p23094740d8",
+"titre": "Tight printable enclosures and support structures for additive manufacturing",
+"annee": 2016,
+"type": "conférence",
+"lieu": "Eurographics Workshop on Graphics for Digital Fabrication",
+"url": "https://inria.hal.science/hal-01399931v1"
+},
+{
+"id": "p175a2688ff",
+"titre": "Weathering of Urban Scenes: challenges and possible solutions",
+"annee": 2016,
+"type": "conférence",
+"lieu": "Eurographics Workshop on Material Appearance Modeling",
+"url": "https://hal.science/hal-01330967v1"
+},
+{
+"id": "pa0e9f18d88",
+"titre": "A New Force Model for Controllable Breaking Waves",
+"annee": 2015,
+"type": "conférence",
+"lieu": "Vriphys 2015",
+"url": "https://hal.science/hal-01227419v1",
+"doi": "10.2312/vriphys.20151334"
+},
+{
+"id": "p5b56f72300",
+"titre": "Brownian dynamics simulation on the GPU: virtual colloidal suspensions",
+"annee": 2015,
+"type": "conférence",
+"lieu": "Workshop on virtual reality interaction and physical simulation VRIPHYS",
+"url": "https://hal.science/hal-01529915v1"
+},
+{
+"id": "pc666706782",
+"titre": "Chained segment offsetting for ray-based solid representations",
+"annee": 2015,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://inria.hal.science/hal-01080614v1",
+"doi": "10.1016/j.cag.2014.09.017"
+},
+{
+"id": "p42a76b9c10",
+"titre": "Creating the Context for Exploiting Linked Open Data in Multidimensional Academic Ranking",
+"annee": 2015,
+"type": "journal",
+"lieu": "International Journal of Recent Contributions from Engineering Science & IT (iJES)",
+"url": "https://doi.org/10.3991/ijes.v3i3.5023",
+"doi": "10.3991/ijes.v3i3.5023"
+},
+{
+"id": "pc006ed58ed",
+"titre": "Interactive solar irradiance estimation in urban scenes",
+"annee": 2015,
+"type": "conférence",
+"lieu": "Congreso Español de Informática Gráfica",
+"url": "https://unilim.hal.science/hal-01250528v1"
+},
+{
+"id": "p3799f2b72f",
+"titre": "Modeling fruits and their internal structure using parametric 3Gmap L-systems",
+"annee": 2015,
+"type": "journal",
+"lieu": "The Visual Computer",
+"url": "https://hal.science/hal-01295376v1"
+},
+{
+"id": "p67c3b08949",
+"titre": "Partioned Shadow Volumes",
+"annee": 2015,
+"type": "conférence",
+"lieu": "Eurographics",
+"url": "https://hal.science/hal-01155336v1"
+},
+{
+"id": "p82c4658beb",
+"titre": "Partitioned Shadow Volumes",
+"annee": 2015,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-01171682v1",
+"doi": "10.1111/cgf.12583"
+},
+{
+"id": "pb453302d51",
+"titre": "Un nouveau modèle pour la génération et le contrôle de vagues déferlantes",
+"annee": 2015,
+"type": "conférence",
+"lieu": "Journées de l'AFIG",
+"url": "https://hal.science/hal-01255224v1"
+},
+{
+"id": "pe7dafdf746",
+"titre": "Active learning of user's preferences estimation towards a personalized 3D navigation of geo-referenced scenes",
+"annee": 2014,
+"type": "journal",
+"lieu": "Geoinformatica",
+"url": "https://hal.science/hal-00955149v1"
+},
+{
+"id": "p6926a8771e",
+"titre": "Crack-free rendering of dynamically tesselated B-Rep models",
+"annee": 2014,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-01118484v3",
+"doi": "10.1111/cgf.12308"
+},
+{
+"id": "p7df70eaa33",
+"titre": "Generalized Maps for Erosion and Sedimentation Simulation",
+"annee": 2014,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://hal.science/hal-01063546v1",
+"doi": "10.1016/j.cag.2014.07.001"
+},
+{
+"id": "pb61891af68",
+"titre": "Modélisation de fruits et de leur structure interne à l'aide de 3G-Cartes L-Systèmes",
+"annee": 2014,
+"type": "conférence",
+"lieu": "AFIG'2014",
+"url": "https://hal.science/hal-01296428v1"
+},
+{
+"id": "p9a3ecdff66",
+"titre": "Programming Topological Operations for Visual Illustrations in an Introductory Geomorphology Course",
+"annee": 2014,
+"type": "conférence",
+"lieu": "Eurographics 2014",
+"url": "https://hal.science/hal-01010002v1",
+"doi": "10.2312/eged.20141025"
+},
+{
+"id": "p5ca6d412a3",
+"titre": "3Gmap L-Systems Grammar Application to the Modeling of Flowering Plants",
+"annee": 2013,
+"type": "chapitre",
+"lieu": "Studies in Computational Intelligence",
+"url": "https://hal.science/hal-01295406v1"
+},
+{
+"id": "p40c57555b5",
+"titre": "Changement d’apparence au cours des saisons",
+"annee": 2013,
+"type": "conférence",
+"lieu": "26èmes Journées de l’Association Française d’Informatique Graphique, du chapitre français d’Eurographics et du Groupement de Recherche IG (AFIG)",
+"url": "https://hal.science/hal-01339315v1"
+},
+{
+"id": "p2eda21e88a",
+"titre": "Changements d’apparences au cours des saisons",
+"annee": 2013,
+"type": "conférence",
+"lieu": "AFIG",
+"url": "https://unilim.hal.science/hal-01250529v1"
+},
+{
+"id": "pbce8a6fafb",
+"titre": "Lazy visibility evaluation for exact soft shadows",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Eurographics",
+"url": "https://unilim.hal.science/hal-00913961v1"
+},
+{
+"id": "pf6043579a9",
+"titre": "Using visual representation for decision support in Institutional Research Evaluation",
+"annee": 2013,
+"type": "chapitre",
+"lieu": "Intelligent Computer Graphics 2012",
+"url": "https://hal.science/hal-00932339v1",
+"doi": "10.1007/978-3-642-31745-3_3"
+},
+{
+"id": "p9c1fd335a3",
+"titre": "A wave propagation model based on Monte-Carlo particle-tracing",
+"annee": 2012,
+"type": "conférence",
+"lieu": "ANTEM 2012 - 15th International Symposium of ANtenna Technology and applied ElectroMagnetics",
+"url": "https://hal.science/hal-00780535v1",
+"doi": "10.1109/antem.2012.6262421"
+},
+{
+"id": "pe721b38be1",
+"titre": "An Efficient Trim Structure for Rendering Large B-Rep Models",
+"annee": 2012,
+"type": "conférence",
+"lieu": "17th International Workshop on Vision, Modeling and Visualization (VMV 2012)",
+"url": "https://hal.science/hal-01298635v1",
+"doi": "10.2312/pe/vmv/vmv12/031-038"
+},
+{
+"id": "pca486d5743",
+"titre": "Analytic ambient occlusion using exact from-polygon visibility",
+"annee": 2012,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://hal.science/hal-00734396v1",
+"doi": "10.1016/j.cag.2012.04.008"
+},
+{
+"id": "p2b4f6ecb67",
+"titre": "Co-authorship networks in academic research communities: the role of network strenght",
+"annee": 2012,
+"type": "conférence",
+"lieu": "16th Panhellenic Conference on Informatics (PCI)",
+"url": "https://hal.science/hal-00932104v1",
+"doi": "10.1109/pci.2012.47"
+},
+{
+"id": "pca2b2064e7",
+"titre": "Expressing Discrete Geometry using the Conformal Model",
+"annee": 2012,
+"type": "conférence",
+"lieu": "AGACSE 2012",
+"url": "https://hal.science/hal-00865103v1"
+},
+{
+"id": "p21f2600313",
+"titre": "Lazy visibility evaluation for exact soft shadows",
+"annee": 2012,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-00626701v1",
+"doi": "10.1111/j.1467-8659.2011.02089.x"
+},
+{
+"id": "p204019001e",
+"titre": "Modeling of Flowers with Inverse Grammar Generation Interface",
+"annee": 2012,
+"type": "journal",
+"lieu": "International Journal of Creative Interfaces and Computer Graphics",
+"url": "https://doi.org/10.4018/jcicg.2012070103",
+"doi": "10.4018/jcicg.2012070103"
+},
+{
+"id": "pd070921144",
+"titre": "Simulating How Salt Decay Ages Buildings",
+"annee": 2012,
+"type": "journal",
+"lieu": "IEEE Computer Graphics and Applications",
+"url": "https://hal.science/hal-00682770v1",
+"doi": "10.1109/mcg.2011.107"
+},
+{
+"id": "p98ea266bc4",
+"titre": "Une structure de découpe efficace pour l'affichage de grands modèles B-Rep",
+"annee": 2012,
+"type": "conférence",
+"lieu": "AFIG '11 (Actes des 25èmes journées de l'AFIG)",
+"url": "https://hal.science/hal-01342495v1"
+},
+{
+"id": "pf183e490c5",
+"titre": "[R4]. A wave propagation model based on Monte-Carlo particle-tracing",
+"annee": 2012,
+"type": "journal",
+"lieu": "Journal of Physical Science and Applications",
+"url": "https://hal.science/hal-00934273v1"
+},
+{
+"id": "pddd330288f",
+"titre": "A Framework for n-dimensional Visibility Computations",
+"annee": 2011,
+"type": "chapitre",
+"lieu": "Guide to Geometric Algebra in Practice",
+"url": "https://hal.science/hal-00580642v1",
+"doi": "10.1007/978-0-85729-811-9_14"
+},
+{
+"id": "p74f98cdaa9",
+"titre": "A Particle-based Method for Large-scale breaking Waves Simulation",
+"annee": 2011,
+"type": "journal",
+"lieu": "Machine Graphics & Vision",
+"url": "https://hal.science/hal-00690494v1"
+},
+{
+"id": "pef33ad8735",
+"titre": "A Survey of Ocean Simulation and Rendering Techniques in Computer Graphics",
+"annee": 2011,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-00587242v1",
+"doi": "10.1111/j.1467-8659.2010.01828.x"
+},
+{
+"id": "p157b99e9aa",
+"titre": "A particle-based method for large-scale breaking wave simulation",
+"annee": 2011,
+"type": "journal",
+"lieu": "Machine Graphics & Vision International Journal archive",
+"url": "https://doi.org/10.5555/2336402.2336403",
+"doi": "10.5555/2336402.2336403"
+},
+{
+"id": "paf461801ed",
+"titre": "Elicitation of User Preferences via Incremental Learning in a Declarative Modelling Environment",
+"annee": 2011,
+"type": "chapitre",
+"lieu": "IFIP International Federation for Information Processing/IFIP",
+"url": "https://doi.org/10.1007/978-3-642-23960-1_19",
+"doi": "10.1007/978-3-642-23960-1_19"
+},
+{
+"id": "pc4ef0dede6",
+"titre": "Generating Large-scale Details: Altering Soil Surface and Structure with Tracks",
+"annee": 2011,
+"type": "conférence",
+"lieu": "Workshop in Virtual Reality Interactions and Physical Simulation \"VRIPHYS\"",
+"url": "https://hal.science/hal-00682773v1",
+"doi": "10.2312/pe/vriphys/vriphys11/129-137"
+},
+{
+"id": "pd4c43a6402",
+"titre": "Hierarchical SPH simulation",
+"annee": 2011,
+"type": "conférence",
+"lieu": "Computer Graphics International, CGI '2011",
+"url": "https://hal.science/hal-01027516v1"
+},
+{
+"id": "pa7c42b7909",
+"titre": "Hybrid Physical - Topological Modeling of Physical Shapes Transformations",
+"annee": 2011,
+"type": "conférence",
+"lieu": "DMDCM 2011 - Workshop on Digital Media and Digital Content Management",
+"url": "https://hal.science/hal-00683676v1",
+"doi": "10.1109/dmdcm.2011.63"
+},
+{
+"id": "pda0d47aff5",
+"titre": "Interactive Hydraulic Erosion Using CUDA",
+"annee": 2011,
+"type": "journal",
+"lieu": "Machine Graphics & Vision",
+"url": "https://hal.science/hal-00878463v1"
+},
+{
+"id": "p558faa2029",
+"titre": "Objects Description Exploiting User’s Sociality",
+"annee": 2011,
+"type": "chapitre",
+"lieu": "Studies in computational intelligence",
+"url": "https://doi.org/10.1007/978-3-642-22907-7_3",
+"doi": "10.1007/978-3-642-22907-7_3"
+},
+{
+"id": "p96eb100660",
+"titre": "Opérations topologiques pour la géomorphologie",
+"annee": 2011,
+"type": "conférence",
+"lieu": "Journées de l'Association Française d'Informatique Graphique",
+"url": "https://hal.science/hal-00633705v1"
+},
+{
+"id": "pef9eb113a0",
+"titre": "Topological Operations for Geomorphological Evolution",
+"annee": 2011,
+"type": "conférence",
+"lieu": "Eurographics workshop on Virtual Reality Interactions and Physical Simulation",
+"url": "https://hal.science/hal-00633722v1"
+},
+{
+"id": "p395bb8962d",
+"titre": "Visibilité et tracé de photons",
+"annee": 2011,
+"type": "conférence",
+"lieu": "Groupe de travail \"Rendu\" du GDR IGRV",
+"url": "https://hal.science/hal-00950990v1"
+}
+]
+}

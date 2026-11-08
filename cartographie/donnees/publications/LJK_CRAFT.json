@@ -1,0 +1,941 @@
+{
+"equipe": "LJK/CRAFT",
+"publications": [
+{
+"id": "p4ec291921c",
+"titre": "Compactly supported detail field for high quality neural implicit surfaces",
+"annee": 2026,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-05716801v1",
+"doi": "10.1111/cgf.70526"
+},
+{
+"id": "p0ed292784a",
+"titre": "Designing inflatable shells using unstructured meshes",
+"annee": 2026,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-05611666v1",
+"doi": "10.1111/cgf.70350"
+},
+{
+"id": "p66f9598ce8",
+"titre": "Foreword to the Special Section on Shape Modeling International 2026 (SMI 2026)",
+"annee": 2026,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://inria.hal.science/hal-05851313v1",
+"doi": "10.1016/j.38cag.2026.104702"
+},
+{
+"id": "p1e79bb5a2f",
+"titre": "Modeling and predicting post-wash shrinkage in woven fabric",
+"annee": 2026,
+"type": "conférence",
+"lieu": "SCF 2026 - ACM Symposium on Computational Fabrication",
+"url": "https://inria.hal.science/hal-05834561v1",
+"doi": "10.1145/3828611.3845646"
+},
+{
+"id": "pa34ac9da23",
+"titre": "NeuralSketch2Surf: Fast Neural Surfacing of Unoriented 3D Sketches",
+"annee": 2026,
+"type": "conférence",
+"lieu": "Siggraph 2026 - ACM SIGGRAPH International Conference on Computer Graphics and Interactive Techniques",
+"url": "https://inria.hal.science/hal-05615004v1",
+"doi": "10.1145/3799902.3811227"
+},
+{
+"id": "p99dfbcd692",
+"titre": "On design, analysis, and hybrid manufacturing of microstructured blade-like geometries",
+"annee": 2026,
+"type": "journal",
+"lieu": "Computer-Aided Design",
+"url": "https://inria.hal.science/hal-05244227v1",
+"doi": "10.1016/j.cad.2025.103967"
+},
+{
+"id": "pc815f00fc2",
+"titre": "Fast practical untangling of simplicial P2 and P3 curvilinear meshes",
+"annee": 2025,
+"type": "conférence",
+"lieu": "SIAM International Meshing Roundtable",
+"url": "https://inria.hal.science/hal-05350524v1",
+"doi": "10.1137/1.9781611978575.10"
+},
+{
+"id": "p25b94a9d23",
+"titre": "MatAIRials: Isotropic Inflatable Metamaterials for Freeform Surface Design",
+"annee": 2025,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-04562406v2",
+"doi": "10.1111/cgf.70190"
+},
+{
+"id": "pa6d296688e",
+"titre": "Programming developable surfaces using multilayer inflatables",
+"annee": 2025,
+"type": "conférence",
+"lieu": "SCF'25 - 10th ACM Symposium on Computational Fabrication",
+"url": "https://inria.hal.science/hal-05477653v1",
+"doi": "10.1145/3745778.3766669"
+},
+{
+"id": "p90348d2197",
+"titre": "RibbonSculpt: Voronoi Ball based 3D Sculpting from Sparse VR Ribbons",
+"annee": 2025,
+"type": "conférence",
+"lieu": "Proceedings of the SIGGRAPH Asia 2025 Conference Papers",
+"url": "https://inria.hal.science/hal-05330313v1",
+"doi": "10.1145/3757377.3763994"
+},
+{
+"id": "peecf84cbcc",
+"titre": "VRSurf: Surface Creation from Sparse, Unoriented 3D Strokes",
+"annee": 2025,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-04973489v1",
+"doi": "10.1111/cgf.70071"
+},
+{
+"id": "p0e3ce887cd",
+"titre": "1-Lipschitz Neural Distance Fields",
+"annee": 2024,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-05635129v1",
+"doi": "10.1111/cgf.15128"
+},
+{
+"id": "p41b1152d6a",
+"titre": "3D sketching in immersive environments: Shape from disordered ribbon strokes",
+"annee": 2024,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://inria.hal.science/hal-04661083v1",
+"doi": "10.1016/j.cag.2024.103978"
+},
+{
+"id": "p482de6d6cf",
+"titre": "Designing Bending-Active Freeform Surfaces",
+"annee": 2024,
+"type": "conférence",
+"lieu": "SCF 2024 - 9th ACM Symposium on Computational Fabrication",
+"url": "https://inria.hal.science/hal-04661276v1",
+"doi": "10.1145/3639473.3665793"
+},
+{
+"id": "pfc2b47a208",
+"titre": "Mesh Simplification for Unfolding",
+"annee": 2024,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-04901785v1",
+"doi": "10.1111/cgf.15269"
+},
+{
+"id": "pc72c13602f",
+"titre": "Modern Dance Retargeting using Ribbons as Lines of Action",
+"annee": 2024,
+"type": "conférence",
+"lieu": "EUROGRAPHICS 2024 - 45th Annual Conference of the European Association for Computer Graphics",
+"url": "https://inria.hal.science/hal-04905809v1",
+"doi": "10.2312/egs.20241019"
+},
+{
+"id": "p05db8aca24",
+"titre": "Complex Wrinkle Field Evolution",
+"annee": 2023,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-04130767v1",
+"doi": "10.1145/3592397"
+},
+{
+"id": "p94282d4047",
+"titre": "PCBend: Light Up Your 3D Shapes With Foldable Circuit Boards",
+"annee": 2023,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-04129354v2",
+"doi": "10.1145/3592411"
+},
+{
+"id": "pf975f1b076",
+"titre": "Robust One-Class Classification with Signed Distance Function using 1-Lipschitz Neural Networks",
+"annee": 2023,
+"type": "conférence",
+"lieu": "40th International Conference on Machine Learning",
+"url": "https://hal.science/hal-03977272v2",
+"doi": "10.5555/3618408.3618504"
+},
+{
+"id": "p456fee5272",
+"titre": "Supporting Perception of Spatiality in Dance in Augmented Reality",
+"annee": 2023,
+"type": "conférence",
+"lieu": "C&C 2023 - 15th ACM Conference on Creativity and Cognition",
+"url": "https://inria.hal.science/hal-04135850v1",
+"doi": "10.1145/3591196.3593513"
+},
+{
+"id": "pdaba53a034",
+"titre": "The Method of Moving Frames for Surface Global Parametrization",
+"annee": 2023,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-03670525v2",
+"doi": "10.1145/3604282"
+},
+{
+"id": "p81d326ce52",
+"titre": "Untangling the physics of self-locking in tight knots",
+"annee": 2023,
+"type": "conférence",
+"lieu": "HFSS 2023 - International Conference on Highly Flexible Slender Structures",
+"url": "https://inria.hal.science/hal-04388669v1"
+},
+{
+"id": "pd997b5c667",
+"titre": "A Conversation with SMI 2021 Young Researcher Award winner Melina Skouras",
+"annee": 2022,
+"type": "journal",
+"lieu": "Computers & Graphics",
+"url": "https://doi.org/10.1016/j.cag.2022.05.012",
+"doi": "10.1016/j.cag.2022.05.012"
+},
+{
+"id": "p21bbd4f867",
+"titre": "Computational Design of Laser-Cut Bending-Active Structures",
+"annee": 2022,
+"type": "journal",
+"lieu": "Computer-Aided Design",
+"url": "https://inria.hal.science/hal-03687416v1",
+"doi": "10.1016/j.cad.2022.103335"
+},
+{
+"id": "p83af1678e3",
+"titre": "Computational Design of Self-Actuated Surfaces by Printing Plastic Ribbons on Stretched Fabric",
+"annee": 2022,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-03588434v2",
+"doi": "10.1111/cgf.14489"
+},
+{
+"id": "pa0c2054b51",
+"titre": "Modélisation et conception d’un coffrage réutilisable pour la fabrication de coques minces en béton de formes complexes",
+"annee": 2022,
+"type": "conférence",
+"lieu": "SCAN'22 - 10e Séminaire de Conception Architecturale Numérique",
+"url": "https://enpc.hal.science/hal-04390796v1",
+"doi": "10.1051/shsconf/202214709003"
+},
+{
+"id": "pb23d7892ec",
+"titre": "Procedural bridges-and-pillars support generation",
+"annee": 2022,
+"type": "conférence",
+"lieu": "Eurographics 2022 - 43rd annual conference of the european association for computer graphics",
+"url": "https://inria.hal.science/hal-03700018v1",
+"doi": "10.2312/egs.20221025"
+},
+{
+"id": "p4c8b068421",
+"titre": "Reusable Inflatable Formwork for Complex Shape Concrete Shells",
+"annee": 2022,
+"type": "conférence",
+"lieu": "Design Modelling Symposium Berlin 2022",
+"url": "https://hal.science/hal-04131855v1",
+"doi": "10.1007/978-3-031-13249-0_17"
+},
+{
+"id": "pdabf641c25",
+"titre": "Simulation of printed-on-fabric assemblies",
+"annee": 2022,
+"type": "conférence",
+"lieu": "SCF 2022 - 7th annual ACM Symposium on Computational Fabrication",
+"url": "https://hal.science/hal-03815213v2",
+"doi": "10.1145/3559400.3562001"
+},
+{
+"id": "p300f1f2e9c",
+"titre": "Visualizing Isadora Duncan’s movements qualities",
+"annee": 2022,
+"type": "conférence",
+"lieu": "C&C 2022 - 14th ACM conference on Creativity & Cognition",
+"url": "https://inria.hal.science/hal-03778399v1",
+"doi": "10.1145/3527927.3532805"
+},
+{
+"id": "p6b4ed9a379",
+"titre": "Elastic Rods for Fluid Dance Movements Modeling",
+"annee": 2021,
+"type": "conférence",
+"lieu": "AFIG 2021",
+"url": "https://inria.hal.science/hal-04136667v1"
+},
+{
+"id": "pdd740cbb10",
+"titre": "Fashion Transfer: Dressing 3D Characters from Stylized Fashion Sketches",
+"annee": 2021,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://ut-toulouseinp.hal.science/hal-03280215v1",
+"doi": "10.1111/cgf.14390"
+},
+{
+"id": "p02e1b6857e",
+"titre": "Feature Lines Modification Based on As-Stiff-As-Needed Surface Deformation",
+"annee": 2021,
+"type": "journal",
+"lieu": "Computer-Aided Design",
+"url": "https://inria.hal.science/hal-03289858v1",
+"doi": "10.1016/j.cad.2021.103070"
+},
+{
+"id": "pb32e7ef11b",
+"titre": "Fine Wrinkling on Coarsely Meshed Thin Shells",
+"annee": 2021,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-03519074v1",
+"doi": "10.1145/3462758"
+},
+{
+"id": "pd2daa5e172",
+"titre": "Geometric construction of auxetic metamaterials",
+"annee": 2021,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-03145852v1",
+"doi": "10.1111/cgf.142633"
+},
+{
+"id": "pcf7f0c7fda",
+"titre": "Parametric Surface Fitting on Airborne Lidar Point Clouds for Building Reconstruction",
+"annee": 2021,
+"type": "journal",
+"lieu": "Computer-Aided Design",
+"url": "https://hal.science/hal-03281816v1",
+"doi": "10.1016/j.cad.2021.103090"
+},
+{
+"id": "p771c5ca676",
+"titre": "Printing-on-Fabric Meta-Material for Self-Shaping Architectural Models",
+"annee": 2021,
+"type": "conférence",
+"lieu": "AAG 2020 - Advances in Architectural Geometry",
+"url": "https://inria.hal.science/hal-02925036v1"
+},
+{
+"id": "p38102f210b",
+"titre": "ThriftyNets: Convolutional Neural Networks with Tiny Parameter Budget",
+"annee": 2021,
+"type": "journal",
+"lieu": "IoT",
+"url": "https://doi.org/10.3390/iot2020012",
+"doi": "10.3390/iot2020012"
+},
+{
+"id": "pdffd1fb71b",
+"titre": "3D Geological Image Synthesis From 2D Examples Using Generative Adversarial Networks",
+"annee": 2020,
+"type": "journal",
+"lieu": "Frontiers in Water",
+"url": "https://inria.hal.science/hal-02992194v1",
+"doi": "10.3389/frwa.2020.560598"
+},
+{
+"id": "pc5119ce192",
+"titre": "Ajustement de surfaces paramétriques sur nuages de points",
+"annee": 2020,
+"type": "conférence",
+"lieu": "Journées Françaises d'Informatique Graphique (JFIG2020)",
+"url": "https://inria.hal.science/hal-02992607v1"
+},
+{
+"id": "pfed0ed7bf7",
+"titre": "As-Stiff-As-Needed Surface Deformation Combining ARAP Energy with an Anisotropic Material",
+"annee": 2020,
+"type": "journal",
+"lieu": "Computer-Aided Design",
+"url": "https://inria.hal.science/hal-02428505v1",
+"doi": "10.1016/j.cad.2019.102803"
+},
+{
+"id": "p784e5b6794",
+"titre": "3D Design Of Ancient Garments",
+"annee": 2019,
+"type": "conférence",
+"lieu": "GCH 2019 - EUROGRAPHICS Workshop on Graphics and Cultural Heritage",
+"url": "https://inria.hal.science/hal-02312274v1",
+"doi": "10.2312/gch.20191351"
+},
+{
+"id": "p2beddbf122",
+"titre": "Approximate Reconstruction of 3D Scenes From Bas-Reliefs",
+"annee": 2019,
+"type": "conférence",
+"lieu": "GCH 2019 - EUROGRAPHICS Workshop on Graphics and Cultural Heritage",
+"url": "https://inria.hal.science/hal-02313660v1",
+"doi": "10.2312/gch20191356"
+},
+{
+"id": "pa79ec89163",
+"titre": "Computational Design of Fabric Formwork",
+"annee": 2019,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-02397265v1",
+"doi": "10.1145/3306346.3322988"
+},
+{
+"id": "p663e859888",
+"titre": "Star-Shaped Metrics for Mechanical Metamaterial Design",
+"annee": 2019,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-02118846v1",
+"doi": "10.1145/3306346.3322989"
+},
+{
+"id": "pe4fa5878f2",
+"titre": "Topology optimization and 3D-printing of multimaterial magnetic actuators and displays",
+"annee": 2019,
+"type": "journal",
+"lieu": "Science Advances",
+"url": "https://inria.hal.science/hal-02397188v1",
+"doi": "10.1126/sciadv.aaw1160"
+},
+{
+"id": "p5153e1ff8c",
+"titre": "A Salience Measure for 3D Shape Decomposition and Sub-parts Classification",
+"annee": 2018,
+"type": "journal",
+"lieu": "Graphical Models",
+"url": "https://inria.hal.science/hal-01840016v1",
+"doi": "10.1016/j.gmod.2018.07.003"
+},
+{
+"id": "p2b8c93f70d",
+"titre": "In-situ Evaluation of a \"What if\" Approach for Eco-feedback",
+"annee": 2018,
+"type": "conférence",
+"lieu": "IHM 2018 - 30eme conférence francophone sur l'interaction homme-machine",
+"url": "https://hal.science/hal-01899031v1"
+},
+{
+"id": "pa8d91d9a04",
+"titre": "Inverse Elastic Shell Design with Contact and Friction",
+"annee": 2018,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-01883655v1",
+"doi": "10.1145/3272127.3275036"
+},
+{
+"id": "p7c89472706",
+"titre": "Morphorider: a new way for Structural Monitoring via the shape acquisition with a mobile device equipped with an inertial node of sensors",
+"annee": 2018,
+"type": "conférence",
+"lieu": "EWSHM 2018 - 9th European Workshop on Structural Health Monitoring",
+"url": "https://inria.hal.science/hal-01962789v1"
+},
+{
+"id": "pe9f02b859e",
+"titre": "What if we use the \"What if\" Approach for Eco-Feedback? Designing an Electricity Consumption Analysis for Layman Users",
+"annee": 2018,
+"type": "conférence",
+"lieu": "EnvirVis 2018 - Workshop on Visualisation in Environmental Sciences",
+"url": "https://inria.hal.science/hal-01813283v1",
+"doi": "10.2312/envirvis.20181140"
+},
+{
+"id": "pccf3538f15",
+"titre": "Activelec: an Interaction-Based Visualization System to Analyze Household Electricity Consumption",
+"annee": 2017,
+"type": "conférence",
+"lieu": "Workshop Vis in Practice - Visualization Solutions in the Wild, IEEE VIS 2017",
+"url": "https://inria.hal.science/hal-01618111v1"
+},
+{
+"id": "pbf4cbd2eb6",
+"titre": "Computing Contour Trees for 2D Piecewise Polynomial Functions",
+"annee": 2017,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-01494431v1",
+"doi": "10.1111/cgf.13165"
+},
+{
+"id": "p2396e37122",
+"titre": "Interactive paper tearing",
+"annee": 2017,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-01647113v1",
+"doi": "10.1111/cgf.13110"
+},
+{
+"id": "p970352f92d",
+"titre": "Morphorider: Acquisition and Reconstruction of 3D Curves with Mobile Sensors",
+"annee": 2017,
+"type": "conférence",
+"lieu": "IEEE Sensors 2017",
+"url": "https://inria.hal.science/hal-01579523v1",
+"doi": "10.1109/icsens.2017.8234266"
+},
+{
+"id": "p6bb1bb5dc2",
+"titre": "Patterns from Photograph: Reverse-Engineering Developable Products",
+"annee": 2017,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://inria.hal.science/hal-01525747v1",
+"doi": "10.1016/j.cag.2017.05.017"
+},
+{
+"id": "p62299cfefb",
+"titre": "Piecewise polynomial Reconstruction of Scalar Fields from Simplified Morse-Smale Complexes",
+"annee": 2017,
+"type": "chapitre",
+"lieu": "Topological Methods in Data Analysis and Visualization IV - Theory, Algorithms, and Applications",
+"url": "https://inria.hal.science/hal-01252477v1",
+"doi": "10.1007/978-3-319-44684-4_9"
+},
+{
+"id": "p3d54a2547d",
+"titre": "Proceedings of Solid and Physical Modeling (SPM) 2017 - Special Issue of CAD Vol. 90",
+"annee": 2017,
+"type": "ouvrage",
+"lieu": "",
+"url": "https://hal.science/hal-01671192v1"
+},
+{
+"id": "p44bc74d509",
+"titre": "Shape from sensors: Curve networks on surfaces from 3D orientations",
+"annee": 2017,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://inria.hal.science/hal-01524740v2",
+"doi": "10.1016/j.cag.2017.05.013"
+},
+{
+"id": "pa7f05485aa",
+"titre": "A 2D Shape Structure for Decomposition and Part Similarity",
+"annee": 2016,
+"type": "conférence",
+"lieu": "ICPR 2016 - 23rd International Conference on Pattern Recognition",
+"url": "https://inria.hal.science/hal-01374810v1",
+"doi": "10.1109/icpr.2016.7900130"
+},
+{
+"id": "pfbcc8b78c2",
+"titre": "Automatic lighting design from photographic rules",
+"annee": 2016,
+"type": "conférence",
+"lieu": "WICED: Eurographics Workshop on Intelligent Cinematography and Editing",
+"url": "https://inria.hal.science/hal-01316577v1",
+"doi": "10.2312/wiced.20161094"
+},
+{
+"id": "p436d049440",
+"titre": "Flow-Guided Warping for Image-Based Shape Manipulation",
+"annee": 2016,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-01307571v1",
+"doi": "10.1145/2897824.2925937"
+},
+{
+"id": "p6e502ae802",
+"titre": "Modeling Symmetric Developable Surfaces from a Single Photo",
+"annee": 2016,
+"type": "conférence",
+"lieu": "Journées Françaises d’Informatique Graphique",
+"url": "https://inria.hal.science/hal-01670545v1"
+},
+{
+"id": "p9a58dab1d4",
+"titre": "Proceedings of Solid and Physical Modeling (SPM) 2016 - Special Issue of CAD Vol. 78",
+"annee": 2016,
+"type": "ouvrage",
+"lieu": "",
+"url": "https://hal.science/hal-01342798v1"
+},
+{
+"id": "p81d8a1424d",
+"titre": "Real-time sound synthesis for paper material based on geometric analysis",
+"annee": 2016,
+"type": "conférence",
+"lieu": "ACM SIGGRAPH/Eurographics Symposium on Computer Animation (SCA'16)",
+"url": "https://inria.hal.science/hal-01333238v3"
+},
+{
+"id": "pe83ecc2416",
+"titre": "Smooth Interpolation of Curve Networks with Surface Normals",
+"annee": 2016,
+"type": "conférence",
+"lieu": "Eurographics 2016 Short Papers",
+"url": "https://inria.hal.science/hal-01342487v1",
+"doi": "10.2312/egsh.20161005"
+},
+{
+"id": "p1bd62f5337",
+"titre": "Smooth interpolation of curve networks with surface normals",
+"annee": 2016,
+"type": "conférence",
+"lieu": "GTMG 2016 — Actes des Journées du Groupe de Travail en Modélisation Géométrique",
+"url": "https://inria.hal.science/hal-01372958v1"
+},
+{
+"id": "pe4e26b7c8b",
+"titre": "Surfacing Curve Networks with Normal Control",
+"annee": 2016,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://inria.hal.science/hal-01342465v2",
+"doi": "10.1016/j.cag.2016.07.001"
+},
+{
+"id": "p5d58ed5a05",
+"titre": "The 2D shape structure dataset: A user annotated open access database",
+"annee": 2016,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://inria.hal.science/hal-01322964v1",
+"doi": "10.1016/j.cag.2016.05.009"
+},
+{
+"id": "p25b5891245",
+"titre": "Animation interactive de papier froissé",
+"annee": 2015,
+"type": "conférence",
+"lieu": "Journées du Groupe de Travail de Modélisation Géométrique",
+"url": "https://hal.science/hal-01146948v1"
+},
+{
+"id": "p7c3a4ff4ce",
+"titre": "Idealized Models for FEA Derived from Generative Modeling Processes Based on Extrusion Primitives",
+"annee": 2015,
+"type": "journal",
+"lieu": "Engineering with Computers",
+"url": "https://inria.hal.science/hal-01108462v1",
+"doi": "10.1007/978-3-319-02335-9_8"
+},
+{
+"id": "p933f93376f",
+"titre": "Interactively animating crumpling paper",
+"annee": 2015,
+"type": "conférence",
+"lieu": "womEncourage 2015",
+"url": "https://inria.hal.science/hal-01146700v1"
+},
+{
+"id": "p8a1c0cb21e",
+"titre": "Non-smooth developable geometry for interactively animating paper crumpling",
+"annee": 2015,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-01202571v1",
+"doi": "10.1145/2829948"
+},
+{
+"id": "p9795439fcf",
+"titre": "Real-Time Continuous Self-Replicating Details for Shape Deformation",
+"annee": 2015,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://inria.hal.science/hal-01152928v1",
+"doi": "10.1016/j.cag.2015.05.011"
+},
+{
+"id": "p34db241a4b",
+"titre": "Replaceable Substructures for Efficient Part-Based Modeling",
+"annee": 2015,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-01134783v2",
+"doi": "10.1111/cgf.12579"
+},
+{
+"id": "pe20d75357d",
+"titre": "Sketching Folds: Developable Surfaces from Non-Planar Silhouettes",
+"annee": 2015,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-01152904v1",
+"doi": "10.1145/2749458"
+},
+{
+"id": "pe3b496bdd0",
+"titre": "Synthèse de son de papier adaptée au mouvement et à la géométrie de la surface",
+"annee": 2015,
+"type": "conférence",
+"lieu": "Journée de l'AFIG",
+"url": "https://inria.hal.science/hal-01240030v1"
+},
+{
+"id": "pc47b19bbb0",
+"titre": "Computation of Components' Interfaces in Highly Complex Assemblies",
+"annee": 2014,
+"type": "journal",
+"lieu": "Computer-Aided Design",
+"url": "https://inria.hal.science/hal-00854926v1",
+"doi": "10.1016/j.cad.2013.08.029"
+},
+{
+"id": "p456bf60113",
+"titre": "Deformations Preserving Gauß Curvature",
+"annee": 2014,
+"type": "chapitre",
+"lieu": "Topological and statistical methods for complex data -- Tackling large-scale, high-dimensional, and multivariate data sets",
+"url": "https://hal.science/hal-01070861v1",
+"doi": "10.1007/978-3-662-44900-4_9"
+},
+{
+"id": "pdd240c587c",
+"titre": "Extraction of generative processes from B-Rep shapes and application to idealization transformations",
+"annee": 2014,
+"type": "journal",
+"lieu": "Computer-Aided Design",
+"url": "https://inria.hal.science/hal-00922908v2",
+"doi": "10.1016/j.cad.2013.08.020"
+},
+{
+"id": "pbeda635a1f",
+"titre": "Feature-based terrain editing from complex sketches",
+"annee": 2014,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://inria.hal.science/hal-01100061v1",
+"doi": "10.1016/j.cag.2014.09.001"
+},
+{
+"id": "p18a5cd3885",
+"titre": "First Person Sketch-based Terrain Editing",
+"annee": 2014,
+"type": "conférence",
+"lieu": "Graphics Interface 2014",
+"url": "https://inria.hal.science/hal-00976689v1"
+},
+{
+"id": "p8dd45ba38b",
+"titre": "Flexible G1 Interpolation of Quad Meshes",
+"annee": 2014,
+"type": "journal",
+"lieu": "Graphical Models",
+"url": "https://inria.hal.science/hal-01064552v1",
+"doi": "10.1016/j.gmod.2014.09.001"
+},
+{
+"id": "p71040196f4",
+"titre": "Geometric Modeling (Dagstuhl Seminar 14221)",
+"annee": 2014,
+"type": "journal",
+"lieu": "Dagstuhl Reports",
+"url": "https://hal.science/hal-01064122v1",
+"doi": "10.4230/dagrep.4.5.68"
+},
+{
+"id": "pb4d2226f23",
+"titre": "Overview and State-of-the-Art of Uncertainty Visualization",
+"annee": 2014,
+"type": "chapitre",
+"lieu": "Scientific Visualization: Uncertainty, Multifield, Biomedical, Scalable",
+"url": "https://inria.hal.science/hal-01060465v1",
+"doi": "10.1007/978-1-4471-6497-5_1"
+},
+{
+"id": "p63dfbea692",
+"titre": "Piecewise Polynomial Reconstruction of Functions from Simplified Morse-Smale complex",
+"annee": 2014,
+"type": "conférence",
+"lieu": "IEEE Visualization conference 2014, SciVis Posters",
+"url": "https://inria.hal.science/hal-01100280v1"
+},
+{
+"id": "p679baa54c6",
+"titre": "Piecewise polynomial monotonic interpolation of 2D gridded data",
+"annee": 2014,
+"type": "chapitre",
+"lieu": "Topological and Statistical Methods for Complex Data",
+"url": "https://inria.hal.science/hal-01059532v1",
+"doi": "10.1007/978-3-662-44900-4_5"
+},
+{
+"id": "pc148617211",
+"titre": "Reconstruction polynomiale par morceaux de fonctions à partir de complexes de Morse-Smale simplifiés",
+"annee": 2014,
+"type": "conférence",
+"lieu": "AFIG 2014 - 27es journées de l’Association Française d’Informatique Graphique",
+"url": "https://inria.hal.science/hal-01100263v1"
+},
+{
+"id": "pa479452224",
+"titre": "Template-based geometric transformations of a functionally enriched DMU into FE assembly models",
+"annee": 2014,
+"type": "journal",
+"lieu": "Computer-Aided Design and Applications",
+"url": "https://inria.hal.science/hal-00922880v2",
+"doi": "10.1080/16864360.2014.881187"
+},
+{
+"id": "pb68184f60d",
+"titre": "Duplication de détails pour la déformation de surfaces",
+"annee": 2013,
+"type": "conférence",
+"lieu": "GTMG 2013 - Groupe de Travail en Modélisation Géométrique",
+"url": "https://hal.science/hal-00819277v1"
+},
+{
+"id": "p5a0f7e97b9",
+"titre": "Evaluation of Depth of Field for Depth Perception in DVR",
+"annee": 2013,
+"type": "conférence",
+"lieu": "IEEE Pacific Visualization 2013",
+"url": "https://inria.hal.science/hal-00762548v1",
+"doi": "10.1109/pacificvis.2013.6596131"
+},
+{
+"id": "pdf7c7b0f21",
+"titre": "Generating assembly models for adaptive simulations",
+"annee": 2013,
+"type": "conférence",
+"lieu": "ADMOS 2013 - VI International Conference on Adaptive Modeling and Simulation",
+"url": "https://inria.hal.science/hal-00922920v1"
+},
+{
+"id": "p073741faa2",
+"titre": "Idealized models for FEA derived from generative modeling processes based on extrusion primitives",
+"annee": 2013,
+"type": "conférence",
+"lieu": "22nd International Meshing Roundtable",
+"url": "https://inria.hal.science/hal-00922916v2"
+},
+{
+"id": "p91f173b3a2",
+"titre": "Proceedings of Solid and Physical Modeling 2012 - Special Issue of CAD Vol. 45 (2)",
+"annee": 2013,
+"type": "ouvrage",
+"lieu": "",
+"url": "https://hal.science/hal-01024863v1"
+},
+{
+"id": "pe62c122642",
+"titre": "Template-based geometric transformations of a functionally enriched DMU into FE assembly models",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Computer Aided Design and Applications",
+"url": "https://univ-grenoble-alpes.hal.science/hal-00966463v1"
+},
+{
+"id": "p92bb301731",
+"titre": "An analysis of DMU transformation requirements for structural assembly simulations",
+"annee": 2012,
+"type": "conférence",
+"lieu": "ECT 2012 - 8th International Conference on Engineering Computational Technology",
+"url": "https://inria.hal.science/hal-00765407v1",
+"doi": "10.4203/ccp.100.30"
+},
+{
+"id": "p891d42a648",
+"titre": "Geometric Modelling, Dagstuhl 2011 (Special Issue of Graphical Model Vol. 76 (6))",
+"annee": 2012,
+"type": "ouvrage",
+"lieu": "",
+"url": "https://hal.science/hal-01024845v1"
+},
+{
+"id": "pb9042e95a1",
+"titre": "Interface, représentations fonctionnelles et transformations d'assemblages complexes pour la simulation des structures",
+"annee": 2012,
+"type": "conférence",
+"lieu": "Congrès NAFEMS France - Simulation numérique : moteur de performance",
+"url": "https://hal.science/hal-00726150v1"
+},
+{
+"id": "pfa49d4adae",
+"titre": "Sharp feature preserving MLS surface reconstruction based on local feature line approximations",
+"annee": 2012,
+"type": "journal",
+"lieu": "Graphical Models",
+"url": "https://inria.hal.science/hal-00695492v1",
+"doi": "10.1016/j.gmod.2012.04.012"
+},
+{
+"id": "p055407efe6",
+"titre": "Volume Preserving FFD for Programmable Graphics Hardware",
+"annee": 2012,
+"type": "journal",
+"lieu": "The Visual Computer",
+"url": "https://hal.science/hal-00599442v2",
+"doi": "10.1007/s00371-011-0608-5"
+},
+{
+"id": "p5c708324c5",
+"titre": "Folded Paper Geometry from 2D Pattern and 3D Contour",
+"annee": 2011,
+"type": "conférence",
+"lieu": "Eurographics 2011 (short paper)",
+"url": "https://inria.hal.science/inria-00567408v1"
+},
+{
+"id": "pa4dd4e8f51",
+"titre": "Geometric Modeling (Dagstuhl Seminar Report 11211)",
+"annee": 2011,
+"type": "journal",
+"lieu": "Dagstuhl Reports",
+"url": "https://inria.hal.science/hal-00645749v1",
+"doi": "10.4230/dagrep.1.5.84"
+},
+{
+"id": "pe91f8b656d",
+"titre": "Link Conditions for Simplifying Meshes with Embedded Structures",
+"annee": 2011,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/inria-00461595v1",
+"doi": "10.1109/tvcg.2010.90"
+},
+{
+"id": "p776037e1d0",
+"titre": "Polyhedral modeling",
+"annee": 2011,
+"type": "conférence",
+"lieu": "VIS 2000 - 11th Annual IEEE Visualization Conference",
+"url": "https://inria.hal.science/hal-01708560v1",
+"doi": "10.1109/visual.2000.885719"
+},
+{
+"id": "pc0ea9b61ce",
+"titre": "Proceedings of Solid and Physical Modeling 2011 - Special Issue of CAD Vol. 43 (11)",
+"annee": 2011,
+"type": "ouvrage",
+"lieu": "",
+"url": "https://hal.science/hal-00646108v1"
+},
+{
+"id": "p284d702acb",
+"titre": "Substructure Topology Preserving Simplification of Tetrahedral Meshes",
+"annee": 2011,
+"type": "chapitre",
+"lieu": "Topological Methods in Data Analysis and Visualization",
+"url": "https://inria.hal.science/inria-00549234v1",
+"doi": "10.1007/978-3-642-15014-2_5"
+},
+{
+"id": "p75d57ead55",
+"titre": "Visualization of uncertain scalar data fields using color scales and perceptually adapted noise",
+"annee": 2011,
+"type": "conférence",
+"lieu": "ACM SIGGRAPH Symposium on Applied Perception in Graphics and Visualization (APGV)",
+"url": "https://inria.hal.science/inria-00600161v2",
+"doi": "10.1145/2077451.2077462"
+}
+]
+}

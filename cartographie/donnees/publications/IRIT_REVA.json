@@ -1,0 +1,3206 @@
+{
+"equipe": "IRIT/REVA",
+"publications": [
+{
+"id": "p2063b883d3",
+"titre": "A comparison of classifier robustness on the PCAM dataset",
+"annee": 2026,
+"type": "journal",
+"lieu": "Genetic Programming and Evolvable Machines",
+"url": "https://doi.org/10.1007/s10710-026-09547-8",
+"doi": "10.1007/s10710-026-09547-8"
+},
+{
+"id": "pc3e8cf5b0d",
+"titre": "Adaptive Expert Selection for Crack Segmentation Using a Top-K Mixture-of-Experts Framework with Out-of-Fold Supervision",
+"annee": 2026,
+"type": "journal",
+"lieu": "Electronics",
+"url": "https://doi.org/10.3390/electronics15020407",
+"doi": "10.3390/electronics15020407"
+},
+{
+"id": "pde347efcfb",
+"titre": "An open-source closed-loop Virtual Reality system to investigate social interactions and collective behavior in fish",
+"annee": 2026,
+"type": "journal",
+"lieu": "PLoS ONE",
+"url": "https://doi.org/10.1371/journal.pone.0339909",
+"doi": "10.1371/journal.pone.0339909"
+},
+{
+"id": "p4d92f96642",
+"titre": "Analyzing Interpretable Visual Control Policy Search and Synthesis",
+"annee": 2026,
+"type": "journal",
+"lieu": "ACM Transactions on Evolutionary Learning and Optimization",
+"url": "https://doi.org/10.1145/3799432",
+"doi": "10.1145/3799432"
+},
+{
+"id": "pa1dd12e476",
+"titre": "Application of Stereophotometry in Archaeology: Development of a Workflow",
+"annee": 2026,
+"type": "conférence",
+"lieu": "Patrimoine, Archéométrie et Apparence",
+"url": "https://hal.science/hal-05695268v1"
+},
+{
+"id": "p29a89e04d5",
+"titre": "Assessing Evolving and Learning-Based Controllers for Efficient Cursor Control in Human-Computer Interaction",
+"annee": 2026,
+"type": "conférence",
+"lieu": "9th European Conference, EvoApplications 2026, Held as Part of EvoStar 2026",
+"url": "https://hal.science/hal-05618288v1",
+"doi": "10.1007/978-3-032-23604-3_15"
+},
+{
+"id": "p7443ff09ef",
+"titre": "Closed-loop real-virtual interactions validate 3D model of social coordination in fish",
+"annee": 2026,
+"type": "journal",
+"lieu": "PLoS Computational Biology",
+"url": "https://doi.org/10.1371/journal.pcbi.1014544",
+"doi": "10.1371/journal.pcbi.1014544"
+},
+{
+"id": "pf11f76dfa9",
+"titre": "Context- and refinement-driven convolutional architecture for robust crack segmentation under real-world and zero-shot conditions",
+"annee": 2026,
+"type": "journal",
+"lieu": "Automation in Construction",
+"url": "https://ut-toulouseinp.hal.science/hal-05698821v1",
+"doi": "10.1016/j.autcon.2025.106635"
+},
+{
+"id": "p217b2d95fb",
+"titre": "Crisis management training framework supported by virtual reality and artificial intelligence",
+"annee": 2026,
+"type": "journal",
+"lieu": "Digital Engineering",
+"url": "https://imt-mines-albi.hal.science/hal-05630401v1",
+"doi": "10.1016/j.dte.2026.100122"
+},
+{
+"id": "pbbe7bba145",
+"titre": "Decoding Social Integration in Schooling Fish Using Closed-Loop Real-Virtual Interactions",
+"annee": 2026,
+"type": "journal",
+"lieu": "PRX Life",
+"url": "https://hal.science/hal-05844761v1",
+"doi": "10.1103/18qw-sfyd"
+},
+{
+"id": "p8fdedc0eab",
+"titre": "Des avatars virtuels pour percer le secret des bancs de poissons",
+"annee": 2026,
+"type": "journal",
+"lieu": "Pour la science",
+"url": "https://hal.science/hal-05767428v1"
+},
+{
+"id": "p06460a66fe",
+"titre": "From surface to normals: complementary photographic methods for heritage conservation",
+"annee": 2026,
+"type": "conférence",
+"lieu": "Séminaire PIONNIER : \"Enjeux méthodologiques pour l’archéologie et l’histoire\"",
+"url": "https://hal.science/hal-05700668v1"
+},
+{
+"id": "pcd463964a2",
+"titre": "Improving Hydrogen Technical Skills through the Use of a Digital Training",
+"annee": 2026,
+"type": "conférence",
+"lieu": "CSEDU 2026 - 18th International Conference on Computer Supported Education",
+"url": "https://imt-mines-albi.hal.science/hal-05727681v1",
+"doi": "10.5220/0015073500004021"
+},
+{
+"id": "pacef27fd66",
+"titre": "Integrating Multi-view Multi-light Surface Reconstruction into Cultural Heritage Workflows",
+"annee": 2026,
+"type": "conférence",
+"lieu": "European Conference on Computer Vision (ECCV) Workshops — VISART VIII: Vision for Art Workshop",
+"url": "https://hal.science/hal-05751741v1"
+},
+{
+"id": "p741ab17741",
+"titre": "Learning Transfer Functions for Accessible and Efficient Mouse Interactions via Reinforcement Learning",
+"annee": 2026,
+"type": "conférence",
+"lieu": "IHM’26 - 37e Conférence Internationale Francophone sur l'Interaction Humain-Machine",
+"url": "https://hal.science/hal-05776334v1"
+},
+{
+"id": "pe189baf65b",
+"titre": "Lunar-G2R: Geometry-to-Reflectance Learning for High-Fidelity Lunar BRDF Estimation",
+"annee": 2026,
+"type": "conférence",
+"lieu": "International Conference on Pattern Recognition (ICPR)",
+"url": "https://hal.science/hal-05734437v1",
+"doi": "10.1007/978-3-032-31583-0_27"
+},
+{
+"id": "pf318c306cf",
+"titre": "MoonAnything: A Vision Benchmark with Large-Scale Lunar Supervised Data",
+"annee": 2026,
+"type": "conférence",
+"lieu": "MMSys '26: ACM Multimedia Systems Conference 2026",
+"url": "https://hal.science/hal-05585915v1",
+"doi": "10.1145/3793853.3799814"
+},
+{
+"id": "pd3c785c982",
+"titre": "Multi-view Shape-from-Shading: a Tour",
+"annee": 2026,
+"type": "journal",
+"lieu": "Communications on Applied Mathematics and Computation",
+"url": "https://hal.science/hal-05749277v2",
+"doi": "10.1007/s42967-026-00610-w"
+},
+{
+"id": "pdea0fbd791",
+"titre": "Multi-view Surface Reconstruction Using Normal and Reflectance Cues",
+"annee": 2026,
+"type": "journal",
+"lieu": "International Journal of Computer Vision",
+"url": "https://hal.science/hal-05455975v1",
+"doi": "10.1007/s11263-025-02628-8"
+},
+{
+"id": "p11f6743ff7",
+"titre": "On Interpretability in Multimodal Biomedical Image Analysis",
+"annee": 2026,
+"type": "chapitre",
+"lieu": "Genetic and evolutionary computation",
+"url": "https://doi.org/10.1007/978-981-95-6398-2_5",
+"doi": "10.1007/978-981-95-6398-2_5"
+},
+{
+"id": "p8e3082b6d9",
+"titre": "ROI-NeRFs: Hi-Fi Visualization of Objects of Interest within a Scene by NeRFs Composition",
+"annee": 2026,
+"type": "conférence",
+"lieu": "Proceedings of the International Conference on Computer Vision Theory and Applications",
+"url": "https://hal.science/hal-05489854v1",
+"doi": "10.5220/0014222100004084"
+},
+{
+"id": "pcee45afad0",
+"titre": "Swimming speed of schooling fish controls social interaction strength in open-loop immersive virtual reality",
+"annee": 2026,
+"type": "journal",
+"lieu": "Proceedings of the Royal Society B: Biological Sciences",
+"url": "https://hal.science/hal-05735826v1",
+"doi": "10.1098/rspb.2026.0146"
+},
+{
+"id": "pe94bc6a9bd",
+"titre": "The usefulness of highlighting the Neolithic statuary of Rouergue using 3D photographic reconstruction techniques",
+"annee": 2026,
+"type": "chapitre",
+"lieu": "Monographies Instrumentum",
+"url": "https://hal.science/hal-04559541v1"
+},
+{
+"id": "pce894b1445",
+"titre": "Unified Comparison of skeletal motion analysis models for Assessment of Physical Rehabilitation Exercises",
+"annee": 2026,
+"type": "conférence",
+"lieu": "Congrès Reconnaissance des Formes, Image, Apprentissage et Perception (RFIAP 2026)",
+"url": "https://hal.science/hal-05654964v1"
+},
+{
+"id": "p79bd8c863c",
+"titre": "Unravelling Cascading Phenomena in Sociotechnical Systems: A Systematic Review and Modelling Framework",
+"annee": 2026,
+"type": "journal",
+"lieu": "Systems Research and Behavioral Science",
+"url": "https://imt-mines-albi.hal.science/hal-05634991v1",
+"doi": "10.1002/sres.70086"
+},
+{
+"id": "pc351dd558a",
+"titre": "XROI-GS: Real-time XR Interactive Inspection of High-quality Objects of Interest in a 3D Gaussian Splats Scene",
+"annee": 2026,
+"type": "conférence",
+"lieu": "Proceedings of the International Conference on Multimedia Modeling (MMM)",
+"url": "https://hal.science/hal-05489951v1",
+"doi": "10.1007/978-981-95-6963-2_9"
+},
+{
+"id": "pbdf6376c34",
+"titre": "Étalonnage de la réponse du capteur photographique -Application à la stéréophotométrie",
+"annee": 2026,
+"type": "conférence",
+"lieu": "Congrès Reconnaissance des Formes, Image, Apprentissage et Perception (RFIAP 2026)",
+"url": "https://hal.science/hal-05662001v1"
+},
+{
+"id": "p02bbf9a69e",
+"titre": "106P APRIORICS: An open large-scale dataset for biological structure segmentation on breast cancer digital H&E slides",
+"annee": 2025,
+"type": "journal",
+"lieu": "ESMO Real World Data and Digital Oncology",
+"url": "https://doi.org/10.1016/j.esmorw.2025.100303",
+"doi": "10.1016/j.esmorw.2025.100303"
+},
+{
+"id": "p24b0227f2a",
+"titre": "3D-FireRecon: Single-Image 3D Firearm Reconstruction Using Video-Derived Voxel Supervision",
+"annee": 2025,
+"type": "conférence",
+"lieu": "Proceedings of the IEEEBigData Workshop on Big Data Applications for Fight Against Crime and Terrorism",
+"url": "https://hal.science/hal-05489546v1"
+},
+{
+"id": "p73d417f6ba",
+"titre": "Adapting Stereo Vision From Objects To 3D Lunar Surface Reconstruction with the StereoLunar Dataset",
+"annee": 2025,
+"type": "conférence",
+"lieu": "International Conference on Computer Vision (ICCV) Workshops 3D-VAST",
+"url": "https://hal.science/hal-05344436v1",
+"doi": "10.48550/arxiv.2510.18172"
+},
+{
+"id": "p6baf20eafe",
+"titre": "Animation d'avatars parlants : Revue et évaluation d'approches génératives",
+"annee": 2025,
+"type": "conférence",
+"lieu": "ORASIS 2025",
+"url": "https://hal.science/hal-05142110v1"
+},
+{
+"id": "pccf62aaef9",
+"titre": "Annotation-Efficient Crack Segmentation in Full Scene Images via Bounding Box-Guided Feature Modulation",
+"annee": 2025,
+"type": "chapitre",
+"lieu": "Frontiers in artificial intelligence and applications",
+"url": "https://doi.org/10.3233/faia250599",
+"doi": "10.3233/faia250599"
+},
+{
+"id": "pee4cfac54c",
+"titre": "Annotation-Efficient and Domain-General Segmentation from Weak Labels: A Bounding Box-Guided Approach",
+"annee": 2025,
+"type": "journal",
+"lieu": "Electronics",
+"url": "https://doi.org/10.3390/electronics14193917",
+"doi": "10.3390/electronics14193917"
+},
+{
+"id": "pf93c30d308",
+"titre": "Application of Photometric Stereo to the Study of Rock Art in Chauvet Cave",
+"annee": 2025,
+"type": "conférence",
+"lieu": "Digital Horizons: Embracing heritage in an evolving world",
+"url": "https://hal.science/hal-05062732v1"
+},
+{
+"id": "pcaf6c26101",
+"titre": "Assessing the Quality of 3D Reconstruction in the Absence of Ground Truth: Application to a Multimodal Archaeological Dataset",
+"annee": 2025,
+"type": "conférence",
+"lieu": "IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)",
+"url": "https://hal.science/hal-04942610v1",
+"doi": "10.1109/wacv61041.2025.00341"
+},
+{
+"id": "pc547eb5498",
+"titre": "Authoring training scenarios “from within” in an immersive environment with the CESTATE framework",
+"annee": 2025,
+"type": "journal",
+"lieu": "Interactive Learning Environments",
+"url": "https://imt-mines-albi.hal.science/hal-04676408v1",
+"doi": "10.1080/10494820.2024.2388784"
+},
+{
+"id": "pbfb00c31d8",
+"titre": "Collective phases and long-term dynamics in a fish school model with burst-and-coast swimming",
+"annee": 2025,
+"type": "journal",
+"lieu": "Royal Society Open Science",
+"url": "https://doi.org/10.1098/rsos.240885",
+"doi": "10.1098/rsos.240885"
+},
+{
+"id": "p625c1a5468",
+"titre": "Combining Geometric and Photometric 3D Reconstruction Techniques for Cultural Heritage",
+"annee": 2025,
+"type": "journal",
+"lieu": "Journal of Cultural Heritage",
+"url": "https://hal.science/hal-04972777v1",
+"doi": "10.1016/j.culher.2025.02.013"
+},
+{
+"id": "pb513504525",
+"titre": "De la détection au relevé : une simple question d’apprentissage ?",
+"annee": 2025,
+"type": "conférence",
+"lieu": "IA et Patrimoine",
+"url": "https://hal.science/hal-05368081v1"
+},
+{
+"id": "p793d0e82fb",
+"titre": "De la stéréophotométrie au relevé archéologique : une nouvelle chaîne opératoire pour la lecture du relief de surface",
+"annee": 2025,
+"type": "conférence",
+"lieu": "IA et innovations numériques : usages et enjeux en archéologie",
+"url": "https://hal.science/hal-05368108v1"
+},
+{
+"id": "pc7b78357fe",
+"titre": "Deep-learning based Detection and Segmentation in Archaeology",
+"annee": 2025,
+"type": "conférence",
+"lieu": "Digital Horizons: Embracing heritage in an evolving world",
+"url": "https://hal.science/hal-05058754v1"
+},
+{
+"id": "pd899461889",
+"titre": "EARLY PREDICTION OF AT-RISK STUDENTS WITH MINIMAL DATA: A LEARNER PROFILE MODELING APPROACH",
+"annee": 2025,
+"type": "conférence",
+"lieu": "EDULEARN 2025",
+"url": "https://hal.science/hal-05550238v1"
+},
+{
+"id": "pef717bb67f",
+"titre": "EVOLVED AND TRANSPARENT PIPELINES FOR BIOMEDICAL IMAGE CLASSIFICATION",
+"annee": 2025,
+"type": "conférence",
+"lieu": "European Conference on Genetic Programming (Part of EvoStar)",
+"url": "https://hal.science/hal-05039992v1",
+"doi": "10.1007/978-3-031-89991-1_11"
+},
+{
+"id": "pded46033b5",
+"titre": "Evolution of Inherently Interpretable Visual Control Policies",
+"annee": 2025,
+"type": "conférence",
+"lieu": "GECCO '25: Genetic and Evolutionary Computation Conference",
+"url": "https://hal.science/hal-05178539v1",
+"doi": "10.1145/3712256.3726332"
+},
+{
+"id": "pfc1a4c0894",
+"titre": "Exploración asistida de un texto: ¿qué papeles para el usuario y para el algoritmo?",
+"annee": 2025,
+"type": "conférence",
+"lieu": "Catecismos dialogados castellanos del XVI en tiempos de los coloquios de religion",
+"url": "https://hal.science/hal-05217921v1"
+},
+{
+"id": "p8dee3778ce",
+"titre": "Fast and Accurate 3D Face Reconstruction from Multiple Uncalibrated Images",
+"annee": 2025,
+"type": "conférence",
+"lieu": "International Conference on Computer Analysis of Images and Patterns",
+"url": "https://hal.science/hal-05372714v1",
+"doi": "10.1007/978-3-032-04968-1_7"
+},
+{
+"id": "p40d8d21b36",
+"titre": "Immersive Crisis Training: Features, Observations and the Shift From Traditional Crisis Exercises",
+"annee": 2025,
+"type": "journal",
+"lieu": "Journal of Contingencies and Crisis Management",
+"url": "https://imt-mines-albi.hal.science/hal-05046995v1",
+"doi": "10.1111/1468-5973.70049"
+},
+{
+"id": "p50f98c91e6",
+"titre": "La hiérarchie en vision par ordinateur : Bilan et perspectives",
+"annee": 2025,
+"type": "conférence",
+"lieu": "ORASIS 2025",
+"url": "https://hal.science/hal-05131263v1"
+},
+{
+"id": "pe8b74ecda0",
+"titre": "LapisGS: Layered Progressive 3D Gaussian Splatting for Adaptive Streaming.",
+"annee": 2025,
+"type": "conférence",
+"lieu": "Proceedings of the 2025 International Conference on 3D Vision (3DV)",
+"url": "https://hal.science/hal-04913052v1",
+"doi": "10.1109/3dv66043.2025.00096"
+},
+{
+"id": "pbb818dab94",
+"titre": "Mise en place d'une méthode de reconstruction 3D du sol lunaire à partir de plusieurs images dans un contexte d'atterrissage",
+"annee": 2025,
+"type": "conférence",
+"lieu": "ORASIS 2025",
+"url": "https://hal.science/hal-05131264v1"
+},
+{
+"id": "p3e2079adf4",
+"titre": "Pedagogical Extension of the Smart Object Concept for Embodied Conversational Agents",
+"annee": 2025,
+"type": "conférence",
+"lieu": "11th International Conference of the Immersive Learning Research Network",
+"url": "https://hal.science/hal-05329649v1",
+"doi": "10.56198/5xdy4g60"
+},
+{
+"id": "pe666b1a175",
+"titre": "ROI-GS: Interest-based Local Quality 3D Gaussian Splatting",
+"annee": 2025,
+"type": "conférence",
+"lieu": "Proceedings of the International Conference on Visual Communications and Image Processing (VCIP)",
+"url": "https://hal.science/hal-05489655v1",
+"doi": "10.1109/vcip67698.2025.11396827"
+},
+{
+"id": "p233fe526d0",
+"titre": "Self-calibrated Near-light Photometric Stereo using a Geometric Proxy",
+"annee": 2025,
+"type": "conférence",
+"lieu": "10th International Conference on Scale Space and Variational Methods in Computer Vision",
+"url": "https://hal.science/hal-05004867v1",
+"doi": "10.1007/978-3-031-92369-2_28"
+},
+{
+"id": "pfa074bc77c",
+"titre": "Sex and environment shape cochlear sensitivity in human populations worldwide",
+"annee": 2025,
+"type": "journal",
+"lieu": "Scientific Reports",
+"url": "https://mnhn.hal.science/mnhn-05099274v1",
+"doi": "10.1038/s41598-025-92763-6"
+},
+{
+"id": "pe72a4ac00e",
+"titre": "Sketch and Patch: Efficient 3D Gaussian Representation for Man-Made Scenes",
+"annee": 2025,
+"type": "conférence",
+"lieu": "MMVE '25: 17th International Workshop on IMmersive Mixed and Virtual Environment Systems",
+"url": "https://hal.science/hal-05010909v1",
+"doi": "10.1145/3712677.3720466"
+},
+{
+"id": "p6a22261456",
+"titre": "Stéréophotométrie auto-calibrée",
+"annee": 2025,
+"type": "conférence",
+"lieu": "ORASIS 2025",
+"url": "https://hal.science/hal-05038532v1"
+},
+{
+"id": "p65b4eb60c7",
+"titre": "Transform your Smartphone in a Real-time Sonagram Player",
+"annee": 2025,
+"type": "conférence",
+"lieu": "ACM International Conference on Multimedia",
+"url": "https://hal.science/hal-05323417v1",
+"doi": "10.1145/3746027.3756141"
+},
+{
+"id": "p58a6f46f33",
+"titre": "Une nouvelle chaîne opératoire de reconstruction 3D basée sur la stéréophotométrie",
+"annee": 2025,
+"type": "conférence",
+"lieu": "Journées Informatique et Archéologie de Paris",
+"url": "https://hal.science/hal-05100595v1"
+},
+{
+"id": "pba3a4f695b",
+"titre": "eCHFD : extended Ceasefire Hierarchical Firearm Dataset",
+"annee": 2025,
+"type": "conférence",
+"lieu": "MMSys '25: 16th ACM Multimedia Systems Conference",
+"url": "https://hal.science/hal-05056799v1",
+"doi": "10.1145/3712676.3718333"
+},
+{
+"id": "p6b55eba0db",
+"titre": "(R)-evolution in the implementation of photometric stereo - Application to archaeology",
+"annee": 2024,
+"type": "conférence",
+"lieu": "Low-Cost 3D - Sensors, Algorithms, Applications",
+"url": "https://hal.science/hal-04830609v1",
+"doi": "10.5194/isprs-archives-xlviii-2-w8-2024-289-2024"
+},
+{
+"id": "pc84943f2f4",
+"titre": "A CRITS Foray Into Cultural Heritage: Background Characters For The SHELeadersVR Project",
+"annee": 2024,
+"type": "conférence",
+"lieu": "Creating Lively Interactive Populated Environments Workshop (CLIPE 2024)",
+"url": "https://hal.science/hal-05279593v1",
+"doi": "10.2312/cl.20241046"
+},
+{
+"id": "p592a384199",
+"titre": "A Quality-Based Criteria for Efficient View Selection",
+"annee": 2024,
+"type": "conférence",
+"lieu": "Proceedings of the International Conference on Robotics, Computer Vision and Intelligent Systems",
+"url": "https://hal.science/hal-04731346v1",
+"doi": "10.1007/978-3-031-59057-3_13"
+},
+{
+"id": "p585281fe15",
+"titre": "CEASEFIRE: An AI-Powered System for Combating Illicit Firearms Trafficking",
+"annee": 2024,
+"type": "conférence",
+"lieu": "2024 IEEE International Conference on Big Data (BigData)",
+"url": "https://hal.science/hal-04949493v1",
+"doi": "10.1109/bigdata62323.2024.10825989"
+},
+{
+"id": "p528ddfbfd8",
+"titre": "Ceasefire Hierarchical Weapon Dataset",
+"annee": 2024,
+"type": "conférence",
+"lieu": "MMSys '24: ACM Multimedia Systems Conference 2024",
+"url": "https://hal.science/hal-04752643v1",
+"doi": "10.1145/3625468.3653434"
+},
+{
+"id": "p4609b45515",
+"titre": "Exploring Manifestations of Learners’ Self-Regulated Tactics and Strategies Across Blended Learning Courses",
+"annee": 2024,
+"type": "journal",
+"lieu": "IEEE Transactions on Learning Technologies",
+"url": "https://hal.science/hal-04550149v1",
+"doi": "10.1109/tlt.2024.3385641"
+},
+{
+"id": "pf2d391704e",
+"titre": "Extension pédagogique du concept de smart object pour les agents conversationnels incarnés",
+"annee": 2024,
+"type": "conférence",
+"lieu": "Workshop Affects, Compagnons Artificiels et Interactions (WACAI)",
+"url": "https://hal.science/hal-04820722v1"
+},
+{
+"id": "p52188db495",
+"titre": "Intégration des relations de composition / décomposition pour la segmentation d'objets en considérant les sous-parties et une classification hiérarchique",
+"annee": 2024,
+"type": "conférence",
+"lieu": "Reconnaissance des Formes, Images, Apprentissage et Perception",
+"url": "https://hal.science/hal-04621321v1"
+},
+{
+"id": "pbf5459ee31",
+"titre": "Is Usability Always Productive in Learning Environments?",
+"annee": 2024,
+"type": "conférence",
+"lieu": "ILRN 2024 - 10th International Conference on Immersive Learning",
+"url": "https://imt-mines-albi.hal.science/hal-04979932v1",
+"doi": "10.1007/978-3-031-80475-5_15"
+},
+{
+"id": "paf6621fa98",
+"titre": "Light and 3D: a methodological exploration of digitisation techniques adapted to a selection of objects from the Musée d'Archéologie Nationale",
+"annee": 2024,
+"type": "journal",
+"lieu": "Antiquités nationales",
+"url": "https://hal.science/hal-04559477v1"
+},
+{
+"id": "p870849fd43",
+"titre": "Most Relevant Viewpoint of an Object: a View-Dependent 3D Saliency Approach",
+"annee": 2024,
+"type": "conférence",
+"lieu": "19th International Conference on Computer Vision Theory and Applications",
+"url": "https://hal.science/hal-05007327v1",
+"doi": "10.5220/0012379500003660"
+},
+{
+"id": "p237d8f931c",
+"titre": "Multi-view stereo of an object immersed in a refractive medium",
+"annee": 2024,
+"type": "journal",
+"lieu": "Journal of Electronic Imaging",
+"url": "https://hal.science/hal-04567615v2",
+"doi": "10.1117/1.jei.33.3.033005"
+},
+{
+"id": "p50588780c5",
+"titre": "Multimodal Adaptive Graph Evolution for Program Synthesis",
+"annee": 2024,
+"type": "conférence",
+"lieu": "PPSN XVIII. PPSN 2024",
+"url": "https://hal.science/hal-04821790v1",
+"doi": "10.1007/978-3-031-70055-2_19"
+},
+{
+"id": "paa35dfd6c9",
+"titre": "Photographic 3D Scanning in the Wild",
+"annee": 2024,
+"type": "conférence",
+"lieu": "Advances in Applied Mathematics and Learning Approaches for Cultural Heritage and the Arts (2024)",
+"url": "https://hal.science/hal-04561203v1"
+},
+{
+"id": "p3d478927d6",
+"titre": "Projet NéNuFAR",
+"annee": 2024,
+"type": "conférence",
+"lieu": "Les journées du consortium 3D pour les humanités numériques",
+"url": "https://hal.science/hal-04908313v1"
+},
+{
+"id": "p99292bca58",
+"titre": "RNb-NeuS: Reflectance and Normal-based Multi-View 3D Reconstruction",
+"annee": 2024,
+"type": "conférence",
+"lieu": "IEEE / CVF International Conference on Computer Vision and Pattern Recognition (CVPR 2024)",
+"url": "https://hal.science/hal-04526751v2",
+"doi": "10.1109/cvpr52733.2024.00500"
+},
+{
+"id": "p9d09a19782",
+"titre": "Sequential Decision-Making in Atari 2600 Games: Comparing Temporal Feature",
+"annee": 2024,
+"type": "conférence",
+"lieu": "2024 Artificial Intelligence Revolutions (AIR)",
+"url": "https://hal.science/hal-05069376v1",
+"doi": "10.1109/air63653.2024.00027"
+},
+{
+"id": "p4f8fd61ba5",
+"titre": "Stéréophotométrie avec estimation locale de l'éclairage - Application à la reconstruction 3D du patrimoine archéologique",
+"annee": 2024,
+"type": "conférence",
+"lieu": "Congrès Reconnaissance des Formes, Image, Apprentissage et Perception (RFIAP 2024)",
+"url": "https://hal.science/hal-04594418v2"
+},
+{
+"id": "p60ee3f0bf7",
+"titre": "Volumetric Video Compression Through Neural-based Representation",
+"annee": 2024,
+"type": "conférence",
+"lieu": "16th International Workshop on Immersive Mixed and Virtual Environment Systems @ ACM Multimedia Systems Conference (MMSys 2024)",
+"url": "https://hal.science/hal-04550588v1",
+"doi": "10.1145/3652212.3652220"
+},
+{
+"id": "p559464c677",
+"titre": "3D scanning for rock art studies: Chauvet-Pont d’Arc cave",
+"annee": 2023,
+"type": "conférence",
+"lieu": "UISPP XX World Congress: Exploring the world’s prehistory (UISPP 2023)",
+"url": "https://hal.science/hal-04198591v1"
+},
+{
+"id": "p6ccf2dac42",
+"titre": "A Framework for virtual training in a crisis context and a focus on the animation component: the gamemaster workshop",
+"annee": 2023,
+"type": "conférence",
+"lieu": "HICSS2023 - 56th Hawaii International Conference on System Sciences",
+"url": "https://imt-mines-albi.hal.science/hal-04008019v1"
+},
+{
+"id": "pb16ee5811d",
+"titre": "A Shape-from-silhouette Method for 3D-reconstruction of a Convex Polyhedron",
+"annee": 2023,
+"type": "conférence",
+"lieu": "16th International Conference on Quality Control By Artificial Vision 2023 (QCAV 2023)",
+"url": "https://hal.science/hal-04161936v1",
+"doi": "10.1117/12.3000368"
+},
+{
+"id": "p858f91e4ac",
+"titre": "Correl-Net: Defect Segmentation in Old Films Using Correlation Networks",
+"annee": 2023,
+"type": "conférence",
+"lieu": "22nd Scandinavian Conference on Image Analysis (SCIA 2023)",
+"url": "https://hal.science/hal-04492582v1",
+"doi": "10.1007/978-3-031-31438-4_17"
+},
+{
+"id": "pe1809853a4",
+"titre": "Effortlessly Populating Immersive Training Simulations with Background Characters",
+"annee": 2023,
+"type": "conférence",
+"lieu": "XR Salento",
+"url": "https://hal.science/hal-04750549v1",
+"doi": "10.1007/978-3-031-43401-3_11"
+},
+{
+"id": "pe34fbdc10c",
+"titre": "Evolutionary design of explainable algorithms for biomedical image segmentation",
+"annee": 2023,
+"type": "journal",
+"lieu": "Nature Communications",
+"url": "https://hal.science/hal-04342169v1",
+"doi": "10.1038/s41467-023-42664-x"
+},
+{
+"id": "pa6a8a998f5",
+"titre": "How to relate synchronized static videos between each other in an active learning set-up?",
+"annee": 2023,
+"type": "journal",
+"lieu": "Expert Systems with Applications",
+"url": "https://hal.science/hal-04000252v1",
+"doi": "10.1016/j.eswa.2022.119344"
+},
+{
+"id": "pc2cef587cc",
+"titre": "Integration of photometric stereo for heritage into the AliceVision Meshroom open-source software",
+"annee": 2023,
+"type": "conférence",
+"lieu": "Les journées du Consortium 3D pour les SHS (JCDSHS 2023)",
+"url": "https://hal.science/hal-04301944v1"
+},
+{
+"id": "p18293cf33e",
+"titre": "Intégration de la stéréophotométrie pour le patrimoine dans la suite logicielle open-source Alicevision Meshroom",
+"annee": 2023,
+"type": "conférence",
+"lieu": "Les Journées du Consortium 3D SHS, Lyon (JC3DSHS 2023)",
+"url": "https://hal.science/hal-04469351v2"
+},
+{
+"id": "pa477682976",
+"titre": "Most Relevant Viewpoint of an Object: a View-Dependent 3D Saliency Approach",
+"annee": 2023,
+"type": "conférence",
+"lieu": "J.FIG 2023 : Les journées Françaises de l'Informatique Graphique 2023",
+"url": "https://hal.science/hal-05007367v1"
+},
+{
+"id": "p180fba4715",
+"titre": "Multi-View Normal Estimation - Application to Slanted Plane-sweeping",
+"annee": 2023,
+"type": "conférence",
+"lieu": "9th International Conference on Scale Space and Variational Methods in Computer Vision (SSMV 2023)",
+"url": "https://hal.science/hal-04038245v1",
+"doi": "10.1007/978-3-031-31975-4_54"
+},
+{
+"id": "p55f86b420a",
+"titre": "Neural detection of spheres in images for lighting calibration",
+"annee": 2023,
+"type": "conférence",
+"lieu": "16th International Conference on Quality Control By Artificial Vision 2023 (QCAV 2023)",
+"url": "https://hal.science/hal-04160733v1",
+"doi": "10.1117/12.3000202"
+},
+{
+"id": "p67ab2e3a5f",
+"titre": "On Photometric Stereo in the Presence of a Refractive Interface",
+"annee": 2023,
+"type": "conférence",
+"lieu": "9th International Conference on Scale Space and Variational Methods in Computer Vision (SSVM 2023)",
+"url": "https://hal.science/hal-04038233v1",
+"doi": "10.1007/978-3-031-31975-4_53"
+},
+{
+"id": "pa5bf510013",
+"titre": "Projet Archaeoroom : numérisation du patrimoine archéologique et développement de la suite logicielle open-source AliceVision Meshroom",
+"annee": 2023,
+"type": "conférence",
+"lieu": "Colloque international Imagerie scientifique et objet archéologique (CORPUS 2023)",
+"url": "https://hal.science/hal-04035153v1"
+},
+{
+"id": "p36e7e0db86",
+"titre": "Thin Details Meet Large-Scale 3D-Reconstruction: Photometric Stereo for Cultural Heritage",
+"annee": 2023,
+"type": "conférence",
+"lieu": "1st international conference on artificIAl Intelligence and applied MAthematics for History and Archaeology (IAMAHA 2023)",
+"url": "https://hal.science/hal-04559503v1"
+},
+{
+"id": "pb2b96b7f24",
+"titre": "To quantify an image relevance relative to a target 3D object",
+"annee": 2023,
+"type": "conférence",
+"lieu": "The Scandinavian Conference on Image Analysis",
+"url": "https://hal.science/hal-05007308v1",
+"doi": "10.1007/978-3-031-31435-3_12"
+},
+{
+"id": "p4e031054df",
+"titre": "Évaluation et comparaison de méthodes de reconstruction 3D fine de visages à partir de plusieurs images non calibrées",
+"annee": 2023,
+"type": "conférence",
+"lieu": "19èmes journées francophones des jeunes chercheurs en vision par ordinateur (ORASIS 2023)",
+"url": "https://hal.science/hal-04219395v1"
+},
+{
+"id": "p4c726b9d8c",
+"titre": "3D Digitization of Heritage: Photometric Stereo can Help",
+"annee": 2022,
+"type": "conférence",
+"lieu": "ISPRS-International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences",
+"url": "https://hal.science/hal-03926427v1",
+"doi": "10.5194/isprs-archives-xlviii-2-w1-2022-145-2022"
+},
+{
+"id": "p858754e5ed",
+"titre": "3D digitisation of heritage by stereophotometry",
+"annee": 2022,
+"type": "conférence",
+"lieu": "Les journées du Consortium 3D pour les SHS (JC3DSHS 2022)",
+"url": "https://hal.science/hal-03904938v1"
+},
+{
+"id": "p7840b09c44",
+"titre": "A Study on the Impact of Class Distribution on Deep Learning - The Case of Histological Images and Cancer Detection",
+"annee": 2022,
+"type": "conférence",
+"lieu": "2nd Joint Conference of the Information Retrieval Communities in Europe (CIRCLE 2022)",
+"url": "https://ut-toulouseinp.hal.science/hal-03853768v1"
+},
+{
+"id": "pf7f3c02f4e",
+"titre": "Blind Quality of a 3D Reconstructed Mesh",
+"annee": 2022,
+"type": "conférence",
+"lieu": "29th IEEE International Conference on Image Processing (ICIP 2022)",
+"url": "https://hal.science/hal-03821315v1",
+"doi": "10.1109/icip46576.2022.9897783"
+},
+{
+"id": "pd6f7f817bb",
+"titre": "Blind Quality of a 3D reconstructed mesh",
+"annee": 2022,
+"type": "conférence",
+"lieu": "Conférence Reconnaissance des Formes, Image, Apprentissage et Perception (RFIAP 2022)",
+"url": "https://hal.science/hal-03715031v1"
+},
+{
+"id": "p4a91544ce6",
+"titre": "Contributions of Photometry to the 3D-digitization of Heritage",
+"annee": 2022,
+"type": "conférence",
+"lieu": "4th Workshop on Structuring and Understanding of Multimedia heritAge Contents (SUMAC 2022)",
+"url": "https://hal.science/hal-03794929v1",
+"doi": "10.1145/3552464.3555683"
+},
+{
+"id": "p95d7b03162",
+"titre": "Correl-Net : segmentation des défauts par apprentissage profond dans les films anciens à l'aide de couches de corrélation",
+"annee": 2022,
+"type": "conférence",
+"lieu": "Reconnaissance des Formes, Image, Apprentissage et Perception (RFIAP 2022)",
+"url": "https://hal.science/hal-04492562v1"
+},
+{
+"id": "pfb1a638de2",
+"titre": "Designing a Moodle Plugin for Promoting Learners’ Self-regulated Learning in Blended Learning",
+"annee": 2022,
+"type": "conférence",
+"lieu": "17th European Conference on Technology Enhanced Learning (EC-TEL 2022)",
+"url": "https://hal.science/hal-03805432v1",
+"doi": "10.1007/978-3-031-16290-9_24"
+},
+{
+"id": "pc940ae6ac3",
+"titre": "Finding a Suitable Class Distribution for Building Histological Images Data Sets Used in Deep Model Training - the Case of Cancer Detection",
+"annee": 2022,
+"type": "journal",
+"lieu": "Journal of Digital Imaging",
+"url": "https://ut-toulouseinp.hal.science/hal-03604324v1"
+},
+{
+"id": "p84b44c7b54",
+"titre": "Finding a Suitable Class Distribution for Building Histological Images Datasets Used in Deep Model Training—The Case of Cancer Detection",
+"annee": 2022,
+"type": "journal",
+"lieu": "Journal of Digital Imaging",
+"url": "https://hal.science/hal-04447716v1",
+"doi": "10.1007/s10278-022-00618-7"
+},
+{
+"id": "p5ec6291028",
+"titre": "Hybridization of automation practical courses",
+"annee": 2022,
+"type": "conférence",
+"lieu": "13th IFAC Symposium on Advances in Control Education (ACE 2022)",
+"url": "https://hal.science/hal-03961582v1",
+"doi": "10.1016/j.ifacol.2022.09.266"
+},
+{
+"id": "pbf07025fa7",
+"titre": "Mass Points, Spaces of Spheres, ”hyperbolae” and Dandelin and Quételet Theorems",
+"annee": 2022,
+"type": "journal",
+"lieu": "WSEAS TRANSACTIONS ON MATHEMATICS",
+"url": "https://doi.org/10.37394/23206.2022.21.34",
+"doi": "10.37394/23206.2022.21.34"
+},
+{
+"id": "pdd48086b96",
+"titre": "Read Your Voice - A Playful Interactive Sound Encoder/Decoder",
+"annee": 2022,
+"type": "conférence",
+"lieu": "Workshop of 30th ACM International Conference on Multimedia: Interractive Artwork (2022)",
+"url": "https://hal.science/hal-03794937v1",
+"doi": "10.1145/3503161.3549974"
+},
+{
+"id": "p3c442ba0b5",
+"titre": "Supporting Self-regulated Learning in BL: Exploring Learners’ Tactics and Strategies",
+"annee": 2022,
+"type": "conférence",
+"lieu": "Seventeenth European Conference on Technology Enhanced Learning ECTEL22",
+"url": "https://hal.science/hal-03784148v1",
+"doi": "10.1007/978-3-031-16290-9_30"
+},
+{
+"id": "pb2b60faff8",
+"titre": "The impact of individual perceptual and cognitive factors on collective states in a data-driven fish school model",
+"annee": 2022,
+"type": "journal",
+"lieu": "PLoS Computational Biology",
+"url": "https://hal.science/hal-03648537v1",
+"doi": "10.1371/journal.pcbi.1009437"
+},
+{
+"id": "p146e6427d2",
+"titre": "When, where, and how to add new neurons to ANNs",
+"annee": 2022,
+"type": "conférence",
+"lieu": "AutoML 22 - First International Conference on Automated Machine Learning",
+"url": "https://hal.science/hal-04793669v1"
+},
+{
+"id": "p4f274e0eca",
+"titre": "Which image would you choose ?",
+"annee": 2022,
+"type": "conférence",
+"lieu": "Congrès Reconnaissance des Formes, Image, Apprentissage et Perception (RFIAP 2022)",
+"url": "https://hal.science/hal-03715237v1"
+},
+{
+"id": "p8f9904b8ea",
+"titre": "3D reconstruction of insects: an improved multifocus stacking and an evaluation of learning-based MVS approaches",
+"annee": 2021,
+"type": "conférence",
+"lieu": "International Conference on 3D Vision (3DV)",
+"url": "https://hal.science/hal-03386615v2",
+"doi": "10.1109/3dv53792.2021.00148"
+},
+{
+"id": "pdfe3df0511",
+"titre": "AliceVision Meshroom: An open-source 3D reconstruction pipeline",
+"annee": 2021,
+"type": "conférence",
+"lieu": "12th ACM Multimedia Systems Conference (MMSys 2021)",
+"url": "https://hal.science/hal-03351139v1",
+"doi": "10.1145/3458305.3478443"
+},
+{
+"id": "p304380fa12",
+"titre": "Augmented Reality Guided Laparoscopic Surgery of the Uterus",
+"annee": 2021,
+"type": "journal",
+"lieu": "IEEE Transactions on Medical Imaging",
+"url": "https://hal.science/hal-02961031v1",
+"doi": "10.1109/tmi.2020.3027442"
+},
+{
+"id": "p35bfa625d9",
+"titre": "Clustering Method for Isolate Dynamic Points in Image Sequences",
+"annee": 2021,
+"type": "chapitre",
+"lieu": "Transactions on computational science and computational intelligence",
+"url": "https://doi.org/10.1007/978-3-030-71051-4_19",
+"doi": "10.1007/978-3-030-71051-4_19"
+},
+{
+"id": "p9c8586d752",
+"titre": "Détection des défauts dans les vieux films par apprentissage profond à partir d'une restauration semi-manuelle",
+"annee": 2021,
+"type": "conférence",
+"lieu": "ORASIS 2021 - 18èmes journées francophones des jeunes chercheurs en vision par ordinateur",
+"url": "https://hal.science/hal-03339640v1"
+},
+{
+"id": "pfe112bbb10",
+"titre": "Extraction et comparaison d'information saillante : Pose favorable et image 2D révélatrice d'un objet 3D",
+"annee": 2021,
+"type": "conférence",
+"lieu": "18èmes journées francophones des jeunes chercheurs en vision par ordinateur (ORASIS 2021)",
+"url": "https://hal.science/hal-03339730v2"
+},
+{
+"id": "p8a21af8284",
+"titre": "Hearing sensitivity of primates: recurrent and episodic positive selection in hair cells and stereocilia protein-coding genes",
+"annee": 2021,
+"type": "journal",
+"lieu": "Genome Biology and Evolution",
+"url": "https://hal.science/hal-03357817v1",
+"doi": "10.1093/gbe/evab133"
+},
+{
+"id": "p3e2ed65171",
+"titre": "Improving vehicle re‐identification using CNN latent spaces: Metrics comparison and track‐to‐track extension",
+"annee": 2021,
+"type": "journal",
+"lieu": "IET Computer Vision",
+"url": "https://hal.science/hal-03126045v2",
+"doi": "10.1049/cvi2.12010"
+},
+{
+"id": "pe0dec8e00e",
+"titre": "Natural vs Balanced Distribution in Deep Learning on Whole Slide Images for Cancer Detection",
+"annee": 2021,
+"type": "conférence",
+"lieu": "36th ACM/SIGAPP Symposium on Applied Computing (SAC 2021)",
+"url": "https://hal.science/hal-03057209v1"
+},
+{
+"id": "p3f24a4f11a",
+"titre": "Qualité géométrique extrinsèque d'un modèle 3D pour une application à la reconstruction itérative guidée",
+"annee": 2021,
+"type": "conférence",
+"lieu": "18èmes journées francophones des jeunes chercheurs en vision par ordinateur (ORASIS 2021)",
+"url": "https://hal.science/hal-03339761v2"
+},
+{
+"id": "pa5ccaf116b",
+"titre": "Reconstruction 3D d'un polyèdre convexe à partir de ses silhouettes",
+"annee": 2021,
+"type": "conférence",
+"lieu": "18èmes journées francophones des jeunes chercheurs en vision par ordinateur (ORASIS 2021)",
+"url": "https://hal.science/hal-03339659v1"
+},
+{
+"id": "pa9d9d0b26e",
+"titre": "SLSNet: Skin lesion segmentation using a lightweight generative adversarial network",
+"annee": 2021,
+"type": "journal",
+"lieu": "Expert Systems with Applications",
+"url": "https://hal.science/hal-04977648v1",
+"doi": "10.1016/j.eswa.2021.115433"
+},
+{
+"id": "p1103de3527",
+"titre": "Story comparison for estimating field of view overlap in a video collection",
+"annee": 2021,
+"type": "conférence",
+"lieu": "25th International Conference on Pattern Recognition (ICPR 2020)",
+"url": "https://hal.science/hal-03523956v1",
+"doi": "10.1109/icpr48806.2021.9412387"
+},
+{
+"id": "pf22839e987",
+"titre": "Subdivisions of Horned or Spindle Dupin Cyclides Using Bézier Curves with Mass Points",
+"annee": 2021,
+"type": "journal",
+"lieu": "WSEAS Transactions on Mathematics",
+"url": "https://ube.hal.science/hal-03541207v1",
+"doi": "10.37394/23206.2021.20.80"
+},
+{
+"id": "p5e03e8f7d4",
+"titre": "Subdivisions of Ring Dupin Cyclides Using Bézier Curves with Mass Points",
+"annee": 2021,
+"type": "journal",
+"lieu": "WSEAS Transactions on Mathematics",
+"url": "https://ube.hal.science/hal-03521704v1",
+"doi": "10.37394/23206.2021.20.62"
+},
+{
+"id": "pb63ba088e0",
+"titre": "Tangibilisation of an educational scheduling game’s graphical interface",
+"annee": 2021,
+"type": "conférence",
+"lieu": "32ème Conférence francophone sur l'Interaction Humain-Machine (IHM 2021)",
+"url": "https://hal.science/hal-03562159v1",
+"doi": "10.1145/3451148.3458637"
+},
+{
+"id": "pa12efcb3e6",
+"titre": "Toward phygital agent-based interactive simulations to support urban planning",
+"annee": 2021,
+"type": "conférence",
+"lieu": "6th International Workshop on Agent-Based Modelling of Urban Systems (ABMUS @ AAMAS 2021)",
+"url": "https://hal.science/hal-03226686v1"
+},
+{
+"id": "p75db667991",
+"titre": "Towards Learning Geometric Shape Parts",
+"annee": 2021,
+"type": "chapitre",
+"lieu": "Association for Women in Mathematics series",
+"url": "https://doi.org/10.1007/978-3-030-79891-8_5",
+"doi": "10.1007/978-3-030-79891-8_5"
+},
+{
+"id": "pa36d964cca",
+"titre": "Tubular parametric volume objects: Thickening a piecewise smooth 3D stick figure",
+"annee": 2021,
+"type": "journal",
+"lieu": "Computer Aided Geometric Design",
+"url": "https://hal.science/hal-03180193v1",
+"doi": "10.1016/j.cagd.2021.101981"
+},
+{
+"id": "pe53079ef80",
+"titre": "Volumetric Video - Acquisition, Compression, Interaction and Perception",
+"annee": 2021,
+"type": "conférence",
+"lieu": "Eurographics 2021 - Tutorials",
+"url": "https://hal.science/hal-05027055v1",
+"doi": "10.2312/egt.20211035"
+},
+{
+"id": "paef0abe5a2",
+"titre": "A Comprehensive Introduction to Photometric 3D-reconstruction",
+"annee": 2020,
+"type": "chapitre",
+"lieu": "Advances in Photometric 3D-Reconstruction",
+"url": "https://normandie-univ.hal.science/hal-02547952v1",
+"doi": "10.1007/978-3-030-51866-0_1"
+},
+{
+"id": "p5c011a33b3",
+"titre": "A Note on Geometric Calibration of Multiple Cameras and Projectors",
+"annee": 2020,
+"type": "conférence",
+"lieu": "43rd International Convention on Information, Communication and Electronic Technology (MIPRO)",
+"url": "https://hal.science/hal-04750607v1",
+"doi": "10.23919/mipro48935.2020.9245316"
+},
+{
+"id": "p44134712c4",
+"titre": "Advances in Photometric 3D-Reconstruction",
+"annee": 2020,
+"type": "ouvrage",
+"lieu": "",
+"url": "https://normandie-univ.hal.science/hal-02941602v1",
+"doi": "10.1007/978-3-030-51866-0"
+},
+{
+"id": "p9d6ce865b1",
+"titre": "Adversarial Learning for Depth and Viewpoint Estimation From a Single Image",
+"annee": 2020,
+"type": "journal",
+"lieu": "IEEE Transactions on Circuits and Systems for Video Technology",
+"url": "https://hal.science/hal-04753559v1",
+"doi": "10.1109/tcsvt.2020.2973068"
+},
+{
+"id": "p5a4697c70c",
+"titre": "Dataset column: ToCaDa dataset with multi-viewpoint synchronized videos",
+"annee": 2020,
+"type": "journal",
+"lieu": "ACM SIGMultimedia Records",
+"url": "https://imt-mines-ales.hal.science/hal-03763498v1",
+"doi": "10.1145/3548555.3548560"
+},
+{
+"id": "pf172253665",
+"titre": "Detecting the Occluding Contours of the Uterus to Automatise Augmented Laparoscopy: Score, Loss, Dataset, Evaluation and User-Study",
+"annee": 2020,
+"type": "journal",
+"lieu": "International Journal of Computer Assisted Radiology and Surgery",
+"url": "https://hal.science/hal-02884670v1",
+"doi": "10.1007/s11548-020-02151-w"
+},
+{
+"id": "pf99933d8dd",
+"titre": "Learning Defects in Old Movies from Manually Assisted Restoration",
+"annee": 2020,
+"type": "conférence",
+"lieu": "ICPR 2020 - 25th International Conference on Pattern Recognition",
+"url": "https://hal.science/hal-02965296v1"
+},
+{
+"id": "pcd4e90c987",
+"titre": "Proximity-Aware Multiple Meshes Decimation using Quadric Error Metric",
+"annee": 2020,
+"type": "journal",
+"lieu": "Graphical Models",
+"url": "https://hal.science/hal-02496635v1",
+"doi": "10.1016/j.gmod.2020.101062"
+},
+{
+"id": "pf50cccf0c3",
+"titre": "Reconstruction 3D d'un insecte piégé dans l'ambre",
+"annee": 2020,
+"type": "conférence",
+"lieu": "Congrés Reconnaissance des Formes, Image, Apprentissage et Perception - RFIAP 2020",
+"url": "https://normandie-univ.hal.science/hal-02568259v1"
+},
+{
+"id": "pa685ab7660",
+"titre": "Refractive Multi-view Stereo",
+"annee": 2020,
+"type": "conférence",
+"lieu": "International Conference on 3D Vision (3DV 2020)",
+"url": "https://hal.science/hal-02964852v1",
+"doi": "10.1109/3dv50981.2020.00048"
+},
+{
+"id": "p9dd8645d17",
+"titre": "Web‐based efficient dual attention networks to detect COVID‐19 from X‐ray images",
+"annee": 2020,
+"type": "journal",
+"lieu": "Electronics Letters",
+"url": "https://doi.org/10.1049/el.2020.1962",
+"doi": "10.1049/el.2020.1962"
+},
+{
+"id": "pc3c0faafcd",
+"titre": "Établissement d'un graphe de liens au sein d'une collection de vidéos par comparaisons d'histoires",
+"annee": 2020,
+"type": "conférence",
+"lieu": "Congrès Reconnaissance des Formes, Image, Apprentissage et Perception (RFIAP 2020)",
+"url": "https://hal.science/hal-02950728v1"
+},
+{
+"id": "pf759f71ece",
+"titre": "3D Objects based Security in Virtual and Augmented Reality Systems",
+"annee": 2019,
+"type": "journal",
+"lieu": "International Journal of Virtual Reality",
+"url": "https://doi.org/10.20870/ijvr.2019.19.2.2911",
+"doi": "10.20870/ijvr.2019.19.2.2911"
+},
+{
+"id": "p7c3528eab9",
+"titre": "A splitting-based algorithm for multi-view stereopsis of textureless objects",
+"annee": 2019,
+"type": "conférence",
+"lieu": "Seventh International Conference on Scale Space and Variational Methods in Computer Vision (SSVM)",
+"url": "https://hal.science/hal-02088927v1",
+"doi": "10.1007/978-3-030-22368-7_5"
+},
+{
+"id": "p3896f54973",
+"titre": "Aide à la navigation dans un ensemble de vidéos par reformulation de trajectoires",
+"annee": 2019,
+"type": "conférence",
+"lieu": "17e Journees francophones des jeunes chercheurs en vision par ordinateur (ORASIS 2019)",
+"url": "https://hal.science/hal-02891736v1"
+},
+{
+"id": "p3851abdefe",
+"titre": "Alternate Structural-Textural Video Inpainting for Spot Defects Correction in Movies",
+"annee": 2019,
+"type": "conférence",
+"lieu": "SSVM 2019 - Seventh International Conference on Scale Space and Variational Methods in Computer Vision",
+"url": "https://hal.science/hal-02433997v1"
+},
+{
+"id": "pe61ef7168b",
+"titre": "An evaluation of real-time RGB-D visual odometry algorithms on mobile devices",
+"annee": 2019,
+"type": "journal",
+"lieu": "Journal of Real-Time Image Processing",
+"url": "https://hal.science/hal-01654706v1",
+"doi": "10.1007/s11554-017-0670-y"
+},
+{
+"id": "p41062e960a",
+"titre": "An interview with Géraldine Morin",
+"annee": 2019,
+"type": "journal",
+"lieu": "ACM SIGMultimedia Records",
+"url": "https://doi.org/10.1145/3310195.3310199",
+"doi": "10.1145/3310195.3310199"
+},
+{
+"id": "p3e61c0e20a",
+"titre": "Audiovisual annotation procedure for multi-view field recordings",
+"annee": 2019,
+"type": "conférence",
+"lieu": "25th International Conference on MultiMedia Modeling (MMM 2019)",
+"url": "https://hal.science/hal-03684061v1",
+"doi": "10.1007/978-3-030-05710-7_33"
+},
+{
+"id": "p861c194d28",
+"titre": "Camera Localization by Single View Query Using One Circular Target",
+"annee": 2019,
+"type": "chapitre",
+"lieu": "Image Analysis",
+"url": "https://hal.science/hal-02353730v1",
+"doi": "10.1007/978-3-030-20205-7_23"
+},
+{
+"id": "pe6a038c81c",
+"titre": "Estimation of correspondent trajectories in multiple overlapping synchronized videos using correlation of activity functions",
+"annee": 2019,
+"type": "conférence",
+"lieu": "IEEE International Conference on Image Processing (ICIP 2019)",
+"url": "https://hal.science/hal-02450853v1"
+},
+{
+"id": "p4f2b31b734",
+"titre": "Food Places Classification in Egocentric Images Using Siamese Neural Networks",
+"annee": 2019,
+"type": "chapitre",
+"lieu": "Frontiers in artificial intelligence and applications",
+"url": "https://doi.org/10.3233/faia190117",
+"doi": "10.3233/faia190117"
+},
+{
+"id": "p9ba312a282",
+"titre": "Gait representation and recognition from temporal co-occurrence of flow fields",
+"annee": 2019,
+"type": "journal",
+"lieu": "Machine Vision and Applications",
+"url": "https://hal.science/hal-02538352v1",
+"doi": "10.1007/s00138-018-0982-3"
+},
+{
+"id": "p0289ac1efd",
+"titre": "Inpainting vidéo pour la restauration de films par reconstructions alternées de la structure et de la texture",
+"annee": 2019,
+"type": "conférence",
+"lieu": "ORASIS 2019 - 17ème journées francophones des jeunes chercheurs en vision par ordinateur",
+"url": "https://hal.science/hal-02433990v1"
+},
+{
+"id": "pd7c42f85fd",
+"titre": "Macrogroove: A Sound 3D-sculpture Interactive Player",
+"annee": 2019,
+"type": "conférence",
+"lieu": "ACM International Conference on Multimedia (MM '19)",
+"url": "https://hal.science/hal-02267053v2",
+"doi": "10.1145/3343031.3355709"
+},
+{
+"id": "p07bceeb776",
+"titre": "Minkowski-Lorentz Spaces Applications: Resolution of Apollonius and Dupin Problems",
+"annee": 2019,
+"type": "chapitre",
+"lieu": "Encyclopedia of Computer Graphics and Games",
+"url": "https://ube.hal.science/hal-03521746v1",
+"doi": "10.1007/978-3-319-08234-9_381-1"
+},
+{
+"id": "pbe94f7ab8c",
+"titre": "One-step compact skeletonization",
+"annee": 2019,
+"type": "conférence",
+"lieu": "40th Annual Conference of the European Association for Computer Graphics - Eurographics 2019",
+"url": "https://hal.science/hal-02130468v1",
+"doi": "10.2312/egs.20191005"
+},
+{
+"id": "p568410df47",
+"titre": "Protocols and Software for Simplified Educational Video Capture and Editing",
+"annee": 2019,
+"type": "journal",
+"lieu": "Journal of Computers in Education",
+"url": "https://hal.science/hal-03498656v1",
+"doi": "10.1007/s40692-019-00136-6"
+},
+{
+"id": "p218cdf4ba8",
+"titre": "The propagated skeleton: a robust detail-preserving approach",
+"annee": 2019,
+"type": "conférence",
+"lieu": "21th IAPR International Conference on Discrete Geometry for Computer Imagery, DGCI 2019",
+"url": "https://hal.science/hal-02130484v1",
+"doi": "10.1007/978-3-030-14085-4_27"
+},
+{
+"id": "p299d3de573",
+"titre": "Towards Method Time Measurement Identification Using Virtual Reality and Gesture Recognition",
+"annee": 2019,
+"type": "conférence",
+"lieu": "IEEE International Conference on Artificial Intelligence & Virtual Reality (AIVR 2019)",
+"url": "https://hal.science/hal-02413200v1",
+"doi": "10.1109/aivr46125.2019.00040"
+},
+{
+"id": "p79be6d550e",
+"titre": "Une solution numérique générique pour la reconstruction 3D d'objets non texturés",
+"annee": 2019,
+"type": "conférence",
+"lieu": "17èmes journées francophones des jeunes chercheurs en vision par ordinateur (ORASIS)",
+"url": "https://hal.science/hal-02089438v1"
+},
+{
+"id": "p333ec887e2",
+"titre": "Using Curvilinear Features in Focus for Registering a Single Image to a 3D Object",
+"annee": 2019,
+"type": "journal",
+"lieu": "IEEE Transactions on Image Processing",
+"url": "https://hal.science/hal-02891651v1",
+"doi": "10.1109/tip.2019.2911484"
+},
+{
+"id": "pf2969ef8bb",
+"titre": "A Method to Design a Multi-Player Educational Scenario to Make Interdisciplinary Teams Experiment Risk Management Situation in a Digital Collaborative Learning Game: A Case of Study in Healthcare",
+"annee": 2018,
+"type": "journal",
+"lieu": "International Journal of Engineering Pedagogy (iJEP)",
+"url": "https://doi.org/10.3991/ijep.v8i2.8140",
+"doi": "10.3991/ijep.v8i2.8140"
+},
+{
+"id": "p5153e1ff8c",
+"titre": "A Salience Measure for 3D Shape Decomposition and Sub-parts Classification",
+"annee": 2018,
+"type": "journal",
+"lieu": "Graphical Models",
+"url": "https://inria.hal.science/hal-01840016v1",
+"doi": "10.1016/j.gmod.2018.07.003"
+},
+{
+"id": "p096c19a58c",
+"titre": "A new approach to quantify enamel thickness distribution and the enamel-dentine junction topography in primate teeth",
+"annee": 2018,
+"type": "conférence",
+"lieu": "SMEF 2018 - 10e Symposium de Morphométrie et Évolution des Formes",
+"url": "https://hal.science/hal-03154905v1"
+},
+{
+"id": "p29771baa68",
+"titre": "ASGART: fast and parallel genome scale segmental duplications mapping",
+"annee": 2018,
+"type": "journal",
+"lieu": "Bioinformatics",
+"url": "https://hal.science/hal-03039191v2",
+"doi": "10.1093/bioinformatics/bty172"
+},
+{
+"id": "p29456ae247",
+"titre": "An Implementation of a DASH Client for Browsing Networked Virtual Environment",
+"annee": 2018,
+"type": "conférence",
+"lieu": "26th ACM Multimedia Conference (MM 2018)",
+"url": "https://hal.science/hal-02130158v1"
+},
+{
+"id": "p907904e52a",
+"titre": "Automatic detection of individual and touching moths from trap images by combining contour-based and region-based segmentation",
+"annee": 2018,
+"type": "journal",
+"lieu": "IET Computer Vision",
+"url": "https://hal.science/hal-02538367v1",
+"doi": "10.1049/iet-cvi.2017.0086"
+},
+{
+"id": "p1ddbe6b815",
+"titre": "DASH for 3D Networked Virtual Environment",
+"annee": 2018,
+"type": "conférence",
+"lieu": "26th ACM international conference on Multimedia (MM 2018)",
+"url": "https://hal.science/hal-03622980v1"
+},
+{
+"id": "p7bdeca8e08",
+"titre": "Dynamic Resource Allocation in Power Grids using Evolving Gene Regulatory Networks",
+"annee": 2018,
+"type": "conférence",
+"lieu": "Conference on Artificial Life (ALIFE 2018)",
+"url": "https://hal.science/hal-02130156v1"
+},
+{
+"id": "p09d0e3e775",
+"titre": "Influence of Mating Mechanisms in Distributed Evolution for Collective Robotics",
+"annee": 2018,
+"type": "conférence",
+"lieu": "Workshop on the emergence and evolution of social learning, communication, language and culture in natural and artificial agents, in ALIFE 2018 (EVOSLACE 2018)",
+"url": "https://hal.science/hal-02130157v1"
+},
+{
+"id": "p42cc6aa076",
+"titre": "LED-Based Photometric Stereo: Modeling, Calibration and Numerical Solution",
+"annee": 2018,
+"type": "journal",
+"lieu": "Journal of Mathematical Imaging and Vision",
+"url": "https://hal.science/hal-02118488v1",
+"doi": "10.1007/s10851-017-0761-1"
+},
+{
+"id": "pb0c02a8a09",
+"titre": "Mesh Simplification for Virtual Objects Disassembly (j-FIG 2018, Poitiers, France)",
+"annee": 2018,
+"type": "conférence",
+"lieu": "Journées Françaises d'Informatique Graphique (j-FIG 208)",
+"url": "https://hal.science/hal-03033970v1"
+},
+{
+"id": "p636cbbb93d",
+"titre": "Normal Integration: A Survey",
+"annee": 2018,
+"type": "journal",
+"lieu": "Journal of Mathematical Imaging and Vision",
+"url": "https://hal.science/hal-02118484v1",
+"doi": "10.1007/s10851-017-0773-x"
+},
+{
+"id": "paeb50ffbbb",
+"titre": "Pose estimation of a single circle using default intrinsic calibration",
+"annee": 2018,
+"type": "conférence",
+"lieu": "Asian Conference on Computer Vision (ACCV 2018)",
+"url": "https://hal.science/hal-02092924v1"
+},
+{
+"id": "p6e976c73ae",
+"titre": "Radiometric confidence criterion for patch-based inpainting",
+"annee": 2018,
+"type": "conférence",
+"lieu": "International Conference on Pattern Recognition (ICPR 2018)",
+"url": "https://hal.science/hal-01895288v1",
+"doi": "10.1109/icpr.2018.8545350"
+},
+{
+"id": "pb5d85ce42d",
+"titre": "Research in Shape Analysis",
+"annee": 2018,
+"type": "ouvrage",
+"lieu": "Association for Women in Mathematics series",
+"url": "https://doi.org/10.1007/978-3-319-77066-6",
+"doi": "10.1007/978-3-319-77066-6"
+},
+{
+"id": "p39a86cdb8b",
+"titre": "Room Floor Plan Generation on a Project Tango Device",
+"annee": 2018,
+"type": "conférence",
+"lieu": "Proceedings of the International Conference on MultiMedia Modeling (MMM 2018)",
+"url": "https://hal.science/hal-01822092v1",
+"doi": "10.1007/978-3-319-73600-6_20"
+},
+{
+"id": "pf889801335",
+"titre": "Scaffolding a Skeleton",
+"annee": 2018,
+"type": "chapitre",
+"lieu": "Research in Shape Analysis",
+"url": "https://inria.hal.science/hal-01532765v2",
+"doi": "10.1007/978-3-319-77066-6_2"
+},
+{
+"id": "pa149590fb3",
+"titre": "Support Vector Machine (SVM) Recognition Approach adapted to Individual and Touching Moths Counting in Trap Images",
+"annee": 2018,
+"type": "conférence",
+"lieu": "Workshop on Visual observation and analysis of Vertebrate And Insect Behavior @ 24th International Conference on Pattern Recognition (VAIB @ IPCR2018)",
+"url": "https://hal.science/hal-02498757v1"
+},
+{
+"id": "p539eca9651",
+"titre": "Texturing and inpainting a complete tubular 3D object reconstructed from partial views",
+"annee": 2018,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://hal.science/hal-01804180v1",
+"doi": "10.1016/j.cag.2018.05.012"
+},
+{
+"id": "p4ca135d031",
+"titre": "Theory of Minkowski-Lorentz Spaces",
+"annee": 2018,
+"type": "chapitre",
+"lieu": "Encyclopedia of Computer Graphics and Games",
+"url": "https://ube.hal.science/hal-03545473v1",
+"doi": "10.1007/978-3-319-08234-9_111-1"
+},
+{
+"id": "pff07819b33",
+"titre": "Toulouse Campus Surveillance Dataset: scenarios, soundtracks, synchronized videos with overlapping and disjoint views",
+"annee": 2018,
+"type": "conférence",
+"lieu": "9th ACM Multimedia Systems Conference (MMSys 2018)",
+"url": "https://hal.science/hal-03684113v1",
+"doi": "10.1145/3204949.3208133"
+},
+{
+"id": "pd565795bf2",
+"titre": "Toulouse Campus Surveillance Dataset: scenarios, soundtracks, synchronized videos with overlapping and disjoint views",
+"annee": 2018,
+"type": "conférence",
+"lieu": "9th ACM Multimedia Systems Conference (MMSys 2018)",
+"url": "https://hal.science/hal-03623089v1"
+},
+{
+"id": "pbaac3ea5be",
+"titre": "Variational Methods for Normal Integration",
+"annee": 2018,
+"type": "journal",
+"lieu": "Journal of Mathematical Imaging and Vision",
+"url": "https://hal.science/hal-02118476v1",
+"doi": "10.1007/s10851-017-0777-6"
+},
+{
+"id": "pe0aadd3cd9",
+"titre": "Variational Reflectance Estimation from Multi-view Images",
+"annee": 2018,
+"type": "journal",
+"lieu": "Journal of Mathematical Imaging and Vision",
+"url": "https://hal.science/hal-02087984v1",
+"doi": "10.1007/s10851-018-0809-x"
+},
+{
+"id": "p0026baf527",
+"titre": "Wavelet/PSO-Based Segmentation and Marker-Less Tracking of the Gallbladder in Monocular Calibration-free Laparoscopic Cholecystectomy",
+"annee": 2018,
+"type": "journal",
+"lieu": "International journal of advanced computer science and applications (IJACSA)",
+"url": "https://hal.science/hal-02092950v1",
+"doi": "10.14569/ijacsa.2018.090701"
+},
+{
+"id": "p4bbb11922f",
+"titre": "3D Virtual Operating Room : Un learning game multi-joueurs 3D temps réel pour former à la gestion des risques.",
+"annee": 2017,
+"type": "conférence",
+"lieu": "Jeux & Enjeux",
+"url": "https://hal.science/hal-02008755v1"
+},
+{
+"id": "p333aa657d9",
+"titre": "A Comparison of Genetic Regulatory Network Dynamics and Encoding",
+"annee": 2017,
+"type": "conférence",
+"lieu": "Genetic and Evolutionary Computation COnference (GECCO 2017)",
+"url": "https://hal.science/hal-01912802v1",
+"doi": "10.1145/3071178.3071322"
+},
+{
+"id": "pf91dcc4868",
+"titre": "A Method to Design a Multi-player Scenario to Experiment Risk Management in a Digital Collaborative Learning Game: A Case of Study in Healthcare",
+"annee": 2017,
+"type": "conférence",
+"lieu": "20th International Conference on Interactive Collaborative Learning (ICL 2017)",
+"url": "https://hal.science/hal-02055782v1",
+"doi": "10.1007/978-3-319-73210-7_105"
+},
+{
+"id": "p6bbc19fcf0",
+"titre": "A Multi-User and Multi-Purpose CA Simulator",
+"annee": 2017,
+"type": "conférence",
+"lieu": "International Conference on Computer Science and Information Technology (CSIT 2017)",
+"url": "https://hal.science/hal-02638770v1",
+"doi": "10.1109/csitechnol.2017.8312133"
+},
+{
+"id": "p2eef3b6cea",
+"titre": "A Non-Convex Variational Approach to Photometric Stereo under Inaccurate Lighting",
+"annee": 2017,
+"type": "conférence",
+"lieu": "The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+"url": "https://hal.science/hal-01809278v1",
+"doi": "10.1109/cvpr.2017.45"
+},
+{
+"id": "p126de4f299",
+"titre": "A Proposal for 3D Reconstruction, Generalization, and Visualization of Urban Data",
+"annee": 2017,
+"type": "conférence",
+"lieu": "Journées Du Groupe de Travail en Modélisation Géométrique (GT-MG 2017)",
+"url": "https://hal.science/hal-03120289v1"
+},
+{
+"id": "p4ffc57de59",
+"titre": "A Variational Approach to Shape-from-shading Under Natural Illumination",
+"annee": 2017,
+"type": "conférence",
+"lieu": "11th International Workshop on Energy Minimization Methods in Computer Vision and Pattern Recognition (EMMCVPR 2017)",
+"url": "https://normandie-univ.hal.science/hal-02118556v1",
+"doi": "10.1007/978-3-319-78199-0_23"
+},
+{
+"id": "p6446f45bdb",
+"titre": "Automatic Generation of Urban Virtual Environments",
+"annee": 2017,
+"type": "conférence",
+"lieu": "11th International Conference on Computer Science and Information Technology (CSIT 2017)",
+"url": "https://hal.science/hal-02871329v1"
+},
+{
+"id": "p9cf7188c3a",
+"titre": "Beyond Multi-view Stereo: Shading-Reflectance Decomposition",
+"annee": 2017,
+"type": "conférence",
+"lieu": "6th International Conference on Scale Space and Variational Methods in Computer Vision (SSVM 2017)",
+"url": "https://hal.science/hal-01787432v1",
+"doi": "10.1007/978-3-319-58771-4_55"
+},
+{
+"id": "p3837b7c4ca",
+"titre": "Communication system and team situation awareness in a multiplayer real-time learning environment: application to a virtual operating room",
+"annee": 2017,
+"type": "journal",
+"lieu": "The Visual Computer",
+"url": "https://hal.science/hal-01972653v1",
+"doi": "10.1007/s00371-016-1280-6"
+},
+{
+"id": "paf01c9fb1b",
+"titre": "Critère de confiance géométrique pour l'inpainting basée patch",
+"annee": 2017,
+"type": "conférence",
+"lieu": "ORASIS 2017",
+"url": "https://hal.science/hal-01866695v1"
+},
+{
+"id": "pbb6aa1469b",
+"titre": "Design of learning environments for Mechanical Engineering",
+"annee": 2017,
+"type": "journal",
+"lieu": "Procedia Manufacturing",
+"url": "https://doi.org/10.1016/j.promfg.2017.09.126",
+"doi": "10.1016/j.promfg.2017.09.126"
+},
+{
+"id": "pc4c36d67ff",
+"titre": "Estimation de la réflectance à partir de données multi-vues",
+"annee": 2017,
+"type": "conférence",
+"lieu": "ORASIS 2017",
+"url": "https://hal.science/hal-01866637v1"
+},
+{
+"id": "p53d3b1894e",
+"titre": "Fast and Accurate Surface Normal Integration on Non-Rectangular Domains",
+"annee": 2017,
+"type": "journal",
+"lieu": "Computational Visual Media",
+"url": "https://hal.science/hal-01712543v1",
+"doi": "10.1007/s41095-016-0075-z"
+},
+{
+"id": "p67ecc81bdd",
+"titre": "Fusion de données RVB-D par stéréophotométrie colorée",
+"annee": 2017,
+"type": "journal",
+"lieu": "Traitement du Signal",
+"url": "https://hal.science/hal-01409663v2"
+},
+{
+"id": "p0dff066e35",
+"titre": "Improving mechanical engineering vocabulary through the use of a game",
+"annee": 2017,
+"type": "journal",
+"lieu": "Procedia Manufacturing",
+"url": "https://hal.science/hal-01630916v1",
+"doi": "10.1016/j.promfg.2017.09.098"
+},
+{
+"id": "pdaf1aca5bb",
+"titre": "Interaction and Communication in an Immersive Learning Game",
+"annee": 2017,
+"type": "chapitre",
+"lieu": "Serious Games and Edutainment Applications",
+"url": "https://hal.science/hal-03120294v1",
+"doi": "10.1007/978-3-319-51645-5_7"
+},
+{
+"id": "p5465a36dfd",
+"titre": "Joint evolution of morphologies and controllers for realistic modular robots",
+"annee": 2017,
+"type": "conférence",
+"lieu": "22nd Symposium on Artificial Life And Robotics (AROB 2017)",
+"url": "https://hal.science/hal-01782566v1"
+},
+{
+"id": "p5e73d598e9",
+"titre": "Learning Aquatic Locomotion with Animats",
+"annee": 2017,
+"type": "conférence",
+"lieu": "ECAL 2017: the 14th European Conference on Artificial Life",
+"url": "https://hal.science/hal-02860849v1"
+},
+{
+"id": "p25dbc457f3",
+"titre": "Learning mechanical engineering in a virtual workshop: A preliminary study on utilisability, utility and acceptability",
+"annee": 2017,
+"type": "conférence",
+"lieu": "9th International Conference on Virtual Worlds and Games for Serious Applications (VS-Games 2017)",
+"url": "https://hal.science/hal-02055765v1",
+"doi": "10.1109/vs-games.2017.8055811"
+},
+{
+"id": "pabcda8e754",
+"titre": "Learning the cell cycle with a game: Virtual experiments in cell biology",
+"annee": 2017,
+"type": "conférence",
+"lieu": "9th International Conference on Games and Virtual Worlds for Serious Applications (VS-Games 2017)",
+"url": "https://hal.science/hal-03656667v1"
+},
+{
+"id": "p370ea76ed5",
+"titre": "Loosely Coupled Approach for Web-Based Collaborative 3D Design",
+"annee": 2017,
+"type": "conférence",
+"lieu": "11th ACM International Conference on Distributed Event-Based Systems (DEBS 2017)",
+"url": "https://hal.science/hal-02604192v1"
+},
+{
+"id": "pd87feb3719",
+"titre": "Microgeometry capture and RGB albedo estimation by photometric stereo without demosaicing",
+"annee": 2017,
+"type": "conférence",
+"lieu": "13th International Conference on Quality Control by Artificial Vision (QCAV 2017)",
+"url": "https://hal.science/hal-01712549v1",
+"doi": "10.1117/12.2266080"
+},
+{
+"id": "p21a62e5531",
+"titre": "Mobile Augmented Reality in Museums : Towards Enhancing Visitor's Learning Experience",
+"annee": 2017,
+"type": "journal",
+"lieu": "International Journal of Virtual Reality",
+"url": "https://doi.org/10.20870/ijvr.2017.17.1.2885",
+"doi": "10.20870/ijvr.2017.17.1.2885"
+},
+{
+"id": "pedf60aa767",
+"titre": "Photometric Stereo with Only Two Images: A Theoretical Study and Numerical Resolution",
+"annee": 2017,
+"type": "journal",
+"lieu": "Image and Vision Computing",
+"url": "https://hal.science/hal-01334657v2",
+"doi": "10.1016/j.imavis.2016.11.006"
+},
+{
+"id": "p58a4f8584a",
+"titre": "Rectification métrique de l'image d'un marqueur à contour circulaire à partir d'une caméra calibrée par défaut",
+"annee": 2017,
+"type": "conférence",
+"lieu": "16ème édition d’ORASIS, journées francophones des jeunes chercheurs en vision par ordinateur - ORASIS 2017",
+"url": "https://hal.science/hal-01866685v1"
+},
+{
+"id": "p88151da72e",
+"titre": "Stéréophotométrie microscopique sans démosaïquage",
+"annee": 2017,
+"type": "conférence",
+"lieu": "26eme Colloque GRETSI sur le Traitement du Signal et des Images (GRETSI 2017)",
+"url": "https://hal.science/hal-01913980v1"
+},
+{
+"id": "pd198ab7cdf",
+"titre": "Towards Recognizing of 3D Models Using A Single Image",
+"annee": 2017,
+"type": "conférence",
+"lieu": "10th Eurographics Workshop on 3D Object Retrieval (3DOR 2017)",
+"url": "https://hal.science/hal-03623380v1"
+},
+{
+"id": "p36976e3905",
+"titre": "3D Cities Rendering and Visualisation: A Web-Based Solution",
+"annee": 2016,
+"type": "conférence",
+"lieu": "Eurographics Workshop on Urban Data Modelling and Visualisation (UDMV 2016)",
+"url": "https://hal.science/hal-01787406v1",
+"doi": "10.2312/udmv.20161426"
+},
+{
+"id": "pce213a0034",
+"titre": "3D Structured Light Scanner on the Smartphone",
+"annee": 2016,
+"type": "conférence",
+"lieu": "Proceedings of the 13th International Conference on Image Analysis and Recognition, ICIAR 2016",
+"url": "https://hal.science/hal-01420732v1",
+"doi": "10.1007/978-3-319-41501-7_50"
+},
+{
+"id": "p4ec46f51dc",
+"titre": "3D real Time Collaborative Environment To Learn Teamwork And Non Technical Skills in The Operating Room",
+"annee": 2016,
+"type": "conférence",
+"lieu": "19th International Conference on Interactive Collaborative Learning (ICL 2016)",
+"url": "https://hal.science/hal-03624752v1",
+"doi": "10.1007/978-3-319-50337-0_12"
+},
+{
+"id": "pfd605ce503",
+"titre": "3DEvent: a framework using event-sourcing approach for 3D web-based collaborative design in P2P",
+"annee": 2016,
+"type": "conférence",
+"lieu": "21st International Conference on Web3D Technology (Web3D 2016)",
+"url": "https://hal.science/hal-01757342v1",
+"doi": "10.1145/2945292.2945310"
+},
+{
+"id": "pa7f05485aa",
+"titre": "A 2D Shape Structure for Decomposition and Part Similarity",
+"annee": 2016,
+"type": "conférence",
+"lieu": "ICPR 2016 - 23rd International Conference on Pattern Recognition",
+"url": "https://inria.hal.science/hal-01374810v1",
+"doi": "10.1109/icpr.2016.7900130"
+},
+{
+"id": "p0e646cfee1",
+"titre": "A computer-guided 3D multiscale reconstruction of the Kromdraai site",
+"annee": 2016,
+"type": "chapitre",
+"lieu": "Kromdraai, a Birthplace of Paranthropus in the Cradle of Humankind",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-01633989v1"
+},
+{
+"id": "p3e58103962",
+"titre": "A full photometric and geometric model for attached webcam/matte screen devices",
+"annee": 2016,
+"type": "journal",
+"lieu": "Signal Processing: Image Communication",
+"url": "https://hal.science/hal-01273010v1",
+"doi": "10.1016/j.image.2015.11.006"
+},
+{
+"id": "pf267408f1b",
+"titre": "Artificial Gene Regulatory Networks for Agent Control: Iba/Evolutionary",
+"annee": 2016,
+"type": "chapitre",
+"lieu": "Evolutionary Computation in Gene Regulatory Network Research",
+"url": "https://hal.science/hal-03159058v1",
+"doi": "10.1002/9781119079453.ch12"
+},
+{
+"id": "p94e5f1628c",
+"titre": "Automated and Assisted Authoring of Serious Game Scenarios",
+"annee": 2016,
+"type": "conférence",
+"lieu": "19th International Conference on Interactive Collaborative Learning (ICL 2016)",
+"url": "https://hal.science/hal-03109264v1",
+"doi": "10.1007/978-3-319-50340-0_49"
+},
+{
+"id": "p97cad9d199",
+"titre": "Automatic Crack Detection on Two-Dimensional Pavement Images: An Algorithm Based on Minimal Path Selection",
+"annee": 2016,
+"type": "journal",
+"lieu": "IEEE Transactions on Intelligent Transportation Systems",
+"url": "https://hal.science/hal-01206038v1",
+"doi": "10.1109/tits.2015.2477675"
+},
+{
+"id": "p3718c354bd",
+"titre": "Dangerousness Metric for Gene Regulated Car Driving",
+"annee": 2016,
+"type": "conférence",
+"lieu": "19th European Conference on the Applications of Evolutionary Computation (EvoApplications 2016), part of EvoStar 2016",
+"url": "https://hal.science/hal-01511903v1",
+"doi": "10.1007/978-3-319-31204-0_40"
+},
+{
+"id": "p34c992c4f2",
+"titre": "Detection and Accurate Localization of Circular Fiducials under Highly Challenging Conditions",
+"annee": 2016,
+"type": "conférence",
+"lieu": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2016)",
+"url": "https://hal.science/hal-01420665v1",
+"doi": "10.1109/cvpr.2016.67"
+},
+{
+"id": "p213781bb9a",
+"titre": "Du texte théâtral à la scénographie 3D virtuelle",
+"annee": 2016,
+"type": "chapitre",
+"lieu": "La notation du travail théâtral : du manuscrit au numérique",
+"url": "https://hal.science/hal-03155033v1"
+},
+{
+"id": "p56e4c89db1",
+"titre": "Espace de Minkowski-Lorentz et des sphères : un état de l'art",
+"annee": 2016,
+"type": "conférence",
+"lieu": "GTMG 2016",
+"url": "https://uphf.hal.science/hal-02508285v1"
+},
+{
+"id": "pc13ab1cb7c",
+"titre": "Evolving genetic regulatory networks for online neurogenesis",
+"annee": 2016,
+"type": "conférence",
+"lieu": "6th Morphogenetic Engineering Workshop (MEW 2016) at ALife XV : Artificial Life Conference",
+"url": "https://hal.science/hal-01782556v1"
+},
+{
+"id": "p124289334a",
+"titre": "Highly Efficient Surface Normal Integration",
+"annee": 2016,
+"type": "conférence",
+"lieu": "Conference Algoritmy 2016 (ALGORITMY 2016)",
+"url": "https://hal.science/hal-01535947v1"
+},
+{
+"id": "pd5aa63b3c0",
+"titre": "How to build an average model when samples are variably incomplete? Application to fossil data",
+"annee": 2016,
+"type": "conférence",
+"lieu": "Computer Vision and Pattern Recognition Workshops (CVPRW 2016)",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-01381310v1",
+"doi": "10.1109/cvprw.2016.74"
+},
+{
+"id": "p66fcb49742",
+"titre": "Impact of 3D Bookmarks on Navigation and Streaming in a Networked Virtual Environment",
+"annee": 2016,
+"type": "conférence",
+"lieu": "7th ACM Multimedia Systems Conference (MMSys 2016)",
+"url": "https://hal.science/hal-04108059v1",
+"doi": "10.1145/2910017.2910607"
+},
+{
+"id": "p144c91f981",
+"titre": "Making Decisions in a Virtual Operating Room",
+"annee": 2016,
+"type": "conférence",
+"lieu": "17th International Conference on Collaboration Technologies and Systems (CTS 2016)",
+"url": "https://hal.science/hal-01787391v1",
+"doi": "10.1109/cts.2016.0040"
+},
+{
+"id": "p2e1f70bc51",
+"titre": "Modeling a bacterial ecosystem through chemotaxis simulation of a single cell",
+"annee": 2016,
+"type": "conférence",
+"lieu": "International Symposium on Artificial Life and Robotics (ICAROB 2016)",
+"url": "https://hal.science/hal-01592045v1"
+},
+{
+"id": "p34b2a14840",
+"titre": "Reconstruction basée squelette d'un objet 3D à partir de points de vue multiples",
+"annee": 2016,
+"type": "conférence",
+"lieu": "Journées du Groupe de Travail en Modélisation Géométrique (GTMG 2016)",
+"url": "https://hal.science/hal-01491211v1"
+},
+{
+"id": "p5d727b807e",
+"titre": "Skeleton-Based Multiview Reconstruction",
+"annee": 2016,
+"type": "conférence",
+"lieu": "23rd IEEE International Conference on Image Processing (ICIP)",
+"url": "https://ube.hal.science/hal-01464056v1"
+},
+{
+"id": "p9d996913da",
+"titre": "Sprite tree: an efficient image-based representation for networked virtual environments",
+"annee": 2016,
+"type": "journal",
+"lieu": "The Visual Computer",
+"url": "https://hal.science/hal-01475014v1",
+"doi": "10.1007/s00371-016-1286-0"
+},
+{
+"id": "pa0c3b1d355",
+"titre": "Surface canal, squelette et espace des sphères",
+"annee": 2016,
+"type": "conférence",
+"lieu": "Journées du Groupe de Travail en Modélisation Géométriq (GTMG 2016)",
+"url": "https://uphf.hal.science/hal-02508286v1"
+},
+{
+"id": "p5d58ed5a05",
+"titre": "The 2D shape structure dataset: A user annotated open access database",
+"annee": 2016,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://inria.hal.science/hal-01322964v1",
+"doi": "10.1016/j.cag.2016.05.009"
+},
+{
+"id": "p890f9f3343",
+"titre": "The Evolution of Artificial Neurogenesis",
+"annee": 2016,
+"type": "conférence",
+"lieu": "Genetic and Evolutionary Computation Conference Companion (GECCO 2016)",
+"url": "https://hal.science/hal-01782552v1"
+},
+{
+"id": "p6e0c41f1b9",
+"titre": "Towards multi-scale feature detection repeatable over intensity and depth images.",
+"annee": 2016,
+"type": "conférence",
+"lieu": "IEEE International Conference on Image Processing (ICIP 2016)",
+"url": "https://hal.science/hal-03660180v1"
+},
+{
+"id": "pc1d8c943d8",
+"titre": "Training the operating room staff in a virtual multiplayer and real-time environment to prevent adverse events: study of team situation awareness and decision making using the learning game 3D virtual operating room",
+"annee": 2016,
+"type": "conférence",
+"lieu": "5th International Conference on Healthcare systems ergonomics and Patient safety - Healthcare and society : new challenges, new opportunities (HEPS 2016)",
+"url": "https://hal.science/hal-01787420v1"
+},
+{
+"id": "p2789044a45",
+"titre": "Unbiased Photometric Stereo for Colored Surfaces: A Variational Approach",
+"annee": 2016,
+"type": "conférence",
+"lieu": "IEEE International Conference on Computer Vision and Pattern Recognition (CVPR 2016)",
+"url": "https://hal.science/hal-01534802v1"
+},
+{
+"id": "p30542dc88d",
+"titre": "Étalonnage de sources lumineuses de type LED",
+"annee": 2016,
+"type": "conférence",
+"lieu": "Congrès Francophone de Reconnaissance des Formes et Intelligence Artificielle (RFIA 2016)",
+"url": "https://hal.science/hal-01523662v1"
+},
+{
+"id": "p5512a17fcb",
+"titre": "A 3D collaborative editor using WebGL and WebRTC",
+"annee": 2015,
+"type": "conférence",
+"lieu": "20th International Conference on 3D Web Technology (Web3D 2015)",
+"url": "https://hal.science/hal-01303832v1",
+"doi": "10.1145/2775292.2778297"
+},
+{
+"id": "pa6f09ad64d",
+"titre": "A L1-TV Algorithm for Robust Perspective Photometric Stereo with Spatially-Varying Lightings",
+"annee": 2015,
+"type": "conférence",
+"lieu": "5th International Conference on Scale Space and Variational Methods in Computer Vision (SSVM 2015)",
+"url": "https://hal.science/hal-01360870v1"
+},
+{
+"id": "pafa23877bc",
+"titre": "An Ontology for Semantic Modelling of Virtual World",
+"annee": 2015,
+"type": "journal",
+"lieu": "International Journal of Artificial Intelligence & Applications",
+"url": "https://hal.science/hal-03190222v1"
+},
+{
+"id": "p75ab56990c",
+"titre": "Caractérisation de la projection du squelette d'une surface canal 3D : Application à la reconstruction 3D à partir de deux images",
+"annee": 2015,
+"type": "conférence",
+"lieu": "20ème edition des journees du Groupe de Travail en Modélisation Géométrique (GTMG 2015)",
+"url": "https://hal.science/hal-01343028v1"
+},
+{
+"id": "p3e8fee701c",
+"titre": "Comment caractériser la variabilité d'une surface 3D ? Analyse à partir d'exemples en anatomie comparée",
+"annee": 2015,
+"type": "conférence",
+"lieu": "GTMG 2015 - Journées du Groupe de Travail en Modélisation Géométrique",
+"url": "https://hal.science/hal-03209334v1"
+},
+{
+"id": "p0a0cf56854",
+"titre": "Communication and knowledge sharing in immersive learning games.",
+"annee": 2015,
+"type": "conférence",
+"lieu": "7th International Conference on Games and Virtual Worlds for Serious Applications (VS-Games 2015)",
+"url": "https://hal.science/hal-02651338v1",
+"doi": "10.1109/vs-games.2015.7295768"
+},
+{
+"id": "pc8fc526498",
+"titre": "Edge-Preserving Integration of a Normal Field: Weighted Least Squares and L1 Approaches",
+"annee": 2015,
+"type": "conférence",
+"lieu": "5th International Conference on Scale Space and Variational Methods in Computer Vision (SSVM 2015)",
+"url": "https://hal.science/hal-01360871v1"
+},
+{
+"id": "pd54c464997",
+"titre": "Geometry-Based Superpixel Segmentation Introduction of Planar Hypothesis for Superpixel Construction",
+"annee": 2015,
+"type": "conférence",
+"lieu": "International Conference on Computer Vision Theory and Applications (VISAPP 2015) part of VISIGRAPP, the 10th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications",
+"url": "https://hal.science/hal-03662772v1"
+},
+{
+"id": "pd14a64538a",
+"titre": "Hybrid client-server and P2P network for web-based collaborative 3D design",
+"annee": 2015,
+"type": "conférence",
+"lieu": "23rd International Conference in Central Europe on Computer Graphics, Visualization and Computer Vision (WSCG 2015)",
+"url": "https://hal.science/hal-01303837v1"
+},
+{
+"id": "p6d5f3a90bd",
+"titre": "Image Quality Assessment for Photo-consistency Evaluation on Planar Classification in Urban Scenes",
+"annee": 2015,
+"type": "conférence",
+"lieu": "4th International Conférence on Pattern Recognition Applications and Methods (ICPRAM 2015)",
+"url": "https://hal.science/hal-01390843v1",
+"doi": "10.5220/0005222603280333"
+},
+{
+"id": "pc86a6611d1",
+"titre": "In situ 3D Digitization of the \"Little Foot\" Australopithecus skeleton from Sterkfontein",
+"annee": 2015,
+"type": "journal",
+"lieu": "Paleoanthropology",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-01275682v1",
+"doi": "10.4207/pa.2015.art95"
+},
+{
+"id": "pacd0a8aadb",
+"titre": "L'interaction et la manipulation d'information dans un learning game immersif et collaboratif",
+"annee": 2015,
+"type": "conférence",
+"lieu": "27ème conférence francophone sur l'Interaction Homme-Machine",
+"url": "https://hal.science/hal-01219906v1"
+},
+{
+"id": "p4d52abc644",
+"titre": "Procedural and semantic modeling of virtual environments for serious games development",
+"annee": 2015,
+"type": "conférence",
+"lieu": "Silver Gaming Intergenerational Summer School (SGISS 2015) - École d'été intergénérationnelle Jeux et Apprentissages",
+"url": "https://hal.science/hal-01303838v1"
+},
+{
+"id": "p1fa2f439dd",
+"titre": "Que peut-on apprendre d'une scène vue par une webcam à partir d'images prises au cours d'une journée ensoleillée ?",
+"annee": 2015,
+"type": "conférence",
+"lieu": "Journées francophones des jeunes chercheurs en vision par ordinateur",
+"url": "https://hal.science/hal-01161843v1"
+},
+{
+"id": "pa2bd738aac",
+"titre": "SVHsIEVs For Navigation In Virtual Urban Environment",
+"annee": 2015,
+"type": "conférence",
+"lieu": "2nd International Conference on Foundations of Computer Science & Technology (CST 2015)",
+"url": "https://hal.science/hal-03190221v1"
+},
+{
+"id": "p9ba1c5304d",
+"titre": "Semantic Representation of Virtual Humans",
+"annee": 2015,
+"type": "conférence",
+"lieu": "advanced science letters, Selected Peer-Reviewed Articles from the 3rd International Conference on Internet Services Technology and Information Engineering 2015",
+"url": "https://hal.science/hal-03213944v1",
+"doi": "10.1166/asl.2015.6469"
+},
+{
+"id": "p4e15c8eb97",
+"titre": "Serious Games Scenario Modeling for Non-Experts",
+"annee": 2015,
+"type": "conférence",
+"lieu": "7th International Conference on Computer Supported Education (CSEDU 2015)",
+"url": "https://hal.science/hal-04048088v1",
+"doi": "10.5220/0005489904740479"
+},
+{
+"id": "p16c1a91ede",
+"titre": "Simulation du fonctionnement hydrodynamique des milieux humides dans les plaines alluviales",
+"annee": 2015,
+"type": "conférence",
+"lieu": "2ème conférence internationale Recherche et Action au service des fleuves et des grandes rivières (I.S River 2015)",
+"url": "https://hal.science/hal-01316814v1"
+},
+{
+"id": "p4c55c8dae8",
+"titre": "Solving Uncalibrated Photometric Stereo using Total Variation",
+"annee": 2015,
+"type": "journal",
+"lieu": "Journal of Mathematical Imaging and Vision",
+"url": "https://hal.science/hal-01360868v1",
+"doi": "10.1007/s10851-014-0512-5"
+},
+{
+"id": "p1cb5b102af",
+"titre": "Some Illumination Models for Industrial Applications of Photometric Stereo",
+"annee": 2015,
+"type": "conférence",
+"lieu": "The International Conference on Quality Control by Artificial Vision 2015",
+"url": "https://normandie-univ.hal.science/hal-02118579v1",
+"doi": "10.1117/12.2182921"
+},
+{
+"id": "p6d3e0c33cf",
+"titre": "TVPD : un jeu de données pour évaluer les algorithmes d'estimation de points de fuite",
+"annee": 2015,
+"type": "conférence",
+"lieu": "Journées francophones des jeunes chercheurs en vision par ordinateur",
+"url": "https://hal.science/hal-01161847v1"
+},
+{
+"id": "p579d1dc8a7",
+"titre": "The DCP Bay: Toward an Art-House Content Delivery Network for Digital Cinema",
+"annee": 2015,
+"type": "conférence",
+"lieu": "7th International Conference on Advances in Multimedia (MMEDIA 2015) colocated with the 8th International Conference on Communication Theory, Reliability, and Quality of Service CTRQ 2015",
+"url": "https://hal.science/hal-01379485v1"
+},
+{
+"id": "pfa7c91b83c",
+"titre": "The toulouse vanishing points dataset",
+"annee": 2015,
+"type": "conférence",
+"lieu": "Proceedings of the 6th ACM Multimedia Systems Conference (MMSys '15)",
+"url": "https://hal.science/hal-01130447v1",
+"doi": "10.1145/2713168.2713196"
+},
+{
+"id": "p303ae8d44d",
+"titre": "Toward Free and Open Source Film Projection for Digital Cinema",
+"annee": 2015,
+"type": "conférence",
+"lieu": "EUROMEDIA 2015",
+"url": "https://hal.science/hal-01377336v1"
+},
+{
+"id": "pc8274db96b",
+"titre": "Towards Skeleton based Reconstruction : From Projective Skeletonization to Canal Surface Estimation",
+"annee": 2015,
+"type": "conférence",
+"lieu": "International Conference on 3D Vision (3DV 2015)",
+"url": "https://hal.science/hal-01272139v1",
+"doi": "10.1109/3dv.2015.67"
+},
+{
+"id": "p8d9021d5d9",
+"titre": "Virtual Laboratories implemented in serious games for virtual heritage at university and for teaching Sciences",
+"annee": 2015,
+"type": "conférence",
+"lieu": "Workshop Information Technologies in Education, part of The 7th International Conference of Computer Science and Information Technology (CSTI 2015)",
+"url": "https://hal.science/hal-01558466v1"
+},
+{
+"id": "p8938bd48b7",
+"titre": "A Continuous Developmental Model for Wind Farm Layout Optimization",
+"annee": 2014,
+"type": "conférence",
+"lieu": "Genetic and Evolutionary Computation COnference (GECCO 2014)",
+"url": "https://hal.science/hal-03665939v1",
+"doi": "10.1145/2576768.2598383"
+},
+{
+"id": "p35d9fffe5d",
+"titre": "A new minimal path selection algorithm for automatic crack detection on pavement images",
+"annee": 2014,
+"type": "conférence",
+"lieu": "IEEE International Conference on Image Processing (ICIP 2014)",
+"url": "https://hal.science/hal-01387817v1",
+"doi": "10.1109/icip.2014.7025158"
+},
+{
+"id": "p82f2be74e0",
+"titre": "Accept'Hydro: a tool for evaluating potential wetland areas at floodplain scale",
+"annee": 2014,
+"type": "conférence",
+"lieu": "7th International Environmental Modelling and Software Society (iEMSs 2014)",
+"url": "https://hal.science/hal-01110431v1"
+},
+{
+"id": "p6041521dbd",
+"titre": "Adaptive Augmented Reality: Plasticity of Augmentations",
+"annee": 2014,
+"type": "conférence",
+"lieu": "Virtual Reality International Conference (VRIC 2014)",
+"url": "https://hal.science/hal-01006653v1"
+},
+{
+"id": "p6edae201e3",
+"titre": "Alignement de modèles 3d paramétriques BRep basé sur la détection de symétries partielles. Application à l'indexation 3D",
+"annee": 2014,
+"type": "conférence",
+"lieu": "Journées du Groupe de Travail en Modélisation Géométrique - GTMG 2014",
+"url": "https://hal.science/hal-01136018v1"
+},
+{
+"id": "pfe832b09a8",
+"titre": "Bandwidth Adaptation for 3D Mesh Preview Streaming",
+"annee": 2014,
+"type": "journal",
+"lieu": "ACM Transactions on Multimedia Computing, Communications and Applications",
+"url": "https://hal.science/hal-01120943v1",
+"doi": "10.1145/2537854"
+},
+{
+"id": "pbe4fe2062e",
+"titre": "Control of non player characters in a medical learning game with Monte Carlo Tree Search (poster)",
+"annee": 2014,
+"type": "conférence",
+"lieu": "Annual Conference on Genetic and Evolutionary Computation COnference (GECCO 2014)",
+"url": "https://hal.science/hal-03224143v1",
+"doi": "10.1145/2598394.2598473"
+},
+{
+"id": "pc4d2716bdc",
+"titre": "Control of non-playing characters in a medical learning game with Monte Carlo Tree Search",
+"annee": 2014,
+"type": "conférence",
+"lieu": "IEEE Conference on Computational Intelligence and Games (CIG 2014)",
+"url": "https://hal.science/hal-03246610v1"
+},
+{
+"id": "p6926a8771e",
+"titre": "Crack-free rendering of dynamically tesselated B-Rep models",
+"annee": 2014,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-01118484v3",
+"doi": "10.1111/cgf.12308"
+},
+{
+"id": "pf7333e3c2b",
+"titre": "Design and Evaluation of a User-Centered Interface to Model Scenarios on Driving Simulators",
+"annee": 2014,
+"type": "journal",
+"lieu": "Transportation Research Part C: Emerging Technologies",
+"url": "https://hal.science/hal-01072490v1",
+"doi": "10.1016/j.trc.2014.09.011"
+},
+{
+"id": "pcdd8c941a4",
+"titre": "Gene regulated car driving: using a gene regulatory network to drive a virtual car",
+"annee": 2014,
+"type": "journal",
+"lieu": "Genetic Programming and Evolvable Machines",
+"url": "https://hal.science/hal-03520679v1",
+"doi": "10.1007/s10710-014-9228-y"
+},
+{
+"id": "p3d72d8d493",
+"titre": "High-Level Behavior Regulation for Multi-Robot Systems",
+"annee": 2014,
+"type": "conférence",
+"lieu": "Genetic and Evolutionary Computation COnference - GECCO 2014",
+"url": "https://hal.science/hal-01136392v1",
+"doi": "10.1145/2598394.2598454"
+},
+{
+"id": "pc1e5e13ad4",
+"titre": "Identification of Homo-like features in virtually rendered South African australopiths endocasts",
+"annee": 2014,
+"type": "conférence",
+"lieu": "Symposium Le Registre Fossile Humain Africain / The African Human Fossil Record (2014)",
+"url": "https://hal.science/hal-03266927v1"
+},
+{
+"id": "p72a25e5255",
+"titre": "Integrated modelling of social-ecological systems: The MAELIA high-resolution multi-agent platform to deal with water scarcity problems",
+"annee": 2014,
+"type": "conférence",
+"lieu": "7. International Congress on Environmental Modelling and Software (iEMSs 2014)",
+"url": "https://hal.inrae.fr/hal-02742949v2"
+},
+{
+"id": "paf90119a5f",
+"titre": "Introducing a design methodology for multi-character collaboration in immersive learning games",
+"annee": 2014,
+"type": "conférence",
+"lieu": "6th International Conference on Virtual Worlds and Games for Serious Applications: VS-Games (VS-Games 2014)",
+"url": "https://hal.science/hal-03260604v1"
+},
+{
+"id": "paf47c02077",
+"titre": "Intégration d'un champ de gradient rapide et robuste aux discontinuités - Application à la stéréophotométrie",
+"annee": 2014,
+"type": "conférence",
+"lieu": "Congrès Francophone de Reconnaissance des Formes et Intelligence Artificielle - RFIA 2014",
+"url": "https://hal.science/hal-01120129v1"
+},
+{
+"id": "pafa141f5ec",
+"titre": "Landmark-free 3D method for comparison of fossil hominins and hominids based on endocranium and EDJ shapes",
+"annee": 2014,
+"type": "conférence",
+"lieu": "83rd Annual Meeting of the American Association of Physical Anthropologists (2014)",
+"url": "https://inria.hal.science/hal-00935054v1"
+},
+{
+"id": "pe3406304a2",
+"titre": "Mobile Augmented Reality: Applications and Spe-cific Technical Issues",
+"annee": 2014,
+"type": "chapitre",
+"lieu": "Intelligent Systems for Science and Information: Extended and Selected Results from the Science and Information Conference 2013",
+"url": "https://hal.science/hal-01006627v1",
+"doi": "10.1007/978-3-319-04702-7"
+},
+{
+"id": "p379ab1ee83",
+"titre": "Mobile Augmented Reality: Applications and Specific Technical Issues",
+"annee": 2014,
+"type": "chapitre",
+"lieu": "Studies in computational intelligence",
+"url": "https://doi.org/10.1007/978-3-319-04702-7_8",
+"doi": "10.1007/978-3-319-04702-7_8"
+},
+{
+"id": "p97fb84b75b",
+"titre": "Modeling a bacterial ecosystem through chemotaxis simulation of a single cell",
+"annee": 2014,
+"type": "journal",
+"lieu": "Artificial Life and Robotics",
+"url": "https://hal.science/hal-01290846v1",
+"doi": "10.1007/s10015-014-0187-4"
+},
+{
+"id": "pf0b8749d52",
+"titre": "Modeling bacterial chemotaxis inside a cell",
+"annee": 2014,
+"type": "conférence",
+"lieu": "4th International Conference on Multimedia Computing and Systems (ICMCS 2014)",
+"url": "https://hal.science/hal-01290107v1"
+},
+{
+"id": "p68b296d395",
+"titre": "Smartphone Based 3D Navigation Techniques in an Astronomical Observatory Context: Implementation and Evaluation in a Software Platform",
+"annee": 2014,
+"type": "journal",
+"lieu": "International Journal On Advances in Software",
+"url": "https://hal.science/hal-01387801v1"
+},
+{
+"id": "p863c03c41e",
+"titre": "Smartphone-Based 3D Navigation Technique for Use in a Museum Exhibit",
+"annee": 2014,
+"type": "conférence",
+"lieu": "7th International Conference on Advances in Computer-Human Interactions (ACHI 2014)",
+"url": "https://hal.science/hal-03266935v1"
+},
+{
+"id": "pa2f257775b",
+"titre": "Symmetry and Fourier descriptor : a hybrid feature for NURBS based B-Rep models retrieval",
+"annee": 2014,
+"type": "conférence",
+"lieu": "Eurographics Workshop on 3D Object Retrieval (3DOR 2014)",
+"url": "https://hal.science/hal-01188255v1"
+},
+{
+"id": "p09a511b95e",
+"titre": "Symmetry-Based Alignment for 3D Model Retrieval",
+"annee": 2014,
+"type": "conférence",
+"lieu": "12th International Workshop on Content-Based Multimedia Indexing (CBMI 2014)",
+"url": "https://hal.science/hal-02064223v1",
+"doi": "10.1109/cbmi.2014.6849816"
+},
+{
+"id": "p697b6b4ecc",
+"titre": "Towards an engineering approach for advanced interaction techniques in 3D environments",
+"annee": 2014,
+"type": "conférence",
+"lieu": "Workshop HCI Engineering in the sixth ACM SIGCHI Symposium on Engineering Interactive Computing Systems (EICS 2014)",
+"url": "https://hal.science/hal-01111114v1"
+},
+{
+"id": "p7fa9af5ede",
+"titre": "Transformation d'un dispositif multimédia webcam-écran en un scanner 3D",
+"annee": 2014,
+"type": "conférence",
+"lieu": "COmpression et REprésentation des Signaux Audiovisuels (CORESA)",
+"url": "https://hal.science/hal-01120851v1"
+},
+{
+"id": "pc3455271ab",
+"titre": "3D Mesh Preview Streaming",
+"annee": 2013,
+"type": "conférence",
+"lieu": "4th ACM Multimedia Systems Conference (MMSys'13)",
+"url": "https://hal.science/hal-04082637v1",
+"doi": "10.1145/2483977.2484001"
+},
+{
+"id": "p8d8c545d23",
+"titre": "A Detailed Description of User-Centered User-Interface to Model Scenarios on Driving Simulators",
+"annee": 2013,
+"type": "conférence",
+"lieu": "RSS 2013 - Road Safety and Simulation International Conference",
+"url": "https://hal.science/hal-00873813v1"
+},
+{
+"id": "p19aca91379",
+"titre": "A detailed description of a user-centered interface to model scenarios on driving simulator",
+"annee": 2013,
+"type": "conférence",
+"lieu": "4th Road Safety and Simulation 2013 (RSS 2013)",
+"url": "https://hal.science/hal-01144895v1"
+},
+{
+"id": "p5caaae3f12",
+"titre": "Analysis of students clustering results based on Moodle log data",
+"annee": 2013,
+"type": "conférence",
+"lieu": "6th International Conference on Educational Data Mining - EDM 2013",
+"url": "https://hal.science/hal-01146267v1"
+},
+{
+"id": "p0750b4beb3",
+"titre": "Applying the ALFIL Crowd Simulator to a Real Evacuation Incident : The News Divine Scenario",
+"annee": 2013,
+"type": "conférence",
+"lieu": "The European Simulation and AI in Games Conference (GAMEON 2013)",
+"url": "https://hal.science/hal-01212861v1"
+},
+{
+"id": "p9e655eb4d9",
+"titre": "Automatic Road Crack Detection by Selection of Minimal Paths",
+"annee": 2013,
+"type": "conférence",
+"lieu": "24ème Colloque sur le Traitement du Signal et des Images (GRETSI 2013)",
+"url": "https://hal.science/hal-01197285v1"
+},
+{
+"id": "pa77b389dcd",
+"titre": "Clustering Moodle data as a tool for profiling students",
+"annee": 2013,
+"type": "conférence",
+"lieu": "2nd International Conference on e-Learning and e-Technologies in Education - ICEEE 2013",
+"url": "https://hal.science/hal-01166940v1"
+},
+{
+"id": "pf614fcd9dd",
+"titre": "Filling the user skill gap using HCI techniques to implement experimental protocols on driving simulators",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Sixth International Conference on Advances in Computer-Human Interactions",
+"url": "https://hal.science/hal-00869865v1"
+},
+{
+"id": "ped421193e8",
+"titre": "Haptic System for Eyes Free and Hands Free Pedestrian Navigation",
+"annee": 2013,
+"type": "conférence",
+"lieu": "ACHI 2013 : The Sixth International Conference on Advances in Computer-Human Interactions",
+"url": "https://hal.science/hal-00908028v1"
+},
+{
+"id": "p6698656c86",
+"titre": "Identifying Perceptually Salient Features on 2D Shapes",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Women In Shapes 2013",
+"url": "https://inria.hal.science/hal-01071631v1",
+"doi": "10.1007/978-3-319-16348-2_9"
+},
+{
+"id": "p918db359d9",
+"titre": "Impact assessment modeling of low-water management policy",
+"annee": 2013,
+"type": "conférence",
+"lieu": "4. Workshop of Applied Computing for the Management of the Environment and Natural Resources (WCAMA 2013)",
+"url": "https://hal.inrae.fr/hal-02750368v2"
+},
+{
+"id": "p21e7e91417",
+"titre": "L'apprentissage automatique comme base du suivi d'élèves et de l'amélioration de formations",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Journée EIAH&IA 2013",
+"url": "https://hal.science/hal-00824278v1"
+},
+{
+"id": "p3db03e2e44",
+"titre": "Lecture de DCP pour le cinéma numérique avec le lecteur multimédia VLC et libav/ffmpeg",
+"annee": 2013,
+"type": "conférence",
+"lieu": "COmpression et REprésentation des Signaux Audiovisuels - CORESA 2013",
+"url": "https://hal.science/hal-01137253v1"
+},
+{
+"id": "p17f2727ccd",
+"titre": "Mobile Augmented Reality Applications to Discover New Environments",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Science and Information Conference 2013",
+"url": "https://hal.science/hal-00908071v1"
+},
+{
+"id": "p21eafb6beb",
+"titre": "Quels prétraitements pour la stéréophotométrie non calibrée ?",
+"annee": 2013,
+"type": "conférence",
+"lieu": "14èmes Journées francophones des jeunes chercheurs en vision par ordinateur (ORASIS 2013)",
+"url": "https://hal.science/hal-01152650v1"
+},
+{
+"id": "pb83d3554e9",
+"titre": "Reconstructing Plants in 3D from a Single Image Using Analysis-by-Synthesis",
+"annee": 2013,
+"type": "chapitre",
+"lieu": "Advances in Visual Computing",
+"url": "https://inria.hal.science/hal-00931231v1",
+"doi": "10.1007/978-3-642-41914-0_32"
+},
+{
+"id": "p853b88001e",
+"titre": "Résolution du problème de la stéréophotométrie non calibrée par estimation de l'intensité des éclairages",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Congrès des jeunes chercheurs en vision par ordinateur (ORASIS 2013)",
+"url": "https://hal.science/hal-00829380v1"
+},
+{
+"id": "pb60d1a994d",
+"titre": "Segmentation de scènes urbaines par combinaison d'information",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Journées francophones des jeunes chercheurs en vision par ordinateur (ORASIS 2013)",
+"url": "https://hal.science/hal-00829429v1"
+},
+{
+"id": "p43b37b3f10",
+"titre": "Shape from Shading",
+"annee": 2013,
+"type": "chapitre",
+"lieu": "Wiley eBooks",
+"url": "https://doi.org/10.1002/9781118603864.ch10",
+"doi": "10.1002/9781118603864.ch10"
+},
+{
+"id": "p2993cb96b6",
+"titre": "Similarity Detection for Free-Form Parametric Models",
+"annee": 2013,
+"type": "conférence",
+"lieu": "21st International Conference in Central Europe on Computer Graphics, Visualization and Computer Vision (WSCG 2013)",
+"url": "https://hal.science/hal-01226471v1"
+},
+{
+"id": "pa041e78a83",
+"titre": "Solving the Uncalibrated Photometric Stereo Problem using Total Variation",
+"annee": 2013,
+"type": "conférence",
+"lieu": "International Conference on Scale Space and Variational Methods in Computer Vision - SSVM 2013",
+"url": "https://hal.science/hal-01143231v1"
+},
+{
+"id": "p306b80c7f9",
+"titre": "Stereo camera tracking for mobile devices",
+"annee": 2013,
+"type": "conférence",
+"lieu": "IWMV 2013 - The Third IEEE International Workshop on Mobile Vision (IWMV 2013)",
+"url": "https://hal.science/hal-00817504v1",
+"doi": "10.1109/cvprw.2013.7"
+},
+{
+"id": "pedbb807b94",
+"titre": "Suivi de caméra stéréo pour des applications de réalité augmentée sur téléphone mobile",
+"annee": 2013,
+"type": "conférence",
+"lieu": "ORASIS 2013 - Congrès des jeunes chercheurs en vision par ordinateur",
+"url": "https://hal.science/hal-00809402v2"
+},
+{
+"id": "p064d373eb2",
+"titre": "The MAELIA multi-agent platform for integrated analysis of interactions between agricultural land-use and low-water management strategies",
+"annee": 2013,
+"type": "conférence",
+"lieu": "International Workshop on Multi-Agent-Based Simulation - MABS 2013",
+"url": "https://hal.science/hal-01144166v1",
+"doi": "10.1007/978-3-642-54783-6_6"
+},
+{
+"id": "pfa8aba301a",
+"titre": "Une méthode de relevé automatique de fissures de chaussée fondée sur la recherche de chemins minimaux",
+"annee": 2013,
+"type": "conférence",
+"lieu": "13ème Colloque International Francophone du club CMOI/SFO : Contrôles et Mesures Optiques pour l’Industrie (CMOI 2013)",
+"url": "https://hal.science/hal-01202525v1"
+},
+{
+"id": "p0294d1c0f1",
+"titre": "User-centered design approach to model scenarios on driving simulators",
+"annee": 2013,
+"type": "chapitre",
+"lieu": "Driver adaptation to information and assistance systems",
+"url": "https://hal.science/hal-03224120v1",
+"doi": "10.1049/pbsp009e_ch14"
+},
+{
+"id": "p72b02521bd",
+"titre": "Virtual Customers in a Multiagent Training Application",
+"annee": 2013,
+"type": "chapitre",
+"lieu": "Transaction on Edutainment IX",
+"url": "https://hal.science/hal-00826443v1",
+"doi": "10.1007/978-3-642-37042-7_6"
+},
+{
+"id": "p17215c5eb1",
+"titre": "A Synthesis of the Cell2Organ Developmental Model",
+"annee": 2012,
+"type": "chapitre",
+"lieu": "Understanding complex systems",
+"url": "https://doi.org/10.1007/978-3-642-33902-8_14",
+"doi": "10.1007/978-3-642-33902-8_14"
+},
+{
+"id": "p628c0a679f",
+"titre": "ALFIL",
+"annee": 2012,
+"type": "journal",
+"lieu": "International Journal of Game-Based Learning",
+"url": "https://doi.org/10.4018/ijgbl.2012070105",
+"doi": "10.4018/ijgbl.2012070105"
+},
+{
+"id": "pc2f398e322",
+"titre": "Agent Behaviour Modeling Using Personality Profile Characterization for Emergency Evacuation Serious Games",
+"annee": 2012,
+"type": "chapitre",
+"lieu": "Studies in computational intelligence",
+"url": "https://doi.org/10.1007/978-3-642-31745-3_6",
+"doi": "10.1007/978-3-642-31745-3_6"
+},
+{
+"id": "pe721b38be1",
+"titre": "An Efficient Trim Structure for Rendering Large B-Rep Models",
+"annee": 2012,
+"type": "conférence",
+"lieu": "17th International Workshop on Vision, Modeling and Visualization (VMV 2012)",
+"url": "https://hal.science/hal-01298635v1",
+"doi": "10.2312/pe/vmv/vmv12/031-038"
+},
+{
+"id": "p16f2b2ec05",
+"titre": "An immersion into a Multi-Agent Store Simulation",
+"annee": 2012,
+"type": "conférence",
+"lieu": "10th International Conference on Practical Applications of Agents and Multi-Agent Systems (PAAMS'2012)",
+"url": "https://hal.science/hal-00826439v1"
+},
+{
+"id": "p6f87a540c1",
+"titre": "Following food sources by artificial creatures in a virtual ecosystem",
+"annee": 2012,
+"type": "chapitre",
+"lieu": "Virtual words - Artificial Ecosystems and Digital Art Exploration",
+"url": "https://hal.science/hal-03220761v1",
+"doi": "10.13140/rg.2.1.3502.1529"
+},
+{
+"id": "p93e7ca9b77",
+"titre": "Formal Representation of Water Withdrawal Policies for Integrated Impact Assessment",
+"annee": 2012,
+"type": "conférence",
+"lieu": "European Conference on Complex Systems",
+"url": "https://inria.hal.science/hal-00968234v1"
+},
+{
+"id": "pa6526ed324",
+"titre": "Game Engines Selection Framework for High-Fidelity Serious Applications",
+"annee": 2012,
+"type": "journal",
+"lieu": "International Journal of Interactive Worlds",
+"url": "https://doi.org/10.5171/2012.418638",
+"doi": "10.5171/2012.418638"
+},
+{
+"id": "p4ad92b853f",
+"titre": "Perspective Shape from Shading: Ambiguity Analysis and Numerical Approximations",
+"annee": 2012,
+"type": "journal",
+"lieu": "SIAM Journal on Imaging Sciences",
+"url": "https://hal.science/hal-04584907v1",
+"doi": "10.1137/100815104"
+},
+{
+"id": "p64544c51ff",
+"titre": "Realistic Plant Modeling from Images Based on Analysis-by-Synthesis",
+"annee": 2012,
+"type": "conférence",
+"lieu": "8th International Conference on Mathematical Methods for Curves and Surfaces (MMCS 2012)",
+"url": "https://inria.hal.science/hal-01148822v2",
+"doi": "10.1007/978-3-642-54382-1_12"
+},
+{
+"id": "p42ee1ff502",
+"titre": "Résolution de la stéréophotométrie par apprentissage",
+"annee": 2012,
+"type": "conférence",
+"lieu": "RFIA 2012 (Reconnaissance des Formes et Intelligence Artificielle)",
+"url": "https://hal.science/hal-00656548v1"
+},
+{
+"id": "pa7c392bc9c",
+"titre": "Serious Game and Simulator in the health field",
+"annee": 2012,
+"type": "conférence",
+"lieu": "SEGAMED 2012",
+"url": "https://hal.science/hal-04854410v1"
+},
+{
+"id": "p827f0f14fc",
+"titre": "Serious Game, Simulator, Serious play: state of the art for health training",
+"annee": 2012,
+"type": "conférence",
+"lieu": "e-virtuoses / SEGAMED 2012",
+"url": "https://hal.science/hal-04024997v1"
+},
+{
+"id": "p2bc917231e",
+"titre": "Stéréophotométrie non calibrée en présence d’écarts au modèle lambertien",
+"annee": 2012,
+"type": "journal",
+"lieu": "Traitement du Signal",
+"url": "https://hal.science/hal-02118500v1",
+"doi": "10.3166/ts.22.1-33"
+},
+{
+"id": "p03c3de325e",
+"titre": "Theatrical Text to 3D Virtual Scenography",
+"annee": 2012,
+"type": "chapitre",
+"lieu": "Studies in computational intelligence",
+"url": "https://doi.org/10.1007/978-3-642-31745-3_2",
+"doi": "10.1007/978-3-642-31745-3_2"
+},
+{
+"id": "p99d90f6fd7",
+"titre": "Towards the development of a User Interface to model scenarios on driving Simulators",
+"annee": 2012,
+"type": "conférence",
+"lieu": "International Driving Simulation Conference 2012",
+"url": "https://hal.science/hal-01144271v1"
+},
+{
+"id": "pb5fa6279c1",
+"titre": "Une nouvelle interface avec le monde : Les guides virtuels.",
+"annee": 2012,
+"type": "conférence",
+"lieu": "Journées de l'Association Française de Réalité Virtuelle, Augmentée et Mixte et d'Interaction 3D, France (2012)",
+"url": "https://hal.science/hal-00739748v1"
+},
+{
+"id": "p98ea266bc4",
+"titre": "Une structure de découpe efficace pour l'affichage de grands modèles B-Rep",
+"annee": 2012,
+"type": "conférence",
+"lieu": "AFIG '11 (Actes des 25èmes journées de l'AFIG)",
+"url": "https://hal.science/hal-01342495v1"
+},
+{
+"id": "p40c73c0e28",
+"titre": "Vers un système de projection alternatif pour le cinéma numérique",
+"annee": 2012,
+"type": "conférence",
+"lieu": "COmpression et REprésentation des Signaux Audiovisuels (CORESA 2012)",
+"url": "https://hal.science/hal-04584908v1"
+},
+{
+"id": "pda5368a602",
+"titre": "Virtual Customers in an Agent World",
+"annee": 2012,
+"type": "conférence",
+"lieu": "10th International Conference on Practical Applications of Agents and Multi-Agent Systems (PAAMS'2012)",
+"url": "https://hal.science/hal-00826442v1"
+},
+{
+"id": "p7f261bec9b",
+"titre": "A Fast Eavesdropping Attack Against Touchscreens",
+"annee": 2011,
+"type": "conférence",
+"lieu": "IAS 2011 - 7th International Conference on Information Assurance and Security",
+"url": "https://inria.hal.science/hal-00761669v1",
+"doi": "10.1109/isias.2011.6122840"
+},
+{
+"id": "p134b8997c9",
+"titre": "Artificial Gene Regulatory Network and Spatial Computation: A Case Study",
+"annee": 2011,
+"type": "conférence",
+"lieu": "European Conference on Artificial Life",
+"url": "https://inria.hal.science/inria-00601778v1"
+},
+{
+"id": "p84696b3d71",
+"titre": "Artificial Gene Regulatory Networks and Spatial Computation: A Case Study",
+"annee": 2011,
+"type": "conférence",
+"lieu": "ECAL",
+"url": "https://inria.hal.science/inria-00601816v1"
+},
+{
+"id": "pea69ae1603",
+"titre": "Automatic Road Defect Detection by Textural Pattern Recognition Based on AdaBoost",
+"annee": 2011,
+"type": "journal",
+"lieu": "Computer-Aided Civil and Infrastructure Engineering",
+"url": "https://hal.science/hal-00878451v1",
+"doi": "10.1111/j.1467-8667.2011.00736.x"
+},
+{
+"id": "p40dd3a2f32",
+"titre": "Automatic Road Pavement Assessment with Image Processing : Review and Comparison",
+"annee": 2011,
+"type": "journal",
+"lieu": "International Journal of Geophysics",
+"url": "https://hal.science/hal-00612165v1"
+},
+{
+"id": "p776e069bfb",
+"titre": "Camera Models and Fundamental Concepts Used in Geometric Computer Vision",
+"annee": 2011,
+"type": "ouvrage",
+"lieu": "",
+"url": "https://inria.hal.science/inria-00590269v1",
+"doi": "10.1561/0600000023"
+},
+{
+"id": "p00bca7d863",
+"titre": "Classifying Serious Games",
+"annee": 2011,
+"type": "chapitre",
+"lieu": "Advances in game-based learning book series",
+"url": "https://doi.org/10.4018/978-1-60960-495-0.ch006",
+"doi": "10.4018/978-1-60960-495-0.ch006"
+},
+{
+"id": "pfcc05f6c1b",
+"titre": "Combination of correlation measures for dense stereo matching",
+"annee": 2011,
+"type": "conférence",
+"lieu": "International Joint Conference on Computer Vision Theory and Applications, VISAPP",
+"url": "https://hal.science/hal-00614106v1"
+},
+{
+"id": "pf072f48d81",
+"titre": "Detection of Points of Interest for Geodesic Contours : Application on Road Images for Crack Detection",
+"annee": 2011,
+"type": "conférence",
+"lieu": "6th International Joint Conference on Computer Vision Theory and Applications (VISAPP 2011)",
+"url": "https://hal.science/hal-00612526v1"
+},
+{
+"id": "p9c09ebaad9",
+"titre": "Détection de primitives linéaires et circulaires par une approche a contrario",
+"annee": 2011,
+"type": "conférence",
+"lieu": "ORASIS - Congrès des jeunes chercheurs en vision par ordinateur",
+"url": "https://inria.hal.science/inria-00595749v1"
+},
+{
+"id": "pf94d915fea",
+"titre": "Format-Store: a Multi-Agent Based Approach to Experiential Learning",
+"annee": 2011,
+"type": "conférence",
+"lieu": "3rd International Conference on Games and Virtual Worlds for Serious Applications (VS-GAMES 2011)",
+"url": "https://hal.science/hal-00826444v1"
+},
+{
+"id": "pb01a51a43d",
+"titre": "Gait Evolution for Humanoid Robot in a Physically Simulated Environment",
+"annee": 2011,
+"type": "chapitre",
+"lieu": "Studies in computational intelligence",
+"url": "https://doi.org/10.1007/978-3-642-22907-7_9",
+"doi": "10.1007/978-3-642-22907-7_9"
+},
+{
+"id": "p32dfe597d1",
+"titre": "Intuitive Method for Pedestrians in Virtual Environments",
+"annee": 2011,
+"type": "chapitre",
+"lieu": "Studies in computational intelligence",
+"url": "https://doi.org/10.1007/978-3-642-22907-7_7",
+"doi": "10.1007/978-3-642-22907-7_7"
+},
+{
+"id": "p5ad56800b1",
+"titre": "Line Localization From Single catadioptric Image",
+"annee": 2011,
+"type": "journal",
+"lieu": "International Journal of Computer Vision",
+"url": "https://hal.science/hal-00817515v1",
+"doi": "10.1007/s11263-011-0435-1"
+},
+{
+"id": "p4e15a76799",
+"titre": "MARTS : Conception d'un Système Mobile de Réalité Augmentée Dédié au Tourisme",
+"annee": 2011,
+"type": "conférence",
+"lieu": "Ubimob 2011",
+"url": "https://hal.science/hal-00609999v1"
+},
+{
+"id": "p29a66f0890",
+"titre": "Modeling progressive mesh streaming",
+"annee": 2011,
+"type": "journal",
+"lieu": "ACM Transactions on Multimedia Computing Communications and Applications",
+"url": "https://doi.org/10.1145/1925101.1925105",
+"doi": "10.1145/1925101.1925105"
+},
+{
+"id": "pa8b7f0384a",
+"titre": "Origins of Serious Games",
+"annee": 2011,
+"type": "chapitre",
+"lieu": "Springer eBooks",
+"url": "https://doi.org/10.1007/978-1-4471-2161-9_3",
+"doi": "10.1007/978-1-4471-2161-9_3"
+},
+{
+"id": "p2de771f3ff",
+"titre": "Partage de données environnementales pour la découverte et l'observation de la terre",
+"annee": 2011,
+"type": "conférence",
+"lieu": "M o b i l i t é e t U b i q u i t é 2 0 1 1",
+"url": "https://hal.science/hal-00610007v1"
+},
+{
+"id": "pec2c7545db",
+"titre": "Reconstruction 3D du bâti à partir d'une seule image par naissances et morts multiples",
+"annee": 2011,
+"type": "conférence",
+"lieu": "GRETSI",
+"url": "https://inria.hal.science/inria-00625527v1"
+},
+{
+"id": "pc893e00122",
+"titre": "Reconstruction de modèles virtuels de vignes à partir d'images",
+"annee": 2011,
+"type": "conférence",
+"lieu": "ORASIS - Congrès des jeunes chercheurs en vision par ordinateur",
+"url": "https://inria.hal.science/inria-00595483v1"
+},
+{
+"id": "p2f784203d3",
+"titre": "Résolution du shape-from-shading par apprentissage",
+"annee": 2011,
+"type": "conférence",
+"lieu": "ORASIS - Congrès des jeunes chercheurs en vision par ordinateur",
+"url": "https://inria.hal.science/inria-00596354v1"
+},
+{
+"id": "p68988ef2da",
+"titre": "Satellite image compression by concurrent representations of wavelet blocks",
+"annee": 2011,
+"type": "journal",
+"lieu": "Annals of Telecommunications",
+"url": "https://doi.org/10.1007/s12243-011-0252-0",
+"doi": "10.1007/s12243-011-0252-0"
+},
+{
+"id": "p7056fa8a5a",
+"titre": "Serious Games et SMA - Application à un supermarché virtuel",
+"annee": 2011,
+"type": "conférence",
+"lieu": "19e Journées francophones sur les systèmes multi-agents(JFSMA'2011)",
+"url": "https://hal.science/hal-00826434v1"
+},
+{
+"id": "p159f219ef2",
+"titre": "Similarity measures for image matching despite occlusions in stereo vision",
+"annee": 2011,
+"type": "journal",
+"lieu": "Pattern Recognition",
+"url": "https://hal.science/hal-00614017v1",
+"doi": "10.1016/j.patcog.2011.02.001"
+},
+{
+"id": "p38b290516c",
+"titre": "Suivi de caméra à partir de marqueurs plans composés de cercles concentriques : paradigme et algorithmes",
+"annee": 2011,
+"type": "conférence",
+"lieu": "ORASIS - Congrès des jeunes chercheurs en vision par ordinateur",
+"url": "https://inria.hal.science/inria-00596248v1"
+},
+{
+"id": "p72898979e9",
+"titre": "Unambiguous Photometric Stereo Using Two Images",
+"annee": 2011,
+"type": "conférence",
+"lieu": "16th International Conference on Image Analysis and Processing (ICIAP 2011)",
+"url": "https://hal.science/hal-04584911v1",
+"doi": "10.1007/978-3-642-24085-0_30"
+},
+{
+"id": "p2784fe5593",
+"titre": "Évaluation d'un jeu sérieux pour l'apprentissage de la programmation",
+"annee": 2011,
+"type": "journal",
+"lieu": "Revue des Sciences et Technologies de l'Information - Série RIA : Revue d'Intelligence Artificielle",
+"url": "https://hal.science/hal-01357659v1",
+"doi": "10.3166/ria.25.175-202"
+}
+]
+}

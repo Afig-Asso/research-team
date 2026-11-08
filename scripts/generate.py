@@ -118,6 +118,7 @@ def prettyMD(data):
     out += '  - Envoyez un email à contact[at]asso-afig.fr avec vos informations\n'
     out += '  - Ou faites un push-request sur le dépot.\n'
     out += '\n'
+    out += 'Cartographie « qui fait quoi » : https://afig-asso.github.io/research-team/ (voir CARTOGRAPHIE.md)\n\n'
     out += 'Rem. Le fichier README.md est généré automatiquement à partir du fichier data.yaml. Ne pas modifier directement le fichier README.md.\n'
     out += '\n\n'
 

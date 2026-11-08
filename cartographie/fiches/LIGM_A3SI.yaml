@@ -1,0 +1,80 @@
+equipe: LIGM/A3SI
+domaines:
+  principaux:
+  - capture
+  - geometrie
+  secondaires:
+  - rendu
+  - ia
+  - modelisation
+themes:
+- id: reconstruction_surfaces
+  phrase: Reconstruction de surfaces à partir de nuages de points, d'images multi-vues ou de segments 3D, avec réseaux de
+    neurones sur graphes de Delaunay, surfaces implicites neuronales et banc d'essai comparatif des méthodes.
+  preuves:
+  - pfae476a030
+  - p7715883016
+  - p676b52b609
+- id: nuages_points
+  phrase: Segmentation sémantique rapide par superpoints, analyse d'arbres individuels et complétion de scènes lidar à partir
+    de grands nuages de points aériens et terrestres.
+  preuves:
+  - p687af80846
+  - pc25455914b
+  - p93936c0612
+- id: rendu_neuronal
+  phrase: Gaussian splatting aligné sur les surfaces pour extraire des maillages éditables, et décomposition de scènes en
+    primitives par rendu différentiable.
+  preuves:
+  - pc39c161f5e
+  - p6a864478e5
+  - pf66d20b9c1
+- id: modeles_generatifs
+  phrase: Génération de mouvements humains 3D à partir de descriptions textuelles, composition temporelle et spatiale d'actions
+    et recherche texte-mouvement.
+  preuves:
+  - p8b85f8a5c9
+  - p45de398cd6
+  - p9e8eef696b
+- id: algebre_geometrique
+  phrase: Algèbres géométriques conformes et projectives pour représenter et intersecter coniques, quadriques et courbes de
+    Bézier, jusqu'aux diagrammes de Voronoï et de puissance.
+  preuves:
+  - p45ec3296fd
+  - p00d6413cca
+  - ped958b6627
+- id: geometrie_discrete
+  phrase: 'Rotations et mouvements rigides discrétisés sur grilles carrées, cubiques et hexagonales : bijectivité, topologie
+    et arrangements de quadriques dans l''espace des paramètres.'
+  preuves:
+  - p3f9023e42d
+  - p880636d398
+  - p92d8f06040
+applications:
+- id: architecture_urbain
+  preuves:
+  - p3ec4758f7e
+  - paa3bec8341
+  - pcdd4482335
+- id: environnement
+  preuves:
+  - peceb744318
+  - pce3cfec6a7
+  - pc25455914b
+- id: robotique
+  preuves:
+  - pc21c2b9284
+  - p702917a92a
+  - pf2e629b38b
+publications_representatives:
+- pc39c161f5e
+- p6a864478e5
+- pfae476a030
+- p45de398cd6
+- p45ec3296fd
+synthese: Reconstruction 3D à partir de photographies et de relevés laser, génération de mouvement humain, géométrie discrète
+  et outils algébriques pour les formes.
+pour_etudiants: On y reconstruit des objets, des bâtiments et des forêts en 3D à partir de photos et de scans laser, on génère
+  des mouvements humains à partir de texte et on invente des outils mathématiques pour manipuler formes et courbes.
+pour_entreprises: Numérisation 3D et segmentation de nuages de points lidar (chantiers, forêts, villes), reconstruction de
+  maillages par Gaussian splatting, génération de mouvements 3D et calcul géométrique robuste sur courbes et quadriques.

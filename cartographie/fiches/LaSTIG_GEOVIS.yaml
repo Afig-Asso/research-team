@@ -1,0 +1,82 @@
+equipe: LaSTIG/GEOVIS
+domaines:
+  principaux:
+  - visu
+  secondaires:
+  - rv
+  - capture
+  - rendu
+themes:
+- id: visu_immersive
+  phrase: Géovisualisation immersive et située en réalité virtuelle et augmentée, y compris en extérieur via le web.
+  preuves:
+  - pd1162ef622
+  - p0e3b760dcc
+  - p642e1dd750
+- id: visu_information
+  phrase: Visualisation 2D/3D de données spatio-temporelles (flux origine-destination, événements cycliques) et d'ensembles
+    incertains (prévisions de submersion, épidémiologie, climat).
+  preuves:
+  - p6e28112ea9
+  - p86868f6db7
+  - pe21773aaa2
+- id: modeles_urbains
+  phrase: Visualisation de maquettes urbaines 3D enrichies de données climatiques, bâtimentaires et d'images historiques.
+  preuves:
+  - pa2b3346ba1
+  - p82aaca1732
+  - pbed1046931
+- id: cartographie_expressive
+  phrase: Stylisation cartographique, du transfert de style neuronal aux continuums entre styles topographiques.
+  preuves:
+  - p7ebba44339
+  - pce6e627060
+  - pbd5402ed36
+- id: maillages
+  phrase: Édition robuste de polyèdres étanches et triangulations de Delaunay distribuées pour de grandes données 3D.
+  preuves:
+  - p79ed87c3a4
+  - pb41d563806
+  - peefbfd050b
+- id: photogrammetrie_lidar
+  phrase: Traitement de nuages lidar et d'images aériennes (segmentation, désoccultation, calibration radiométrique).
+  preuves:
+  - p2272a9ba37
+  - pe9ee8fe8d7
+  - p1f985fb3bf
+applications:
+- id: geographie
+  preuves:
+  - p1144f541d9
+  - p0a909bf7e6
+  - p29846a0d39
+- id: architecture_urbain
+  preuves:
+  - pc8b6092e5a
+  - pe22d5d7fdb
+  - p0d7ca5a3ea
+- id: environnement
+  preuves:
+  - p9307515e2b
+  - p86868f6db7
+  - pa2b3346ba1
+- id: patrimoine
+  preuves:
+  - pc5609a9449
+  - pbed1046931
+  - p1babc27956
+- id: accessibilite
+  preuves:
+  - p0a909bf7e6
+  - p6b53eae872
+  - p2238ebae59
+publications_representatives:
+- p6e28112ea9
+- p0e3b760dcc
+- p37d0e62b3e
+- p79ed87c3a4
+- p86868f6db7
+synthese: 'Géovisualisation : cartographie et modèles urbains 3D interactifs, sur écran, en immersion et en réalité augmentée.'
+pour_etudiants: On y fabrique des cartes et des villes 3D interactives, à explorer sur écran, en casque ou en réalité augmentée.
+pour_entreprises: Géovisualisation 2D/3D et immersive de données territoriales (climat, risques, urbanisme) et jumeaux numériques
+  de territoires.

@@ -1,0 +1,521 @@
+{
+"equipe": "IRISA/EXPRESSION",
+"publications": [
+{
+"id": "pa1f085c70b",
+"titre": "Evaluation of signing avatars from a linguistic perspective",
+"annee": 2026,
+"type": "journal",
+"lieu": "Neurocomputing",
+"url": "https://doi.org/10.1016/j.neucom.2026.134908",
+"doi": "10.1016/j.neucom.2026.134908"
+},
+{
+"id": "p3070e39789",
+"titre": "MoCoSys: human motion correction based on deep learning coupled with 3D+t Laplacian motion representation",
+"annee": 2025,
+"type": "journal",
+"lieu": "The Visual Computer",
+"url": "https://hal.science/hal-05446774v1",
+"doi": "10.1007/s00371-025-04041-1"
+},
+{
+"id": "p3b7fede0dc",
+"titre": "Translating Sentences from Written French into LSF Annotation",
+"annee": 2025,
+"type": "conférence",
+"lieu": "IVA Adjunct '25: ACM International Conference on Intelligent Virtual Agents",
+"url": "https://hal.science/hal-05446808v1",
+"doi": "10.1145/3742886.3756725"
+},
+{
+"id": "p14c7f0f7e3",
+"titre": "A Grammar of Expressive Conducting Gestures",
+"annee": 2024,
+"type": "chapitre",
+"lieu": "Sonic DesignExplorations between Art and Science",
+"url": "https://hal.science/hal-04551880v1"
+},
+{
+"id": "pa1149fc55b",
+"titre": "Handi-Motion : Corpus de Données de Mouvements Capturés en Situation de Handicap",
+"annee": 2024,
+"type": "conférence",
+"lieu": "Handicap 2024",
+"url": "https://hal.science/hal-04552917v1"
+},
+{
+"id": "pedbece6074",
+"titre": "STK LSF: A Motion Capture Dataset in LSF for SignToKids",
+"annee": 2024,
+"type": "conférence",
+"lieu": "Workshop on the Representation and Processing of Sign Languages, LREC-COLING 2024",
+"url": "https://hal.science/hal-04551694v1"
+},
+{
+"id": "p50cff753a8",
+"titre": "A Text-To-SL Synthesis System Using 3D Avatar Technology",
+"annee": 2023,
+"type": "conférence",
+"lieu": "2023 IEEE International Conference on Acoustics, Speech, and Signal Processing Workshops (ICASSPW)",
+"url": "https://hal.science/hal-04448987v1",
+"doi": "10.1109/icasspw59220.2023.10193734"
+},
+{
+"id": "p66e56382df",
+"titre": "Signing Avatars - Multimodal Challenges for Text-to-sign Generation",
+"annee": 2023,
+"type": "conférence",
+"lieu": "2023 IEEE 17th International Conference on Automatic Face and Gesture Recognition (FG)",
+"url": "https://hal.science/hal-04448977v1",
+"doi": "10.1109/fg57933.2023.10042759"
+},
+{
+"id": "p205c70480f",
+"titre": "A Low-Cost Motion Capture Corpus in French Sign Language for Interpreting Iconicity and Spatial Referencing Mechanisms",
+"annee": 2022,
+"type": "conférence",
+"lieu": "Language Resources and Evaluation Conference",
+"url": "https://hal.science/hal-03966599v1"
+},
+{
+"id": "p99b41a20e3",
+"titre": "A New Spatio-Temporal Loss Function for 3D Motion Reconstruction and Extended Temporal Metrics for Motion Evaluation",
+"annee": 2022,
+"type": "conférence",
+"lieu": "European Conference on Computer Vision (ECCV 2022), Workshop on What is Motion for?",
+"url": "https://hal.science/hal-03966941v1"
+},
+{
+"id": "p95e217ae46",
+"titre": "Avatar signeur -Synthèse de la langue des signes française à partir de texte",
+"annee": 2022,
+"type": "journal",
+"lieu": "Revue TAL : traitement automatique des langues",
+"url": "https://hal.science/hal-04448954v1"
+},
+{
+"id": "pec7ef887a6",
+"titre": "Proximal-to-Distal Sequences of Attack and Release Movements of Expert Pianists during Pressed-Staccato Keystrokes",
+"annee": 2022,
+"type": "journal",
+"lieu": "Journal of Motor Behavior",
+"url": "https://inria.hal.science/hal-03324360v1",
+"doi": "10.1080/00222895.2021.1962237"
+},
+{
+"id": "p701f559b92",
+"titre": "CVM-Net: Motion Reconstruction from a Single RGB Camera with a Fully Supervised DCNN",
+"annee": 2021,
+"type": "conférence",
+"lieu": "J.FIG 2021 - Les journées Françaises de l'Informatique Graphique",
+"url": "https://inria.hal.science/hal-03536041v1"
+},
+{
+"id": "pe4da665c66",
+"titre": "Motion synthesis and editing for the generation of new sign language content",
+"annee": 2021,
+"type": "journal",
+"lieu": "Machine Translation",
+"url": "https://inria.hal.science/hal-03324348v1",
+"doi": "10.1007/s10590-021-09268-y"
+},
+{
+"id": "pa4e9a8d604",
+"titre": "A survey on the animation of signing avatars: From sign representation to utterance synthesis",
+"annee": 2020,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://hal.science/hal-03005762v1",
+"doi": "10.1016/j.cag.2020.09.003"
+},
+{
+"id": "pf04e4c095e",
+"titre": "Avatars signeurs : quels défis pour la production de contenu en Langues des Signes ?",
+"annee": 2020,
+"type": "conférence",
+"lieu": "Handicap 2020",
+"url": "https://hal.science/hal-03005788v1"
+},
+{
+"id": "p3bfc5fcb9c",
+"titre": "Elemental: a Gesturally Controlled System to Perform Meteorological Sounds",
+"annee": 2020,
+"type": "conférence",
+"lieu": "NIME 2020",
+"url": "https://hal.science/hal-03005770v1"
+},
+{
+"id": "p65c8d8b177",
+"titre": "LSF-ANIMAL: A Motion Capture Corpus in French Sign Language Designed for the Animation of Signing Avatars",
+"annee": 2020,
+"type": "conférence",
+"lieu": "LREC 2020",
+"url": "https://hal.science/hal-03005767v1"
+},
+{
+"id": "p5dc7ba4b57",
+"titre": "Kinematics in the metric space",
+"annee": 2019,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://hal.science/hal-02435993v1",
+"doi": "10.1016/j.cag.2019.07.005"
+},
+{
+"id": "pd0c443a92a",
+"titre": "Skeletal mesh animation driven by few positional constraints",
+"annee": 2019,
+"type": "journal",
+"lieu": "Computer Animation and Virtual Worlds",
+"url": "https://hal.science/hal-02271489v1",
+"doi": "10.1002/cav.1900"
+},
+{
+"id": "pde469ee2b9",
+"titre": "Avatar signeurs : que peuvent-ils nous apprendre ?",
+"annee": 2018,
+"type": "conférence",
+"lieu": "J.Enaction 2018 : Journée sur l'énaction en animation, simulation et réalité virtuelle",
+"url": "https://hal.science/hal-01990023v1"
+},
+{
+"id": "p17a675e571",
+"titre": "Building French Sign Language Motion Capture Corpora for Signing Avatars",
+"annee": 2018,
+"type": "conférence",
+"lieu": "Workshop on the Representation and Processing of Sign Languages: Involving the Language Community, LREC 2018",
+"url": "https://hal.science/hal-01851398v1"
+},
+{
+"id": "p59acde1a0f",
+"titre": "CONDUCT: An Expressive Conducting Gesture Dataset for Sound Control",
+"annee": 2018,
+"type": "conférence",
+"lieu": "Language Resources and Evaluation Conference (LREC 2018)",
+"url": "https://hal.science/hal-01851389v1"
+},
+{
+"id": "pf25e472be8",
+"titre": "Per Channel Automatic Annotation of Sign Language Motion Capture Data",
+"annee": 2018,
+"type": "conférence",
+"lieu": "Workshop on the Representation and Processing of Sign Languages: Involving the Language Community, LREC 2018",
+"url": "https://hal.science/hal-01851404v1"
+},
+{
+"id": "p55c95c4335",
+"titre": "Perceptual Validation for the Generation of Expressive Movements from End-Effector Trajectories",
+"annee": 2018,
+"type": "journal",
+"lieu": "ACM Transactions on Interactive Intelligent Systems",
+"url": "https://hal.science/hal-01854494v1",
+"doi": "10.1145/3150976"
+},
+{
+"id": "p0ab663a74d",
+"titre": "Annotation automatique des configurations manuelles de la Langue des Signes Française à partir de données capturées",
+"annee": 2017,
+"type": "conférence",
+"lieu": "Journées Françaises d’Informatique Graphique",
+"url": "https://hal.science/hal-01649769v1"
+},
+{
+"id": "pdbeea6db80",
+"titre": "Coarticulation Analysis for Sign Language Synthesis",
+"annee": 2017,
+"type": "conférence",
+"lieu": "International Conference on Universal Access in Human-Computer Interaction",
+"url": "https://hal.science/hal-01649815v1"
+},
+{
+"id": "pf01d452a52",
+"titre": "Adaptive Down-Sampling and Dimension Reduction in Time Elastic Kernel Machines for Efficient Recognition of Isolated Gestures",
+"annee": 2016,
+"type": "chapitre",
+"lieu": "Advances in Knowledge Discovery and Management: volume 6",
+"url": "https://hal.science/hal-01401453v1",
+"doi": "10.1007/978-3-319-45763-5_3"
+},
+{
+"id": "p224d14e4ba",
+"titre": "From Expressive End-Effector Trajectories to Expressive Bodily Motions *",
+"annee": 2016,
+"type": "conférence",
+"lieu": "23rd International Conference on Computer Animation and Virtual World",
+"url": "https://hal.science/hal-01367822v1",
+"doi": "10.1145/2915926.2915941"
+},
+{
+"id": "p9fa89f1fdc",
+"titre": "I Am a Tree: Embodiment Using Physically Based Animation Driven by Expressive Descriptors of Motion",
+"annee": 2016,
+"type": "conférence",
+"lieu": "3rd International Symposium on Movement and Computing",
+"url": "https://hal.science/hal-01344746v1",
+"doi": "10.1145/2948910.294893"
+},
+{
+"id": "pc1a33d856b",
+"titre": "Interactive Editing in French Sign Language Dedicated to Virtual Signers: Requirements and Challenges",
+"annee": 2016,
+"type": "journal",
+"lieu": "Universal Access in the Information Society",
+"url": "https://hal.science/hal-01367723v1",
+"doi": "10.1007/s10209-015-0411-6"
+},
+{
+"id": "p901c964996",
+"titre": "Quantitative Evaluation of Percussive Gestures by Ranking Trainees versus Teacher",
+"annee": 2016,
+"type": "conférence",
+"lieu": "MOCO'16: 3rd International Symposium On Movement & Computing",
+"url": "https://hal.science/hal-01367819v1",
+"doi": "10.1145/2948910.2948934"
+},
+{
+"id": "p70334d7208",
+"titre": "Un système de synthèse et d'annotation automatique à partir de données capturées pour l'animation faciale expressive en LSF",
+"annee": 2016,
+"type": "conférence",
+"lieu": "Journées Françaises d'Informatique Graphique (AFIG 2016)",
+"url": "https://hal.science/hal-01490780v1"
+},
+{
+"id": "pec963c8083",
+"titre": "A Review of Computable Expressive Descriptors of Human Motion",
+"annee": 2015,
+"type": "conférence",
+"lieu": "MOCO 2015 : 2nd International Workshop on Movement and Computing",
+"url": "https://hal.science/hal-01196267v1",
+"doi": "10.1145/2790994.2790998"
+},
+{
+"id": "p07434a7fc7",
+"titre": "Animation faciale basée données : un état de l'art",
+"annee": 2015,
+"type": "conférence",
+"lieu": "28èmes journées de l’Association Française en Informatique Graphique",
+"url": "https://hal.science/hal-01366447v1"
+},
+{
+"id": "p552e6ff197",
+"titre": "Challenges for the Animation of Expressive Virtual Characters: The Standpoint of Sign Language and Theatrical Gestures",
+"annee": 2015,
+"type": "chapitre",
+"lieu": "Tracts in Advanced Robotics",
+"url": "https://hal.science/hal-01367757v1",
+"doi": "10.1007/978-3-319-25739-6_8"
+},
+{
+"id": "pad4fc00291",
+"titre": "End-effectors trajectories: An efficient low-dimensional characterization of affective-expressive body motions",
+"annee": 2015,
+"type": "conférence",
+"lieu": "International Conference on Affective Computing and Intelligent Interaction",
+"url": "https://hal.science/hal-01367814v1",
+"doi": "10.1109/acii.2015.7344607"
+},
+{
+"id": "p5e58f15e61",
+"titre": "On Recursive Edit Distance Kernels with Application to Time Series Classification",
+"annee": 2015,
+"type": "journal",
+"lieu": "IEEE Transactions on Neural Networks and Learning Systems",
+"url": "https://hal.science/hal-00486916v12",
+"doi": "10.1109/tnnls.2014.2333876"
+},
+{
+"id": "p8bbe03ac55",
+"titre": "Optimal Marker Set for Motion Capture of Dynamical Facial Expressions",
+"annee": 2015,
+"type": "conférence",
+"lieu": "MIG2015 8th ACM SIGGRAPH Conference on Motion in Games",
+"url": "https://hal.science/hal-01279483v1",
+"doi": "10.1145/2822013.2822042"
+},
+{
+"id": "p5a95d89f55",
+"titre": "A Database of Full Body Virtual Interactions Annotated with Expressivity Scores",
+"annee": 2014,
+"type": "conférence",
+"lieu": "9th International Conference on Language Resources and Evaluation (LREC 2014)",
+"url": "https://hal.science/hal-01367912v1",
+"doi": "10.63317/46j6t49bhhk9"
+},
+{
+"id": "pbb937da053",
+"titre": "Corpus Creation and Perceptual Evaluation of Expressive Theatrical Gestures",
+"annee": 2014,
+"type": "conférence",
+"lieu": "Intelligent Virtual Agents",
+"url": "https://hal.science/hal-01165575v1",
+"doi": "10.1007/978-3-319-09767-1_14"
+},
+{
+"id": "p3fc1825f09",
+"titre": "Down-Sampling coupled to Elastic Kernel Machines for Efficient Recognition of Isolated Gestures",
+"annee": 2014,
+"type": "conférence",
+"lieu": "ICPR 2014, International Conference on Pattern Recognition",
+"url": "https://hal.science/hal-00995279v3"
+},
+{
+"id": "p079d8b824d",
+"titre": "Sous échantillonnage et machine à noyaux élastiques pour la classification de données de mouvement capturé",
+"annee": 2014,
+"type": "conférence",
+"lieu": "14 emes journées Extraction et Gestion des Connaissances, EGC 2014",
+"url": "https://hal.science/hal-01003033v1"
+},
+{
+"id": "pcea735c435",
+"titre": "Synthèse de mouvements humains par des méthodes basées apprentissage : un état de l'art",
+"annee": 2014,
+"type": "journal",
+"lieu": "Revue Electronique Francophone d'Informatique Graphique",
+"url": "https://hal.science/hal-01164457v1"
+},
+{
+"id": "pbf03a3cb60",
+"titre": "Utilisation des relations spatiales pour la reconstruction de trajectoires de marqueurs issues de la capture de mouvement",
+"annee": 2014,
+"type": "journal",
+"lieu": "Revue Electronique Francophone d'Informatique Graphique",
+"url": "https://hal.science/hal-01164455v1"
+},
+{
+"id": "pd90603bf4b",
+"titre": "A Muscle Model for Enhanced Character Skinning",
+"annee": 2013,
+"type": "journal",
+"lieu": "Journal of WSCG",
+"url": "https://hal.science/hal-00911527v1"
+},
+{
+"id": "pa45edaa5ad",
+"titre": "Burning Paper: Simulation at the Fiber's Level",
+"annee": 2013,
+"type": "conférence",
+"lieu": "ACM SIGGRAPH Conference on Motion in Games",
+"url": "https://hal.science/hal-00911751v1"
+},
+{
+"id": "pecf6b96d85",
+"titre": "Influence of Dynamic Wrinkles on the Perceived Realism of Real-Time Character Animation",
+"annee": 2013,
+"type": "conférence",
+"lieu": "International Conference on Computer Graphics, Visualization and Computer Vision (WSCG)",
+"url": "https://hal.science/hal-00911526v1"
+},
+{
+"id": "pdd2238abf1",
+"titre": "Interactive Edition in French Sign Language Dedicated to Virtual Signers: Requirements and Challenges",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Third International Symposium on Sign Language Translation and Avatar Technology (SLTAT)",
+"url": "https://hal.science/hal-01433441v1"
+},
+{
+"id": "ped47e1a721",
+"titre": "Overview of the Sign3D Project High-ﬁdelity 3D recording, indexing and editing of French Sign Language content",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Third International Symposium on Sign Language Translation and Avatar Technology (SLTAT) 2013",
+"url": "https://hal.science/hal-00914661v1"
+},
+{
+"id": "pa832a82c39",
+"titre": "Spatio-temporal coupling with the 3D+t motion Laplacian",
+"annee": 2013,
+"type": "journal",
+"lieu": "Computer Animation and Virtual Worlds",
+"url": "https://hal.science/hal-00861779v1"
+},
+{
+"id": "p57a044441c",
+"titre": "Spatiotemporal coupling with the 3D+t motion Laplacian",
+"annee": 2013,
+"type": "journal",
+"lieu": "Computer Animation and Virtual Worlds",
+"url": "https://doi.org/10.1002/cav.1518",
+"doi": "10.1002/cav.1518"
+},
+{
+"id": "p9c7533f7cf",
+"titre": "Édition interactive d'énoncés en langue des signes française dédiée aux avatars signeurs",
+"annee": 2013,
+"type": "conférence",
+"lieu": "TALN - 20ème conférence du Traitement Automatique du Langage Naturel 2013",
+"url": "https://inria.hal.science/hal-00911629v1"
+},
+{
+"id": "p1bb378a35b",
+"titre": "Cinématique guidée par les distances",
+"annee": 2012,
+"type": "journal",
+"lieu": "Revue Electronique Francophone d'Informatique Graphique",
+"url": "https://hal.science/hal-00762919v1"
+},
+{
+"id": "pde8f0ed2f8",
+"titre": "Fast Motion retrieval with the distance input space",
+"annee": 2012,
+"type": "conférence",
+"lieu": "Motion in Games",
+"url": "https://hal.science/hal-00762922v1"
+},
+{
+"id": "p8c8b302ab9",
+"titre": "Hybrid Inverse Motion Control for Virtual Characters Interacting with Sound Synthesis - Application to Percussion Motion",
+"annee": 2012,
+"type": "journal",
+"lieu": "The Visual Computer",
+"url": "https://hal.science/hal-00763280v1",
+"doi": "10.1007/s00371-011-0620-9"
+},
+{
+"id": "p7b2545fbe1",
+"titre": "Toward a Motor Theory of Sign Language Perception",
+"annee": 2012,
+"type": "chapitre",
+"lieu": "Gesture and Sign Language in Human-Computer Interaction and Embodied Communication, LNCS",
+"url": "https://hal.science/hal-00657671v1",
+"doi": "10.1007/978-3-642-34182-3_15"
+},
+{
+"id": "pb35f403986",
+"titre": "Une interface gestuelle pour l'apprentissage de la rythmique",
+"annee": 2012,
+"type": "conférence",
+"lieu": "RFIA 2012 (Reconnaissance des Formes et Intelligence Artificielle)",
+"url": "https://hal.science/hal-00660985v1"
+},
+{
+"id": "paa3bf81aeb",
+"titre": "The SignCom System for Data-Driven Animation of Interactive Virtual Signers : Methodology and Evaluation",
+"annee": 2011,
+"type": "journal",
+"lieu": "ACM Transactions on Interactive Intelligent Systems",
+"url": "https://hal.science/hal-00664705v1"
+},
+{
+"id": "p86e96df09e",
+"titre": "The SignCom system for data-driven animation of interactive virtual signers",
+"annee": 2011,
+"type": "journal",
+"lieu": "ACM Transactions on Interactive Intelligent Systems",
+"url": "https://doi.org/10.1145/2030365.2030371",
+"doi": "10.1145/2030365.2030371"
+},
+{
+"id": "pcdfe048e3f",
+"titre": "Virtual Control and Synthesis of Music Performances: Qualitative Evaluation of Synthesized Timpani Exercises",
+"annee": 2011,
+"type": "journal",
+"lieu": "Computer Music Journal",
+"url": "https://hal.science/hal-00763271v1",
+"doi": "10.1162/comj_a_00069"
+}
+]
+}

@@ -1,0 +1,76 @@
+equipe: LTCI/IMAGES
+domaines:
+  principaux:
+  - modelisation
+  - animation
+  secondaires:
+  - images
+  - geometrie
+  - rv
+themes:
+- id: sketching
+  phrase: Création de formes 3D organiques à partir de croquis 2D, de traits 3D non orientés ou d'annotations façon bande
+    dessinée.
+  preuves:
+  - pa34ac9da23
+  - paf5f11c7be
+  - p72cbdd4daf
+- id: synthese_textures
+  phrase: Synthèse neuronale de textures haute résolution et multispectrales, rendu neuronal du grain argentique et inpainting
+    de textures dynamiques dans les vidéos.
+  preuves:
+  - pb53c0f75d1
+  - pdb7a3f2d7d
+  - pd0fe2d0835
+- id: simulation_deformables
+  phrase: Simulation stable et conservative de solides élastiques et hyperélastiques (dynamique projective, SPH, réduction
+    des inversions).
+  preuves:
+  - p603b54aa40
+  - p588f69546a
+  - pd7ebc89506
+- id: reconstruction_surfaces
+  phrase: Reconstruction rapide de surfaces à partir de boules de Voronoï, de voxels grossiers ou de traits épars.
+  preuves:
+  - p13fbb18f58
+  - p1990dfc54c
+  - p712050b98b
+- id: graphisme_2d
+  phrase: Colorisation et vectorisation de dessins au trait et de pixel art pour l'animation 2D.
+  preuves:
+  - pc8f3e6d767
+  - pbbd8c013d8
+  - pbc1606641f
+- id: interaction_3d
+  phrase: Sculpture et création de surfaces en réalité virtuelle à partir de rubans ou de traits dessinés dans l'espace.
+  preuves:
+  - p90348d2197
+  - peecf84cbcc
+applications:
+- id: cinema_vfx
+  preuves:
+  - pbbd8c013d8
+  - pd3918ab28f
+  - pb53c0f75d1
+  - p6afeba1724
+  - pfefb14ea69
+- id: jeu_video
+  preuves:
+  - p603b54aa40
+  - pbc1606641f
+  - pd7ebc89506
+- id: mode_textile
+  preuves:
+  - p55058bc898
+publications_representatives:
+- p13fbb18f58
+- pb53c0f75d1
+- p603b54aa40
+- pbc1606641f
+- p588f69546a
+synthese: Modélisation par esquisse, simulation de matériaux déformables, synthèse de textures et traitement d'images et de
+  vidéos.
+pour_etudiants: On invente des outils pour dessiner des objets 3D à main levée, on simule des matières qui se déforment de
+  façon réaliste et on génère des textures et des effets visuels pour les images et les vidéos.
+pour_entreprises: Prototypage rapide de formes 3D par croquis ou en RV, simulation temps réel d'objets déformables, outils
+  de colorisation pour l'animation 2D, synthèse de textures et effacement d'objets dans les vidéos pour la post-production.

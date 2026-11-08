@@ -1,0 +1,3092 @@
+{
+"equipe": "LIGM/A3SI",
+"publications": [
+{
+"id": "p5a5ccac21a",
+"titre": "AIKON: a modular computer vision platform for historical corpora",
+"annee": 2026,
+"type": "journal",
+"lieu": "International Journal on Document Analysis and Recognition (IJDAR)",
+"url": "https://doi.org/10.1007/s10032-026-00581-x",
+"doi": "10.1007/s10032-026-00581-x"
+},
+{
+"id": "p687af80846",
+"titre": "EZ-SP: Fast and Lightweight Superpoint-Based 3D Segmentation",
+"annee": 2026,
+"type": "conférence",
+"lieu": "ICRA",
+"url": "https://hal.science/hal-05466889v1"
+},
+{
+"id": "p25aec5a48c",
+"titre": "Exploring Easy Boosts for Lidar Semantic Scene Completion",
+"annee": 2026,
+"type": "conférence",
+"lieu": "2026 IEEE International Conference on Image Processing",
+"url": "https://hal.science/hal-05672197v1"
+},
+{
+"id": "p63588b744f",
+"titre": "FORMSpoT: Revealing fine-scale forest disturbances from nation-wide 1.5 m forest canopy height time series",
+"annee": 2026,
+"type": "journal",
+"lieu": "Remote Sensing of Environment",
+"url": "https://hal.science/hal-05731617v1",
+"doi": "10.1016/j.rse.2026.115631"
+},
+{
+"id": "p8c353e81da",
+"titre": "Occlusion Boundary and Depth: Mutual Enhancement via Multi-Task Learning",
+"annee": 2026,
+"type": "conférence",
+"lieu": "Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), WACV 2026",
+"url": "https://hal.science/hal-05658386v1",
+"doi": "10.1109/wacv61042.2026.00431"
+},
+{
+"id": "p45ec3296fd",
+"titre": "Projective Geometric Algebra powers up Bézier Curves",
+"annee": 2026,
+"type": "conférence",
+"lieu": "WSCG 2026",
+"url": "https://hal.science/hal-05750929v1",
+"doi": "10.24132/csrn.2026-e13"
+},
+{
+"id": "pc25455914b",
+"titre": "ProtoTree: An Efficient and Generalizable Model for Individual Tree Point Clouds Analysis",
+"annee": 2026,
+"type": "journal",
+"lieu": "IEEE Transactions on Geoscience and Remote Sensing",
+"url": "https://hal.science/hal-05709724v1",
+"doi": "10.1109/tgrs.2026.3711722"
+},
+{
+"id": "p2c619ef1c9",
+"titre": "Single Image Super-Resolution Based on Anisotropic Diffusion",
+"annee": 2026,
+"type": "journal",
+"lieu": "Image Processing On Line",
+"url": "https://cnrs.hal.science/hal-05699350v1",
+"doi": "10.5201/ipol.2026.592"
+},
+{
+"id": "pda8949349b",
+"titre": "UNIGEOCLIP: Unified Geospatial Contrastive Learning",
+"annee": 2026,
+"type": "conférence",
+"lieu": "EarthVision 2026 in conjuction with the Computer Vision and Pattern Recognition (CVPR) 2026 Conference",
+"url": "https://hal.science/hal-05709739v1"
+},
+{
+"id": "p7cd0243e84",
+"titre": "UniverSat: Resolution- and Modality-Agnostic Transformers for Earth Observation",
+"annee": 2026,
+"type": "conférence",
+"lieu": "NeurIPS",
+"url": "https://hal.science/hal-05709743v1"
+},
+{
+"id": "pb573bdfd13",
+"titre": "Who Needs Labels? Adapting Vision Foundation Models With the Metadata You Already Have",
+"annee": 2026,
+"type": "conférence",
+"lieu": "40th Conference on Neural Information Processing Systems (NeurIPS 2026)",
+"url": "https://hal.science/hal-05848426v1"
+},
+{
+"id": "p0cfae542c8",
+"titre": "Alligat0R: Pre-Training Through Co-Visibility Segmentation for Relative Camera Pose Regression",
+"annee": 2025,
+"type": "journal",
+"lieu": "Advances in Neural Information Processing Systems",
+"url": "https://hal.science/hal-05419687v1"
+},
+{
+"id": "p93e13c1ab6",
+"titre": "AnySat: An Earth Observation Model for Any Resolutions, Scales, and Modalities",
+"annee": 2025,
+"type": "conférence",
+"lieu": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+"url": "https://hal.science/hal-04984436v1"
+},
+{
+"id": "p6b5fabc19b",
+"titre": "AnySat: a Multi-Resolution/Modality/Scale Earth Observation Model",
+"annee": 2025,
+"type": "conférence",
+"lieu": "EGU24 General Assembly",
+"url": "https://hal.science/hal-05016354v1"
+},
+{
+"id": "p8db8d6cf12",
+"titre": "Around the World in 80 Timesteps: A Generative Approach to Global Visual Geolocation",
+"annee": 2025,
+"type": "conférence",
+"lieu": "2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+"url": "https://hal.science/hal-05427428v1",
+"doi": "10.1109/cvpr52734.2025.02143"
+},
+{
+"id": "pf76e5377b4",
+"titre": "CoDEx: Combining Domain Expertise for Spatial Generalization in Satellite Image Analysis",
+"annee": 2025,
+"type": "conférence",
+"lieu": "CVPR 2025 EarthVision Workshop - The IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+"url": "https://hal.science/hal-05121438v1"
+},
+{
+"id": "p3e00837cd6",
+"titre": "Corr2Distrib: Making Ambiguous Correspondences an Ally to Predict Reliable 6D Pose Distributions",
+"annee": 2025,
+"type": "journal",
+"lieu": "IEEE Robotics and Automation Letters",
+"url": "https://cea.hal.science/cea-05776259v1",
+"doi": "10.1109/lra.2025.3568312"
+},
+{
+"id": "p93936c0612",
+"titre": "LiDPM: Rethinking Point Diffusion for Lidar Scene Completion",
+"annee": 2025,
+"type": "conférence",
+"lieu": "IV 2025 - Intelligent Vehicle Symposium",
+"url": "https://inria.hal.science/hal-05445187v1"
+},
+{
+"id": "p06edaa3698",
+"titre": "Lost in Translation, Found in Context: Sign Language Translation with Contextual Cues",
+"annee": 2025,
+"type": "conférence",
+"lieu": "CVPR",
+"url": "https://inria.hal.science/hal-05656714v1"
+},
+{
+"id": "pf2e629b38b",
+"titre": "NextBestPath: Efficient 3D Mapping of Unseen Environments",
+"annee": 2025,
+"type": "conférence",
+"lieu": "ICLR 2025 - Thirteenth International Conference on Learning Representations",
+"url": "https://hal.science/hal-05315104v1"
+},
+{
+"id": "p3f9023e42d",
+"titre": "On Arrangements of Quadrics in Decomposing the Parameter Space of 3D Digitized Rigid Motions",
+"annee": 2025,
+"type": "journal",
+"lieu": "Journal of Symbolic Computation",
+"url": "https://hal.science/hal-05036487v1",
+"doi": "10.1016/j.jsc.2025.102447"
+},
+{
+"id": "pd9706a9d8d",
+"titre": "Pixel-wise Agricultural Image Time Series Classification: Comparisons and a Deformable Prototype-based Approach",
+"annee": 2025,
+"type": "conférence",
+"lieu": "IGARSS 2025 - 2025 IEEE International Geoscience and Remote Sensing Symposium",
+"url": "https://hal.science/hal-04135119v1",
+"doi": "10.1109/igarss55030.2025.11243176"
+},
+{
+"id": "paa3bec8341",
+"titre": "Reference architecture and ontology framework for digital twin construction",
+"annee": 2025,
+"type": "journal",
+"lieu": "Automation in Construction",
+"url": "https://hal.science/hal-05043640v1",
+"doi": "10.1016/j.autcon.2025.106111"
+},
+{
+"id": "pfae476a030",
+"titre": "A Survey and Benchmark of Automatic Surface Reconstruction From Point Clouds",
+"annee": 2024,
+"type": "journal",
+"lieu": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+"url": "https://doi.org/10.1109/tpami.2024.3510932",
+"doi": "10.1109/tpami.2024.3510932"
+},
+{
+"id": "pd793b7b527",
+"titre": "CataEx: A multi-task export tool for the Google Earth Engine data catalog",
+"annee": 2024,
+"type": "journal",
+"lieu": "Environmental Modelling & Software",
+"url": "https://doi.org/10.1016/j.envsoft.2024.106227",
+"doi": "10.1016/j.envsoft.2024.106227"
+},
+{
+"id": "pabec25d7f4",
+"titre": "CoVR-2: Automatic Data Construction for Composed Video Retrieval",
+"annee": 2024,
+"type": "journal",
+"lieu": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+"url": "https://hal.science/hal-04729219v1",
+"doi": "10.1109/tpami.2024.3463799"
+},
+{
+"id": "p00d6413cca",
+"titre": "Conics, Their Pencils and Intersections in Geometric Algebra",
+"annee": 2024,
+"type": "journal",
+"lieu": "Advances in Applied Clifford Algebras",
+"url": "https://hal.science/hal-04774264v1",
+"doi": "10.1007/s00006-024-01356-5"
+},
+{
+"id": "pa525ee3208",
+"titre": "Digital Twin Enabled Construction Process Monitoring",
+"annee": 2024,
+"type": "conférence",
+"lieu": "2024 EC(3) - 2024 European Conference on Computing in Construction",
+"url": "https://hal.science/hal-04615524v1",
+"doi": "10.35490/ec3.2024"
+},
+{
+"id": "p48a2adb3d6",
+"titre": "FocalPose++: Focal Length and Object Pose Estimation via Render and Compare",
+"annee": 2024,
+"type": "journal",
+"lieu": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+"url": "https://doi.org/10.1109/tpami.2024.3475638",
+"doi": "10.1109/tpami.2024.3475638"
+},
+{
+"id": "p6a864478e5",
+"titre": "Gaussian Frosting: Editable Complex Radiance Fields with Real-Time Rendering",
+"annee": 2024,
+"type": "conférence",
+"lieu": "ECCV 2024 - 18th European Conference on Computer Vision",
+"url": "https://hal.science/hal-05690830v1",
+"doi": "10.1007/978-3-031-73650-6_24"
+},
+{
+"id": "pdff9454ec2",
+"titre": "Learnable Earth Parser: Discovering 3D Prototypes in Aerial Scans",
+"annee": 2024,
+"type": "conférence",
+"lieu": "CVPR 2024 - The IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+"url": "https://hal.science/hal-04135416v1"
+},
+{
+"id": "p0a6e543897",
+"titre": "Learning Text-to-Video Retrieval from Image Captioning",
+"annee": 2024,
+"type": "journal",
+"lieu": "International Journal of Computer Vision",
+"url": "https://doi.org/10.1007/s11263-024-02202-8",
+"doi": "10.1007/s11263-024-02202-8"
+},
+{
+"id": "pcf56b00285",
+"titre": "OmniSat: Self-Supervised Modality Fusion for Earth Observation",
+"annee": 2024,
+"type": "conférence",
+"lieu": "ECCV",
+"url": "https://hal.science/hal-04556598v2"
+},
+{
+"id": "ped958b6627",
+"titre": "Pencils of CGA for Voronoi and Power Diagrams",
+"annee": 2024,
+"type": "conférence",
+"lieu": "CGI ENGAGE 2024",
+"url": "https://hal.science/hal-04636752v1"
+},
+{
+"id": "pc39c161f5e",
+"titre": "SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering",
+"annee": 2024,
+"type": "conférence",
+"lieu": "2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+"url": "https://hal.science/hal-05690814v1",
+"doi": "10.1109/cvpr52733.2024.00512"
+},
+{
+"id": "p2d3c065a6f",
+"titre": "Train Till You Drop: Towards Stable and Robust Source-Free Unsupervised 3D Domain Adaptation",
+"annee": 2024,
+"type": "conférence",
+"lieu": "European Conference on Computer Vision, 2024",
+"url": "https://hal.science/hal-05080066v1",
+"doi": "10.1007/978-3-031-72661-3_1"
+},
+{
+"id": "p30d512cb4b",
+"titre": "3D Object and Hand Pose Estimation",
+"annee": 2023,
+"type": "chapitre",
+"lieu": "Springer handbooks",
+"url": "https://doi.org/10.1007/978-3-030-67822-7_4",
+"doi": "10.1007/978-3-030-67822-7_4"
+},
+{
+"id": "pf739504943",
+"titre": "A Simple and Powerful Global Optimization for Unsupervised Video Object Segmentation",
+"annee": 2023,
+"type": "conférence",
+"lieu": "IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)",
+"url": "https://hal.science/hal-04323148v1",
+"doi": "10.1109/wacv56688.2023.00584"
+},
+{
+"id": "p535400ac31",
+"titre": "AutoAD II: The Sequel -- Who, When, and What in Movie Audio Description",
+"annee": 2023,
+"type": "conférence",
+"lieu": "International Conference on Computer Vision (ICCV) 2023",
+"url": "https://hal.science/hal-04323524v1",
+"doi": "10.1109/iccv51070.2023.01255"
+},
+{
+"id": "p1a2dbd49f2",
+"titre": "AutoAD: Movie Description in Context",
+"annee": 2023,
+"type": "conférence",
+"lieu": "Computer Vision and Pattern Recognition (CVPR) 2023",
+"url": "https://hal.science/hal-04323514v1",
+"doi": "10.1109/cvpr52729.2023.01815"
+},
+{
+"id": "pa2a47ee4c7",
+"titre": "Automatically Annotating Indoor Images with CAD Models via RGB-D Scans",
+"annee": 2023,
+"type": "conférence",
+"lieu": "IEEE Winter Conference on Applications of Computer Vision",
+"url": "https://inria.hal.science/hal-04323163v1",
+"doi": "10.1109/wacv56688.2023.00317"
+},
+{
+"id": "pd0b069264d",
+"titre": "Computer Vision and Historical Scientific Illustrations",
+"annee": 2023,
+"type": "conférence",
+"lieu": "1st Symposium in Artificial Intelligence & Applied Mathematics for History & Archaeology « IAMAHA » -",
+"url": "https://hal.science/hal-04316644v1"
+},
+{
+"id": "p1d4db1646b",
+"titre": "ConSLAM: Construction Data Set for SLAM",
+"annee": 2023,
+"type": "journal",
+"lieu": "Journal of Computing in Civil Engineering",
+"url": "https://inria.hal.science/hal-04039392v1",
+"doi": "10.1061/jccee5.cpeng-5212"
+},
+{
+"id": "p0bdb8e07e0",
+"titre": "Deep Learning: Basics and Convolutional Neural Networks (CNNs)",
+"annee": 2023,
+"type": "chapitre",
+"lieu": "Neuromethods",
+"url": "https://doi.org/10.1007/978-1-0716-3195-9_3",
+"doi": "10.1007/978-1-0716-3195-9_3"
+},
+{
+"id": "pf66d20b9c1",
+"titre": "Differentiable Blocks World: Qualitative 3D Decomposition by Rendering Primitives",
+"annee": 2023,
+"type": "conférence",
+"lieu": "Thirty-seventh Conference on Neural Information Processing Systems",
+"url": "https://hal.science/hal-04475648v1"
+},
+{
+"id": "pfcc83a9ff5",
+"titre": "Editing and Analysing Historical Astronomical Diagrams with Artificial Intelligence",
+"annee": 2023,
+"type": "conférence",
+"lieu": "IAMAHA",
+"url": "https://enpc.hal.science/hal-04317291v1"
+},
+{
+"id": "p75e2517ac4",
+"titre": "FLAIR: a Country-Scale Land Cover Semantic Segmentation Dataset From Multi-Source Optical Imagery",
+"annee": 2023,
+"type": "conférence",
+"lieu": "NeurIPS Dataset and Benchmark",
+"url": "https://hal.science/hal-04328458v1"
+},
+{
+"id": "p55fd5cf3d6",
+"titre": "Few-Shot Object Detection and Viewpoint Estimation for Objects in the Wild",
+"annee": 2023,
+"type": "journal",
+"lieu": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+"url": "https://inria.hal.science/hal-04323029v1",
+"doi": "10.1109/tpami.2022.3174072"
+},
+{
+"id": "p4c4a200fad",
+"titre": "Going Beyond Nouns With Vision & Language Models Using Synthetic Data",
+"annee": 2023,
+"type": "conférence",
+"lieu": "International Conference on Computer Vision (ICCV) 2023",
+"url": "https://hal.science/hal-04323567v1",
+"doi": "10.1109/iccv51070.2023.01844"
+},
+{
+"id": "p7bcdc84833",
+"titre": "In-Hand 3D Object Scanning from an RGB Sequence",
+"annee": 2023,
+"type": "conférence",
+"lieu": "IEEE Computer Society Conference on Computer Vision and Pattern Recognition",
+"url": "https://inria.hal.science/hal-04323124v1",
+"doi": "10.1109/cvpr52729.2023.01638"
+},
+{
+"id": "p0f459ee8ff",
+"titre": "Intersection of conic sections using geometric algebra",
+"annee": 2023,
+"type": "conférence",
+"lieu": "CGI ENGAGE 2023",
+"url": "https://hal.science/hal-04210085v1",
+"doi": "10.1007/978-3-031-50078-7_14"
+},
+{
+"id": "p7ebcf79450",
+"titre": "MACARONS: Mapping And Coverage Anticipation with RGB Online Self-Supervision",
+"annee": 2023,
+"type": "conférence",
+"lieu": "International Conference on Computer Vision and Pattern Recognition",
+"url": "https://hal.science/hal-04440624v1",
+"doi": "10.1109/cvpr52729.2023.00097"
+},
+{
+"id": "p67cc586872",
+"titre": "Registration for Urban Modeling Based on Linear and Planar Features",
+"annee": 2023,
+"type": "conférence",
+"lieu": "EUVIP 2023 - 11th European Workshop on Visual Information Processing",
+"url": "https://enpc.hal.science/hal-04217550v1",
+"doi": "10.1109/euvip58404.2023.10323059"
+},
+{
+"id": "p45de398cd6",
+"titre": "SINC: Spatial Composition of 3D Human Motions for Simultaneous Action Generation",
+"annee": 2023,
+"type": "conférence",
+"lieu": "International Conference on Computer Vision",
+"url": "https://hal.science/hal-04258194v1",
+"doi": "10.1109/iccv51070.2023.00916"
+},
+{
+"id": "p80868030f2",
+"titre": "TMR: Text-to-Motion Retrieval Using Contrastive 3D Human Motion Synthesis",
+"annee": 2023,
+"type": "conférence",
+"lieu": "International Conference on Computer Vision",
+"url": "https://hal.science/hal-04258206v1",
+"doi": "10.1109/iccv51070.2023.00870"
+},
+{
+"id": "p5b60ecfaf1",
+"titre": "A 3D SEGMENTS BASED ALGORITHM FOR HETEROGENEOUS DATA REGISTRATION",
+"annee": 2022,
+"type": "journal",
+"lieu": "The international archives of the photogrammetry, remote sensing and spatial information sciences/International archives of the photogrammetry, remote sensing and spatial information sciences",
+"url": "https://doi.org/10.5194/isprs-archives-xliii-b1-2022-129-2022",
+"doi": "10.5194/isprs-archives-xliii-b1-2022-129-2022"
+},
+{
+"id": "pd66d063463",
+"titre": "A Model You Can Hear: Audio Identification with Playable Prototypes",
+"annee": 2022,
+"type": "conférence",
+"lieu": "ISMIR 2022 - 23rd International Society for Music Information Retrieval Conference",
+"url": "https://hal.science/hal-03794815v1"
+},
+{
+"id": "p2560d39547",
+"titre": "Automatic Dense Annotation of Large-Vocabulary Sign Language Videos",
+"annee": 2022,
+"type": "conférence",
+"lieu": "European Conference on Computer Vision (ECCV) 2022",
+"url": "https://hal.science/hal-03981733v1",
+"doi": "10.1007/978-3-031-19833-5_39"
+},
+{
+"id": "p01765e286e",
+"titre": "Automatic RANSAC by Likelihood Maximization",
+"annee": 2022,
+"type": "journal",
+"lieu": "Image Processing On Line",
+"url": "https://doi.org/10.5201/ipol.2022.357",
+"doi": "10.5201/ipol.2022.357"
+},
+{
+"id": "p0c3df59401",
+"titre": "Automatic Threshold RanSaC Algorithms for Pose Estimation Tasks",
+"annee": 2022,
+"type": "conférence",
+"lieu": "17th International Joint Conference, VISIGRAPP 2022",
+"url": "https://enpc.hal.science/hal-04323285v1",
+"doi": "10.1007/978-3-031-45725-8_1"
+},
+{
+"id": "p7d8518afb4",
+"titre": "Bilateral K-Means for Superpixel Computation (the SLIC Method)",
+"annee": 2022,
+"type": "journal",
+"lieu": "Image Processing On Line",
+"url": "https://enpc.hal.science/hal-03651336v1",
+"doi": "10.5201/ipol.2022.373"
+},
+{
+"id": "p870d084c08",
+"titre": "Classification Performance of RanSaC Algorithms with Automatic Threshold Estimation",
+"annee": 2022,
+"type": "conférence",
+"lieu": "17th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications (VISIGRAPP 2022)",
+"url": "https://hal.science/hal-03602228v1",
+"doi": "10.5220/0010873300003124"
+},
+{
+"id": "p6beb4d1922",
+"titre": "Computational Aspects of Geometric Algebra Products of Two Homogeneous Multivectors",
+"annee": 2022,
+"type": "journal",
+"lieu": "Advances in Applied Clifford Algebras",
+"url": "https://hal.science/hal-03169013v2",
+"doi": "10.1007/s00006-022-01249-5"
+},
+{
+"id": "p3ec4758f7e",
+"titre": "ConSLAM: Periodically Collected Real-World Construction Dataset for SLAM and Progress Monitoring",
+"annee": 2022,
+"type": "conférence",
+"lieu": "ECCV 2022 - European Conference on Computer Vision Workshops",
+"url": "https://inria.hal.science/hal-03883866v1",
+"doi": "10.1007/978-3-031-25082-8_21"
+},
+{
+"id": "p81adeafd0f",
+"titre": "DETECTING OPENINGS FOR INDOOR/OUTDOOR REGISTRATION",
+"annee": 2022,
+"type": "journal",
+"lieu": "The international archives of the photogrammetry, remote sensing and spatial information sciences/International archives of the photogrammetry, remote sensing and spatial information sciences",
+"url": "https://doi.org/10.5194/isprs-archives-xliii-b2-2022-177-2022",
+"doi": "10.5194/isprs-archives-xliii-b2-2022-177-2022"
+},
+{
+"id": "pb464a92e7f",
+"titre": "Deep Surface Reconstruction from Point Clouds with Visibility Information",
+"annee": 2022,
+"type": "conférence",
+"lieu": "26th International Conference on Pattern Recognition (ICPR)",
+"url": "https://hal.science/hal-03575517v1",
+"doi": "10.1109/icpr56361.2022.9956560"
+},
+{
+"id": "p298b53cc1e",
+"titre": "Focal Length and Object Pose Estimation via Render and Compare",
+"annee": 2022,
+"type": "conférence",
+"lieu": "CVPR 2022 - IEEE Conference on Computer Vision and Pattern Recognition",
+"url": "https://hal.science/hal-03847201v1",
+"doi": "10.1109/cvpr52688.2022.00380"
+},
+{
+"id": "p676b52b609",
+"titre": "Improving neural implicit surfaces geometry with patch warping",
+"annee": 2022,
+"type": "conférence",
+"lieu": "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2022)",
+"url": "https://hal.science/hal-04315790v1",
+"doi": "10.1109/cvpr52688.2022.00616"
+},
+{
+"id": "p4d82a7f634",
+"titre": "Keypoint Transformer: Solving Joint Identification in Challenging Hands and Object Interactions for Accurate 3D Pose Estimation",
+"annee": 2022,
+"type": "conférence",
+"lieu": "International Conference on Computer Vision and Pattern Recognition",
+"url": "https://hal.science/hal-03791801v1",
+"doi": "10.1109/cvpr52688.2022.01081"
+},
+{
+"id": "p11b6c3f144",
+"titre": "Learning Co-segmentation by Segment Swapping for Retrieval and Discovery",
+"annee": 2022,
+"type": "conférence",
+"lieu": "CVPR2022W",
+"url": "https://hal.science/hal-04498427v1",
+"doi": "10.1109/cvprw56347.2022.00556"
+},
+{
+"id": "p344d5f6649",
+"titre": "MCTS With Refinement for Proposals Selection Games in Scene Understanding",
+"annee": 2022,
+"type": "journal",
+"lieu": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+"url": "https://doi.org/10.1109/tpami.2022.3203729",
+"doi": "10.1109/tpami.2022.3203729"
+},
+{
+"id": "pc21c2b9284",
+"titre": "MegaPose: 6D Pose Estimation of Novel Objects via Render & Compare",
+"annee": 2022,
+"type": "conférence",
+"lieu": "CoRL 2022 - Conference on Robot Learning",
+"url": "https://hal.science/hal-03910329v1"
+},
+{
+"id": "p191aaf9f2f",
+"titre": "MonteBoxFinder: Detecting and Filtering Primitives to Fit a Noisy Point Cloud",
+"annee": 2022,
+"type": "conférence",
+"lieu": "European Conference on Computer Vion",
+"url": "https://hal.science/hal-03791793v1",
+"doi": "10.1007/978-3-031-19815-1_10"
+},
+{
+"id": "p83ff9173b3",
+"titre": "Multi-Finger Grasping Like Humans",
+"annee": 2022,
+"type": "conférence",
+"lieu": "IEEE International Conference on Intelligent Robots and Systems",
+"url": "https://inria.hal.science/hal-04323199v1",
+"doi": "10.1109/iros47612.2022.9981805"
+},
+{
+"id": "peceb744318",
+"titre": "Multi-Layer Modeling of Dense Vegetation from Aerial LiDAR Scans",
+"annee": 2022,
+"type": "conférence",
+"lieu": "IEEE/CVF Conference on Computer VIsion and Pattern Recognition Workshops",
+"url": "https://hal.science/hal-03718729v1"
+},
+{
+"id": "pebc4eeb5b8",
+"titre": "Multi-modal temporal attention models for crop mapping from satellite time series",
+"annee": 2022,
+"type": "journal",
+"lieu": "ISPRS Journal of Photogrammetry and Remote Sensing",
+"url": "https://doi.org/10.1016/j.isprsjprs.2022.03.012",
+"doi": "10.1016/j.isprsjprs.2022.03.012"
+},
+{
+"id": "p92061c8d00",
+"titre": "Online Segmentation of LiDAR Sequences: Dataset and Algorithm",
+"annee": 2022,
+"type": "conférence",
+"lieu": "European Conference on Computer Vision 2022",
+"url": "https://hal.science/hal-03794797v1",
+"doi": "10.1007/978-3-031-19839-7_18"
+},
+{
+"id": "pce3cfec6a7",
+"titre": "Predicting Vegetation Stratum Occupancy from Airborne LiDAR Data with Deep Learning",
+"annee": 2022,
+"type": "journal",
+"lieu": "International Journal of Applied Earth Observation and Geoinformation",
+"url": "https://hal.science/hal-03727656v1",
+"doi": "10.1016/j.jag.2022.102863"
+},
+{
+"id": "p20039d65f6",
+"titre": "Preface: the 2022 edition of the XXIVth ISPRS Congress",
+"annee": 2022,
+"type": "conférence",
+"lieu": "XXIVth ISPRS Congress",
+"url": "https://hal.science/hal-03713997v1",
+"doi": "10.5194/isprs-annals-v-3-2022-1-2022"
+},
+{
+"id": "pf58d79e244",
+"titre": "SCONE: Surface Coverage Optimization in Unknown Environments by Volumetric Integration",
+"annee": 2022,
+"type": "conférence",
+"lieu": "NeurIPS",
+"url": "https://hal.science/hal-04440635v1"
+},
+{
+"id": "p764a39c9a1",
+"titre": "Scaling Up Sign Spotting Through Sign Language Dictionaries",
+"annee": 2022,
+"type": "journal",
+"lieu": "International Journal of Computer Vision",
+"url": "https://inria.hal.science/hal-03981735v1",
+"doi": "10.1007/s11263-022-01589-6"
+},
+{
+"id": "p1c9f1b7b68",
+"titre": "Share With Thy Neighbors: Single-View Reconstruction by Cross-Instance Consistency",
+"annee": 2022,
+"type": "conférence",
+"lieu": "Proceedings of the European Conference on Computer Vision (ECCV)",
+"url": "https://hal.science/hal-03793867v1"
+},
+{
+"id": "p8ac83843dc",
+"titre": "Sign Language Video Retrieval with Free-Form Textual Queries",
+"annee": 2022,
+"type": "conférence",
+"lieu": "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+"url": "https://hal.science/hal-03981732v1",
+"doi": "10.1109/cvpr52688.2022.01370"
+},
+{
+"id": "p40267bc0b7",
+"titre": "Spatially-consistent Feature Matching and Learning for Heritage Image Analysis",
+"annee": 2022,
+"type": "journal",
+"lieu": "International Journal of Computer Vision",
+"url": "https://hal.science/hal-03620996v2",
+"doi": "10.1007/s11263-022-01576-x"
+},
+{
+"id": "p37f3cf0604",
+"titre": "Spherical Perspective on Learning with Normalization Layers",
+"annee": 2022,
+"type": "journal",
+"lieu": "Neurocomputing",
+"url": "https://hal.science/hal-04496492v1",
+"doi": "10.1016/j.neucom.2022.02.021"
+},
+{
+"id": "p9e8eef696b",
+"titre": "TEACH: Temporal Action Composition for 3D Humans",
+"annee": 2022,
+"type": "conférence",
+"lieu": "International Conference on 3D Vision 2022",
+"url": "https://inria.hal.science/hal-03791786v1",
+"doi": "10.1109/3dv57658.2022.00053"
+},
+{
+"id": "p8b85f8a5c9",
+"titre": "TEMOS: Generating diverse human motions from textual descriptions",
+"annee": 2022,
+"type": "conférence",
+"lieu": "European Conference on Computer Vision 2022",
+"url": "https://inria.hal.science/hal-03791776v1",
+"doi": "10.1007/978-3-031-20047-2_28"
+},
+{
+"id": "p8011fd8b88",
+"titre": "Templates for 3D Object Pose Estimation Revisited: Generalization to New Objects and Robustness to Occlusions",
+"annee": 2022,
+"type": "conférence",
+"lieu": "International Conference on Computer Vision and Pattern Recognition",
+"url": "https://hal.science/hal-03791820v1",
+"doi": "10.1109/cvpr52688.2022.00665"
+},
+{
+"id": "p6059f55ad4",
+"titre": "The approach to reproducible research of the Image Processing On Line (IPOL) journal",
+"annee": 2022,
+"type": "journal",
+"lieu": "Informatio",
+"url": "https://doi.org/10.35643/info.27.1.7",
+"doi": "10.35643/info.27.1.7"
+},
+{
+"id": "p253282cec2",
+"titre": "Visual Correspondence Hallucination",
+"annee": 2022,
+"type": "conférence",
+"lieu": "International Conference on Learning Representations",
+"url": "https://inria.hal.science/hal-04323183v1"
+},
+{
+"id": "p9093634c74",
+"titre": "Weakly-supervised Fingerspelling Recognition in British Sign Language Videos",
+"annee": 2022,
+"type": "conférence",
+"lieu": "British Machine Vision Conference (BMVC) 2022",
+"url": "https://hal.science/hal-03981734v1"
+},
+{
+"id": "p5d4ff6f8d1",
+"titre": "Action-Conditioned 3D Human Motion Synthesis with Transformer VAE",
+"annee": 2021,
+"type": "conférence",
+"lieu": "2021 IEEE International Conference on Computer Vision (ICCV)",
+"url": "https://hal.science/hal-03513593v1",
+"doi": "10.1109/iccv48922.2021.01080"
+},
+{
+"id": "pc2f30689f3",
+"titre": "Aligning Subtitles in Sign Language Videos",
+"annee": 2021,
+"type": "conférence",
+"lieu": "International Conference on Computer Vision (ICCV)",
+"url": "https://hal.science/hal-03515983v1",
+"doi": "10.1109/iccv48922.2021.01135"
+},
+{
+"id": "p20157c76b2",
+"titre": "Back to the Feature: Learning Robust Camera Localization from Pixels to Pose",
+"annee": 2021,
+"type": "conférence",
+"lieu": "Conference on Computer Vision and Pattern Recognition",
+"url": "https://hal.science/hal-03482290v1",
+"doi": "10.1109/cvpr46437.2021.00326"
+},
+{
+"id": "pe37ee0c237",
+"titre": "Crop Rotation Modeling for Deep Learning-Based Parcel Classification from Satellite Time Series",
+"annee": 2021,
+"type": "journal",
+"lieu": "Remote Sensing",
+"url": "https://hal.science/hal-03500526v1",
+"doi": "10.3390/rs13224599"
+},
+{
+"id": "p667a3dd568",
+"titre": "Deep Multi-View Stereo Gone Wild",
+"annee": 2021,
+"type": "conférence",
+"lieu": "2021 International Conference on 3D Vision (3DV)",
+"url": "https://hal.science/hal-04315771v1",
+"doi": "10.1109/3dv53792.2021.00058"
+},
+{
+"id": "pe012d1cf6d",
+"titre": "Detecting Stable Keypoints from Events through Image Gradient Prediction",
+"annee": 2021,
+"type": "conférence",
+"lieu": "International Conference on Computer Vision and Pattern Recognition Workshop",
+"url": "https://hal.science/hal-03482236v1",
+"doi": "10.1109/cvprw53098.2021.00153"
+},
+{
+"id": "p6f866630aa",
+"titre": "Frozen in Time: A Joint Video and Image Encoder for End-to-End Retrieval",
+"annee": 2021,
+"type": "conférence",
+"lieu": "2021 IEEE International Conference on Computer Vision (ICCV)",
+"url": "https://hal.science/hal-03513427v1",
+"doi": "10.1109/iccv48922.2021.00175"
+},
+{
+"id": "pff0fef4300",
+"titre": "Image Collation: Matching illustrations in manuscripts",
+"annee": 2021,
+"type": "conférence",
+"lieu": "International Conference on Document Analysis and Recognition (ICDAR)",
+"url": "https://hal.science/hal-03321894v1",
+"doi": "10.1007/978-3-030-86337-1_24"
+},
+{
+"id": "p490f981029",
+"titre": "Image Descriptors and Similarity Measures",
+"annee": 2021,
+"type": "chapitre",
+"lieu": "Springer eBooks",
+"url": "https://doi.org/10.1007/978-3-030-63416-2_797",
+"doi": "10.1007/978-3-030-63416-2_797"
+},
+{
+"id": "p86c5e1a132",
+"titre": "Learning to Better Segment Objects from Unseen Classes with Unlabeled Videos",
+"annee": 2021,
+"type": "conférence",
+"lieu": "International Conference on Computer Vision",
+"url": "https://hal.science/hal-03482255v1",
+"doi": "10.1109/iccv48922.2021.00336"
+},
+{
+"id": "p8301d2f0d2",
+"titre": "Leveraging Class Hierarchies with Metric-Guided Prototype Learning",
+"annee": 2021,
+"type": "conférence",
+"lieu": "British Machine Vision Conference (BMVC)",
+"url": "https://hal.science/hal-03500516v1"
+},
+{
+"id": "p2f6e1240c0",
+"titre": "Localizing Objects with Self-Supervised Transformers and no Labels",
+"annee": 2021,
+"type": "conférence",
+"lieu": "BMVC 2021 - 32nd British Machine Vision Conference",
+"url": "https://hal.science/hal-03541602v1"
+},
+{
+"id": "p98a7077427",
+"titre": "Monte Carlo Scene Search for 3D Scene Understanding",
+"annee": 2021,
+"type": "conférence",
+"lieu": "Conference on Computer Vision and Pattern Recognition",
+"url": "https://hal.science/hal-03482285v1",
+"doi": "10.1109/cvpr46437.2021.01359"
+},
+{
+"id": "pcdd4482335",
+"titre": "MonteFloor: Extending MCTS for Reconstructing Accurate Large-Scale Floor Plans",
+"annee": 2021,
+"type": "conférence",
+"lieu": "International Conference on Computer Vision (ICCV 2021)",
+"url": "https://hal.science/hal-03482218v1",
+"doi": "10.1109/iccv48922.2021.01573"
+},
+{
+"id": "pc6277ac5b8",
+"titre": "Neural Reprojection Error: Merging Feature Learning and Camera Pose Estimation",
+"annee": 2021,
+"type": "conférence",
+"lieu": "Conference on Computer Vision and Pattern Recognition",
+"url": "https://hal.science/hal-03482286v1",
+"doi": "10.1109/cvpr46437.2021.00048"
+},
+{
+"id": "pe0210188f0",
+"titre": "Panoptic Segmentation of Satellite Image Time Series with Convolutional Temporal Attention Networks",
+"annee": 2021,
+"type": "conférence",
+"lieu": "International Conference on Computer Vision (ICCV)",
+"url": "https://hal.science/hal-03500523v1"
+},
+{
+"id": "p53411b0a1c",
+"titre": "Re-ranking for image retrieval and transductive few-shot classification",
+"annee": 2021,
+"type": "conférence",
+"lieu": "35th Conference on Neural Information Processing Systems (NeurIPS 2021)",
+"url": "https://hal.science/hal-04498568v1"
+},
+{
+"id": "p7a9d9813de",
+"titre": "Read and Attend: Temporal Localisation in Sign Language Videos",
+"annee": 2021,
+"type": "conférence",
+"lieu": "2021 IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2021)",
+"url": "https://hal.science/hal-03513396v1",
+"doi": "10.1109/cvpr46437.2021.01658"
+},
+{
+"id": "pa9419ec5f0",
+"titre": "Representing Shape Collections with Alignment-Aware Linear Models",
+"annee": 2021,
+"type": "conférence",
+"lieu": "International Conference on 3D Vision 2021 (3DV 2021)",
+"url": "https://hal.science/hal-03487329v1",
+"doi": "10.1109/3dv53792.2021.00112"
+},
+{
+"id": "p7715883016",
+"titre": "Scalable Surface Reconstruction with Delaunay-Graph Neural Networks",
+"annee": 2021,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-03312448v1",
+"doi": "10.1111/cgf.14364"
+},
+{
+"id": "pd1f514e54e",
+"titre": "Sign Segmentation with Changepoint-Modulated Pseudo-Labelling",
+"annee": 2021,
+"type": "conférence",
+"lieu": "2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)",
+"url": "https://hal.science/hal-03513415v1",
+"doi": "10.1109/cvprw53098.2021.00379"
+},
+{
+"id": "pe61409a716",
+"titre": "Sign language segmentation with temporal convolutional networks",
+"annee": 2021,
+"type": "conférence",
+"lieu": "2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
+"url": "https://hal.science/hal-03513405v1",
+"doi": "10.1109/icassp39728.2021.9413817"
+},
+{
+"id": "p5236382e25",
+"titre": "Simultaneous completion and spatiotemporal grouping of corrupted motion tracks",
+"annee": 2021,
+"type": "journal",
+"lieu": "The Visual Computer",
+"url": "https://doi.org/10.1007/s00371-021-02238-8",
+"doi": "10.1007/s00371-021-02238-8"
+},
+{
+"id": "p929f67279e",
+"titre": "Single Image Depth Prediction with Wavelet Decomposition",
+"annee": 2021,
+"type": "conférence",
+"lieu": "Conference on Computer Vision and Pattern Recognition",
+"url": "https://hal.science/hal-03482288v1",
+"doi": "10.1109/cvpr46437.2021.01094"
+},
+{
+"id": "p702917a92a",
+"titre": "Single-view robot pose and joint angle estimation via render & compare",
+"annee": 2021,
+"type": "conférence",
+"lieu": "CVPR 2021 - Conference on Computer Vision and Pattern Recognition",
+"url": "https://hal.science/hal-03572205v1",
+"doi": "10.1109/cvpr46437.2021.00170"
+},
+{
+"id": "p39615860a3",
+"titre": "Synthetic Humans for Action Recognition from Unseen Viewpoints",
+"annee": 2021,
+"type": "journal",
+"lieu": "International Journal of Computer Vision",
+"url": "https://inria.hal.science/hal-02435731v1",
+"doi": "10.1007/s11263-021-01467-7"
+},
+{
+"id": "pc7e45cce4a",
+"titre": "TOWARDS EFFICIENT INDOOR/OUTDOOR REGISTRATION USING PLANAR POLYGONS",
+"annee": 2021,
+"type": "journal",
+"lieu": "ISPRS annals of the photogrammetry, remote sensing and spatial information sciences",
+"url": "https://doi.org/10.5194/isprs-annals-v-2-2021-51-2021",
+"doi": "10.5194/isprs-annals-v-2-2021-51-2021"
+},
+{
+"id": "p13ed23f54b",
+"titre": "The Polar Epipolar Rectification",
+"annee": 2021,
+"type": "journal",
+"lieu": "Image Processing On Line",
+"url": "https://enpc.hal.science/hal-03157244v1",
+"doi": "10.5201/ipol.2021.328"
+},
+{
+"id": "p3d6ed9407f",
+"titre": "Towards unconstrained joint hand-object reconstruction from RGB videos",
+"annee": 2021,
+"type": "conférence",
+"lieu": "3DV 2021 - International Conference on 3D Vision",
+"url": "https://hal.science/hal-03615879v1",
+"doi": "10.1109/3dv53792.2021.00075"
+},
+{
+"id": "p734e1f1be5",
+"titre": "Unsupervised Layered Image Decomposition into Object Prototypes",
+"annee": 2021,
+"type": "conférence",
+"lieu": "Proceedings of the IEEE/CVF International Conference on Computer Vision. 2021",
+"url": "https://hal.science/hal-03216019v2",
+"doi": "10.1109/iccv48922.2021.00852"
+},
+{
+"id": "p04e1fd52b9",
+"titre": "Vegetation Stratum Occupancy Prediction from Airborne LiDAR 3D Point Clouds",
+"annee": 2021,
+"type": "conférence",
+"lieu": "SilviLaser",
+"url": "https://hal.science/hal-03983141v1"
+},
+{
+"id": "p11217d99e9",
+"titre": "A Web Application for Watermark Recognition",
+"annee": 2020,
+"type": "journal",
+"lieu": "Journal of Data Mining and Digital Humanities",
+"url": "https://inria.hal.science/hal-02513038v2",
+"doi": "10.46298/jdmdh.6220"
+},
+{
+"id": "p3c0a5ace68",
+"titre": "ALCN: Adaptive Local Contrast Normalization",
+"annee": 2020,
+"type": "journal",
+"lieu": "Computer Vision and Image Understanding",
+"url": "https://doi.org/10.1016/j.cviu.2020.102947",
+"doi": "10.1016/j.cviu.2020.102947"
+},
+{
+"id": "p9504e695c8",
+"titre": "Approximating shapes in images with low-complexity polygons",
+"annee": 2020,
+"type": "conférence",
+"lieu": "CVPR 2020 - IEEE Conference on Computer Vision and Pattern Recognition",
+"url": "https://inria.hal.science/hal-02526028v1",
+"doi": "10.1109/cvpr42600.2020.00866"
+},
+{
+"id": "p9eb5b6a862",
+"titre": "AssemblyNet: A large ensemble of CNNs for 3D whole brain MRI segmentation",
+"annee": 2020,
+"type": "journal",
+"lieu": "NeuroImage",
+"url": "https://hal.science/hal-02930959v1",
+"doi": "10.1016/j.neuroimage.2020.117026"
+},
+{
+"id": "p1f661aba97",
+"titre": "BSL-1K: Scaling up co-articulated sign language recognition using mouthing cues",
+"annee": 2020,
+"type": "conférence",
+"lieu": "European Conference on Computer Vision (ECCV) 2020",
+"url": "https://hal.science/hal-03516489v1",
+"doi": "10.1007/978-3-030-58621-8_3"
+},
+{
+"id": "p5895a7757c",
+"titre": "CosyPose: Consistent multi-view multi-object 6D pose estimation",
+"annee": 2020,
+"type": "conférence",
+"lieu": "European Conference on Computer Vision",
+"url": "https://hal.science/hal-02950800v1"
+},
+{
+"id": "pc9645eb5c4",
+"titre": "Deep Transformation-Invariant Clustering",
+"annee": 2020,
+"type": "conférence",
+"lieu": "Advances in Neural Information Processing Systems 33 (2020)",
+"url": "https://hal.science/hal-03015110v1"
+},
+{
+"id": "p0274892e69",
+"titre": "Honnotate: A method for 3D annotation of hand and object pose",
+"annee": 2020,
+"type": "conférence",
+"lieu": "IEEE Computer Society Conference on Computer Vision and Pattern Recognition",
+"url": "https://inria.hal.science/hal-04323373v1"
+},
+{
+"id": "pe445359f9e",
+"titre": "Impact of base dataset design on few-shot image classification",
+"annee": 2020,
+"type": "conférence",
+"lieu": "ECCV 2020",
+"url": "https://hal.science/hal-04500071v1"
+},
+{
+"id": "p297e9086f3",
+"titre": "Improved Crop Classification with Rotation Knowledge using Sentinel-1 and -2 Time Series",
+"annee": 2020,
+"type": "journal",
+"lieu": "Photogrammetric engineering and remote sensing",
+"url": "https://hal.science/hal-03500509v2",
+"doi": "10.14358/pers.86.7.431"
+},
+{
+"id": "p0169f5cf13",
+"titre": "Learning to Guide Local Feature Matches",
+"annee": 2020,
+"type": "conférence",
+"lieu": "2020 International Conference on 3D Vision (3DV)",
+"url": "https://cnrs.hal.science/hal-04315572v1",
+"doi": "10.1109/3dv50981.2020.00123"
+},
+{
+"id": "p03c03e2913",
+"titre": "Lightweight temporal self-Attention for classifying satellite images time series",
+"annee": 2020,
+"type": "conférence",
+"lieu": "Workshop on Advanced Analytics and Learning on Temporal Data",
+"url": "https://hal.science/hal-03016094v1"
+},
+{
+"id": "p6ba0fc120e",
+"titre": "Monte-Carlo Tree Search for Efficient Visually Guided Rearrangement Planning",
+"annee": 2020,
+"type": "journal",
+"lieu": "IEEE Robotics and Automation Letters",
+"url": "https://hal.science/hal-02108930v1",
+"doi": "10.1109/lra.2020.2980984"
+},
+{
+"id": "pccf05891a6",
+"titre": "Occlusion Boundary: A Formal Definition & Its Detection via Deep Exploration of Context",
+"annee": 2020,
+"type": "journal",
+"lieu": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+"url": "https://inria.hal.science/hal-03132245v1",
+"doi": "10.1109/tpami.2020.3039478"
+},
+{
+"id": "p7e08ad5c67",
+"titre": "Optimal Parenthesizing of Geometric Algebra Products",
+"annee": 2020,
+"type": "conférence",
+"lieu": "CGI 2020",
+"url": "https://hal.science/hal-03168974v1",
+"doi": "10.1007/978-3-030-61864-3_42"
+},
+{
+"id": "p9a4faa572f",
+"titre": "Pixel-Pair Occlusion Relationship Map (P2ORM): Formulation, Inference and Application",
+"annee": 2020,
+"type": "conférence",
+"lieu": "European Conference on Computer Vision",
+"url": "https://hal.science/hal-03133241v1",
+"doi": "10.1007/978-3-030-58548-8_40"
+},
+{
+"id": "pbfc256118d",
+"titre": "Planar Polygons Detection in LiDAR Scans Based on Sensor Topology Enhanced RANSAC",
+"annee": 2020,
+"type": "conférence",
+"lieu": "XXIV ISPRS Congress 2020",
+"url": "https://hal.science/hal-02926339v1",
+"doi": "10.5194/isprs-annals-v-2-2020-343-2020"
+},
+{
+"id": "pff34f58f9f",
+"titre": "Predicting Sharp and Accurate Occlusion Boundaries in Monocular Depth Estimation Using Displacement Fields",
+"annee": 2020,
+"type": "conférence",
+"lieu": "2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+"url": "https://hal.science/hal-03148815v1",
+"doi": "10.1109/cvpr42600.2020.01466"
+},
+{
+"id": "pbc2ac61478",
+"titre": "RANSAC-Flow: Generic Two-Stage Image Alignment",
+"annee": 2020,
+"type": "chapitre",
+"lieu": "European Conference on Computer Vision 2020",
+"url": "https://hal.science/hal-03131124v1",
+"doi": "10.1007/978-3-030-58548-8_36"
+},
+{
+"id": "p249d6338ac",
+"titre": "S2DNet: Learning Image Features for Accurate Sparse-to-Dense Matching",
+"annee": 2020,
+"type": "conférence",
+"lieu": "European Conference on Computer Vision",
+"url": "https://inria.hal.science/hal-04323362v1",
+"doi": "10.1007/978-3-030-58580-8_37"
+},
+{
+"id": "pb99a049002",
+"titre": "Torch-Points3D: A modular multi-task framework for reproducible deep learning on 3D point clouds",
+"annee": 2020,
+"type": "conférence",
+"lieu": "3DV 2020 - International Conference on 3D Vision",
+"url": "https://hal.science/hal-03013190v1"
+},
+{
+"id": "p84e9b8ea4d",
+"titre": "Unsupervised Image Decomposition in Vector Layers",
+"annee": 2020,
+"type": "conférence",
+"lieu": "ICIP 2020",
+"url": "https://hal.science/hal-04498573v1",
+"doi": "10.1109/icip40778.2020.9190638"
+},
+{
+"id": "p7d82fd5606",
+"titre": "Watch, read and lookup: learning to spot signs from multiple supervisors",
+"annee": 2020,
+"type": "conférence",
+"lieu": "Asian Conference on Computer Vision (ACCV) 2020",
+"url": "https://hal.science/hal-03516457v1",
+"doi": "10.1007/978-3-030-69544-6_18"
+},
+{
+"id": "p7929f3091d",
+"titre": "docExtractor: An off-the-shelf historical document element extraction",
+"annee": 2020,
+"type": "conférence",
+"lieu": "2020 17th International Conference on Frontiers in Handwriting Recognition (ICFHR)",
+"url": "https://hal.science/hal-03131070v1",
+"doi": "10.1109/icfhr2020.2020.00027"
+},
+{
+"id": "pc45c50f685",
+"titre": "A Generic Interval Branch and Bound Algorithm for Parameter Estimation",
+"annee": 2019,
+"type": "journal",
+"lieu": "Journal of Global Optimization",
+"url": "https://enpc.hal.science/hal-01942306v1",
+"doi": "10.1007/s10898-018-0721-3"
+},
+{
+"id": "p9c561255f6",
+"titre": "AssemblyNet: A Novel Deep Decision-Making Process for Whole Brain MRI Segmentation",
+"annee": 2019,
+"type": "conférence",
+"lieu": "International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)",
+"url": "https://hal.science/hal-02358626v1",
+"doi": "10.1007/978-3-030-32248-9_52"
+},
+{
+"id": "p55ca3a5859",
+"titre": "Bilinear image translation for temporal analysis of photo collections",
+"annee": 2019,
+"type": "journal",
+"lieu": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+"url": "https://inria.hal.science/hal-02452091v1",
+"doi": "10.1109/tpami.2019.2950317"
+},
+{
+"id": "p86bdcf3ac6",
+"titre": "Cut-Pursuit Algorithm for Regularizing Nonsmooth Functionals with Graph Total Variation",
+"annee": 2019,
+"type": "conférence",
+"lieu": "Thirty-sixth International Conference on Machine Learning ( ICM 2019 )L",
+"url": "https://hal.science/hal-03481168v1"
+},
+{
+"id": "p1590ee04da",
+"titre": "Discovering Visual Patterns in Art Collections with Spatially-consistent Feature Learning",
+"annee": 2019,
+"type": "conférence",
+"lieu": "2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+"url": "https://enpc.hal.science/hal-02104041v1",
+"doi": "10.1109/cvpr.2019.00950"
+},
+{
+"id": "p27b089f09b",
+"titre": "Extraction of the Level Lines of a Bilinear Image",
+"annee": 2019,
+"type": "journal",
+"lieu": "Image Processing On Line",
+"url": "https://enpc.hal.science/hal-02271680v1",
+"doi": "10.5201/ipol.2019.269"
+},
+{
+"id": "pf38288373e",
+"titre": "GP2C: Geometric Projection Parameter Consensus for Joint 3D Pose and Focal Length Estimation in the Wild",
+"annee": 2019,
+"type": "conférence",
+"lieu": "ICCV",
+"url": "https://hal.science/hal-02509456v1"
+},
+{
+"id": "pbcd87a95be",
+"titre": "Garamon: A Geometric Algebra Library Generator",
+"annee": 2019,
+"type": "journal",
+"lieu": "Advances in Applied Clifford Algebras",
+"url": "https://hal.science/hal-02196173v1",
+"doi": "10.1007/s00006-019-0987-7"
+},
+{
+"id": "p5918a14973",
+"titre": "Generalized Feedback Loop for Joint Hand-Object Pose Estimation",
+"annee": 2019,
+"type": "journal",
+"lieu": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+"url": "https://hal.science/hal-02509416v1"
+},
+{
+"id": "p3e82315a4d",
+"titre": "Geometry-Consistent Generative Adversarial Networks for One-Sided Unsupervised Domain Mapping",
+"annee": 2019,
+"type": "conférence",
+"lieu": "CVPR 2019 - IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+"url": "https://hal.science/hal-03132263v1",
+"doi": "10.1109/cvpr.2019.00253"
+},
+{
+"id": "pe9ee8fe8d7",
+"titre": "LU-Net: An Efficient Network for 3D LiDAR Point Cloud Semantic Segmentation Based on End-to-End-Learned 3D Features and U-Net",
+"annee": 2019,
+"type": "conférence",
+"lieu": "IEEE International Conference on Computer Vision Workshops (ICCV)",
+"url": "https://hal.science/hal-02269915v2",
+"doi": "10.1109/iccvw.2019.00123"
+},
+{
+"id": "p40cf925a25",
+"titre": "Learning joint reconstruction of hands and manipulated objects",
+"annee": 2019,
+"type": "conférence",
+"lieu": "CVPR 2019 - IEEE Conference on Computer Vision and Pattern Recognition",
+"url": "https://hal.science/hal-02429093v1",
+"doi": "10.1109/cvpr.2019.01208"
+},
+{
+"id": "p0ce4b8d839",
+"titre": "Location Field Descriptors: Single Image 3D Model Retrieval in the Wild",
+"annee": 2019,
+"type": "conférence",
+"lieu": "3DV",
+"url": "https://hal.science/hal-02509448v1"
+},
+{
+"id": "p56cebd8301",
+"titre": "Mobile photometric stereo with keypoint-based SLAM for dense 3D reconstruction",
+"annee": 2019,
+"type": "conférence",
+"lieu": "2019 International Conference on 3D Vision (3DV)",
+"url": "https://hal.science/hal-02859914v1",
+"doi": "10.1109/3dv.2019.00069"
+},
+{
+"id": "p8ad9cf39cc",
+"titre": "Modular Convolutional Neural Network for Discriminating between Computer-Generated Images and Photographic Images",
+"annee": 2019,
+"type": "conférence",
+"lieu": "13th International Conference on Availability, Reliability and Security",
+"url": "https://hal.science/hal-02007485v1",
+"doi": "10.1145/3230833.3230863"
+},
+{
+"id": "p1c7e98e59d",
+"titre": "On Object Symmetries and 6D Pose Estimation from Images",
+"annee": 2019,
+"type": "conférence",
+"lieu": "3DV",
+"url": "https://hal.science/hal-02509435v1"
+},
+{
+"id": "pd6a600ea72",
+"titre": "Orthographic and phonetic transcriptions of Rhapsodie recording",
+"annee": 2019,
+"type": "chapitre",
+"lieu": "Studies in corpus linguistics",
+"url": "https://doi.org/10.1075/scl.89.03dis",
+"doi": "10.1075/scl.89.03dis"
+},
+{
+"id": "pca853401df",
+"titre": "PIECEWISE-PLANAR APPROXIMATION OF LARGE 3D DATA AS GRAPH-STRUCTURED OPTIMIZATION",
+"annee": 2019,
+"type": "journal",
+"lieu": "ISPRS Annals of Photogrammetry, Remote Sensing and Spatial Information Sciences",
+"url": "https://hal.science/hal-02178134v1",
+"doi": "10.5194/isprs-annals-iv-2-w5-365-2019"
+},
+{
+"id": "pb5ff57fc61",
+"titre": "Parallel Cut Pursuit For Minimization of the Graph Total Variation",
+"annee": 2019,
+"type": "conférence",
+"lieu": "ICML Workshop on Learning and Reasoning with Graph-Structured Representations",
+"url": "https://hal.science/hal-03016110v1"
+},
+{
+"id": "pd33cc77b60",
+"titre": "Point Cloud Oversegmentation with Graph-Structured Deep Metric Learning",
+"annee": 2019,
+"type": "conférence",
+"lieu": "CVPR",
+"url": "https://hal.science/hal-03016113v1"
+},
+{
+"id": "p8b5764053f",
+"titre": "Pose from Shape: Deep Pose Estimation for Arbitrary 3D Objects",
+"annee": 2019,
+"type": "conférence",
+"lieu": "British Machine Vision Conference (BMVC) 2019",
+"url": "https://hal.science/hal-04314702v1"
+},
+{
+"id": "p35d6e60307",
+"titre": "Real-time scene reconstruction and triangle mesh generation using multiple RGB-D cameras",
+"annee": 2019,
+"type": "journal",
+"lieu": "Journal of Real-Time Image Processing",
+"url": "https://hal.science/hal-01638241v1",
+"doi": "10.1007/s11554-017-0736-x"
+},
+{
+"id": "p0437cfd530",
+"titre": "Rigid motions in the cubic grid: A discussion on topological issues",
+"annee": 2019,
+"type": "conférence",
+"lieu": "Discrete Geometry for Computer Imagery (DGCI)",
+"url": "https://hal.science/hal-01892944v2",
+"doi": "10.1007/978-3-030-14085-4_11"
+},
+{
+"id": "pc6e8f24e6e",
+"titre": "SharpNet: Fast and Accurate Recovery of Occluding Contours in Monocular Depth Estimation",
+"annee": 2019,
+"type": "conférence",
+"lieu": "2019 IEEE/CVF International Conference on Computer Vision Workshop (ICCVW)",
+"url": "https://hal.science/hal-03148810v1",
+"doi": "10.1109/iccvw.2019.00266"
+},
+{
+"id": "p2eb2a417e2",
+"titre": "Sparse-to-Dense Hypercolumn Matching for Long-Term Visual Localization",
+"annee": 2019,
+"type": "conférence",
+"lieu": "3DV",
+"url": "https://hal.science/hal-02353464v1"
+},
+{
+"id": "p290356f76e",
+"titre": "Speed Invariant Time Surface for Learning to Detect Corner Points with Event-Based Cameras",
+"annee": 2019,
+"type": "conférence",
+"lieu": "CVPR",
+"url": "https://hal.science/hal-02509409v1"
+},
+{
+"id": "pe8543ea978",
+"titre": "Supervized segmentation with graph-structured deep metric learning",
+"annee": 2019,
+"type": "conférence",
+"lieu": "ICML Workshop on Learning and Reasoning with Graph-Structured Representations",
+"url": "https://hal.science/hal-03016114v1"
+},
+{
+"id": "p8097a5e35b",
+"titre": "Surface Reconstruction from 3D Line Segments",
+"annee": 2019,
+"type": "conférence",
+"lieu": "2019 International Conference on 3D Vision (3DV)",
+"url": "https://hal.science/hal-02344362v1",
+"doi": "10.1109/3dv.2019.00067"
+},
+{
+"id": "p21cde70b3e",
+"titre": "Surfaces quadratiques à base d'Algèbres Géométriques Conforme",
+"annee": 2019,
+"type": "conférence",
+"lieu": "GTMG 2019",
+"url": "https://hal.science/hal-02262159v1"
+},
+{
+"id": "pf449e341eb",
+"titre": "The Orthographic Projection Model for Pose Calibration of Long Focal Images",
+"annee": 2019,
+"type": "journal",
+"lieu": "Image Processing On Line",
+"url": "https://enpc.hal.science/hal-02284935v1",
+"doi": "10.5201/ipol.2019.248"
+},
+{
+"id": "p9bc2acb876",
+"titre": "Three-dimensional quadrics in extended conformal geometric algebras of higher dimensions from control points, implicit equations and axis alignment",
+"annee": 2019,
+"type": "journal",
+"lieu": "Advances in Applied Clifford Algebras",
+"url": "https://hal.science/hal-02169419v1",
+"doi": "10.1007/s00006-019-0974-z"
+},
+{
+"id": "pc2560b5abd",
+"titre": "Time-Space Tradeoff in Deep Learning Models for Crop Classification on Satellite Multi-Spectral Image Time Series",
+"annee": 2019,
+"type": "conférence",
+"lieu": "IGARSS 2019 - 2019 IEEE International Geoscience and Remote Sensing Symposium",
+"url": "https://hal.science/hal-02386701v1",
+"doi": "10.1109/igarss.2019.8900517"
+},
+{
+"id": "pf2250f4ba4",
+"titre": "Transverse approach to geometric algebra models for manipulating quadratic surfaces",
+"annee": 2019,
+"type": "conférence",
+"lieu": "Computer Graphics International (CGI2019)",
+"url": "https://hal.science/hal-02050767v3",
+"doi": "10.1007/978-3-030-22514-8_52"
+},
+{
+"id": "p3187ec5381",
+"titre": "Unsupervised cycle-consistent deformation for shape matching",
+"annee": 2019,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://enpc.hal.science/hal-02178969v1",
+"doi": "10.1111/cgf.13794"
+},
+{
+"id": "peff406313c",
+"titre": "3D Pose Estimation and 3D Model Retrieval for Objects in the Wild",
+"annee": 2018,
+"type": "conférence",
+"lieu": "CVPR",
+"url": "https://hal.science/hal-02506567v1"
+},
+{
+"id": "p7727905093",
+"titre": "3D Sketching using Multi-View Deep Volumetric Prediction",
+"annee": 2018,
+"type": "journal",
+"lieu": "Proceedings of the ACM on Computer Graphics and Interactive Techniques",
+"url": "https://inria.hal.science/hal-01799600v1",
+"doi": "10.1145/3203197"
+},
+{
+"id": "pf7433c6ce2",
+"titre": "3D-CODED : 3D Correspondences by Deep Deformation",
+"annee": 2018,
+"type": "conférence",
+"lieu": "ECCV 2018",
+"url": "https://hal.science/hal-01830474v2"
+},
+{
+"id": "p711eeb8cf3",
+"titre": "A Root-to-Leaf Algorithm Computing the Tree of Shapes of an Image",
+"annee": 2018,
+"type": "conférence",
+"lieu": "Workshop on Reproducible Research in Pattern Recognition",
+"url": "https://enpc.hal.science/hal-02168487v1",
+"doi": "10.1007/978-3-030-23987-9_3"
+},
+{
+"id": "pa45972eeaf",
+"titre": "An Interval Branch and Bound Algorithm for Parameter Estimation and Application to Stereovision",
+"annee": 2018,
+"type": "conférence",
+"lieu": "LeGO 2018 - 14th International Workshop on Global Optimization",
+"url": "https://enpc.hal.science/hal-01927682v1",
+"doi": "10.1063/1.5089999"
+},
+{
+"id": "pb5cbf2774a",
+"titre": "AtlasNet: A Papier-Mâché Approach to Learning 3D Surface Generation",
+"annee": 2018,
+"type": "conférence",
+"lieu": "CVPR 2018",
+"url": "https://inria.hal.science/hal-01718933v1"
+},
+{
+"id": "p703bb9074c",
+"titre": "BodyNet: Volumetric Inference of 3D Human Body Shapes",
+"annee": 2018,
+"type": "conférence",
+"lieu": "ECCV 2018 - 15th European Conference on Computer Vision",
+"url": "https://inria.hal.science/hal-01852169v2",
+"doi": "10.1007/978-3-030-01234-2_2"
+},
+{
+"id": "p880636d398",
+"titre": "Characterization of bijective digitized rotations on the hexagonal grid",
+"annee": 2018,
+"type": "journal",
+"lieu": "Journal of Mathematical Imaging and Vision",
+"url": "https://hal.science/hal-01540772v2",
+"doi": "10.1007/s10851-018-0785-1"
+},
+{
+"id": "p1d78d84186",
+"titre": "Complexity and Scientific Challenges",
+"annee": 2018,
+"type": "chapitre",
+"lieu": "Virtual Reality and Augmented Reality - Myths and Realities",
+"url": "https://hal.science/hal-01944915v1",
+"doi": "10.1002/9781119341031.ch3"
+},
+{
+"id": "pfbec897abb",
+"titre": "Crop-Rotation Structured Classification using Multi-Source Sentinel Images and LPIS for Crop Type Mapping",
+"annee": 2018,
+"type": "conférence",
+"lieu": "IGARSS 2018 - 2018 IEEE International Geoscience and Remote Sensing Symposium",
+"url": "https://hal.science/hal-02387132v1",
+"doi": "10.1109/igarss.2018.8518427"
+},
+{
+"id": "p4b074abba6",
+"titre": "Deep Ordinal Regression Network for Monocular Depth Estimation",
+"annee": 2018,
+"type": "conférence",
+"lieu": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+"url": "https://hal.science/hal-01741163v1"
+},
+{
+"id": "pc384f299c8",
+"titre": "Domain Transfer for 3D Pose Estimation from Color Images without Manual Annotations",
+"annee": 2018,
+"type": "conférence",
+"lieu": "ACCV",
+"url": "https://hal.science/hal-02509403v1"
+},
+{
+"id": "p9d537ce757",
+"titre": "Efficient 2D and 3D Facade Segmentation using Auto-Context",
+"annee": 2018,
+"type": "journal",
+"lieu": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+"url": "https://enpc.hal.science/hal-01743579v1",
+"doi": "10.1109/tpami.2017.2696526"
+},
+{
+"id": "pd17ce5591b",
+"titre": "Efficient Physics-Based Implementation for Realistic Hand-Object Interaction in Virtual Reality",
+"annee": 2018,
+"type": "conférence",
+"lieu": "IEEE Virtual Reality",
+"url": "https://hal.science/hal-02509364v1"
+},
+{
+"id": "p660b43a461",
+"titre": "Feature Mapping for Learning Fast and Accurate 3D Pose Inference from Synthetic Images",
+"annee": 2018,
+"type": "conférence",
+"lieu": "CVPR",
+"url": "https://hal.science/hal-02506574v1"
+},
+{
+"id": "p20dc602c91",
+"titre": "FusionMLS: Highly dynamic 3D reconstruction with consumer-grade RGB-D cameras",
+"annee": 2018,
+"type": "journal",
+"lieu": "Computational Visual Media",
+"url": "https://hal.science/hal-01912786v1",
+"doi": "10.1007/s41095-018-0121-0"
+},
+{
+"id": "pc0819575e9",
+"titre": "Large-scale Point Cloud Semantic Segmentation with Superpoint Graphs",
+"annee": 2018,
+"type": "conférence",
+"lieu": "CVPR 2018, IEEE Conference on Computer Vision and Pattern Recognition",
+"url": "https://hal.science/hal-02545223v1"
+},
+{
+"id": "p35182e4ad4",
+"titre": "Learning Latent Representations of 3D Human Pose with Deep Neural Networks",
+"annee": 2018,
+"type": "journal",
+"lieu": "International Journal of Computer Vision",
+"url": "https://hal.science/hal-02509358v1",
+"doi": "10.1007/s11263-018-1066-6"
+},
+{
+"id": "pa26bc1b6c9",
+"titre": "Learning to Find Good Correspondences",
+"annee": 2018,
+"type": "conférence",
+"lieu": "2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+"url": "https://hal.science/hal-02506363v1",
+"doi": "10.1109/cvpr.2018.00282"
+},
+{
+"id": "p96a1c6576e",
+"titre": "Long-term Temporal Convolutions for Action Recognition",
+"annee": 2018,
+"type": "journal",
+"lieu": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+"url": "https://inria.hal.science/hal-01241518v3",
+"doi": "10.1109/tpami.2017.2712608"
+},
+{
+"id": "pb4cd9f97dc",
+"titre": "Making Deep Heatmaps Robust to Partial Occlusions for 3D Object Pose Estimation",
+"annee": 2018,
+"type": "conférence",
+"lieu": "ECCV",
+"url": "https://hal.science/hal-02509400v1"
+},
+{
+"id": "pc0eabc018e",
+"titre": "MesoNet: a Compact Facial Video Forgery Detection Network",
+"annee": 2018,
+"type": "conférence",
+"lieu": "WIFS 2018",
+"url": "https://hal.science/hal-01867298v1",
+"doi": "10.1109/wifs.2018.8630761"
+},
+{
+"id": "pcc48071ed3",
+"titre": "MoE-SPNet: A mixture-of-experts scene parsing network",
+"annee": 2018,
+"type": "journal",
+"lieu": "Pattern Recognition",
+"url": "https://hal.science/hal-02086416v1",
+"doi": "10.1016/j.patcog.2018.07.020"
+},
+{
+"id": "pc77f05c715",
+"titre": "Perceptual Adversarial Networks for Image-to-Image Transformation",
+"annee": 2018,
+"type": "journal",
+"lieu": "IEEE Transactions on Image Processing",
+"url": "https://hal.science/hal-01802246v1",
+"doi": "10.1109/tip.2018.2836316"
+},
+{
+"id": "pdb41c9b4f5",
+"titre": "Quadric Conformal Geometric Algebra of ${\\mathbb {R}}^{9,6}$",
+"annee": 2018,
+"type": "journal",
+"lieu": "Advances in Applied Clifford Algebras",
+"url": "https://hal.science/hal-01767230v1",
+"doi": "10.1007/s00006-018-0851-1"
+},
+{
+"id": "p7a5fa92f41",
+"titre": "Robust Angular Local Descriptor Learning",
+"annee": 2018,
+"type": "conférence",
+"lieu": "Asian Conference of Computer Vision 2018",
+"url": "https://hal.science/hal-03133246v1",
+"doi": "10.1007/978-3-030-20873-8_27"
+},
+{
+"id": "pf7a1fb4878",
+"titre": "Semi-independent Stereo Visual Odometry for Different Field of View Cameras",
+"annee": 2018,
+"type": "conférence",
+"lieu": "3D Reconstruction in the Wild (3DRW2018)",
+"url": "https://hal.science/hal-01912878v1"
+},
+{
+"id": "pcfeeca710a",
+"titre": "Superimposing Thermal-Infrared Data on 3D Structure Reconstructed by RGB Visual Odometry",
+"annee": 2018,
+"type": "journal",
+"lieu": "IEICE Transactions on Information and Systems",
+"url": "https://hal.science/hal-01873577v1",
+"doi": "10.1587/transinf.2017mvp0023"
+},
+{
+"id": "p53ef6838f4",
+"titre": "Surfaces Quadriques et Algèbres Géométriques",
+"annee": 2018,
+"type": "conférence",
+"lieu": "Journees Francaises d'Informatique Graphique",
+"url": "https://hal.science/hal-02262157v1"
+},
+{
+"id": "p2189861f66",
+"titre": "The burgeoning computer-art symbiosis",
+"annee": 2018,
+"type": "journal",
+"lieu": "XRDS Crossroads The ACM Magazine for Students",
+"url": "https://doi.org/10.1145/3186655",
+"doi": "10.1145/3186655"
+},
+{
+"id": "p7d8d11e14c",
+"titre": "Theory and Practice of Image B-Spline Interpolation",
+"annee": 2018,
+"type": "journal",
+"lieu": "Image Processing On Line",
+"url": "https://enpc.hal.science/hal-01846912v1",
+"doi": "10.5201/ipol.2018.221"
+},
+{
+"id": "p0455102906",
+"titre": "Towards VE that are More Closely Related to the Real World",
+"annee": 2018,
+"type": "chapitre",
+"lieu": "Virtual Reality and Augmented Reality - Myths and Realities",
+"url": "https://inria.hal.science/hal-01735022v1",
+"doi": "10.1002/9781119341031.ch4"
+},
+{
+"id": "p7c2c62a308",
+"titre": "Virtual Training for a Real Application: Accurate Object-Robot Relative Localization without Calibration",
+"annee": 2018,
+"type": "journal",
+"lieu": "International Journal of Computer Vision",
+"url": "https://enpc.hal.science/hal-01815826v2",
+"doi": "10.1007/s11263-018-1102-6"
+},
+{
+"id": "p3f12ba3a68",
+"titre": "Visibility based WSPD for Global Illumination",
+"annee": 2018,
+"type": "conférence",
+"lieu": "13th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications (VISIGRAPP 2018)",
+"url": "https://hal.science/hal-01698656v1"
+},
+{
+"id": "p9c501b07fb",
+"titre": "A Critical Review of the Trifocal Tensor Estimation",
+"annee": 2017,
+"type": "conférence",
+"lieu": "PSIVT'17, The Eighth Pacific-Rim Symposium on Image and Video Technology",
+"url": "https://enpc.hal.science/hal-01700686v1",
+"doi": "10.1007/978-3-319-75786-5_28"
+},
+{
+"id": "pd667e2c8c6",
+"titre": "A Geometric Algebra Implementation using Binary Tree",
+"annee": 2017,
+"type": "journal",
+"lieu": "Advances in Applied Clifford Algebras",
+"url": "https://hal.science/hal-01510078v2",
+"doi": "10.1007/s00006-017-0770-6"
+},
+{
+"id": "p09fe1b13b1",
+"titre": "A Precision Analysis of Camera Distortion Models",
+"annee": 2017,
+"type": "journal",
+"lieu": "IEEE Transactions on Image Processing",
+"url": "https://enpc.hal.science/hal-01556898v1",
+"doi": "10.1109/tip.2017.2686001"
+},
+{
+"id": "pf6808b300b",
+"titre": "A hybrid approach for computing products of high-dimensional geometric algebras",
+"annee": 2017,
+"type": "conférence",
+"lieu": "CGI / ENGAGE 2017",
+"url": "https://hal.science/hal-01552462v1",
+"doi": "10.1145/3095140.3097284"
+},
+{
+"id": "p30c98fae5b",
+"titre": "A structured regularization framework for spatially smoothing semantic labelings of 3D point clouds",
+"annee": 2017,
+"type": "journal",
+"lieu": "ISPRS Journal of Photogrammetry and Remote Sensing",
+"url": "https://hal.science/hal-01505245v2",
+"doi": "10.1016/j.isprsjprs.2017.08.010"
+},
+{
+"id": "pd53f92fc5f",
+"titre": "BB8: A Scalable, Accurate, Robust to Partial Occlusion Method for Predicting the 3D Poses of Challenging Objects without Using Depth",
+"annee": 2017,
+"type": "conférence",
+"lieu": "IEEE International Conference on Computer Vision (ICCV)",
+"url": "https://hal.science/hal-02506354v1",
+"doi": "10.1109/iccv.2017.413"
+},
+{
+"id": "p92d8f06040",
+"titre": "Bijective digitized rigid motions on subsets of the plane",
+"annee": 2017,
+"type": "journal",
+"lieu": "Journal of Mathematical Imaging and Vision",
+"url": "https://hal.science/hal-01497610v1",
+"doi": "10.1007/s10851-017-0706-8"
+},
+{
+"id": "p10f8a9e56c",
+"titre": "Comparison of belief propagation and graph-cut approaches for contextual classification of 3D lidar point cloud data",
+"annee": 2017,
+"type": "conférence",
+"lieu": "2017 IEEE International Geoscience and Remote Sensing Symposium (IGARSS)",
+"url": "https://hal.science/hal-01500777v1"
+},
+{
+"id": "pfa384a0169",
+"titre": "Consistency-constrained Non-negative Coding for Tracking",
+"annee": 2017,
+"type": "journal",
+"lieu": "IEEE Transactions on Circuits and Systems for Video Technology",
+"url": "https://hal.science/hal-01624657v1",
+"doi": "10.1109/tcsvt.2015.2501740"
+},
+{
+"id": "p179833ec27",
+"titre": "Cut Pursuit: fast algorithms to learn piecewise constant functions on general weighted graphs",
+"annee": 2017,
+"type": "journal",
+"lieu": "SIAM Journal on Imaging Sciences",
+"url": "https://hal.science/hal-01306779v4"
+},
+{
+"id": "pcb1bd53a1f",
+"titre": "Deep learning for urban remote sensing",
+"annee": 2017,
+"type": "conférence",
+"lieu": "Joint Urban Remote Sensing Event (JURSE)",
+"url": "https://hal.science/hal-01672854v1",
+"doi": "10.1109/jurse.2017.7924536"
+},
+{
+"id": "p7a6a8d8a2a",
+"titre": "DeepPrior++: Improving Fast and Accurate 3D Hand Pose Estimation",
+"annee": 2017,
+"type": "conférence",
+"lieu": "ICCV Workshop - HANDS 2017",
+"url": "https://hal.science/hal-02506350v1"
+},
+{
+"id": "pc4145d3bc2",
+"titre": "Distinguishing Computer Graphics from Natural Images Using Convolution Neural Networks",
+"annee": 2017,
+"type": "conférence",
+"lieu": "IEEE Workshop on Information Forensics and Security, WIFS 2017",
+"url": "https://hal.science/hal-01664590v1"
+},
+{
+"id": "p2c2ff0860d",
+"titre": "Honeycomb geometry: Rigid motions on the hexagonal grid",
+"annee": 2017,
+"type": "conférence",
+"lieu": "Discrete Geometry for Computer Imagery (DGCI)",
+"url": "https://hal.science/hal-01497608v2",
+"doi": "10.1007/978-3-319-66272-5_4"
+},
+{
+"id": "pe23ccd1128",
+"titre": "Learning Lightprobes for Mixed Reality Illumination",
+"annee": 2017,
+"type": "conférence",
+"lieu": "ISMAR",
+"url": "https://hal.science/hal-02506341v1",
+"doi": "10.1109/ismar.2017.25"
+},
+{
+"id": "p06db54eef1",
+"titre": "Learning from Synthetic Humans",
+"annee": 2017,
+"type": "conférence",
+"lieu": "2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2017)",
+"url": "https://inria.hal.science/hal-01505711v1",
+"doi": "10.1109/cvpr.2017.492"
+},
+{
+"id": "pc08968a240",
+"titre": "Line-based Robust SfM with Little Image Overlap",
+"annee": 2017,
+"type": "conférence",
+"lieu": "3DV 2017 International Conference on 3D Vision 2017",
+"url": "https://enpc.hal.science/hal-01618686v1",
+"doi": "10.1109/3dv.2017.00031"
+},
+{
+"id": "p6882690afa",
+"titre": "Mean Landslide geometries inferred from a global database of earthquake - and non earthquake - triggered landslides",
+"annee": 2017,
+"type": "journal",
+"lieu": "Italian journal of engineering geology and environment",
+"url": "https://doi.org/10.4408/ijege.2017-02.o-05",
+"doi": "10.4408/ijege.2017-02.o-05"
+},
+{
+"id": "pf4ef0d3975",
+"titre": "Occlusion Detection in Dense Stereo Estimation with Convex Optimization",
+"annee": 2017,
+"type": "conférence",
+"lieu": "ICIP'17, IEEE International Conference on Image Processing",
+"url": "https://enpc.hal.science/hal-01700678v1",
+"doi": "10.1109/icip.2017.8296741"
+},
+{
+"id": "p6eae2ca84b",
+"titre": "Patchwork Stereo: Scalable, Structure-Aware 3D Reconstruction in Man-Made Environments",
+"annee": 2017,
+"type": "conférence",
+"lieu": "2017 IEEE Winter Conference on Applications of Computer Vision (WACV)",
+"url": "https://enpc.hal.science/hal-01743262v1",
+"doi": "10.1109/wacv.2017.39"
+},
+{
+"id": "pa81314a0d2",
+"titre": "Pré-segmentation pour la classification faiblement supervisée de scènes urbaines à partir de nuages de points 3D LIDAR",
+"annee": 2017,
+"type": "conférence",
+"lieu": "ORASIS 2017",
+"url": "https://hal.science/hal-01866620v1"
+},
+{
+"id": "p5f92210801",
+"titre": "Registration of RGB and thermal point clouds generated by structure from motion",
+"annee": 2017,
+"type": "conférence",
+"lieu": "Multi-Sensor Fusion for Dynamic Scene Understanding",
+"url": "https://hal.science/hal-01625092v1",
+"doi": "10.1109/iccvw.2017.57"
+},
+{
+"id": "p0e47b6faa2",
+"titre": "Simultaneous deconvolution and denoising using a second order variational approach applied to image super resolution",
+"annee": 2017,
+"type": "journal",
+"lieu": "Computer Vision and Image Understanding",
+"url": "https://enpc.hal.science/hal-01616743v1",
+"doi": "10.1016/j.cviu.2017.08.007"
+},
+{
+"id": "p79d993024f",
+"titre": "Stereo Ambiguity Index for Semi-Global Matching",
+"annee": 2017,
+"type": "conférence",
+"lieu": "ICIP'17, IEEE International Conference on Image Processing",
+"url": "https://hal.science/hal-01592680v1"
+},
+{
+"id": "p81799f927e",
+"titre": "Tag Disentangled Generative Adversarial Networks for Object Image Re-rendering",
+"annee": 2017,
+"type": "conférence",
+"lieu": "International Joint Conference on Artificial Intelligence (IJCAI)",
+"url": "https://hal.science/hal-01741207v1",
+"doi": "10.24963/ijcai.2017/404"
+},
+{
+"id": "p8f020a1083",
+"titre": "The Image Curvature Microscope: Accurate Curvature Computation at Subpixel Resolution",
+"annee": 2017,
+"type": "journal",
+"lieu": "Image Processing On Line",
+"url": "https://enpc.hal.science/hal-01556888v2",
+"doi": "10.5201/ipol.2017.212"
+},
+{
+"id": "pf573c07445",
+"titre": "Tree-wise Discriminative Subtree Selection for Texture Image Labeling",
+"annee": 2017,
+"type": "journal",
+"lieu": "IEEE Access",
+"url": "https://hal.science/hal-01570517v1",
+"doi": "10.1109/access.2017.2725319"
+},
+{
+"id": "p3569b00ca6",
+"titre": "Weakly supervised segmentation-aided classification of urban scenes from 3D LiDAR point clouds",
+"annee": 2017,
+"type": "conférence",
+"lieu": "ISPRS Workshop 2017",
+"url": "https://hal.science/hal-01497548v3"
+},
+{
+"id": "p3f3b5d1d3f",
+"titre": "Automatic 3D Car Model Alignment for Mixed Image-Based Rendering",
+"annee": 2016,
+"type": "conférence",
+"lieu": "2016 International Conference on 3D Vision (3DV)",
+"url": "https://inria.hal.science/hal-01368355v1"
+},
+{
+"id": "p68ad4c2cfa",
+"titre": "Automatic Image Splicing Detection Based on Noise Density Analysis in Raw Images",
+"annee": 2016,
+"type": "conférence",
+"lieu": "ACIVS-16",
+"url": "https://hal.science/hal-01510074v1",
+"doi": "10.1007/978-3-319-48680-2_12"
+},
+{
+"id": "pb54fbc6969",
+"titre": "Bijective rigid motions of the 2D Cartesian grid",
+"annee": 2016,
+"type": "conférence",
+"lieu": "Discrete Geometry for Computer Imagery (DGCI)",
+"url": "https://hal.science/hal-01275598v2",
+"doi": "10.1007/978-3-319-32360-2_28"
+},
+{
+"id": "p464b35f303",
+"titre": "Bijectivity certification of 3D digitized rotations",
+"annee": 2016,
+"type": "conférence",
+"lieu": "Computational Topology in Image Context (CTIC)",
+"url": "https://hal.science/hal-01315226v2",
+"doi": "10.1007/978-3-319-39441-1_4"
+},
+{
+"id": "pcc2fc6644b",
+"titre": "Countering Noise-based Splicing Detection Using Noise Density Transfer",
+"annee": 2016,
+"type": "journal",
+"lieu": "Journal of Digital Forensics, Security and Law",
+"url": "https://hal.science/hal-01510073v1",
+"doi": "10.15394/jdfsl.2016.1382"
+},
+{
+"id": "p279c8d2c6c",
+"titre": "Crafting a multi-task CNN for viewpoint estimation",
+"annee": 2016,
+"type": "conférence",
+"lieu": "British Machine Vision Conference (BMVC 2016)",
+"url": "https://enpc.hal.science/hal-01743267v1",
+"doi": "10.5244/c.30.91"
+},
+{
+"id": "pdfc3cac080",
+"titre": "Cut Pursuit: fast algorithms to learn piecewise constant functions",
+"annee": 2016,
+"type": "conférence",
+"lieu": "19th International Conference on Artificial Intelligence and Statistics (AISTATS 2016)",
+"url": "https://hal.science/hal-01306786v1"
+},
+{
+"id": "pde3810c340",
+"titre": "Deep Learning for Robust Normal Estimation in Unstructured Point Clouds",
+"annee": 2016,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-01631736v1",
+"doi": "10.1111/cgf.12983"
+},
+{
+"id": "p98d913e404",
+"titre": "Deep exemplar 2d-3d detection by adapting from real to rendered views",
+"annee": 2016,
+"type": "conférence",
+"lieu": "2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+"url": "https://hal.science/hal-01800639v1",
+"doi": "10.1109/cvpr.2016.648"
+},
+{
+"id": "pee9cc4a594",
+"titre": "Discriminative Subtree Selection for NBI Endoscopic Image Labeling",
+"annee": 2016,
+"type": "conférence",
+"lieu": "ACCV2016 workshop on Mathematical and Computational Methods in Biomedical Imaging and Image Analysis",
+"url": "https://hal.science/hal-01572264v1",
+"doi": "10.1007/978-3-319-54427-4_44"
+},
+{
+"id": "p7a1dfc3aaa",
+"titre": "Fundamental Matrix of a Stereo Pair, with A Contrario Elimination of Outliers",
+"annee": 2016,
+"type": "journal",
+"lieu": "Image Processing On Line",
+"url": "https://hal.science/hal-01386806v1",
+"doi": "10.5201/ipol.2016.147"
+},
+{
+"id": "pb3057bd6dd",
+"titre": "Higher-order Graph Principles towards Non-rigid Surface Registration",
+"annee": 2016,
+"type": "journal",
+"lieu": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+"url": "https://hal.science/hal-01741248v1",
+"doi": "10.1109/tpami.2016.2528240"
+},
+{
+"id": "p63ba0f3717",
+"titre": "Hollywood in Homes: Crowdsourcing Data Collection for Activity Understanding",
+"annee": 2016,
+"type": "conférence",
+"lieu": "Computer Vision – ECCV 2016",
+"url": "https://inria.hal.science/hal-01418216v1",
+"doi": "10.1007/978-3-319-46448-0_31"
+},
+{
+"id": "p049f9a8d4f",
+"titre": "Implantation des opérateurs de l'algèbre géométrique par arbres binaires récursifs",
+"annee": 2016,
+"type": "conférence",
+"lieu": "Journées du Groupe de Travail en Modélisation Géométrique 2016,",
+"url": "https://hal.science/hal-01926008v1"
+},
+{
+"id": "pfe5d4dad40",
+"titre": "Inference and Learning of Graphical Models: Theory and Applications in Computer Vision and Image Analysis",
+"annee": 2016,
+"type": "journal",
+"lieu": "Computer Vision and Image Understanding",
+"url": "https://enpc.hal.science/hal-01832510v1",
+"doi": "10.1016/j.cviu.2016.01.001"
+},
+{
+"id": "pa0a937b0c7",
+"titre": "Multiscale line segment detector for robust and accurate SfM",
+"annee": 2016,
+"type": "conférence",
+"lieu": "International Conference on Pattern Recognition",
+"url": "https://enpc.hal.science/hal-01416342v1",
+"doi": "10.1109/icpr.2016.7899930"
+},
+{
+"id": "pb3144776ee",
+"titre": "Occlusion Boundary Detection via Deep Exploration of Context",
+"annee": 2016,
+"type": "conférence",
+"lieu": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+"url": "https://hal.science/hal-01578439v1",
+"doi": "10.1109/cvpr.2016.33"
+},
+{
+"id": "p76458192c0",
+"titre": "OpenMVG: Open Multiple View Geometry",
+"annee": 2016,
+"type": "conférence",
+"lieu": "1st Workshop on Reproducible Research in Pattern Recognition",
+"url": "https://enpc.hal.science/hal-01497080v1"
+},
+{
+"id": "p1b612e5015",
+"titre": "Preface of the proceedings of the First International Workshop on Reproducible Research in Pattern Recognition, RRPR 2016",
+"annee": 2016,
+"type": "conférence",
+"lieu": "First International Workshop on Reproducible Research in Pattern Recognition, RRPR 2016",
+"url": "https://enpc.hal.science/hal-01616745v1"
+},
+{
+"id": "p4263177898",
+"titre": "Quadric Arrangement in Classifying Rigid Motions of a 3D Digital Image",
+"annee": 2016,
+"type": "conférence",
+"lieu": "The 18th International Workshop on Computer Algebra in Scientific Computing",
+"url": "https://hal.science/hal-01334257v2",
+"doi": "10.1007/978-3-319-45641-6_27"
+},
+{
+"id": "pfde2a5c7fd",
+"titre": "Reconstruction du relief par images des plans épipolaires à partir d'acquisitions aériennes denses",
+"annee": 2016,
+"type": "conférence",
+"lieu": "SFPT 2016 Colloque « Photogrammétrie Numérique et Perception 3D : les Nouvelles Conquêtes »",
+"url": "https://hal.science/hal-01411941v1"
+},
+{
+"id": "pb60ae6f7c2",
+"titre": "Relief Computation from Images of a Fourier Transform Spectrometer for Interferogram Correction",
+"annee": 2016,
+"type": "conférence",
+"lieu": "Fourier Transform Spectroscopy (FTS) Meeting",
+"url": "https://hal.science/hal-01408927v1",
+"doi": "10.1364/fts.2016.fm3e.6"
+},
+{
+"id": "pe069ec72eb",
+"titre": "Robust and Accurate Line- and/or Point-Based Pose Estimation without Manhattan Assumptions",
+"annee": 2016,
+"type": "conférence",
+"lieu": "14th European Conference on Computer Vision (ECCV 2016)",
+"url": "https://enpc.hal.science/hal-01397813v1",
+"doi": "10.1007/978-3-319-46478-7_49"
+},
+{
+"id": "p280cc14dc2",
+"titre": "The IPOL Demo System: A Scalable Architecture of Microservices for Reproducible Research",
+"annee": 2016,
+"type": "conférence",
+"lieu": "1st Workshop on Reproducible Research in Pattern Recognition",
+"url": "https://enpc.hal.science/hal-01571616v1",
+"doi": "10.1007/978-3-319-56414-2_1"
+},
+{
+"id": "p1fd982397a",
+"titre": "The Multiscale Line Segment Detector",
+"annee": 2016,
+"type": "conférence",
+"lieu": "1st Workshop on Reproducible Research in Pattern Recognition",
+"url": "https://enpc.hal.science/hal-01571615v1",
+"doi": "10.1007/978-3-319-56414-2_12"
+},
+{
+"id": "p96b21a13d5",
+"titre": "A MRF Shape Prior for Facade Parsing with Occlusions",
+"annee": 2015,
+"type": "conférence",
+"lieu": "Conference on Computer Vision and Pattern Recognition (CVPR 2015)",
+"url": "https://enpc.hal.science/hal-01232598v1",
+"doi": "10.1109/cvpr.2015.7298899"
+},
+{
+"id": "p69e98d2fe2",
+"titre": "Automated Image Splicing Detection from Noise Estimation in Raw Images",
+"annee": 2015,
+"type": "conférence",
+"lieu": "6th International Conference on Imaging for Crime Prevention and Detection",
+"url": "https://hal.science/hal-01510075v1",
+"doi": "10.1049/ic.2015.0111"
+},
+{
+"id": "p7f33559562",
+"titre": "Bilaterally Weighted Patches for Disparity Map Computation",
+"annee": 2015,
+"type": "journal",
+"lieu": "Image Processing On Line",
+"url": "https://enpc.hal.science/hal-01131412v1",
+"doi": "10.5201/ipol.2015.123"
+},
+{
+"id": "p36cf805a2b",
+"titre": "Global Illumination Using Well-Separated Pair Decomposition",
+"annee": 2015,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-01188993v2",
+"doi": "10.1111/cgf.12610"
+},
+{
+"id": "pf296e42db4",
+"titre": "IPOL: a new journal for fully reproducible research; analysis of four years development",
+"annee": 2015,
+"type": "conférence",
+"lieu": "Workshop NTMS 2015 on Reproducibility in Computation Based Research",
+"url": "https://enpc.hal.science/hal-01181282v1"
+},
+{
+"id": "pd09768fdfc",
+"titre": "IlluminationCut",
+"annee": 2015,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-01626299v1",
+"doi": "10.1111/cgf.12584"
+},
+{
+"id": "p5ab6c2f0c8",
+"titre": "Image Noise and Digital Image Forensics",
+"annee": 2015,
+"type": "conférence",
+"lieu": "IWDW 2015",
+"url": "https://hal.science/hal-01510076v1",
+"doi": "10.1007/978-3-319-31960-5_1"
+},
+{
+"id": "p5f5878e974",
+"titre": "Learning Grammars for Architecture-Specific Facade Parsing",
+"annee": 2015,
+"type": "journal",
+"lieu": "International Journal of Computer Vision",
+"url": "https://inria.hal.science/hal-01069379v2",
+"doi": "10.1007/s11263-016-0887-4"
+},
+{
+"id": "pc0fcd7858a",
+"titre": "MUlti-Store Tracker (MUSTer): a Cognitive Psychology Inspired Approach to Object Tracking",
+"annee": 2015,
+"type": "conférence",
+"lieu": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+"url": "https://hal.science/hal-01155588v1",
+"doi": "10.1109/cvpr.2015.7298675"
+},
+{
+"id": "pf16107ddd4",
+"titre": "Portal Extraction Based on an Opening Labeling for Ray Tracing",
+"annee": 2015,
+"type": "conférence",
+"lieu": "12th International Symposium, ISMM 2015",
+"url": "https://hal.science/hal-01159795v1",
+"doi": "10.1007/978-3-319-18720-4_3"
+},
+{
+"id": "p76082d2b92",
+"titre": "Preconditioning of a Generalized Forward-Backward Splitting and Application to Optimization on Graphs",
+"annee": 2015,
+"type": "journal",
+"lieu": "SIAM Journal on Imaging Sciences",
+"url": "https://hal.science/hal-01144566v3",
+"doi": "10.1137/15m1018253"
+},
+{
+"id": "pbd5e22e474",
+"titre": "Scene-Domain Active Part Models for Object Representation",
+"annee": 2015,
+"type": "conférence",
+"lieu": "IEEE International Conference on Computer Vision (ICCV)",
+"url": "https://hal.science/hal-01578411v1",
+"doi": "10.1109/iccv.2015.287"
+},
+{
+"id": "pe3b3af4f35",
+"titre": "Skeleton based Vertex Connection Resampling for Bidirectional Path Tracing",
+"annee": 2015,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.12768",
+"doi": "10.1111/cgf.12768"
+},
+{
+"id": "p4f261d8ad6",
+"titre": "The Visual Object Tracking VOT2015 Challenge Results",
+"annee": 2015,
+"type": "conférence",
+"lieu": "Visual Object Tracking Workshop 2015 at ICCV2015",
+"url": "https://hal.science/hal-01336773v1",
+"doi": "10.1109/iccvw.2015.79"
+},
+{
+"id": "p226f71f34e",
+"titre": "Understanding deep features with computer-generated imagery",
+"annee": 2015,
+"type": "conférence",
+"lieu": "ICCV",
+"url": "https://enpc.hal.science/hal-01240849v1"
+},
+{
+"id": "p85eb400c7a",
+"titre": "Visual geo-localization of non-photographic depictions via 2D-3D alignment",
+"annee": 2015,
+"type": "chapitre",
+"lieu": "Visual Analysis and Geolocalization of Large-Scale Imagery",
+"url": "https://hal.science/hal-01119203v1"
+},
+{
+"id": "p012df5cf64",
+"titre": "A Super-resolution Framework for High-Accuracy Multiview Reconstruction",
+"annee": 2014,
+"type": "journal",
+"lieu": "International Journal of Computer Vision",
+"url": "https://inria.hal.science/hal-01057502v1",
+"doi": "10.1007/s11263-013-0654-8"
+},
+{
+"id": "p40cd691674",
+"titre": "Anisotropic Laplace-Beltrami Operators for Shape Analysis",
+"annee": 2014,
+"type": "conférence",
+"lieu": "NORDIA'14 - Sixth Workshop on Non-Rigid Shape Analysis and Deformable Image Alignment",
+"url": "https://inria.hal.science/hal-01057244v1"
+},
+{
+"id": "pf0d0417073",
+"titre": "Beyond Procedural Facade Parsing: Bidirectional Alignment via Linear Programming",
+"annee": 2014,
+"type": "conférence",
+"lieu": "2014 Asian Conference on Computer Vision (ACCV)",
+"url": "https://hal.science/hal-01095342v1",
+"doi": "10.1007/978-3-319-16817-3_6"
+},
+{
+"id": "p439ccbf5b7",
+"titre": "Camera matrix calibration using circular control points and separate correction of the geometric distortion field",
+"annee": 2014,
+"type": "conférence",
+"lieu": "Computer and Robot Vision",
+"url": "https://enpc.hal.science/hal-00990239v1"
+},
+{
+"id": "p0ca677c3ec",
+"titre": "Continuously indexed Potts models on unoriented graphs",
+"annee": 2014,
+"type": "conférence",
+"lieu": "UAI 20114 - 30th Conference on Uncertainty in Artificial Intelligence",
+"url": "https://enpc.hal.science/hal-01060957v1"
+},
+{
+"id": "pa5fec4af34",
+"titre": "Fast Local Laplacian Filters: Theory and Applications",
+"annee": 2014,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-01063419v1",
+"doi": "10.1145/2629645"
+},
+{
+"id": "p231885f747",
+"titre": "Image parsing with graph grammars and Markov Random Fields applied to facade analysis",
+"annee": 2014,
+"type": "conférence",
+"lieu": "2014 IEEE Winter Conference on Applications of Computer Vision (WACV)",
+"url": "https://hal.science/hal-01095284v1",
+"doi": "10.1109/wacv.2014.6836030"
+},
+{
+"id": "p2d69d186fa",
+"titre": "Improving the matching precision of SIFT",
+"annee": 2014,
+"type": "conférence",
+"lieu": "International Conference on Image Processing",
+"url": "https://enpc.hal.science/hal-01075813v1",
+"doi": "10.1109/icip.2014.7026164"
+},
+{
+"id": "p2f53eac08c",
+"titre": "Kolmogorov and Zabih's Graph Cuts Stereo Matching Algorithm",
+"annee": 2014,
+"type": "journal",
+"lieu": "Image Processing On Line",
+"url": "https://enpc.hal.science/hal-01074878v1",
+"doi": "10.5201/ipol.2014.97"
+},
+{
+"id": "p55670c5f6d",
+"titre": "Match Selection and Refinement for Highly Accurate Two-View Structure from Motion",
+"annee": 2014,
+"type": "conférence",
+"lieu": "ECCV 2014 ( European Conference on Computer Vision 2014)",
+"url": "https://enpc.hal.science/hal-01153274v1",
+"doi": "10.1007/978-3-319-10605-2_53"
+},
+{
+"id": "p256c0e1de6",
+"titre": "Painting-to-3D Model Alignment Via Discriminative Visual Elements",
+"annee": 2014,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-00863615v3",
+"doi": "10.1145/2591009"
+},
+{
+"id": "p3a67ec0f83",
+"titre": "Piecewise-Planar 3D Reconstruction with Edge and Corner Regularization",
+"annee": 2014,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://enpc.hal.science/hal-01099280v1",
+"doi": "10.1111/cgf.12431"
+},
+{
+"id": "pb897666ae1",
+"titre": "Real-Time Global Illumination for Games using Topological Information",
+"annee": 2014,
+"type": "conférence",
+"lieu": "7th Annual International Conference on Computer Games Multimedia & Allied Technology",
+"url": "https://hal.science/hal-01159801v1",
+"doi": "10.5176/2251-1679_cgat14.17"
+},
+{
+"id": "p129ca9c4ba",
+"titre": "Real-Time Global Illumination using Topological Information",
+"annee": 2014,
+"type": "journal",
+"lieu": "GSTF Journal on Computing",
+"url": "https://hal.science/hal-01159799v1"
+},
+{
+"id": "p2e20481f7f",
+"titre": "Reflexive Symmetry Detection in Single Image",
+"annee": 2014,
+"type": "conférence",
+"lieu": "Curves and Surfaces",
+"url": "https://enpc.hal.science/hal-01179500v2",
+"doi": "10.1007/978-3-319-22804-4_31"
+},
+{
+"id": "p62c99d24a7",
+"titre": "Seeing 3D chairs: exemplar part-based 2D-3D alignment using a large dataset of CAD models",
+"annee": 2014,
+"type": "conférence",
+"lieu": "CVPR 2014 - Compter Vision and Pattern Recognition",
+"url": "https://inria.hal.science/hal-01057240v1"
+},
+{
+"id": "p049514aebc",
+"titre": "Statistical Criteria for Shape Fusion and Selection",
+"annee": 2014,
+"type": "conférence",
+"lieu": "International Conference on Pattern Recognition",
+"url": "https://hal.science/hal-01163700v1",
+"doi": "10.1109/icpr.2014.171"
+},
+{
+"id": "pb93d47de2f",
+"titre": "Stereo Disparity through Cost Aggregation with Guided Filter",
+"annee": 2014,
+"type": "journal",
+"lieu": "Image Processing On Line",
+"url": "https://enpc.hal.science/hal-01086731v1",
+"doi": "10.5201/ipol.2014.78"
+},
+{
+"id": "pe7e60c051e",
+"titre": "Topological alterations of 3D digital images under rigid transformations",
+"annee": 2014,
+"type": "conférence",
+"lieu": "Reims Image",
+"url": "https://hal.science/hal-01333586v1"
+},
+{
+"id": "p1f5506bff4",
+"titre": "Tree-Based Morse Regions: A Topological Approach to Local Feature Detection",
+"annee": 2014,
+"type": "journal",
+"lieu": "IEEE Transactions on Image Processing",
+"url": "https://hal.science/hal-01162446v1",
+"doi": "10.1109/tip.2014.2364127"
+},
+{
+"id": "p46f1b67953",
+"titre": "Where was this picture painted ? - Localizing paintings by alignment to 3D models",
+"annee": 2014,
+"type": "conférence",
+"lieu": "Reconnaissance de Formes et Intelligence Artificielle (RFIA) 2014",
+"url": "https://hal.science/hal-00988830v1"
+},
+{
+"id": "p38d3c5bc49",
+"titre": "A 3D curvilinear skeletonization algorithm with application to path tracing",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Discrete Geometry for Computer Imagery",
+"url": "https://hal.science/hal-00796545v1"
+},
+{
+"id": "p36d3863e9b",
+"titre": "A Generic Deformation Model for Dense Non-Rigid Surface Registration: a Higher-Order MRF-based Approach",
+"annee": 2013,
+"type": "conférence",
+"lieu": "ICCV 2013 - IEEE International Conference on Computer Vision",
+"url": "https://hal.science/hal-00856323v1",
+"doi": "10.1109/iccv.2013.417"
+},
+{
+"id": "p95210ab556",
+"titre": "A New A Contrario Approach for the Robust Determination of the Fundamental Matrix",
+"annee": 2013,
+"type": "conférence",
+"lieu": "PSIVT",
+"url": "https://enpc.hal.science/hal-00867550v1"
+},
+{
+"id": "p93b8a913b2",
+"titre": "Autonomous Lighting Agents in Photon Mapping",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Lecture Notes in Computer Science",
+"url": "https://hal.science/hal-00681777v1",
+"doi": "10.1007/978-3-642-10520-3_88"
+},
+{
+"id": "p9985e778b5",
+"titre": "Calibration et Rectification",
+"annee": 2013,
+"type": "chapitre",
+"lieu": "Vidéo 3D",
+"url": "https://hal.science/hal-00904920v1"
+},
+{
+"id": "p7342611c9b",
+"titre": "Camera Calibration: Geometric and Colorimetric Correction",
+"annee": 2013,
+"type": "chapitre",
+"lieu": "https://doi.org/10.1002/9781118761915.ch5",
+"url": "https://hal.science/hal-01762377v1",
+"doi": "10.1002/9781118761915.ch5"
+},
+{
+"id": "p76005685d7",
+"titre": "Camera array image rectification and calibration for stereoscopic and autostereoscopic displays",
+"annee": 2013,
+"type": "journal",
+"lieu": "Annals of Telecommunications - annales des télécommunications",
+"url": "https://hal.science/hal-00908586v1"
+},
+{
+"id": "p182f16f492",
+"titre": "Estimation robuste de modèle a contrario, impact sur la précision en structure from motion",
+"annee": 2013,
+"type": "conférence",
+"lieu": "ISS France",
+"url": "https://enpc.hal.science/hal-00837497v1"
+},
+{
+"id": "p4484954f15",
+"titre": "Global Fusion of Relative Motions for Robust, Accurate and Scalable Structure from Motion",
+"annee": 2013,
+"type": "conférence",
+"lieu": "ICCV",
+"url": "https://enpc.hal.science/hal-00873504v1"
+},
+{
+"id": "pa2d48d8668",
+"titre": "Global Multiple-View Color Consistency",
+"annee": 2013,
+"type": "conférence",
+"lieu": "CVMP",
+"url": "https://enpc.hal.science/hal-00873517v1"
+},
+{
+"id": "p2eaf40df64",
+"titre": "La bibliothèque openMVG : open source Multiple View Geometry",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Orasis, Congrès des jeunes chercheurs en vision par ordinateur",
+"url": "https://hal.science/hal-00829332v1"
+},
+{
+"id": "p9a3d953d86",
+"titre": "Least Square for Grassmann-Cayley Agelbra in Homogeneous Coordinates",
+"annee": 2013,
+"type": "conférence",
+"lieu": "GCCV 2013",
+"url": "https://hal.science/hal-01510077v1",
+"doi": "10.1007/978-3-642-53926-8_13"
+},
+{
+"id": "p4bfcadc96b",
+"titre": "Markov Random Field Modeling, Inference & Learning in Computer Vision & Image Understanding: A Survey",
+"annee": 2013,
+"type": "journal",
+"lieu": "Computer Vision and Image Understanding",
+"url": "https://hal.science/hal-00858390v2",
+"doi": "10.1016/j.cviu.2013.07.004"
+},
+{
+"id": "p965c2c9f75",
+"titre": "Modeling Shapes with Higher-Order Graphs: Methodology and Applications",
+"annee": 2013,
+"type": "chapitre",
+"lieu": "Shape Perception in Human and Computer Vision: An Interdisciplinary Perspective",
+"url": "https://hal.science/hal-00858417v1"
+},
+{
+"id": "p2278da4777",
+"titre": "Precise correction of lateral chromatic aberration in images",
+"annee": 2013,
+"type": "conférence",
+"lieu": "PSIVT",
+"url": "https://enpc.hal.science/hal-00858703v1"
+},
+{
+"id": "pe05b0ee21e",
+"titre": "Program Specialization",
+"annee": 2013,
+"type": "ouvrage",
+"lieu": "",
+"url": "https://enpc.hal.science/hal-00828367v1",
+"doi": "10.1002/9781118576984"
+},
+{
+"id": "p53fe63d90c",
+"titre": "Semantizing Complex 3D Scenes using Constrained Attribute Grammars",
+"annee": 2013,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://enpc.hal.science/hal-00864707v1",
+"doi": "10.1111/cgf.12170"
+},
+{
+"id": "p5a113a6060",
+"titre": "Simultaneous Cast Shadows, Illumination and Geometry Inference Using Hypergraphs",
+"annee": 2013,
+"type": "journal",
+"lieu": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+"url": "https://hal.science/hal-00855591v1",
+"doi": "10.1109/tpami.2012.110"
+},
+{
+"id": "p572fb78a00",
+"titre": "Singular Vector Methods for Fundamental Matrix Computation",
+"annee": 2013,
+"type": "conférence",
+"lieu": "PSIVT",
+"url": "https://enpc.hal.science/hal-00866141v1"
+},
+{
+"id": "p6349f51224",
+"titre": "TV HD 3D et autostéréoscopie",
+"annee": 2013,
+"type": "chapitre",
+"lieu": "Vidéo 3D",
+"url": "https://hal.science/hal-00844453v1"
+},
+{
+"id": "pd64eb91988",
+"titre": "Tutoring Robots",
+"annee": 2013,
+"type": "conférence",
+"lieu": "9th International Summer Workshop on Multimodal Interfaces (eNTERFACE)",
+"url": "https://inria.hal.science/hal-01350740v1",
+"doi": "10.1007/978-3-642-55143-7_4"
+},
+{
+"id": "pdf93ccdf44",
+"titre": "3D CARDIAC SEGMENTATION WITH POSE-INVARIANT HIGHER-ORDER MRFS",
+"annee": 2012,
+"type": "conférence",
+"lieu": "International Symposium on BIOMEDICAL IMAGING: From Nano to Macro",
+"url": "https://inria.hal.science/hal-00776025v1",
+"doi": "10.1109/isbi.2012.6235836"
+},
+{
+"id": "p09b4aaef46",
+"titre": "Adaptive Structure from Motion with a contrario model estimation",
+"annee": 2012,
+"type": "conférence",
+"lieu": "ACCV 2012",
+"url": "https://enpc.hal.science/hal-00769266v1",
+"doi": "10.1007/978-3-642-37447-0_20"
+},
+{
+"id": "pf59dba0aae",
+"titre": "An OpenGL-Friendly Geometry File Format and its Maya Exporter",
+"annee": 2012,
+"type": "chapitre",
+"lieu": "OpenGL Insights",
+"url": "https://hal.science/hal-00844445v1"
+},
+{
+"id": "p1191a9f77d",
+"titre": "Automatic Homographic Registration of a Pair of Images, with A Contrario Elimination of Outliers",
+"annee": 2012,
+"type": "journal",
+"lieu": "Image Processing On Line",
+"url": "https://hal.science/hal-00711852v1",
+"doi": "10.5201/ipol.2012.mmm-oh"
+},
+{
+"id": "pca26f37d38",
+"titre": "Colorimetric Correction for Stereoscopic Camera Arrays",
+"annee": 2012,
+"type": "conférence",
+"lieu": "ACCV 2012 Workshop on Computational Photography and Low-Level Vision",
+"url": "https://hal.science/hal-00780178v1",
+"doi": "10.1007/978-3-642-37410-4_18"
+},
+{
+"id": "p5d2669f6ce",
+"titre": "Efficient and Scalable 4-th order Match Propagation",
+"annee": 2012,
+"type": "conférence",
+"lieu": "11th Asian Conference on Computer Vision (ACCV 2012)",
+"url": "https://enpc.hal.science/hal-00743044v1",
+"doi": "10.1007/978-3-642-37331-2_35"
+},
+{
+"id": "p3ba368fe5c",
+"titre": "Fast and Robust Normal Estimation for Point Clouds with Sharp Features",
+"annee": 2012,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://enpc.hal.science/hal-00732426v1",
+"doi": "10.1111/j.1467-8659.2012.03181.x"
+},
+{
+"id": "pf90fec035c",
+"titre": "Gradient Response Maps for Real-Time Detection of Texture-Less Objects",
+"annee": 2012,
+"type": "journal",
+"lieu": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+"url": "https://inria.hal.science/hal-00746534v1",
+"doi": "10.1109/tpami.2011.206"
+},
+{
+"id": "pd79ab1afbf",
+"titre": "High-Level Bottom-Up Cues for Top-Down Parsing of Facade Images",
+"annee": 2012,
+"type": "conférence",
+"lieu": "3DIMPVT",
+"url": "https://enpc.hal.science/hal-00743043v1"
+},
+{
+"id": "pa7f99f638d",
+"titre": "High-precision camera distortion measurements with a \"calibration harp",
+"annee": 2012,
+"type": "journal",
+"lieu": "Journal of the Optical Society of America. A Optics, Image Science, and Vision",
+"url": "https://enpc.hal.science/hal-00739471v1",
+"doi": "10.1364/josaa.29.002134"
+},
+{
+"id": "pcee84b6da5",
+"titre": "Skeleton based importance sampling for path tracing",
+"annee": 2012,
+"type": "conférence",
+"lieu": "Eurographics",
+"url": "https://hal.science/hal-00681570v1",
+"doi": "10.2312/conf/eg2012/short/001-004"
+},
+{
+"id": "pdfea38910f",
+"titre": "Unordered feature tracking made fast and easy",
+"annee": 2012,
+"type": "conférence",
+"lieu": "CVMP 2012",
+"url": "https://enpc.hal.science/hal-00769267v1"
+},
+{
+"id": "p0ed7fe44d4",
+"titre": "Virtual Line Descriptor and Semi-Local Matching Method for Reliable Feature Correspondence",
+"annee": 2012,
+"type": "conférence",
+"lieu": "British Machine Vision Conference 2012",
+"url": "https://hal.science/hal-00743323v1"
+},
+{
+"id": "pffd9c64bc2",
+"titre": "A Grammar Correction Algorithm",
+"annee": 2011,
+"type": "journal",
+"lieu": "Lecture Notes in Computer Science",
+"url": "https://shs.hal.science/halshs-00685078v1",
+"doi": "10.1007/978-3-642-20169-1_4"
+},
+{
+"id": "p98f66f87e9",
+"titre": "Illuminating and Rendering Heterogeneous Participating Media in Real Time using Opacity Propagation",
+"annee": 2011,
+"type": "conférence",
+"lieu": "International Conference on Computer Graphics Theory and Applications GRAPP'11",
+"url": "https://hal.science/hal-00681747v1"
+},
+{
+"id": "pad5b16d601",
+"titre": "Illumination estimation and cast shadow detection through a higher-order graphical model",
+"annee": 2011,
+"type": "conférence",
+"lieu": "2011 IEEE Conference on Computer Vision and Pattern Recognition - CVPR 2011",
+"url": "https://hal.science/hal-00856316v1",
+"doi": "10.1109/cvpr.2011.5995585"
+},
+{
+"id": "p35c37595cd",
+"titre": "Image Visualization and Restoration by Curvature Motions",
+"annee": 2011,
+"type": "journal",
+"lieu": "Multiscale Modeling and Simulation: A SIAM Interdisciplinary Journal",
+"url": "https://hal.science/hal-00525297v2",
+"doi": "10.1137/100791269"
+},
+{
+"id": "p9c5553586e",
+"titre": "Indoor Calibration using Segment Chains",
+"annee": 2011,
+"type": "conférence",
+"lieu": "33rd annual pattern recognition symposium of the German Association for Pattern Recognition (DAGM)",
+"url": "https://enpc.hal.science/hal-00825881v1",
+"doi": "10.1007/978-3-642-23123-0_8"
+},
+{
+"id": "p9abb549933",
+"titre": "Ingénierie de la spécialisation de programmes : Tome 1, Principes et applications",
+"annee": 2011,
+"type": "ouvrage",
+"lieu": "",
+"url": "https://enpc.hal.science/hal-00828362v1"
+},
+{
+"id": "p42821387c1",
+"titre": "Ingénierie de la spécialisation de programmes : Tome 2, Techniques avancées",
+"annee": 2011,
+"type": "ouvrage",
+"lieu": "",
+"url": "https://enpc.hal.science/hal-00828364v1"
+},
+{
+"id": "p5eaf39c570",
+"titre": "Intrinsic dense 3D surface tracking",
+"annee": 2011,
+"type": "conférence",
+"lieu": "24th IEEE Conference on Computer Vision and Pattern Recognition - CVPR 2011",
+"url": "https://hal.science/hal-00856137v1",
+"doi": "10.1109/cvpr.2011.5995513"
+},
+{
+"id": "p6c716deae4",
+"titre": "Lens distortion correction with a calibration harp",
+"annee": 2011,
+"type": "conférence",
+"lieu": "Proceedings of the 18th IEEE International Conference on Image Processing",
+"url": "https://enpc.hal.science/hal-00739477v1"
+},
+{
+"id": "p68dd117841",
+"titre": "Morphological Antialiasing and Topological Reconstruction",
+"annee": 2011,
+"type": "conférence",
+"lieu": "International Conference on Computer Graphics Theory and Applications (GRAPP'11)",
+"url": "https://hal.science/hal-00681746v1"
+},
+{
+"id": "p9a25fcee78",
+"titre": "Multiple View Image Rectification",
+"annee": 2011,
+"type": "conférence",
+"lieu": "1st IEEE-International Symposium on Access Spaces (IEEE-ISAS'11)",
+"url": "https://hal.science/hal-00622515v1"
+},
+{
+"id": "p7d5da14db9",
+"titre": "Pose Description Based on Natural Relation Sets",
+"annee": 2011,
+"type": "conférence",
+"lieu": "International Conference Image and Vision Computing New Z ealand",
+"url": "https://hal.science/hal-00733320v1"
+},
+{
+"id": "p98ebb4ff5f",
+"titre": "Pose-Invariant 3D Proximal Femur Estimation through Bi-planar Image Segmentation with Hierarchical Higher-Order Graph-Based Priors",
+"annee": 2011,
+"type": "conférence",
+"lieu": "14th International Conference on Medical Image Computing and Computer Assisted Intervention - MICCAI 2011",
+"url": "https://hal.science/hal-00856103v1",
+"doi": "10.1007/978-3-642-23626-6_43"
+},
+{
+"id": "p66d1b0b340",
+"titre": "Quasi-Euclidean Epipolar Rectification",
+"annee": 2011,
+"type": "journal",
+"lieu": "Image Processing On Line",
+"url": "https://enpc.hal.science/hal-00826370v1",
+"doi": "10.5201/ipol.2011.m_qer"
+},
+{
+"id": "p61e123b932",
+"titre": "Skeleton Features Distribution for 3D Object Retrieval",
+"annee": 2011,
+"type": "conférence",
+"lieu": "12th IAPR Machine Vision and Applications (MVA'11)",
+"url": "https://hal.science/hal-00622516v1"
+},
+{
+"id": "p5e77e6a1df",
+"titre": "Tagged cardiac MR image segmentation using boundary & regional-support and graph-based deformable priors",
+"annee": 2011,
+"type": "conférence",
+"lieu": "2011 IEEE 8th International Symposium on Biomedical Imaging - ISBI 2011",
+"url": "https://hal.science/hal-00856116v1",
+"doi": "10.1109/isbi.2011.5872733"
+},
+{
+"id": "p74a63f1f6f",
+"titre": "Viewpoint invariant 3D landmark model inference from monocular 2D images using higher-order priors",
+"annee": 2011,
+"type": "conférence",
+"lieu": "13th International Conference on Computer Vision - ICCV 2011",
+"url": "https://hal.science/hal-00856131v1",
+"doi": "10.1109/iccv.2011.6126258"
+}
+]
+}

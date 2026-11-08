@@ -1,0 +1,66 @@
+equipe: LIS/GMOD
+domaines:
+  principaux:
+  - geometrie
+  secondaires:
+  - capture
+  - modelisation
+themes:
+- id: topologie_algorithmique
+  phrase: Calcul et mesure géométrique des trous (homologie, cohomologie, théorie de Morse discrète) d'objets discrets et
+    de maillages.
+  preuves:
+  - p0db5a12132
+  - p797bb35521
+  - p61f1393c35
+- id: squelettes
+  phrase: Squelettisation sur maillages et descripteurs de formes par graphes de courbure subdivisés.
+  preuves:
+  - p5c9b8af87d
+  - p218cdf4ba8
+  - p7218a27c96
+- id: nuages_points
+  phrase: Segmentation et extraction de formes tubulaires dans des nuages de points lidar, notamment d'arbres.
+  preuves:
+  - pd053fe643f
+  - pc4642c2939
+  - p25afff5146
+- id: reconstruction_surfaces
+  phrase: Reconstruction de surfaces et de modèles de terrain à partir de données lacunaires par fonctions de base radiale
+    et modèles déformables.
+  preuves:
+  - p2add342518
+  - p9532d845e4
+  - p82869faaf8
+- id: maillages
+  phrase: Génération de tessellations de Voronoï anisotropes et de maillages polyédriques pour la simulation numérique.
+  preuves:
+  - p664d423138
+  - p0678c32b85
+applications:
+- id: environnement
+  preuves:
+  - pa64b3c5bd0
+  - p9532d845e4
+  - p9b8be47442
+- id: industrie_cao
+  preuves:
+  - p491e364282
+  - p9c3acc67a8
+  - pad8cc2e4dc
+- id: sante
+  preuves:
+  - pd596f36e92
+  - pb7cea74fe4
+publications_representatives:
+- p0db5a12132
+- pe58652d79c
+- p61f1393c35
+- p664d423138
+- p52341d1f93
+synthese: Analyse topologique et géométrique des formes (squelettes, homologie persistante), reconstruction de terrains et
+  de végétation à partir de nuages de points.
+pour_etudiants: On y analyse des formes 3D (trous, squelettes, courbure) et on reconstruit des terrains ou des arbres à partir
+  de scans laser.
+pour_entreprises: Analyse de maillages et de nuages de points (forêts, terrains, cratères), maillage pour la simulation et
+  jumeaux numériques industriels.

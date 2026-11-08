@@ -10,8 +10,8 @@
         "UMR": 9189,
         "Equipes": {
             "MINT": {
-                "Nom": "Méthodes et outils pour les interactions gestuelles",
                 "URL": "https://mint.univ-lille.fr/",
+                "Nom": "Méthodes et outils pour les interactions gestuelles",
                 "Thèmes": "Interaction humain-machine, interaction étendue en situations observées (espace public, performances artistiques, enseignement, rééducation), interaction gestuelle avec du contenu virtuel."
             }
         }
@@ -28,8 +28,8 @@
         "Equipes": {
             "IGG": {
                 "Nom": "Informatique Géométrique et Graphique",
-                "URL": "https://igg.icube.unistra.fr/index.php?title=Accueil",
                 "Correspondant": "Dominique Bechmann",
+                "URL": "https://igg.icube.unistra.fr/index.php?title=Accueil",
                 "Thèmes": "Informatique graphique, modélisation géométrique, animation, spécification et preuves, réalité virtuelle, rendu et visualisation, simulation et interaction."
             },
             "MIMESIS": {
@@ -52,19 +52,19 @@
         "Equipes": {
             "EXPRESSION": {
                 "Nom": "Expressiveness in Human Centered Data/Media",
+                "Correspondant": "Caroline Larboulette",
                 "URL": "https://www-expression.irisa.fr/presentation/",
+                "Thèmes": "Expressive gesture synthesis and recognition, speech synthesis, text and language.",
                 "Ville": "Vannes, Lannion",
                 "Coordonnées": [
                     47.6456,
                     -2.7462
-                ],
-                "Correspondant": "Caroline Larboulette",
-                "Thèmes": "Expressive gesture synthesis and recognition, speech synthesis, text and language."
+                ]
             },
             "Seamless": {
                 "Nom": "Seamless interaction and collaboration through the reality-virtuality continuum",
-                "URL": "https://team.inria.fr/seamless/",
                 "Correspondant": "Anatole Lécuyer",
+                "URL": "https://team.inria.fr/seamless/",
                 "Thèmes": "Réalité virtuelle et augmentée (XR), interaction et incarnation en XR, haptique et pseudo-haptique, interfaces cerveau-ordinateur et neurofeedback.",
                 "Inria": null
             },
@@ -76,16 +76,16 @@
                 "Inria": null
             },
             "Rainbow": {
+                "Correspondant": "Maud Marchal",
                 "Nom": "Sensor-based and interactive robotics",
                 "URL": "https://team.inria.fr/rainbow/",
-                "Correspondant": "Maud Marchal",
                 "Thèmes": "Sensor-based robots able to navigate and interact in complex unstructured environments together with human users.",
                 "Inria": null
             },
             "VirtUs": {
+                "Correspondant": "Julien Pettré",
                 "Nom": "VirtUs – The Virtual Us",
                 "URL": "https://team.inria.fr/virtus/",
-                "Correspondant": "Julien Pettré",
                 "Thèmes": "Analysis, modelling and simulation of movement.",
                 "Inria": null
             }
@@ -103,8 +103,8 @@
         "Equipes": {
             "STORM": {
                 "Nom": "Structural Models and Tools in Computer Graphics",
-                "URL": "https://www.irit.fr/STORM/site/",
                 "Correspondant": "Mathias Paulin",
+                "URL": "https://www.irit.fr/STORM/site/",
                 "Thèmes": "Modélisation géométrique, Animation 3D, Rendu"
             },
             "REVA": {
@@ -123,9 +123,9 @@
         "URL": "https://www.umr-lastig.fr/",
         "Equipes": {
             "GEOVIS": {
-                "Nom": "Visualisation, Interaction et Immersion",
-                "URL": "https://www.umr-lastig.fr/geovis/",
                 "Correspondant": "Mathieu Brédif",
+                "URL": "https://www.umr-lastig.fr/geovis/",
+                "Nom": "Visualisation, Interaction et Immersion",
                 "Thèmes": "Visualisation, Interaction, Immersion spatiale, Rendu graphique, Expérimentation utilisateur (UX)"
             },
             "ACTE": {
@@ -162,9 +162,9 @@
         "URL": "https://www.univ-paris8.fr/UR-Laboratoire-d-Intelligence-Artificielle-et-Semantique-des-Donnees-LIASD",
         "Equipes": {
             "PASTIS": {
-                "Nom": "Programmation, Apprentissage, Sécurité, Textes, Images, Simulations",
-                "URL": "https://informatique.up8.edu/pastis/",
                 "Correspondant": "Farès Belhadj",
+                "URL": "https://informatique.up8.edu/pastis/",
+                "Nom": "Programmation, Apprentissage, Sécurité, Textes, Images, Simulations",
                 "Thèmes": "Synthèse d'images expressives"
             }
         }
@@ -180,9 +180,9 @@
         "UMR": 8049,
         "Equipes": {
             "A3SI": {
-                "Nom": "Algorithmes, Architectures, Analyse et Synthèse d'images",
-                "URL": "https://ligm.univ-eiffel.fr/equipe/a3si/",
                 "Correspondant": "Venceslas Biri",
+                "URL": "https://ligm.univ-eiffel.fr/equipe/a3si/",
+                "Nom": "Algorithmes, Architectures, Analyse et Synthèse d'images",
                 "Thèmes": "Synthèse d'images et modélisation, Reconstruction, Géométrie discrète et algorithmique."
             }
         }
@@ -198,16 +198,16 @@
         "UMR": 5205,
         "Equipes": {
             "ORIGAMI": {
-                "Nom": "Computer Graphics and Geometry Processing",
-                "URL": "https://origami.projet.liris.cnrs.fr/",
                 "Correspondant": "Julie Digne",
+                "URL": "https://origami.projet.liris.cnrs.fr/",
+                "Nom": "Computer Graphics and Geometry Processing",
                 "Thèmes": "Rendering, Geometry Processing, Mathematical tools for CG, Dynamical Meshes, Visual Perception & Interaction, Virtual Worlds."
             },
             "SAARA": {
                 "Nom": "Simulation, Analyse et Animation pour la Réalité Augmentée",
                 "URL": "https://saara.projet.liris.cnrs.fr/",
-                "Correspondant": "Alexandre Meyer",
-                "Thèmes": "Capture et analyse de données géométriques et cinématiques d'humains, Simulation des interactions/comportements des organes."
+                "Thèmes": "Capture et analyse de données géométriques et cinématiques d'humains, Simulation des interactions/comportements des organes.",
+                "Correspondant": "Alexandre Meyer"
             }
         }
     },
@@ -222,9 +222,9 @@
         "UMR": 5506,
         "Equipes": {
             "ICAR": {
-                "Nom": "Image & Interaction",
-                "URL": "https://www.lirmm.fr/icar/",
                 "Correspondant": "Noura Faraj",
+                "URL": "https://www.lirmm.fr/icar/",
+                "Nom": "Image & Interaction",
                 "Thèmes": "Interaction, Données visuelles 2D, 3D, nD, images et vidéos, robotique, modélisation paramétrique."
             }
         }
@@ -303,7 +303,8 @@
                     45.218,
                     5.8072
                 ],
-                "Thèmes": "Capture volumétrique 3D/4D, doubles numériques d'humains en mouvement (corps, vêtements, cheveux, peau), modèles d'apparence et génératifs, plateforme Kinovis",
+                "Correspondant": "Jean-Sébastien Franco",
+                "Thèmes": "Acquisition et modélisation de doubles numériques volumétriques 3D et 4D d'humains et de sujets en mouvement (géométrie, apparence, mouvement), plateformes de capture multi-caméras Kinovis.",
                 "Inria": null
             }
         }
@@ -320,25 +321,25 @@
         "Equipes": {
             "GMOD": {
                 "Nom": "Modélisation Géométrique",
-                "URL": "https://www.lis-lab.fr/gmod/",
                 "Correspondant": "Jean-Luc Mari",
+                "URL": "https://www.lis-lab.fr/gmod/",
                 "Thèmes": "Surfaces paramétriques, maillages, analyse de forme, modélisation par contraintes."
             }
         }
     },
     "LTCI": {
         "Nom": "Laboratoire Traitement et Communication de l'Information",
+        "URL": "https://www.telecom-paris.fr/fr/recherche/labos/traitement-information-ltci",
         "Ville": "Palaiseau",
         "Coordonnées": [
             48.7123,
             2.1986
         ],
-        "URL": "https://www.telecom-paris.fr/fr/recherche/labos/traitement-information-ltci",
         "Equipes": {
             "IMAGES": {
                 "Nom": "Image, Modélisation, Analyse, GEométrie, Synthèse",
-                "URL": "https://www.telecom-paris.fr/fr/recherche/labos/traitement-information-ltci/equipes/images",
                 "Correspondant": "Amal Dev Parakkat",
+                "URL": "https://www.telecom-paris.fr/fr/recherche/labos/traitement-information-ltci/equipes/images",
                 "Thèmes": "Modeling, Interaction, Fluid simulation."
             }
         }
@@ -355,35 +356,35 @@
         "Equipes": {
             "IG": {
                 "Nom": "Informatique Graphique",
+                "Correspondant": "Philippe Meseure",
                 "URL": "https://www.xlim.fr/ig/",
+                "Thèmes": "Modélisation et animation d'objets géométriques, géométrie discrète, simulation d'éclairage.",
                 "Ville": "Poitiers",
                 "Coordonnées": [
                     46.6599,
                     0.3595
-                ],
-                "Correspondant": "Philippe Meseure",
-                "Thèmes": "Modélisation et animation d'objets géométriques, géométrie discrète, simulation d'éclairage."
+                ]
             },
             "SIR": {
                 "Nom": "Simulation, Image, Rendu",
+                "Correspondant": "Benoît Crespin",
                 "URL": "https://www.xlim.fr/sir/",
                 "Ville": "Limoges",
                 "Coordonnées": [
                     45.8379,
                     1.2391
                 ],
-                "Correspondant": "Benoît Crespin",
                 "Thèmes": "Synthèse de textures procédurales, Représentation d'objets et de phénomènes naturels, Rendu réaliste."
             }
         }
     },
     "LORIA": {
-        "Nom": "Laboratoire Lorrain de Recherche en Informatique et ses Applications",
         "Ville": "Nancy",
         "Coordonnées": [
             48.6661,
             6.1567
         ],
+        "Nom": "Laboratoire Lorrain de Recherche en Informatique et ses Applications",
         "URL": "https://www.loria.fr/fr",
         "UMR": 7503,
         "Equipes": {
@@ -404,24 +405,24 @@
         }
     },
     "LaBRI": {
-        "Nom": "Laboratoire Bordelais de Recherche en Informatique",
         "Ville": "Bordeaux",
         "Coordonnées": [
             44.804,
             -0.5944
         ],
+        "Nom": "Laboratoire Bordelais de Recherche en Informatique",
         "URL": "https://www.labri.fr/",
         "UMR": 5800,
         "Equipes": {
             "Manao": {
                 "Nom": "Melting the frontiers between Light, Shape and Matter",
+                "Correspondant": "Pierre Bénard",
                 "URL": "https://manao.inria.fr/",
                 "Ville": "Talence",
                 "Coordonnées": [
                     44.8081,
                     -0.6002
                 ],
-                "Correspondant": "Pierre Bénard",
                 "Thèmes": "Convergence of Digital Optics and Computer Graphics.",
                 "Inria": null
             }
@@ -439,8 +440,8 @@
             "SEPIA": {
                 "Nom": "Simulation d'Éclairage, Perception, Images et Applications",
                 "URL": "https://lisic-prod.univ-littoral.fr/equipe/sepia/",
-                "Correspondant": "Christophe Renaud",
-                "Thèmes": "Simulation d'éclairage, rendu réaliste, HDR, perception."
+                "Thèmes": "Simulation d'éclairage, rendu réaliste, HDR, perception.",
+                "Correspondant": "Christophe Renaud"
             }
         }
     },
@@ -456,8 +457,8 @@
                     43.6148,
                     7.0499
                 ],
-                "Correspondant": "George Drettakis",
-                "Thèmes": "Design and artistic guided visual content, Unified representation of computer graphics models and algorithms."
+                "Thèmes": "Design and artistic guided visual content, Unified representation of computer graphics models and algorithms.",
+                "Correspondant": "George Drettakis"
             },
             "Titane": {
                 "Nom": "Geometric Modeling of 3D Environments",

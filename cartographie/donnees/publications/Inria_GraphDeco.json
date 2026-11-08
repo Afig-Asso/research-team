@@ -1,0 +1,1565 @@
+{
+"equipe": "Inria/GraphDeco",
+"publications": [
+{
+"id": "p76041eaa8e",
+"titre": "A Study of the Design Space of Motion and Disocclusion Control in Video Generation",
+"annee": 2026,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-05834717v1"
+},
+{
+"id": "pbe35b386cb",
+"titre": "Adaptive Spatio‐Temporal 3D Gaussian Splatting for Scenes with Oscillatory Motion",
+"annee": 2026,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-05618519v1",
+"doi": "10.1111/cgf.70410"
+},
+{
+"id": "p9fc75cd475",
+"titre": "Authoring Terrestrial Planets with Diffusion Models",
+"annee": 2026,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-05608820v1",
+"doi": "10.1111/cgf.70390"
+},
+{
+"id": "p343f8dab3d",
+"titre": "CADrawer: Autoregressive CAD Generation from 3D Sketches",
+"annee": 2026,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-05625659v1",
+"doi": "10.1111/cgf.70352"
+},
+{
+"id": "p558e1b12a3",
+"titre": "DancingBox: A Lightweight MoCap System for Character Animation from Physical Proxies",
+"annee": 2026,
+"type": "conférence",
+"lieu": "CHI 2026 - CHI Conference on Human Factors in Computing Systems",
+"url": "https://inria.hal.science/hal-05625681v1",
+"doi": "10.1145/3772318.3791202"
+},
+{
+"id": "p789c837a02",
+"titre": "Differentiable Stock Constraints for Continuous Optimization of Frame Structures by Reuse",
+"annee": 2026,
+"type": "conférence",
+"lieu": "SCF 2026 - ACM Symposium on Computational Fabrication",
+"url": "https://inria.hal.science/hal-05834545v1",
+"doi": "10.1145/3828611.3845645"
+},
+{
+"id": "pd491a66b7d",
+"titre": "Frequency-Aware Spatial-Angular Gaussians for Efficient Global Illumination Precomputation and Real-Time Rendering",
+"annee": 2026,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-05702737v1",
+"doi": "10.1111/cgf.70542"
+},
+{
+"id": "pd1521f2a0a",
+"titre": "GRay: Ray Tracing 3D Gaussians Near the Speed of Splats",
+"annee": 2026,
+"type": "journal",
+"lieu": "Proceedings of the ACM on Computer Graphics and Interactive Techniques",
+"url": "https://doi.org/10.1145/3804496",
+"doi": "10.1145/3804496"
+},
+{
+"id": "p6fd905fe74",
+"titre": "Immediate 3D Gaussian Splat Reconstruction of Unordered Input with Global Consistency",
+"annee": 2026,
+"type": "conférence",
+"lieu": "ACM SIGGRAPH 2026 - ACM SIGGRAPH International Conference on Computer Graphics and Interactive Techniques",
+"url": "https://inria.hal.science/hal-05687947v1",
+"doi": "10.1145/3799902.3811167"
+},
+{
+"id": "pf07ca4a717",
+"titre": "ImplicitDrag: Drag-Based Editing of Differentiable Implicits",
+"annee": 2026,
+"type": "conférence",
+"lieu": "Pacific Graphics 2026 - 34th Pacific Conference on Computer Graphics and Applications",
+"url": "https://inria.hal.science/hal-05834734v1"
+},
+{
+"id": "p70e441670c",
+"titre": "Intrinsic decomposition and editing of 3D Gaussian splats",
+"annee": 2026,
+"type": "journal",
+"lieu": "Proceedings of the ACM on Computer Graphics and Interactive Techniques",
+"url": "https://hal.science/hal-05602203v1",
+"doi": "10.1145/3804495"
+},
+{
+"id": "pdc797c8cb7",
+"titre": "Lighting-Consistent Object Transfer Across Radiance Fields",
+"annee": 2026,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-05657202v1"
+},
+{
+"id": "p1e79bb5a2f",
+"titre": "Modeling and predicting post-wash shrinkage in woven fabric",
+"annee": 2026,
+"type": "conférence",
+"lieu": "SCF 2026 - ACM Symposium on Computational Fabrication",
+"url": "https://inria.hal.science/hal-05834561v1",
+"doi": "10.1145/3828611.3845646"
+},
+{
+"id": "pf7d14f6a56",
+"titre": "Pixels2Peaks: Converting Terrain Images to Heightmaps",
+"annee": 2026,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-05617061v1",
+"doi": "10.1145/3811288"
+},
+{
+"id": "p31b463e40a",
+"titre": "Stochastic geomorphological transport for terrain erosion simulation",
+"annee": 2026,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-05627837v1",
+"doi": "10.1145/3811336"
+},
+{
+"id": "p5a5ef30b91",
+"titre": "Warp-Level Culling for Efficient Blending in 3D Gaussian Splatting",
+"annee": 2026,
+"type": "journal",
+"lieu": "Proceedings of the ACM on Computer Graphics and Interactive Techniques",
+"url": "https://doi.org/10.1145/3820019",
+"doi": "10.1145/3820019"
+},
+{
+"id": "p55aa8fe844",
+"titre": "An evaluation of SVBRDF Prediction from Generative Image Models for Appearance Modeling of 3D Scenes",
+"annee": 2025,
+"type": "conférence",
+"lieu": "EGSR 2025 - 36th Eurographics Symposium on Rendering",
+"url": "https://hal.science/hal-05148871v1",
+"doi": "10.2312/sr.20251186"
+},
+{
+"id": "p9e6a3f3d85",
+"titre": "Arenite: A Physics-based Sandstone Simulator",
+"annee": 2025,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-05168310v1",
+"doi": "10.1145/3731201"
+},
+{
+"id": "p083b65050e",
+"titre": "Content-Aware Texturing for Gaussian Splatting",
+"annee": 2025,
+"type": "conférence",
+"lieu": "Eurographics Symposium on Rendering 2025",
+"url": "https://hal.science/hal-05201179v1",
+"doi": "10.2312/sr.20251190"
+},
+{
+"id": "p389e780c47",
+"titre": "Does 3D Gaussian Splatting Need Accurate Volumetric Rendering?",
+"annee": 2025,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-05312577v1",
+"doi": "10.1111/cgf.70032"
+},
+{
+"id": "p7e2c30e4a2",
+"titre": "Editable Physically-based Reflections in Raytraced Gaussian Radiance Fields",
+"annee": 2025,
+"type": "conférence",
+"lieu": "SIGGRAPH Asia 2025 - 18th ACM SIGGRAPH Conference and Exhibition on Computer Graphics and Interactive Techniques in Asia",
+"url": "https://inria.hal.science/hal-05306634v2",
+"doi": "10.1145/3757377.3763971"
+},
+{
+"id": "peb412d2af6",
+"titre": "From blades to tracks: a case study in structural reuse of curved surfaces for circular design",
+"annee": 2025,
+"type": "conférence",
+"lieu": "SCF 2025 - 10th annual ACM Symposium on Computational Fabrication",
+"url": "https://inria.hal.science/hal-05305064v1",
+"doi": "10.1145/3745778.376665"
+},
+{
+"id": "pd6a04a8e79",
+"titre": "MILo: Mesh-In-the-Loop Gaussian Splatting for Detailed and Efficient Surface Reconstruction",
+"annee": 2025,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-05327792v1"
+},
+{
+"id": "p413c59e085",
+"titre": "On-the-fly Reconstruction for Large-Scale Novel View Synthesis from Unposed Images",
+"annee": 2025,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-05059800v2",
+"doi": "10.1145/3730913"
+},
+{
+"id": "p8b02fc0e41",
+"titre": "Rags2Riches: Computational Garment Reuse",
+"annee": 2025,
+"type": "conférence",
+"lieu": "SIGGRAPH Conference Papers ’25",
+"url": "https://inria.hal.science/hal-05310474v1",
+"doi": "10.1145/3721238.3730703"
+},
+{
+"id": "p9990a8367c",
+"titre": "Shape Approximation by Surface Reuse",
+"annee": 2025,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-05234995v1",
+"doi": "10.1111/cgf.70204"
+},
+{
+"id": "p237a8c3d45",
+"titre": "Sketch2Data: Recovering Data from Hand-Drawn Infographics",
+"annee": 2025,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://inria.hal.science/hal-05310478v1",
+"doi": "10.1016/j.cag.2025.104251"
+},
+{
+"id": "pf559644367",
+"titre": "Splat and Replace: 3D Reconstruction with Repetitive Elements",
+"annee": 2025,
+"type": "conférence",
+"lieu": "ACM SIGGRAPH 2025 Conference",
+"url": "https://hal.science/hal-05063669v1",
+"doi": "10.1145/3721238.3730727"
+},
+{
+"id": "p0d1b6bb0ae",
+"titre": "3D-Layers: Bringing Layer-Based Color Editing to VR Painting",
+"annee": 2024,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-04595138v1",
+"doi": "10.1145/3658183"
+},
+{
+"id": "pbe1736bb0e",
+"titre": "A Diffusion Approach to Radiance Field Relighting using Multi-Illumination Synthesis",
+"annee": 2024,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-04628346v1"
+},
+{
+"id": "p367b108c69",
+"titre": "A Hierarchical 3D Gaussian Representation for Real-Time Rendering of Very Large Datasets",
+"annee": 2024,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-04568786v1"
+},
+{
+"id": "pe53dd9a4a3",
+"titre": "CADTalk: An Algorithm and Benchmark for Semantic Commenting of CAD Programs",
+"annee": 2024,
+"type": "conférence",
+"lieu": "CVPR 2024 - IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+"url": "https://inria.hal.science/hal-04732991v1",
+"doi": "10.1109/cvpr52733.2024.00360"
+},
+{
+"id": "p37634107fc",
+"titre": "CHONK 1.0: landscape evolution framework: cellular automata meets graph theory",
+"annee": 2024,
+"type": "journal",
+"lieu": "Geoscientific Model Development",
+"url": "https://hal.science/hal-04525782v1",
+"doi": "10.5194/gmd-17-71-2024"
+},
+{
+"id": "p25b461c2c7",
+"titre": "DiffCSG: Differentiable CSG via Rasterization",
+"annee": 2024,
+"type": "conférence",
+"lieu": "SIGGRAPH Asia 2024 - 17th ACM SIGGRAPH Conference and Exhibition on Computer Graphics and Interactive Techniques in Asia",
+"url": "https://inria.hal.science/hal-04733011v1"
+},
+{
+"id": "p83bc6ff46d",
+"titre": "Efficient Debris-flow Simulation for Steep Terrain Erosion",
+"annee": 2024,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-04574826v1",
+"doi": "10.1145/3658213"
+},
+{
+"id": "p740575fc6f",
+"titre": "Fast simulation of viscous lava flow using Green's functions as a smoothing kernel",
+"annee": 2024,
+"type": "conférence",
+"lieu": "SCA 2024 - 23RD ACM SIGGRAPH / Eurographics symposium on computer animation - posters",
+"url": "https://hal.science/hal-04714171v1",
+"doi": "10.2312/sca.20241172"
+},
+{
+"id": "p63a6168244",
+"titre": "FastFlow: GPU Acceleration of Flow and Depression Routing for Landscape Simulation",
+"annee": 2024,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-04684270v1",
+"doi": "10.1111/cgf.15243"
+},
+{
+"id": "pf9fb16f354",
+"titre": "Learning Images Across Scales Using Adversarial Training",
+"annee": 2024,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-04593775v1",
+"doi": "10.1145/3658190"
+},
+{
+"id": "paa8a22397a",
+"titre": "Physically-Based Lighting for 3D Generative Models of Cars",
+"annee": 2024,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-04493971v1"
+},
+{
+"id": "p353c143f85",
+"titre": "Physically-based analytical erosion for fast terrain generation",
+"annee": 2024,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-04525371v1",
+"doi": "10.1111/cgf.15033"
+},
+{
+"id": "pfc587b4c33",
+"titre": "Reducing the Memory Footprint of 3D Gaussian Splatting",
+"annee": 2024,
+"type": "conférence",
+"lieu": "Proceedings of the ACM on Computer Graphics and Interactive Techniques",
+"url": "https://hal.science/hal-04550892v2",
+"doi": "10.1145/3651282"
+},
+{
+"id": "p3e1ff91b8a",
+"titre": "STIVi: Turning Perspective Sketching Videos into Interactive Tutorials",
+"annee": 2024,
+"type": "conférence",
+"lieu": "Graphics Interface (GI'24)",
+"url": "https://hal.science/hal-04594231v1",
+"doi": "10.1145/3670947.3670969"
+},
+{
+"id": "p6a75405e42",
+"titre": "Single-Image SVBRDF Estimation with Learned Gradient Descent",
+"annee": 2024,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-04484036v1"
+},
+{
+"id": "pf209109a86",
+"titre": "Sketch Presentation for Product Design",
+"annee": 2024,
+"type": "conférence",
+"lieu": "IHM'24 - 35e Conférence Internationale Francophone sur l'Interaction Humain-Machine",
+"url": "https://hal.science/hal-04487256v1",
+"doi": "10.1145/3650104.3652907"
+},
+{
+"id": "pe9bdaaf8fe",
+"titre": "Unerosion: Simulating Terrain Evolution Back in Time",
+"annee": 2024,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-04714138v1",
+"doi": "10.1111/cgf.15182"
+},
+{
+"id": "pc06a3979b1",
+"titre": "Volcanic Skies: coupling explosive eruptions with atmospheric simulation to create consistent skyscapes",
+"annee": 2024,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-04527448v1",
+"doi": "10.1111/cgf.15034"
+},
+{
+"id": "p7100ab00d1",
+"titre": "Windblown sand around obstacles -simulation and validation of deposition patterns",
+"annee": 2024,
+"type": "journal",
+"lieu": "Proceedings of the ACM on Computer Graphics and Interactive Techniques",
+"url": "https://inria.hal.science/hal-04566241v1",
+"doi": "10.1145/3651284"
+},
+{
+"id": "p45c847bb25",
+"titre": "3D Gaussian Splatting for Real-Time Radiance Field Rendering",
+"annee": 2023,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-04088161v2",
+"doi": "10.1145/3592433"
+},
+{
+"id": "p38bd5cd154",
+"titre": "Forming Terrains by Glacial Erosion",
+"annee": 2023,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-04090644v1",
+"doi": "10.1145/3592422"
+},
+{
+"id": "p94f96b9272",
+"titre": "Ice-flow model emulator based on physics-informed deep learning",
+"annee": 2023,
+"type": "journal",
+"lieu": "Journal of Glaciology",
+"url": "https://hal.science/hal-04232949v2",
+"doi": "10.1017/jog.2023.73"
+},
+{
+"id": "pa13f4da4c0",
+"titre": "Improving NeRF Quality by Progressive Camera Placement for Unrestricted Navigation in Complex Environments",
+"annee": 2023,
+"type": "conférence",
+"lieu": "VMV 2023 - Vision, Modeling, and Visualization",
+"url": "https://inria.hal.science/hal-04182002v1"
+},
+{
+"id": "p4003a519d0",
+"titre": "Interactive design of 2D car profiles with aerodynamic feedback",
+"annee": 2023,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-03975369v1",
+"doi": "10.1111/cgf.14772"
+},
+{
+"id": "pd56f37d165",
+"titre": "MesoGAN: Generative Neural Reflectance Shells",
+"annee": 2023,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-04105889v1",
+"doi": "10.1111/cgf.14846"
+},
+{
+"id": "paf57fc9533",
+"titre": "ModalNeRF: Neural Modal Analysis and Synthesis for Free-Viewpoint Navigation in Dynamically Vibrating Scenes",
+"annee": 2023,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-04131503v1",
+"doi": "10.1111/cgf.14888"
+},
+{
+"id": "p69175db4af",
+"titre": "NeRFshop: Interactive Editing of Neural Radiance Fields",
+"annee": 2023,
+"type": "journal",
+"lieu": "Proceedings of the ACM on Computer Graphics and Interactive Techniques",
+"url": "https://inria.hal.science/hal-04027538v1",
+"doi": "10.1145/3585499"
+},
+{
+"id": "p8a90073ad5",
+"titre": "VideoDoodles: Hand-Drawn Animations on Videos with Scene-Aware Canvases",
+"annee": 2023,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-04093195v1",
+"doi": "10.1145/3592413"
+},
+{
+"id": "p98c1d8144c",
+"titre": "Active Exploration for Neural Global Illumination of Variable Scenes",
+"annee": 2022,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-03594357v1",
+"doi": "10.1145/3522735"
+},
+{
+"id": "p9b81bd047f",
+"titre": "CAD2Sketch: Generating Concept Sketches from CAD Sequences",
+"annee": 2022,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-03842632v1",
+"doi": "10.1145/3550454.3555488"
+},
+{
+"id": "p83af1678e3",
+"titre": "Computational Design of Self-Actuated Surfaces by Printing Plastic Ribbons on Stretched Fabric",
+"annee": 2022,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-03588434v2",
+"doi": "10.1111/cgf.14489"
+},
+{
+"id": "pc4f12179cf",
+"titre": "Deep Reconstruction of 3D Smoke Densities from Artist Sketches",
+"annee": 2022,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-03711264v1",
+"doi": "10.1111/cgf.14461"
+},
+{
+"id": "p9c0649ea10",
+"titre": "Deep scene-scale material estimation from multi-view indoor captures",
+"annee": 2022,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://inria.hal.science/hal-03812554v1",
+"doi": "10.1016/j.cag.2022.09.010"
+},
+{
+"id": "pf262e563d5",
+"titre": "Free2CAD: Parsing Freehand Drawings into CAD Commands",
+"annee": 2022,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-03683482v1",
+"doi": "10.1145/3528223.3530133"
+},
+{
+"id": "p391e05a4f4",
+"titre": "Interactive simulation of plume and pyroclastic volcanic ejections",
+"annee": 2022,
+"type": "journal",
+"lieu": "Proceedings of the ACM on Computer Graphics and Interactive Techniques",
+"url": "https://hal.science/hal-03639288v2",
+"doi": "10.1145/3522609"
+},
+{
+"id": "pc364ed5404",
+"titre": "Neural Green’s function for Laplacian systems",
+"annee": 2022,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://hal.science/hal-04000012v1",
+"doi": "10.1016/j.cag.2022.07.016"
+},
+{
+"id": "p9e021cca7c",
+"titre": "Neural Point Catacaustics for Novel-View Synthesis of Reflections",
+"annee": 2022,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-03799441v1",
+"doi": "10.1145/3550454.3555497"
+},
+{
+"id": "pa0e4871603",
+"titre": "Neural Precomputed Radiance Transfer",
+"annee": 2022,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-03581439v1",
+"doi": "10.1111/cgf.14480"
+},
+{
+"id": "p64ee165dd6",
+"titre": "Piecewise-Smooth Surface Fitting onto Unstructured 3D Sketches",
+"annee": 2022,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-03691151v1",
+"doi": "10.1145/3528223.3530100"
+},
+{
+"id": "pdabf641c25",
+"titre": "Simulation of printed-on-fabric assemblies",
+"annee": 2022,
+"type": "conférence",
+"lieu": "SCF 2022 - 7th annual ACM Symposium on Computational Fabrication",
+"url": "https://hal.science/hal-03815213v2",
+"doi": "10.1145/3559400.3562001"
+},
+{
+"id": "pf8a5dd6365",
+"titre": "Symmetry-driven 3D Reconstruction from Concept Sketches",
+"annee": 2022,
+"type": "conférence",
+"lieu": "SIGGRAPH 2022 - International Conference & Exhibition On Computer Graphics & Interactive Techniques",
+"url": "https://inria.hal.science/hal-03760673v1",
+"doi": "10.1145/3528233.3530723"
+},
+{
+"id": "p9e7cda5835",
+"titre": "Authoring Consistent Landscapes with Flora and Fauna",
+"annee": 2021,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-03245206v1",
+"doi": "10.1145/3450626.3459952"
+},
+{
+"id": "p2a408efec3",
+"titre": "CASSIE: Curve and Surface Sketching in Immersive Environments",
+"annee": 2021,
+"type": "conférence",
+"lieu": "CHI 2021 - ACM Conference on Human Factors in Computing Systems",
+"url": "https://inria.hal.science/hal-03149000v1",
+"doi": "10.1145/3411764.3445158"
+},
+{
+"id": "p2b4a58148c",
+"titre": "Deep learning speeds up ice flow modelling by several orders of magnitude",
+"annee": 2021,
+"type": "journal",
+"lieu": "Journal of Glaciology",
+"url": "https://inria.hal.science/hal-03525458v1",
+"doi": "10.1017/jog.2021.120"
+},
+{
+"id": "pdd740cbb10",
+"titre": "Fashion Transfer: Dressing 3D Characters from Stylized Fashion Sketches",
+"annee": 2021,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://ut-toulouseinp.hal.science/hal-03280215v1",
+"doi": "10.1111/cgf.14390"
+},
+{
+"id": "p2dfc2d16ac",
+"titre": "Free-viewpoint Indoor Neural Relighting from Multi-view Stereo",
+"annee": 2021,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-03265780v2",
+"doi": "10.1145/3469842"
+},
+{
+"id": "pbbbae3d6f0",
+"titre": "FreeStyleGAN: Free-view Editable Portrait Rendering with the Camera Manifold",
+"annee": 2021,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-03342414v2",
+"doi": "10.1145/3478513.3480538"
+},
+{
+"id": "pd1d09ad335",
+"titre": "Honey, I Shrunk the Domain: Frequency-aware Force Field Reduction for Efficient Fluids Optimization",
+"annee": 2021,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-03262394v1",
+"doi": "10.1111/cgf.142637"
+},
+{
+"id": "p028c98f5ae",
+"titre": "Hybrid Image-based Rendering for Free-view Synthesis",
+"annee": 2021,
+"type": "journal",
+"lieu": "Proceedings of the ACM on Computer Graphics and Interactive Techniques",
+"url": "https://inria.hal.science/hal-03212598v1",
+"doi": "10.1145/3451260"
+},
+{
+"id": "p83e69fe933",
+"titre": "Point-Based Neural Rendering with Per-View Optimization",
+"annee": 2021,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-03268140v3",
+"doi": "10.1111/cgf.14339"
+},
+{
+"id": "p771c5ca676",
+"titre": "Printing-on-Fabric Meta-Material for Self-Shaping Architectural Models",
+"annee": 2021,
+"type": "conférence",
+"lieu": "AAG 2020 - Advances in Architectural Geometry",
+"url": "https://inria.hal.science/hal-02925036v1"
+},
+{
+"id": "pb221bbd9fd",
+"titre": "Video-Based Rendering of Dynamic Stationary Environments from Unsynchronized Inputs",
+"annee": 2021,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-03272502v1",
+"doi": "10.1111/cgf.14342"
+},
+{
+"id": "pbde15e38c4",
+"titre": "Extracting Geometric Structures in Images with Delaunay Point Processes",
+"annee": 2020,
+"type": "journal",
+"lieu": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+"url": "https://inria.hal.science/hal-01950791v1",
+"doi": "10.1109/tpami.2018.2890586"
+},
+{
+"id": "pda148d9eef",
+"titre": "Glossy Probe Reprojection for Interactive Global Illumination",
+"annee": 2020,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-02930925v1",
+"doi": "10.1145/3414685.3417823"
+},
+{
+"id": "p9511fa2283",
+"titre": "Guided Fine-Tuning for Large-Scale Material Transfer",
+"annee": 2020,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-02869651v2"
+},
+{
+"id": "p8422bd657f",
+"titre": "Image-Based Rendering of Cars using Semantic Labels and Approximate Reflection Flow",
+"annee": 2020,
+"type": "journal",
+"lieu": "Proceedings of the ACM on Computer Graphics and Interactive Techniques",
+"url": "https://inria.hal.science/hal-02533190v1",
+"doi": "10.1145/3384535"
+},
+{
+"id": "p0c0864bcee",
+"titre": "Integer-Grid Sketch Simplification and Vectorization",
+"annee": 2020,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-02884975v1"
+},
+{
+"id": "p85aaa0cebb",
+"titre": "Interactive Meso-scale Simulation of Skyscapes",
+"annee": 2020,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-02517935v1"
+},
+{
+"id": "pb7fccf8eec",
+"titre": "Lifting Freehand Concept Sketches into 3D",
+"annee": 2020,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-02952509v1",
+"doi": "10.1145/3414685.3417851"
+},
+{
+"id": "pd165b4a9d1",
+"titre": "Practical Product Path Guiding Using Linearly Transformed Cosines",
+"annee": 2020,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-02870467v1"
+},
+{
+"id": "p1d5f5c0eb1",
+"titre": "Repurposing a Relighting Network for Realistic Compositions of Captured Scenes",
+"annee": 2020,
+"type": "conférence",
+"lieu": "I3D 2020 - ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games",
+"url": "https://hal.science/hal-02500771v1",
+"doi": "10.1145/3384382.3384523"
+},
+{
+"id": "pbb0fdae41e",
+"titre": "Sketch2CAD",
+"annee": 2020,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://doi.org/10.1145/3414685.3417807",
+"doi": "10.1145/3414685.3417807"
+},
+{
+"id": "p5abdcc21e7",
+"titre": "Sketch2CAD: Sequential CAD Modeling by Sketching in Context",
+"annee": 2020,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-02937921v1"
+},
+{
+"id": "pf098ef06c5",
+"titre": "A Review of Digital Terrain Modeling",
+"annee": 2019,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-02097510v1",
+"doi": "10.1111/cgf.13657"
+},
+{
+"id": "p22c7b049aa",
+"titre": "A Versatile, Linear Complexity Algorithm for Flow Routing in Topographies with Depressions",
+"annee": 2019,
+"type": "journal",
+"lieu": "Earth Surface Dynamics",
+"url": "https://hal.science/hal-02136750v1",
+"doi": "10.5194/esurf-2018-81"
+},
+{
+"id": "pb3d77de247",
+"titre": "A new eﬃcient method to solve the stream power law model taking into account sediment deposition",
+"annee": 2019,
+"type": "journal",
+"lieu": "Journal of Geophysical Research: Earth Surface",
+"url": "https://hal.science/hal-02136641v1",
+"doi": "10.1029/2018jf004867"
+},
+{
+"id": "p341404ce1d",
+"titre": "Combining Voxel and Normal Predictions for Multi-View 3D Sketching",
+"annee": 2019,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://hal.science/hal-02141469v1",
+"doi": "10.1016/j.cag.2019.05.024"
+},
+{
+"id": "p9da2a54adb",
+"titre": "De la fouille à la reconstitution des environnements et des comportements préhistoriques : l’outil de recherche SCHOPPER, un système immersif en aide à la formulation d’hypothèses scientifiques",
+"annee": 2019,
+"type": "conférence",
+"lieu": "144ème Congrès du C.T.H.S., Le réel & le virtuel, Marseille",
+"url": "https://hal.science/hal-04037667v1"
+},
+{
+"id": "p8da6ff7a8c",
+"titre": "DiCE: Dichoptic Contrast Enhancement for VR and Stereo Displays",
+"annee": 2019,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-02281073v1",
+"doi": "10.1145/3355089.3356552"
+},
+{
+"id": "p43108f1195",
+"titre": "Flexible SVBRDF Capture with a Multi-Image Deep Network",
+"annee": 2019,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-02164993v2",
+"doi": "10.1111/cgf.13765"
+},
+{
+"id": "p998a5c2cc9",
+"titre": "Line rendering of 3D meshes for data-driven sketch-based modeling",
+"annee": 2019,
+"type": "conférence",
+"lieu": "Journées Francaises d'Informatique Graphique et de Réalité virtuelle",
+"url": "https://inria.hal.science/hal-02391655v1"
+},
+{
+"id": "p3d8c62cc53",
+"titre": "Multi-Pose Interactive Linkage Design",
+"annee": 2019,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-02091234v1",
+"doi": "10.1111/cgf.13637"
+},
+{
+"id": "p01ff132062",
+"titre": "Multi-view Relighting using a Geometry-Aware Network",
+"annee": 2019,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-02125095v1",
+"doi": "10.1145/3306346.3323013"
+},
+{
+"id": "p30b641769c",
+"titre": "OpenSketch: A Richly-Annotated Dataset of Product Design Sketches",
+"annee": 2019,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-02284134v1",
+"doi": "10.1145/3355089.3356533"
+},
+{
+"id": "p2a66f67587",
+"titre": "Video Motion Stylization by 2D Rigidification",
+"annee": 2019,
+"type": "conférence",
+"lieu": "Expressive 2019 - 8th ACM/ Eurographics Proceedings of the Symposium",
+"url": "https://inria.hal.science/hal-02106047v1"
+},
+{
+"id": "p7727905093",
+"titre": "3D Sketching using Multi-View Deep Volumetric Prediction",
+"annee": 2018,
+"type": "journal",
+"lieu": "Proceedings of the ACM on Computer Graphics and Interactive Techniques",
+"url": "https://inria.hal.science/hal-01799600v1",
+"doi": "10.1145/3203197"
+},
+{
+"id": "pb88ebe8e7f",
+"titre": "A new efficient, O(n) and implicit method to solve the Stream Power Law taking into account sediment transport and deposition",
+"annee": 2018,
+"type": "journal",
+"lieu": "EGUGA",
+"url": "https://openalex.org/W2994623694"
+},
+{
+"id": "p1d5a82856d",
+"titre": "Deep Blending for Free-Viewpoint Image-Based Rendering",
+"annee": 2018,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-01886237v1",
+"doi": "10.1145/3272127.3275084"
+},
+{
+"id": "p06ae37a5eb",
+"titre": "Exploiting Repetitions for Image-Based Rendering of Facades",
+"annee": 2018,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-01814058v1"
+},
+{
+"id": "pec4eb941d5",
+"titre": "Interactive Generation of Time-evolving, Snow-Covered Landscapes with Avalanches",
+"annee": 2018,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-01736971v1",
+"doi": "10.1111/cgf.13379"
+},
+{
+"id": "p9c46920f87",
+"titre": "Multi-Scale Simulation of Nonlinear Thin-Shell Sound with Wave Turbulence",
+"annee": 2018,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-01797920v1",
+"doi": "10.1145/3197517.3201361"
+},
+{
+"id": "pfe7f4755e6",
+"titre": "Plane-Based Multi-View Inpainting for Image-Based Rendering in Large Scenes",
+"annee": 2018,
+"type": "conférence",
+"lieu": "I3D 2018 - ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games",
+"url": "https://inria.hal.science/hal-01745568v1",
+"doi": "10.1145/3190834.3190846"
+},
+{
+"id": "p6dd9cf28a5",
+"titre": "Procedural Modeling of a Building from a Single Image",
+"annee": 2018,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-01810207v1",
+"doi": "10.1111/cgf.13372"
+},
+{
+"id": "p51cf42204e",
+"titre": "Sculpting Mountains: Interactive Terrain Modeling Based on Subsurface Geology",
+"annee": 2018,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://hal.science/hal-01517343v1",
+"doi": "10.1109/tvcg.2017.2689022"
+},
+{
+"id": "p758a2dfef0",
+"titre": "Single-Image SVBRDF Capture with a Rendering-Aware Deep Network",
+"annee": 2018,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-01793826v2",
+"doi": "10.1145/3197517.3201378"
+},
+{
+"id": "p158e038b36",
+"titre": "Thin Structures in Image Based Rendering",
+"annee": 2018,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-01817948v1"
+},
+{
+"id": "p8cca33e91a",
+"titre": "Accommodation and Comfort in Head-Mounted Displays",
+"annee": 2017,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-01528458v1",
+"doi": "10.1145/3072959.3073622"
+},
+{
+"id": "p6986f3b895",
+"titre": "Authoring Landscapes by Combining Ecosystem and Terrain Erosion Simulation",
+"annee": 2017,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-01518967v1",
+"doi": "10.1145/3072959.3073667"
+},
+{
+"id": "pf2449b7e98",
+"titre": "EcoBrush: Interactive Control of Visually Consistent Large-Scale Ecosystems",
+"annee": 2017,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-01519852v1",
+"doi": "10.1111/cgf.13107"
+},
+{
+"id": "pf212dd037d",
+"titre": "Focus-tunable and Fixed Lenses and Stereoscopic 3D Displays",
+"annee": 2017,
+"type": "conférence",
+"lieu": "Proc. SPIE 10125, Emerging Liquid Crystal Technologies XII",
+"url": "https://inria.hal.science/hal-01585892v1"
+},
+{
+"id": "p6bb1bb5dc2",
+"titre": "Patterns from Photograph: Reverse-Engineering Developable Products",
+"annee": 2017,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://inria.hal.science/hal-01525747v1",
+"doi": "10.1016/j.cag.2017.05.017"
+},
+{
+"id": "pcd2eace131",
+"titre": "Photo2clipart",
+"annee": 2017,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://doi.org/10.1145/3130800.3130888",
+"doi": "10.1145/3130800.3130888"
+},
+{
+"id": "p3c6740f96e",
+"titre": "SketchSoup: Exploratory Ideation Using Design Sketches",
+"annee": 2017,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-01470706v1",
+"doi": "10.1111/cgf.13081"
+},
+{
+"id": "p02cad243a2",
+"titre": "A Feasibility Study with Image-Based Rendered Virtual Reality in Patients with Mild Cognitive Impairment and Dementia",
+"annee": 2016,
+"type": "journal",
+"lieu": "PLoS ONE",
+"url": "https://inria.hal.science/hal-01292254v1",
+"doi": "10.1371/journal.pone.0151487"
+},
+{
+"id": "p3f3b5d1d3f",
+"titre": "Automatic 3D Car Model Alignment for Mixed Image-Based Rendering",
+"annee": 2016,
+"type": "conférence",
+"lieu": "2016 International Conference on 3D Vision (3DV)",
+"url": "https://inria.hal.science/hal-01368355v1"
+},
+{
+"id": "p1f8afb5588",
+"titre": "Cotemporal Multi-View Video Segmentation",
+"annee": 2016,
+"type": "conférence",
+"lieu": "3DV 2016 -International Conference on 3D Vision",
+"url": "https://inria.hal.science/hal-01367430v2",
+"doi": "10.1109/3dv.2016.45"
+},
+{
+"id": "p06b5bb3dc2",
+"titre": "Fidelity vs. Simplicity: a Global Approach to Line Drawing Vectorization",
+"annee": 2016,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-01309271v1",
+"doi": "10.1145/2897824.2925946"
+},
+{
+"id": "pe8db628c59",
+"titre": "Gaze Prediction using Machine Learning for Dynamic Stereo Manipulation in Games",
+"annee": 2016,
+"type": "conférence",
+"lieu": "IEEE Virtual Reality",
+"url": "https://inria.hal.science/hal-01290273v1"
+},
+{
+"id": "p0e7994b70d",
+"titre": "How Novices Sketch and Prototype Hand-Fabricated Objects",
+"annee": 2016,
+"type": "conférence",
+"lieu": "Conference on Human Factors in Computing Systems (CHI)",
+"url": "https://inria.hal.science/hal-01272187v1",
+"doi": "10.1145/2858036.2858159"
+},
+{
+"id": "p523769f237",
+"titre": "Interactive sketching of urban procedural models",
+"annee": 2016,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-01378388v1",
+"doi": "10.1145/2897824.2925951"
+},
+{
+"id": "pa539674db2",
+"titre": "Large Scale Terrain Generation from Tectonic Uplift and Fluvial Erosion",
+"annee": 2016,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-01262376v1",
+"doi": "10.1111/cgf.12820"
+},
+{
+"id": "p6e502ae802",
+"titre": "Modeling Symmetric Developable Surfaces from a Single Photo",
+"annee": 2016,
+"type": "conférence",
+"lieu": "Journées Françaises d’Informatique Graphique",
+"url": "https://inria.hal.science/hal-01670545v1"
+},
+{
+"id": "p4cbd72876a",
+"titre": "Multi-View Inpainting for Image-Based Scene Editing and Rendering",
+"annee": 2016,
+"type": "conférence",
+"lieu": "2016 International Conference on 3D Vision (3DV)",
+"url": "https://inria.hal.science/hal-01369554v1"
+},
+{
+"id": "p0d5c431159",
+"titre": "Scalable Inside-Out Image-Based Rendering",
+"annee": 2016,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-01369382v1"
+},
+{
+"id": "p018bcc4307",
+"titre": "A Bayesian Approach for Selective Image-Based Rendering using Superpixels",
+"annee": 2015,
+"type": "conférence",
+"lieu": "International Conference on 3D Vision - 3DV",
+"url": "https://inria.hal.science/hal-01207907v1"
+},
+{
+"id": "p9c39d7ddfd",
+"titre": "A data-based approach to retrieve the viewpoint of a design sketch",
+"annee": 2015,
+"type": "journal",
+"lieu": "Revue Electronique Francophone d'Informatique Graphique",
+"url": "https://inria.hal.science/hal-01247508v1"
+},
+{
+"id": "pc5513fafb6",
+"titre": "BendFields: Regularized Curvature Fields from Rough Concept Sketches",
+"annee": 2015,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-01261456v1",
+"doi": "10.1145/2710026"
+},
+{
+"id": "p3f8ed26284",
+"titre": "Compiling High Performance Recursive Filters",
+"annee": 2015,
+"type": "conférence",
+"lieu": "High Performance Graphics",
+"url": "https://inria.hal.science/hal-01167185v1"
+},
+{
+"id": "pfc61c55563",
+"titre": "Finger-Based Manipulation in Immersive Spaces and the Real World",
+"annee": 2015,
+"type": "conférence",
+"lieu": "IEEE Symposium on 3D User Interfaces (3DUI)",
+"url": "https://inria.hal.science/hal-01114629v1",
+"doi": "10.1109/3dui.2015.7131734"
+},
+{
+"id": "p2a50b29d9d",
+"titre": "Is it possible to use highly realistic virtual reality in the elderly? A feasibility study with image-based rendering",
+"annee": 2015,
+"type": "journal",
+"lieu": "Neuropsychiatric Disease and Treatment",
+"url": "https://inria.hal.science/hal-01241641v1",
+"doi": "10.2147/ndt.s73179"
+},
+{
+"id": "p20208a63db",
+"titre": "Line Drawing Interpretation in a Multi-View Context",
+"annee": 2015,
+"type": "conférence",
+"lieu": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+"url": "https://inria.hal.science/hal-01140741v1"
+},
+{
+"id": "p3e3b9b75a8",
+"titre": "Multi-View Intrinsic Images of Outdoors Scenes with an Application to Relighting",
+"annee": 2015,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-01164841v1"
+},
+{
+"id": "pa7a169c6b6",
+"titre": "Multiview Intrinsic Images of Outdoors Scenes with an Application to Relighting",
+"annee": 2015,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://doi.org/10.1145/2756549",
+"doi": "10.1145/2756549"
+},
+{
+"id": "p0368b04a0a",
+"titre": "Probabilistic Connections for Bidirectional Path Tracing",
+"annee": 2015,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-01164842v1"
+},
+{
+"id": "p3eaad6d8cc",
+"titre": "Unifying Color and Texture Transfer for Predictive Appearance Manipulation",
+"annee": 2015,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-01158180v1"
+},
+{
+"id": "p9847dc6192",
+"titre": "WrapIt: Computer-Assisted Crafting of Wire Wrapped Jewelry",
+"annee": 2015,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-01261459v1",
+"doi": "10.1145/2816795.2818118"
+},
+{
+"id": "p21013baa08",
+"titre": "An Automated High Level Saliency Predictor for Smart Game Balancing",
+"annee": 2014,
+"type": "journal",
+"lieu": "ACM Transactions on Applied Perception",
+"url": "https://inria.hal.science/hal-01062718v1"
+},
+{
+"id": "pd5299b11ef",
+"titre": "C-LOD: Context-aware Material Level-of-Detail applied to Mobile Graphics",
+"annee": 2014,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-01062710v1"
+},
+{
+"id": "p9058b1d14e",
+"titre": "Evaluation of Direct Manipulation using Finger Tracking for Complex Tasks in an Immersive Cube",
+"annee": 2014,
+"type": "journal",
+"lieu": "Virtual Reality",
+"url": "https://inria.hal.science/hal-01060303v1",
+"doi": "10.1007/s10055-014-0246-0"
+},
+{
+"id": "pae38c4c4ae",
+"titre": "How Do People Edit Light Fields?",
+"annee": 2014,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-01060860v1",
+"doi": "10.1145/2601097.2601125"
+},
+{
+"id": "p6ad2f7046b",
+"titre": "Reminiscence Therapy using Image-Based Rendering in VR",
+"annee": 2014,
+"type": "conférence",
+"lieu": "IEEE Virtual Reality",
+"url": "https://inria.hal.science/hal-01060300v1"
+},
+{
+"id": "p7767ed51f6",
+"titre": "True2Form: 3D Curve Networks from 2D Sketches via Selective Regularization",
+"annee": 2014,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-01060850v1",
+"doi": "10.1145/2601097.2601128"
+},
+{
+"id": "pf3cf4b6500",
+"titre": "Vectorising Bitmaps into Semi-Transparent Gradient Layers",
+"annee": 2014,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-01060820v1"
+},
+{
+"id": "pca39a8a77e",
+"titre": "Auditory-Visual Aversive Stimuli Modulate the Conscious Experience of Fear",
+"annee": 2013,
+"type": "journal",
+"lieu": "Multisensory Research",
+"url": "https://inria.hal.science/hal-00920876v1"
+},
+{
+"id": "pf8a580f1e1",
+"titre": "Auditory-visual virtual reality as a diagnostic and therapeutic tool for cynophobia",
+"annee": 2013,
+"type": "journal",
+"lieu": "Journal of Cybertherapy and Rehabilitation",
+"url": "https://inria.hal.science/hal-00920871v1"
+},
+{
+"id": "pfb41a2050a",
+"titre": "Depicting Stylized Materials with Vector Shade Trees",
+"annee": 2013,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-00828067v1"
+},
+{
+"id": "p1aa56ecb9a",
+"titre": "Depth Synthesis and Local Warps for Plausible Image-based Navigation",
+"annee": 2013,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-00907793v1",
+"doi": "10.1145/2487228.2487238"
+},
+{
+"id": "p3f506dde8d",
+"titre": "Diffusion Curves: A Vector Representation for Smooth-Shaded Images",
+"annee": 2013,
+"type": "journal",
+"lieu": "Communications of the ACM",
+"url": "https://inria.hal.science/hal-00840848v1",
+"doi": "10.1145/2483852.2483873"
+},
+{
+"id": "pa2c52f5552",
+"titre": "Gloss Perception in Painterly and Cartoon Rendering",
+"annee": 2013,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-00811637v1"
+},
+{
+"id": "pc90625e26f",
+"titre": "Perception of Perspective Distortions in Image-Based Rendering",
+"annee": 2013,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-00907863v1",
+"doi": "10.1145/2461912.2461971"
+},
+{
+"id": "p6961394f37",
+"titre": "Rich Intrinsic Image Decomposition of Outdoor Scenes from Multiple Views",
+"annee": 2013,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-00761121v1"
+},
+{
+"id": "p23d943aec7",
+"titre": "The Drawing Assistant: Automated Drawing Guidance and Feedback from Photographs",
+"annee": 2013,
+"type": "conférence",
+"lieu": "ACM Symposium on User Interface Software and Technology (UIST)",
+"url": "https://inria.hal.science/hal-00840853v2"
+},
+{
+"id": "p6cc75156d8",
+"titre": "Auditory-Visual Integration of Emotional Signals in a Virtual Environment for Cynophobia",
+"annee": 2012,
+"type": "journal",
+"lieu": "Annual Review of Cybertherapy and Telemedicine",
+"url": "https://inria.hal.science/hal-00760726v1",
+"doi": "10.3233/978-1-61499-121-2-238"
+},
+{
+"id": "pd44bef3152",
+"titre": "Coherent Intrinsic Images from Photo Collections",
+"annee": 2012,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-00761123v1",
+"doi": "10.1145/2366145.2366221"
+},
+{
+"id": "pa24f92d25d",
+"titre": "CrossShade: Shading Concept Sketches Using Cross-Section Curves",
+"annee": 2012,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-00703202v2",
+"doi": "10.1145/2185520.2185541"
+},
+{
+"id": "pe12eb56ad3",
+"titre": "Example-Based Fractured Appearance",
+"annee": 2012,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-00752381v1",
+"doi": "10.1111/j.1467-8659.2012.03151.x"
+},
+{
+"id": "p5010604127",
+"titre": "Gabor Noise by Example",
+"annee": 2012,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-00695670v1",
+"doi": "10.1145/2185520.2185569"
+},
+{
+"id": "pcc4cfac695",
+"titre": "Gradient Art: Creation and Vectorization",
+"annee": 2012,
+"type": "chapitre",
+"lieu": "Image and Video based Artistic Stylization",
+"url": "https://inria.hal.science/hal-00760068v1"
+},
+{
+"id": "pff30b50c42",
+"titre": "Procedural audio modeling for particle-based environmental effects",
+"annee": 2012,
+"type": "conférence",
+"lieu": "133rd AES Convention",
+"url": "https://hal.science/hal-00759818v2"
+},
+{
+"id": "p4fd8ad15f5",
+"titre": "Real-Time Rendering of Rough Refraction",
+"annee": 2012,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-00652076v1",
+"doi": "10.1109/tvcg.2011.282"
+},
+{
+"id": "pc27241ca72",
+"titre": "Walking in a Cube: Novel Metaphors for Safely Navigating Large Virtual Environments in Restricted Real Workspaces",
+"annee": 2012,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-00759195v1",
+"doi": "10.1109/tvcg.2012.60"
+},
+{
+"id": "p1ab07613f1",
+"titre": "A Multimode Immersive Conceptual Design System for Architectural Modeling and Lighting",
+"annee": 2011,
+"type": "conférence",
+"lieu": "3D User Interfaces (3DUI), 2011 IEEE Symposium on",
+"url": "https://inria.hal.science/inria-00606833v1",
+"doi": "10.1109/3dui.2011.5759211"
+},
+{
+"id": "pa343d92339",
+"titre": "Filtering Solid Gabor Noise",
+"annee": 2011,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/inria-00606907v1"
+},
+{
+"id": "p80418cab81",
+"titre": "Image-Guided Weathering: A New Approach Applied to Flow Phenomena",
+"annee": 2011,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/inria-00606830v1",
+"doi": "10.1145/1966394.1966399"
+},
+{
+"id": "pf655e302be",
+"titre": "Images intrinsèques de scènes en extérieur à partir de multiples vues",
+"annee": 2011,
+"type": "journal",
+"lieu": "Revue Electronique Francophone d'Informatique Graphique",
+"url": "https://inria.hal.science/hal-00764964v1"
+},
+{
+"id": "p9ad5054244",
+"titre": "Optimizing Environment Maps for Material Depiction",
+"annee": 2011,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/inria-00606838v1"
+},
+{
+"id": "p7c9e476171",
+"titre": "Perception of Visual Artifacts in Image-Based Rendering of Façades",
+"annee": 2011,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/inria-00606832v1"
+},
+{
+"id": "p75530c6c84",
+"titre": "Real-Time Rough Refraction",
+"annee": 2011,
+"type": "conférence",
+"lieu": "ACM Siggraph Symposium on Interactive 3D Graphics and Games (I3D)",
+"url": "https://inria.hal.science/inria-00545955v5",
+"doi": "10.1145/1944745.1944764"
+},
+{
+"id": "pf22ce86c21",
+"titre": "Relighting Photographs of Tree Canopies",
+"annee": 2011,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/inria-00607042v1",
+"doi": "10.1109/tvcg.2010.236"
+},
+{
+"id": "pe90bceba63",
+"titre": "Silhouette-Aware Warping for Image-Based Rendering",
+"annee": 2011,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/inria-00607039v2",
+"doi": "10.1111/j.1467-8659.2011.01981.x"
+},
+{
+"id": "p94b1e9d6f0",
+"titre": "State-of-the-Art Report on Temporal Coherence for Stylized Animations",
+"annee": 2011,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/inria-00636210v1",
+"doi": "10.1111/j.1467-8659.2011.02075.x"
+}
+]
+}

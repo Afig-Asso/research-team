@@ -1,0 +1,884 @@
+{
+"equipe": "LISIC/SEPIA",
+"publications": [
+{
+"id": "p88d00f068b",
+"titre": "Beyond the prompt : gender ratio in text-to-image models, with a case study on hospital professions",
+"annee": 2026,
+"type": "journal",
+"lieu": "AI and Ethics",
+"url": "https://hal.science/hal-05489000v1",
+"doi": "10.1007/s43681-026-00997-5"
+},
+{
+"id": "p1484c0070c",
+"titre": "PyBOLE – A General Python Based Framework for Behavioral Online Experiments : A Case Study Using the QUEST+ Adaptive Method",
+"annee": 2026,
+"type": "journal",
+"lieu": "Journal of Open Research Software",
+"url": "https://hal.science/hal-05659100v1",
+"doi": "10.5334/jors.423"
+},
+{
+"id": "p572527540a",
+"titre": "Real-time Lighting from Complex Luminaires",
+"annee": 2026,
+"type": "journal",
+"lieu": "Journal on Computing and Cultural Heritage",
+"url": "https://doi.org/10.1145/3849481",
+"doi": "10.1145/3849481"
+},
+{
+"id": "p831de30909",
+"titre": "Parabolic Sphere Tracing Of Signed Distance Fields For Old Glass Modelling And Rendering",
+"annee": 2025,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://hal.science/hal-05328197v1",
+"doi": "10.1109/tvcg.2025.3613853"
+},
+{
+"id": "p8f80c09543",
+"titre": "Real-Time Rendering of Old Glass Panes",
+"annee": 2025,
+"type": "conférence",
+"lieu": "Digital Heritage 2025",
+"url": "https://hal.science/hal-05269611v1",
+"doi": "10.2312/dh.20253142"
+},
+{
+"id": "p477803fccb",
+"titre": "Simulating light quantity and quality over plant organs using a ray-tracing method to investigate plant responses in growth chambers",
+"annee": 2025,
+"type": "journal",
+"lieu": "Biosystems Engineering",
+"url": "https://hal.science/hal-05212812v1",
+"doi": "10.1016/j.biosystemseng.2025.104256"
+},
+{
+"id": "p2750536999",
+"titre": "Restituer un bâti disparu",
+"annee": 2024,
+"type": "conférence",
+"lieu": "Printemps de l'interdisciplinarité",
+"url": "https://hal.science/hal-04804432v1"
+},
+{
+"id": "p40bfad9a86",
+"titre": "Toto-Cell: A new software to analyze cellular events during video-microscopy",
+"annee": 2024,
+"type": "journal",
+"lieu": "PLoS ONE",
+"url": "https://hal.science/hal-04620953v1",
+"doi": "10.1371/journal.pone.0302042"
+},
+{
+"id": "p830474496d",
+"titre": "Congruent action context releases Mu rhythm desynchronization when visual objects activate competing action representations",
+"annee": 2023,
+"type": "journal",
+"lieu": "Cortex",
+"url": "https://lilloa.hal.science/hal-04012419v1",
+"doi": "10.1016/j.cortex.2023.01.009"
+},
+{
+"id": "p5f5adce222",
+"titre": "De l’ombre projetée dans le mythe de Dibutade : les tableaux de Wright of Derby et de Suvée à l’épreuve des outils numériques de simulation d’éclairage",
+"annee": 2023,
+"type": "conférence",
+"lieu": "5e colloque international - Ombre et récit, quand la narration plastique et littéraire se pare de sombre",
+"url": "https://shs.hal.science/halshs-04704897v1"
+},
+{
+"id": "p6e01295bc7",
+"titre": "Digital Lighting Simulation in the Analysis of Shadows in Paintings: An Application Using Joseph Benoît Suvée’s Dibutades (1791)",
+"annee": 2023,
+"type": "journal",
+"lieu": "Perspective - la revue de l'INHA : actualités de la recherche en histoire de l'art",
+"url": "https://hal.science/hal-04328304v1",
+"doi": "10.4000/perspective.29536"
+},
+{
+"id": "pac53f9e277",
+"titre": "HDR-LFNet: Inverse tone mapping using fusion network",
+"annee": 2023,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://hal.science/hal-04150900v1",
+"doi": "10.1016/j.cag.2023.05.007"
+},
+{
+"id": "p8427438f31",
+"titre": "Optimised Light Rendering through Old Glass",
+"annee": 2023,
+"type": "conférence",
+"lieu": "WSCG 2023 – 31. International Conference in Central Europe on Computer Graphics, Visualization and Computer Vision",
+"url": "https://hal.science/hal-04264368v1",
+"doi": "10.24132/csrn.3301.30"
+},
+{
+"id": "p08621bd193",
+"titre": "Real-time Multi-map Saliency-driven Gaze Behavior for Non-conversational Characters",
+"annee": 2023,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://hal.science/hal-03796523v3",
+"doi": "10.1109/tvcg.2023.3244679"
+},
+{
+"id": "p24f83ce37a",
+"titre": "Reconstructing Image Composition: Computation of Leading Lines",
+"annee": 2023,
+"type": "journal",
+"lieu": "Journal of Imaging",
+"url": "https://hal.science/hal-04363909v1",
+"doi": "10.3390/jimaging10010005"
+},
+{
+"id": "p2c3bfaeb91",
+"titre": "Consistent Multi-and Single-View HDR-Image Reconstruction from Single Exposures",
+"annee": 2022,
+"type": "conférence",
+"lieu": "10th Workshop on Intelligent Cinematography and Editing WICED 2022",
+"url": "https://hal.science/hal-03664202v1",
+"doi": "10.2312/wiced.20221050"
+},
+{
+"id": "p104d464fd0",
+"titre": "Deep learning for assessing the aesthetics of professional photographs",
+"annee": 2022,
+"type": "journal",
+"lieu": "Computer Animation and Virtual Worlds",
+"url": "https://hal.science/hal-03900933v1",
+"doi": "10.1002/cav.2105"
+},
+{
+"id": "p4e99f584ea",
+"titre": "From capture to immersive viewing of 3D HDR point clouds",
+"annee": 2022,
+"type": "conférence",
+"lieu": "Eurographics 2022 - The 43rd Annual Conference of the European Association for Computer Graphics",
+"url": "https://hal.science/hal-03664181v1",
+"doi": "10.2312/egt.20221054"
+},
+{
+"id": "p1e6171e0b4",
+"titre": "Guided-Generative Network: A New Robust Deep Learning Architecture for Noise Characterization in Monte-Carlo Rendering",
+"annee": 2022,
+"type": "chapitre",
+"lieu": "Deep Learning Applications, Volume 4",
+"url": "https://hal.science/hal-03875168v1",
+"doi": "10.1007/978-981-19-6153-3_12"
+},
+{
+"id": "peb6f121e6a",
+"titre": "How competition between action representations affects object perception during development",
+"annee": 2022,
+"type": "journal",
+"lieu": "Journal of Cognition and Development",
+"url": "https://lilloa.hal.science/hal-03481353v2",
+"doi": "10.1080/15248372.2022.2025808"
+},
+{
+"id": "p1204135dbe",
+"titre": "Projet tutoré inter-disciplinaire et inter-établissement pour la fabrication d’une borne d’arcade",
+"annee": 2022,
+"type": "journal",
+"lieu": "Journal sur l'enseignement des sciences et technologies de l'information et des systèmes",
+"url": "https://hal.science/hal-04167200v1",
+"doi": "10.1051/j3ea/20222010"
+},
+{
+"id": "pb4a869c1ef",
+"titre": "The Digital Field of Cloth of Gold: A Matter of Textile",
+"annee": 2022,
+"type": "conférence",
+"lieu": "International Conference \"Smart Textiles from Antiquity to Modern Times\"",
+"url": "https://lilloa.hal.science/hal-04138580v1"
+},
+{
+"id": "pc08b356ba1",
+"titre": "Example‐Based Colour Transfer for 3D Point Clouds",
+"annee": 2021,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-03396448v1",
+"doi": "10.1111/cgf.14388"
+},
+{
+"id": "p203df2a83f",
+"titre": "Firefly removal in Monte Carlo rendering with adaptive Median of meaNs",
+"annee": 2021,
+"type": "conférence",
+"lieu": "The 32nd edition of the Eurographics Symposium on Rendering (EGSR) 2021",
+"url": "https://hal.science/hal-03201630v2",
+"doi": "10.2312/sr.20211296"
+},
+{
+"id": "p92d24ead91",
+"titre": "Guided-Generative Network for noise detection in Monte-Carlo rendering",
+"annee": 2021,
+"type": "conférence",
+"lieu": "20th IEEE International Conference On Machine Learning And Applications",
+"url": "https://hal.science/hal-03374214v1"
+},
+{
+"id": "p1885f43bc5",
+"titre": "Minimalist And Customisable Optimisation Package",
+"annee": 2021,
+"type": "journal",
+"lieu": "Journal of Open Source Software",
+"url": "https://hal.science/hal-03168856v1",
+"doi": "10.21105/joss.02812"
+},
+{
+"id": "p40c5eacc21",
+"titre": "Restituer l’intérieur de la boutique de Gersaint : questions méthodologiques et techniques",
+"annee": 2021,
+"type": "chapitre",
+"lieu": "Watteau, Gersaint et le pont Notre-Dame à Paris au temps des Lumières : les enjeux d'une restitution numérique",
+"url": "https://hal.science/hal-03520561v1"
+},
+{
+"id": "p5c1ebc888c",
+"titre": "Stopping Criterion during Rendering of Computer-Generated Images Based on SVD-Entropy",
+"annee": 2021,
+"type": "journal",
+"lieu": "Entropy",
+"url": "https://hal.science/hal-03100109v1"
+},
+{
+"id": "pf0bf7602b3",
+"titre": "Watteau, Gersaint et le pont Notre-Dame à Paris au temps des Lumières. Les enjeux d'une restitution numérique",
+"annee": 2021,
+"type": "ouvrage",
+"lieu": "",
+"url": "https://hal.science/hal-03212755v1"
+},
+{
+"id": "p795be0e6fe",
+"titre": "A Perceptually Coherent TMO for Visualization of 360° HDR Images on HMD",
+"annee": 2020,
+"type": "chapitre",
+"lieu": "Transactions on computational science. XXXVII, Special issue on computer graphics",
+"url": "https://hal.science/hal-02912340v1",
+"doi": "10.1007/978-3-662-61983-4_7"
+},
+{
+"id": "p694f8fb60f",
+"titre": "Can we accurately predict where we look at paintings?",
+"annee": 2020,
+"type": "journal",
+"lieu": "PLoS ONE",
+"url": "https://inria.hal.science/hal-03107955v1",
+"doi": "10.1371/journal.pone.0239980"
+},
+{
+"id": "p5b34029e65",
+"titre": "Foveal and peripheral vision for assessing the quality of computer-generated images",
+"annee": 2020,
+"type": "journal",
+"lieu": "Journal of Vision",
+"url": "https://hal.science/hal-05551641v1",
+"doi": "10.1167/jov.20.11.355"
+},
+{
+"id": "p815975a7a2",
+"titre": "Tone mapping high dynamic 3D scenes with global lightness coherency",
+"annee": 2020,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://hal.science/hal-03192365v1",
+"doi": "10.1016/j.cag.2020.08.004"
+},
+{
+"id": "p9537795ff4",
+"titre": "Context in Photo Albums",
+"annee": 2019,
+"type": "journal",
+"lieu": "ACM Transactions on Applied Perception",
+"url": "https://doi.org/10.1145/3333612",
+"doi": "10.1145/3333612"
+},
+{
+"id": "pdd5b263098",
+"titre": "HMD-TMO: A Tone Mapping Operator for 360° HDR Images Visualization for Head Mounted Displays",
+"annee": 2019,
+"type": "conférence",
+"lieu": "Computer Graphics International",
+"url": "https://hal.science/hal-02301430v1",
+"doi": "10.1007/978-3-030-22514-8_18"
+},
+{
+"id": "p8c7cb23d53",
+"titre": "Quality Assessment of HDR/WCG Images Using HDR Uniform Color Spaces",
+"annee": 2019,
+"type": "journal",
+"lieu": "Journal of Imaging",
+"url": "https://inria.hal.science/hal-02131890v1",
+"doi": "10.3390/jimaging5010018"
+},
+{
+"id": "pab9313197c",
+"titre": "Quality metric aggregation for HDR/WCG images",
+"annee": 2019,
+"type": "conférence",
+"lieu": "International Conference on Image Processing (ICIP)",
+"url": "https://inria.hal.science/hal-02265122v1"
+},
+{
+"id": "pcc53aa30a6",
+"titre": "The development of the processing cost entailed by conflicting affordances during object perception",
+"annee": 2019,
+"type": "conférence",
+"lieu": "21st European Society for Cognitive Psychology (ESCOP)",
+"url": "https://hal.science/hal-03325059v1"
+},
+{
+"id": "pafc06f3062",
+"titre": "Directing the Photography: Combining Cinematic Rules, Indirect Light Controls and Lighting-by-Example",
+"annee": 2018,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://telecom-paris.hal.science/hal-02288016v1",
+"doi": "10.1111/cgf.13546"
+},
+{
+"id": "p8df07ac18b",
+"titre": "Face Detection in Painting Using Deep Convolutional Neural Networks",
+"annee": 2018,
+"type": "chapitre",
+"lieu": "Advanced Concepts for Intelligent Vision Systems",
+"url": "https://hal.science/hal-03457364v1",
+"doi": "10.1007/978-3-030-01449-0_28"
+},
+{
+"id": "pcb008587f1",
+"titre": "Full-Reference Methods and Machine Learning",
+"annee": 2018,
+"type": "chapitre",
+"lieu": "SpringerBriefs in computer science",
+"url": "https://doi.org/10.1007/978-3-319-73543-6_4",
+"doi": "10.1007/978-3-319-73543-6_4"
+},
+{
+"id": "p701f3de81b",
+"titre": "General Conclusion and Perspectives",
+"annee": 2018,
+"type": "chapitre",
+"lieu": "SpringerBriefs in computer science",
+"url": "https://doi.org/10.1007/978-3-319-73543-6_7",
+"doi": "10.1007/978-3-319-73543-6_7"
+},
+{
+"id": "p23f0a14eb6",
+"titre": "Image Quality Assessment of Computer-generated Images, Based on Machine Learning and Soft Computing",
+"annee": 2018,
+"type": "ouvrage",
+"lieu": "",
+"url": "https://hal.science/hal-01744907v1",
+"doi": "10.1007/978-3-319-73543-6"
+},
+{
+"id": "p9448cd324e",
+"titre": "Image Selection in Photo Albums",
+"annee": 2018,
+"type": "conférence",
+"lieu": "ICMR '18 - International Conference on Multimedia Retrieval",
+"url": "https://inria.hal.science/hal-01934286v1",
+"doi": "10.1145/3206025.3206077"
+},
+{
+"id": "p4b646b6b89",
+"titre": "Impacts of viewing conditions on HDR-VDP2",
+"annee": 2018,
+"type": "conférence",
+"lieu": "EUSIPCO",
+"url": "https://inria.hal.science/hal-01952421v1"
+},
+{
+"id": "p8e139434a3",
+"titre": "Introduction",
+"annee": 2018,
+"type": "chapitre",
+"lieu": "SpringerBriefs in computer science",
+"url": "https://doi.org/10.1007/978-3-319-73543-6_1",
+"doi": "10.1007/978-3-319-73543-6_1"
+},
+{
+"id": "p584be3b02c",
+"titre": "Monte Carlo Methods for Image Synthesis",
+"annee": 2018,
+"type": "chapitre",
+"lieu": "SpringerBriefs in computer science",
+"url": "https://doi.org/10.1007/978-3-319-73543-6_2",
+"doi": "10.1007/978-3-319-73543-6_2"
+},
+{
+"id": "pff62b96cd8",
+"titre": "Multi-purpose bi-local CAT-based guidance filter",
+"annee": 2018,
+"type": "journal",
+"lieu": "Signal Processing Image Communication",
+"url": "https://doi.org/10.1016/j.image.2018.03.010",
+"doi": "10.1016/j.image.2018.03.010"
+},
+{
+"id": "p65c87c7314",
+"titre": "No-Reference Methods and Fuzzy Sets",
+"annee": 2018,
+"type": "chapitre",
+"lieu": "SpringerBriefs in computer science",
+"url": "https://doi.org/10.1007/978-3-319-73543-6_6",
+"doi": "10.1007/978-3-319-73543-6_6"
+},
+{
+"id": "p729106d92a",
+"titre": "Path Tracing optimisé pour le rendu de séquences d’images de scènes éclairées par une flamme",
+"annee": 2018,
+"type": "conférence",
+"lieu": "31èmes Journées Française d’Informatique Graphique",
+"url": "https://hal.science/hal-04251926v1"
+},
+{
+"id": "pdf22abe369",
+"titre": "Reduced-Reference Methods",
+"annee": 2018,
+"type": "chapitre",
+"lieu": "SpringerBriefs in computer science",
+"url": "https://doi.org/10.1007/978-3-319-73543-6_5",
+"doi": "10.1007/978-3-319-73543-6_5"
+},
+{
+"id": "pda05ab2c2e",
+"titre": "Transformation of the Beta distribution for color transfer",
+"annee": 2018,
+"type": "conférence",
+"lieu": "VISIGRAPP (GRAPP)",
+"url": "https://inria.hal.science/hal-02449248v1"
+},
+{
+"id": "p06283a21b6",
+"titre": "Visual Impact of Rendering on Image Quality",
+"annee": 2018,
+"type": "chapitre",
+"lieu": "SpringerBriefs in computer science",
+"url": "https://doi.org/10.1007/978-3-319-73543-6_3",
+"doi": "10.1007/978-3-319-73543-6_3"
+},
+{
+"id": "p9adcd52508",
+"titre": "A Spatial Target Function for Metropolis Photon Tracing",
+"annee": 2017,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-01505646v1",
+"doi": "10.1145/2963097"
+},
+{
+"id": "p53166cf982",
+"titre": "Context-aware clustering and assessment of photo collections",
+"annee": 2017,
+"type": "conférence",
+"lieu": "Expressive '17 The symposium on Computational Aesthetics",
+"url": "https://hal.science/hal-01934281v1",
+"doi": "10.1145/3092912.3092916"
+},
+{
+"id": "pa573e30bd1",
+"titre": "High-dynamic-range image recovery from flash and non-flash image pairs",
+"annee": 2017,
+"type": "journal",
+"lieu": "The Visual Computer",
+"url": "https://inria.hal.science/hal-01650464v1",
+"doi": "10.1007/s00371-017-1399-0"
+},
+{
+"id": "p3094380bbb",
+"titre": "Perception of noise and global illumination: Toward an automatic stopping criterion based on SVM",
+"annee": 2017,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://hal.science/hal-03457191v1",
+"doi": "10.1016/j.cag.2017.09.008"
+},
+{
+"id": "pabbc9736f1",
+"titre": "Perceptual metric for color transfer methods",
+"annee": 2017,
+"type": "conférence",
+"lieu": "IEEE International Conference on Image Processing - ICIP 2017",
+"url": "https://inria.hal.science/hal-01651141v1"
+},
+{
+"id": "p4f29967b84",
+"titre": "Transformation of the Multivariate Generalized Gaussian Distribution for Image Editing",
+"annee": 2017,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-01650368v1",
+"doi": "10.1109/tvcg.2017.2769050"
+},
+{
+"id": "p930c345d51",
+"titre": "An Out-of-Core Method for Physical Simulations on a Multi-GPU Architecture Using Lattice Boltzmann Method",
+"annee": 2016,
+"type": "conférence",
+"lieu": "The13th IEEE International Conference on Advanced and Trusted Computing",
+"url": "https://hal.science/hal-03457331v1",
+"doi": "10.1109/uic-atc-scalcom-cbdcom-iop-smartworld.2016.0099"
+},
+{
+"id": "p943260c8c2",
+"titre": "Computer generated hologram from Multiview-plus-Depth data considering specular reflections",
+"annee": 2016,
+"type": "conférence",
+"lieu": "IEEE International Conference on Multimedia Expo Workshops (ICMEW 2016)",
+"url": "https://hal.science/hal-01415724v1",
+"doi": "10.1109/icmew.2016.7574699"
+},
+{
+"id": "pecedf31fa9",
+"titre": "Hybrid approach for fast occlusion processing in computer-generated hologram calculation",
+"annee": 2016,
+"type": "journal",
+"lieu": "Applied optics",
+"url": "https://hal.science/hal-01415697v2",
+"doi": "10.1364/ao.55.005459"
+},
+{
+"id": "pd572a523b6",
+"titre": "Low-Level Image Processing Based on Interval-Valued Fuzzy Sets and Scale-Space Smoothing",
+"annee": 2016,
+"type": "chapitre",
+"lieu": "Recent Contributions in Intelligent Systems (Studies in Computational Intelligence, vol 657)",
+"url": "https://hal.science/hal-05551688v1",
+"doi": "10.1007/978-3-319-41438-6_1"
+},
+{
+"id": "p0f79576469",
+"titre": "Style Aware Tone Expansion for HDR Displays",
+"annee": 2016,
+"type": "conférence",
+"lieu": "GI 2016 : Graphic Interface conference",
+"url": "https://hal.science/hal-02117722v1",
+"doi": "10.20380/gi2016.08"
+},
+{
+"id": "p76f3482faf",
+"titre": "Tone compatibility between HDR displays",
+"annee": 2016,
+"type": "conférence",
+"lieu": "Optical Engineering + Applications 2016 : SPIE optical design, engineering, fabrication, and instrumentation conference",
+"url": "https://hal.science/hal-02117620v1",
+"doi": "10.1117/12.2236965"
+},
+{
+"id": "paae0e66fe2",
+"titre": "Tone expansion using lighting style aesthetics",
+"annee": 2016,
+"type": "journal",
+"lieu": "Computers & Graphics",
+"url": "https://doi.org/10.1016/j.cag.2016.12.006",
+"doi": "10.1016/j.cag.2016.12.006"
+},
+{
+"id": "p184bc815a5",
+"titre": "Video Tone Mapping",
+"annee": 2016,
+"type": "chapitre",
+"lieu": "Elsevier eBooks",
+"url": "https://doi.org/10.1016/b978-0-08-100412-8.00006-1",
+"doi": "10.1016/b978-0-08-100412-8.00006-1"
+},
+{
+"id": "p413b0df4ec",
+"titre": "A Progressive Mesh Method for Physical Simulations Using Lattice Boltzmann Method on Single-Node Multi-GPU Architectures",
+"annee": 2015,
+"type": "journal",
+"lieu": "International Journal of Distributed and Parallel systems",
+"url": "https://doi.org/10.5121/ijdps.2015.6501",
+"doi": "10.5121/ijdps.2015.6501"
+},
+{
+"id": "p8c1ebfeee9",
+"titre": "Accelerating Physical Simulations from a Multicomponent Lattice Boltzmann Method on a Single-Node Multi-GPU Architecture",
+"annee": 2015,
+"type": "conférence",
+"lieu": "2015 10th International Conference on P2P, Parallel, Grid, Cloud and Internet Computing (3PGCIC)",
+"url": "https://hal.science/hal-03457369v1",
+"doi": "10.1109/3pgcic.2015.41"
+},
+{
+"id": "p60da70a7e0",
+"titre": "Color transfer between high-dynamic-range images",
+"annee": 2015,
+"type": "conférence",
+"lieu": "SPIE 9599, Applications of Digital Image Processing XXXVIII",
+"url": "https://inria.hal.science/hal-01219780v1"
+},
+{
+"id": "p5d3d2a0337",
+"titre": "Complex modulation computer-generated hologram by a fast hybrid point-source/wave-field approach",
+"annee": 2015,
+"type": "conférence",
+"lieu": "IEEE International Conference on Image Processing (ICIP 2015)",
+"url": "https://hal.science/hal-01229462v2",
+"doi": "10.1109/icip.2015.7351751"
+},
+{
+"id": "pb890fdffdc",
+"titre": "Complex modulation computer-generated hologram with occlusion effect by a fast hybrid point-source/wave-field approach",
+"annee": 2015,
+"type": "conférence",
+"lieu": "Pacific Conference on Computer Graphics and Applications (Pacific Graphics) 2015",
+"url": "https://hal.science/hal-01415730v1",
+"doi": "10.2312/pg.20151277"
+},
+{
+"id": "p9aae42224d",
+"titre": "Evaluation of a photon tracing model and virtual plants to simulate light distribution within a canopy in a growth chamber",
+"annee": 2015,
+"type": "conférence",
+"lieu": "7th International conference on functional-structural plant models (FSPM 2013),",
+"url": "https://hal.inrae.fr/hal-02746784v1"
+},
+{
+"id": "pdfc8585ece",
+"titre": "Fast generation of complex modulation video holograms using temporal redundancy compression and hybrid point-source/wave-field approaches",
+"annee": 2015,
+"type": "conférence",
+"lieu": "SPIE Optics + Photonics 2015",
+"url": "https://hal.science/hal-01229472v2",
+"doi": "10.1117/12.2187045"
+},
+{
+"id": "pe507686089",
+"titre": "Génération Numérique d'Hologrammes : État de l'Art",
+"annee": 2015,
+"type": "journal",
+"lieu": "Revue Electronique Francophone d'Informatique Graphique",
+"url": "https://hal.science/hal-01279623v1"
+},
+{
+"id": "pb6b4060e0f",
+"titre": "Style-aware robust color transfer",
+"annee": 2015,
+"type": "conférence",
+"lieu": "Computational Aesthetics in Graphics, Visualization, and Imaging",
+"url": "https://inria.hal.science/hal-01219789v1"
+},
+{
+"id": "p5af49755cf",
+"titre": "A comparison of two machine learning approaches for Photometric Solids Compression",
+"annee": 2014,
+"type": "chapitre",
+"lieu": "Intelligent Computer Graphics 2010",
+"url": "https://inria.hal.science/hal-00826051v1"
+},
+{
+"id": "pbaed21e896",
+"titre": "Automatic Aesthetics-based Lighting Design with Global Illumination",
+"annee": 2014,
+"type": "conférence",
+"lieu": "Pacific Graphics",
+"url": "https://inria.hal.science/hal-01141848v1",
+"doi": "10.2312/pgs.20141256"
+},
+{
+"id": "pc7dbf30234",
+"titre": "Computer-Generated Holography : State of the Art",
+"annee": 2014,
+"type": "conférence",
+"lieu": "Reims Image 2014",
+"url": "https://hal.science/hal-01093050v1"
+},
+{
+"id": "pfc0c9d175f",
+"titre": "Contribution of the motor system to the perception of reachable space: an fMRI study",
+"annee": 2014,
+"type": "journal",
+"lieu": "European Journal of Neuroscience",
+"url": "https://lilloa.hal.science/hal-01214347v1",
+"doi": "10.1111/ejn.12742"
+},
+{
+"id": "p64aa23ad23",
+"titre": "Dynamic mesh refinement for lattice Boltzmann models using criterion of non equilibrium stress tensor",
+"annee": 2014,
+"type": "conférence",
+"lieu": "23rd International Conference on Discrete Simulation of Fluid Dynamics (DSFD)",
+"url": "https://hal.science/hal-03457417v1"
+},
+{
+"id": "pb92f572bb5",
+"titre": "Image multi-scène par intégration d'un autostéréogramme dans une scène 3D",
+"annee": 2014,
+"type": "journal",
+"lieu": "Revue Electronique Francophone d'Informatique Graphique",
+"url": "https://hal.science/hal-01081800v1"
+},
+{
+"id": "p59fae42c0d",
+"titre": "Immersive front-projection analysis using a radiosity-based simulation method",
+"annee": 2014,
+"type": "journal",
+"lieu": "Virtual Reality",
+"url": "https://hal.science/hal-00905635v1",
+"doi": "10.1007/s10055-013-0233-x"
+},
+{
+"id": "p852c72c25f",
+"titre": "Motion-guided quantization for video tone mapping",
+"annee": 2014,
+"type": "conférence",
+"lieu": "Multimedia and Expo (ICME), 2014 IEEE International Conference on",
+"url": "https://inria.hal.science/hal-01141849v1",
+"doi": "10.1109/icme.2014.6890191"
+},
+{
+"id": "pb8c3f69718",
+"titre": "Noise Estimation for Computer-Generated Images Using an Interval Type-2 Fuzzy Sets Filter",
+"annee": 2014,
+"type": "chapitre",
+"lieu": "Advances in intelligent systems and computing",
+"url": "https://doi.org/10.1007/978-3-319-11310-4_53",
+"doi": "10.1007/978-3-319-11310-4_53"
+},
+{
+"id": "pd12c69175d",
+"titre": "Numerical Stabilisation of the Lattice Boltzmann Method for Higher Reynolds Number Fluid",
+"annee": 2014,
+"type": "conférence",
+"lieu": "CSC'14 : The 2014 International Conference on Scientific Computing",
+"url": "https://hal.science/hal-03457429v1"
+},
+{
+"id": "pc3fe74367f",
+"titre": "Survey of Temporal Brightness Artifacts in Video Tone Mapping",
+"annee": 2014,
+"type": "conférence",
+"lieu": "HDRi2014 - Second International Conference and SME Workshop on HDR imaging",
+"url": "https://inria.hal.science/hal-01142294v1"
+},
+{
+"id": "pd01fd2b07d",
+"titre": "Zonal brightness coherency for video tone mapping",
+"annee": 2014,
+"type": "journal",
+"lieu": "Signal Processing: Image Communication",
+"url": "https://inria.hal.science/hal-01141841v1",
+"doi": "10.1016/j.image.2013.10.001"
+},
+{
+"id": "p58b67cff53",
+"titre": "Eye-Centered Color Adaptation in Global Illumination",
+"annee": 2013,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-01141842v1",
+"doi": "10.1111/cgf.12218"
+},
+{
+"id": "p54cfc8ae31",
+"titre": "Impact of temporal coherence-based Tone Mapping on video compression",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Signal Processing Conference (EUSIPCO), 2013 Proceedings of the 21st European",
+"url": "https://inria.hal.science/hal-01142291v1"
+},
+{
+"id": "pda3d2ae4a0",
+"titre": "Rendu Progressif basé Metropolis-Hasting dans des scènes à contextes topologiques multiples",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Journées AFIG 2013",
+"url": "https://unilim.hal.science/hal-00933148v1"
+},
+{
+"id": "p4b116e0789",
+"titre": "Temporal Coherency in Video Tone Mapping, A Survey",
+"annee": 2013,
+"type": "conférence",
+"lieu": "HDRi2013 - First International Conference and SME Workshop on HDR imaging",
+"url": "https://inria.hal.science/hal-01142308v1"
+},
+{
+"id": "pe59b35778c",
+"titre": "Visibility-driven progressive volume photon tracing",
+"annee": 2013,
+"type": "journal",
+"lieu": "The Visual Computer",
+"url": "https://inria.hal.science/hal-01141843v1",
+"doi": "10.1007/s00371-013-0845-x"
+},
+{
+"id": "pb0cf092519",
+"titre": "Visibility-driven progressive volume photon tracing",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Computer Graphics International",
+"url": "https://inria.hal.science/hal-01143410v1"
+},
+{
+"id": "p4421679df6",
+"titre": "Design and Application of Real-Time Visual Attention Model for the Exploration of 3D Virtual Environments",
+"annee": 2012,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-01142540v1",
+"doi": "10.1109/tvcg.2011.154"
+},
+{
+"id": "p791f7b5ac2",
+"titre": "Light Propagation Maps on Parallel Graphics Architectures",
+"annee": 2012,
+"type": "conférence",
+"lieu": "Eurographics Symposium on Parallel Graphics and Visualization",
+"url": "https://inria.hal.science/hal-01142316v1"
+},
+{
+"id": "p621770b09d",
+"titre": "Practical photoquantity measurement using a camera",
+"annee": 2012,
+"type": "journal",
+"lieu": "IET Image Processing",
+"url": "https://hal.science/hal-00727103v1",
+"doi": "10.1049/iet-ipr.2010.0130"
+},
+{
+"id": "pc227630a94",
+"titre": "Temporal coherency for video tone mapping",
+"annee": 2012,
+"type": "conférence",
+"lieu": "SPIE: Applications of Digital Image Processing XXXV",
+"url": "https://inria.hal.science/hal-01142313v1",
+"doi": "10.1117/12.929600"
+},
+{
+"id": "p2b8b1ab577",
+"titre": "Analyse en simulation de projection immersive par l'avant",
+"annee": 2011,
+"type": "journal",
+"lieu": "Revue Electronique Francophone d'Informatique Graphique",
+"url": "https://hal.science/hal-00659921v1"
+},
+{
+"id": "p5a7269ecbe",
+"titre": "Calcul du chemin géodésique linéaire sur des maillages triangulaires",
+"annee": 2011,
+"type": "journal",
+"lieu": "Revue Electronique Francophone d'Informatique Graphique",
+"url": "https://hal.science/hal-00967317v1"
+},
+{
+"id": "p0a16490e07",
+"titre": "SIMULACIONES DE LA CONDUCTA SOCIAL: ¿POR QUÉ y CÓMO?",
+"annee": 2011,
+"type": "journal",
+"lieu": "Revista Mexicana de Análisis de la Conducta",
+"url": "https://doi.org/10.5514/rmac.v26.i2.25135",
+"doi": "10.5514/rmac.v26.i2.25135"
+}
+]
+}

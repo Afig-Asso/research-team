@@ -1,0 +1,76 @@
+equipe: IRISA/Rainbow
+domaines:
+  principaux:
+  - rv
+  secondaires:
+  - animation
+  - humains
+themes:
+- id: haptique
+  phrase: Retour haptique par ultrasons dans l'air, électrotactile, thermique et vibrotactile, et dispositifs portables pour
+    la main et les doigts pour manipuler des objets virtuels ou téléopérer des robots.
+  preuves:
+  - pffa1c24b03
+  - paa3a3c741f
+  - p6b798c770a
+- id: incarnation_presence
+  phrase: Couplage visuo-haptique pour renforcer l'incarnation de membres virtuels, y compris de prothèses, et retours haptiques
+    affectifs dans les interactions sociales en RV.
+  preuves:
+  - pdd1e495263
+  - pa50507b62f
+  - p8edf199152
+- id: realite_augmentee
+  phrase: Perception haptique des textures et rendu visuo-haptique de la main en réalité augmentée, et estimation de la réflectance
+    et de l'éclairage pour des augmentations réalistes.
+  preuves:
+  - p170639e0ad
+  - p271571eb04
+  - pa69375e6da
+- id: simulation_deformables
+  phrase: Simulation physique d'objets déformables (ventouses, objets mous) pour l'interaction haptique et la robotique.
+  preuves:
+  - p137e7b29c3
+  - p057cbf52da
+  - p25fd4c87e3
+- id: confort_rv
+  phrase: Simulateurs de conduite de fauteuil roulant en RV avec retours vestibulaires et tactiles pour renforcer la sensation
+    de mouvement propre.
+  preuves:
+  - p1b5c494b08
+  - p21342cfdc0
+  - p4a303db614
+- id: capture_4d
+  phrase: Capture, reconstruction et animation détaillées de la région de l'œil et des cils.
+  preuves:
+  - p147accc0cf
+  - p1c96656b8c
+  - pd4b5e67bf5
+applications:
+- id: sante
+  preuves:
+  - pdd1e495263
+  - p342036f38d
+  - pd946189989
+- id: robotique
+  preuves:
+  - pc271762ad3
+  - p59fba29474
+  - p545bce4f6b
+- id: accessibilite
+  preuves:
+  - p342036f38d
+  - p834ba9e810
+  - pa1b2e796fc
+publications_representatives:
+- pffa1c24b03
+- p6b798c770a
+- p137e7b29c3
+- pd4b5e67bf5
+- pdd1e495263
+synthese: Retour haptique (ultrasons, vibrations, stimulation thermique), interaction physique en réalité virtuelle et augmentée,
+  simulation pour l'assistance au handicap.
+pour_etudiants: On y fait sentir les objets virtuels au bout des doigts, avec des ultrasons, des vibrations ou de la chaleur,
+  et on conçoit des simulateurs de fauteuil roulant en réalité virtuelle.
+pour_entreprises: Dispositifs haptiques portables pour la RV/RA et la téléopération de robots, simulateurs et aide à la navigation
+  (fauteuil, déambulateur) et simulation d'objets déformables.

@@ -1,0 +1,62 @@
+equipe: CRIStAL/MINT
+domaines:
+  principaux:
+  - rv
+  secondaires: []
+themes:
+- id: interaction_gestuelle
+  phrase: Conception d'instruments de musique numériques immersifs et gestuels, dont le dessin musical en 3D en réalité étendue
+    ; augmentations visuelles qui rendent lisibles pour le public les gestes des performeurs et le fonctionnement des instruments
+    numériques, jusqu'aux co-improvisations humain-IA.
+  preuves:
+  - p89aa3c0dae
+  - p7562ec9369
+  - p76526169a8
+  - p0ffafaf2ff
+- id: realite_augmentee
+  phrase: Réalité mixte co-localisée et augmentée spatiale pour la scène, les performances artistiques et les expositions
+    publiques.
+  preuves:
+  - pa94a2bcf24
+  - pbbd4476822
+  - p1f844a3f9a
+- id: haptique
+  phrase: 'Retour tactile sur surfaces et écrans : textures par friction ultrasonore, retour vibrotactile sur écran et au
+    poignet, combinés au son et à l''image.'
+  preuves:
+  - p39321ba6df
+  - pdab86e2f20
+  - p806305697e
+- id: interaction_3d
+  phrase: Techniques d'interaction 3D adaptées à l'expression artistique, au dessin en l'air et à la collaboration en RV.
+  preuves:
+  - pcc8bc4aa17
+  - p4556636e37
+  - p8d3236b839
+- id: incarnation_presence
+  phrase: Mesures comportementales de la coprésence entre personnes immergées dans un même espace de réalité mixte.
+  preuves:
+  - p1a41b594fc
+  - pef64415474
+applications:
+- id: art_musique
+  preuves:
+  - p89aa3c0dae
+  - pa94a2bcf24
+  - paef05ac0f7
+- id: patrimoine
+  preuves:
+  - pd92a71ebca
+  - p1f844a3f9a
+publications_representatives:
+- p1a41b594fc
+- pa94a2bcf24
+- p89aa3c0dae
+- p39321ba6df
+- p31701d81a8
+synthese: 'Interaction gestuelle et haptique : instruments numériques, dispositifs de réalité mixte pour la performance artistique
+  et retour tactile sur surfaces.'
+pour_etudiants: On y invente des instruments de musique et des spectacles en réalité virtuelle ou augmentée, et des écrans
+  tactiles qui font sentir des textures sous le doigt.
+pour_entreprises: Conception et évaluation d'interfaces immersives, gestuelles et tactiles (retour haptique sur surfaces)
+  pour le spectacle vivant, la médiation culturelle et la collaboration.

@@ -1,0 +1,2211 @@
+{
+"equipe": "IRISA/COMBO",
+"publications": [
+{
+"id": "paef2e5e058",
+"titre": "A pilot study on the validity and fidelity of two virtual reality systems for tennis training across different skill levels",
+"annee": 2026,
+"type": "journal",
+"lieu": "Virtual Reality",
+"url": "https://hal.science/hal-05764098v1",
+"doi": "10.1007/s10055-026-01453-9"
+},
+{
+"id": "pf1c200c00c",
+"titre": "Anthropometric Prior for Human Mesh Recovery -APHMR",
+"annee": 2026,
+"type": "journal",
+"lieu": "Multidisciplinary Biomechanics Journal",
+"url": "https://inria.hal.science/hal-05671144v1"
+},
+{
+"id": "p0c6b1460ab",
+"titre": "Are Dry‐Land Force–Velocity Abilities Related to In‐Water Load–Velocity Profiles in Sprint Swimming?",
+"annee": 2026,
+"type": "journal",
+"lieu": "European Journal of Sport Science",
+"url": "https://doi.org/10.1002/ejsc.70129",
+"doi": "10.1002/ejsc.70129"
+},
+{
+"id": "p6136c5f768",
+"titre": "CAFe-GS : Densification orientée compacité par guidage fréquentiel pour le 3D Gaussian Splatting",
+"annee": 2026,
+"type": "conférence",
+"lieu": "CORESA 2026 - COmpression et REprésentation des Signaux Audiovisuels 2026",
+"url": "https://hal.science/hal-05591104v1"
+},
+{
+"id": "p747ea42dd5",
+"titre": "CAFe-GS: Compactness-Aware Frequency-Guided Densification for 3D Gaussian Splatting",
+"annee": 2026,
+"type": "conférence",
+"lieu": "ICPR 2026 - 28th International Conference on Pattern Recognition",
+"url": "https://hal.science/hal-05583323v1"
+},
+{
+"id": "p93b9e9897e",
+"titre": "Cloud-based markerless motion analysis: how robust over compression and privacy constraints?",
+"annee": 2026,
+"type": "journal",
+"lieu": "Multidisciplinary Biomechanics Journal",
+"url": "https://inria.hal.science/hal-05671159v2",
+"doi": "10.46298/mbj.19191"
+},
+{
+"id": "p9cefc386fd",
+"titre": "D-Garment: Physically Grounded Latent Diffusion for Dynamic Garment Deformations",
+"annee": 2026,
+"type": "journal",
+"lieu": "Transactions on Machine Learning Research",
+"url": "https://hal.science/hal-05027298v2"
+},
+{
+"id": "pef05be4c48",
+"titre": "Do motion retargeting and AI-generated motion preserve anticipatory visual information in boxing animation?",
+"annee": 2026,
+"type": "conférence",
+"lieu": "SAP 2026 - ACM Symposium on Applied Perception",
+"url": "https://inria.hal.science/hal-05699514v1",
+"doi": "10.1145/3821409.3821464"
+},
+{
+"id": "pd335b8be65",
+"titre": "ETNA: EnTropy regularization for compressed Neural Avatar",
+"annee": 2026,
+"type": "conférence",
+"lieu": "BMVC 2026 - The 37th British Machine Vision Conference",
+"url": "https://hal.science/hal-05735880v1"
+},
+{
+"id": "pf7602bdf38",
+"titre": "Errors in physical bouncing models in virtual racket training: influence on the user's performance",
+"annee": 2026,
+"type": "journal",
+"lieu": "Virtual Reality",
+"url": "https://hal.science/hal-05701507v1"
+},
+{
+"id": "p81811bb05c",
+"titre": "Evaluating the impact of VR training on scanning frequency in national level youth football: insights into transfer and performance",
+"annee": 2026,
+"type": "journal",
+"lieu": "Virtual Reality",
+"url": "https://doi.org/10.1007/s10055-026-01357-8",
+"doi": "10.1007/s10055-026-01357-8"
+},
+{
+"id": "pba03afb798",
+"titre": "GHOST: Gaussian splatting for Human Osteoarticular Structure Tracking from Video",
+"annee": 2026,
+"type": "conférence",
+"lieu": "Computer Vision for Biomechanics Workshop (CVBW) at the 2026 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)",
+"url": "https://hal.science/hal-05598694v1"
+},
+{
+"id": "p4bd05da7cb",
+"titre": "Higher Incidence and Longer Recovery Time from Non-Contact Muscle Injuries in ACTN3 XX Genotype Players from a Soccer Academy: A Three-Season Longitudinal Study",
+"annee": 2026,
+"type": "journal",
+"lieu": "Sports Medicine - Open",
+"url": "https://doi.org/10.1186/s40798-026-00978-2",
+"doi": "10.1186/s40798-026-00978-2"
+},
+{
+"id": "p46dc6db563",
+"titre": "How Does Motion-to-Photon Latency Influence the Perception-Action Loop",
+"annee": 2026,
+"type": "journal",
+"lieu": "ACM Transactions on Applied Perception",
+"url": "https://hal.science/hal-05699235v1"
+},
+{
+"id": "pab85e97438",
+"titre": "Influence of ball reception on multiple player tracking in a virtual soccer environment",
+"annee": 2026,
+"type": "journal",
+"lieu": "Virtual Reality",
+"url": "https://hal.science/hal-05530191v1",
+"doi": "10.1007/s10055-025-01310-1"
+},
+{
+"id": "p2489516026",
+"titre": "Maximal strength training effects on dry-land force-velocity characteristics, swimming load-velocity profiles and drag parameters",
+"annee": 2026,
+"type": "journal",
+"lieu": "Sports Biomechanics",
+"url": "https://doi.org/10.1080/14763141.2026.2752011",
+"doi": "10.1080/14763141.2026.2752011"
+},
+{
+"id": "p629827b797",
+"titre": "Photometry-driven estimation of upper-limb kinematics using a differentiable visual-biomechanical coupled model",
+"annee": 2026,
+"type": "journal",
+"lieu": "Multidisciplinary Biomechanics Journal",
+"url": "https://inria.hal.science/hal-05671152v2",
+"doi": "10.46298/mbj.19202"
+},
+{
+"id": "pc3aa12c01e",
+"titre": "Rate-distortion optimized nonlinear transform coding for vvc residual blocks",
+"annee": 2026,
+"type": "conférence",
+"lieu": "ICIP 2026 - IEEE International Conference on Image Processing i",
+"url": "https://hal.science/hal-05639355v1"
+},
+{
+"id": "pf1c8ba9422",
+"titre": "Robustness of markerless biomechanical analysis using pose2sim: a sensitivity study on transmission and privacy constraints for cloud-based computation",
+"annee": 2026,
+"type": "conférence",
+"lieu": "CVBW 2026 - Computer Vision for Biomechanics Workshop at the 2026 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)",
+"url": "https://inria.hal.science/hal-05611590v1"
+},
+{
+"id": "p24b4f25d08",
+"titre": "Self-adaptive learning of anticipation skills in virtual reality",
+"annee": 2026,
+"type": "journal",
+"lieu": "Human Movement Science",
+"url": "https://hal.science/hal-05764150v1",
+"doi": "10.1016/j.humov.2026.103528"
+},
+{
+"id": "pf4caba2012",
+"titre": "Spatial-temporal coordination analysis in team sports for behavioral modeling in virtual environments: application to rugby lineout",
+"annee": 2026,
+"type": "conférence",
+"lieu": "Sciences & Rugby 2026",
+"url": "https://hal.science/hal-05724817v1"
+},
+{
+"id": "pb3c570a935",
+"titre": "TimeKlip: firmware-based print time estimation and its applications",
+"annee": 2026,
+"type": "journal",
+"lieu": "International Journal of Advanced Manufacturing Technology",
+"url": "https://hal.science/hal-05850642v1",
+"doi": "10.1007/s00170-026-18038-0"
+},
+{
+"id": "p38eca22b9b",
+"titre": "Transformées non linéaires pour le codage des blocs résiduels de VVC",
+"annee": 2026,
+"type": "conférence",
+"lieu": "CORESA 2026 - 24ème édition COmpression et REprésentation des Signaux Audiovisuels",
+"url": "https://hal.science/hal-05639365v1"
+},
+{
+"id": "p71fe860970",
+"titre": "Uncertainty estimation in marker-based motion capture of the tennis serve",
+"annee": 2026,
+"type": "journal",
+"lieu": "Journal of Biomechanics",
+"url": "https://hal.science/hal-05453654v1",
+"doi": "10.1016/j.jbiomech.2025.113119"
+},
+{
+"id": "p56e177e9d1",
+"titre": "A Ground Reaction Forces estimation method to study non-human primate bipedalism out-of-the-lab",
+"annee": 2025,
+"type": "journal",
+"lieu": "Multidisciplinary Biomechanics Journal",
+"url": "https://hal.science/hal-05191807v2",
+"doi": "10.46298/mbj.16252"
+},
+{
+"id": "p2aaafb2e74",
+"titre": "Acceptance before and after use by elite athletes of a virtual reality relay application",
+"annee": 2025,
+"type": "conférence",
+"lieu": "XR 2025 - Colloque « La XR en mouvement »",
+"url": "https://hal.science/hal-05493184v1"
+},
+{
+"id": "p1f7ec2fd30",
+"titre": "Discriminating sensorimotor performance in elite football players: a comparative study of reactive and planned agility",
+"annee": 2025,
+"type": "journal",
+"lieu": "Multidisciplinary Biomechanics Journal",
+"url": "https://doi.org/10.46298/mbj.16199",
+"doi": "10.46298/mbj.16199"
+},
+{
+"id": "pcbf134c09c",
+"titre": "Exploiting Latent Properties to Optimize Neural Codecs",
+"annee": 2025,
+"type": "journal",
+"lieu": "IEEE Transactions on Image Processing",
+"url": "https://doi.org/10.1109/tip.2024.3522813",
+"doi": "10.1109/tip.2024.3522813"
+},
+{
+"id": "pc8394fad76",
+"titre": "Generative Articulated Neural Fields to multiple identities and poses",
+"annee": 2025,
+"type": "conférence",
+"lieu": "NGA 2025 - Next Generation Avatar Workshop",
+"url": "https://hal.science/hal-04978097v1"
+},
+{
+"id": "pbbd8c765ec",
+"titre": "How do people perceive changes in physical bounce model for virtual racket interactions?",
+"annee": 2025,
+"type": "conférence",
+"lieu": "SAP 2025 - ACM Symposium on Applied Perception",
+"url": "https://inria.hal.science/hal-05225594v2",
+"doi": "10.1145/3736702.3744355"
+},
+{
+"id": "pe4963a3647",
+"titre": "Impact of introducing sparse inertial Measurement Units in Computer Vision-Based Motion Capture Systems for Ergonomic Postural Assessment",
+"annee": 2025,
+"type": "conférence",
+"lieu": "AHFE 2025 - 16th International Conference on Applied Human Factors and Ergonomics",
+"url": "https://inria.hal.science/hal-05042784v1",
+"doi": "10.54941/ahfe1006571"
+},
+{
+"id": "p876c5f8b7e",
+"titre": "Implicit Shape Avatar Generalization across Pose and Identity",
+"annee": 2025,
+"type": "conférence",
+"lieu": "Eurographics 2025 - 46th Annual Conference of the European Association for Computer Graphics",
+"url": "https://hal.science/hal-05095715v1",
+"doi": "10.2312/egs.20251049"
+},
+{
+"id": "p5fb839d46c",
+"titre": "Is virtual reality head-mounted display accepted by coaches to enhance sport performance?",
+"annee": 2025,
+"type": "journal",
+"lieu": "Virtual Reality",
+"url": "https://amu.hal.science/hal-04914117v1",
+"doi": "10.1007/s10055-025-01104-5"
+},
+{
+"id": "p25357fb275",
+"titre": "La réalité virtuelle comme outil d'entraînement perceptivo-moteur : évaluation de la validité et de la fidélité d'un simulateur de relais 4 x 100 m Auteurs",
+"annee": 2025,
+"type": "conférence",
+"lieu": "XR 2025 - Colloque \"XR en mouvement\"",
+"url": "https://amu.hal.science/hal-05493625v1"
+},
+{
+"id": "p0d0b4dd65f",
+"titre": "NIPIG: Neural Implicit Avatar Conditioned on Human Pose, Identity and Gender",
+"annee": 2025,
+"type": "conférence",
+"lieu": "CVMP 2025 - 22nd ACM SIGGRAPH European Conference on Visual Media Production",
+"url": "https://hal.science/hal-05308674v1",
+"doi": "10.1145/3756863.3769702"
+},
+{
+"id": "p162dcf6025",
+"titre": "STAPS : anatomie, physiologie, neurosciences et biomécanique - 2eme Edition",
+"annee": 2025,
+"type": "ouvrage",
+"lieu": "",
+"url": "https://inria.hal.science/hal-05393680v1"
+},
+{
+"id": "p91aaaeb806",
+"titre": "Symposium - Réalité virtuelle et sport : quelles connaissances et quelles applications pratiques aujourd'hui ?",
+"annee": 2025,
+"type": "conférence",
+"lieu": "Congrès 2025 de la Société Française de Psychologie du Sport",
+"url": "https://univ-rennes.hal.science/hal-05484145v1"
+},
+{
+"id": "p8256414218",
+"titre": "Tennis Serve Constraints Delimit but Do Not Prohibit Individual Movement Strategies among Professional Players",
+"annee": 2025,
+"type": "journal",
+"lieu": "Journal of Human Kinetics",
+"url": "https://doi.org/10.5114/jhk/203795",
+"doi": "10.5114/jhk/203795"
+},
+{
+"id": "p27abd87a80",
+"titre": "Towards in-situ analysis of serving performance in tennis: A video-based method for 3D reconstruction of the ball and racket",
+"annee": 2025,
+"type": "journal",
+"lieu": "Multidisciplinary Biomechanics Journal",
+"url": "https://hal.science/hal-05191751v2",
+"doi": "10.46298/mbj.16198"
+},
+{
+"id": "p41c510577b",
+"titre": "Transfert des compétences perceptivo-motrices en boxe : de la réalité virtuelle vers le combat réel",
+"annee": 2025,
+"type": "conférence",
+"lieu": "XR 2025 - Colloque \"XR en mouvement\"",
+"url": "https://univ-rennes.hal.science/hal-05484177v1"
+},
+{
+"id": "p9a29d62190",
+"titre": "Virtual Reality as a Perceptual-Motor Training Tool: Validity and Fidelity Assessments of a 4 × 100 m Relay Simulator",
+"annee": 2025,
+"type": "journal",
+"lieu": "Applied Sciences",
+"url": "https://amu.hal.science/hal-04994429v1",
+"doi": "10.3390/app15063224"
+},
+{
+"id": "pb14e1037cd",
+"titre": "An interdisciplinary framework to optimize the anticipation skills of high-level athletes using virtual reality",
+"annee": 2024,
+"type": "journal",
+"lieu": "Frontiers in Sports and Active Living",
+"url": "https://hal.science/hal-04479743v2",
+"doi": "10.3389/fspor.2024.1324016"
+},
+{
+"id": "pb69682cba1",
+"titre": "Comparative assessment of markerless and marker-based motion capture for tennis serve biomechanical analysis",
+"annee": 2024,
+"type": "conférence",
+"lieu": "29th Annual Congress of the European College of Sport Science",
+"url": "https://hal.science/hal-05031553v1"
+},
+{
+"id": "p891a25a4e1",
+"titre": "Comparison of two Qwan ki do punching techniques",
+"annee": 2024,
+"type": "conférence",
+"lieu": "2024 - Sport Physics conference",
+"url": "https://inria.hal.science/hal-04826686v1"
+},
+{
+"id": "p556519ba2d",
+"titre": "Early gesture detection in untrimmed streams: A controlled CTC approach for reliable decision-making",
+"annee": 2024,
+"type": "journal",
+"lieu": "Pattern Recognition",
+"url": "https://hal.science/hal-04634678v1",
+"doi": "10.1016/j.patcog.2024.110733"
+},
+{
+"id": "p09aadef419",
+"titre": "From dry-land to the water: training and testing practices of strength and conditioning coaches in high level French sprint swimmers",
+"annee": 2024,
+"type": "journal",
+"lieu": "Frontiers in Sports and Active Living",
+"url": "https://doi.org/10.3389/fspor.2023.1338856",
+"doi": "10.3389/fspor.2023.1338856"
+},
+{
+"id": "p5547af5f11",
+"titre": "Generalization of Inverse Kinematics Frameworks Based on Deep Learning to New Motor Tasks and Markersets",
+"annee": 2024,
+"type": "journal",
+"lieu": "International Journal of Industrial Ergonomics",
+"url": "https://inria.hal.science/hal-04808920v1"
+},
+{
+"id": "pb2126a8e58",
+"titre": "Generalization of Marker Augmenter Learning Models on a New Motion Database for Inverse Kinematics",
+"annee": 2024,
+"type": "conférence",
+"lieu": "2024 - 49ème congrès de la société de biomécanique",
+"url": "https://inria.hal.science/hal-04727199v1"
+},
+{
+"id": "p1da4ca8f12",
+"titre": "GeoTransfer: Generalizable Few-Shot Multi-view Reconstruction via Transfer Learning",
+"annee": 2024,
+"type": "conférence",
+"lieu": "Computer Vision – ECCV 2024 Workshops",
+"url": "https://hal.science/hal-05453537v1",
+"doi": "10.1007/978-3-031-92387-6_19"
+},
+{
+"id": "pb0d0fc213b",
+"titre": "Immune inflammation markers and physical fitness during a congested match play period in elite male soccer players",
+"annee": 2024,
+"type": "journal",
+"lieu": "Scientific Reports",
+"url": "https://doi.org/10.1038/s41598-024-81225-0",
+"doi": "10.1038/s41598-024-81225-0"
+},
+{
+"id": "p4f466e276f",
+"titre": "Impact of Technical-Tactical and Physical Performance on the Match Outcome in Professional Soccer: A Case Study",
+"annee": 2024,
+"type": "journal",
+"lieu": "Journal of Human Kinetics",
+"url": "https://doi.org/10.5114/jhk/185933",
+"doi": "10.5114/jhk/185933"
+},
+{
+"id": "pbfff9de7bd",
+"titre": "Training of anticipation skills of boxers for Paris 2024 with virtual reality",
+"annee": 2024,
+"type": "conférence",
+"lieu": "Symposium VR in Sports Science",
+"url": "https://amu.hal.science/hal-05497504v1"
+},
+{
+"id": "p907f05d5db",
+"titre": "Virtual reality boxing: impact of gaze-contingent blur on elite boxers performance and gaze behavior",
+"annee": 2024,
+"type": "journal",
+"lieu": "Frontiers in Sports and Active Living",
+"url": "https://hal.science/hal-04876947v1",
+"doi": "10.3389/fspor.2024.1430719"
+},
+{
+"id": "p560feb136d",
+"titre": "Virtual reality to characterize anticipation skills of top‐level 4 x 100 m relay athletes",
+"annee": 2024,
+"type": "journal",
+"lieu": "European Journal of Sport Science",
+"url": "https://hal.science/hal-04699687v1",
+"doi": "10.1002/ejsc.12192"
+},
+{
+"id": "p8da3253f18",
+"titre": "Acceptabilité par les entraîneurs d’un casque de réalité virtuelle destiné à améliorer la performance sportive",
+"annee": 2023,
+"type": "conférence",
+"lieu": "ACAPS 2023 - 20e Congrès International de l'Association des Chercheurs en Activités Physiques et Sportives",
+"url": "https://hal.science/hal-05493505v1"
+},
+{
+"id": "p39000f0c46",
+"titre": "Acceptance by athletes of a virtual head-mounted display intended to enhance sport performance",
+"annee": 2023,
+"type": "conférence",
+"lieu": "ECSS 2023 - 28th Congress of the European College of Sports Science",
+"url": "https://hal.science/hal-05493530v1"
+},
+{
+"id": "p1325139d35",
+"titre": "Acceptance by athletes of a virtual reality head-mounted display intended to enhance sport performance",
+"annee": 2023,
+"type": "conférence",
+"lieu": "ECSS 2023 - European Congress of Sport Science",
+"url": "https://amu.hal.science/hal-04217746v1"
+},
+{
+"id": "p9ef30e8f47",
+"titre": "Acceptance prior to use by athletes of a virtual reality headset designed to enhance sports performance",
+"annee": 2023,
+"type": "conférence",
+"lieu": "XIVème colloque du REDESP - 2023 : Mesure, démesure, des mesures",
+"url": "https://hal.science/hal-05493869v1"
+},
+{
+"id": "pf7144b7040",
+"titre": "Anticipation performance in virtual reality boxing: impact of gaze-contingent blur on elite boxers",
+"annee": 2023,
+"type": "conférence",
+"lieu": "ECSS 2023 - Congress of the European College of Sports Science",
+"url": "https://amu.hal.science/hal-05492846v1"
+},
+{
+"id": "pfe90eabe0a",
+"titre": "Associations between load-velocity profiling and race parameters of elite swimmers in the 100 and 200m freestyle events",
+"annee": 2023,
+"type": "journal",
+"lieu": "Frontiers in Sports and Active Living",
+"url": "https://doi.org/10.3389/fspor.2023.1326106",
+"doi": "10.3389/fspor.2023.1326106"
+},
+{
+"id": "p87380c4186",
+"titre": "Dancing in virtual reality as an inclusive platform for social and physical fitness activities: a survey",
+"annee": 2023,
+"type": "journal",
+"lieu": "The Visual Computer",
+"url": "https://inria.hal.science/hal-04207825v1",
+"doi": "10.1007/s00371-023-03068-6"
+},
+{
+"id": "pf77ee430cf",
+"titre": "Estimation of Upper-Limb Joint Torques in Static and Dynamic Phases for Lifting Tasks",
+"annee": 2023,
+"type": "conférence",
+"lieu": "DHM 2023 - 8th International Digital Human Modeling Symposium",
+"url": "https://inria.hal.science/hal-04140086v1"
+},
+{
+"id": "p38c1ddb223",
+"titre": "Evaluation of hybrid deep learning and optimization method for 3D human pose and shape reconstruction in simulated depth images",
+"annee": 2023,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://inria.hal.science/hal-04159384v1",
+"doi": "10.1016/j.cag.2023.07.005"
+},
+{
+"id": "pc4bd85b4ed",
+"titre": "How variability could shape perceptual-motor expertise in 4x100 m relay?",
+"annee": 2023,
+"type": "conférence",
+"lieu": "ECSS 2023 - Annual Congress of the European College of Sport Science",
+"url": "https://amu.hal.science/hal-04469325v1"
+},
+{
+"id": "p047ecb7305",
+"titre": "In search of the signature of perceptual-motor expertise in 4x100 m relay",
+"annee": 2023,
+"type": "conférence",
+"lieu": "ECSS 2023 - Annual Congress of the European College of Sport Science",
+"url": "https://univ-eiffel.hal.science/hal-04199917v1"
+},
+{
+"id": "pc8d5122675",
+"titre": "Learning Generalizable Light Field Networks from Few Images",
+"annee": 2023,
+"type": "conférence",
+"lieu": "ICASSP 2023 - IEEE International Conference on Acoustics, Speech, and Signal Processing",
+"url": "https://inria.hal.science/hal-04116795v1",
+"doi": "10.1109/icassp49357.2023.10096979"
+},
+{
+"id": "pfa543619bb",
+"titre": "MAAIP: Multi-Agent Adversarial Interaction Priors for imitation from fighting demonstrations for physics-based characters",
+"annee": 2023,
+"type": "journal",
+"lieu": "Proceedings of the ACM on Computer Graphics and Interactive Techniques",
+"url": "https://hal.science/hal-04136868v1",
+"doi": "10.1145/3606926"
+},
+{
+"id": "p44bd52e6ae",
+"titre": "Optimization of high-intensity-interval-training program intensity to improve aerobic performance in healthy active subjects",
+"annee": 2023,
+"type": "journal",
+"lieu": "Medicina dello Sport",
+"url": "https://doi.org/10.23736/s0025-7826.22.04092-3",
+"doi": "10.23736/s0025-7826.22.04092-3"
+},
+{
+"id": "pf8f8dedbd6",
+"titre": "Regularizing Neural Radiance Fields from Sparse Rgb-D Inputs",
+"annee": 2023,
+"type": "conférence",
+"lieu": "2023 IEEE International Conference on Image Processing (ICIP)",
+"url": "https://hal.science/hal-04357757v1",
+"doi": "10.1109/icip49359.2023.10222706"
+},
+{
+"id": "p8624d0bc43",
+"titre": "There is no rush to upgrade the tennis racket in young intermediate competitive players: The effects of scaling racket on serve biomechanics and performance",
+"annee": 2023,
+"type": "journal",
+"lieu": "Frontiers in Psychology",
+"url": "https://doi.org/10.3389/fpsyg.2023.1104146",
+"doi": "10.3389/fpsyg.2023.1104146"
+},
+{
+"id": "p608c7d8235",
+"titre": "VR for training perceptual-motor skills of boxers and relay runners for Paris 2024 Olympic games",
+"annee": 2023,
+"type": "conférence",
+"lieu": "ECSS 2023 - 28th Annual Congress of the European College of Sport Science",
+"url": "https://inria.hal.science/hal-04219135v1"
+},
+{
+"id": "p5459979919",
+"titre": "A Style-Based GAN Encoder for High Fidelity Reconstruction of Images and Videos",
+"annee": 2022,
+"type": "conférence",
+"lieu": "European Conference on Computer Vision (ECCV)",
+"url": "https://hal.science/hal-04559397v1"
+},
+{
+"id": "p948057b9f9",
+"titre": "A Survey on Deep Learning for Skeleton‐Based Human Animation",
+"annee": 2022,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-03468599v1",
+"doi": "10.1111/cgf.14426"
+},
+{
+"id": "pda02d443a5",
+"titre": "Acceptance by athletes of a virtual reality head-mounted display intended to enhance sport performance",
+"annee": 2022,
+"type": "journal",
+"lieu": "Psychology of Sport and Exercise",
+"url": "https://hal.science/hal-03644446v1",
+"doi": "10.1016/j.psychsport.2022.102201"
+},
+{
+"id": "pc5f9007f42",
+"titre": "Automatic Swimming Activity Recognition and Lap Time Assessment Based on a Single IMU: A Deep Learning Approach",
+"annee": 2022,
+"type": "journal",
+"lieu": "Sensors",
+"url": "https://doi.org/10.3390/s22155786",
+"doi": "10.3390/s22155786"
+},
+{
+"id": "ped394ab790",
+"titre": "Coupling dense point cloud correspondence and template model fitting for 3D human pose and shape reconstruction from a single depth image",
+"annee": 2022,
+"type": "conférence",
+"lieu": "International Conference on Interactive Media, Smart Systems and Emerging Technologies (IMET)",
+"url": "https://inria.hal.science/hal-03830670v1",
+"doi": "10.1109/imet54801.2022.9929833"
+},
+{
+"id": "pf8dee8b9f9",
+"titre": "Do serve distance and net height modify serve biomechanics in young tennis players?",
+"annee": 2022,
+"type": "journal",
+"lieu": "International Journal of Sports Science & Coaching",
+"url": "https://doi.org/10.1177/17479541221114106",
+"doi": "10.1177/17479541221114106"
+},
+{
+"id": "pb804bffbca",
+"titre": "Early Recognition of Untrimmed Handwritten Gestures with Spatio-Temporal 3D CNN",
+"annee": 2022,
+"type": "conférence",
+"lieu": "ICPR 2022 - International Conference on Pattern Recognition",
+"url": "https://hal.science/hal-03683441v1"
+},
+{
+"id": "pbc1535db8f",
+"titre": "Effects of different training intensities in high-intensity interval training (HIIT) on maximal aerobic velocity, hematological and muscle-damage markers in healthy young adults",
+"annee": 2022,
+"type": "journal",
+"lieu": "BMC Sports Science Medicine and Rehabilitation",
+"url": "https://doi.org/10.1186/s13102-022-00550-x",
+"doi": "10.1186/s13102-022-00550-x"
+},
+{
+"id": "p52e80c7a7b",
+"titre": "Exploring lumbo-pelvic functional behaviour patterns during osteopathic motion tests: A biomechanical (en)active inference approach to movement analysis",
+"annee": 2022,
+"type": "journal",
+"lieu": "International journal of osteopathic medicine",
+"url": "https://doi.org/10.1016/j.ijosm.2022.05.001",
+"doi": "10.1016/j.ijosm.2022.05.001"
+},
+{
+"id": "p9e6467d1d2",
+"titre": "FaceTuneGAN: Face autoencoder for convolutional expression transfer using neural generative adversarial networks",
+"annee": 2022,
+"type": "journal",
+"lieu": "Computers & Graphics",
+"url": "https://doi.org/10.1016/j.cag.2022.12.004",
+"doi": "10.1016/j.cag.2022.12.004"
+},
+{
+"id": "p2dab7b1f3c",
+"titre": "Impact of Self-Contacts on Perceived Pose Equivalences",
+"annee": 2022,
+"type": "conférence",
+"lieu": "MIG 2022 - ACM SIGGRAPH Conference on Motion, Interaction and Games",
+"url": "https://inria.hal.science/hal-03817534v1",
+"doi": "10.1145/3561975.3562946"
+},
+{
+"id": "p4e8f6ac0db",
+"titre": "Influence of shoe torsional stiffness on foot and ankle biomechanics during tennis forehand strokes",
+"annee": 2022,
+"type": "journal",
+"lieu": "European Journal of Sport Science",
+"url": "https://doi.org/10.1080/17461391.2022.2153232",
+"doi": "10.1080/17461391.2022.2153232"
+},
+{
+"id": "pfef995f39e",
+"titre": "Multiple Players Tracking in Virtual Reality: Influence of Soccer Specific Trajectories and Relationship With Gaze Activity",
+"annee": 2022,
+"type": "journal",
+"lieu": "Frontiers in Psychology",
+"url": "https://inria.hal.science/hal-03674770v1",
+"doi": "10.3389/fpsyg.2022.901438"
+},
+{
+"id": "p8b7807b584",
+"titre": "Neural Mesh-Based Graphics",
+"annee": 2022,
+"type": "conférence",
+"lieu": "ECCV 2022 Workshops",
+"url": "https://inria.hal.science/hal-03942106v1",
+"doi": "10.1007/978-3-031-25066-8_45"
+},
+{
+"id": "pfe7a1b38de",
+"titre": "Réseau Convolutif Spatio-Temporel 3D pour la Reconnaissance Précoce de Gestes Manuscrits Non-Segmentés",
+"annee": 2022,
+"type": "conférence",
+"lieu": "RFIAP 2022 - Congrès Reconnaissance des Formes, Image, Apprentissage et Perception",
+"url": "https://hal.science/hal-03682604v1"
+},
+{
+"id": "pb9322c3a78",
+"titre": "Safeguarding our Dance Cultural Heritage",
+"annee": 2022,
+"type": "conférence",
+"lieu": "Eurographics 2022 - 43nd Annual Conference of the European Association for Computer Graphics",
+"url": "https://hal.science/hal-03664178v1",
+"doi": "10.2312/egt.20221055"
+},
+{
+"id": "pef1b046d8a",
+"titre": "Study on Automatic 3D Facial Caricaturization: From Rules to Deep Learning",
+"annee": 2022,
+"type": "journal",
+"lieu": "Frontiers in Virtual Reality",
+"url": "https://inria.hal.science/hal-03763591v1",
+"doi": "10.3389/frvir.2021.785104"
+},
+{
+"id": "pdb11638f51",
+"titre": "UnderPressure: Deep Learning for Foot Contact Detection, Ground Reaction Force Estimation and Footskate Cleanup",
+"annee": 2022,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-03865772v1",
+"doi": "10.1111/cgf.14635"
+},
+{
+"id": "p02bdd0894f",
+"titre": "Using Blur for Perceptual Investigation and Training in Sport? A Clear Picture of the Evidence and Implications for Future Research",
+"annee": 2022,
+"type": "journal",
+"lieu": "Frontiers in Psychology",
+"url": "https://inria.hal.science/hal-03656204v1",
+"doi": "10.3389/fpsyg.2021.752582"
+},
+{
+"id": "p117d46f5db",
+"titre": "Virtual reality boxing: Gaze-contingent manipulation of stimulus properties using blur",
+"annee": 2022,
+"type": "conférence",
+"lieu": "VR 2022 - IEEE Conference on Virtual Reality and 3D User Interfaces",
+"url": "https://amu.hal.science/hal-05492813v1"
+},
+{
+"id": "p6437609b94",
+"titre": "Virtual reality boxing: Gaze-contingent manipulation of stimulus properties using blur",
+"annee": 2022,
+"type": "journal",
+"lieu": "Frontiers in Psychology",
+"url": "https://univ-rennes.hal.science/hal-04211302v1",
+"doi": "10.3389/fpsyg.2022.902043"
+},
+{
+"id": "p6d009c1e3a",
+"titre": "Visual tracking assessment in a soccer-specific virtual environment: A web-based study",
+"annee": 2022,
+"type": "journal",
+"lieu": "PLoS ONE",
+"url": "https://doi.org/10.1371/journal.pone.0269643",
+"doi": "10.1371/journal.pone.0269643"
+},
+{
+"id": "p9a2d834820",
+"titre": "A Latent Transformer for Disentangled Face Editing in Images and Videos",
+"annee": 2021,
+"type": "conférence",
+"lieu": "Internationale Conference on Computer Vision (ICCV)",
+"url": "https://hal.science/hal-04559352v1"
+},
+{
+"id": "p913e48595b",
+"titre": "A neural networks approach to determine factors associated with self-reported discomfort in picking tasks",
+"annee": 2021,
+"type": "journal",
+"lieu": "Human Factors",
+"url": "https://inria.hal.science/hal-03328548v1"
+},
+{
+"id": "pedd0df0e9a",
+"titre": "Impact of Power Output on Muscle Activation and 3D Kinematics During an Incremental Test to Exhaustion in Professional Cyclists",
+"annee": 2021,
+"type": "journal",
+"lieu": "Frontiers in Sports and Active Living",
+"url": "https://doi.org/10.3389/fspor.2020.516911",
+"doi": "10.3389/fspor.2020.516911"
+},
+{
+"id": "pf1c08512a6",
+"titre": "Influence of path curvature on collision avoidance behaviour between two walkers",
+"annee": 2021,
+"type": "journal",
+"lieu": "Experimental Brain Research",
+"url": "https://inria.hal.science/hal-03009022v1",
+"doi": "10.1007/s00221-020-05980-y"
+},
+{
+"id": "pa31c5e934f",
+"titre": "Monocular Human Shape and Pose with Dense Mesh-borne Local Image Features",
+"annee": 2021,
+"type": "conférence",
+"lieu": "FG 2021 - IEEE International Conference on Automatic Face and Gesture Recognition",
+"url": "https://inria.hal.science/hal-03524051v1",
+"doi": "10.1109/fg52635.2021.9666993"
+},
+{
+"id": "p90ecd252d6",
+"titre": "Neural Human Deformation Transfer",
+"annee": 2021,
+"type": "conférence",
+"lieu": "3DV 2021 - 9th International Conference on 3D Vision",
+"url": "https://hal.science/hal-03440562v1",
+"doi": "10.1109/3dv53792.2021.00064"
+},
+{
+"id": "pe77c060c43",
+"titre": "Online Spatio-Temporal 3D Convolutional Neural Network for Early Recognition of Handwritten Gestures",
+"annee": 2021,
+"type": "conférence",
+"lieu": "ICDAR 2021 - 16th International Conference on Document Analysis and Recognition",
+"url": "https://hal.science/hal-03229957v1"
+},
+{
+"id": "p12caeec3ba",
+"titre": "A musculoskeletal modelling approach of the assessment of the risk of hamstring injuries in professional soccer players: a pilot study",
+"annee": 2020,
+"type": "journal",
+"lieu": "Science and Medicine in Football",
+"url": "https://doi.org/10.1080/24733938.2020.1786765",
+"doi": "10.1080/24733938.2020.1786765"
+},
+{
+"id": "p567471a228",
+"titre": "An application-based characterization of dynamical distance geometry problems",
+"annee": 2020,
+"type": "journal",
+"lieu": "Optimization Letters",
+"url": "https://inria.hal.science/hal-01846265v1",
+"doi": "10.1007/s11590-018-1302-6"
+},
+{
+"id": "pacd6d3d92f",
+"titre": "An interactive staging-and-shooting solver for virtual cinematography",
+"annee": 2020,
+"type": "conférence",
+"lieu": "MIG 2020 - 13th Annual ACM SIGGRAPH Conference on Motion, Interaction and Games",
+"url": "https://inria.hal.science/hal-03141726v1",
+"doi": "10.1145/3424636.3426893"
+},
+{
+"id": "p16c7142007",
+"titre": "Can the Open Stance Forehand Increase the Risk of Hip Injuries in Tennis Players?",
+"annee": 2020,
+"type": "journal",
+"lieu": "Orthopaedic Journal of Sports Medicine",
+"url": "https://doi.org/10.1177/2325967120966297",
+"doi": "10.1177/2325967120966297"
+},
+{
+"id": "p3746a385ea",
+"titre": "Contact Preserving Shape Transfer: retargeting motion from one shape to another",
+"annee": 2020,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://hal.science/hal-02613783v1",
+"doi": "10.1016/j.cag.2020.04.002"
+},
+{
+"id": "p01978ffc20",
+"titre": "Hepatic and muscular mitochondrial dysfunction and energy metabolism disturbances in a murine colon Ward cancer and chemotherapy model",
+"annee": 2020,
+"type": "conférence",
+"lieu": "XXXXIIth ESPEN congress",
+"url": "https://univ-grenoble-alpes.hal.science/hal-04997190v1"
+},
+{
+"id": "pbe8805623f",
+"titre": "High resolution face age editing",
+"annee": 2020,
+"type": "conférence",
+"lieu": "International conference on pattern recognition (ICPR)",
+"url": "https://hal.science/hal-04559377v1"
+},
+{
+"id": "pbd1529a260",
+"titre": "Influence of the forehand stance on knee biomechanics: Implications for potential injury risks in tennis players",
+"annee": 2020,
+"type": "journal",
+"lieu": "Journal of Sports Sciences",
+"url": "https://doi.org/10.1080/02640414.2020.1853335",
+"doi": "10.1080/02640414.2020.1853335"
+},
+{
+"id": "pdae8025ceb",
+"titre": "Posture Assessment and Subjective Scale Agreement in Picking Tasks with Low Masses",
+"annee": 2020,
+"type": "conférence",
+"lieu": "AHFE - 11th Applied Human Factors and Ergonomics Conference",
+"url": "https://hal.science/hal-02495299v1"
+},
+{
+"id": "p193d55562f",
+"titre": "Prediction of plausible locomotion using nonlinear kinematic optimization",
+"annee": 2020,
+"type": "journal",
+"lieu": "Computer Methods in Biomechanics and Biomedical Engineering",
+"url": "https://hal.science/hal-03100642v1",
+"doi": "10.1080/10255842.2020.1812849"
+},
+{
+"id": "p9093fb430e",
+"titre": "The Interplay Between Plasma Hormonal Concentrations, Physical Fitness, Workload and Mood State Changes to Periods of Congested Match Play in Professional Soccer Players",
+"annee": 2020,
+"type": "journal",
+"lieu": "Frontiers in Physiology",
+"url": "https://doi.org/10.3389/fphys.2020.00835",
+"doi": "10.3389/fphys.2020.00835"
+},
+{
+"id": "p86e9654254",
+"titre": "The impact of stylization on face recognition",
+"annee": 2020,
+"type": "conférence",
+"lieu": "SAP 2020 - ACM Symposium on Applied Perception",
+"url": "https://inria.hal.science/hal-02951833v1",
+"doi": "10.1145/3385955.3407930"
+},
+{
+"id": "p63a322463f",
+"titre": "Uncovering EEG Correlates of Covert Attention in Soccer Goalkeepers: Towards Innovative Sport Training Procedures",
+"annee": 2020,
+"type": "journal",
+"lieu": "Scientific Reports",
+"url": "https://doi.org/10.1038/s41598-020-58533-2",
+"doi": "10.1038/s41598-020-58533-2"
+},
+{
+"id": "paba82be77b",
+"titre": "Virtual reality to assess and train team ball sports performance: A scoping review",
+"annee": 2020,
+"type": "journal",
+"lieu": "Journal of Sports Sciences",
+"url": "https://inria.hal.science/hal-02442089v1",
+"doi": "10.1080/02640414.2019.1689807"
+},
+{
+"id": "p34ceeb18c6",
+"titre": "A simulation model of pedestrian wayfinding behaviour in familiar environments",
+"annee": 2019,
+"type": "journal",
+"lieu": "International Journal of Computer Applications in Technology",
+"url": "https://doi.org/10.1504/ijcat.2019.10024325",
+"doi": "10.1504/ijcat.2019.10024325"
+},
+{
+"id": "p3ef1cf929c",
+"titre": "Acting together, acting stronger? interference between participants during face-to-face cooperative interception task",
+"annee": 2019,
+"type": "conférence",
+"lieu": "26th IEEE Conference on Virtual Reality and 3D User Interfaces, VR 2019",
+"url": "https://univ-rennes.hal.science/hal-02310490v1",
+"doi": "10.1109/vr.2019.8797967"
+},
+{
+"id": "pcdf1f65aec",
+"titre": "Analysis of interference between players during face-to-face cooperative ball-interception task",
+"annee": 2019,
+"type": "conférence",
+"lieu": "24th Annual Congress of the European College of Sport Science",
+"url": "https://inria.hal.science/hal-02442042v1"
+},
+{
+"id": "pa4c25aad3b",
+"titre": "Biomechanical analysis of the lumbar-pelvic-femoral complex during the one-sided tilt test: a pilot study in triathletes",
+"annee": 2019,
+"type": "journal",
+"lieu": "Computer Methods in Biomechanics & Biomedical Engineering",
+"url": "https://doi.org/10.1080/10255842.2020.1714921",
+"doi": "10.1080/10255842.2020.1714921"
+},
+{
+"id": "p80e8ffa66e",
+"titre": "Collision avoidance between walkers with a twist: strategies for curvilinear and rectilinear paths.",
+"annee": 2019,
+"type": "conférence",
+"lieu": "ISPGR 2019 - Conference of the International Society for Posture & Gait Research",
+"url": "https://inria.hal.science/hal-02058340v1"
+},
+{
+"id": "p63841ae72d",
+"titre": "Contact Preserving Shape Transfer For Rigging-Free Motion Retargeting",
+"annee": 2019,
+"type": "conférence",
+"lieu": "MIG 2019 - ACM SIGGRAPH Conference Motion Interaction and Games",
+"url": "https://hal.science/hal-02293308v3",
+"doi": "10.1145/3359566.3360075"
+},
+{
+"id": "pa4ae90fd83",
+"titre": "Detection of deceptive motions in rugby from visual motion cues",
+"annee": 2019,
+"type": "journal",
+"lieu": "PLoS ONE",
+"url": "https://univ-rennes.hal.science/hal-02308029v1",
+"doi": "10.1371/journal.pone.0220878"
+},
+{
+"id": "p77f3b301ce",
+"titre": "Dyadic Interference Leads to Area of Uncertainty During Face-to-Face Cooperative Interception Task",
+"annee": 2019,
+"type": "journal",
+"lieu": "Frontiers in information and communication technologies",
+"url": "https://inria.hal.science/hal-02407452v1",
+"doi": "10.3389/fict.2019.00020"
+},
+{
+"id": "pfb3c346966",
+"titre": "Effects of Neuromuscular Training on Agility Performance in Elite Soccer Players",
+"annee": 2019,
+"type": "journal",
+"lieu": "Frontiers in Physiology",
+"url": "https://doi.org/10.3389/fphys.2019.00947",
+"doi": "10.3389/fphys.2019.00947"
+},
+{
+"id": "p2ab06ddd4c",
+"titre": "Effects of a six-week period of congested match play on plasma volume variations, hematological parameters, training workload and physical fitness in elite soccer players",
+"annee": 2019,
+"type": "journal",
+"lieu": "PLoS ONE",
+"url": "https://doi.org/10.1371/journal.pone.0219692",
+"doi": "10.1371/journal.pone.0219692"
+},
+{
+"id": "p4d42a51a51",
+"titre": "Enactive approach to assess perceived speed error during walking and running in virtual reality",
+"annee": 2019,
+"type": "conférence",
+"lieu": "26th IEEE Conference on Virtual Reality and 3D User Interfaces, VR 2019",
+"url": "https://univ-rennes.hal.science/hal-02310489v1",
+"doi": "10.1109/vr.2019.8798209"
+},
+{
+"id": "p1aaf7e2331",
+"titre": "Estimation of 3D Knee Joint Angles during Cycling Using Inertial Sensors: Accuracy of a Novel Sensor-to-Segment Calibration Procedure Based on Pedaling Motion",
+"annee": 2019,
+"type": "journal",
+"lieu": "Sensors",
+"url": "https://doi.org/10.3390/s19112474",
+"doi": "10.3390/s19112474"
+},
+{
+"id": "p2520f67491",
+"titre": "Global motion visualisation for detection of deceptive motion in rugby",
+"annee": 2019,
+"type": "conférence",
+"lieu": "24th Annual Congress of the European College of Sport Science ECSS",
+"url": "https://inria.hal.science/hal-02421389v1"
+},
+{
+"id": "p9227185d97",
+"titre": "Impact of osteopathic manipulative treatment on range of motion of the pelvis during the one-sided tilt test: a pilot study",
+"annee": 2019,
+"type": "journal",
+"lieu": "Computer Methods in Biomechanics & Biomedical Engineering",
+"url": "https://doi.org/10.1080/10255842.2020.1714973",
+"doi": "10.1080/10255842.2020.1714973"
+},
+{
+"id": "pc84ad82c35",
+"titre": "Influence of Motion Speed on the Perception of Latency in Avatar Control",
+"annee": 2019,
+"type": "conférence",
+"lieu": "AIVR 2019 - 2nd IEEE International Conference on Artificial Intelligence & Virtual Reality",
+"url": "https://inria.hal.science/hal-02335326v1"
+},
+{
+"id": "p50abeb9b4e",
+"titre": "Modélisation du système musculo-squelettique : Implications cliniques, prévention des blessures et perspectives pour la recherche en ostéopathie",
+"annee": 2019,
+"type": "journal",
+"lieu": "Neurophysiologie Clinique",
+"url": "https://doi.org/10.1016/j.neucli.2019.01.024",
+"doi": "10.1016/j.neucli.2019.01.024"
+},
+{
+"id": "p10be31f8f3",
+"titre": "Motion analysis of work conditions using commercial depth cameras in real industrial conditions",
+"annee": 2019,
+"type": "chapitre",
+"lieu": "DHM and Posturography",
+"url": "https://inria.hal.science/hal-02367500v1",
+"doi": "10.1016/b978-0-12-816713-7.00052-0"
+},
+{
+"id": "p9815476f50",
+"titre": "Virtual Reality Gaming Elevates Heart Rate but Not Energy Expenditure Compared to Conventional Exercise in Adult Males",
+"annee": 2019,
+"type": "journal",
+"lieu": "International Journal of Environmental Research and Public Health",
+"url": "https://univ-rennes.hal.science/hal-02443854v1",
+"doi": "10.3390/ijerph16224406"
+},
+{
+"id": "paa1c051cee",
+"titre": "Walking with hominins: from the reconstruction of a plausible anatomical model to gait energetics in Neandertals. Methodological aspects",
+"annee": 2019,
+"type": "conférence",
+"lieu": "44ème Colloque Annuel de la Société de Biomécanique",
+"url": "https://hal.science/hal-04058850v1",
+"doi": "10.1080/10255842.2020.1715003"
+},
+{
+"id": "pf9f5c75c3c",
+"titre": "Automated Staging for Virtual Cinematography",
+"annee": 2018,
+"type": "conférence",
+"lieu": "MIG 2018 - 11th annual conference on Motion, Interaction and Games",
+"url": "https://inria.hal.science/hal-01883808v1",
+"doi": "10.1145/3274247.3274500"
+},
+{
+"id": "p418612488d",
+"titre": "Biomechanical analysis of the “waiter's serve” on upper limb loads in young elite tennis players",
+"annee": 2018,
+"type": "journal",
+"lieu": "European Journal of Sport Science",
+"url": "https://doi.org/10.1080/17461391.2018.1539527",
+"doi": "10.1080/17461391.2018.1539527"
+},
+{
+"id": "p6e784ba94a",
+"titre": "Collision avoidance behavior between walkers: global and local motion cues",
+"annee": 2018,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-01557763v1",
+"doi": "10.1109/tvcg.2017.2718514"
+},
+{
+"id": "p92dc8cc5af",
+"titre": "Collision avoidance behavior between walkers: global and local motion cues",
+"annee": 2018,
+"type": "conférence",
+"lieu": "IEEE VR 2018 - 25th IEEE Conference on Virtual Reality",
+"url": "https://hal.science/hal-01809757v1"
+},
+{
+"id": "pdc37e441de",
+"titre": "CuDi3D: Curvilinear displacement based approach for online 3D action detection",
+"annee": 2018,
+"type": "journal",
+"lieu": "Computer Vision and Image Understanding",
+"url": "https://inria.hal.science/hal-01856894v1",
+"doi": "10.1016/j.cviu.2018.07.003"
+},
+{
+"id": "pc617fd684d",
+"titre": "Détection précoce d'actions squelettiques 3D dans un flot non segmenté à base de modèles curvilignes",
+"annee": 2018,
+"type": "conférence",
+"lieu": "RFIAP 2018 Reconnaissance des Formes, Image, Apprentissage et Perception",
+"url": "https://hal.science/hal-01867937v1"
+},
+{
+"id": "p21cae1a00f",
+"titre": "Effect of Virtual Human Gaze Behaviour During an Orthogonal Collision Avoidance Walking Task",
+"annee": 2018,
+"type": "conférence",
+"lieu": "IEEE VR 2018 - 25th IEEE Conference on Virtual Reality",
+"url": "https://hal.science/hal-01808850v1",
+"doi": "10.1109/vr.2018.8446180"
+},
+{
+"id": "pc7f7a2b1f7",
+"titre": "Feature Selection in Time-Series Motion Databases",
+"annee": 2018,
+"type": "conférence",
+"lieu": "FedCSIS 2018 - Federated Conference on Computer Science and Information Systems",
+"url": "https://inria.hal.science/hal-01826230v1",
+"doi": "10.15439/2018f29"
+},
+{
+"id": "pd5fb572555",
+"titre": "Identification of serve pacing strategies during five-set tennis matches",
+"annee": 2018,
+"type": "journal",
+"lieu": "International Journal of Sports Science & Coaching",
+"url": "https://doi.org/10.1177/1747954118806682",
+"doi": "10.1177/1747954118806682"
+},
+{
+"id": "p2f28cd6e5b",
+"titre": "Laterality Influences Agility Performance in Elite Soccer Players",
+"annee": 2018,
+"type": "journal",
+"lieu": "Frontiers in Physiology",
+"url": "https://doi.org/10.3389/fphys.2018.00807",
+"doi": "10.3389/fphys.2018.00807"
+},
+{
+"id": "p9e1f75d379",
+"titre": "STAPS : anatomie, physiologie, neurosciences et biomécanique",
+"annee": 2018,
+"type": "ouvrage",
+"lieu": "",
+"url": "https://hal.science/hal-02291705v1"
+},
+{
+"id": "p87746fe3b0",
+"titre": "Spatiotemporal analysis of 3D kinematic asymmetry in professional cycling during an incremental test to exhaustion",
+"annee": 2018,
+"type": "journal",
+"lieu": "Journal of Sports Sciences",
+"url": "https://doi.org/10.1080/02640414.2018.1432066",
+"doi": "10.1080/02640414.2018.1432066"
+},
+{
+"id": "pba2cbb1d53",
+"titre": "Surface based motion retargeting by preserving spatial relationship",
+"annee": 2018,
+"type": "conférence",
+"lieu": "MIG '18 - 11th Annual International Conference on Motion, Interaction, and Games",
+"url": "https://inria.hal.science/hal-01919065v1",
+"doi": "10.1145/3274247.3274507"
+},
+{
+"id": "p5c162aa1ea",
+"titre": "Time-series averaging using constrained dynamic time warping with tolerance",
+"annee": 2018,
+"type": "journal",
+"lieu": "Pattern Recognition",
+"url": "https://hal.sorbonne-universite.fr/hal-01630288v1",
+"doi": "10.1016/j.patcog.2017.08.015"
+},
+{
+"id": "p6068980fcc",
+"titre": "Video Style Transfer by Consistent Adaptive Patch Sampling",
+"annee": 2018,
+"type": "journal",
+"lieu": "The Visual Computer",
+"url": "https://hal.science/hal-01504771v2",
+"doi": "10.1007/s00371-018-1474-1"
+},
+{
+"id": "p9afb60b896",
+"titre": "Walking with virtual people: Evaluation of locomotion interfaces in dynamic environments",
+"annee": 2018,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-01557761v1",
+"doi": "10.1109/tvcg.2017.2714665"
+},
+{
+"id": "paccad921cf",
+"titre": "3D Multistroke Mapping (3DMM): Transfer of Hand-Drawn Pattern Representation for Skeleton-Based Gesture Recognition",
+"annee": 2017,
+"type": "conférence",
+"lieu": "12th IEEE International Conference on Automatic Face and Gesture Recognition (FG 2017)",
+"url": "https://hal.science/hal-01555452v1",
+"doi": "10.1109/fg.2017.63"
+},
+{
+"id": "p7bdf2edcf2",
+"titre": "A Distance-Based Approach for Human Posture Simulations",
+"annee": 2017,
+"type": "conférence",
+"lieu": "FedCSIS 2017 - Federated Conference on Computer Science and Information Systems",
+"url": "https://inria.hal.science/hal-01632860v1",
+"doi": "10.15439/2017f98"
+},
+{
+"id": "p3763c1f7cc",
+"titre": "Automatic evaluation of sports motion: A generic computation of spatial and temporal errors",
+"annee": 2017,
+"type": "journal",
+"lieu": "Image and Vision Computing",
+"url": "https://univ-rennes.hal.science/hal-01586401v1",
+"doi": "10.1016/j.imavis.2017.05.008"
+},
+{
+"id": "p7ec7c35b82",
+"titre": "Biomechanical analysis of tennis serve in young elite players: effect of the \"waiter's serve\" on upper limb loads",
+"annee": 2017,
+"type": "conférence",
+"lieu": "European College of Sport Science",
+"url": "https://inria.hal.science/hal-01676767v1"
+},
+{
+"id": "p12f74a19dd",
+"titre": "Dynamic hand gesture recognition based on 3D pattern assembled trajectories",
+"annee": 2017,
+"type": "conférence",
+"lieu": "IPTA 2017 - 7th IEEE International Conference on Image Processing Theory, Tools and Applications",
+"url": "https://hal.science/hal-01666377v1"
+},
+{
+"id": "p6679223536",
+"titre": "Effect of mutual gaze on collision avoidance behavior during human walking",
+"annee": 2017,
+"type": "conférence",
+"lieu": "AFRV",
+"url": "https://hal.science/hal-01645801v1"
+},
+{
+"id": "p618049a885",
+"titre": "Filtered Pose Graph for Efficient Kinect Pose Reconstruction",
+"annee": 2017,
+"type": "journal",
+"lieu": "Multimedia Tools and Applications",
+"url": "https://inria.hal.science/hal-01332711v2",
+"doi": "10.1007/s11042-016-3546-4"
+},
+{
+"id": "p78fd305753",
+"titre": "Inverse dynamics based on occlusion-resistant Kinect data: Is it usable for ergonomics?",
+"annee": 2017,
+"type": "journal",
+"lieu": "International Journal of Industrial Ergonomics",
+"url": "https://inria.hal.science/hal-01527325v1",
+"doi": "10.1016/j.ergon.2017.05.010"
+},
+{
+"id": "pf09a50f86d",
+"titre": "Investigating neurophysiological correlates of covert attention in soccer goalkeepers",
+"annee": 2017,
+"type": "conférence",
+"lieu": "WCSS 2017 - World Conference on Science and Soccer",
+"url": "https://inria.hal.science/hal-01669331v1"
+},
+{
+"id": "p3037917da4",
+"titre": "Kinematic of displacement during interceptive task in an immersive virtual environment",
+"annee": 2017,
+"type": "conférence",
+"lieu": "IGRV",
+"url": "https://inria.hal.science/hal-01842449v1"
+},
+{
+"id": "p2e5a1bb6a4",
+"titre": "Normalized Euclidean Distance Matrices for Human Motion Retargeting",
+"annee": 2017,
+"type": "conférence",
+"lieu": "MIG 2017 - Motion in Games",
+"url": "https://inria.hal.science/hal-01632850v1",
+"doi": "10.1145/3136457.3136466"
+},
+{
+"id": "pcdd96a3ea9",
+"titre": "Sequence-dependent rotation axis changes in tennis",
+"annee": 2017,
+"type": "journal",
+"lieu": "Sports Biomechanics",
+"url": "https://doi.org/10.1080/14763141.2017.1332237",
+"doi": "10.1080/14763141.2017.1332237"
+},
+{
+"id": "p8ac1711d72",
+"titre": "Simultaneous and sequential affordances of collision avoidance between multiple pedestrians",
+"annee": 2017,
+"type": "conférence",
+"lieu": "ICPA 2017 - 19th biannual International Conference on Perception and Action",
+"url": "https://inria.hal.science/hal-01646507v1"
+},
+{
+"id": "p8a904a0860",
+"titre": "Usability of corrected Kinect measurement for ergonomic evaluation in constrained environment",
+"annee": 2017,
+"type": "journal",
+"lieu": "International Journal of Human Factors Modelling and Simulation",
+"url": "https://inria.hal.science/hal-01612939v1",
+"doi": "10.1504/ijhfms.2017.087018"
+},
+{
+"id": "pa31e769e8b",
+"titre": "Validation of an ergonomic assessment method using Kinect data in real workplace conditions",
+"annee": 2017,
+"type": "journal",
+"lieu": "Applied Ergonomics",
+"url": "https://inria.hal.science/hal-01393066v1",
+"doi": "10.1016/j.apergo.2016.10.015"
+},
+{
+"id": "p5057be3924",
+"titre": "Validity and sensitivity of the Longitudinal Asymmetry Index to detect gait asymmetry using Microsoft Kinect data",
+"annee": 2017,
+"type": "journal",
+"lieu": "Gait & Posture",
+"url": "https://inria.hal.science/hal-01359845v1",
+"doi": "10.1016/j.gaitpost.2016.08.022"
+},
+{
+"id": "p8a482ffbf0",
+"titre": "Walking with virtual people: Evaluation of locomotion interfaces in dynamic environments",
+"annee": 2017,
+"type": "conférence",
+"lieu": "IEEE VR 2017 - IEEE Virtual Reality",
+"url": "https://inria.hal.science/hal-01661211v1"
+},
+{
+"id": "p261de3e980",
+"titre": "Automatic and Generic Evaluation of Spatial and Temporal Errors in Sport Motions",
+"annee": 2016,
+"type": "conférence",
+"lieu": "11th International Conference on Computer Vision Theory and Applications (VISAPP 2016)",
+"url": "https://hal.science/hal-01373822v1",
+"doi": "10.5220/0005778505420551"
+},
+{
+"id": "pce89d24d64",
+"titre": "Dynamically balanced and plausible trajectory planning for human-like characters",
+"annee": 2016,
+"type": "conférence",
+"lieu": "20th ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games",
+"url": "https://inria.hal.science/hal-01290368v1",
+"doi": "10.1145/2856400.2856405"
+},
+{
+"id": "p098e6871f1",
+"titre": "Ergonomics Measurements using Kinect with a Pose Correction Framework",
+"annee": 2016,
+"type": "conférence",
+"lieu": "Digital Human Modeling",
+"url": "https://inria.hal.science/hal-01332716v1"
+},
+{
+"id": "p984b75622b",
+"titre": "Global Motion Provides Sufficient Information for Successful Collision Avoidance During a Locomotor Task Within Virtual Reality",
+"annee": 2016,
+"type": "conférence",
+"lieu": "AFRV",
+"url": "https://hal.science/hal-01645697v1"
+},
+{
+"id": "pa1bc95e5c5",
+"titre": "HIF3D: Handwriting-Inspired Features for 3D Skeleton-Based Action Recognition",
+"annee": 2016,
+"type": "conférence",
+"lieu": "23rd IEEE International Conference on Pattern Recognition (ICPR 2016)",
+"url": "https://hal.science/hal-01376113v1"
+},
+{
+"id": "p6b923ff89e",
+"titre": "Influence of Playing a Prolonged Tennis Match on Shoulder Internal Range of Motion",
+"annee": 2016,
+"type": "journal",
+"lieu": "The American Journal of Sports Medicine",
+"url": "https://doi.org/10.1177/0363546516645542",
+"doi": "10.1177/0363546516645542"
+},
+{
+"id": "p4988d27ff3",
+"titre": "Influence of a Prolonged Tennis Match Play on Serve Biomechanics",
+"annee": 2016,
+"type": "journal",
+"lieu": "PLoS ONE",
+"url": "https://doi.org/10.1371/journal.pone.0159979",
+"doi": "10.1371/journal.pone.0159979"
+},
+{
+"id": "p792156cf6e",
+"titre": "Motion Driven Tonal Stabilization",
+"annee": 2016,
+"type": "journal",
+"lieu": "IEEE Transactions on Image Processing",
+"url": "https://hal.science/hal-01150558v5",
+"doi": "10.1109/tip.2016.2601267"
+},
+{
+"id": "pa6ef8ba8b0",
+"titre": "Perceptual Effect of Shoulder Motions on Crowd Animations",
+"annee": 2016,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-01357713v1",
+"doi": "10.1145/2897824.2925931"
+},
+{
+"id": "pa67bae3831",
+"titre": "Split and Match: Example-based Adaptive Patch Sampling for Unsupervised Style Transfer",
+"annee": 2016,
+"type": "conférence",
+"lieu": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+"url": "https://hal.science/hal-01280818v2"
+},
+{
+"id": "pde5904675d",
+"titre": "A Motion-based User Interface for the Control of Virtual Humans Performing Sports",
+"annee": 2015,
+"type": "journal",
+"lieu": "International Journal of Virtual Reality",
+"url": "https://hal.science/hal-01530547v1"
+},
+{
+"id": "p3faa99dbbe",
+"titre": "A Reachability-based planner for sequences of acyclic contacts in cluttered environments",
+"annee": 2015,
+"type": "conférence",
+"lieu": "International Symposium on Robotics Research (ISSR 2015)",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-01149666v1"
+},
+{
+"id": "p74ddc17a8e",
+"titre": "A methodology for introducing competitive anxiety and pressure in VR sports training",
+"annee": 2015,
+"type": "journal",
+"lieu": "Frontiers in Robotics and AI",
+"url": "https://inria.hal.science/hal-01140454v1",
+"doi": "10.3389/frobt.2015.00010"
+},
+{
+"id": "p9a4cbfb118",
+"titre": "Advantages and limitations of virtual reality for balance assessment and rehabilitation",
+"annee": 2015,
+"type": "journal",
+"lieu": "Neurophysiologie Clinique = Clinical Neurophysiology",
+"url": "https://univ-rennes.hal.science/hal-01225506v1",
+"doi": "10.1016/j.neucli.2015.09.007"
+},
+{
+"id": "p5df5a6252e",
+"titre": "Detecting Deceptive Movement in 1 vs. 1 Based on Global Body Displacement of a Rugby Player",
+"annee": 2015,
+"type": "journal",
+"lieu": "International Journal of Virtual Reality",
+"url": "https://hal.science/hal-01530483v1"
+},
+{
+"id": "p33811937ac",
+"titre": "Detection of gait cycles in treadmill walking using a Kinect",
+"annee": 2015,
+"type": "journal",
+"lieu": "Gait & Posture",
+"url": "https://inria.hal.science/hal-01076393v1",
+"doi": "10.1016/j.gaitpost.2014.08.006"
+},
+{
+"id": "pb0d3c1a60a",
+"titre": "Fast Grasp Planning Using Cord Geometry",
+"annee": 2015,
+"type": "journal",
+"lieu": "IEEE Transactions on Robotics",
+"url": "https://inria.hal.science/hal-01250418v1",
+"doi": "10.1109/tro.2015.2492863"
+},
+{
+"id": "p73597b2c4d",
+"titre": "Morphology independent motion retrieval and control",
+"annee": 2015,
+"type": "journal",
+"lieu": "International Journal of Virtual Reality",
+"url": "https://hal.science/hal-01530481v1"
+},
+{
+"id": "p3fa2d374b1",
+"titre": "Motion driven tonal stabilization",
+"annee": 2015,
+"type": "conférence",
+"lieu": "IEEE International Conference on Image Processing (ICIP)",
+"url": "https://hal.science/hal-01256874v1",
+"doi": "10.1109/icip.2015.7351429"
+},
+{
+"id": "pb414fa23ab",
+"titre": "Multiple Object Tracking While Walking: Similarities and Differences Between Young, Young-Old, and Old-Old Adults",
+"annee": 2015,
+"type": "journal",
+"lieu": "Journals of Gerontology Series B: Psychological Sciences and Social Sciences",
+"url": "https://hal.science/hal-01239476v1",
+"doi": "10.1093/geronb/gbu047"
+},
+{
+"id": "paa6f4f7d7f",
+"titre": "New Lower-Limb Gait Asymmetry Indices Based on a Depth Camera",
+"annee": 2015,
+"type": "journal",
+"lieu": "Sensors",
+"url": "https://inria.hal.science/hal-01119763v1",
+"doi": "10.3390/s150304605"
+},
+{
+"id": "p9b1f44bb7f",
+"titre": "Pose Estimation with a Kinect for Ergonomic Studies: Evaluation of the Accuracy Using a Virtual Mannequin",
+"annee": 2015,
+"type": "journal",
+"lieu": "Sensors",
+"url": "https://inria.hal.science/hal-01104045v1",
+"doi": "10.3390/s150101785"
+},
+{
+"id": "p0c2d451077",
+"titre": "Pre-exercise hyperventilation can significantly increase performance in the 50-meter front crawl",
+"annee": 2015,
+"type": "journal",
+"lieu": "Science & Sports",
+"url": "https://doi.org/10.1016/j.scispo.2015.02.006",
+"doi": "10.1016/j.scispo.2015.02.006"
+},
+{
+"id": "p6c01062669",
+"titre": "Stabilisation tonale de vidéos",
+"annee": 2015,
+"type": "conférence",
+"lieu": "GRETSI 2015",
+"url": "https://hal.science/hal-01256950v1"
+},
+{
+"id": "p31693e12ee",
+"titre": "Virtual Environments for Sport Analysis: Perception-Action Coupling in Handball Goalkeeping",
+"annee": 2015,
+"type": "journal",
+"lieu": "International Journal of Virtual Reality",
+"url": "https://hal.science/hal-01530485v1"
+},
+{
+"id": "pc6bcf6d3a9",
+"titre": "Virtual kicker vs. real goalkeeper in soccer: a way to explore goalkeeper’s performance",
+"annee": 2015,
+"type": "journal",
+"lieu": "Movement & Sport Sciences - Science & Motricité",
+"url": "https://hal.science/hal-01239468v1",
+"doi": "10.1051/sm/2015026"
+},
+{
+"id": "p08504d6ba3",
+"titre": "Visual Perspective and Feedback Guidance for VR Free-Throw Training",
+"annee": 2015,
+"type": "journal",
+"lieu": "IEEE Computer Graphics and Applications",
+"url": "https://inria.hal.science/hal-01205681v1",
+"doi": "10.1109/mcg.2015.95"
+},
+{
+"id": "peb197c086c",
+"titre": "Which technology to investigate visual perception in sport: Video vs. virtual reality",
+"annee": 2015,
+"type": "journal",
+"lieu": "Human Movement Science",
+"url": "https://inria.hal.science/hal-01095548v1",
+"doi": "10.1016/j.humov.2014.10.006"
+},
+{
+"id": "pba9c6244c6",
+"titre": "Energy Flow Analysis During the Tennis Serve Comparison Between Injured and Noninjured Tennis Players",
+"annee": 2014,
+"type": "journal",
+"lieu": "The American Journal of Sports Medicine",
+"url": "https://hal.science/hal-01239472v1",
+"doi": "10.1177/0363546514547173"
+},
+{
+"id": "p0eec16f4d1",
+"titre": "Semantically Consistent Hierarchical Decomposition of Virtual Urban Environments",
+"annee": 2014,
+"type": "conférence",
+"lieu": "Smart Graphics 2014",
+"url": "https://inria.hal.science/hal-01095798v1",
+"doi": "10.1007/978-3-319-11650-1_12"
+},
+{
+"id": "p73a77c6968",
+"titre": "Task efficient contact configurations for arbitrary virtual creatures",
+"annee": 2014,
+"type": "conférence",
+"lieu": "Graphics Interface'2014",
+"url": "https://inria.hal.science/hal-00988328v1"
+},
+{
+"id": "p1aa353f287",
+"titre": "Third Person View And Guidance For More Natural Motor Behaviour In Immersive Basketball Playing",
+"annee": 2014,
+"type": "conférence",
+"lieu": "ACM Symposium on Virtual Reality Software and Technology VRST",
+"url": "https://inria.hal.science/hal-01080074v1",
+"doi": "10.1145/2671015.2671023"
+},
+{
+"id": "p39c5ebe6b6",
+"titre": "Toward \"Pseudo-Haptic Avatars\": Modifying the Visual Animation of Self-Avatar Can Simulate the Perception of Weight Lifting",
+"annee": 2014,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-00990280v1",
+"doi": "10.1109/tvcg.2014.45"
+},
+{
+"id": "pef386eca24",
+"titre": "Upper limb joint kinetic analysis during tennis serve: assessment of competitive level on efficiency and injury risks",
+"annee": 2014,
+"type": "journal",
+"lieu": "Scandinavian Journal of Medicine and Science in Sports",
+"url": "https://inria.hal.science/hal-00763596v1",
+"doi": "10.1111/sms.12043"
+},
+{
+"id": "pc4f7cc2eeb",
+"titre": "Using task efficient contact configurations to animate creatures in arbitrary environments",
+"annee": 2014,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://inria.hal.science/hal-01076395v1",
+"doi": "10.1016/j.cag.2014.08.005"
+},
+{
+"id": "p642ce161ec",
+"titre": "Évaluation de l’asymétrie de la marche chez une population hémiplégique",
+"annee": 2014,
+"type": "conférence",
+"lieu": "Congrès de la Société Francophone Posture Equilibre Locomotion (SOFPEL)",
+"url": "https://inria.hal.science/hal-01086804v1",
+"doi": "10.1016/j.neucli.2014.09.036"
+},
+{
+"id": "p98e9d169a7",
+"titre": "Biomechanics of Walking in Real World: Naturalness we Wish to Reach in Virtual Reality",
+"annee": 2013,
+"type": "chapitre",
+"lieu": "Human Walking in Virtual Environments: perception, technology and applications",
+"url": "https://inria.hal.science/hal-00840153v1"
+},
+{
+"id": "pf73638edd8",
+"titre": "Combining Activity Scheduling and Path Planning to Populate Virtual Cities",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Autonomous Agents and Multiagent Systems",
+"url": "https://inria.hal.science/hal-00913696v1"
+},
+{
+"id": "pca8e799393",
+"titre": "Dealing with variability when recognizing user's performance in natural 3D gesture interfaces",
+"annee": 2013,
+"type": "journal",
+"lieu": "International Journal of Pattern Recognition and Artificial Intelligence",
+"url": "https://inria.hal.science/hal-00857204v1",
+"doi": "10.1142/s0218001413500237"
+},
+{
+"id": "p982673f865",
+"titre": "Displacements in Virtual Reality for sports performance analysis",
+"annee": 2013,
+"type": "chapitre",
+"lieu": "Human walking in virtual environments",
+"url": "https://inria.hal.science/hal-00918217v1"
+},
+{
+"id": "p153f32aac6",
+"titre": "Fast Grasp Planning by Using Cord Geometry to Find Grasping Points",
+"annee": 2013,
+"type": "conférence",
+"lieu": "IEEE International Conference on Robotics and Automation ICRA",
+"url": "https://inria.hal.science/hal-00956631v1",
+"doi": "10.1109/icra.2013.6631032"
+},
+{
+"id": "p10027dcae5",
+"titre": "Human Walking in Virtual Environments: perception, technology and applications",
+"annee": 2013,
+"type": "chapitre",
+"lieu": "Human Walking in Virtual Environments: perception, technology and applications",
+"url": "https://univ-rennes.hal.science/hal-01159388v1"
+},
+{
+"id": "p6313a331b4",
+"titre": "Identification of Temporal Pathomechanical Factors during the Tennis Serve",
+"annee": 2013,
+"type": "journal",
+"lieu": "Medicine and Science in Sports and Exercise",
+"url": "https://inria.hal.science/hal-00921445v1",
+"doi": "10.1249/mss.0b013e318299ae3b"
+},
+{
+"id": "pe56e92c67e",
+"titre": "Natural Preparation Behaviour Synthesis",
+"annee": 2013,
+"type": "journal",
+"lieu": "Computer Animation and Virtual Worlds",
+"url": "https://inria.hal.science/hal-00844767v1",
+"doi": "10.1002/cav.1546"
+},
+{
+"id": "pcaaec6f8ab",
+"titre": "Personified and multistate camera motions for first-person navigation in desktop virtual reality",
+"annee": 2013,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-00823547v1",
+"doi": "10.1109/tvcg.2013.38"
+},
+{
+"id": "p5b668c4559",
+"titre": "Professional tennis players' serve: correlation between segmental angular momentums and ball velocity",
+"annee": 2013,
+"type": "journal",
+"lieu": "Sports Biomechanics",
+"url": "https://inria.hal.science/hal-00763600v1"
+},
+{
+"id": "pa1e6e8e6e6",
+"titre": "Rendre compte de l'expérience utilisateur dans un environnement virtuel pour l'apprentissage de gestes de karaté",
+"annee": 2013,
+"type": "conférence",
+"lieu": "ACAPS (Association des Chercheurs en Activités Physiques et Sportives)",
+"url": "https://inria.hal.science/hal-00918220v1"
+},
+{
+"id": "pd4b07f1aeb",
+"titre": "A model-based approach to compute 3D bipedal locomotion based on anthropological data - application to non-human primates and early hominids",
+"annee": 2012,
+"type": "journal",
+"lieu": "American Journal of Physical Anthropology",
+"url": "https://hal.science/hal-00816102v1"
+},
+{
+"id": "p82e09ac191",
+"titre": "An anthropomorphic polyvinyl alcohol brain phantom based on Colin27 for use in multimodal imaging",
+"annee": 2012,
+"type": "journal",
+"lieu": "Medical Physics",
+"url": "https://inria.hal.science/hal-00766567v1",
+"doi": "10.1118/1.3673069"
+},
+{
+"id": "p49cb056d9d",
+"titre": "Anthropometry in bipedal locomotion: the link between anatomy and gait",
+"annee": 2012,
+"type": "chapitre",
+"lieu": "Handbook of Anthropometry: Physical Measures of Human Form in Health and Disease",
+"url": "https://hal.science/hal-00815340v1"
+},
+{
+"id": "pe4ed4a192e",
+"titre": "Cloning Crowd Motion",
+"annee": 2012,
+"type": "conférence",
+"lieu": "ACM SIGGRAPH / Eurographics Symposium on Computer Animation",
+"url": "https://inria.hal.science/hal-00766794v1"
+},
+{
+"id": "pba76432692",
+"titre": "Cognition and biomechanics of walking",
+"annee": 2012,
+"type": "chapitre",
+"lieu": "Human Walking in Virtual Environments: perception, technology and applications",
+"url": "https://inria.hal.science/hal-00640204v1"
+},
+{
+"id": "p0809870ffe",
+"titre": "Comparaison des interactions cognition-locomotion chez des sujets jeunes et chez des seniors jeunes et âgés : mise en évidence par la double-tâche Mar-MOT",
+"annee": 2012,
+"type": "conférence",
+"lieu": "XIXe congrès de l'association Posture et Equilibre (APE) / 1er congrès de la Société Francophone : Posture, Equilibre, Locomotion (SOFPEL)",
+"url": "https://inria.hal.science/hal-01059361v1",
+"doi": "10.1016/j.neucli.2012.09.063"
+},
+{
+"id": "p65af508b56",
+"titre": "Coupling biomechanics, computer animation and perceptual studies to enhance performance of virtual human simulation",
+"annee": 2012,
+"type": "conférence",
+"lieu": "CAD/Graphics 2012",
+"url": "https://inria.hal.science/hal-00743850v1"
+},
+{
+"id": "p6ab8a46443",
+"titre": "Dealing with Variability When Recognizing User's Performance in Natural Gesture Interfaces",
+"annee": 2012,
+"type": "conférence",
+"lieu": "Motion in Games MIG2012",
+"url": "https://inria.hal.science/hal-00743855v1"
+},
+{
+"id": "p499fb689de",
+"titre": "Deception in Sports Using Immersive Environments",
+"annee": 2012,
+"type": "journal",
+"lieu": "IEEE Intelligent Systems",
+"url": "https://inria.hal.science/hal-00743848v1"
+},
+{
+"id": "p7888f13435",
+"titre": "Detecting Deception in Movement: The Case of the Side-Step in Rugby",
+"annee": 2012,
+"type": "journal",
+"lieu": "PLoS ONE",
+"url": "https://inria.hal.science/hal-01059120v1",
+"doi": "10.1371/journal.pone.0037494"
+},
+{
+"id": "pf5785b4bcd",
+"titre": "Enhancing the behavior of virtual characters with long term planning, failure anticipation and opportunism",
+"annee": 2012,
+"type": "conférence",
+"lieu": "Motion In Games",
+"url": "https://inria.hal.science/hal-00763694v1"
+},
+{
+"id": "p6a56c076e0",
+"titre": "Experimental study of the following dynamics of pedestrians",
+"annee": 2012,
+"type": "conférence",
+"lieu": "Pedestrian and Evacuation Dynamics 2012",
+"url": "https://inria.hal.science/hal-00762937v1",
+"doi": "10.1007/978-3-319-02447-9_25"
+},
+{
+"id": "p38c3e6abff",
+"titre": "How does the tennis serve technique influence the serve-and-volley ?",
+"annee": 2012,
+"type": "journal",
+"lieu": "Journal of Sports Sciences",
+"url": "https://inria.hal.science/hal-00763606v1",
+"doi": "10.1080/02640414.2012.695079"
+},
+{
+"id": "p0f4d12cf0c",
+"titre": "Lower limb movement asymmetry measurement with a depth camera.",
+"annee": 2012,
+"type": "conférence",
+"lieu": "Annual International Conference of the IEEE - Engineering in Medicine and Biology Society (EMBC)",
+"url": "https://inria.hal.science/hal-01023234v1",
+"doi": "10.1109/embc.2012.6347554"
+},
+{
+"id": "p744d66a299",
+"titre": "Machine Learning Approach for Gesture Recognition Based on Automatic Feature Selection",
+"annee": 2012,
+"type": "conférence",
+"lieu": "Motion in Games MIG2012",
+"url": "https://inria.hal.science/hal-00743852v1"
+},
+{
+"id": "p87152546b3",
+"titre": "Multiple depth cameras calibration and body volume reconstruction for gait analysis",
+"annee": 2012,
+"type": "conférence",
+"lieu": "Information Science, Signal Processing and their Applications (ISSPA) 2012",
+"url": "https://inria.hal.science/hal-00744353v1",
+"doi": "10.1109/isspa.2012.6310598"
+},
+{
+"id": "pccb417f920",
+"titre": "Realistic following behaviors for crowd simulation",
+"annee": 2012,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-00817688v1",
+"doi": "10.1111/j.1467-8659.2012.03028.x"
+},
+{
+"id": "p3cec6f6efd",
+"titre": "Sensing Human Walking: Algorithms and Techniques for Extracting and Modeling Locomotion",
+"annee": 2012,
+"type": "chapitre",
+"lieu": "Human Walking in Virtual Environments: Perception, Technology, and Applications",
+"url": "https://inria.hal.science/hal-00640205v1"
+},
+{
+"id": "pb5c057fd8f",
+"titre": "Space-time planning in changing environments : using dynamic objects for accessibility",
+"annee": 2012,
+"type": "journal",
+"lieu": "Computer Animation and Virtual Worlds",
+"url": "https://inria.hal.science/hal-00763658v1",
+"doi": "10.1002/cav.1428"
+},
+{
+"id": "pb21642f4e4",
+"titre": "The Handbook of Anthropometry: Physical Measures of Human Form in Health and Disease",
+"annee": 2012,
+"type": "chapitre",
+"lieu": "The Handbook of Anthropometry: Physical Measures of Human Form in Health and Disease",
+"url": "https://univ-rennes.hal.science/hal-01159417v1"
+},
+{
+"id": "p58e191bdcc",
+"titre": "The King-Kong Effects: Improving Sensation of Walking in VR with Visual and Tactile Vibrations at each Step",
+"annee": 2012,
+"type": "conférence",
+"lieu": "IEEE Symposium on 3D User Interfaces",
+"url": "https://inria.hal.science/hal-00678892v1"
+},
+{
+"id": "peb149248df",
+"titre": "Trends & Controversies",
+"annee": 2012,
+"type": "journal",
+"lieu": "IEEE Intelligent Systems",
+"url": "https://doi.org/10.1109/mis.2012.116",
+"doi": "10.1109/mis.2012.116"
+},
+{
+"id": "p08302a02f9",
+"titre": "3D Rigid Registration of Intraoperative Ultrasound and Preoperative MR Brain Images based on Hyperechogenic Structures",
+"annee": 2011,
+"type": "journal",
+"lieu": "International Journal of Biomedical Imaging",
+"url": "https://hal.science/hal-00645546v1"
+},
+{
+"id": "pcf685d87c8",
+"titre": "A step‐by‐step modeling, analysis and annotation of locomotion",
+"annee": 2011,
+"type": "journal",
+"lieu": "Computer Animation and Virtual Worlds",
+"url": "https://hal.science/hal-01410960v1",
+"doi": "10.1002/cav.377"
+},
+{
+"id": "pfcc113b562",
+"titre": "Analyse de la marche en double tâche chez des patients en Déficit Cognitif Léger en fonction des sous-types : non amnésique et amnésique. Résultats préliminaires",
+"annee": 2011,
+"type": "journal",
+"lieu": "Annals of Physical and Rehabilitation Medicine",
+"url": "https://doi.org/10.1016/j.rehab.2011.07.702",
+"doi": "10.1016/j.rehab.2011.07.702"
+},
+{
+"id": "p1d080cb89d",
+"titre": "Comparative study of analysis methodologies for handball goalkeeping: videography or virtual environments?",
+"annee": 2011,
+"type": "conférence",
+"lieu": "ACAPS",
+"url": "https://hal.science/hal-04821245v1"
+},
+{
+"id": "p0589f1b768",
+"titre": "Comparing Virtual Trajectories Made in Slalom Using Walking-In-Place and Joystick Techniques",
+"annee": 2011,
+"type": "conférence",
+"lieu": "EuroVR / EGVE Joint Virtual Reality Conference",
+"url": "https://inria.hal.science/hal-00641371v1"
+},
+{
+"id": "p4ae32241d6",
+"titre": "Comparison of models of dynamic balance in biological motions",
+"annee": 2011,
+"type": "journal",
+"lieu": "Computer Methods in Biomechanics and Biomedical Engineering",
+"url": "https://inria.hal.science/hal-00640201v1",
+"doi": "10.1080/10255842.2011.594713"
+},
+{
+"id": "pe794aa570e",
+"titre": "Contactless Abnormal Gait Detection, Gait analysis with multiple depth cameras",
+"annee": 2011,
+"type": "conférence",
+"lieu": "EMBC",
+"url": "https://inria.hal.science/hal-00640209v1"
+},
+{
+"id": "p9d568bec05",
+"titre": "Do the Kinematic of the Throwing Action in Handball Influence Goalkeeper’s Judgement?",
+"annee": 2011,
+"type": "conférence",
+"lieu": "EHF 2011 Science and Analytical Expertise in Handball",
+"url": "https://hal.science/hal-04863405v1"
+},
+{
+"id": "p8ec3c2d150",
+"titre": "Dual tasking and gait in people with Mild Cognitive Impairment according to amnesic and non-amnesic subgroups, preliminary results",
+"annee": 2011,
+"type": "journal",
+"lieu": "Annals of Physical and Rehabilitation Medicine",
+"url": "https://doi.org/10.1016/j.rehab.2011.07.706",
+"doi": "10.1016/j.rehab.2011.07.706"
+},
+{
+"id": "p2d772ef8eb",
+"titre": "Fall detection with multiple cameras: An occlusion-resistant method based on 3D silhouette vertical distribution",
+"annee": 2011,
+"type": "journal",
+"lieu": "IEEE Transactions on Information Technology in Biomedicine",
+"url": "https://inria.hal.science/hal-00640199v1",
+"doi": "10.1109/titb.2010.2087385"
+},
+{
+"id": "p6eb273abd7",
+"titre": "Feinte de corps au rugby : de l'analyse perceptive et motrice de l'activité du défenseur à la proposition d'un simulateur d'entrainement pour l'attaquant",
+"annee": 2011,
+"type": "conférence",
+"lieu": "Association des Chercheurs en Activités Physiques et Sportives (ACAPS)",
+"url": "https://inria.hal.science/hal-00641506v1"
+},
+{
+"id": "peee82b7e5c",
+"titre": "From geometry to spatial reasoning : automatic structuring of 3D virtual environments.",
+"annee": 2011,
+"type": "conférence",
+"lieu": "Motion In Games",
+"url": "https://inria.hal.science/hal-00639662v1"
+},
+{
+"id": "p64095a4886",
+"titre": "Gait analysis with multiple depth cameras",
+"annee": 2011,
+"type": "conférence",
+"lieu": "IEEE Eng Med Biol Soc.",
+"url": "https://inria.hal.science/hal-01023253v1",
+"doi": "10.1109/iembs.2011.6091546"
+},
+{
+"id": "pee68410220",
+"titre": "Imperceptible Relaxation of Collision Avoidance Constraints in Virtual Crowds",
+"annee": 2011,
+"type": "conférence",
+"lieu": "SIGGRAPH ASIA",
+"url": "https://inria.hal.science/hal-00642607v1"
+},
+{
+"id": "p98a9a79b5e",
+"titre": "Imperceptible relaxation of collision avoidance constraints in virtual crowds",
+"annee": 2011,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-01059441v1",
+"doi": "10.1145/2024156.2024172"
+},
+{
+"id": "pb5e2d34a54",
+"titre": "In what manner do quadrupedal primates walk on two legs ? Preliminary results on Olive Baboons (Papio anubis)",
+"annee": 2011,
+"type": "chapitre",
+"lieu": "Primate Locomotion: Linking In Situ and Ex Situ Research",
+"url": "https://hal.science/hal-00815317v1"
+},
+{
+"id": "p75a2a9d7f2",
+"titre": "MRI-free neuronavigation for transcranial magnetic stimulation in severe depression",
+"annee": 2011,
+"type": "conférence",
+"lieu": "MICCAI Workshop on Mesh Processing in Medical Image Analysis (MeshMed'2011)",
+"url": "https://inserm.hal.science/inserm-00633573v1"
+},
+{
+"id": "p4d5a131b24",
+"titre": "Primate Locomotion: Linking Field and Laboratory Research",
+"annee": 2011,
+"type": "chapitre",
+"lieu": "Primate Locomotion: Linking Field and Laboratory Research",
+"url": "https://univ-rennes.hal.science/hal-01159431v1"
+},
+{
+"id": "p64789f2dda",
+"titre": "Space-time planning in dynamic environments with unknown evolution.",
+"annee": 2011,
+"type": "conférence",
+"lieu": "Motion In Games",
+"url": "https://inria.hal.science/hal-00639664v1"
+},
+{
+"id": "p8f5200bc4e",
+"titre": "Special Issue: Virtual Reality and Sports Guest Editors' Introduction",
+"annee": 2011,
+"type": "journal",
+"lieu": "Presence: Teleoperators and Virtual Environments",
+"url": "https://inria.hal.science/hal-00640251v1",
+"doi": "10.1162/pres_e_00029"
+},
+{
+"id": "p8b91747689",
+"titre": "Using virtual humans and computer animations to learn complex motor skills: a case study in karate",
+"annee": 2011,
+"type": "conférence",
+"lieu": "SKILLS",
+"url": "https://inria.hal.science/hal-00640208v1"
+}
+]
+}

@@ -1,0 +1,5138 @@
+{
+"CRIStAL/MINT": {
+"soutenues": [
+{
+"id": "2025MTLD0010",
+"titre": "Approches Avancées d'Apprentissage profond pour la Reconnaissance et la Génération des Mouvements de la Main en 3D",
+"titre_en": "Advanced Deep Learning Approaches for 3D Human Hand Motion Recognition and Generation",
+"annee": 2025,
+"etablissement": "Ecole nationale supérieure Mines-Télécom Lille Douai"
+},
+{
+"id": "2025ULILB036",
+"titre": "Interaction, espace et coprésence en réalité mixte co-localisée",
+"titre_en": "Interaction, Space, and Copresence in Co-Located Mixed Reality",
+"annee": 2025,
+"etablissement": "Université de Lille (2022-....)"
+},
+{
+"id": "2024MTLD0007",
+"titre": "Agentification sensible au contexte des comportements piétons à partir des méthodes deep novatrices appliquées à des données vidéo et 3D",
+"titre_en": "Context-aware pedestrian behavior agentification using innovative deep learning methods on video and 3D data",
+"annee": 2024,
+"etablissement": "Ecole nationale supérieure Mines-Télécom Lille Douai"
+},
+{
+"id": "2024ULILB025",
+"titre": "Interaction gestuelle sans regarder avec le smartphone en utilisant le retour haptique",
+"titre_en": "Eyes-free gestural interaction with smartphone using haptic feedback",
+"annee": 2024,
+"etablissement": "Université de Lille (2022-....)"
+},
+{
+"id": "2022UPHF0035",
+"titre": "Comprendre et concevoir l'interaction à retour tactile pour les tâches secondaires",
+"titre_en": "Understanding and designing tactile feedback interaction for secondary tasks",
+"annee": 2022,
+"etablissement": "Valenciennes, Université Polytechnique Hauts-de-France"
+},
+{
+"id": "2022MTLD0010",
+"titre": "Étude de l'attention en réalité virtuelle à l'aide de signaux électroencéphalographiques et du suivi du regard",
+"titre_en": "Studying Attention in Virtual Reality with Electroencephalography and Eye-Tracking",
+"annee": 2022,
+"etablissement": "Ecole nationale supérieure Mines-Télécom Lille Douai"
+},
+{
+"id": "2021LILUB010",
+"titre": "Reconnaissance de gestes et d’actions de la main, combinant vision par ordinateur et technologies de réalité augmentée",
+"titre_en": "Hand gesture and action recognition, combining computer vision and augmented reality technologies",
+"annee": 2021,
+"etablissement": "Université de Lille (2018-2021)"
+},
+{
+"id": "2021LILUB019",
+"titre": "Étude de la fatigabilité des bras lors d’interactions gestuelles en mid-air au travers de la réalité virtuelle",
+"titre_en": "Study of the arm fatigue during gestural interactions in mid-air through virtual reality",
+"annee": 2021,
+"etablissement": "Université de Lille (2018-2021)"
+},
+{
+"id": "2020LILUI042",
+"titre": "Faire mieux avec ce que l'on a déjà : la fusion de données en interaction homme-machine",
+"titre_en": "Doing more without more : data fusion in human-computer interaction",
+"annee": 2020,
+"etablissement": "Université de Lille (2018-2021)"
+},
+{
+"id": "2020LILUI038",
+"titre": "L’expérience des spectateurs d'interactions numériques : Contribution des augmentations visuelles et rôle de l'agentivité attribuée dans les performances de musique électronique",
+"titre_en": "The experience of spectators of digital interactions : Benefits of visual augmentations and the role of attributed agency in electronic music performances",
+"annee": 2020,
+"etablissement": "Université de Lille (2018-2021)"
+},
+{
+"id": "2018LILUI031",
+"titre": "Écrans tactile à retour haptique avec frottement programmable : interaction et perception de la texture",
+"titre_en": "Haptic feedback displays with programmable friction : interaction and texture perception",
+"annee": 2018,
+"etablissement": "Université de Lille (2018-2021)"
+},
+{
+"id": "2017LIL10054",
+"titre": "Exploration de l’usage de sous-espaces pour l’interaction à geste dans l’air",
+"titre_en": "Exploring interactive sub-spaces for gestural midair interaction",
+"annee": 2017,
+"etablissement": "Lille 1"
+},
+{
+"id": "2017LIL10139",
+"titre": "Reconnaissance de gestes dynamiques de la main : des méthodes traditionnelles aux récentes avancées en apprentissage profond",
+"titre_en": "Dynamic hand gesture recognition : from traditional handcrafted to recent deep learning approaches",
+"annee": 2017,
+"etablissement": "Lille 1"
+},
+{
+"id": "2015LIL10138",
+"titre": "Compréhension de comportements humains 3D par l'analyse de forme de la posture et du mouvement",
+"titre_en": "3D human behavior understanding by shape analysis of human motion and pose",
+"annee": 2015,
+"etablissement": "Lille 1"
+},
+{
+"id": "2014LIL10078",
+"titre": "Approches géométriques pour l'analyse du mouvement humain en 3D : application à la reconnaissance d'action et à l’indexation",
+"titre_en": "Geometric approaches for 3D human motion analysis : application to action recognition and retrieval",
+"annee": 2014,
+"etablissement": "Lille 1"
+},
+{
+"id": "2014LIL10222",
+"titre": "Comprendre, modéliser et concevoir l’interaction gestuelle tactile",
+"titre_en": "Understanding, modeling and designing multi-touch gestures interaction",
+"annee": 2014,
+"etablissement": "Lille 1"
+},
+{
+"id": "2012LIL10189",
+"titre": "Exploitation de la dynamique du geste en IHM : application aux fonctions de transfert pour le pointage et l'extraction d'événements discrets",
+"titre_en": "Exploiting the dynamics of the gesture in HCI : applications to the transfer functions for pointing and extracting discrete events",
+"annee": 2012,
+"etablissement": "Lille 1"
+},
+{
+"id": "2011LIL10204",
+"titre": "Etude de l'infuence de la séparation des degrés de liberté pour la manipulation 3-D à l'aide de surfaces tactiles multipoints",
+"titre_en": "Study of the influence of the separation of degrees of freedom for 3-D manipulation using multitouch displays",
+"annee": 2011,
+"etablissement": "Lille 1"
+},
+{
+"id": "2011LIL10054",
+"titre": "Un modèle de conception dédié à l’interaction collaborative colocalisée",
+"titre_en": "A software and hardware platform dedicated to collocated collaborative work",
+"annee": 2011,
+"etablissement": "Lille 1"
+}
+],
+"hors_ig": 0,
+"en_preparation": 7,
+"debut": 2011,
+"fin": 2026
+},
+"ICUBE/IGG": {
+"soutenues": [
+{
+"id": "2026STRAD007",
+"titre": "Contrôle spatial de textures procédurales pour le rendu à la volée",
+"titre_en": "Spatial control of procedural textures for real-time rendering",
+"annee": 2026,
+"etablissement": "Strasbourg"
+},
+{
+"id": "s350205",
+"titre": "Quand les émotions façonnent la perception du corps virtuel : modulation top-down du sentiment d'incarnation en réalité virtuelle",
+"titre_en": "",
+"annee": 2026,
+"etablissement": "Strasbourg"
+},
+{
+"id": "2024STRAD001",
+"titre": "Contributions à la modélisation procédurale de structures cellulaires stochastoques 2D et à leur génération par l'exemple",
+"titre_en": "Contributions to procedural modeling and by-example generation of 2D cellular stochastic structures",
+"annee": 2024,
+"etablissement": "Strasbourg"
+},
+{
+"id": "2024STRAD007",
+"titre": "Génération procédurale et rendu en temps réel de motifs structurés",
+"titre_en": "Procedural generation and real-time rendering of structured patterns",
+"annee": 2024,
+"etablissement": "Strasbourg"
+},
+{
+"id": "2024STRAD028",
+"titre": "Rendu volumique expressif pour la visualisation interactive de données médicales : application à l'imagerie échographique",
+"titre_en": "Expressive direct volume rendering for interactive visualisation of medical data : application to ultrasound imaging",
+"annee": 2024,
+"etablissement": "Strasbourg"
+},
+{
+"id": "2023STRAD053",
+"titre": "Couplage géométrie/mécanique pour l'animation d'objets détaillés",
+"titre_en": "Geometry/mechanics coupling for detailed object animation",
+"annee": 2023,
+"etablissement": "Strasbourg"
+},
+{
+"id": "2022STRAD017",
+"titre": "Augmentation de données pour l'analyse d'images histopathologiques : approches par génération d'images et déformations spatiales pour la segmentation de glomérules",
+"titre_en": "Data augmentation for histopathological images analysis : approaches by image generation and random spatial déformations for glomeruli segmentation",
+"annee": 2022,
+"etablissement": "Strasbourg"
+},
+{
+"id": "2022STRAD012",
+"titre": "Génération de maillages hexaédriques à partir de squelettes",
+"titre_en": "Skeleton based hex-mesh generation",
+"annee": 2022,
+"etablissement": "Strasbourg"
+},
+{
+"id": "2022STRAD039",
+"titre": "Modèle d'apparence semi-procédural pour le contrôle et le passage à l'échelle de la synthèse de textures et de matériaux",
+"titre_en": "Semi-procedural appearance model for controlling and scaling texture and material synthesis",
+"annee": 2022,
+"etablissement": "Strasbourg"
+},
+{
+"id": "2021STRAD003",
+"titre": "Processus stochastiques et algorithmes pour la synthèse et le rendu de textures",
+"titre_en": "Stochastic processes and algorithms for the synthesis and rendering of textures",
+"annee": 2021,
+"etablissement": "Strasbourg"
+},
+{
+"id": "2019STRAD032",
+"titre": "Approche pour une interaction intuitive et sans contact en bloc opératoire",
+"titre_en": "Approach for an intuitive touchless interaction in the operating room",
+"annee": 2019,
+"etablissement": "Strasbourg"
+},
+{
+"id": "2019STRAD031",
+"titre": "Proposition d'un protocole web pour la collaboration multi-support en environnement 3D : UMI3D",
+"titre_en": "Proposal for a web protocol for multi-support collaboration in 3D environment : UMI3D",
+"annee": 2019,
+"etablissement": "Strasbourg"
+},
+{
+"id": "2019GREAM053",
+"titre": "Synthèse de texture dynamique sur objets déformables",
+"titre_en": "Synthesis of dynamic textures on deformable objects",
+"annee": 2019,
+"etablissement": "Université Grenoble Alpes (ComUE)"
+},
+{
+"id": "2017STRAD009",
+"titre": "Changements topologiques pour la simulation d'objets déformables",
+"titre_en": "Topological changes in simulations of deformable objects",
+"annee": 2017,
+"etablissement": "Strasbourg"
+},
+{
+"id": "2016STRAD021",
+"titre": "Conception et évaluation d'un outil de revue de projet architectural en réalité virtuelle : problématique de la perception des distances en environnement virtuel",
+"titre_en": "Design and evaluation of architectural project review tool in virtual reality : issue of distance perception in virtual environments",
+"annee": 2016,
+"etablissement": "Strasbourg"
+},
+{
+"id": "2015STRAD048",
+"titre": "Outils multirésolutions pour la gestion des interactions en simulation temps réel",
+"titre_en": "A multiresolution framework for real-time simulation interactions",
+"annee": 2015,
+"etablissement": "Strasbourg"
+},
+{
+"id": "2014STRAD005",
+"titre": "Traitement conjoint de la géométrie et de la radiance d'objets 3D numérisés",
+"titre_en": "Joint treatment of geometry and radiance for 3D model digitisation",
+"annee": 2014,
+"etablissement": "Strasbourg"
+},
+{
+"id": "2013STRAD041",
+"titre": "Aide à la sélection de cibles pour des environnements de réalité virtuelle",
+"titre_en": "Assistance tools for target selection in virtual reality environments",
+"annee": 2013,
+"etablissement": "Strasbourg"
+},
+{
+"id": "2013STRAD044",
+"titre": "Représentation des maillages multirésolutions : application aux volumes de subdivision",
+"titre_en": "Representation of multiresolution meshes : an application to subdivision volumes",
+"annee": 2013,
+"etablissement": "Strasbourg"
+},
+{
+"id": "2011STRA6179",
+"titre": "Éclairage pour visualisation volumique haute-performance",
+"titre_en": "Lighting for high-performance volume rendering",
+"annee": 2011,
+"etablissement": "Strasbourg"
+}
+],
+"hors_ig": 0,
+"en_preparation": 10,
+"debut": 2011,
+"fin": 2026
+},
+"IRISA/EXPRESSION": {
+"soutenues": [
+{
+"id": "2024LORIS692",
+"titre": "Reconstruction de mouvements en 3D à l'aide de méthodes d'apprentissage profond : application aux handicaps moteurs",
+"titre_en": "3D motion reconstruction with deep learning methods : application to motor disabilities",
+"annee": 2024,
+"etablissement": "Lorient"
+},
+{
+"id": "2020LORIS561",
+"titre": "Capture, annotation et synthèse de mouvements pour l'animation basée données d'avatars de langue des signes",
+"titre_en": "Capture, annotation and synthesis of motions for the data-driven animation of sign language avatars",
+"annee": 2020,
+"etablissement": "Lorient"
+},
+{
+"id": "2019LORIS550",
+"titre": "Annotation et synthèse basée données des expressions faciales de la Langue des Signes Française",
+"titre_en": "Data-driven annotation and synthesis of facial expres- sions in French sign language",
+"annee": 2019,
+"etablissement": "Lorient"
+},
+{
+"id": "2016LORIS424",
+"titre": "Analyse et synthèse de mouvements théâtraux expressifs",
+"titre_en": "Analysis and Synthesis of Expressive Theatrical Movements",
+"annee": 2016,
+"etablissement": "Lorient"
+},
+{
+"id": "2013LORIS312",
+"titre": "Utilisation des relations spatiales pour l'analyse et l'édition de mouvement",
+"titre_en": "Using spatial relationships for analysis and editing motion",
+"annee": 2013,
+"etablissement": "Lorient"
+},
+{
+"id": "2012LORIS257",
+"titre": "Analyse et synthèse de mouvements de foules par contrôle optimal",
+"titre_en": "Analysis and synthesis of human crowd with optimal control theory",
+"annee": 2012,
+"etablissement": "Lorient"
+},
+{
+"id": "2011LORIS221",
+"titre": "Indexation et interrogation de bases de données de mouvement pour l'animation d'humanoïdes virtuels",
+"titre_en": "Indexing and querying motion databases for animation of virtual humanoids",
+"annee": 2011,
+"etablissement": "Lorient"
+}
+],
+"hors_ig": 0,
+"en_preparation": 0,
+"debut": 2011,
+"fin": 2026
+},
+"IRISA/Seamless": {
+"soutenues": [
+{
+"id": "2025URENS100",
+"titre": "Indices sensoriels et réalité virtuelle pour l’amélioration des interfaces cerveau-ordinateur",
+"titre_en": "Advancing brain-computer interfaces by leveraging sensory cues and virtual reality",
+"annee": 2025,
+"etablissement": "Université de Rennes (2023-....)"
+},
+{
+"id": "2025URENS065",
+"titre": "Moduler la perception sociale pendant des interactions virtuelles avec des interfaces haptiques affectives",
+"titre_en": "Modulating social perception during virtual interactions with affective haptic feedback",
+"annee": 2025,
+"etablissement": "Université de Rennes (2023-....)"
+},
+{
+"id": "2024URENS136",
+"titre": "Retours multisensoriels pour améliorer la simulation de la marche en réalité virtuelle pour la rééducation",
+"titre_en": "Multisensory feedback to enhance the simulation of walking in virtual reality for rehabilitation",
+"annee": 2024,
+"etablissement": "Université de Rennes (2023-....)"
+},
+{
+"id": "2024ISAR0009",
+"titre": "Utilisation de la Réalité Virtuelle pour la Réinsertion Professionnelle et la Réadaptation Cognitive après un Cancer du Sein",
+"titre_en": "Use of Virtual Reality for Vocational and Cognitive Rehabilitation after Breast Cancer",
+"annee": 2024,
+"etablissement": "Rennes, INSA"
+},
+{
+"id": "2023ISAR0037",
+"titre": "Modèle et algorithmes pour la conception de signalétique des bâtiments complexes en réalité virtuelle",
+"titre_en": "Model and algorithms for designing signage for complex buildings In virtual reality",
+"annee": 2023,
+"etablissement": "Rennes, INSA"
+},
+{
+"id": "2023ISAR0009",
+"titre": "Simulation d’Agents Autonomes dans des Environnements Virtuels Connectés",
+"titre_en": "Simulating Autonomous Agent in Connected Virtual Environments",
+"annee": 2023,
+"etablissement": "Rennes, INSA"
+},
+{
+"id": "2022BORD0376",
+"titre": "Être un Avatar Virtuel dans un Environnement Réel : Conception et Étude de l’Incarnation d’Avatars en Réalité Augmentée",
+"titre_en": "Being a Virtual Avatar in a Real Environment : Design and Study of Avatar Embodiment in Augmented Reality",
+"annee": 2022,
+"etablissement": "Bordeaux"
+},
+{
+"id": "2021ISAR0015",
+"titre": "Contribution à l’étude de l’utilisabilité et le retour haptique des interfaces à contact intermittent.",
+"titre_en": "Contribution to the Study of Usability and Haptic Feedback of Encountered-Type Haptic Displays",
+"annee": 2021,
+"etablissement": "Rennes, INSA"
+},
+{
+"id": "2021ISAR0020",
+"titre": "Interaction Basée Avatar en Réalité Virtuelle",
+"titre_en": "Towards Avatar-Based Interaction in Virtual Reality",
+"annee": 2021,
+"etablissement": "Rennes, INSA"
+},
+{
+"id": "2021REN1S005",
+"titre": "Neurofeedback multimodal basée sur de l’imagerie EEG/IRMf et des feeedbacks visuo-haptique pour de la rééducation cérébrale",
+"titre_en": "Multimodal neurofeedback based on EEG/fMRI imaging techniques and visuo-haptic feedback for stroke rehabilitation",
+"annee": 2021,
+"etablissement": "Rennes 1"
+},
+{
+"id": "2021REN1S069",
+"titre": "Towards the Exploitation of Mental Workload in Virtual Reality",
+"titre_en": "Vers l'exploitation de la charge mentale de travail dans les systèmes de réalité virtuelle",
+"annee": 2021,
+"etablissement": "Rennes 1"
+},
+{
+"id": "2020REN1S052",
+"titre": "Contribution to the study of factors influencing the sense of embodiment towards avatars in virtual reality",
+"titre_en": "Contribution à l'étude des facteurs influençant le sentiment d'incarnation envers un avatar en réalité virtuelle",
+"annee": 2020,
+"etablissement": "Rennes 1"
+},
+{
+"id": "2020ISAR0012",
+"titre": "De la conception à l'exploration des systèmes interactifs combinant Réalité Mixte, Interfaces Utilisateur Naturelles et Internet des Objets",
+"titre_en": "From design to exploration of interactive systems combining Mixed Reality, Natural User Interfaces, and the Internet of Things",
+"annee": 2020,
+"etablissement": "Rennes, INSA"
+},
+{
+"id": "2020ISAR0003",
+"titre": "Méthodes de production d'applications de XR interactives, application à l'archéologie",
+"titre_en": "Methods for the production of interactive XR applications, application to archaeology",
+"annee": 2020,
+"etablissement": "Rennes, INSA"
+},
+{
+"id": "2020ISAR0011",
+"titre": "Support à la conception collaborative en Réalité Virtuelle : du Framework basé scénarios aux interactions",
+"titre_en": "Supporting the collaborative design process in Virtual Reality : from a scenario-based Framework to interactions",
+"annee": 2020,
+"etablissement": "Rennes, INSA"
+},
+{
+"id": "2019ISAR0024",
+"titre": "Conception et Etude de Systèmes Interactifs basées sur les Interfaces Cerveau-Ordinateur et la Réalité Augmentée",
+"titre_en": "Design and Study of Interactive Systems based on Brain- Computer Interfaces and Augmented Reality",
+"annee": 2019,
+"etablissement": "Rennes, INSA"
+},
+{
+"id": "2018ISAR0032",
+"titre": "Contribution à l’étude de l’augmentation haptique d’images sur écran tactile",
+"titre_en": "Contribution to the study of the haptic enhancement of images on touchscreens",
+"annee": 2018,
+"etablissement": "Rennes, INSA"
+},
+{
+"id": "2018REN1S044",
+"titre": "Contribution à l’étude des systèmes de projection pour des applications industrielles en réalité mixte",
+"titre_en": "Contribution to the study of projection-based systems for industrial applications in mixed reality",
+"annee": 2018,
+"etablissement": "Rennes 1"
+},
+{
+"id": "2018ISAR0010",
+"titre": "Synthèse d'applications de réalité virtuelle à partir de modèles",
+"titre_en": "Model driven synthesis of virtual reality applications",
+"annee": 2018,
+"etablissement": "Rennes, INSA"
+},
+{
+"id": "2017TOU30197",
+"titre": "Cartes et diagrammes tangibles sur table pour des utilisateurs déficients visuels",
+"titre_en": "Tabletop tangible maps and diagrams for visually impaired users",
+"annee": 2017,
+"etablissement": "Toulouse 3"
+},
+{
+"id": "2017REN1S043",
+"titre": "Combinaison de l'électroencéphalographie et de l'imagerie par résonance magnétique fonctionnelle pour le neurofeedback",
+"titre_en": "Combining electroencephalography and functional magnetic resonance imaging for neurofeedback",
+"annee": 2017,
+"etablissement": "Rennes 1"
+},
+{
+"id": "2017ISAR0019",
+"titre": "Contribution à l'étude du rendu et de la perception haptique d'objets virtuels déformables",
+"titre_en": "Contribution to the study of haptic perception and renderinf of deformable virtual objects",
+"annee": 2017,
+"etablissement": "Rennes, INSA"
+},
+{
+"id": "2017ISAR0014",
+"titre": "Techniques de production, d'exploration et d'analyse d'environnements archéologiques virtuels",
+"titre_en": "Production, exploration and analysis techniques of virtual archaeological environments",
+"annee": 2017,
+"etablissement": "Rennes, INSA"
+},
+{
+"id": "2016ISAR0011",
+"titre": "Détection de collision par lancer de rayon : La quête de la performance",
+"titre_en": "Ray-traced collision detection : Quest for performance",
+"annee": 2016,
+"etablissement": "Rennes, INSA"
+},
+{
+"id": "2016ISAR0006",
+"titre": "Modèle de conscience situationnelle pour la collaboration distante asymétrique en réalité mixte",
+"titre_en": "Awareness Model for Asymmetric Remote Collaboration in Mixed Reality",
+"annee": 2016,
+"etablissement": "Rennes, INSA"
+},
+{
+"id": "2016REN1S083",
+"titre": "Optimisation de l'utilisation des interfaces cerveau-machine basées sur SSVEP pour l'Interaction homme-machine",
+"titre_en": "Optimizing the use of SSVEP-based brain-computer interfaces for human-computer interaction",
+"annee": 2016,
+"etablissement": "Rennes 1"
+},
+{
+"id": "2016ISAR0010",
+"titre": "Séquencement d'actions en environnement virtuel collaboratif",
+"titre_en": "Actions sequencing incollaborative virtual environment",
+"annee": 2016,
+"etablissement": "Rennes, INSA"
+},
+{
+"id": "2015ISAR0018",
+"titre": "Contribution à l'étude de l'utilisation des interfaces cerveau-ordinateur en réalité virtuelle ou augmentée",
+"titre_en": "Contribution to the study of the use of brain-computer interfaces in virtual and augmented reality",
+"annee": 2015,
+"etablissement": "Rennes, INSA"
+},
+{
+"id": "2015ISAR0031",
+"titre": "Contributions à la conception de nouvelles techniques pour interagir avec les mains en environnement virtuel",
+"titre_en": "Contributions to the design of novel hand-based interaction techniques for virtual environments",
+"annee": 2015,
+"etablissement": "Rennes, INSA"
+},
+{
+"id": "2015TOU30323",
+"titre": "Naviguer en vision prothétique simulée : apport de la vision par ordinateur pour augmenter les rendus prothétiques de basse résolution",
+"titre_en": "Navigation in simulated prosthetic vision : augmenting low resolution prosthetic renderings with computer vision",
+"annee": 2015,
+"etablissement": "Toulouse 3"
+},
+{
+"id": "2014ISAR0024",
+"titre": "Contribution à l'étude de la visualisation d'environnements réels et virtuels avec un champ visuel étendu",
+"titre_en": "Contribution to the study of visualization of real and virtual environments with an extended field-of-view",
+"annee": 2014,
+"etablissement": "Rennes, INSA"
+},
+{
+"id": "2014REN1S010",
+"titre": "Contribution à l'étude des retours haptiques pour l'amélioration de l'expérience audiovisuelle",
+"titre_en": "Contribution to the study of haptic feedback for improving the audiovisual experience",
+"annee": 2014,
+"etablissement": "Rennes 1"
+},
+{
+"id": "2014ISAR0015",
+"titre": "Interaction haptique bimanuelle avec des environnements virtuels",
+"titre_en": "Bimanual haptic interaction with virtual environments",
+"annee": 2014,
+"etablissement": "Rennes, INSA"
+},
+{
+"id": "2012ISAR0035",
+"titre": "Contribution à l'étude des interfaces cerveau-ordinateur active et passive pour interagir avec des environnements virtuels en se basant sur l'activité EEG et la charge mentale",
+"titre_en": "Contribution to the study of active and passive brain-computer interfaces for interacting with virtual environments based on EEG and mental workkload",
+"annee": 2012,
+"etablissement": "Rennes, INSA"
+},
+{
+"id": "2012ISAR0037",
+"titre": "Interopérabilité des environnements virtuels 3 D : modèle de réconciliation des contenus et des composants logiciels",
+"titre_en": "3D virtual environments interoperability : reconciliation model for contents and software components",
+"annee": 2012,
+"etablissement": "Rennes, INSA"
+},
+{
+"id": "2012ISAR0012",
+"titre": "Modèles de conception pour la collaboration distante en environnements virtuels distribués : de l'architecture aux métaphores",
+"titre_en": "Design models for remote collaboration in distributed virtual environment : from architecture to metaphors",
+"annee": 2012,
+"etablissement": "Rennes, INSA"
+},
+{
+"id": "2011ISAR0002",
+"titre": "Contribution à l'étude des modèles d'attention visuelle et du suivi de regard pour améliorer le retour visuel dans les applications 3D interactives",
+"titre_en": "Contribution to the Study of Visual Attention Models and Gaze Tracking to Improve Visual Feedback in 3D Interactive Applications",
+"annee": 2011,
+"etablissement": "Rennes, INSA"
+},
+{
+"id": "2011ISAR0017",
+"titre": "Détection de Collision pour environnements large échelle : modèle unifié et adaptatif sur architectures multi-coeur et multi-GPU",
+"titre_en": "Collision Detection for Large Scale Virtual Environments : Unified and Adaptive Model for Multi-core and Multi-GPU architecture",
+"annee": 2011,
+"etablissement": "Rennes, INSA"
+}
+],
+"hors_ig": 1,
+"en_preparation": 6,
+"debut": 2011,
+"fin": 2026
+},
+"IRISA/COMBO": {
+"soutenues": [
+{
+"id": "2025URENS031",
+"titre": "Combinaison de représentations implicites et explicites pour la modélisation de formes et d'apparences 3D",
+"titre_en": "Combining implicit and explicit representations for modeling 3D shape and appearance",
+"annee": 2025,
+"etablissement": "Université de Rennes (2023-....)"
+},
+{
+"id": "2024URENS014",
+"titre": "Apprentissage et stimulation des stratégies de sport (boxe) pour l'entraînement en réalité virtuelle",
+"titre_en": "Learning and simulation of sport strategies (boxing) for virtual reality training",
+"annee": 2024,
+"etablissement": "Université de Rennes (2023-....)"
+},
+{
+"id": "2024URENE005",
+"titre": "Contributions à l'analyse biomécanique et physique ergonomique in situ des postes de travail à l'aide de techniques d'apprentissage automatique et d'apprentissage profond",
+"titre_en": "Contributions to the in-situ biomechanical and physical ergonomic analysis of workstations using machine learning and deep learning techniques",
+"annee": 2024,
+"etablissement": "Université de Rennes (2023-....)"
+},
+{
+"id": "2023URENS012",
+"titre": "Apprentissage profond pour l'animation du squelette de personnages virtuels : édition de la topologie, squeletto-morphose et nettoyage",
+"titre_en": "Deep learning for skeletal character animation : topology editing, retargeting and cleaning",
+"annee": 2023,
+"etablissement": "Université de Rennes (2023-....)"
+},
+{
+"id": "2023URENS036",
+"titre": "Synthèse de nouvelles vues à partir d’entrées limitées",
+"titre_en": "Novel view synthesis from sparse inputs",
+"annee": 2023,
+"etablissement": "Université de Rennes (2023-....)"
+},
+{
+"id": "2022REN1S078",
+"titre": "Cinématographie virtuelle en temps réel pour le suivi des cibles",
+"titre_en": "Real-time virtual cinematography for target tracking",
+"annee": 2022,
+"etablissement": "Rennes 1"
+},
+{
+"id": "2022REN1S008",
+"titre": "Personnalisation adaptative d’avatar pour expériences immersives",
+"titre_en": "Adaptive avatar customization for immersive experiences",
+"annee": 2022,
+"etablissement": "Rennes 1"
+},
+{
+"id": "2022GRALM015",
+"titre": "Transfert de déformation morphologiquement plausible",
+"titre_en": "Morphologically Plausible Deformation Transfer",
+"annee": 2022,
+"etablissement": "Université Grenoble Alpes"
+},
+{
+"id": "2020REN1S063",
+"titre": "Une approche topologique de la cinématographie virtuelle",
+"titre_en": "A topological approach to virtual cinematography",
+"annee": 2020,
+"etablissement": "Rennes 1"
+},
+{
+"id": "2015REN1S033",
+"titre": "Ordonnancement d'activité sous contraintes temporelles et spatiales, pour le peuplement d'environnements virtuels",
+"titre_en": "Scheduling activities under spatial and temporal constraints to populate virtual urban environments",
+"annee": 2015,
+"etablissement": "Rennes 1"
+},
+{
+"id": "2015ISAR0004",
+"titre": "Synthèse de mouvement pour des personnages virtuels en environnements contraints",
+"titre_en": "Motion planning and synthesis for virtual characters in constrained environments",
+"annee": 2015,
+"etablissement": "Rennes, INSA"
+}
+],
+"hors_ig": 1,
+"en_preparation": 8,
+"debut": 2011,
+"fin": 2026
+},
+"IRISA/Rainbow": {
+"soutenues": [
+{
+"id": "2026ISAR0001",
+"titre": "Fabrication additive de dispositifs de détection déformables pour l’interaction humain–machine et leur personnalisation dans l’espace de fabrication en couches",
+"titre_en": "Additive Manufacturing of Deformable Sensing Devices for Human-Machine Interaction and their Customization in the Layered Fabrication Space",
+"annee": 2026,
+"etablissement": "Rennes, INSA"
+},
+{
+"id": "2025ISAR0026",
+"titre": "Avancées en haptique sans-contact par ultrasons : études de perception, méthodes de rendu, et conception d’interactions en réalité virtuelle",
+"titre_en": "Advancing Ultrasound Mid-Air Haptics : perception Studies, Rendering Methods, and Design of Virtual Reality Interactions",
+"annee": 2025,
+"etablissement": "Rennes, INSA"
+},
+{
+"id": "2025URENS052",
+"titre": "Contrôle partagé avec assistance haptique pour systèmes multi-robots",
+"titre_en": "Haptic shared control for multi-robot systems",
+"annee": 2025,
+"etablissement": "Université de Rennes (2023-....)"
+},
+{
+"id": "2025URENS005",
+"titre": "Exploration autonome d'un environnement 3D inconnu",
+"titre_en": "Autonomous exploration of an unknown 3D environment",
+"annee": 2025,
+"etablissement": "Université de Rennes (2023-....)"
+},
+{
+"id": "2025URENS002",
+"titre": "Étude de la perception et de la manipulation d'objets virtuels en réalité augmentée à l'aide de dispositifs haptiques portables",
+"titre_en": "Study of the perception and manipulation of virtual objects in augmented reality using wearable haptics",
+"annee": 2025,
+"etablissement": "Université de Rennes (2023-....)"
+},
+{
+"id": "2024ISAR0014",
+"titre": "Conception de dispositifs haptiques multi-actionneurs et de méthodes de rendu pour la navigation et les interactions virtuelles",
+"titre_en": "Design of multi-actuator haptic devices and rendering methods for navigation and virtual interactions",
+"annee": 2024,
+"etablissement": "Rennes, INSA"
+},
+{
+"id": "2024ISAR0022",
+"titre": "Reconstruction, Modélisation et Animation basée données de la Région de l’Oeil",
+"titre_en": "Data-driven Eye Region Reconstruction, Modeling and Animation",
+"annee": 2024,
+"etablissement": "Rennes, INSA"
+},
+{
+"id": "s380832",
+"titre": "Étude de l'illusion Haptique du Mouvement Apparent pour la Création d'une Poignée d'Aide à la Navigation",
+"titre_en": "",
+"annee": 2024,
+"etablissement": "Rennes, INSA"
+},
+{
+"id": "2023URENS017",
+"titre": "Ungrounded haptic interfaces for guidance and interaction rendering",
+"titre_en": "Interfaces haptiques non fondées pour le guidage et le rendu d'interaction",
+"annee": 2023,
+"etablissement": "Université de Rennes (2023-....)"
+},
+{
+"id": "2022ISAR0003",
+"titre": "Contributions à l'utilisation du retour électrotactile pour les interactions basées sur la main en réalité virtuelle",
+"titre_en": "Contributions to the use of Electrotactile Feedback in Hand-based Interactions in Virtual Reality",
+"annee": 2022,
+"etablissement": "Rennes, INSA"
+},
+{
+"id": "2022REN1S069",
+"titre": "Optimisation du SLAM visuel par analyse sémantique de l'environnement réel",
+"titre_en": "Optimization of visual SLAM by semantic analysis of the environment",
+"annee": 2022,
+"etablissement": "Rennes 1"
+},
+{
+"id": "2021ISAR0026",
+"titre": "Navigation en fauteuil roulant électrique : De la simulation en réalité virtuelle vers des conceptions intelligentes réelles",
+"titre_en": "Power Wheelchair Navigation : From Virtual Reality Simulation Towards Real Smart Designs",
+"annee": 2021,
+"etablissement": "Rennes, INSA"
+},
+{
+"id": "2021REN1S059",
+"titre": "Recalage de nuages de points issus de LiDAR pour la localisation dans des environnements intérieurs",
+"titre_en": "LiDAR-based point clouds registration for localization in indoor environments",
+"annee": 2021,
+"etablissement": "Rennes 1"
+},
+{
+"id": "2021ISAR0001",
+"titre": "Simulation Interactive basée Physique du Phénomène de Succion",
+"titre_en": "Interactive Physically-based Simulation of the Suction Phenomenon",
+"annee": 2021,
+"etablissement": "Rennes, INSA"
+},
+{
+"id": "2021REN1S038",
+"titre": "Simulation de foule et expérimentations pour l’évaluation de la navigation de robots dans des lieux publics",
+"titre_en": "Crowd simulation and experiments for the evaluation of robot navigation in public places",
+"annee": 2021,
+"etablissement": "Rennes 1"
+},
+{
+"id": "2021REN1S066",
+"titre": "Vers des techniques de navigation adaptées à l'utilisateur dans les environnements virtuels : étude des facteurs influençant le navigation des utilisateurs en réalité virtuelle",
+"titre_en": "Towards user-adapted navigation techniques in virtual environments : study of factors influencing users behavior in virtual reality",
+"annee": 2021,
+"etablissement": "Rennes 1"
+},
+{
+"id": "2020ISAR0001",
+"titre": "Comanipulation d’aiguille avec guidage haptique pour les interventions percutanées",
+"titre_en": "Needle comanipulation with haptic guidance for percutaneous interventions",
+"annee": 2020,
+"etablissement": "Rennes, INSA"
+},
+{
+"id": "2020ISAR0018",
+"titre": "Contrôle de la forme d'objets déformabl es par asservissement visuel adaptatif",
+"titre_en": "Shape control of deformable objects by adaptive visual servoing",
+"annee": 2020,
+"etablissement": "Rennes, INSA"
+},
+{
+"id": "2020ISAR0015",
+"titre": "Rendu haptique en Réalité Virtuelle lors de l’interaction avec des objets tangibles",
+"titre_en": "Haptic Rendering in Virtual Reality During Interaction with Tangibles",
+"annee": 2020,
+"etablissement": "Rennes, INSA"
+},
+{
+"id": "2020REN1S069",
+"titre": "Suivi visuel d’objets déformables avec une caméra RGB-D",
+"titre_en": "Visual tracking of deformable objects with RGB-D camera",
+"annee": 2020,
+"etablissement": "Rennes 1"
+},
+{
+"id": "2019REN1S084",
+"titre": "Localisation ensembliste de drones à l’aide de méthodes par intervalles",
+"titre_en": "Set-membership localization of drones using interval methods",
+"annee": 2019,
+"etablissement": "Rennes 1"
+},
+{
+"id": "2019REN1S015",
+"titre": "Recalage photométrique de scènes réelles d’intérieurs à l’aide d’une caméra RGB-D avec application à la réalité mixte",
+"titre_en": "Photometric registration of indoor real scenes using an RGB-D camera with application to mixed reality",
+"annee": 2019,
+"etablissement": "Rennes 1"
+},
+{
+"id": "2018REN1S044",
+"titre": "Contribution à l’étude des systèmes de projection pour des applications industrielles en réalité mixte",
+"titre_en": "Contribution to the study of projection-based systems for industrial applications in mixed reality",
+"annee": 2018,
+"etablissement": "Rennes 1"
+}
+],
+"hors_ig": 13,
+"en_preparation": 9,
+"debut": 2011,
+"fin": 2026
+},
+"IRISA/VirtUs": {
+"soutenues": [
+{
+"id": "2026URENS028",
+"titre": "Représentations structurées du mouvement pour des avatars dans des applications immersives en ligne, fondées sur l’apprentissage profond",
+"titre_en": "Deep-based semantic representation for avatars in online immersive applications",
+"annee": 2026,
+"etablissement": "Université de Rennes (2023-....)"
+},
+{
+"id": "2026URENS015",
+"titre": "Simulation de foule dense par modélisation dynamique",
+"titre_en": "Dense crowd simulation using dynamic modelling",
+"annee": 2026,
+"etablissement": "Université de Rennes (2023-....)"
+},
+{
+"id": "2025GRALM025",
+"titre": "Génération et évaluation du mouvement humain 3D",
+"titre_en": "Generation and evaluation of 3D human motion",
+"annee": 2025,
+"etablissement": "Université Grenoble Alpes"
+},
+{
+"id": "2024URENS089",
+"titre": "Character animation edition using multi-dimensional inputs",
+"titre_en": "Édition d'animation via entrées multi-dimensionnelles",
+"annee": 2024,
+"etablissement": "Université de Rennes (2023-....)"
+},
+{
+"id": "2024URENS094",
+"titre": "Engaging motion : exploring the impact of dynamic properties of virtual humans on user perception",
+"titre_en": "Engager le mouvement : explorer l'impact des propriétés dynamiques des humains virtuels sur la perception de l'utilisateur",
+"annee": 2024,
+"etablissement": "Université de Rennes (2023-....)"
+},
+{
+"id": "2024URENS011",
+"titre": "One-Man-Crowd : vers la capture par un seul utilisateur de mouvements collectifs à l'aide de la réalité virtuelle",
+"titre_en": "The One-Man-Crowd : towards single-user capture of collective motions using virtual reality",
+"annee": 2024,
+"etablissement": "Université de Rennes (2023-....)"
+},
+{
+"id": "2023URENS015",
+"titre": "Améliorer la qualité d'images grâce à l'imagerie à grande gamme dynamique et à l'évaluation d'esthétique",
+"titre_en": "Improving image quality using high dynamic range and aesthetics assessment",
+"annee": 2023,
+"etablissement": "Université de Rennes (2023-....)"
+},
+{
+"id": "2023URENS012",
+"titre": "Apprentissage profond pour l'animation du squelette de personnages virtuels : édition de la topologie, squeletto-morphose et nettoyage",
+"titre_en": "Deep learning for skeletal character animation : topology editing, retargeting and cleaning",
+"annee": 2023,
+"etablissement": "Université de Rennes (2023-....)"
+},
+{
+"id": "2023URENS005",
+"titre": "Modélisation de mouvements réactifs et comportements non verbaux pour la création d'acteurs digitaux pour la réalité virtuelle",
+"titre_en": "Modeling of reactive movement and non-verbal behaviors for the creation of digital agents for virtual reality.",
+"annee": 2023,
+"etablissement": "Université de Rennes (2023-....)"
+},
+{
+"id": "2023IPPAX160",
+"titre": "Simulation de foules avec l'apprentissage par renforcement",
+"titre_en": "Simulating crowds with reinforcement learning",
+"annee": 2023,
+"etablissement": "Institut polytechnique de Paris"
+},
+{
+"id": "2023URENE007",
+"titre": "Stratégies de récupération de l'équilibre postural suite à des perturbations externes : une approche multi-échelle avec applications pour les foules denses",
+"titre_en": "Standing balance recovery strategies following external perturbations : a multiscale approach with applications to dense crowds",
+"annee": 2023,
+"etablissement": "Université de Rennes (2023-....)"
+},
+{
+"id": "2022REN1S062",
+"titre": "Champ d’interaction : une nouvelle méthode intuitive pour esquisser des comportements collectifs",
+"titre_en": "Interaction field : a new intuitive method to sketch collective behaviors",
+"annee": 2022,
+"etablissement": "Rennes 1"
+},
+{
+"id": "2022REN1S078",
+"titre": "Cinématographie virtuelle en temps réel pour le suivi des cibles",
+"titre_en": "Real-time virtual cinematography for target tracking",
+"annee": 2022,
+"etablissement": "Rennes 1"
+},
+{
+"id": "2022REN1S026",
+"titre": "Une approche perceptuelle de l'édition de film : exploration de la cinématographie par l'attention visuelle et la saillance computationnelle",
+"titre_en": "A perceptual approach to film editing : exploring cinematography through visual attention and computational saliency",
+"annee": 2022,
+"etablissement": "Rennes 1"
+},
+{
+"id": "2022REN1S053",
+"titre": "Évaluation et utilisation des paramètres biomécaniques pour les animations de marche d’humains virtuels",
+"titre_en": "Evaluation and use of biomechanical parameters for virtual humans walking animations",
+"annee": 2022,
+"etablissement": "Rennes 1"
+},
+{
+"id": "2021REN1S028",
+"titre": "Prédiction de trajectoire de mouvement humain pour la navigation de robots",
+"titre_en": "Human motion trajectory prediction for robot navigation",
+"annee": 2021,
+"etablissement": "Rennes 1"
+},
+{
+"id": "2021REN1S022",
+"titre": "Rendu de nuage de points 3D HDR",
+"titre_en": "Rendering of HDR 3D point clouds",
+"annee": 2021,
+"etablissement": "Rennes 1"
+},
+{
+"id": "2021REN1S038",
+"titre": "Simulation de foule et expérimentations pour l’évaluation de la navigation de robots dans des lieux publics",
+"titre_en": "Crowd simulation and experiments for the evaluation of robot navigation in public places",
+"annee": 2021,
+"etablissement": "Rennes 1"
+},
+{
+"id": "2020REN1S056",
+"titre": "Foules virtuelles immersives : évaluation du comportement des piétons en réalité virtuelle",
+"titre_en": "Immersive virtual crowds : evaluation of pedestrian behaviours in virtual reality",
+"annee": 2020,
+"etablissement": "Rennes 1"
+},
+{
+"id": "2019REN1S069",
+"titre": "Algorithmes de navigation basés sur des flux optiques pour les personnages virtuels",
+"titre_en": "Optical flow-based navigation algorithms for virtual characters",
+"annee": 2019,
+"etablissement": "Rennes 1"
+},
+{
+"id": "2016REN1S097",
+"titre": "Cinematic discourse for interactive 3D storytelling",
+"titre_en": "Propriétés du discours de la caméra virtuelle",
+"annee": 2016,
+"etablissement": "Rennes 1"
+},
+{
+"id": "2016REN1S010",
+"titre": "Cinématographie virtuelle basée données",
+"titre_en": "Data-driven virtual cinematography",
+"annee": 2016,
+"etablissement": "Rennes 1"
+},
+{
+"id": "2016REN1S070",
+"titre": "Illumination active pour l'acquisition d'images à haute fréquence et reconstruction phométrique de l'apparence et de la forme",
+"titre_en": "Active illumination for high speed image acquisition and recovery of shape and albedo",
+"annee": 2016,
+"etablissement": "Rennes 1"
+},
+{
+"id": "2016REN1S119",
+"titre": "L'étude et la modélisation d'interactions complexes pour la simulation de foule",
+"titre_en": "Studying and modeling complex interactions for crowd simulation",
+"annee": 2016,
+"etablissement": "Rennes 1"
+},
+{
+"id": "2016REN1S036",
+"titre": "Simulation microscopique de foules : évaluation et développement d'algorithmes",
+"titre_en": "Microscopic crowd simulation : evaluation and development of algorithms",
+"annee": 2016,
+"etablissement": "Rennes 1"
+},
+{
+"id": "2015ISAR0030",
+"titre": "Conception et animation interactive de foules pour de vastes environnements",
+"titre_en": "Interactive design and animation of crowds for large environments",
+"annee": 2015,
+"etablissement": "Rennes, INSA"
+},
+{
+"id": "2015REN1S129",
+"titre": "Contrôle, basé sur le style, de caméras virtuelles dans des environnements 3D",
+"titre_en": "Style-driven virtual camera control in 3D environments",
+"annee": 2015,
+"etablissement": "Rennes 1"
+},
+{
+"id": "2015REN1S097",
+"titre": "Optimisation et visualisation de cache de luminance en éclairage global",
+"titre_en": "optimization and visualization of a radiance cache in global Illumination",
+"annee": 2015,
+"etablissement": "Rennes 1"
+},
+{
+"id": "2015REN1S033",
+"titre": "Ordonnancement d'activité sous contraintes temporelles et spatiales, pour le peuplement d'environnements virtuels",
+"titre_en": "Scheduling activities under spatial and temporal constraints to populate virtual urban environments",
+"annee": 2015,
+"etablissement": "Rennes 1"
+},
+{
+"id": "2015REN1S059",
+"titre": "Vers plus de réalisme et de robustesse en simulation de l’éclairage global",
+"titre_en": "Toward more realism and robustness in global illumination",
+"annee": 2015,
+"etablissement": "Rennes 1"
+},
+{
+"id": "2014REN1S060",
+"titre": "Influence de la cohérence temporelle dans les techniques de Vidéo Tone Mapping",
+"titre_en": "Temporal coherency in video tone mapping",
+"annee": 2014,
+"etablissement": "Rennes 1"
+},
+{
+"id": "2013REN1S072",
+"titre": "Contrôle de caméra virtuelle à base de partitions spatiales dynamiques",
+"titre_en": "Virtual camera control using dynamic spatial partitions",
+"annee": 2013,
+"etablissement": "Rennes 1"
+},
+{
+"id": "2013REN1S132",
+"titre": "Intégration sphérique Bayésien et Quasi-Monte Carlo pour l'illumination globale",
+"titre_en": "Bayesian and Quasi-Monte Carlo spherical integration for global illumination",
+"annee": 2013,
+"etablissement": "Rennes 1"
+},
+{
+"id": "2013REN1S163",
+"titre": "Évaluation de l’impact des facteurs émotionnels lors d’interactions physiques entre humains réels et virtuels",
+"titre_en": "Evaluation of the impact of emotional factors during physical interactions between real and virtual humans.",
+"annee": 2013,
+"etablissement": "Rennes 1"
+},
+{
+"id": "2012REN1S168",
+"titre": "Rendu temps réel de milieux participants",
+"titre_en": "Real time rendering of participating media",
+"annee": 2012,
+"etablissement": "Rennes 1"
+},
+{
+"id": "2012REN1S028",
+"titre": "Simulation du comportement de suivi dans une foule de piétons à travers l'expérience, l'analyse et la modélisation",
+"titre_en": "Simulating following behavior in a pedestrian crowd throughout experimentation, analysis and modeling",
+"annee": 2012,
+"etablissement": "Rennes 1"
+},
+{
+"id": "2011REN1S098",
+"titre": "Illumination cohérente pour la simulation d'éclairage",
+"titre_en": "Illumination coherence for ligh transport simulation",
+"annee": 2011,
+"etablissement": "Rennes 1"
+}
+],
+"hors_ig": 0,
+"en_preparation": 9,
+"debut": 2011,
+"fin": 2026
+},
+"IRIT/STORM": {
+"soutenues": [
+{
+"id": "2026UTLSS039",
+"titre": "Construction de structures de données sur GPU pour le lancer de rayons en temps réel",
+"titre_en": "Data structures and construction algorithms for real-time raytracing on the GPU",
+"annee": 2026,
+"etablissement": "Université de Toulouse (EPE ; 2025-...)"
+},
+{
+"id": "2026UTLSS017",
+"titre": "De la reconstruction au raisonnement : champs de radiance neuronaux pour une compréhension approfondie de scènes 3D",
+"titre_en": "From reconstruction to reasoning : neural radiance fields for comprehensive 3D scene understanding",
+"annee": 2026,
+"etablissement": "Université de Toulouse (EPE ; 2025-...)"
+},
+{
+"id": "2024LYO10240",
+"titre": "Echantillonnage différentiable et simulations Monte Carlo",
+"titre_en": "Differentiable sampling and Monte Carlo simulations",
+"annee": 2024,
+"etablissement": "Lyon 1"
+},
+{
+"id": "2024TLSES083",
+"titre": "Génération d'images intermédiaires pour la création d'animations 2D stylisées à base de marques",
+"titre_en": "Inbetweens generation for 2D stylized stroke-based animation",
+"annee": 2024,
+"etablissement": "Université de Toulouse (2023-2025)"
+},
+{
+"id": "2024TLSES225",
+"titre": "Imagerie ultrasonore à main levée : simulation efficace, reconstruction de volume et application à la réalité augmentée",
+"titre_en": "Freehand ultrasound imaging : efficient simulation, volume reconstruction and application to augmented reality",
+"annee": 2024,
+"etablissement": "Université de Toulouse (2023-2025)"
+},
+{
+"id": "2024TLSES355",
+"titre": "Inspection d'éoliennes avec un scanner 3D aéroporte",
+"titre_en": "Wind turbine analysis using LiDAR mounted UAVs",
+"annee": 2024,
+"etablissement": "Université de Toulouse (2023-2025)"
+},
+{
+"id": "2023TOU30185",
+"titre": "Interfaces utilisateur ubiquitaires à formes libres",
+"titre_en": "Pervasive freeform user interfaces",
+"annee": 2023,
+"etablissement": "Toulouse 3"
+},
+{
+"id": "2022TOU30220",
+"titre": "Harmoniques sphériques réelles pour la simulation de l'éclairage et le rendu temps-réel",
+"titre_en": "Real spherical harmonics for lighting simulation and real-time rendering",
+"annee": 2022,
+"etablissement": "Toulouse 3"
+},
+{
+"id": "2022LYO10070",
+"titre": "Transport optimal semi-discret symétrique pour l'interpolation de maillages",
+"titre_en": "Symmetric semi-discrete optimal transport for mesh interpolation",
+"annee": 2022,
+"etablissement": "Lyon 1"
+},
+{
+"id": "2021LYSE1308",
+"titre": "Acquisition multi-vues et rendu de scènes animées",
+"titre_en": "Multi-view acquisition and rendering of animated scenes",
+"annee": 2021,
+"etablissement": "Lyon"
+},
+{
+"id": "s200721",
+"titre": "Acquisition multi-vues et rendu de scènes animées",
+"titre_en": "",
+"annee": 2021,
+"etablissement": "Lyon"
+},
+{
+"id": "2021TOU30149",
+"titre": "Analyse de l’espace des chemins pour la composition des ombres et lumières",
+"titre_en": "Analysis of the path space for light and shadow compositing",
+"annee": 2021,
+"etablissement": "Toulouse 3"
+},
+{
+"id": "2020TOU30184",
+"titre": "Analyse multi-échelle de nuage de points",
+"titre_en": "Multi-scale Point Cloud Analysis",
+"annee": 2020,
+"etablissement": "Toulouse 3"
+},
+{
+"id": "2020TOU30077",
+"titre": "Analyse, modélisation et visualisation de données sismiques à grande échelle",
+"titre_en": "Data compression and redndering applied to the oil and gas industry",
+"annee": 2020,
+"etablissement": "Toulouse 3"
+},
+{
+"id": "2020LYSE1054",
+"titre": "Méthodes eulériennes pour les problèmes inverses en transport optimal",
+"titre_en": "Eulerian methods for inverse problems using optimal transport",
+"annee": 2020,
+"etablissement": "Lyon"
+},
+{
+"id": "2019TOU30168",
+"titre": "Décimation de maillages multiples sensible à la proximité et utilisant une métrique d’erreur quadrique",
+"titre_en": "Proximity-aware multiple meshes decimation using quadric error metric",
+"annee": 2019,
+"etablissement": "Toulouse 3"
+},
+{
+"id": "2019TOU30060",
+"titre": "Modélisation géométrique par primitives",
+"titre_en": "Geometric modeling with primitives",
+"annee": 2019,
+"etablissement": "Toulouse 3"
+},
+{
+"id": "2018GREAM054",
+"titre": "Interprétation et modélisation 3D automatique à partir de dessins au trait de formes organiques",
+"titre_en": "Intuitive modeling of 3D objects from outline drawing. Application tothe design of virtual animals.",
+"annee": 2018,
+"etablissement": "Université Grenoble Alpes (ComUE)"
+},
+{
+"id": "2018TOU30055",
+"titre": "Modèles de muscles implicites pour déformation de peau interactive",
+"titre_en": "Implicit muscle models for interactive character skinning",
+"annee": 2018,
+"etablissement": "Toulouse 3"
+},
+{
+"id": "2016TOU30068",
+"titre": "Contrôle artistique du rendu en synthèse d'images",
+"titre_en": "Artistic control in physically-based rendering",
+"annee": 2016,
+"etablissement": "Toulouse 3"
+},
+{
+"id": "2016LIL10116",
+"titre": "Description sémantique de modèles 3D : application à la modélisation à partir d’exemples",
+"titre_en": "Semantic 3D model description : application to example-based modeling",
+"annee": 2016,
+"etablissement": "Lille 1"
+},
+{
+"id": "2016TOU30175",
+"titre": "Etude des modèles de composition de fonctions de champ scalaire en informatique graphique",
+"titre_en": "Study of the composition models of field functions in computer graphics",
+"annee": 2016,
+"etablissement": "Toulouse 3"
+},
+{
+"id": "2015TOU30330",
+"titre": "Implicit skinning : character skin deformation guided by 3D scalar fields",
+"titre_en": "Implicit skinning : déformation de la peau d'un personnage guidée par des champs scalaires 3D",
+"annee": 2015,
+"etablissement": "Toulouse 3"
+},
+{
+"id": "2015TOU30046",
+"titre": "Mélange de surfaces en temps réel : visualisation, contrôle des déformations et application à la modélisation",
+"titre_en": "Blending of surfaces in real time : vizualization, control of shape deformation and application to geometric modeling",
+"annee": 2015,
+"etablissement": "Toulouse 3"
+},
+{
+"id": "2015TOU30308",
+"titre": "Using formal logic to represent sign language phonetics in semi-automatic annotation tasks",
+"titre_en": "Using formal logic to represent sign language phonetics in semi-automatic annotation tasks",
+"annee": 2015,
+"etablissement": "Toulouse 3"
+},
+{
+"id": "2014TOU30026",
+"titre": "Modélisation procédurale de mondes virtuels par pavage d'occultation",
+"titre_en": "Procedural modeling of virtual worlds using occlusion tiling",
+"annee": 2014,
+"etablissement": "Toulouse 3"
+},
+{
+"id": "2013TOU30041",
+"titre": "Accélération de l'algorithme du lancer de rayons en environnement parallèle hétérogène",
+"titre_en": "Ray tracing acceleration on heterogeneous parallel systems",
+"annee": 2013,
+"etablissement": "Toulouse 3"
+},
+{
+"id": "2013TOU30173",
+"titre": "Occlusion culling et pipeline hybride CPU/GPU pour le rendu temps réel de scènes complexes pour la réalité virtuelle mobile",
+"titre_en": "Occlusion culling and hybrid CPU-GPU pipeline for real time rendering of complex scenes for mobile virtual reality applications",
+"annee": 2013,
+"etablissement": "Toulouse 3"
+},
+{
+"id": "2012TOU30357",
+"titre": "Vers un rendu fondé sur la physique robuste et efficace",
+"titre_en": "Toward robust and efficient physically-based rendering",
+"annee": 2012,
+"etablissement": "Toulouse 3"
+}
+],
+"hors_ig": 0,
+"en_preparation": 8,
+"debut": 2011,
+"fin": 2026
+},
+"IRIT/REVA": {
+"soutenues": [
+{
+"id": "2026UTLSP032",
+"titre": "Reconstruction 3D fine de visages : application à la prise de mesures optiques",
+"titre_en": "Fine-detail 3D face reconstruction : application to optical measurements",
+"annee": 2026,
+"etablissement": "Université de Toulouse (EPE ; 2025-...)"
+},
+{
+"id": "2026UTLSP029",
+"titre": "Rendu photoréaliste de haute qualité d'objets d'intérêt dans des scènes complexes représentées par NeRF ou 3DGS : vers des applications immersives et interactives de réalité étendue",
+"titre_en": "High-quality photorealistic rendering of objects of interest in complex scenes represented by NeRF or 3DGS : towards immersive and interactive extended reality applications",
+"annee": 2026,
+"etablissement": "Université de Toulouse (EPE ; 2025-...)"
+},
+{
+"id": "2025TLSES035",
+"titre": "Apprentissage immersif et compagnonnage virtuel pour les formations techniques",
+"titre_en": "Immersive learning and virtual companionship for technical training",
+"annee": 2025,
+"etablissement": "Université de Toulouse (2023-2025)"
+},
+{
+"id": "2025TLSES166",
+"titre": "De l'utilité des modèles explicites pour la reconstruction 3D photographique",
+"titre_en": "On the Usefulness of Explicit Models for Photographic 3D Reconstruction",
+"annee": 2025,
+"etablissement": "Université de Toulouse (2023-2025)"
+},
+{
+"id": "2024TLSEP063",
+"titre": "Analyse de contenus visuels en 2D et en 3D : évaluation de la pertinence d'un point de vue d'un objet 3D",
+"titre_en": "Analysis of 2D and 3D visual content : how relevant is a viewpoint of a 3D object ?",
+"annee": 2024,
+"etablissement": "Université de Toulouse (2023-2025)"
+},
+{
+"id": "2024TLSEP139",
+"titre": "De l'utilité aux usages de la numérisation 3D pour le patrimoine archéologique",
+"titre_en": "From the usefulness to the uses of 3D digitisation for archaeological heritage",
+"annee": 2024,
+"etablissement": "Université de Toulouse (2023-2025)"
+},
+{
+"id": "2024TLSEP109",
+"titre": "Reconstruction 3D avec prise en compte de la réfraction",
+"titre_en": "3D-reconstruction with refraction",
+"annee": 2024,
+"etablissement": "Université de Toulouse (2023-2025)"
+},
+{
+"id": "2023TOU30130",
+"titre": "Étude des bénéfices de l’utilisation d’interfaces tangibles utilisées dans l'enseignement de la planification à des élèves infirmiers au travers d'un jeu simulant un service hospitalier",
+"titre_en": "Study of the benefits of tangible user interfaces applied to teaching scheduling to french nursing students using a serious game simulating a hospital ward",
+"annee": 2023,
+"etablissement": "Toulouse 3"
+},
+{
+"id": "2022TOU30115",
+"titre": "Génération automatique d'environnements virtuels urbains complexes",
+"titre_en": "Generation of complex virtual urban environments",
+"annee": 2022,
+"etablissement": "Toulouse 3"
+},
+{
+"id": "2021INPT0007",
+"titre": "Détection des défauts et inpainting vidéo pour la restauration de films",
+"titre_en": "Defect detection and video inpainting for movie restauration",
+"annee": 2021,
+"etablissement": "Toulouse, INPT"
+},
+{
+"id": "2020INPT0030",
+"titre": "Fusion d'approches photométriques et géométriques pour la création de modèles 3D",
+"titre_en": "Fusion of photometric and geometric approaches for the creation of 3D-models",
+"annee": 2020,
+"etablissement": "Toulouse, INPT"
+},
+{
+"id": "2019TOU30168",
+"titre": "Décimation de maillages multiples sensible à la proximité et utilisant une métrique d’erreur quadrique",
+"titre_en": "Proximity-aware multiple meshes decimation using quadric error metric",
+"annee": 2019,
+"etablissement": "Toulouse 3"
+},
+{
+"id": "2019INPT0030",
+"titre": "Inpainting de modèles 3D pour la réalité diminuée : \"couper/coller\" réaliste pour l'aménagement d'intérieur",
+"titre_en": "Inpainting of 3D models applied to the Diminished Reality : realistic \"Cut/Paste\" for indoor arrangement",
+"annee": 2019,
+"etablissement": "Toulouse, INPT"
+},
+{
+"id": "2019TOU30154",
+"titre": "Métaphores d'interaction pour la formation dans des environnements virtuels immersif : application à Meca 3D",
+"titre_en": "Interaction metaphors for training in interactive virtual environments : application to meca 3D",
+"annee": 2019,
+"etablissement": "Toulouse 3"
+},
+{
+"id": "2018INPT0035",
+"titre": "Création de plans d’intérieur avec une tablette",
+"titre_en": "Room layout estimation on mobile devices",
+"annee": 2018,
+"etablissement": "Toulouse, INPT"
+},
+{
+"id": "2018TOU30238",
+"titre": "Une proposition hétérogène basée sur les données pour la généralisation et la visualisation des villes procédurales en 3D",
+"titre_en": "A heterogeneous data-based proposal for procedural 3D cities visualization and generalization",
+"annee": 2018,
+"etablissement": "Toulouse 3"
+},
+{
+"id": "2017TOU30060",
+"titre": "Analyse morphométrique 3D de structures anatomiques pour la paléoanthropologie",
+"titre_en": "3D morphometric analysis of anatomical structures for paleoanthropology",
+"annee": 2017,
+"etablissement": "Toulouse 3"
+},
+{
+"id": "2017TOU20103",
+"titre": "Architecture événementielle pour les environnements virtuels collaboratifs sur le web : application à la manipulation et à la visualisation d'objets en 3D",
+"titre_en": "Event-based architecture for web-based virtual collaborative environments : application to manipulation and visualisation of 3D objects",
+"annee": 2017,
+"etablissement": "Toulouse 2"
+},
+{
+"id": "2017ISAT0004",
+"titre": "Création automatisée de Scénarios de Formation pour l'enseignement d'activités métier dans un environnement informatique modulaire",
+"titre_en": "Automated Creation of Learning Scenarios for Professional Activities Training in a Modular Computing Environment",
+"annee": 2017,
+"etablissement": "Toulouse, INSA"
+},
+{
+"id": "2017TOU30146",
+"titre": "Real-time virtual collaborative environment designed for risk management training : communication and decision making",
+"titre_en": "Environnement virtuel multi-joueurs temps-réel pour la formation à la gestion des risques : communication et prise de décision",
+"annee": 2017,
+"etablissement": "Toulouse 3"
+},
+{
+"id": "2017INPT0118",
+"titre": "Squelettes pour la reconstruction 3D : de l'estimation de la projection du squelette dans une image 2D à la triangulation du squelette en 3D",
+"titre_en": "Skeletons for 3D reconstruction : from the estimation of the skeleton projection in a 2D image to the triangulation of the 3D skeleton",
+"annee": 2017,
+"etablissement": "Toulouse, INPT"
+},
+{
+"id": "2015INPT0123",
+"titre": "Reconstruction tridimensionnelle par stéréophotométrie",
+"titre_en": "3D-reconstruction by photometric stereo",
+"annee": 2015,
+"etablissement": "Toulouse, INPT"
+},
+{
+"id": "2015INPT0095",
+"titre": "Transition vers le cinéma numérique : Contributions pour le cinéma d’art et essai",
+"titre_en": "Switch To digital cinema : contributions for arthouse cinemas",
+"annee": 2015,
+"etablissement": "Toulouse, INPT"
+},
+{
+"id": "2014INPT0085",
+"titre": "Compréhension de contenus visuels par analyse conjointe du contenu et des usages",
+"titre_en": "Combining content analysis with usage analysis to better understand visual contents",
+"annee": 2014,
+"etablissement": "Toulouse, INPT"
+},
+{
+"id": "2014TOU30171",
+"titre": "Ingénierie de la conception de systèmes de réalité augmentée mobile : applications de la réalité augmentée mobile au tourisme culturel",
+"titre_en": "Design engineering of mobile augmented reality systems : applications for cultural tourism",
+"annee": 2014,
+"etablissement": "Toulouse 3"
+},
+{
+"id": "2014TOU30024",
+"titre": "Rendu interactif de modèles B-Rep sur GPU",
+"titre_en": "Interactive GPU rendering of B-Rep models",
+"annee": 2014,
+"etablissement": "Toulouse 3"
+},
+{
+"id": "2014INPT0061",
+"titre": "Similarités dans des Modèles BRep Paramétriques : Détection et Applications",
+"titre_en": "Similarities within BRep Parametric Models : Detection and Applications",
+"annee": 2014,
+"etablissement": "Toulouse, INPT"
+},
+{
+"id": "2013INPT0101",
+"titre": "Synthèse de modèles de plantes et reconstructions de baies à partir d’images",
+"titre_en": "Analysis and 3D reconstruction of natural objects from images",
+"annee": 2013,
+"etablissement": "Toulouse, INPT"
+},
+{
+"id": "2012INPT0020",
+"titre": "Détection et identification de structures elliptiques en images : Paradigme et algorithmes",
+"titre_en": "Detection and identification of elliptical structure arrangements in images : theory and algorithms",
+"annee": 2012,
+"etablissement": "Toulouse, INPT"
+},
+{
+"id": "2011TOU30229",
+"titre": "Serious Game Design : considérations théoriques et techniques sur la création de jeux vidéo à vocation utilitaire",
+"titre_en": "Serious game design : theoretical and technical study of the creation of videogames geared towards non-entertainment purposes",
+"annee": 2011,
+"etablissement": "Toulouse 3"
+}
+],
+"hors_ig": 7,
+"en_preparation": 10,
+"debut": 2011,
+"fin": 2026
+},
+"LaSTIG/GEOVIS": {
+"soutenues": [
+{
+"id": "2023UEFL2059",
+"titre": "Cartes tactiles des carrefours pour les personnes ayant des déficiences visuelles : exploration de la conception de la carte tactile et visualisation des mouvements des doigts pour analyser le processus de lecture de la carte",
+"titre_en": "Tactile street intersection maps for people with visual impairments : exploring the tactile map design and visualizing finger movements to analyze the map reading process",
+"annee": 2023,
+"etablissement": "Université Gustave Eiffel"
+},
+{
+"id": "2021UEFL2029",
+"titre": "Exploration visuelle des collections d'Images historiques : une approche interactive à travers l’espace et le temps",
+"titre_en": "Visual exploration of historical image collections : an interactive approach through space and time",
+"annee": 2021,
+"etablissement": "Université Gustave Eiffel"
+}
+],
+"hors_ig": 0,
+"en_preparation": 4,
+"debut": 2011,
+"fin": 2026
+},
+"LaSTIG/ACTE": {
+"soutenues": [
+{
+"id": "s358836",
+"titre": "Modélisation semi-automatique et interactive de bâtiments",
+"titre_en": "Interactive Semi-automatic 3D Modeling of Buildings",
+"annee": 2026,
+"etablissement": "Université Gustave Eiffel"
+},
+{
+"id": "2026UEFL2013",
+"titre": "Reconnaissance de lieux à partir de nuage de points",
+"titre_en": "Point cloud based large-scale place recognition",
+"annee": 2026,
+"etablissement": "Université Gustave Eiffel"
+},
+{
+"id": "2025UEFL2003",
+"titre": "Vers une représentation 3D structurée de la ville, fondée sur les maillages",
+"titre_en": "Towards a mesh based, structured 3D representation of cities",
+"annee": 2025,
+"etablissement": "Université Gustave Eiffel"
+},
+{
+"id": "2024UEFL2031",
+"titre": "Acquisition à partir de plateformes légères et traitement de données pour la photogrammétrie sous-marine : Acquisition using lightweight platforms and data processing for underwater photogrammetry",
+"titre_en": "Acquisition using lightweight platforms and data processing for underwater photogrammetry",
+"annee": 2024,
+"etablissement": "Université Gustave Eiffel"
+},
+{
+"id": "2024UEFL2030",
+"titre": "Apprentissage de la similarité pour le calcul de modèles numériques de surface par photogrammétrie aérienne et spatiale",
+"titre_en": "Similarity learning for large scale dense image matching",
+"annee": 2024,
+"etablissement": "Université Gustave Eiffel"
+},
+{
+"id": "2024UEFL2003",
+"titre": "Apprentissage efficace sur nuages de points 3D à grande échelle",
+"titre_en": "Efficient learning on large-scale 3D point clouds",
+"annee": 2024,
+"etablissement": "Université Gustave Eiffel"
+},
+{
+"id": "2023UEFL2026",
+"titre": "Contributions méthodologiques à la surveillance des changements de la surface terrestre en 2-D et 3D à l'aide de séries temporelles d'images optiques satellitaires multiplateformes",
+"titre_en": "Methodological contributions to monitoring Earth Surface changes in 2-D and 3D using multi-platform time series of satellite optical images",
+"annee": 2023,
+"etablissement": "Université Gustave Eiffel"
+},
+{
+"id": "2022UEFL2010",
+"titre": "Appariement des caractéristiques pour les images aériennes historiques multi-époques",
+"titre_en": "Feature matching for multi-epoch historical aerial images",
+"annee": 2022,
+"etablissement": "Université Gustave Eiffel"
+},
+{
+"id": "2022UEFL2043",
+"titre": "Passage à l'échelle et évaluation de la reconstruction de surface à partir de nuage de points de scènes ouvertes",
+"titre_en": "Scaling up and evaluating surface reconstruction from point clouds of open scenes",
+"annee": 2022,
+"etablissement": "Université Gustave Eiffel"
+},
+{
+"id": "2022UEFL2042",
+"titre": "Reconstruction de surfaces à partir de nuages de points par apprentissage profond",
+"titre_en": "Learning Surface Reconstruction from Point Clouds in the Wild",
+"annee": 2022,
+"etablissement": "Université Gustave Eiffel"
+},
+{
+"id": "2020PESC2090",
+"titre": "Cartographie sémantique hybride de scènes urbaines à partir de données image et Lidar",
+"titre_en": "3D hybrid urban scene semantic mapping from multi-modal data",
+"annee": 2020,
+"etablissement": "Paris Est"
+},
+{
+"id": "2020PESC2012",
+"titre": "Reconstruction et généralisation de complexes simpliciaux à partir de scans lidar de scènes urbaines",
+"titre_en": "Simplicial complexes reconstruction and generalisation of 3d lidar data in urban scenes",
+"annee": 2020,
+"etablissement": "Paris Est"
+},
+{
+"id": "2019PESC2033",
+"titre": "Métrologie 100 % automatique par photogrammétrie aéroportée légère et GPS de précision permanent et embarqué : application au suivi de digues",
+"titre_en": "100% automatic metrology with UAV photogrammetry and embedded GPS and its application in dike monitoring",
+"annee": 2019,
+"etablissement": "Paris Est"
+},
+{
+"id": "2019PESC2065",
+"titre": "Recalage conjoint de données de cartographie mobile et de modèles 3D de bâtiments",
+"titre_en": "Trajectography registration by combined datamodel deformation for geometric enriching of existing city models",
+"annee": 2019,
+"etablissement": "Paris Est"
+},
+{
+"id": "2018PESC1157",
+"titre": "Avancements dans l'estimation de pose et la reconstruction 3D de scènes à 2 et 3 vues",
+"titre_en": "Advances on Pose Estimation and 3D Resconstruction of 2 and 3-View Scenes",
+"annee": 2018,
+"etablissement": "Paris Est"
+},
+{
+"id": "2018PESC2182",
+"titre": "Géo-référencement précis d'acquisition photogrammétrique de « longues » scènes d'intérieur",
+"titre_en": "Precise Geo-referencing of « long » indoor photogrammetric acquisitions",
+"annee": 2018,
+"etablissement": "Paris Est"
+},
+{
+"id": "2017PESC1022",
+"titre": "Implantation dans le matériel de fonctionnalités temps-réel dans une caméra intelligente ultralégère spécialisée pour la prise de vue aérienne",
+"titre_en": "Implementation of real-time functionalities in in the hardware of ultra-light intelligent camera specialized for the aerial imaging",
+"annee": 2017,
+"etablissement": "Paris Est"
+},
+{
+"id": "2017PESC1223",
+"titre": "Localisation absolue centimétrique par photogrammétrie aéroportée et GPS embarqués sur drone",
+"titre_en": "Centimetric absolute localization using Unmanned Aerial Vehicles with airborne photogrammetry and on-board GPS",
+"annee": 2017,
+"etablissement": "Paris Est"
+},
+{
+"id": "2016PESC1049",
+"titre": "Application des techniques de photogrammétrie par drone à la caractérisation des ressources forestières",
+"titre_en": "UAV Photogrammetry applied to the characterization of forest ecosystem ressources",
+"annee": 2016,
+"etablissement": "Paris Est"
+},
+{
+"id": "2016PESC1068",
+"titre": "La photogrammétrie rapprochée au service de l'archéologie préventive",
+"titre_en": "Close range photogrammetry for survey in preventive archaeology",
+"annee": 2016,
+"etablissement": "Paris Est"
+},
+{
+"id": "2015PESC1131",
+"titre": "Métrologie par photogrammétrie aéroportée légère : application au suivi d'évolution de digues",
+"titre_en": "Metrology with light aerial photogrammetry : application to dykes monitoring",
+"annee": 2015,
+"etablissement": "Paris Est"
+},
+{
+"id": "2014PA05S003",
+"titre": "Génération de modèles numériques de surface et détection de changements 3D à partir d'imagerie satellite stéréoscopique très haute résolution",
+"titre_en": "Digital surface model generation and 3D change detection from high resolution satellite stereoscopic imagery",
+"annee": 2014,
+"etablissement": "Paris 5"
+},
+{
+"id": "2013AMIE0114",
+"titre": "Appariement entre images de point de vue éloignés par utilisation de carte de profondeur",
+"titre_en": "Matching between images of distant point of view by utilisation of depth map",
+"annee": 2013,
+"etablissement": "Amiens"
+},
+{
+"id": "2011PA05S005",
+"titre": "Détection de changement 2D à partir d'imagerie satellitaire : Application à la mise à jour des bases de données géographiques",
+"titre_en": "2D change detection from satellite images for building map updating",
+"annee": 2011,
+"etablissement": "Paris 5"
+}
+],
+"hors_ig": 1,
+"en_preparation": 8,
+"debut": 2011,
+"fin": 2026
+},
+"LIB/MG": {
+"soutenues": [
+{
+"id": "2025UBEUK087",
+"titre": "Analyse différentielle de courbes et surfaces fractales",
+"titre_en": "Differential analysis of fractal curves and surfaces",
+"annee": 2025,
+"etablissement": "Dijon, Université Bourgogne Europe"
+},
+{
+"id": "2025UBEUK042",
+"titre": "Conception automatique de structures lacunaires fractales",
+"titre_en": "Automatic design of lacunar fractal structures",
+"annee": 2025,
+"etablissement": "Dijon, Université Bourgogne Europe"
+},
+{
+"id": "2024UBFCK032",
+"titre": "Définition et caractérisation de pseudo-courbures pour les courbes fractales",
+"titre_en": "Definition and characterization of pseudo-curvatures for fractal curves",
+"annee": 2024,
+"etablissement": "Bourgogne Franche-Comté"
+},
+{
+"id": "2024AIXM0114",
+"titre": "Génération de terrain 3D à partir de données réelles, application à la simulation militaire",
+"titre_en": "Generation of 3D landscape from real-world data, application to military simulation",
+"annee": 2024,
+"etablissement": "Aix-Marseille"
+},
+{
+"id": "2024UBFCK092",
+"titre": "Représentation des affordances distribuées dans un système multi-agents pour l'animation comportementale",
+"titre_en": "Representation of distributed affordances in a multi-agent system for behavioral animation",
+"annee": 2024,
+"etablissement": "Bourgogne Franche-Comté"
+},
+{
+"id": "2023AIXM0622",
+"titre": "Extraction de primitives dans des nuages de points en milieu industriel",
+"titre_en": "Primitive extraction from point clouds in industrial environments",
+"annee": 2023,
+"etablissement": "Aix-Marseille"
+},
+{
+"id": "2019AIXM0665",
+"titre": "Rendu interactif d'image hyper spectrale par illumination globale pour la prédiction de la signature infrarouge d'aéronefs",
+"titre_en": "Interactive hyper spectral image rendering by global illumination for aircraft infrared signature prediction",
+"annee": 2019,
+"etablissement": "Aix-Marseille"
+},
+{
+"id": "s198702",
+"titre": "Surfaces de subdivision, NURBS, et fractales : vers un modèle géométrique générique à base de systèmes itérés de fonctions contrôlés",
+"titre_en": "Subdivision Surfaces, NURBS, and fractals : toward a generic geometric model based on Controlled Iterated Functions Systems",
+"annee": 2019,
+"etablissement": "Bourgogne Franche-Comté"
+},
+{
+"id": "s69338",
+"titre": "Analyse topologique, méthodes de résolution et optimisations numériques pour la modélisation géométrique par contraintes",
+"titre_en": "",
+"annee": 2014,
+"etablissement": "Dijon"
+},
+{
+"id": "2014DIJOS013",
+"titre": "Les squelettes : structures d'interaction directe et intuitive avec des formes 3D",
+"titre_en": "Skeletons : intuitive and direct interaction structures with 3D shapes",
+"annee": 2014,
+"etablissement": "Dijon"
+},
+{
+"id": "2013DIJOS062",
+"titre": "Espaces tangents pour les formes auto-similaires",
+"titre_en": "Tangent spaces for self-similair shapes",
+"annee": 2013,
+"etablissement": "Dijon"
+},
+{
+"id": "2013DIJOS049",
+"titre": "Extension des méthodes de géométrie algorithmique aux structures fractales",
+"titre_en": "Extension of algorithmic geometry to fractal structures",
+"annee": 2013,
+"etablissement": "Dijon"
+},
+{
+"id": "2013DIJOS014",
+"titre": "Recollements de morceaux de cyclides de Dupin pour la modélisation et la reconstruction 3D : étude dans l'espace des sphères",
+"titre_en": "Blending pieces of Dupin cyclides for 3D modeling and reconstruction : study in the space of spheres",
+"annee": 2013,
+"etablissement": "Dijon"
+},
+{
+"id": "2012DIJOS093",
+"titre": "Etude et construction de schémas de subdivision quasi-linéaires sur des maillages bi-réguliers",
+"titre_en": "Study and construction of the quasi-linear subdivision schemes over bi-regular meshs",
+"annee": 2012,
+"etablissement": "Dijon"
+},
+{
+"id": "2012AIXM4071",
+"titre": "Modélisation de surfaces épaisses et fermées : Application au cas des organes pelviens",
+"titre_en": "",
+"annee": 2012,
+"etablissement": "Aix-Marseille"
+}
+],
+"hors_ig": 0,
+"en_preparation": 2,
+"debut": 2011,
+"fin": 2026
+},
+"LIASD/PASTIS": {
+"soutenues": [],
+"hors_ig": 0,
+"en_preparation": 0,
+"debut": 2011,
+"fin": 2026
+},
+"LIGM/A3SI": {
+"soutenues": [
+{
+"id": "s353929",
+"titre": "Frontières d'occlusion dans les images uniques : évaluation comparative, estimation interactive et estimation conjointe OB-profondeur",
+"titre_en": "Occlusion boundaries in single images: benchmarking, interactive estimation, and joint OB-depth estimation",
+"annee": 2026,
+"etablissement": "Université Gustave Eiffel"
+},
+{
+"id": "2025ENPC0021",
+"titre": "Analyse des séries temporelles d'images satellite pour la classification des sols et la détection du changement",
+"titre_en": "Analysis of satellite image time series for classification and change detection",
+"annee": 2025,
+"etablissement": "Marne-la-vallée, ENPC"
+},
+{
+"id": "2025ENPC0056",
+"titre": "Apprendre et utiliser des représentations Lidar exploitables sans annotations",
+"titre_en": "Learning and using actionable Lidar representations without annotations",
+"annee": 2025,
+"etablissement": "Marne-la-vallée, ENPC"
+},
+{
+"id": "2025ENPC0059",
+"titre": "Estimation de la distribution de la pose d'un objet à 6 degrés de liberté à partir d'une seule image RGB et du modèle 3D de l'objet",
+"titre_en": "6D Object Pose Distribution Estimation from a Single RGB image and Object Model",
+"annee": 2025,
+"etablissement": "Marne-la-vallée, ENPC"
+},
+{
+"id": "2025ENPC0014",
+"titre": "Explorer et Recréer la Réalité : Apprendre Automatiquement la Reconstruction 3D de la Capture des Images à la Construction de Répliques Photoréalistes",
+"titre_en": "Exploring and Rebuilding Reality : Learning 3D Reconstruction from Capturing Images to Building Photorealistic Representations",
+"annee": 2025,
+"etablissement": "Marne-la-vallée, ENPC"
+},
+{
+"id": "2025ENPC0012",
+"titre": "Fouille d'images par synthèse",
+"titre_en": "Image Mining via Synthesis",
+"annee": 2025,
+"etablissement": "Marne-la-vallée, ENPC"
+},
+{
+"id": "2024UEFL2053",
+"titre": "Algèbres géométriques pour l'intersection de coniques et généralisation aux faisceaux d'hypersurfaces Algébriques",
+"titre_en": "Geometric Algebras for Conics Intersections and Generalization to Pencils of Algebraic Hypersurfaces",
+"annee": 2024,
+"etablissement": "Université Gustave Eiffel"
+},
+{
+"id": "2024UEFL2003",
+"titre": "Apprentissage efficace sur nuages de points 3D à grande échelle",
+"titre_en": "Efficient learning on large-scale 3D point clouds",
+"annee": 2024,
+"etablissement": "Université Gustave Eiffel"
+},
+{
+"id": "2024ENPC0013",
+"titre": "Contrôle en langage naturel pour la synthèse de mouvements humains en 3D",
+"titre_en": "Natural language control for 3D human motion synthesis",
+"annee": 2024,
+"etablissement": "Marne-la-vallée, ENPC"
+},
+{
+"id": "2024ENPC0043",
+"titre": "Estimation de la pose de nouveaux objets rigides",
+"titre_en": "Pose Estimation of Novel Rigid Objects",
+"annee": 2024,
+"etablissement": "Marne-la-vallée, ENPC"
+},
+{
+"id": "2023UEFL2072",
+"titre": "Améliorer la reconstruction 3D avec les méthodes de RanSaC adaptatives et une génération de données semi-artificielle",
+"titre_en": "Improving 3D Reconstruction using Adaptative RanSaC and Benchmarking with Semi-Artificial Data Generation",
+"annee": 2023,
+"etablissement": "Université Gustave Eiffel"
+},
+{
+"id": "2023ENPC0037",
+"titre": "Analyse d'image non supervisée par synthèse",
+"titre_en": "Unsupervised image analysis by synthesis",
+"annee": 2023,
+"etablissement": "Marne-la-vallée, ENPC"
+},
+{
+"id": "2023ENPC0028",
+"titre": "Analyse de données 3D du monde réel : efficacité et interprétabilité",
+"titre_en": "Real-World 3D Data Analysis : Toward Efficiency and Interpretability",
+"annee": 2023,
+"etablissement": "Marne-la-vallée, ENPC"
+},
+{
+"id": "2023UEFL2008",
+"titre": "Méthode combinée pour la cartographie et localisation simultanées monoculaire",
+"titre_en": "A Mixed Method for Monocular Simultaneous Localization and Mapping",
+"annee": 2023,
+"etablissement": "Université Gustave Eiffel"
+},
+{
+"id": "2022ENPC0034",
+"titre": "Apprentissage d’éléments de surface pour la représentation de formes",
+"titre_en": "Learning surface elements for shape representation",
+"annee": 2022,
+"etablissement": "Marne-la-vallée, ENPC"
+},
+{
+"id": "2022UEFL2004",
+"titre": "Approximations efficaces de données en grande dimension",
+"titre_en": "Efficient Approximations of High-Dimensional Data",
+"annee": 2022,
+"etablissement": "Université Gustave Eiffel"
+},
+{
+"id": "2022ENPC0023",
+"titre": "Recalage de données hétérogènes pour la modélisation urbaine",
+"titre_en": "Registration of Heterogenous Data for Urban Modeling",
+"annee": 2022,
+"etablissement": "Marne-la-vallée, ENPC"
+},
+{
+"id": "2022ENPC0024",
+"titre": "Reconstruction 3D par Deep Learning : supervision et représentation",
+"titre_en": "Deep Learning based 3D reconstruction : supervision and representation",
+"annee": 2022,
+"etablissement": "Marne-la-vallée, ENPC"
+},
+{
+"id": "2022ENPC0041",
+"titre": "Reconstruction de scènes 3D à partir d'images",
+"titre_en": "3D scene reconstruction from images",
+"annee": 2022,
+"etablissement": "Marne-la-vallée, ENPC"
+},
+{
+"id": "2022UEFL2042",
+"titre": "Reconstruction de surfaces à partir de nuages de points par apprentissage profond",
+"titre_en": "Learning Surface Reconstruction from Point Clouds in the Wild",
+"annee": 2022,
+"etablissement": "Université Gustave Eiffel"
+},
+{
+"id": "2021ENPC0037",
+"titre": "Approche conjointe géométrique et sémantique pour la reconstruction de maquettes numériques de bâtiments",
+"titre_en": "Geometric and semantic joint approach for the reconstruction of digital models of buildings",
+"annee": 2021,
+"etablissement": "Marne-la-vallée, ENPC"
+},
+{
+"id": "2021ENPC0005",
+"titre": "Estimation d'attributs Géométriques 2D et 3D dans des Images par Apprentissage Profond",
+"titre_en": "2D and 3D Geometric Attributes Estimation in Images via deep learning",
+"annee": 2021,
+"etablissement": "Marne-la-vallée, ENPC"
+},
+{
+"id": "2021ENPC0033",
+"titre": "Estimation neuronale de pose de caméra basée sur la géométrie 3D",
+"titre_en": "3D geometry-based neural camera pose estimation",
+"annee": 2021,
+"etablissement": "Marne-la-vallée, ENPC"
+},
+{
+"id": "2021ENPC0021",
+"titre": "L'estimation de point de vue de l'objet dans la nature",
+"titre_en": "Object viewpoint estimation in the wild",
+"annee": 2021,
+"etablissement": "Marne-la-vallée, ENPC"
+},
+{
+"id": "2020BORD0202",
+"titre": "3D Object Pose Estimation in Industrial Context",
+"titre_en": "Estimation de la pose 3D d’objets dans un environment industriel",
+"annee": 2020,
+"etablissement": "Bordeaux"
+},
+{
+"id": "2020PESC1024",
+"titre": "Reconstruction et correspondance de formes par apprentissage",
+"titre_en": "Learning 3D Generation and Matching",
+"annee": 2020,
+"etablissement": "Paris Est"
+},
+{
+"id": "2018PESC1157",
+"titre": "Avancements dans l'estimation de pose et la reconstruction 3D de scènes à 2 et 3 vues",
+"titre_en": "Advances on Pose Estimation and 3D Resconstruction of 2 and 3-View Scenes",
+"annee": 2018,
+"etablissement": "Paris Est"
+},
+{
+"id": "2018PESC1142",
+"titre": "Structures algorithmiques pour les opérateurs d'algèbre géométrique et application aux surfaces quadriques",
+"titre_en": "Algorithmic structure for geometric algebra operators and application to quadric surfaces",
+"annee": 2018,
+"etablissement": "Paris Est"
+},
+{
+"id": "2017PESC1198",
+"titre": "Mise en relation d'images et de modèles 3D avec des réseaux de neurones convolutifs",
+"titre_en": "Relating images and 3D models with convolutional neural networks",
+"annee": 2017,
+"etablissement": "Paris Est"
+},
+{
+"id": "2017PESC1084",
+"titre": "Optimisation discrète et indices de stabilité appliqués à la stéréoscopie en contexte routier",
+"titre_en": "Discrete optimization and stability index apply on stereoscopy into a road context",
+"annee": 2017,
+"etablissement": "Paris Est"
+},
+{
+"id": "2017PESC1186",
+"titre": "Reconstruction 3D de scènes d'intérieurs à partir de photographies",
+"titre_en": "3D reconstruction of low-texture indoor scenes from pictures",
+"annee": 2017,
+"etablissement": "Paris Est"
+},
+{
+"id": "2017PESC1083",
+"titre": "Segmentation sémantique d'images fortement structurées et faiblement structurées",
+"titre_en": "Semantic Segmentation of Highly Structured and Weakly Structured Images",
+"annee": 2017,
+"etablissement": "Paris Est"
+},
+{
+"id": "2017PESC1062",
+"titre": "Vers une modélisation urbaine 3D extensible intégrant des à priori de structure géométrique",
+"titre_en": "Towards scalable, multi-view urban modeling using structure priors",
+"annee": 2017,
+"etablissement": "Paris Est"
+},
+{
+"id": "2016SACLX092",
+"titre": "Précision de modèle et efficacité algorithmique : exemples du traitement de l'occultation en stéréovision binoculaire et de l'accélération de deux algorithmes en optimisation convexe",
+"titre_en": "Model accuracy and algorithmic efficiency : examples of occlusion handling in binocular stereovision and the acceleration of two convex optimization algorithms",
+"annee": 2016,
+"etablissement": "Université Paris-Saclay (ComUE)"
+},
+{
+"id": "2015PESC1130",
+"titre": "Analyse de formes pour l'illumination globale",
+"titre_en": "Discrete shape analysis for global illumination",
+"annee": 2015,
+"etablissement": "Paris Est"
+},
+{
+"id": "2015PESC1117",
+"titre": "L'utilisation des structures géométriques pour synthèse d'image et optimisation",
+"titre_en": "The use of geometric structures in graphics and optimization",
+"annee": 2015,
+"etablissement": "Paris Est"
+},
+{
+"id": "2015PESC1017",
+"titre": "Segmentation des images de façade avec à priori sur la forme",
+"titre_en": "Segmentation of facade images with shape priors",
+"annee": 2015,
+"etablissement": "Paris Est"
+},
+{
+"id": "2015PESC1020",
+"titre": "Sélection et raffinement de mises en correspondance robustes pour l'estimation de pose précise de caméras",
+"titre_en": "Robust, refined and selective matching for accurate camera pose estimation",
+"annee": 2015,
+"etablissement": "Paris Est"
+},
+{
+"id": "2014PEST1033",
+"titre": "Positionnement robuste et précis de réseaux d’images",
+"titre_en": "Robust and accurate calibration of camera networks",
+"annee": 2014,
+"etablissement": "Paris Est"
+},
+{
+"id": "2014PEST1099",
+"titre": "Reconstruction automatique de maquettes numériques 3D",
+"titre_en": "Automatic reconstruction of 3D digital buildings",
+"annee": 2014,
+"etablissement": "Paris Est"
+},
+{
+"id": "2014PEST1039",
+"titre": "Vers l’étalonnage interne de caméra à haute précision",
+"titre_en": "Towards high precision internal camera calibration",
+"annee": 2014,
+"etablissement": "Paris Est"
+},
+{
+"id": "2013PEST1019",
+"titre": "Mise en correspondance robuste et détection de modèles visuels appliquées à l'analyse de façades",
+"titre_en": "Robust feature correspondence and pattern detection for façade analysis",
+"annee": 2013,
+"etablissement": "Paris Est"
+},
+{
+"id": "2012PEST1079",
+"titre": "Modélisation et rendu temps-réel de milieux participants à l'aide du GPU",
+"titre_en": "Modeling and real-time rendering of participating media using the GPU",
+"annee": 2012,
+"etablissement": "Paris Est"
+}
+],
+"hors_ig": 11,
+"en_preparation": 24,
+"debut": 2011,
+"fin": 2026
+},
+"LIRIS/ORIGAMI": {
+"soutenues": [
+{
+"id": "2026UTLSS039",
+"titre": "Construction de structures de données sur GPU pour le lancer de rayons en temps réel",
+"titre_en": "Data structures and construction algorithms for real-time raytracing on the GPU",
+"annee": 2026,
+"etablissement": "Université de Toulouse (EPE ; 2025-...)"
+},
+{
+"id": "2026ECDL0007",
+"titre": "Préservation du patrimoine culturel immatériel par la réalité virtuelle multisensorielle : contributions à la capture de mouvement sans marqueurs en 3D, à la restitution olfactive, et à l'évaluation de l'expérience utilisateur",
+"titre_en": "Intangible cultural heritage preservation through multisensory virtual reality : contributions to 3D markerless motion capture, olfactory restitution, and user experience evaluation",
+"annee": 2026,
+"etablissement": "Ecully, Ecole centrale de Lyon"
+},
+{
+"id": "2026ISAL0026",
+"titre": "Éléments finis d’ordre élevé pour la simulation interactive d’objets déformables avec des méthodes de résolution locales",
+"titre_en": "Real time simulation of deformable objects with high-order elements and local solving method",
+"annee": 2026,
+"etablissement": "Lyon, INSA"
+},
+{
+"id": "2025ISAL0059",
+"titre": "Contrôle interactif du style et de la structure de terrains numériques",
+"titre_en": "Interactive control of the style and structure of digital terrain",
+"annee": 2025,
+"etablissement": "Lyon, INSA"
+},
+{
+"id": "2025LYO20022",
+"titre": "Représentations dynamiques, virtuelles et tangibles de la ville",
+"titre_en": "Dynamic, virtual and tangible representations of the city",
+"annee": 2025,
+"etablissement": "Lyon 2"
+},
+{
+"id": "2025ECDL0039",
+"titre": "Retour thermique pour la réalité virtuelle hautement immersive : conception, intégration et évaluation d'interfaces non-intrusives",
+"titre_en": "Toward seamless thermal displays for highly immersive virtual reality : design, integration, and evaluation",
+"annee": 2025,
+"etablissement": "Ecully, Ecole centrale de Lyon"
+},
+{
+"id": "2024LYO10056",
+"titre": "Analyse et Enrichissement des Scènes 3D Numérisées",
+"titre_en": "Analysis and Enrichment of Scanned 3D Scenes",
+"annee": 2024,
+"etablissement": "Lyon 1"
+},
+{
+"id": "2024ISAL0103",
+"titre": "Complétion de surfaces numérisées représentant des tissus",
+"titre_en": "Completion of digital surfaces representing fabric",
+"annee": 2024,
+"etablissement": "Lyon, INSA"
+},
+{
+"id": "2024ECDL0023",
+"titre": "Contributions à l’utilisation de la réalité virtuelle pour la thérapie des troubles du comportement alimentaire",
+"titre_en": "Contributions to the use of virtual reality for eating disorders therapy",
+"annee": 2024,
+"etablissement": "Ecully, Ecole centrale de Lyon"
+},
+{
+"id": "2024LYO10240",
+"titre": "Echantillonnage différentiable et simulations Monte Carlo",
+"titre_en": "Differentiable sampling and Monte Carlo simulations",
+"annee": 2024,
+"etablissement": "Lyon 1"
+},
+{
+"id": "2024LYO20010",
+"titre": "Gestion et visualisation multiscalaire du territoire au bâtiment : Application à la Gestion et Maintenance assistée par Ordinateur",
+"titre_en": "Multi-scale management and visualisation of equipments in buildings and territories : An application in Computerized Maintenance Management System",
+"annee": 2024,
+"etablissement": "Lyon 2"
+},
+{
+"id": "2024CHAMA061",
+"titre": "L'opérateur de Laplace-Beltrami et ses applications au traitement de géométrie discrète",
+"titre_en": "The Laplace-Beltrami operator and its applications to discrete geometry processing",
+"annee": 2024,
+"etablissement": "Chambéry"
+},
+{
+"id": "2024LYO10155",
+"titre": "Mise en correspondance entre objets réels et objets virtuels pour l'usinage de pièces mécaniques",
+"titre_en": "Registration between real and virtual objects for machining of mechanical parts",
+"annee": 2024,
+"etablissement": "Lyon 1"
+},
+{
+"id": "2024HESAE028",
+"titre": "Réalité augmentée pour l’aide à la rénovation de cabines d’avion",
+"titre_en": "Augmented reality to help with cabin refresh",
+"annee": 2024,
+"etablissement": "Paris, HESAM"
+},
+{
+"id": "2023ISAL0123",
+"titre": "Analyse sans paramètre des surfaces discrètes avec des algorithmes de type plane-probing",
+"titre_en": "Parameter-free analysis of digital surfaces with plane probing algorithms",
+"annee": 2023,
+"etablissement": "Lyon, INSA"
+},
+{
+"id": "2023ISAL0034",
+"titre": "Développement d’une méthode de modélisation et maillage de réseaux artériels basée sur la ligne centrale pour les études hémodynamiques des pathologies cérébrovasculaires",
+"titre_en": "Development of a centerline-based arterial network modeling and meshing framework for hemodynamic studies of cerebrovascular pathologies",
+"annee": 2023,
+"etablissement": "Lyon, INSA"
+},
+{
+"id": "2023LYO10057",
+"titre": "Exploration de la structure des échantillons pour les applications de Monte Carlo",
+"titre_en": "Exploration of the structure of sample for Monte Carlo applications",
+"annee": 2023,
+"etablissement": "Lyon 1"
+},
+{
+"id": "2023LYO20092",
+"titre": "Intégration de données urbaines hétérogènes n-dimensionnelles basée modèle",
+"titre_en": "Model-driven Integration of Heterogeneous n-Dimensional Urban Data",
+"annee": 2023,
+"etablissement": "Lyon 2"
+},
+{
+"id": "2023LYO10039",
+"titre": "Modeling and simulating virtual terrains",
+"titre_en": "Modélisation et simulation de terrains virtuels",
+"annee": 2023,
+"etablissement": "Lyon 1"
+},
+{
+"id": "2023LYO10294",
+"titre": "Modélisation efficiente du corps humain en mouvement : utilisation de méthodes d’analyse spectrale et d’apprentissage profond pour le traitement de surfaces dynamiques",
+"titre_en": "Efficient modelisation of human body in motion : use of spectral analysis and deep learning methods to process dynamic surfaces",
+"annee": 2023,
+"etablissement": "Lyon 1"
+},
+{
+"id": "2022LYO10070",
+"titre": "Transport optimal semi-discret symétrique pour l'interpolation de maillages",
+"titre_en": "Symmetric semi-discrete optimal transport for mesh interpolation",
+"annee": 2022,
+"etablissement": "Lyon 1"
+},
+{
+"id": "2021LYSE1308",
+"titre": "Acquisition multi-vues et rendu de scènes animées",
+"titre_en": "Multi-view acquisition and rendering of animated scenes",
+"annee": 2021,
+"etablissement": "Lyon"
+},
+{
+"id": "s200721",
+"titre": "Acquisition multi-vues et rendu de scènes animées",
+"titre_en": "",
+"annee": 2021,
+"etablissement": "Lyon"
+},
+{
+"id": "2021LYSEI086",
+"titre": "Qualité visuelle des maillages 3D rendus avec des attributs de couleur : Evaluation subjective et objective",
+"titre_en": "Visual quality of rendered 3D meshes with color attributes : Subjective and objective evaluation",
+"annee": 2021,
+"etablissement": "Lyon"
+},
+{
+"id": "2021LYSE1123",
+"titre": "Restauration virtuelle de statues numérisées",
+"titre_en": "Virtual restoration of digitized statues",
+"annee": 2021,
+"etablissement": "Lyon"
+},
+{
+"id": "2020LYSE1054",
+"titre": "Méthodes eulériennes pour les problèmes inverses en transport optimal",
+"titre_en": "Eulerian methods for inverse problems using optimal transport",
+"annee": 2020,
+"etablissement": "Lyon"
+},
+{
+"id": "2020LYSE1078",
+"titre": "Outil pédagogique de la ponction des grosses articulations sous échographie",
+"titre_en": "Ultrasound guided needle simulator for training",
+"annee": 2020,
+"etablissement": "Lyon"
+},
+{
+"id": "2020LYSEI094",
+"titre": "Synthèse de terrain à l'échelle planétaire",
+"titre_en": "Terrain synthesis at planetary scale",
+"annee": 2020,
+"etablissement": "Lyon"
+},
+{
+"id": "2020LYSE2026",
+"titre": "Villes numériques 3D temporelles et documentées : formalisation, visualisation et navigation",
+"titre_en": "3D, temporal and documented cities : formalization, visualization and navigation",
+"annee": 2020,
+"etablissement": "Lyon"
+},
+{
+"id": "2019LYSE1240",
+"titre": "Analyse locale de surface avec la base des Wavejets : définition de nouveaux invariants intégraux et application à l'amplification de détails géométriques",
+"titre_en": "Local surface analysis with the Wavejets function basis : definition of new integral invariants and application to geometric details amplification",
+"annee": 2019,
+"etablissement": "Lyon"
+},
+{
+"id": "2019LYSE1109",
+"titre": "Génération procédurale d'effets atmosphériques",
+"titre_en": "Procedural generation of atmospheric effects",
+"annee": 2019,
+"etablissement": "Lyon"
+},
+{
+"id": "2019LYSE1302",
+"titre": "Représentation, modélisation et génération procédurale de paysages de rivières naturelles",
+"titre_en": "Representation, modelisation and procedural amplication of natural riverscape",
+"annee": 2019,
+"etablissement": "Lyon"
+},
+{
+"id": "2018GREAM072",
+"titre": "Modèles à couches pour simuler l'évolution de paysages à grande échelle",
+"titre_en": "Layered Models for Large Scale Time-Evolving Landscapes",
+"annee": 2018,
+"etablissement": "Université Grenoble Alpes (ComUE)"
+},
+{
+"id": "2018LYSE1326",
+"titre": "Opérateur de Laplace–Beltrami discret sur les surfaces digitales",
+"titre_en": "Discrete Laplace--Beltrami Operator on Digital Surfaces",
+"annee": 2018,
+"etablissement": "Lyon"
+},
+{
+"id": "2018LYSE2023",
+"titre": "Représentation et échange de données tridimensionnelles géolocalisées de la ville",
+"titre_en": "Representation and exchange of three-dimensional geolocated city data",
+"annee": 2018,
+"etablissement": "Lyon"
+},
+{
+"id": "2018LYSE1004",
+"titre": "Système Masse-Ressort 3D hybride amélioré pour la simulation de tissus mous",
+"titre_en": "Hybrid 3D Mass Spring System for Soft Tissue Simulation",
+"annee": 2018,
+"etablissement": "Lyon"
+},
+{
+"id": "2018LYSE1040",
+"titre": "Échantillonneurs basse discrepance anti aliassés pour du rendu réaliste avec estimateurs de Monte Carlo",
+"titre_en": "Anti-Aliased Low Discrepancy Samplers for Monte Carlo Estimators in Physically Based Rendering",
+"annee": 2018,
+"etablissement": "Lyon"
+},
+{
+"id": "2017ENST0031",
+"titre": "Copier-coller 3D : paramétrisation cohérente de maillages triangulaires",
+"titre_en": "3D Copy-paste : consistent parameterization of triangle meshes",
+"annee": 2017,
+"etablissement": "Paris, ENST"
+},
+{
+"id": "2017LYSE2092",
+"titre": "Représentations et dynamique de la ville virtuelle",
+"titre_en": "Representations and dynamics of the virtual city",
+"annee": 2017,
+"etablissement": "Lyon"
+},
+{
+"id": "2017LYSE1219",
+"titre": "Traitement joint de nuage de points et d'images pour l'analyse et la visualisation des formes 3D",
+"titre_en": "Joint point clouds and images processing for the analysis and visualization of 3D models",
+"annee": 2017,
+"etablissement": "Lyon"
+},
+{
+"id": "2016LYSE1239",
+"titre": "Calcul du seuil de visibilité d’une distorsion géometrique locale sur un maillage et ses applications",
+"titre_en": "Evaluating the visibility threshold for a local geometric distortion on a 3D mesh and its applications",
+"annee": 2016,
+"etablissement": "Lyon"
+},
+{
+"id": "2016LYSEI099",
+"titre": "Contributions à l'évaluation objective et subjective de la qualité visuelle des modèles 3D",
+"titre_en": "Contributions to objective and subjective visual quality assessment of 3d models",
+"annee": 2016,
+"etablissement": "Lyon"
+},
+{
+"id": "2016LIL10116",
+"titre": "Description sémantique de modèles 3D : application à la modélisation à partir d’exemples",
+"titre_en": "Semantic 3D model description : application to example-based modeling",
+"annee": 2016,
+"etablissement": "Lille 1"
+},
+{
+"id": "2016LYSE1220",
+"titre": "Simulations interactives de champ ultrasonore pour des configurations complexes de contrôle non destructif",
+"titre_en": "Interactive ultrasonic field simulations for complex non destructive testing configurations",
+"annee": 2016,
+"etablissement": "Lyon"
+},
+{
+"id": "2015LYO10121",
+"titre": "Analyse de variance et échantillonnage pour l'intégration Monte Carlo sur la sphère",
+"titre_en": "Sampling and Variance Analysis for Monte Carlo Integration in Spherical Domain",
+"annee": 2015,
+"etablissement": "Lyon 1"
+},
+{
+"id": "2015LYO10225",
+"titre": "Analyse spatiale et spectrale des motifs d'échantillonnage pour l'intégration Monte Carlo",
+"titre_en": "Spatial and spectral analysis of sampling patterns for Monte Carlo integration",
+"annee": 2015,
+"etablissement": "Lyon 1"
+},
+{
+"id": "2015LYO10281",
+"titre": "Application des cartes combinatoires à la modélisation géométrique et sémantique des bâtiments",
+"titre_en": "Application of the combinatiorial maps to geometric and semantic modelling of buildings",
+"annee": 2015,
+"etablissement": "Lyon 1"
+},
+{
+"id": "2015ISAL0103",
+"titre": "Estimateurs différentiels en géométrie discrète : Applications à l'analyse de surfaces digitales",
+"titre_en": "Differential estimators in discrete geometry : Applications to digital surface analysis",
+"annee": 2015,
+"etablissement": "Lyon, INSA"
+},
+{
+"id": "2015LIMO0110",
+"titre": "Génération de détails dans les mondes procéduraux",
+"titre_en": "Details modeling in procedural worlds",
+"annee": 2015,
+"etablissement": "Limoges"
+},
+{
+"id": "2015LYO10236",
+"titre": "Rendu photoréaliste de surfaces avec la théorie des microfacettes",
+"titre_en": "Photorealistic Surface Rendering with Microfacet Theory",
+"annee": 2015,
+"etablissement": "Lyon 1"
+},
+{
+"id": "2015LYO22013",
+"titre": "Représentation, modélisation et génération procédurale de terrains",
+"titre_en": "Representation, modelisation and procedural generation of terrains",
+"annee": 2015,
+"etablissement": "Lyon 2"
+},
+{
+"id": "2015LYO10098",
+"titre": "Systèmes de pavage pour l'échantillonnage",
+"titre_en": ".",
+"annee": 2015,
+"etablissement": "Lyon 1"
+},
+{
+"id": "2014LYO10177",
+"titre": "Approche formelle pour la simulation interactive de modèles mixtes",
+"titre_en": "A formal approach for the interactive simulation of mixed models",
+"annee": 2014,
+"etablissement": "Lyon 1"
+},
+{
+"id": "2014LYO10284",
+"titre": "Définition d'un modèle unifié pour la simulation physique adaptative avec changements topologiques",
+"titre_en": "Definition of a unified model for the adaptative physical simulation with topological changes",
+"annee": 2014,
+"etablissement": "Lyon 1"
+},
+{
+"id": "2014GRENM100",
+"titre": "Modèles biomécaniques pour la simulation interactive de l'accouchement",
+"titre_en": "Biomechanical models for interactive simulation of childbirth",
+"annee": 2014,
+"etablissement": "Grenoble"
+},
+{
+"id": "2014LYO10086",
+"titre": "Synthèse d’images réalistes en milieux fortement spéculaires",
+"titre_en": "",
+"annee": 2014,
+"etablissement": "Lyon 1"
+},
+{
+"id": "2013LYO22024",
+"titre": "Génération de maillages adaptatifs à partir de données volumiques de grande taille",
+"titre_en": ".",
+"annee": 2013,
+"etablissement": "Lyon 2"
+},
+{
+"id": "2013LYO10078",
+"titre": "Génération de texture par anamorphose pour la décoration d’objets plastiques injectés",
+"titre_en": "Texture generation for decoration of manufactured plastic objects by anamorphose",
+"annee": 2013,
+"etablissement": "Lyon 1"
+},
+{
+"id": "2013AIXM4757",
+"titre": "Reconstruction 3D de petits corps par photoclinométrie",
+"titre_en": "3D reconstruction of small solar system bodies",
+"annee": 2013,
+"etablissement": "Aix-Marseille"
+},
+{
+"id": "2013LYO10197",
+"titre": "Transformations compactes de triangulations surfaciques par bascule d'arête",
+"titre_en": "Compact transformation for 2-dimensional triangulations with edge flip",
+"annee": 2013,
+"etablissement": "Lyon 1"
+},
+{
+"id": "2012LYO10288",
+"titre": "Contributions à l’acquisition, à la modélisation et à l’augmentation d’environnements complexes",
+"titre_en": "Contributions to acquisition, modelling and augmented rendering of complex environments",
+"annee": 2012,
+"etablissement": "Lyon 1"
+},
+{
+"id": "2012LYO10304",
+"titre": "Dynamic sound rendering of complex environments",
+"titre_en": "Rendu sonore dynamique d'environnements complexes",
+"annee": 2012,
+"etablissement": "Lyon 1"
+},
+{
+"id": "2012LYO10272",
+"titre": "Mesures de similarité pour cartes généralisées",
+"titre_en": "Similarity measures between generalized maps",
+"annee": 2012,
+"etablissement": "Lyon 1"
+},
+{
+"id": "2012LYO10103",
+"titre": "Reconstruction de modèles CAO de scènes complexes à partir de nuages de points basés sur l’utilisation de connaissances a priori",
+"titre_en": "Reconstruction of CAD model of industrial scenes using a priori knowledge",
+"annee": 2012,
+"etablissement": "Lyon 1"
+},
+{
+"id": "2012MON20034",
+"titre": "Reconstruction d’un modèle B-Rep à partir d’un maillage 3D",
+"titre_en": "Reconstruction of a B-Rep model from 3D mesh",
+"annee": 2012,
+"etablissement": "Montpellier 2"
+},
+{
+"id": "2012DIJOS050",
+"titre": "SIGA3D : modélisation, échange et visualisation d'objets 3D du bâtiment et d'objets urbains géoréférencés ; application aux IFC pour la gestion technique de patrimoine immobilier et urbain",
+"titre_en": "SIGA3D : modeling, exchange and visualization of 3D building objects and urban georeferenced objects. Application to IFC for building and urban facility management",
+"annee": 2012,
+"etablissement": "Dijon"
+},
+{
+"id": "2011LYO10104",
+"titre": "Compression progressive et tatouage conjoint de maillages surfaciques avec attributs de couleur",
+"titre_en": "Progressive compression and joint compression and watermarking of surface mesh with color attributes",
+"annee": 2011,
+"etablissement": "Lyon 1"
+},
+{
+"id": "2011ISAL0142",
+"titre": "Développement de modèles graphiques probabilistes pour analyser et remailler les maillages triangulaires 2-variétés",
+"titre_en": "Development of probabilistic graphical models to analyze and remesh 2-manifold triangular meshes",
+"annee": 2011,
+"etablissement": "Lyon, INSA"
+},
+{
+"id": "2011POIT2271",
+"titre": "Pyramides irrégulières descendantes pour la segmentation de grandes images histologiques",
+"titre_en": "Top-down irregular pyramids for large histological images segmentation",
+"annee": 2011,
+"etablissement": "Poitiers"
+},
+{
+"id": "2011LYO10217",
+"titre": "Recherche de motifs fréquents dans une base de cartes combinatoires",
+"titre_en": "Frequent pattern discovery in combinatorial maps databases",
+"annee": 2011,
+"etablissement": "Lyon 1"
+},
+{
+"id": "2011LIL10105",
+"titre": "Segmentation de maillages 3D : évaluation automatique et une nouvelle méthode par apprentissage",
+"titre_en": "3D-mesh segmentation : automatic evaluation and a new learning-based method",
+"annee": 2011,
+"etablissement": "Lille 1"
+},
+{
+"id": "2011LYO10233",
+"titre": "Séquences de maillages : classification et méthodes de segmentation",
+"titre_en": "Mesh sequences : classification and segmentation",
+"annee": 2011,
+"etablissement": "Lyon 1"
+}
+],
+"hors_ig": 6,
+"en_preparation": 15,
+"debut": 2011,
+"fin": 2026
+},
+"LIRIS/SAARA": {
+"soutenues": [
+{
+"id": "2023ISAL0028",
+"titre": "Méthodes d'édition interactive de personnages basées sur l'apprentissage",
+"titre_en": "Learning-based interactive character animation",
+"annee": 2023,
+"etablissement": "Lyon, INSA"
+},
+{
+"id": "2022LYO10056",
+"titre": "Simulation directe prédictive de marches pathologiques",
+"titre_en": "Predictive forward simulation of pathological gait",
+"annee": 2022,
+"etablissement": "Lyon 1"
+},
+{
+"id": "2019LYSEI037",
+"titre": "Contrôle physique de mouvement de personnages virtuels en environnement complexe",
+"titre_en": "Physics-based control of virtual character in complex environment",
+"annee": 2019,
+"etablissement": "Lyon"
+},
+{
+"id": "2019LYSE1341",
+"titre": "Reconnaissance d’expressions corporelles dans des mouvements de personnes en vue de la synthèse de style",
+"titre_en": "Capturing and transferring expression from children's faces for interaction with virtual modes",
+"annee": 2019,
+"etablissement": "Lyon"
+},
+{
+"id": "2017LYSE1156",
+"titre": "Détection d’objets en mouvement à l’aide d’une caméra mobile",
+"titre_en": "Moving objects detection with a moving camera",
+"annee": 2017,
+"etablissement": "Lyon"
+},
+{
+"id": "2013LYO10227",
+"titre": "Détection des émotions à partir de vidéos dans un environnement non contrôlé",
+"titre_en": "Detection of emotions from video in non-controlled environment",
+"annee": 2013,
+"etablissement": "Lyon 1"
+},
+{
+"id": "2013LYO10065",
+"titre": "Reconnaissance d'actions en temps réel à partir d'exemples",
+"titre_en": "Real time actions recognition from examplars",
+"annee": 2013,
+"etablissement": "Lyon 1"
+},
+{
+"id": "2012LYO10288",
+"titre": "Contributions à l’acquisition, à la modélisation et à l’augmentation d’environnements complexes",
+"titre_en": "Contributions to acquisition, modelling and augmented rendering of complex environments",
+"annee": 2012,
+"etablissement": "Lyon 1"
+},
+{
+"id": "2012LYO10181",
+"titre": "Locomotion procédurale de créatures à n-pattes dans des environnements complexes et dynamiques : vers des applications en temps réels",
+"titre_en": "Procedural locomotion of multi-legged characters in complex dynamic environments : real-time applications",
+"annee": 2012,
+"etablissement": "Lyon 1"
+},
+{
+"id": "2012LYO10046",
+"titre": "Suivi des mouvements de la main et reproduction de gestes à partir de séquences vidéo monoculaires",
+"titre_en": "Monocular hand motion tracking and gestures recognition",
+"annee": 2012,
+"etablissement": "Lyon 1"
+},
+{
+"id": "2011LYO10054",
+"titre": "Paramétrisation et transfert d’animations faciales 3D à partir de séquences vidéo : vers des applications en temps réel",
+"titre_en": "Rigging and retargetting of 3D facial animations from video : towards real-time applications",
+"annee": 2011,
+"etablissement": "Lyon 1"
+}
+],
+"hors_ig": 0,
+"en_preparation": 1,
+"debut": 2011,
+"fin": 2026
+},
+"LIRMM/ICAR": {
+"soutenues": [
+{
+"id": "s364525",
+"titre": "Détection et analyse approfondie de régions dintérêt par algorithmes dIA dans des images acquises par drone",
+"titre_en": "Detection and deep analysis of regions of interest by AI algorithms in drone images",
+"annee": 2026,
+"etablissement": "Université de Montpellier (2022-....)"
+},
+{
+"id": "2025UMONS076",
+"titre": "Génération procédurale d’environnements sous-marins 3D animés pour la robotique",
+"titre_en": "Procedural generation of animated 3D underwater environments for robotics",
+"annee": 2025,
+"etablissement": "Université de Montpellier (2022-....)"
+},
+{
+"id": "2024UMONS006",
+"titre": "Application du DEEP LEARNING au traitement de données LIDAR TERRESTRE pour l’évaluation de TRAITS ARCHITECTURAUX et de fonctionnement d’arbres fruitiers",
+"titre_en": "Application of DEEP LEARNING to the processing of TERRESTRIAL LiDAR data for the evaluation of ARCHITECTURAL FEATURES and functioning of fruit trees",
+"annee": 2024,
+"etablissement": "Université de Montpellier (2022-....)"
+},
+{
+"id": "2022ISAR0035",
+"titre": "Visualisation Immersive et Interactive de Données 3D Temporelles",
+"titre_en": "Immersive and Interactive Visualization of Temporal 3D Data",
+"annee": 2022,
+"etablissement": "Rennes, INSA"
+},
+{
+"id": "2021MONTS070",
+"titre": "Détection/reconnaissance d'objets urbains à partir de données 3D multi-capteurs prises au niveau du sol, en continu",
+"titre_en": "Detection/ Recognition of Urban Objects from Multi 3D Datasensors taken at ground level, continuously",
+"annee": 2021,
+"etablissement": "Montpellier"
+},
+{
+"id": "2020MONTS037",
+"titre": "Contribution à la génération de cartes 3D-couleur de milieux naturels à partir de données d'un système multicapteur pour drone",
+"titre_en": "Contribution to the generation of 3D-colour maps of natural environments from data from a multi-sensor system for drone",
+"annee": 2020,
+"etablissement": "Montpellier"
+},
+{
+"id": "2019TOU30335",
+"titre": "Apprentissage profond sur des données médicales multivariées",
+"titre_en": "Deep learning applied to multivariate medical data",
+"annee": 2019,
+"etablissement": "Toulouse 3"
+},
+{
+"id": "2019MONTS107",
+"titre": "Surface de symétrie d’une structure 3D : application à l’étude des déformations scoliotiques du dos",
+"titre_en": "Surface of symmetry in 3D structure : application to the analysis of spinal deformity due to scoliosis",
+"annee": 2019,
+"etablissement": "Montpellier"
+},
+{
+"id": "2017TOU30060",
+"titre": "Analyse morphométrique 3D de structures anatomiques pour la paléoanthropologie",
+"titre_en": "3D morphometric analysis of anatomical structures for paleoanthropology",
+"annee": 2017,
+"etablissement": "Toulouse 3"
+},
+{
+"id": "2014MON20221",
+"titre": "Synchronisation pour l'insertion de données dans des maillages 3D",
+"titre_en": "Synchonization for 3D mesh watermarking",
+"annee": 2014,
+"etablissement": "Montpellier 2"
+},
+{
+"id": "2013MON20215",
+"titre": "Caractérisation de texture par analyse en ondelettes complexes pour la segmentation d’image : applications en télédétection et en écologie forestière",
+"titre_en": "Textures characterization based on complex wavelet transform for image segmentation : applications on remote sensing images and forest ecology",
+"annee": 2013,
+"etablissement": "Montpellier 2"
+},
+{
+"id": "2013MON20207",
+"titre": "Caractérisation des lésions hépatiques focales sur des acquisitions scanner multiphasiques",
+"titre_en": "Liver focal lesion caracterisation on multi-phase scanner acquisitions",
+"annee": 2013,
+"etablissement": "Montpellier 2"
+},
+{
+"id": "2013MON20183",
+"titre": "Une approche combinatoire novatrice fondée sur les matroïdes orientés pour la caractérisation de la morphologie 3D des structures anatomiques",
+"titre_en": "A new combinatorial method based on oriented matroids to characterize the 3D morphology of anatomical structures",
+"annee": 2013,
+"etablissement": "Montpellier 2"
+},
+{
+"id": "2012MON20201",
+"titre": "Processus de diffusion discret : opérateur laplacien appliqué à l'étude de surfaces",
+"titre_en": "Digital diffusion processes : discrete Laplace operator for discrete surfaces",
+"annee": 2012,
+"etablissement": "Montpellier 2"
+},
+{
+"id": "2012MON20034",
+"titre": "Reconstruction d’un modèle B-Rep à partir d’un maillage 3D",
+"titre_en": "Reconstruction of a B-Rep model from 3D mesh",
+"annee": 2012,
+"etablissement": "Montpellier 2"
+}
+],
+"hors_ig": 1,
+"en_preparation": 4,
+"debut": 2011,
+"fin": 2026
+},
+"LIX/VISTA": {
+"soutenues": [
+{
+"id": "2025IPPAX133",
+"titre": "Animation de personnages : Combler l’écart entre les modèles d’apprentissage et les processus artistiques d’animation",
+"titre_en": "Character animation : Bridging the gap between AI models and artistic animation pipelines",
+"annee": 2025,
+"etablissement": "Institut polytechnique de Paris"
+},
+{
+"id": "2025IPPAX075",
+"titre": "Conception de structures organiques 3D enchevêtrées, ramifiées et en croissance à partir d'un croquis",
+"titre_en": "Design of tangled, branching, and growing organic 3D structures from a sketch",
+"annee": 2025,
+"etablissement": "Institut polytechnique de Paris"
+},
+{
+"id": "2025ENPC0054",
+"titre": "Contrôlabilité et efficacité dans les modèles génératifs",
+"titre_en": "Controllability and Efficiency in Generative models",
+"annee": 2025,
+"etablissement": "Marne-la-vallée, ENPC"
+},
+{
+"id": "2024IPPAX019",
+"titre": "Modélisation interactive de formes 3D bio-inspirées évolutives et émergentes.",
+"titre_en": "Interactive 3D Modeling of Evolutionary and Emergent Bio-Inspired Shapes.",
+"annee": 2024,
+"etablissement": "Institut polytechnique de Paris"
+},
+{
+"id": "2024URENS011",
+"titre": "One-Man-Crowd : vers la capture par un seul utilisateur de mouvements collectifs à l'aide de la réalité virtuelle",
+"titre_en": "The One-Man-Crowd : towards single-user capture of collective motions using virtual reality",
+"annee": 2024,
+"etablissement": "Université de Rennes (2023-....)"
+},
+{
+"id": "2023IPPAX158",
+"titre": "Modèles efficaces pour la locomotion d'humains et leurs interactions dans un environnement naturel",
+"titre_en": "Efficient Models for Human Locomotion and Interaction in Natural Environments",
+"annee": 2023,
+"etablissement": "Institut polytechnique de Paris"
+},
+{
+"id": "2023IPPAX160",
+"titre": "Simulation de foules avec l'apprentissage par renforcement",
+"titre_en": "Simulating crowds with reinforcement learning",
+"annee": 2023,
+"etablissement": "Institut polytechnique de Paris"
+},
+{
+"id": "2023IPPAX049",
+"titre": "Simulation visuelle efficace de phénomènes volcaniques",
+"titre_en": "Efficient visual simulation of volcanic phenomena",
+"annee": 2023,
+"etablissement": "Institut polytechnique de Paris"
+},
+{
+"id": "2023IPPAX147",
+"titre": "Traitement robuste de la géométrie : détection et gestion des discontinuités dans le débruitage de nuages de points 3D et la paramétrisation de maillages",
+"titre_en": "Robust geometry processing : detecting and handling discontinuities in 3D pointset denoising and mesh parameterization",
+"annee": 2023,
+"etablissement": "Institut polytechnique de Paris"
+},
+{
+"id": "2022IPPAX019",
+"titre": "Croquis dynamiques : Modélisation hiérarchique de scènes complexes et évolutives",
+"titre_en": "Dynamic sketches : Hierarchical modeling of complex and time-evolving scenes",
+"annee": 2022,
+"etablissement": "Institut polytechnique de Paris"
+},
+{
+"id": "2021IPPAX008",
+"titre": "Approches basées champ pour l'animation de couches de vêtements sans collision",
+"titre_en": "Field-based approaches for the collision-free animation of layered and dynamic clothing",
+"annee": 2021,
+"etablissement": "Institut polytechnique de Paris"
+},
+{
+"id": "2020IPPAX078",
+"titre": "Authoring consistent, animated ecosystems : Efficient learning from partial data",
+"titre_en": "Création d'écosystèmes cohérents et animés : Apprentissage efficace à partir de données partielles",
+"annee": 2020,
+"etablissement": "Institut polytechnique de Paris"
+},
+{
+"id": "2019GREAM070",
+"titre": "Modélisation 3D d'objets cousus à partir d'un unique croquis",
+"titre_en": "Reverse-Engineering Fashion Products : From a single-view Sketch to a 3D Model",
+"annee": 2019,
+"etablissement": "Université Grenoble Alpes (ComUE)"
+},
+{
+"id": "2019GREAM053",
+"titre": "Synthèse de texture dynamique sur objets déformables",
+"titre_en": "Synthesis of dynamic textures on deformable objects",
+"annee": 2019,
+"etablissement": "Université Grenoble Alpes (ComUE)"
+},
+{
+"id": "2018GREAM054",
+"titre": "Interprétation et modélisation 3D automatique à partir de dessins au trait de formes organiques",
+"titre_en": "Intuitive modeling of 3D objects from outline drawing. Application tothe design of virtual animals.",
+"annee": 2018,
+"etablissement": "Université Grenoble Alpes (ComUE)"
+},
+{
+"id": "2018GREAM072",
+"titre": "Modèles à couches pour simuler l'évolution de paysages à grande échelle",
+"titre_en": "Layered Models for Large Scale Time-Evolving Landscapes",
+"annee": 2018,
+"etablissement": "Université Grenoble Alpes (ComUE)"
+},
+{
+"id": "2016GREAM048",
+"titre": "Déformation interactive de papier virtuel",
+"titre_en": "Interactive deformation of virtual paper",
+"annee": 2016,
+"etablissement": "Université Grenoble Alpes (ComUE)"
+},
+{
+"id": "2016GREAM073",
+"titre": "Nouvelles méthodes pour la modélisation interactive d'objets complexes et d'animations",
+"titre_en": "Novel methods for the interactive design of complex objects and animations",
+"annee": 2016,
+"etablissement": "Université Grenoble Alpes (ComUE)"
+},
+{
+"id": "2016GREAM062",
+"titre": "Simulation et contrôle de phénomènes physiques",
+"titre_en": "Simulation and control of physical phenomena",
+"annee": 2016,
+"etablissement": "Université Grenoble Alpes (ComUE)"
+},
+{
+"id": "2015GREAM016",
+"titre": "Animation de personnages 3D par le sketching 2D",
+"titre_en": "Sketching free-form poses and motions for expressive 3D character animation.",
+"annee": 2015,
+"etablissement": "Université Grenoble Alpes (ComUE)"
+},
+{
+"id": "2015ISAR0030",
+"titre": "Conception et animation interactive de foules pour de vastes environnements",
+"titre_en": "Interactive design and animation of crowds for large environments",
+"annee": 2015,
+"etablissement": "Rennes, INSA"
+},
+{
+"id": "2015GREAM073",
+"titre": "Interactions gestuelles multi-point et géométrie déformable pour l'édition 3D sur écran tactile",
+"titre_en": "Multi-touch gesture interactions and deformable geometry for 3D edition on touch screen",
+"annee": 2015,
+"etablissement": "Université Grenoble Alpes (ComUE)"
+},
+{
+"id": "2014GRENM067",
+"titre": "Création interactive de mondes virtuels : Combiner génération procédurale et contrôle utilisateur intuitif",
+"titre_en": "Interactive design of virtual worlds : Combining procedural modeling with intuitive user control",
+"annee": 2014,
+"etablissement": "Grenoble"
+},
+{
+"id": "2013GRENM087",
+"titre": "Modèles pour la création interactive intuitive",
+"titre_en": "Models for intuitive interactive creation",
+"annee": 2013,
+"etablissement": "Grenoble"
+},
+{
+"id": "2013GRENM040",
+"titre": "Modélisation implicite par squelette et applications",
+"titre_en": "Skeleton-based implicit modeling and applications",
+"annee": 2013,
+"etablissement": "Grenoble"
+},
+{
+"id": "2011GRENM036",
+"titre": "Géométrie active pour l'animation et la modélisation",
+"titre_en": "Active Geometry for Animation and Modeling",
+"annee": 2011,
+"etablissement": "Grenoble"
+}
+],
+"hors_ig": 0,
+"en_preparation": 13,
+"debut": 2011,
+"fin": 2026
+},
+"LIX/GeomeriX": {
+"soutenues": [
+{
+"id": "2026IPPAX024",
+"titre": "Apprentissage par transfert pour l’analyse des formes 3D",
+"titre_en": "Transfer Learning For 3D Shape Analysis",
+"annee": 2026,
+"etablissement": "Institut polytechnique de Paris"
+},
+{
+"id": "2026IPPAX020",
+"titre": "Discrétisation d’Opérateurs Différentielles basée sur la Géometrie",
+"titre_en": "Geometry-driven Discretization of Differential Operators",
+"annee": 2026,
+"etablissement": "Institut polytechnique de Paris"
+},
+{
+"id": "2025IPPAX023",
+"titre": "Analyse de formes 3D à grande échelle avec des approches basées sur l'apprentissage",
+"titre_en": "Analysis of large scale 3D shape collection with learning based approaches",
+"annee": 2025,
+"etablissement": "Institut polytechnique de Paris"
+},
+{
+"id": "2024IPPAX100",
+"titre": "Méthodes Robustes Basées sur l’Apprentissage Profond pour la Correspondance de Formes Non Rigides",
+"titre_en": "Robust Deep Learning-based Methods for Non-Rigid Shape Correspondence",
+"annee": 2024,
+"etablissement": "Institut polytechnique de Paris"
+},
+{
+"id": "2024IPPAX043",
+"titre": "Méthodes spectrales robustes pour l'analyse des formes et l'évaluation des déformations",
+"titre_en": "Robust spectral methods for shape analysis and deformation assessment",
+"annee": 2024,
+"etablissement": "Institut polytechnique de Paris"
+},
+{
+"id": "2023IPPAX018",
+"titre": "Apprentissage Structurel et Fonctionnel pour l'Automatisation du Design Industriel",
+"titre_en": "Structural and Functional Learning for Industrial Design Automatization",
+"annee": 2023,
+"etablissement": "Institut polytechnique de Paris"
+},
+{
+"id": "2023IPPAX004",
+"titre": "Représentations robustes pour la mise en correspondence de formes 3D via apprentissage supervisé et non-supervisé",
+"titre_en": "Robust representations for supervised and unsupervised 3D shape matching",
+"annee": 2023,
+"etablissement": "Institut polytechnique de Paris"
+},
+{
+"id": "2023IPPAX147",
+"titre": "Traitement robuste de la géométrie : détection et gestion des discontinuités dans le débruitage de nuages de points 3D et la paramétrisation de maillages",
+"titre_en": "Robust geometry processing : detecting and handling discontinuities in 3D pointset denoising and mesh parameterization",
+"annee": 2023,
+"etablissement": "Institut polytechnique de Paris"
+},
+{
+"id": "2022IPPAX019",
+"titre": "Croquis dynamiques : Modélisation hiérarchique de scènes complexes et évolutives",
+"titre_en": "Dynamic sketches : Hierarchical modeling of complex and time-evolving scenes",
+"annee": 2022,
+"etablissement": "Institut polytechnique de Paris"
+},
+{
+"id": "2022IPPAX069",
+"titre": "Data-Efficient Deep Functional Maps for 3D Shape and Graph Analysis",
+"titre_en": "Data-Efficient Deep Functional Maps for 3D Shape and Graph Analysis",
+"annee": 2022,
+"etablissement": "Institut polytechnique de Paris"
+},
+{
+"id": "2022IPPAX071",
+"titre": "Détection de structures au sein de géométries 3D complexes : correspondances non-rigides et suppression de points aberrants dans des nuages de points 3D",
+"titre_en": "Structure detection in complex 3D geometry : from non-rigid matching to outlier removal in 3D point clouds",
+"annee": 2022,
+"etablissement": "Institut polytechnique de Paris"
+},
+{
+"id": "2021IPPAX114",
+"titre": "Représentations et méthodes basées sur l’apprentissage pour l’analyse, la manipulation et la reconstruction de formes en 3D",
+"titre_en": "Learning-based representations and methods for 3D shape analysis, manipulation and reconstruction",
+"annee": 2021,
+"etablissement": "Institut polytechnique de Paris"
+},
+{
+"id": "2020IPPAX078",
+"titre": "Authoring consistent, animated ecosystems : Efficient learning from partial data",
+"titre_en": "Création d'écosystèmes cohérents et animés : Apprentissage efficace à partir de données partielles",
+"annee": 2020,
+"etablissement": "Institut polytechnique de Paris"
+},
+{
+"id": "2020IPPAT005",
+"titre": "Opérateurs géométriques pour la modélisation 3D via des représentations de formes basées dictionnaire",
+"titre_en": "Geometric operators for 3D modeling using dictionary-based shape representations",
+"annee": 2020,
+"etablissement": "Institut polytechnique de Paris"
+},
+{
+"id": "2020IPPAX007",
+"titre": "Structures pour l'apprentissage profond et l'optimisation de la topologie de fonctions sur les formes 3D",
+"titre_en": "Structures for deep learning and topology optimization of functions on 3D shapes",
+"annee": 2020,
+"etablissement": "Institut polytechnique de Paris"
+},
+{
+"id": "2018SACLX109",
+"titre": "Correspondances non-rigides entre surfaces plongées en 3D",
+"titre_en": "Non-rigid correspondences between surfaces embedded in 3D",
+"annee": 2018,
+"etablissement": "Université Paris-Saclay (ComUE)"
+}
+],
+"hors_ig": 0,
+"en_preparation": 12,
+"debut": 2011,
+"fin": 2026
+},
+"LJK/ELAN": {
+"soutenues": [
+{
+"id": "2025GRALM030",
+"titre": "Détection de contact de haut degré et modèle mixte de tige pour la simulation numérique prédictive d'assemblées de fibres emmêlées",
+"titre_en": "High order contact detection and mixed rod model for predictive numerical simulations of tangled fibrous assemblies",
+"annee": 2025,
+"etablissement": "Université Grenoble Alpes"
+},
+{
+"id": "2024GRALM057",
+"titre": "Modélisation numérique de plumes",
+"titre_en": "Numerical Modeling of Feathers",
+"annee": 2024,
+"etablissement": "Université Grenoble Alpes"
+},
+{
+"id": "2021GRALM064",
+"titre": "Modélisation dynamique inverse de tissus - Apprentissage profond à l'aide de simulations basées sur la physique",
+"titre_en": "Inverse Dynamic Modeling of Cloth - Deep Learning using Physics based Simulations",
+"annee": 2021,
+"etablissement": "Université Grenoble Alpes"
+},
+{
+"id": "2021GRALM038",
+"titre": "Modélisation numérique de rubans par éléments en courbures",
+"titre_en": "Numerical modeling of ribbons by curved elements",
+"annee": 2021,
+"etablissement": "Université Grenoble Alpes"
+},
+{
+"id": "2021GRALM029",
+"titre": "Modélisation statique inverse de vêtements",
+"titre_en": "Static inverse modelling of cloth",
+"annee": 2021,
+"etablissement": "Université Grenoble Alpes"
+},
+{
+"id": "2017GREAM031",
+"titre": "Modélisation numérique de solides élastiques minces en contact",
+"titre_en": "Numerical modelling of thin elastic solids in contact",
+"annee": 2017,
+"etablissement": "Université Grenoble Alpes (ComUE)"
+},
+{
+"id": "2016GREAM084",
+"titre": "Modèles et algorithmes pour la simulation du contact frottant dans les matériaux complexes : application aux milieux fibreux et granulaires",
+"titre_en": "modeling and simulating complex materials subject to frictional contact : application to fibrous and granular media",
+"annee": 2016,
+"etablissement": "Université Grenoble Alpes (ComUE)"
+},
+{
+"id": "2015GREAM053",
+"titre": "Quelques contributions à la modélisation numérique de structures élancées pour l'informatique graphique",
+"titre_en": "Some contributions to the numerical modeling of slender structures for computer graphics",
+"annee": 2015,
+"etablissement": "Université Grenoble Alpes (ComUE)"
+},
+{
+"id": "2013GRENM043",
+"titre": "Inversion statique de fibres : de la géométrie de courbes 3D à l'équilibre d'une assemblée de tiges mécaniques en contact frottant",
+"titre_en": "Dynamic curves : from geometrical shape capture to deformable objects animation.",
+"annee": 2013,
+"etablissement": "Grenoble"
+}
+],
+"hors_ig": 0,
+"en_preparation": 1,
+"debut": 2011,
+"fin": 2026
+},
+"LJK/MAVERICK": {
+"soutenues": [
+{
+"id": "2026UTLSS039",
+"titre": "Construction de structures de données sur GPU pour le lancer de rayons en temps réel",
+"titre_en": "Data structures and construction algorithms for real-time raytracing on the GPU",
+"annee": 2026,
+"etablissement": "Université de Toulouse (EPE ; 2025-...)"
+},
+{
+"id": "s344034",
+"titre": "Rendu temps-réel de monde ultra-large et ultra-détaillé par voxels",
+"titre_en": "Real-time rendering of ultra-large and ultra-detailed virtual world using voxels",
+"annee": 2026,
+"etablissement": "Université Grenoble Alpes"
+},
+{
+"id": "2025GRALM032",
+"titre": "Génération contrôlée d'effets de mouvement pour une représentation abstraite d’animations 3D",
+"titre_en": "Controlled generation of motion effects for an abstract depiction of movement in 3D animations",
+"annee": 2025,
+"etablissement": "Université Grenoble Alpes"
+},
+{
+"id": "2024GRALM069",
+"titre": "Simulation photoréaliste de l'éclairage par path-guiding et next-event estimation",
+"titre_en": "Photorealistic Light Simulation Combining Path-Guiding and Next-Event Estimation",
+"annee": 2024,
+"etablissement": "Université Grenoble Alpes"
+},
+{
+"id": "2022GRALM061",
+"titre": "Estimation des valeurs propres du transport de la lumière à l'aide d'algorithmes de Monte Carlo",
+"titre_en": "Eigenvalue estimation of light transport using Monte Carlo algorithms",
+"annee": 2022,
+"etablissement": "Université Grenoble Alpes"
+},
+{
+"id": "2022GRALM039",
+"titre": "Manipulation de la lumière pour une dépiction expressive de la forme et de la profondeur : Apprendre des panoramas de montagne du peintre Pierre Novat",
+"titre_en": "Light Manipulation for an Expressive Depiction of Shape and Depth : Drawing on Pierre Novat's Hand-Painted Mountain Panoramas",
+"annee": 2022,
+"etablissement": "Université Grenoble Alpes"
+},
+{
+"id": "2022GRALM056",
+"titre": "Relier l'apparence des matériaux aux propriétés physiques et chimiques",
+"titre_en": "Connecting physical and chemical properties with material appearance",
+"annee": 2022,
+"etablissement": "Université Grenoble Alpes"
+},
+{
+"id": "2022GRALM047",
+"titre": "Utilisation efficace des échantillons dans le rendu photo-réaliste",
+"titre_en": "Efficient Sample Usage in Photo-Realistic Rendering",
+"annee": 2022,
+"etablissement": "Université Grenoble Alpes"
+},
+{
+"id": "2019GREAM066",
+"titre": "Représentations efficaces pour les réflectances mesurées : modélisation et édition",
+"titre_en": "Efficient representation for measured reflectance : modelisation and edition",
+"annee": 2019,
+"etablissement": "Université Grenoble Alpes (ComUE)"
+},
+{
+"id": "2018GREAM060",
+"titre": "Rendu stylisé de scènes 3D animées temps-réel",
+"titre_en": "Real-time stylized rendering of 3D animated scenes",
+"annee": 2018,
+"etablissement": "Université Grenoble Alpes (ComUE)"
+},
+{
+"id": "2018GREAM033",
+"titre": "Représentations efficaces de l'apparence sous-pixel",
+"titre_en": "Efficient models for representing sub-pixel appearances",
+"annee": 2018,
+"etablissement": "Université Grenoble Alpes (ComUE)"
+},
+{
+"id": "2017GREAM018",
+"titre": "Transferts d'apparence en espace image basés sur des propriétés texturelles",
+"titre_en": "Image-space appearance transfers based on textural properties",
+"annee": 2017,
+"etablissement": "Université Grenoble Alpes (ComUE)"
+},
+{
+"id": "2015GREAM067",
+"titre": "Programmable synthesis of element textures and application to cartography",
+"titre_en": "Synthèse programmable de textures vectorielles et application à la cartographie",
+"annee": 2015,
+"etablissement": "Université Grenoble Alpes (ComUE)"
+},
+{
+"id": "2014GRENM046",
+"titre": "Apparence multi-échelles pour le rendu réaliste et efficace des surfaces complexes",
+"titre_en": "Appearance of multi-scale surfaces",
+"annee": 2014,
+"etablissement": "Grenoble"
+},
+{
+"id": "2013GRENM043",
+"titre": "Inversion statique de fibres : de la géométrie de courbes 3D à l'équilibre d'une assemblée de tiges mécaniques en contact frottant",
+"titre_en": "Dynamic curves : from geometrical shape capture to deformable objects animation.",
+"annee": 2013,
+"etablissement": "Grenoble"
+},
+{
+"id": "2012GRENM050",
+"titre": "Analyse fréquencielle du transport de la lumière : de la théorie aux applications",
+"titre_en": "Frequency Analysis of Light Transport : from Theory to Implementation",
+"annee": 2012,
+"etablissement": "Grenoble"
+},
+{
+"id": "2012GRENM063",
+"titre": "Apparence matérielle : représentation et rendu photo-réaliste",
+"titre_en": "Material appearance : photo-realistic representation and rendering",
+"annee": 2012,
+"etablissement": "Grenoble"
+},
+{
+"id": "2012GRENM025",
+"titre": "Lissage multi-echelle sur GPU des images et volumes avec preservation des details",
+"titre_en": "Multi-scale Feature-Preserving Smoothing of Images and Volumes on GPU",
+"annee": 2012,
+"etablissement": "Grenoble"
+},
+{
+"id": "2011GRENM006",
+"titre": "Extraction d'information pour l'édition et la synthèse par l'exemple en rendu expressif",
+"titre_en": "Information Extraction for Editing and By-Example Synthesis in Expressive Rendering",
+"annee": 2011,
+"etablissement": "Grenoble"
+},
+{
+"id": "2011GRENM025",
+"titre": "GigaVoxels : un pipeline de rendu basé Voxel pour l'exploration efficace de scènes larges et détaillées",
+"titre_en": "GigaVoxels : a Voxel-Based Rendering Pipeline For Efficient Exploration Of Large and Detailed Scenes",
+"annee": 2011,
+"etablissement": "Grenoble"
+},
+{
+"id": "2011GRENM055",
+"titre": "Rendu réaliste de matériaux complexes",
+"titre_en": "Realistic rendering of complex materials",
+"annee": 2011,
+"etablissement": "Grenoble"
+},
+{
+"id": "2011GRENM024",
+"titre": "Stylisation temporellement cohérente d'animations 3D basée sur des textures",
+"titre_en": "Temporally coherent stylization of 3D animations based on textures",
+"annee": 2011,
+"etablissement": "Grenoble"
+}
+],
+"hors_ig": 0,
+"en_preparation": 5,
+"debut": 2011,
+"fin": 2026
+},
+"LJK/CRAFT": {
+"soutenues": [
+{
+"id": "2024GRALM005",
+"titre": "Modélisation directe et inverse de méta-matériaux découpés par laser",
+"titre_en": "Direct and inverse modelling of laser-cut meta-materials",
+"annee": 2024,
+"etablissement": "Université Grenoble Alpes"
+},
+{
+"id": "2023GRALM077",
+"titre": "Design et Évaluation de Systèmes 3D pour la Transmission de Mouvement Dansé",
+"titre_en": "Design and Evaluation of 3D Systems for Movement Transmission inDance",
+"annee": 2023,
+"etablissement": "Université Grenoble Alpes"
+},
+{
+"id": "2021GRALM029",
+"titre": "Modélisation statique inverse de vêtements",
+"titre_en": "Static inverse modelling of cloth",
+"annee": 2021,
+"etablissement": "Université Grenoble Alpes"
+},
+{
+"id": "2020GRALM011",
+"titre": "Modification de formes à l'aide de systèmes immersifs de type CAVE",
+"titre_en": "Shape modification through immersive CAVE-like systems",
+"annee": 2020,
+"etablissement": "Université Grenoble Alpes"
+},
+{
+"id": "2019GREAM070",
+"titre": "Modélisation 3D d'objets cousus à partir d'un unique croquis",
+"titre_en": "Reverse-Engineering Fashion Products : From a single-view Sketch to a 3D Model",
+"annee": 2019,
+"etablissement": "Université Grenoble Alpes (ComUE)"
+},
+{
+"id": "2018GREAM051",
+"titre": "Visualisation de données temporelles personnelles",
+"titre_en": "Visualization of personal time-dependent data",
+"annee": 2018,
+"etablissement": "Université Grenoble Alpes (ComUE)"
+},
+{
+"id": "2017GREAM087",
+"titre": "Reconstruction de surfaces lisses maillées à partir de capteurs inertiels",
+"titre_en": "Shape reconstruction of meshed smooth surfaces equipped with inertial sensors",
+"annee": 2017,
+"etablissement": "Université Grenoble Alpes (ComUE)"
+},
+{
+"id": "2016GREAM048",
+"titre": "Déformation interactive de papier virtuel",
+"titre_en": "Interactive deformation of virtual paper",
+"annee": 2016,
+"etablissement": "Université Grenoble Alpes (ComUE)"
+},
+{
+"id": "2016GREAM091",
+"titre": "Visualisation de champs scalaires guidée par la topologie",
+"titre_en": "Topology-guided Visualization of Scalar Datasets",
+"annee": 2016,
+"etablissement": "Université Grenoble Alpes (ComUE)"
+},
+{
+"id": "2014GRENM025",
+"titre": "Idéalisation d'assemblages CAO pour l'analyse EF de structures",
+"titre_en": "Idealization of CAD assemblies for FE structural analyses",
+"annee": 2014,
+"etablissement": "Grenoble"
+},
+{
+"id": "2012GRENM039",
+"titre": "Visualisation interactive de grands volumes de données incertaines : pour une approche perceptive",
+"titre_en": "Interactive scientific visualization of high-volume, uncertain data : for a perceptual approach",
+"annee": 2012,
+"etablissement": "Grenoble"
+},
+{
+"id": "2011GRENM036",
+"titre": "Géométrie active pour l'animation et la modélisation",
+"titre_en": "Active Geometry for Animation and Modeling",
+"annee": 2011,
+"etablissement": "Grenoble"
+},
+{
+"id": "2011GRENM020",
+"titre": "Intégration de connaissances anatomiques a priori dans des modèles géométriques",
+"titre_en": "Integration of anatomic a priori knowledge into geometric models",
+"annee": 2011,
+"etablissement": "Grenoble"
+}
+],
+"hors_ig": 0,
+"en_preparation": 3,
+"debut": 2011,
+"fin": 2026
+},
+"LJK/Kinetix": {
+"soutenues": [
+{
+"id": "2025GRALM053",
+"titre": "Apprentissage de mise en correspondance de surfaces 3D non-rigides",
+"titre_en": "Learning Non-Rigid 3D Surface Matching",
+"annee": 2025,
+"etablissement": "Université Grenoble Alpes"
+},
+{
+"id": "2025GRALM041",
+"titre": "Capture volumétrique à partir d'images RVB basée sur le rendu différentiel",
+"titre_en": "Volumetric capture from RGB images using differential rendering",
+"annee": 2025,
+"etablissement": "Université Grenoble Alpes"
+},
+{
+"id": "2025GRALM025",
+"titre": "Génération et évaluation du mouvement humain 3D",
+"titre_en": "Generation and evaluation of 3D human motion",
+"annee": 2025,
+"etablissement": "Université Grenoble Alpes"
+},
+{
+"id": "2024GRALM060",
+"titre": "Reconstruction 3D main-objet à partir d'images RGB",
+"titre_en": "3D hand-object reconstruction from RGB images",
+"annee": 2024,
+"etablissement": "Université Grenoble Alpes"
+},
+{
+"id": "2023GRALM068",
+"titre": "Apprentissage des formes de scoliose à l'aide de modèles anatomiques et de la capture de mouvement",
+"titre_en": "Learning Scoliosis Patterns using Anatomical Models and Motion Capture",
+"annee": 2023,
+"etablissement": "Université Grenoble Alpes"
+},
+{
+"id": "2023GRALM017",
+"titre": "Modèles statistiques pour représenter et synthétiser des mouvement humains en 3D",
+"titre_en": "Data driven representation and synthesis of 3D human motion",
+"annee": 2023,
+"etablissement": "Université Grenoble Alpes"
+},
+{
+"id": "2023GRALM016",
+"titre": "Reconstruction de formes 3D à partir de plusieurs vues",
+"titre_en": "3D shape reconstruction from multiple views",
+"annee": 2023,
+"etablissement": "Université Grenoble Alpes"
+},
+{
+"id": "2022GRALM033",
+"titre": "Inférer une représentation dense de l'humain avec un nuage de points épars ou incomplet",
+"titre_en": "Inferring Dense Human Representation from Sparse or Incomplete Point Clouds",
+"annee": 2022,
+"etablissement": "Université Grenoble Alpes"
+},
+{
+"id": "2022GRALM032",
+"titre": "Segmentation et étiquetage des vertèbres à partir d'images CT",
+"titre_en": "Vertebrae segmentation and labelling from CT images",
+"annee": 2022,
+"etablissement": "Université Grenoble Alpes"
+},
+{
+"id": "2022GRALM015",
+"titre": "Transfert de déformation morphologiquement plausible",
+"titre_en": "Morphologically Plausible Deformation Transfer",
+"annee": 2022,
+"etablissement": "Université Grenoble Alpes"
+},
+{
+"id": "2021GRALM050",
+"titre": "Apprentissage profond pour les maillages 3D",
+"titre_en": "Deep Learning for 3D Meshes",
+"annee": 2021,
+"etablissement": "Université Grenoble Alpes"
+},
+{
+"id": "2021GRALM060",
+"titre": "Deep learning pour la modélisation de formes 3D",
+"titre_en": "Deep Learning for 3D Shape Modelling",
+"annee": 2021,
+"etablissement": "Université Grenoble Alpes"
+},
+{
+"id": "2021GRALM064",
+"titre": "Modélisation dynamique inverse de tissus - Apprentissage profond à l'aide de simulations basées sur la physique",
+"titre_en": "Inverse Dynamic Modeling of Cloth - Deep Learning using Physics based Simulations",
+"annee": 2021,
+"etablissement": "Université Grenoble Alpes"
+},
+{
+"id": "2021GRALM044",
+"titre": "Traitement de signaux de surface sur maillages pour la modélisation d'apparence",
+"titre_en": "Processing Mesh Surface Signals for Appearance Modeling",
+"annee": 2021,
+"etablissement": "Université Grenoble Alpes"
+},
+{
+"id": "2020GRALM059",
+"titre": "Apprentissage à grande échelle de modèles de formes et de mouvements pour le visage 3D",
+"titre_en": "Large-scale learning of shape and motion models for the 3D face",
+"annee": 2020,
+"etablissement": "Université Grenoble Alpes"
+},
+{
+"id": "2019GREAM008",
+"titre": "Apprentissage des espaces de forme du modèle 3d humain habillé en mouvement",
+"titre_en": "Learning shape spaces of dressed 3D human models in motion",
+"annee": 2019,
+"etablissement": "Université Grenoble Alpes (ComUE)"
+},
+{
+"id": "2019GREAM042",
+"titre": "Modélisation 4D rapide et précise de larges séquences multi-caméras",
+"titre_en": "Fast and Accurate 4D Modeling of Large Multi-Camera Sequences",
+"annee": 2019,
+"etablissement": "Université Grenoble Alpes (ComUE)"
+},
+{
+"id": "2017GREAM002",
+"titre": "Algorithmes et critères pour les Tessellations volumétriques de Voronoi Centroïdales",
+"titre_en": "Algorithms and Criteria for Volumetric Centroidal Voronoi Tessellations",
+"annee": 2017,
+"etablissement": "Université Grenoble Alpes (ComUE)"
+},
+{
+"id": "2017GREAM080",
+"titre": "Animation de capture de mouvement de surface",
+"titre_en": "Surface motion capture animation",
+"annee": 2017,
+"etablissement": "Université Grenoble Alpes (ComUE)"
+},
+{
+"id": "2017GREAM017",
+"titre": "Suivi volumétrique de formes 3D non rigides",
+"titre_en": "Volumetric tracking of 3D deformable shapes",
+"annee": 2017,
+"etablissement": "Université Grenoble Alpes (ComUE)"
+},
+{
+"id": "2016GREAM083",
+"titre": "Modélisation de l'apparence des représentations 4D",
+"titre_en": "Appearance Modelling for 4D Representations",
+"annee": 2016,
+"etablissement": "Université Grenoble Alpes (ComUE)"
+},
+{
+"id": "2015GREAM004",
+"titre": "Segmentation multi-vues d'objet",
+"titre_en": "Multi-view Object Segmentation",
+"annee": 2015,
+"etablissement": "Université Grenoble Alpes (ComUE)"
+},
+{
+"id": "2012GRENM090",
+"titre": "Acquisition de surfaces déformables à partir d'un système multicaméra calibré",
+"titre_en": "Motion Capture of Deformable Surfaces in Multi-View Studios",
+"annee": 2012,
+"etablissement": "Grenoble"
+},
+{
+"id": "2012BOR14746",
+"titre": "Capturer la géométrie dynamique vivante dans les cages",
+"titre_en": "Capturing life-like dynamic geometry into cages",
+"annee": 2012,
+"etablissement": "Bordeaux 1"
+},
+{
+"id": "2012GRENM088",
+"titre": "Mesure de surface 3D pour la caractérisation ostéo-musculaire de petits vertébrés : application à la caractérisation du vieillissement chez la souris",
+"titre_en": "Measure of 3D surface for osteo-muscular characterization of small vertebrates : application to the characterization of ageing in mice",
+"annee": 2012,
+"etablissement": "Grenoble"
+},
+{
+"id": "2012GRENM054",
+"titre": "Modélisation 4D à partir de plusieurs caméras",
+"titre_en": "4D modeling from mutli-camera setup",
+"annee": 2012,
+"etablissement": "Grenoble"
+},
+{
+"id": "2011BOR14345",
+"titre": "Perception visuelle pour les drones légers",
+"titre_en": "",
+"annee": 2011,
+"etablissement": "Bordeaux 1"
+},
+{
+"id": "2011GRENM007",
+"titre": "Téléprésence, immersion et interactions pour le reconstruction 3D temps-réel",
+"titre_en": "Telepresence, Immersion and Interactions for Real-time 3D Reconstruction",
+"annee": 2011,
+"etablissement": "Grenoble"
+}
+],
+"hors_ig": 0,
+"en_preparation": 6,
+"debut": 2011,
+"fin": 2026
+},
+"LIS/GMOD": {
+"soutenues": [
+{
+"id": "s375229",
+"titre": "Reconstruction stéréoscopique multi-vues à partir dimages aériennes à laide de modèles fondamentaux de vision",
+"titre_en": "Multi-View Stereo from Aerial Imagery with Vision Foundation Models",
+"annee": 2026,
+"etablissement": "Aix-Marseille"
+},
+{
+"id": "s375234",
+"titre": "Génération automatique de modèles 3D guidée par apprentissage à partir de données éparses multi-vues",
+"titre_en": "Automatic learning-driven 3D model generation from sparse multi-view data",
+"annee": 2025,
+"etablissement": "Aix-Marseille"
+},
+{
+"id": "2025AIXM0018",
+"titre": "Mesures et modélisations de BRDF hyperpsectrales : application pour la prédiction de signatures de véhicules et satellites",
+"titre_en": "Measurements and modeling of hyperpsectral BRDFs : application to the prediction of vehicle and satellite signatures",
+"annee": 2025,
+"etablissement": "Aix-Marseille"
+},
+{
+"id": "s373258",
+"titre": "compression de maillages dynamiques représentant des personnages animés  application au streaming en direct de commandes graphiques pour le cloud gaming",
+"titre_en": "compression of dynamic meshes representing animated characters  application to live graphics streaming for cloud gaming",
+"annee": 2025,
+"etablissement": "Aix-Marseille"
+},
+{
+"id": "2024AIXM0114",
+"titre": "Génération de terrain 3D à partir de données réelles, application à la simulation militaire",
+"titre_en": "Generation of 3D landscape from real-world data, application to military simulation",
+"annee": 2024,
+"etablissement": "Aix-Marseille"
+},
+{
+"id": "2023AIXM0622",
+"titre": "Extraction de primitives dans des nuages de points en milieu industriel",
+"titre_en": "Primitive extraction from point clouds in industrial environments",
+"annee": 2023,
+"etablissement": "Aix-Marseille"
+},
+{
+"id": "2021AIXM0233",
+"titre": "Algorithme de planification de numérisation et d’alignement de nuages de points 3D pour le contrôle in-situ de pièces mécaniques en cours d’usinage",
+"titre_en": "View planning and 3D point clouds registration algorithm for mecanics part in machining process",
+"annee": 2021,
+"etablissement": "Aix-Marseille"
+},
+{
+"id": "2021AIXM0563",
+"titre": "Modélisation et description par graphes pour des formes géométriques complexes : application aux structures de l'oreille",
+"titre_en": "Modeling and graph-based description for complex geometric shapes : application to ear structure",
+"annee": 2021,
+"etablissement": "Aix-Marseille"
+},
+{
+"id": "2020AIXM0339",
+"titre": "ModSETS : a model-driven stereo eye tracking system : application in the medical field",
+"titre_en": "ModSETS : un système de suivi de l'oeil en stéréophotogrammétrie piloté par modèle : application dans le domaine médical",
+"annee": 2020,
+"etablissement": "Aix-Marseille"
+},
+{
+"id": "2019AIXM0053",
+"titre": "Détection et caractérisation de zones de poser pour hélicoptères",
+"titre_en": "Detection and characterization of landing platforms for helicopters",
+"annee": 2019,
+"etablissement": "Aix-Marseille"
+},
+{
+"id": "2019AIXM0665",
+"titre": "Rendu interactif d'image hyper spectrale par illumination globale pour la prédiction de la signature infrarouge d'aéronefs",
+"titre_en": "Interactive hyper spectral image rendering by global illumination for aircraft infrared signature prediction",
+"annee": 2019,
+"etablissement": "Aix-Marseille"
+},
+{
+"id": "2018AIXM0565",
+"titre": "Détection et caractérisation d'attributs géométriques sur les corps rocheux du système solaire",
+"titre_en": "Detection and characterization of geometric features on rocky surfaces on the solar system",
+"annee": 2018,
+"etablissement": "Aix-Marseille"
+},
+{
+"id": "2016AIXM4073",
+"titre": "Computational homology applied to discrete objects",
+"titre_en": "Computational homology applied to discrete objects",
+"annee": 2016,
+"etablissement": "Aix-Marseille"
+},
+{
+"id": "2016AIXM4007",
+"titre": "Reconstruction de réseaux routiers réalistes à partir de données SIG",
+"titre_en": "Automatic reconstruction of realistic road networks from GIS data",
+"annee": 2016,
+"etablissement": "Aix-Marseille"
+},
+{
+"id": "2015AIXM4084",
+"titre": "Analyse de maillages surfaciques par construction et comparaison de modèles moyens et par décomposition par graphes s'appuyant sur les courbures discrètes : application à l'étude de la cornée humaine",
+"titre_en": "Mesh surface analysis by construction and comparison of mean models and by decomposition into graphs based on discrete curvatures : application to the study of the human cornea",
+"annee": 2015,
+"etablissement": "Aix-Marseille"
+},
+{
+"id": "2014AIXM4056",
+"titre": "Modélisation dynamique et suivi de tumeur dans le volume rénal",
+"titre_en": "Dynamic modeling and tumor tracking for the kidney",
+"annee": 2014,
+"etablissement": "Aix-Marseille"
+}
+],
+"hors_ig": 0,
+"en_preparation": 2,
+"debut": 2011,
+"fin": 2026
+},
+"LTCI/IMAGES": {
+"soutenues": [
+{
+"id": "2024IPPAT023",
+"titre": "Réduction de dimension pour la simulation et l'animation de fluides",
+"titre_en": "Dimension reduction for fluid simulation and animation",
+"annee": 2024,
+"etablissement": "Institut polytechnique de Paris"
+},
+{
+"id": "2024IPPAT044",
+"titre": "Édition d'Attributs d'Images et Rendu de Grain Argentique à l'aide de Réseaux de Neurones Profonds",
+"titre_en": "Image Attribute Editing and Film Grain Rendering using Deep Neural Networks",
+"annee": 2024,
+"etablissement": "Institut polytechnique de Paris"
+},
+{
+"id": "2023IPPAT045",
+"titre": "Réseaux génératifs et contraintes physiques pour la synthèse d'images de nuages et de texture",
+"titre_en": "Physically constrained generative networks for cloud and texture synthesis",
+"annee": 2023,
+"etablissement": "Institut polytechnique de Paris"
+},
+{
+"id": "2021IPPAT011",
+"titre": "Méthodes de diagnostic assisté par ordinateur pour le dépistage du cancer du col de l’utérus sur lames de frottis vaginal en milieu liquide basées sur les réseaux de neurones à convolutions : conception, optimisation et interprétabilité",
+"titre_en": "Computer-aided diagnosis methods for cervical cancer screening on liquid-based Pap smears using convolutional neural networks : design, optimization and interpretability",
+"annee": 2021,
+"etablissement": "Institut polytechnique de Paris"
+},
+{
+"id": "2021UPASG024",
+"titre": "Transfert d'apprentissage de réseaux de neurones à convolution pour la synthèse de texture et la reconnaissance visuelle d'images artistiques",
+"titre_en": "Transfer learning of convolutional neural networks for texture synthesis and visual recognition in artistic images",
+"annee": 2021,
+"etablissement": "université Paris-Saclay"
+},
+{
+"id": "2018ENST0020",
+"titre": "Fusion d'images par patchs pour la photographie computationnelle",
+"titre_en": "Patch-Based image fusion for computational photography",
+"annee": 2018,
+"etablissement": "Paris, ENST"
+},
+{
+"id": "2014ENST0016",
+"titre": "Méthodes robustes pour l'estimation d'illuminants et la prise en compte de la couleur en comparaison d'images",
+"titre_en": "Robust methods for illuminant estimation and color image matching",
+"annee": 2014,
+"etablissement": "Paris, ENST"
+},
+{
+"id": "2011ENST0033",
+"titre": "Méthodes géométriques pour l'analyse d'images et de textures",
+"titre_en": "Some geometric methods for the analysis of images and textures",
+"annee": 2011,
+"etablissement": "Paris, Télécom ParisTech"
+}
+],
+"hors_ig": 8,
+"en_preparation": 9,
+"debut": 2011,
+"fin": 2026
+},
+"XLIM/IG": {
+"soutenues": [
+{
+"id": "2026LIMO0042",
+"titre": "Gestion automatique de caméras pour la visualisation moléculaire",
+"titre_en": "Automated camera control for molecular visualisation",
+"annee": 2026,
+"etablissement": "Limoges"
+},
+{
+"id": "2025POIT2287",
+"titre": "Extension, parallélisation et optimisation du langage de JERBOA pour la modélisation géométrique procédurale",
+"titre_en": "Extension, parallelization and optimization of the JERBOA language for procedural geometric modeling",
+"annee": 2025,
+"etablissement": "Poitiers"
+},
+{
+"id": "2025POIT2276",
+"titre": "Extraction par analyse topologique sur les G-cartes de caractéristiques pour les systèmes d'apprentissage supervisé appliqués à l'arbre vasculaire cérébral",
+"titre_en": "Extraction and topological analysis on g-maps of features for supervised learning systems applied to the cerebral vascular tree",
+"annee": 2025,
+"etablissement": "Poitiers"
+},
+{
+"id": "2024LIMO0075",
+"titre": "Construction efficace de géométrie pour l'analyse structurelle de grands systèmes moléculaires",
+"titre_en": "Efficient computation of geometry for structural analysis of large molecular systems",
+"annee": 2024,
+"etablissement": "Limoges"
+},
+{
+"id": "2024ESMA0026",
+"titre": "Modélisation et rejeu basés sur des règles",
+"titre_en": "Rule-Based Modelling and Reevaluation",
+"annee": 2024,
+"etablissement": "Chasseneuil-du-Poitou, Ecole nationale supérieure de mécanique et d'aérotechnique"
+},
+{
+"id": "s341568",
+"titre": "Visualisation multimodale anatomiques et métaboliques de données IRM et de simulation de propagation de front tumoral",
+"titre_en": "",
+"annee": 2024,
+"etablissement": "Poitiers"
+},
+{
+"id": "2023POIT2285",
+"titre": "Reconstructions 3D tissulaires basées sur le métabolisme sous-jacent exploré en spectroscopie par résonance magnétique multi-noyaux",
+"titre_en": "3D tissue reconstructions based on underlying metabolism explored by multi-nucleus magnetic resonance spectroscopy",
+"annee": 2023,
+"etablissement": "Poitiers"
+},
+{
+"id": "2023POIT2301",
+"titre": "Représentations géométriques de détails fins pour la simulation d'éclairage",
+"titre_en": "Geometric representations of fine details for lighting simulation",
+"annee": 2023,
+"etablissement": "Poitiers"
+},
+{
+"id": "2022POIT2253",
+"titre": "Calcul incrémental des groupes d'homologie d'un objet au cours d'un processus de construction",
+"titre_en": "Local computation of homology variations over a construction process",
+"annee": 2022,
+"etablissement": "Poitiers"
+},
+{
+"id": "2022UPAST146",
+"titre": "Inference of graph transformation rules for the design of geometric modeling operations",
+"titre_en": "Inférence de règles de transformations de graphe pour la conception d'opérations de modélisation géométrique",
+"annee": 2022,
+"etablissement": "université Paris-Saclay"
+},
+{
+"id": "2021POIT2287",
+"titre": "Outils pour le contôle de simulation de fluide en informatique graphique",
+"titre_en": "Tools for Fluid Simulation Control in Computer Graphics",
+"annee": 2021,
+"etablissement": "Poitiers"
+},
+{
+"id": "2019POIT2252",
+"titre": "Développement d'un langage de programmation dédié à la modélisation géométrique à base topologique, application à la reconstruction de modèles géologiques 3D",
+"titre_en": "Development of a programming language dedicated to geometrical modeling based on topology, application to 3D geological model reconstruction",
+"annee": 2019,
+"etablissement": "Poitiers"
+},
+{
+"id": "2019POIT2262",
+"titre": "Nouvelle architecture et algorithmes de compression pour les applications immersives basées sur la vidéo 360",
+"titre_en": "Novel architecture and compression algorithms towards 360 video based immersive applications",
+"annee": 2019,
+"etablissement": "Poitiers"
+},
+{
+"id": "2019POIT2254",
+"titre": "Rejeu basé sur des règles de transformation de graphes",
+"titre_en": "Reevaluation based on graph transformation rules",
+"annee": 2019,
+"etablissement": "Poitiers"
+},
+{
+"id": "2018POIT2293",
+"titre": "Modélisation et simulation à base de règles pour la simulation physique",
+"titre_en": "Rule-based modeling and simulation for physical animation",
+"annee": 2018,
+"etablissement": "Poitiers"
+},
+{
+"id": "2017POIT2296",
+"titre": "Simulation et rendu de vagues déferlantes",
+"titre_en": "Simulation and rendering of breaking waves",
+"annee": 2017,
+"etablissement": "Poitiers"
+},
+{
+"id": "2016POIT2292",
+"titre": "Partition spatiale contrainte et convexe pour la simulation basée rayons",
+"titre_en": "Constrained convex space partition for ray-based simulation",
+"annee": 2016,
+"etablissement": "Poitiers"
+},
+{
+"id": "2016POIT2273",
+"titre": "Étude de l'apparence physique de surfaces opaques, analyse photométrique et reconstruction 3D",
+"titre_en": "Study of opaque surface physical appearance, photometric analysis and 3D reconstruction",
+"annee": 2016,
+"etablissement": "Poitiers"
+},
+{
+"id": "2014POIT2307",
+"titre": "Reconnaissance de primitives discrètes multi-échelles",
+"titre_en": "Multi-scale discrete primitives recognition",
+"annee": 2014,
+"etablissement": "Poitiers"
+},
+{
+"id": "2013LIMO4024",
+"titre": "Simulation d’évolution topologique : cas de l’interaction fluide/solide",
+"titre_en": "Simulation of topological evolution : case of fluid / solid interaction",
+"annee": 2013,
+"etablissement": "Limoges"
+},
+{
+"id": "2012POIT2262",
+"titre": "Généralisation à dimension 4 des méthodes pour manipuler des images numériques binaires",
+"titre_en": "Extracting cell complexes from 4-dimensional digital images",
+"annee": 2012,
+"etablissement": "Poitiers"
+},
+{
+"id": "2012POIT2304",
+"titre": "Lobes de cosinus et visibilité pour la simulation d'éclairage",
+"titre_en": "Cosine lobes and visibility for lighting simulation",
+"annee": 2012,
+"etablissement": "Poitiers"
+},
+{
+"id": "2012POIT2261",
+"titre": "Transformations de graphes pour la modélisation géométrique à base topologique",
+"titre_en": "Graph transformations for topology-based geometric modelling",
+"annee": 2012,
+"etablissement": "Poitiers"
+},
+{
+"id": "2011POIT2296",
+"titre": "Décomposition des rotations nD et arithmétisation des cercles",
+"titre_en": "Decomposition of nD rotations and circle arithmetization",
+"annee": 2011,
+"etablissement": "Poitiers"
+},
+{
+"id": "2011POIT2304",
+"titre": "Redimensionnement adaptatif et reconnaissance de primitives discrètes",
+"titre_en": "Adaptive resizing and discrete primitive recognition",
+"annee": 2011,
+"etablissement": "Poitiers"
+},
+{
+"id": "2011POIT2260",
+"titre": "Segmentation 3D d'images scintigraphiques et simulations très réalistes GATE",
+"titre_en": "3D augmentation of scintigraphic images with validation on realistic GATE simulations",
+"annee": 2011,
+"etablissement": "Poitiers"
+}
+],
+"hors_ig": 3,
+"en_preparation": 14,
+"debut": 2011,
+"fin": 2026
+},
+"XLIM/SIR": {
+"soutenues": [
+{
+"id": "2026LIMO0042",
+"titre": "Gestion automatique de caméras pour la visualisation moléculaire",
+"titre_en": "Automated camera control for molecular visualisation",
+"annee": 2026,
+"etablissement": "Limoges"
+},
+{
+"id": "2025LIMO0093",
+"titre": "Simulations dynamiques basées sur des triangulations de Delaunay en 3D",
+"titre_en": "Dynamic simulations based on 3D Delaunay Triangulations",
+"annee": 2025,
+"etablissement": "Limoges"
+},
+{
+"id": "2024LIMO0075",
+"titre": "Construction efficace de géométrie pour l'analyse structurelle de grands systèmes moléculaires",
+"titre_en": "Efficient computation of geometry for structural analysis of large molecular systems",
+"annee": 2024,
+"etablissement": "Limoges"
+},
+{
+"id": "2023LIMO0006",
+"titre": "L'acquisition simultanée de la géométrie et de la réflectance",
+"titre_en": "Simultaneous acquisition of geometry and reflectance",
+"annee": 2023,
+"etablissement": "Limoges"
+},
+{
+"id": "2022LIMO0016",
+"titre": "Simulation de changements d’apparence via hydrodynamique des particules lissées",
+"titre_en": "Simulating changes in appearence using smooth particle hydrodynamics",
+"annee": 2022,
+"etablissement": "Limoges"
+},
+{
+"id": "s218375",
+"titre": "Impact de la réalité virtuelle  sur la formation à distance",
+"titre_en": "Impact of the virtual reality and augmented reality on elearning",
+"annee": 2021,
+"etablissement": "Limoges"
+},
+{
+"id": "2021LIMO0035",
+"titre": "Impact de la réalité virtuelle sur la formation à distance",
+"titre_en": "Impact of virtual reality on distance learning",
+"annee": 2021,
+"etablissement": "Limoges"
+},
+{
+"id": "2020LIMO0010",
+"titre": "Gestion interactive des connaissances visuelles pour la prise de décision et le classement multicritères dans des environnements de données ouvertes liés",
+"titre_en": "Visual interactive knowledge management for multicriteria decision making and ranking in linked open data environments",
+"annee": 2020,
+"etablissement": "Limoges"
+},
+{
+"id": "2019LIMO0070",
+"titre": "Rendu basé physique de micro-reflets",
+"titre_en": "Physically based rendering of glint",
+"annee": 2019,
+"etablissement": "Limoges"
+},
+{
+"id": "2019LIMO0066",
+"titre": "Volumes d'ombre en rendu temps réel : Complexité géométrique et stratégie de partitionnement",
+"titre_en": "Geometric complexity and partitioning strategy for real-time Shadow Volumes",
+"annee": 2019,
+"etablissement": "Limoges"
+},
+{
+"id": "2018LIMO0101",
+"titre": "Acquisition et rendu 3D réaliste à partir de périphériques \"grand public\"",
+"titre_en": "Capture and Realistic 3D rendering from consumer grade devices",
+"annee": 2018,
+"etablissement": "Limoges"
+},
+{
+"id": "2018LIMO0024",
+"titre": "Simulations de fluides complexes à l'échelle mésoscopique sur GPU",
+"titre_en": "Complex fluid simulations at mesoscopic scale on GPU",
+"annee": 2018,
+"etablissement": "Limoges"
+},
+{
+"id": "2017LIMO0089",
+"titre": "Interactive weathering for realistic image synthesis of urban environments",
+"titre_en": "Vieillissement interactif pour la synthèse d'image réaliste des environnements urbains",
+"annee": 2017,
+"etablissement": "Limoges"
+},
+{
+"id": "2017LIMO0083",
+"titre": "Partition de volumes d'ombres : une alternative pour le rendu d’ombres en temps réel",
+"titre_en": "Partitioned shadow volumes : an alternative for real-time shadow rendering",
+"annee": 2017,
+"etablissement": "Limoges"
+},
+{
+"id": "2015LIMO0110",
+"titre": "Génération de détails dans les mondes procéduraux",
+"titre_en": "Details modeling in procedural worlds",
+"annee": 2015,
+"etablissement": "Limoges"
+},
+{
+"id": "2015LIMO0070",
+"titre": "Modélisation de fruits, de leur structure interne et de leurs défauts",
+"titre_en": "Modeling fruits, their internal structure and their defects",
+"annee": 2015,
+"etablissement": "Limoges"
+},
+{
+"id": "2014LIMO4011",
+"titre": "Systèmes d'aide à l'évaluation à base de visualisation interactive de graphes. Applications à l'évaluation des systèmes et des institutions éducatives",
+"titre_en": "Evaluation Support Systems based on interactive visualization of graphs. Applications to the evaluation of educational systems and institutions",
+"annee": 2014,
+"etablissement": "Limoges"
+},
+{
+"id": "2013LIMO4024",
+"titre": "Simulation d’évolution topologique : cas de l’interaction fluide/solide",
+"titre_en": "Simulation of topological evolution : case of fluid / solid interaction",
+"annee": 2013,
+"etablissement": "Limoges"
+},
+{
+"id": "2012LIMO4017",
+"titre": "Analytic visibility in Plücker space : from theory to practical applications",
+"titre_en": "Visibilité analytique dans l’espace de Plücker : de la théorie aux applications pratiques",
+"annee": 2012,
+"etablissement": "Limoges"
+},
+{
+"id": "2012LIMO4038",
+"titre": "Utilisation de techniques d'imagerie de synthèse pour le calcul de la propagation des champs électromagnétiques",
+"titre_en": "Use of image synthesis techniques for the calculation of electromagnetic wave propagation",
+"annee": 2012,
+"etablissement": "Limoges"
+},
+{
+"id": "2011LIMO4030",
+"titre": "Modélisation, simulation et visualisation de détails dans les scènes naturelles réalistes",
+"titre_en": "Modeling, simulation and visualization of details in the realistic natural sceneries",
+"annee": 2011,
+"etablissement": "Limoges"
+}
+],
+"hors_ig": 0,
+"en_preparation": 3,
+"debut": 2011,
+"fin": 2026
+},
+"LORIA/MFX": {
+"soutenues": [
+{
+"id": "2026ISAR0001",
+"titre": "Fabrication additive de dispositifs de détection déformables pour l’interaction humain–machine et leur personnalisation dans l’espace de fabrication en couches",
+"titre_en": "Additive Manufacturing of Deformable Sensing Devices for Human-Machine Interaction and their Customization in the Layered Fabrication Space",
+"annee": 2026,
+"etablissement": "Rennes, INSA"
+},
+{
+"id": "2026LORR0056",
+"titre": "Optimisation structurelle sous l’effet de la gravité pour la fabrication additive par extrusion : modélisation et optimisation directe des trajectoires de dépôt",
+"titre_en": "Structural Optimization under Self-Weight for Extrusion-Based Additive Manufacturing : a Path-Oriented Modeling and Optimization Framework",
+"annee": 2026,
+"etablissement": "Université de Lorraine"
+},
+{
+"id": "2024LORR0073",
+"titre": "Problèmes d'agencement sous contraintes topologiques pour la fabrication computationnelle",
+"titre_en": "Layout problems under topological constraints for computational fabrication",
+"annee": 2024,
+"etablissement": "Université de Lorraine"
+},
+{
+"id": "2023LORR0336",
+"titre": "Modélisation par surface implicite pour la fabrication additive",
+"titre_en": "Implicit modeling for additive manufacturing",
+"annee": 2023,
+"etablissement": "Université de Lorraine"
+},
+{
+"id": "2022LORR0065",
+"titre": "Bruits procéduraux pour la conception de micro-structures en fabrication additive",
+"titre_en": "Procedural noises for the design of small-scale structures in Additive Manufacturing",
+"annee": 2022,
+"etablissement": "Université de Lorraine"
+},
+{
+"id": "2022LORR0046",
+"titre": "Croissance paramétrée et bruit procédural pour la conception de métamatériaux mécaniques.",
+"titre_en": "Parametrized growth and procedural noise for mechanical metamaterial design.",
+"annee": 2022,
+"etablissement": "Université de Lorraine"
+},
+{
+"id": "2022LORR0284",
+"titre": "Tranchage courbe pour la fabrication additive",
+"titre_en": "Curved slicing for additive manufacturing",
+"annee": 2022,
+"etablissement": "Université de Lorraine"
+},
+{
+"id": "2018LORR0021",
+"titre": "Maillages hex-dominants : génération, simulation et évaluation",
+"titre_en": "Hex-dominant meshes : generation, simulation and evaluation",
+"annee": 2018,
+"etablissement": "Université de Lorraine"
+},
+{
+"id": "2017LORR0008",
+"titre": "Synthèse de formes contrôlable pour la fabrication digitale",
+"titre_en": "Controllable shape synthesis for digital fabrication",
+"annee": 2017,
+"etablissement": "Université de Lorraine"
+},
+{
+"id": "2017LORR0003",
+"titre": "Synthèse de formes fabricables à partir de spécifications partielles",
+"titre_en": "Synthesis of fabricable shape from partial specifications",
+"annee": 2017,
+"etablissement": "Université de Lorraine"
+},
+{
+"id": "2012LORR0183",
+"titre": "Exploration et rendu de textures synthétisées",
+"titre_en": "Exploring and rendering synthesized textures",
+"annee": 2012,
+"etablissement": "Université de Lorraine"
+},
+{
+"id": "s188422",
+"titre": "Exploration et rendu de textures synthétisées. Exploring and rendering synthesized textures",
+"titre_en": "",
+"annee": 2012,
+"etablissement": "Université de Lorraine"
+}
+],
+"hors_ig": 0,
+"en_preparation": 3,
+"debut": 2011,
+"fin": 2026
+},
+"LORIA/PIXEL": {
+"soutenues": [
+{
+"id": "2024LORR0216",
+"titre": "Champs de repères 2,5D pour la génération de maillages hexaédriques",
+"titre_en": "2.5D Frame Fields for Hexahedral Meshing",
+"annee": 2024,
+"etablissement": "Université de Lorraine"
+},
+{
+"id": "2023LORR0273",
+"titre": "Algorithmes de paramétrisation globale pour maillages quadrilatéraux",
+"titre_en": "Global Parametrization Algorithms for Quadmeshing",
+"annee": 2023,
+"etablissement": "Université de Lorraine"
+},
+{
+"id": "2023LORR0163",
+"titre": "Génération de maillages hexaédriques pour des simulations de grandes déformations",
+"titre_en": "Generation of hexahedral meshes for large deformation simulations",
+"annee": 2023,
+"etablissement": "Université de Lorraine"
+},
+{
+"id": "2023IPPAX004",
+"titre": "Représentations robustes pour la mise en correspondence de formes 3D via apprentissage supervisé et non-supervisé",
+"titre_en": "Robust representations for supervised and unsupervised 3D shape matching",
+"annee": 2023,
+"etablissement": "Institut polytechnique de Paris"
+},
+{
+"id": "2022LORR0144",
+"titre": "Maillage à dominante Polycube",
+"titre_en": "Polycube-dominant meshing",
+"annee": 2022,
+"etablissement": "Université de Lorraine"
+},
+{
+"id": "2022LORR0241",
+"titre": "Reconnaissance de bâtiments à partir de nuages de points 3D",
+"titre_en": "Buildings recognition from 3D point clouds",
+"annee": 2022,
+"etablissement": "Université de Lorraine"
+},
+{
+"id": "2021LORR0247",
+"titre": "Diagrammes de Voronoï et surfaces évolutives",
+"titre_en": "Voronoi diagrams and evolving surfaces",
+"annee": 2021,
+"etablissement": "Université de Lorraine"
+},
+{
+"id": "2013DIJOS062",
+"titre": "Espaces tangents pour les formes auto-similaires",
+"titre_en": "Tangent spaces for self-similair shapes",
+"annee": 2013,
+"etablissement": "Dijon"
+}
+],
+"hors_ig": 0,
+"en_preparation": 1,
+"debut": 2011,
+"fin": 2026
+},
+"LaBRI/Manao": {
+"soutenues": [
+{
+"id": "2025BORD0445",
+"titre": "Modélisation conséquentielle et territoriale de l’empreinte carbone d’équipements numériques pour l’agriculture et du réseau mobile associé",
+"titre_en": "Consequential and territorial modelling of the carbon footprint of digital devices and their use of the mobile network for agriculture",
+"annee": 2025,
+"etablissement": "Bordeaux"
+},
+{
+"id": "2024BORD0457",
+"titre": "Animation 2D esquissée assistée par ordinateur",
+"titre_en": "Computer-assisted rough 2D animation",
+"annee": 2024,
+"etablissement": "Bordeaux"
+},
+{
+"id": "2024BORD0362",
+"titre": "Le formalisme des micrograins pour le rendu de matériaux poreux",
+"titre_en": "A micrograin formalism for the rendering of porous materials",
+"annee": 2024,
+"etablissement": "Bordeaux"
+},
+{
+"id": "2024BORD0459",
+"titre": "Modélisation et rendu spectraux efficaces de matériaux iridescents : de la photonique à l'Informatique graphique",
+"titre_en": "Efficient spectral modeling and rendering of Iridescent materials : from photonics to computer graphics",
+"annee": 2024,
+"etablissement": "Bordeaux"
+},
+{
+"id": "2021BORD0396",
+"titre": "Design inverse de l'apparence de matériaux multicouches",
+"titre_en": "Inverse design of layered material appearance",
+"annee": 2021,
+"etablissement": "Bordeaux"
+},
+{
+"id": "2021BORD0235",
+"titre": "Déformations géométriques indépendantes du temps pour les contacts élastiques",
+"titre_en": "Time-independent geometrical deformation for elastic contacts",
+"annee": 2021,
+"etablissement": "Bordeaux"
+},
+{
+"id": "2020BORD0012",
+"titre": "Acquisition opto-numérique de vêtements asiatiques anciens",
+"titre_en": "Optical digital acquisition of ancient clothing collections",
+"annee": 2020,
+"etablissement": "Bordeaux"
+},
+{
+"id": "2019BORD0366",
+"titre": "Outils optiques et logiciels pour la conception d’un nouvel écran 3D transparent.",
+"titre_en": "Optical and software tools for the design of a new transparent 3D display.",
+"annee": 2019,
+"etablissement": "Bordeaux"
+},
+{
+"id": "2018BORD0009",
+"titre": "Outils de conception en optique paraxiale pour les systèmes d'imagerie plénoptique",
+"titre_en": "Tools for the paraxial optical design of light field imaging systems",
+"annee": 2018,
+"etablissement": "Bordeaux"
+},
+{
+"id": "2017BORD0948",
+"titre": "Rendu de niveaux de détails avec la Tessellation Matérielle",
+"titre_en": "Level-Of-Details Rendering with Hardware Tessellation",
+"annee": 2017,
+"etablissement": "Bordeaux"
+},
+{
+"id": "2016TOU30175",
+"titre": "Etude des modèles de composition de fonctions de champ scalaire en informatique graphique",
+"titre_en": "Study of the composition models of field functions in computer graphics",
+"annee": 2016,
+"etablissement": "Toulouse 3"
+},
+{
+"id": "2016BORD0178",
+"titre": "Manipulation 2D en temps réel d'une apparence 3D plausible en utilisant les buffer d'ombrage et de géométrie",
+"titre_en": "Real-time 2D manipulation of plausible 3D appearance using shading and geometry buffers",
+"annee": 2016,
+"etablissement": "Bordeaux"
+},
+{
+"id": "2016BORD0149",
+"titre": "Techniques d’interaction, affichage personnalisé et reconstruction de surfaces pour la réalité augmentée spatiale",
+"titre_en": "Interaction techniques, personalized experience and surface reconstruction for spatial augmented reality",
+"annee": 2016,
+"etablissement": "Bordeaux"
+},
+{
+"id": "2014BORD0001",
+"titre": "Echantillonage d'importance des sources de lumières réalistes",
+"titre_en": "Importance Sampling of Realistic Light Sources",
+"annee": 2014,
+"etablissement": "Bordeaux"
+},
+{
+"id": "2012BOR14685",
+"titre": "Analysis of 3D objects at multiple scales : application to shape matching",
+"titre_en": "Analysis of 3D objects at multiple scales : application to shape matching",
+"annee": 2012,
+"etablissement": "Bordeaux 1"
+},
+{
+"id": "2012BOR14688",
+"titre": "Représentation hybride pour la modélisation géométrique interactive",
+"titre_en": "Hybrid representation for interactive geometric modeling",
+"annee": 2012,
+"etablissement": "Bordeaux 1"
+},
+{
+"id": "2012BOR14560",
+"titre": "Structure d'une image : de la réalité augmentée à la stylisation",
+"titre_en": "Image structures : from augmented reality to image stylization",
+"annee": 2012,
+"etablissement": "Bordeaux 1"
+}
+],
+"hors_ig": 0,
+"en_preparation": 5,
+"debut": 2011,
+"fin": 2026
+},
+"LISIC/SEPIA": {
+"soutenues": [
+{
+"id": "2024DUNK0730",
+"titre": "Modélisation et rendu des verres anciens pour les restitutions historiques",
+"titre_en": "modeling and rendering of antique glass for virtual tours of heritage sites",
+"annee": 2024,
+"etablissement": "Littoral"
+},
+{
+"id": "2024DUNK0704",
+"titre": "Prise en compte de l’esthétique dans la gestion des gammes de luminance des images",
+"titre_en": "Taking aesthetics into account in managing the dynamic ranges of images",
+"annee": 2024,
+"etablissement": "Littoral"
+},
+{
+"id": "2023URENS015",
+"titre": "Améliorer la qualité d'images grâce à l'imagerie à grande gamme dynamique et à l'évaluation d'esthétique",
+"titre_en": "Improving image quality using high dynamic range and aesthetics assessment",
+"annee": 2023,
+"etablissement": "Université de Rennes (2023-....)"
+},
+{
+"id": "2021DUNK0606",
+"titre": "Méthodes d’apprentissage automatique pour la prise en compte du bruit dans les images de synthèse",
+"titre_en": "Machine learning methods for taking into consideration noise in computer generated images",
+"annee": 2021,
+"etablissement": "Littoral"
+},
+{
+"id": "2021REN1S022",
+"titre": "Rendu de nuage de points 3D HDR",
+"titre_en": "Rendering of HDR 3D point clouds",
+"annee": 2021,
+"etablissement": "Rennes 1"
+},
+{
+"id": "2019REN1S034",
+"titre": "Estimation de la qualité d’image High Dynamic Range et Wide Color Gamut",
+"titre_en": "Image quality assessment of High Dynamic Range and Wide Color Gamut images",
+"annee": 2019,
+"etablissement": "Rennes 1"
+},
+{
+"id": "2017REN1S061",
+"titre": "Méthodes de display retargeting basées sur l'intention artistique et les caractéristiques perceptuelles",
+"titre_en": "Combining aesthetics and perception for display retargeting",
+"annee": 2017,
+"etablissement": "Rennes 1"
+},
+{
+"id": "2017REN1S119",
+"titre": "Édition d'image guidée par exemple",
+"titre_en": "Example-guided image editing",
+"annee": 2017,
+"etablissement": "Rennes 1"
+},
+{
+"id": "2016REN1S070",
+"titre": "Illumination active pour l'acquisition d'images à haute fréquence et reconstruction phométrique de l'apparence et de la forme",
+"titre_en": "Active illumination for high speed image acquisition and recovery of shape and albedo",
+"annee": 2016,
+"etablissement": "Rennes 1"
+},
+{
+"id": "2015DUNK0393",
+"titre": "Parallélisation de simulations physiques utilisant un modéle de Boltzmann mullti-phases et multi-composants en vue d'un épandage de GNL sur sol",
+"titre_en": "Parallelisation of physical simulations using Boltzmann method multiphase and multicomponent with the aim of manuring GNL on ground",
+"annee": 2015,
+"etablissement": "Littoral"
+},
+{
+"id": "2015REN1S059",
+"titre": "Vers plus de réalisme et de robustesse en simulation de l’éclairage global",
+"titre_en": "Toward more realism and robustness in global illumination",
+"annee": 2015,
+"etablissement": "Rennes 1"
+},
+{
+"id": "2014REN1S060",
+"titre": "Influence de la cohérence temporelle dans les techniques de Vidéo Tone Mapping",
+"titre_en": "Temporal coherency in video tone mapping",
+"annee": 2014,
+"etablissement": "Rennes 1"
+}
+],
+"hors_ig": 1,
+"en_preparation": 3,
+"debut": 2011,
+"fin": 2026
+},
+"Inria/GraphDeco": {
+"soutenues": [
+{
+"id": "2026COAZ4025",
+"titre": "Génération physiquement guidée de terrains numériques",
+"titre_en": "Physically guided generation of digital terrains",
+"annee": 2026,
+"etablissement": "Université Côte d'Azur"
+},
+{
+"id": "2025UPASG034",
+"titre": "Au-delà du dessin statique : augmenter le vocabulaire visuel des designers en enseignement et présentation",
+"titre_en": "Beyond the Static Sketch : Augmenting Designers' Visual Vocabulary for Teaching and Presentation",
+"annee": 2025,
+"etablissement": "université Paris-Saclay"
+},
+{
+"id": "2025COAZ4035",
+"titre": "Synthèse de vues nouvelles à partir de données multi-vues et multi-éclairages incomplètes",
+"titre_en": "Novel view synthesis from incomplete multi-view and multi-illumination data",
+"annee": 2025,
+"etablissement": "Université Côte d'Azur"
+},
+{
+"id": "2024COAZ4054",
+"titre": "Simulation rapide d'interactions vent-obstacle. Application à la modélisation de paysages désertiques et à la conception de voiture",
+"titre_en": "Fast simulation of wind-obstacle interactions. Applications to desertscape modeling and car design",
+"annee": 2024,
+"etablissement": "Université Côte d'Azur"
+},
+{
+"id": "2023COAZ4114",
+"titre": "Conception d'outils de création de contenu 3D basés sur le dessin 3D",
+"titre_en": "Designing tools for 3D content authoring based on 3D sketching",
+"annee": 2023,
+"etablissement": "Université Côte d'Azur"
+},
+{
+"id": "2023COAZ4093",
+"titre": "Représentations basées sur des points pour une nouvelle synthèse de vues",
+"titre_en": "Point based representations for novel view synthesis",
+"annee": 2023,
+"etablissement": "Université Côte d'Azur"
+},
+{
+"id": "2022COAZ4041",
+"titre": "Apprentissage de champs de radiance : de l'éclairage global aux modèles génératifs",
+"titre_en": "Learning radiance fields : from global illumination to generative models",
+"annee": 2022,
+"etablissement": "Université Côte d'Azur"
+},
+{
+"id": "2022COAZ4008",
+"titre": "Conception numérique de textiles auto-déployables",
+"titre_en": "Computational design of self-shaping textiles",
+"annee": 2022,
+"etablissement": "Université Côte d'Azur"
+},
+{
+"id": "2022COAZ4081",
+"titre": "Optimisation binaire pour l'analyse et la synthèse de croquis de design",
+"titre_en": "Binary optimization for the analysis and synthesis of concept sketches",
+"annee": 2022,
+"etablissement": "Université Côte d'Azur"
+},
+{
+"id": "2022COAZ4102",
+"titre": "Utilisation de l'apparence pour le rendu et l'édition efficaces de scènes capturées",
+"titre_en": "Using appearance to efficiently render and edit captured scenes",
+"annee": 2022,
+"etablissement": "Université Côte d'Azur"
+},
+{
+"id": "2020COAZ4038",
+"titre": "Méthodes basées image pour le rendu d’effets dépendants du point de vue dans les scènes réelles et synthétiques",
+"titre_en": "Image-based methods for view-dependent effects in real and synthetic scenes",
+"annee": 2020,
+"etablissement": "Université Côte d'Azur"
+},
+{
+"id": "2020COAZ4048",
+"titre": "Édition et rendu à base d’images multi-vues par apprentissage profond et optimisation",
+"titre_en": "Multi-view image-based editing and rendering through deep learning and optimization",
+"annee": 2020,
+"etablissement": "Université Côte d'Azur"
+},
+{
+"id": "2019AZUR4078",
+"titre": "Acquisition légère de matériaux par apprentissage profond",
+"titre_en": "Lightweight material acquisition using deep learning",
+"annee": 2019,
+"etablissement": "Université Côte d'Azur (ComUE)"
+},
+{
+"id": "2019AZUR4047",
+"titre": "Complétion d'image, segmentation et mixture de vidéos dans un contexte multi-vue, pour un rendu basé image plus polyvalent",
+"titre_en": "Multi-view inpainting, segmentation and video blending, for more versatile Image Based Rendering",
+"annee": 2019,
+"etablissement": "Université Côte d'Azur (ComUE)"
+},
+{
+"id": "2019AZUR4036",
+"titre": "Interprétation et génération de représentations artistiques : applications à la modélisation par le dessin et à la stylisation de vidéos",
+"titre_en": "Interpreting and generating artistic depictions : applications to sketch-based modeling and video stylization",
+"annee": 2019,
+"etablissement": "Université Côte d'Azur (ComUE)"
+},
+{
+"id": "2017AZUR4004",
+"titre": "Amélioration de la vitesse et de la qualité d'image du rendu basé image",
+"titre_en": "Improving speed and image quality of image-based rendering",
+"annee": 2017,
+"etablissement": "Université Côte d'Azur (ComUE)"
+},
+{
+"id": "2015NICE4019",
+"titre": "Décomposition intrinsèque multi vue et ré-éclairage",
+"titre_en": "Multi view delighting and relighting",
+"annee": 2015,
+"etablissement": "Nice"
+},
+{
+"id": "2015NICE4064",
+"titre": "Outils de dessin informatique pour les débutants, les passionnés et les professionnels",
+"titre_en": "Computer drawing tools for assisting learners, hobbyists, and professionals",
+"annee": 2015,
+"etablissement": "Nice"
+},
+{
+"id": "2014NICE4005",
+"titre": "Algorithmes et analyses perceptuelles pour la navigation interactive basée image",
+"titre_en": "Algorithms and perceptual analysis for interactive free viewpoint image-based navigation",
+"annee": 2014,
+"etablissement": "Nice"
+},
+{
+"id": "2014NICE4072",
+"titre": "Gestes et manipulation directe pour la réalité virtuelle immersive",
+"titre_en": "Gestures and direct manipulation for immersive virtual reality",
+"annee": 2014,
+"etablissement": "Nice"
+},
+{
+"id": "2012NICE4060",
+"titre": "Décomposition en images intrinsèques à partir de plusieurs photographies",
+"titre_en": "Intrinsic image decomposition from multiple photographs",
+"annee": 2012,
+"etablissement": "Nice"
+},
+{
+"id": "2011NICE4017",
+"titre": "Remodélisation et re-éclairage pour la création et manipulation de contenu interactif",
+"titre_en": "Reshape and relighting for interactive content creation anf manipulation",
+"annee": 2011,
+"etablissement": "Nice"
+}
+],
+"hors_ig": 0,
+"en_preparation": 9,
+"debut": 2011,
+"fin": 2026
+},
+"Inria/Titane": {
+"soutenues": [
+{
+"id": "2026COAZ4001",
+"titre": "Compression progressive de nuages de points 3D pour les jumeaux numériques industriels",
+"titre_en": "Progressive compression of 3D point cloud for industrial digital twins",
+"annee": 2026,
+"etablissement": "Université Côte d'Azur"
+},
+{
+"id": "2026COAZ4008",
+"titre": "Représentations géométriques apprenables",
+"titre_en": "Learnable representations of geometry",
+"annee": 2026,
+"etablissement": "Université Côte d'Azur"
+},
+{
+"id": "2025GRALM021",
+"titre": "Design expérimental bayésien guidé par l'Inférence",
+"titre_en": "Inference driven Bayesian Experimental Design",
+"annee": 2025,
+"etablissement": "Université Grenoble Alpes"
+},
+{
+"id": "2025COAZ4028",
+"titre": "Modélisation géométrique de scènes urbaines avec le formalisme LOD2 à partir d'images satellites",
+"titre_en": "Geometric modeling of urban scenes with LOD2 formalism from satellite images",
+"annee": 2025,
+"etablissement": "Université Côte d'Azur"
+},
+{
+"id": "2024COAZ4002",
+"titre": "Reconstruction de formes à partir de nuages de points 3D",
+"titre_en": "Shape reconstruction from 3D point clouds",
+"annee": 2024,
+"etablissement": "Université Côte d'Azur"
+},
+{
+"id": "s314368",
+"titre": "Reconstruction de formes à partir de nuages de points 3D",
+"titre_en": "Shape reconstruction from 3D point clouds",
+"annee": 2024,
+"etablissement": "Université Côte d'Azur"
+},
+{
+"id": "2023COAZ4017",
+"titre": "Reconstruction progressive de formes à partir de nuages de points 3D",
+"titre_en": "Progressive shape reconstruction from raw 3D point clouds",
+"annee": 2023,
+"etablissement": "Université Côte d'Azur"
+},
+{
+"id": "2022COAZ4077",
+"titre": "Reconstruction et correction de modèles urbains à l'aide de structures de données cinétiques",
+"titre_en": "Reconstructing and repairing urban models with kinetic data structures",
+"annee": 2022,
+"etablissement": "Université Côte d'Azur"
+},
+{
+"id": "2022COAZ4035",
+"titre": "Simplification géométrique pour la simulation thermique radiative de satellites",
+"titre_en": "Geometric simplification for radiative thermal simulation of satellites",
+"annee": 2022,
+"etablissement": "Université Côte d'Azur"
+},
+{
+"id": "2021COAZ4061",
+"titre": "Approximation géométrique de scènes structurées à partir d'images",
+"titre_en": "Geometric approximation of structured scenes from images",
+"annee": 2021,
+"etablissement": "Université Côte d'Azur"
+},
+{
+"id": "2021COAZ4066",
+"titre": "Simplification planimétrique et chaînes lexicographiques pour la reconstruction 3D de scènes urbaines",
+"titre_en": "Planimetric simplification and lexicographic optimal chains for 3D urban scene reconstruction",
+"annee": 2021,
+"etablissement": "Université Côte d'Azur"
+},
+{
+"id": "2020COAZ4063",
+"titre": "Des images satellites aux cartes vectorielles",
+"titre_en": "From satellite images to vector maps",
+"annee": 2020,
+"etablissement": "Université Côte d'Azur"
+},
+{
+"id": "2020PESC2001",
+"titre": "Qualification géométrique de modèles 3D de bâtiments",
+"titre_en": "Semantic aware quality evaluation of 3D building models",
+"annee": 2020,
+"etablissement": "Paris Est"
+},
+{
+"id": "2019AZUR4002",
+"titre": "Modélisation géométrique à différent niveau de détails d'objets fabriqués par l'homme",
+"titre_en": "Geometric modeling of man-made objects at different level of details",
+"annee": 2019,
+"etablissement": "Université Côte d'Azur (ComUE)"
+},
+{
+"id": "2019AZUR4091",
+"titre": "Structures de données cinétiques pour la modélisation géométrique d’environnements urbains",
+"titre_en": "Kinetic data structures for the geometric modeling of urban environments",
+"annee": 2019,
+"etablissement": "Université Côte d'Azur (ComUE)"
+},
+{
+"id": "2018AZUR4004",
+"titre": "Vectorisation compacte d’images par approches stochastiques",
+"titre_en": "Compact image vectorization by stochastic approaches",
+"annee": 2018,
+"etablissement": "Université Côte d'Azur (ComUE)"
+},
+{
+"id": "2017AZUR4025",
+"titre": "Modélisation géométrique de scènes urbaines par imagerie satellitaire",
+"titre_en": "Geometric modeling of urban scenes from satellite imagery",
+"annee": 2017,
+"etablissement": "Université Côte d'Azur (ComUE)"
+},
+{
+"id": "2016AZUR4156",
+"titre": "Approximation robuste de surfaces avec garanties",
+"titre_en": "Robust shape approximation and mapping between surfaces",
+"annee": 2016,
+"etablissement": "Université Côte d'Azur (ComUE)"
+},
+{
+"id": "2015NICE4034",
+"titre": "Modélisation géométrique de scènes intérieures à partir de nuage de points",
+"titre_en": "Geometric modeling of indoor scenes from acquired point data",
+"annee": 2015,
+"etablissement": "Nice"
+},
+{
+"id": "2015NICE4024",
+"titre": "Reconstruction robuste de formes à partir de données imparfaites",
+"titre_en": "Robust shape reconstruction from defect-laden data",
+"annee": 2015,
+"etablissement": "Nice"
+},
+{
+"id": "2014NICE4083",
+"titre": "Tatouage 3D robuste",
+"titre_en": "Robust 3D watermarking",
+"annee": 2014,
+"etablissement": "Nice"
+},
+{
+"id": "2013NICE4078",
+"titre": "Modélisation de scènes urbaines à partir de données aériennes",
+"titre_en": "Urban scene modeling from airborne data",
+"annee": 2013,
+"etablissement": "Nice"
+},
+{
+"id": "2012NICE4112",
+"titre": "Génération de maillages quadrangulaires",
+"titre_en": "Quadrilateral mesh generation",
+"annee": 2012,
+"etablissement": "Nice"
+}
+],
+"hors_ig": 2,
+"en_preparation": 8,
+"debut": 2011,
+"fin": 2026
+},
+"Inria/AVIZ": {
+"soutenues": [
+{
+"id": "2026UPASG025",
+"titre": "Visualiser les valeurs sur plusieurs ordres de grandeur dans les budgets publics",
+"titre_en": "Visualizing Orders of Magnitude Values in Public Budgets",
+"annee": 2026,
+"etablissement": "université Paris-Saclay"
+},
+{
+"id": "2024UPASG042",
+"titre": "Encodage avec des Patterns : Un Espace de Conception et des Évaluations",
+"titre_en": "Encoding with Patterns : A Design Space and Evaluations",
+"annee": 2024,
+"etablissement": "université Paris-Saclay"
+},
+{
+"id": "2023UPASG006",
+"titre": "Visualisation interactive, soutenue par l'apprentissage automatique, de données hybrides 3D et 2D ; l'exemple de la spécification du lignage cellulaire en biologie végétale",
+"titre_en": "Machine Learning Supported Interactive Visualization of Hybrid 3D and 2D Data for the Example of Plant Cell Lineage Specification",
+"annee": 2023,
+"etablissement": "université Paris-Saclay"
+},
+{
+"id": "2023UPASG093",
+"titre": "Visualisation localisée en mouvement",
+"titre_en": "Situated Visualization in Motion",
+"annee": 2023,
+"etablissement": "université Paris-Saclay"
+},
+{
+"id": "2023UPASG018",
+"titre": "Visualisations pour les Montres Intelligentes et les Trackers de Fitness",
+"titre_en": "Visualizations for Smartwatches and Fitness Trackers",
+"annee": 2023,
+"etablissement": "université Paris-Saclay"
+},
+{
+"id": "2022UPASG081",
+"titre": "Analyse visuelle de réseaux sociaux historiques : traçabilité, exploration et analyse",
+"titre_en": "Visual Analytics for Historical Social Networks : Traceability, Exploration, and Analysis",
+"annee": 2022,
+"etablissement": "université Paris-Saclay"
+},
+{
+"id": "2022UPASG010",
+"titre": "Analyse visuelle pour la surveillance et l'exploration des données de la blockchain Bitcoin",
+"titre_en": "Visual Analytics for Monitoring and Exploration of Bitcoin Blockchain Data",
+"annee": 2022,
+"etablissement": "université Paris-Saclay"
+},
+{
+"id": "2021UPASG106",
+"titre": "Exploration et discussion collaborative des données grâce à la réalité augmentée",
+"titre_en": "Collaborative Data Exploration and Discussion Supported by Augmented Reality",
+"annee": 2021,
+"etablissement": "université Paris-Saclay"
+},
+{
+"id": "2020UPASG056",
+"titre": "Abstraction spatiale intégrée de molécules génétiques",
+"titre_en": "Spatially Integrated Abstraction of Genetic Molecules",
+"annee": 2020,
+"etablissement": "université Paris-Saclay"
+},
+{
+"id": "2020UPASG052",
+"titre": "Environnements de réalité augmentée pour l'exploration interactive de données 3D",
+"titre_en": "Augmented reality environments for the interactive exploration of 3D data",
+"annee": 2020,
+"etablissement": "université Paris-Saclay"
+},
+{
+"id": "2017SACLS554",
+"titre": "Un continuum d'interaction pour la visualisation de données 3D",
+"titre_en": "An interaction Continuum for 3D Dataset Visualization",
+"annee": 2017,
+"etablissement": "Université Paris-Saclay (ComUE)"
+},
+{
+"id": "2016SACLS563",
+"titre": "Interfaces tangibles polyvalentes à base de collections d'objets mobiles de petite taille",
+"titre_en": "Supporting Versatility in Tangible User Interfaces Using Collections of Small Actuated Objects",
+"annee": 2016,
+"etablissement": "Université Paris-Saclay (ComUE)"
+},
+{
+"id": "2016SACLS256",
+"titre": "Une exploration des visualisations-mots pour du texte",
+"titre_en": "An Exploration of Word-Scale Visualizations for Text Documents",
+"annee": 2016,
+"etablissement": "Université Paris-Saclay (ComUE)"
+},
+{
+"id": "2014PA112083",
+"titre": "Connexions, changement et cubes : déplier les réseaux dynamiques pour l’exploration visuelle",
+"titre_en": "Connections, changes, and cubes : unfolding dynamic networks for visual exploration",
+"annee": 2014,
+"etablissement": "Paris 11"
+},
+{
+"id": "2014PA112127",
+"titre": "Etude des projections de données comme support interactif de l’analyse visuelle de la structure de données de grande dimension",
+"titre_en": "Study of multidimensional scaling as an interactive visualization to help the visual analysis of high dimensional data",
+"annee": 2014,
+"etablissement": "Paris 11"
+},
+{
+"id": "2014PA112253",
+"titre": "La visualisation constructive : un paradigme de design de visualisation qui permet d'assembler des représentations visuel dynamique pour des personnes non expertes",
+"titre_en": "Constructive Visualization : A token-based paradigm allowing to assemble dynamic visual representation for non-experts",
+"annee": 2014,
+"etablissement": "Paris 11"
+},
+{
+"id": "2014PA112299",
+"titre": "Manipulation Directe pour la Visualisation d’Information",
+"titre_en": "Direct Manipulation for Information Visualization",
+"annee": 2014,
+"etablissement": "Paris 11"
+},
+{
+"id": "2014PA112039",
+"titre": "Visualisation physique et tangible de l'information",
+"titre_en": "Physical and tangible information visualization",
+"annee": 2014,
+"etablissement": "Paris 11"
+},
+{
+"id": "2011PA112345",
+"titre": "Données en masse et workflows interactifs pour la visualisation analytique",
+"titre_en": "Data-intensive interactive workflows for visual analytics",
+"annee": 2011,
+"etablissement": "Paris 11"
+},
+{
+"id": "2011PA112335",
+"titre": "Interactions simultanées de plusieurs utilisateurs avec une table interactive",
+"titre_en": "Multiple Users Simultaneous Interactions on an Interactive Multi-Touch Tabletop Display",
+"annee": 2011,
+"etablissement": "Paris 11"
+}
+],
+"hors_ig": 0,
+"en_preparation": 4,
+"debut": 2011,
+"fin": 2026
+}
+}

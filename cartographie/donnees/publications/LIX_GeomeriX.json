@@ -1,0 +1,1481 @@
+{
+"equipe": "LIX/GeomeriX",
+"publications": [
+{
+"id": "pfe96ec9c87",
+"titre": "A posteriori closure of turbulence models: Are symmetries preserved?",
+"annee": 2026,
+"type": "journal",
+"lieu": "European Journal of Mechanics - B/Fluids",
+"url": "https://inria.hal.science/hal-05547085v1",
+"doi": "10.1016/j.euromechflu.2026.204496"
+},
+{
+"id": "p8b2dde704e",
+"titre": "Beyond ReLU: Bifurcation, Oversmoothing, and Topological Priors",
+"annee": 2026,
+"type": "conférence",
+"lieu": "ICML 2026 - International Conference on Machine Learning",
+"url": "https://hal.science/hal-05638979v1"
+},
+{
+"id": "p98c84f3762",
+"titre": "Efficient Open-Boundary Poisson Solves",
+"annee": 2026,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-05786304v1"
+},
+{
+"id": "pae6cc744c1",
+"titre": "FILTR: Extracting Topological Features from Pretrained 3D Models",
+"annee": 2026,
+"type": "conférence",
+"lieu": "CVPR 2026 - IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+"url": "https://hal.science/hal-05638499v1"
+},
+{
+"id": "p2808db4e00",
+"titre": "Graph Alignment via Dual-Pass Spectral Encoding and Latent Space Communication",
+"annee": 2026,
+"type": "conférence",
+"lieu": "ICML 2026 - 43rd International Conference on Machine Learning",
+"url": "https://hal.science/hal-05638426v1"
+},
+{
+"id": "p17fcab3499",
+"titre": "HaloGS: Loose coupling of compact geometry and Gaussian Splats for 3D scenes",
+"annee": 2026,
+"type": "journal",
+"lieu": "ISPRS Journal of Photogrammetry and Remote Sensing",
+"url": "https://doi.org/10.1016/j.isprsjprs.2026.04.037",
+"doi": "10.1016/j.isprsjprs.2026.04.037"
+},
+{
+"id": "p774aeb132a",
+"titre": "Illustrator's Depth: Monocular Layer Index Prediction for Image Decomposition",
+"annee": 2026,
+"type": "conférence",
+"lieu": "Computer Vision and Pattern Recognition",
+"url": "https://inria.hal.science/hal-05456342v1"
+},
+{
+"id": "pf0662f418b",
+"titre": "Neural Field Processing on Surfaces",
+"annee": 2026,
+"type": "conférence",
+"lieu": "ACM SIGGRAPH ASIA 2026 - 19th ACM SIGGRAPH Conference and Exhibition on Computer Graphics and Interactive Techniques in Asia",
+"url": "https://hal.science/hal-05786331v1",
+"doi": "10.1145/3829340.3842300"
+},
+{
+"id": "pc7dbc0afb9",
+"titre": "On the hydrodynamic behaviour of the immersed boundary-lattice Boltzmann method for wetting problems (a)",
+"annee": 2026,
+"type": "journal",
+"lieu": "EPL - Europhysics Letters",
+"url": "https://hal.science/hal-05788681v1",
+"doi": "10.1209/0295-5075/ae92af"
+},
+{
+"id": "pa75c1f5f98",
+"titre": "On the importance of stochasticity in closures of turbulence (a)",
+"annee": 2026,
+"type": "journal",
+"lieu": "Europhysics Letters (EPL)",
+"url": "https://doi.org/10.1209/0295-5075/ae5a56",
+"doi": "10.1209/0295-5075/ae5a56"
+},
+{
+"id": "p7c8e454d77",
+"titre": "PaNDaS: Learnable Shape Interpolation Modeling with Localized Control",
+"annee": 2026,
+"type": "conférence",
+"lieu": "CVPR 2026 - IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+"url": "https://hal.science/hal-05599162v1"
+},
+{
+"id": "p61d830d604",
+"titre": "Plasma proteomics for prognostic stratification in newly diagnosed primary central nervous system lymphoma",
+"annee": 2026,
+"type": "journal",
+"lieu": "Neuro-Oncology",
+"url": "https://doi.org/10.1093/neuonc/noag190",
+"doi": "10.1093/neuonc/noag190"
+},
+{
+"id": "p711920aa4f",
+"titre": "SuperSDF: Sparse SDF Super-Resolution for Surface Extraction",
+"annee": 2026,
+"type": "journal",
+"lieu": "Proceedings of the ACM on Computer Graphics and Interactive Techniques",
+"url": "https://inria.hal.science/hal-05695657v1",
+"doi": "10.1145/3799902.3811176"
+},
+{
+"id": "p17a3e2eece",
+"titre": "Toward a Relative Metric for Tactile Dissimilarity: Empirical Insights for Modeling Transition Saliency in Tactile Graphics",
+"annee": 2026,
+"type": "conférence",
+"lieu": "EUROHAPTICS 2026 - EuroHaptics International Conference",
+"url": "https://hal.science/hal-05626307v2",
+"doi": "10.1007/978-3-032-32350-7_32"
+},
+{
+"id": "pa8251de2af",
+"titre": "Unfolding Generative Flows with Koopman Operators: Trajectory-Preserving Linearization",
+"annee": 2026,
+"type": "conférence",
+"lieu": "ICML 2026 - International Conference on Machine Learning",
+"url": "https://hal.science/hal-05638977v1"
+},
+{
+"id": "p8634c9984f",
+"titre": "Unified Brain Surface and Volume Registration",
+"annee": 2026,
+"type": "conférence",
+"lieu": "ICLR 2026 - Fourteenth International Conference on Learning Representations",
+"url": "https://hal.science/hal-05638382v1",
+"doi": "10.48550/arxiv.2512.19928"
+},
+{
+"id": "p3f04b4b1c1",
+"titre": "Volume-Preserving LBM-MPM Coupling for Air-Water-Sand Mixtures",
+"annee": 2026,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://doi.org/10.1145/3811302",
+"doi": "10.1145/3811302"
+},
+{
+"id": "p46248ca5cc",
+"titre": "ATOMSURF: Surface representation for learning on protein structures",
+"annee": 2025,
+"type": "conférence",
+"lieu": "ICLR 2025 - Thirteenth International Conference on Learning Representations",
+"url": "https://hal.science/hal-05418851v1"
+},
+{
+"id": "p7383b4323c",
+"titre": "Discrete Torsion of Connection Forms on Simplicial Meshes",
+"annee": 2025,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-05063389v1",
+"doi": "10.1145/3731197"
+},
+{
+"id": "p630dd05e30",
+"titre": "Efficient and Scalable Spatial Regularization of Optimal Transport",
+"annee": 2025,
+"type": "conférence",
+"lieu": "SIGGRAPH ASIA Conference Papers 2025",
+"url": "https://hal.science/hal-05426715v1",
+"doi": "10.1145/3757377.3763976"
+},
+{
+"id": "pa72ea7fcc8",
+"titre": "Escaping Plato’s Cave: Towards the Alignment of 3D and Text Latent Spaces",
+"annee": 2025,
+"type": "conférence",
+"lieu": "CVPR 2025 - Conference on Computer Vision and Pattern Recognition",
+"url": "https://hal.science/hal-05440262v1",
+"doi": "10.1109/cvpr52734.2025.01846"
+},
+{
+"id": "p595d88e856",
+"titre": "Finding antibodies in cryo-EM maps with CrAI",
+"annee": 2025,
+"type": "journal",
+"lieu": "Bioinformatics",
+"url": "https://doi.org/10.1093/bioinformatics/btaf157",
+"doi": "10.1093/bioinformatics/btaf157"
+},
+{
+"id": "pd227395dfd",
+"titre": "FourieRF: Few-Shot NeRFs via Progressive Fourier Frequency Control",
+"annee": 2025,
+"type": "conférence",
+"lieu": "3DV 2025 - International Conference on 3D Vision",
+"url": "https://hal.science/hal-05440246v1",
+"doi": "10.1109/3dv66043.2025.00061"
+},
+{
+"id": "pa49b95abb9",
+"titre": "GANFusion: Feed-Forward Text-to-3D with Diffusion in GAN Space",
+"annee": 2025,
+"type": "conférence",
+"lieu": "WACV 2025 - IEEE/CVF Winter Conference on Applications of Computer Vision",
+"url": "https://hal.science/hal-05440251v1",
+"doi": "10.48550/arxiv.2412.16717"
+},
+{
+"id": "p9f1a9116b3",
+"titre": "Immersed boundary–lattice Boltzmann mesoscale method for wetting problems",
+"annee": 2025,
+"type": "journal",
+"lieu": "Physical Review E",
+"url": "https://hal.science/hal-05317077v1",
+"doi": "10.1103/mp3p-8j22"
+},
+{
+"id": "p4e95045cc2",
+"titre": "Kinetic Free-Surface Flows and Foams with Sharp Interfaces",
+"annee": 2025,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-05317104v1"
+},
+{
+"id": "p9c8c45ea55",
+"titre": "LACONIC: A 3D Layout Adapter for Controllable Image Creation",
+"annee": 2025,
+"type": "conférence",
+"lieu": "ICCV 2025 - International Conference on Computer Vision",
+"url": "https://hal.science/hal-05434054v1",
+"doi": "10.48550/arxiv.2507.03257"
+},
+{
+"id": "pea8e8ebc30",
+"titre": "Lightning-fast Boundary Element Method",
+"annee": 2025,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-05063377v2",
+"doi": "10.1145/3731196"
+},
+{
+"id": "p91aee3535d",
+"titre": "Linear-Time Transport with Rectified Flows",
+"annee": 2025,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-05125202v1"
+},
+{
+"id": "p9a910fb9d2",
+"titre": "MILo: Mesh-In-the-Loop Gaussian Splatting for Detailed and Efficient Surface Reconstruction",
+"annee": 2025,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://doi.org/10.1145/3763339",
+"doi": "10.1145/3763339"
+},
+{
+"id": "p9585ed9cb9",
+"titre": "NAM: Neural Adjoint Maps for refining shape correspondences",
+"annee": 2025,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://doi.org/10.1145/3730943",
+"doi": "10.1145/3730943"
+},
+{
+"id": "p67d9d46052",
+"titre": "ShapeShifter: 3D Variations Using Multiscale and Sparse Point-Voxel Diffusion",
+"annee": 2025,
+"type": "conférence",
+"lieu": "CVPR 2025 - IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+"url": "https://hal.science/hal-05064374v1"
+},
+{
+"id": "pdf56b287fb",
+"titre": "Solver-in-the-loop approach to closure of shell models of turbulence",
+"annee": 2025,
+"type": "journal",
+"lieu": "Physical Review Fluids",
+"url": "https://telecom-paris.hal.science/hal-05031445v1",
+"doi": "10.1103/physrevfluids.10.044602"
+},
+{
+"id": "p5b7c93f739",
+"titre": "A Survey on Cage-based Deformation of 3D Models",
+"annee": 2024,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-04812908v1",
+"doi": "10.1111/cgf.15060"
+},
+{
+"id": "p13fbb18f58",
+"titre": "BallMerge: High-quality Fast Surface Reconstruction via Voronoi Balls",
+"annee": 2024,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-04457247v1"
+},
+{
+"id": "pc577761acb",
+"titre": "Biharmonic Coordinates and their Derivatives for Triangular 3D Cages",
+"annee": 2024,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-04812859v1",
+"doi": "10.1145/3658208"
+},
+{
+"id": "p5b2870c560",
+"titre": "Deformation Recovery: Localized Learning for Detail-Preserving Deformations",
+"annee": 2024,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://doi.org/10.1145/3687968",
+"doi": "10.1145/3687968"
+},
+{
+"id": "pba035884a3",
+"titre": "DynBioSketch: A tool for sketching dynamic visual summaries in biology, and its application to infection phenomena",
+"annee": 2024,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://hal.science/hal-04682753v1",
+"doi": "10.1016/j.cag.2024.103956"
+},
+{
+"id": "pa360c0c5ca",
+"titre": "Fine-tuning 3D foundation models for geometric object retrieval",
+"annee": 2024,
+"type": "journal",
+"lieu": "Computers & Graphics",
+"url": "https://doi.org/10.1016/j.cag.2024.103993",
+"doi": "10.1016/j.cag.2024.103993"
+},
+{
+"id": "p2f7310b2b8",
+"titre": "Hybrid LBM-FVM solver for two-phase flow simulation",
+"annee": 2024,
+"type": "journal",
+"lieu": "Journal of Computational Physics",
+"url": "https://hal.science/hal-04706767v1",
+"doi": "10.1016/j.jcp.2024.112920"
+},
+{
+"id": "p24f12b1b26",
+"titre": "Ink-Edit: Interactive color-constrained textures editing",
+"annee": 2024,
+"type": "conférence",
+"lieu": "SIGGRAPH ASIA 2024 - technical communications, Tokyo, Japan, décembre 2024",
+"url": "https://hal.science/hal-04792161v1",
+"doi": "10.1145/3681758.3697991"
+},
+{
+"id": "p5430c9d610",
+"titre": "Kinetic Simulation of Turbulent Multifluid Flows",
+"annee": 2024,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-04706766v1",
+"doi": "10.1145/3658178"
+},
+{
+"id": "pf31ea5ad38",
+"titre": "Lightning-fast Method of Fundamental Solutions",
+"annee": 2024,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-04589038v1",
+"doi": "10.1145/3658199"
+},
+{
+"id": "pfa236a714d",
+"titre": "PoNQ: a Neural QEM-based Mesh Representation",
+"annee": 2024,
+"type": "conférence",
+"lieu": "CVPR 2024 - IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+"url": "https://hal.science/hal-04706248v1"
+},
+{
+"id": "pd0daa0be36",
+"titre": "Ricci flow-based brain surface covariance descriptors for diagnosing Alzheimer’s disease",
+"annee": 2024,
+"type": "journal",
+"lieu": "Biomedical Signal Processing and Control",
+"url": "https://hal.science/hal-04794184v1",
+"doi": "10.1016/j.bspc.2024.106212"
+},
+{
+"id": "p712050b98b",
+"titre": "SING: Stability-Incorporated Neighborhood Graph",
+"annee": 2024,
+"type": "conférence",
+"lieu": "SA 2024 - The 17th ACM SIGGRAPH Conference and Exhibition on Computer Graphics and Interactive Techniques in Asia",
+"url": "https://hal.science/hal-04820002v1",
+"doi": "10.1145/3680528.3687674"
+},
+{
+"id": "p711f365441",
+"titre": "Self-Supervised Dual Contouring",
+"annee": 2024,
+"type": "conférence",
+"lieu": "CVPR 2024 - Computer Vision and Pattern Recognition",
+"url": "https://inria.hal.science/hal-04590906v1"
+},
+{
+"id": "p110007b7c5",
+"titre": "Stochastic Computation of Barycentric Coordinates",
+"annee": 2024,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-04706761v1",
+"doi": "10.1145/3658131"
+},
+{
+"id": "p800fca680f",
+"titre": "TwisterForge: controllable and efficient animation of virtual tornadoes",
+"annee": 2024,
+"type": "conférence",
+"lieu": "MIG 2024 - The 17th Annual ACM SIGGRAPH Conference on Motion, Interaction and Games",
+"url": "https://hal.science/hal-04778664v2",
+"doi": "10.1145/3677388.3696335"
+},
+{
+"id": "pe50b35218d",
+"titre": "Versatile Curve Design by Level Set with Quadratic Convergence",
+"annee": 2024,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://hal.science/hal-04812896v1",
+"doi": "10.1109/tvcg.2024.3427365"
+},
+{
+"id": "pc06a3979b1",
+"titre": "Volcanic Skies: coupling explosive eruptions with atmospheric simulation to create consistent skyscapes",
+"annee": 2024,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-04527448v1",
+"doi": "10.1111/cgf.15034"
+},
+{
+"id": "pfb45d9620b",
+"titre": "Assessing craniofacial growth and form without landmarks: A new automatic approach based on spectral methods",
+"annee": 2023,
+"type": "journal",
+"lieu": "Journal of Morphology",
+"url": "https://doi.org/10.1002/jmor.21609",
+"doi": "10.1002/jmor.21609"
+},
+{
+"id": "p03a647cbfd",
+"titre": "Bio-Sketch: A new medium for interactive storytelling illustrated by the phenomenon of infection",
+"annee": 2023,
+"type": "conférence",
+"lieu": "VCBM 2023 - 13th Eurographics Workshop on Visual Computing for Biology and Medicine",
+"url": "https://hal.science/hal-04216965v1"
+},
+{
+"id": "p3ed05502cc",
+"titre": "Building a Virtual Weakly-Compressible Wind Tunnel Testing Facility",
+"annee": 2023,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-04174295v1",
+"doi": "10.1145/3592394"
+},
+{
+"id": "p1553b7e2a9",
+"titre": "Fast GPU-based Two-way Continuous Collision Handling",
+"annee": 2023,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-05579195v1",
+"doi": "10.1145/3604551"
+},
+{
+"id": "p09be0a0873",
+"titre": "Feature-Sized Sampling for Vector Line Art",
+"annee": 2023,
+"type": "conférence",
+"lieu": "Pacific Graphics 2023 - The 31th Pacific Conference on Computer Graphics and Applications",
+"url": "https://hal.science/hal-04224967v1"
+},
+{
+"id": "pc4caba23d0",
+"titre": "Fluid-Solid Coupling in Kinetic Two-Phase Flow Simulation",
+"annee": 2023,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-04174289v1",
+"doi": "10.1145/3592138"
+},
+{
+"id": "p76a3420866",
+"titre": "Generalizable Local Feature Pre-training for Deformable Shape Analysis",
+"annee": 2023,
+"type": "conférence",
+"lieu": "CVPR 2023 - The IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+"url": "https://hal.science/hal-04352340v1"
+},
+{
+"id": "p14b4c6abe8",
+"titre": "High-Order Moment-Encoded Kinetic Simulation of Turbulent Flows",
+"annee": 2023,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-04223237v1",
+"doi": "10.1145/3618341"
+},
+{
+"id": "pbe0367a282",
+"titre": "Patternshop: Editing Point Patterns by Image Manipulation",
+"annee": 2023,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-04235133v1",
+"doi": "10.1145/3592418"
+},
+{
+"id": "p89b369be28",
+"titre": "ReVISOR: ResUNets with visibility and intensity for structured outlier removal",
+"annee": 2023,
+"type": "journal",
+"lieu": "ISPRS Journal of Photogrammetry and Remote Sensing",
+"url": "https://doi.org/10.1016/j.isprsjprs.2023.05.027",
+"doi": "10.1016/j.isprsjprs.2023.05.027"
+},
+{
+"id": "p143da9c7b5",
+"titre": "Robust Pointset Denoising of Piecewise-Smooth Surfaces through Line Processes",
+"annee": 2023,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://polytechnique.hal.science/hal-04027983v1",
+"doi": "10.1111/cgf.14752"
+},
+{
+"id": "p74186696f0",
+"titre": "Scalable and Efficient Functional Map Computations on Dense Meshes",
+"annee": 2023,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.14746",
+"doi": "10.1111/cgf.14746"
+},
+{
+"id": "p05af8f5095",
+"titre": "Somigliana Coordinates: an elasticity-derived approach for cage deformation",
+"annee": 2023,
+"type": "conférence",
+"lieu": "SIGGRAPH 2023 - Special Interest Group on Computer Graphics and Interactive Techniques Conference",
+"url": "https://inria.hal.science/hal-04174303v1",
+"doi": "10.1145/3588432.3591519"
+},
+{
+"id": "pd58293ac23",
+"titre": "VoroMesh: Learning Watertight Surface Meshes with Voronoi Diagrams",
+"annee": 2023,
+"type": "conférence",
+"lieu": "ICCV 2023 - International Conference on Computer Vision",
+"url": "https://inria.hal.science/hal-04199011v1"
+},
+{
+"id": "pac2c22aff4",
+"titre": "3D mesh cutting for high quality atlas packing",
+"annee": 2022,
+"type": "journal",
+"lieu": "Computer Aided Geometric Design",
+"url": "https://doi.org/10.1016/j.cagd.2022.102149",
+"doi": "10.1016/j.cagd.2022.102149"
+},
+{
+"id": "p85d5963fac",
+"titre": "Complex Functional Maps: A Conformal Link Between Tangent Bundles",
+"annee": 2022,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.14437",
+"doi": "10.1111/cgf.14437"
+},
+{
+"id": "p6317e044b6",
+"titre": "Deep Orientation-Aware Functional Maps: Tackling Symmetry Issues in Shape Matching",
+"annee": 2022,
+"type": "conférence",
+"lieu": "CVPR 2022 - IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+"url": "https://hal.science/hal-03654308v1",
+"doi": "10.48550/arxiv.2204.13453"
+},
+{
+"id": "pc8f3e6d767",
+"titre": "Delaunay Painting: Perceptual Image Colouring from Raster Contours with Gaps",
+"annee": 2022,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.14517",
+"doi": "10.1111/cgf.14517"
+},
+{
+"id": "pae622a1cc6",
+"titre": "Delaunay Painting: Perceptual image coloring from raster contours with gaps",
+"annee": 2022,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-03664001v1"
+},
+{
+"id": "p3ba29f3c88",
+"titre": "DiffusionNet: Discretization Agnostic Learning on Surfaces",
+"annee": 2022,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://doi.org/10.1145/3507905",
+"doi": "10.1145/3507905"
+},
+{
+"id": "pe250e9001c",
+"titre": "Efficient kinetic simulation of two-phase flows",
+"annee": 2022,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-03828392v1",
+"doi": "10.1145/3528223.3530132"
+},
+{
+"id": "p2b5d659c92",
+"titre": "Go Green: General Regularized Green’s Functions for Elasticity",
+"annee": 2022,
+"type": "conférence",
+"lieu": "SIGGRAPH 2022 - Special Interest Group on Computer Graphics and Interactive Techniques Conference",
+"url": "https://hal.science/hal-03828483v1",
+"doi": "10.1145/3528233.3530726"
+},
+{
+"id": "p6a941f692d",
+"titre": "Implicit Field Supervision For Robust Non-Rigid Shape Matching",
+"annee": 2022,
+"type": "conférence",
+"lieu": "ECCV 2022 - European Conference on Computer Vision",
+"url": "https://hal.science/hal-03912307v1"
+},
+{
+"id": "pc68c303289",
+"titre": "Learning Spectral Unions of Partial Deformable 3D Shapes",
+"annee": 2022,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.14483",
+"doi": "10.1111/cgf.14483"
+},
+{
+"id": "p581b4b815e",
+"titre": "NCP: Neural Correspondence Prior for Effective Unsupervised Shape Matching",
+"annee": 2022,
+"type": "conférence",
+"lieu": "NeurIPS 2022 - 36th Conference on Neural Information Processing System",
+"url": "https://hal.science/hal-03938056v1"
+},
+{
+"id": "p1eb045932f",
+"titre": "Non‐Isometric Shape Matching via Functional Maps on Landmark‐Adapted Bases",
+"annee": 2022,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.14579",
+"doi": "10.1111/cgf.14579"
+},
+{
+"id": "pf62f811d31",
+"titre": "Point‐Pattern Synthesis using Gabor and Random Filters",
+"annee": 2022,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-03872364v1",
+"doi": "10.1111/cgf.14596"
+},
+{
+"id": "pd18c6dceed",
+"titre": "Reduced Representation of Deformation Fields for Effective Non-rigid Shape Matching",
+"annee": 2022,
+"type": "conférence",
+"lieu": "NeurIPS 2022 - 36th Conference on Neural Information Processing Systems",
+"url": "https://hal.science/hal-03912305v1"
+},
+{
+"id": "pbb6bad8b5e",
+"titre": "Smooth Non-Rigid Shape Matching via Effective Dirichlet Energy Optimization",
+"annee": 2022,
+"type": "conférence",
+"lieu": "International Conference on 3D VIsion",
+"url": "https://hal.science/hal-03799224v1",
+"doi": "10.1109/3dv57658.2022.00061"
+},
+{
+"id": "p942bb90c1a",
+"titre": "Structured Shape-Patterns from a Sketch: A Multi-Scale Approach",
+"annee": 2022,
+"type": "conférence",
+"lieu": "Graphics Interface",
+"url": "https://hal.science/hal-03706546v1"
+},
+{
+"id": "pa09d2227fd",
+"titre": "TopoCut: Fast and Robust Planar Cutting of Arbitrary Domains",
+"annee": 2022,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-03828502v1",
+"doi": "10.1145/3528223.3530149"
+},
+{
+"id": "p29591fbab4",
+"titre": "WSDesc: Weakly Supervised 3D Local Descriptor Learning for Point Cloud Registration",
+"annee": 2022,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://doi.org/10.1109/tvcg.2022.3160005",
+"doi": "10.1109/tvcg.2022.3160005"
+},
+{
+"id": "p9e7cda5835",
+"titre": "Authoring Consistent Landscapes with Flora and Fauna",
+"annee": 2021,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-03245206v1",
+"doi": "10.1145/3450626.3459952"
+},
+{
+"id": "p3a524eb08f",
+"titre": "Differentiable surface triangulation",
+"annee": 2021,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://doi.org/10.1145/3478513.3480554",
+"doi": "10.1145/3478513.3480554"
+},
+{
+"id": "p72cb30589d",
+"titre": "Discrete Optimization for Shape Matching",
+"annee": 2021,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.14359",
+"doi": "10.1111/cgf.14359"
+},
+{
+"id": "p43fd1c1a80",
+"titre": "Dynamic Upsampling of Smoke through Dictionary-based Learning",
+"annee": 2021,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-03551699v1",
+"doi": "10.1145/3412360"
+},
+{
+"id": "p5c2174d100",
+"titre": "Fast and versatile fluid-solid coupling for turbulent flow simulation",
+"annee": 2021,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-03551731v1",
+"doi": "10.1145/3478513.3480493"
+},
+{
+"id": "p738e7a92c5",
+"titre": "Intuitive and efficient roof modeling for reconstruction and synthesis",
+"annee": 2021,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://doi.org/10.1145/3478513.3480494",
+"doi": "10.1145/3478513.3480494"
+},
+{
+"id": "pb54a469e05",
+"titre": "Multiscale Cholesky Preconditioning for Ill-conditioned Problems",
+"annee": 2021,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-03277277v1",
+"doi": "10.1145/3450626.3459851"
+},
+{
+"id": "p96d9b32a19",
+"titre": "Orthogonalized Fourier Polynomials for Signal Approximation and Transfer",
+"annee": 2021,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.142645",
+"doi": "10.1111/cgf.142645"
+},
+{
+"id": "pbd112acf48",
+"titre": "Predicting high-resolution turbulence details in space and time",
+"annee": 2021,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-03551723v1",
+"doi": "10.1145/3478513.3480492"
+},
+{
+"id": "p8b4fedc0fd",
+"titre": "Q-Zip: Singularity Editing Primitive for Quad Meshes",
+"annee": 2021,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-03551709v1",
+"doi": "10.1145/3478513.3480523"
+},
+{
+"id": "pc982d1ca6c",
+"titre": "Spectral Shape Recovery and Analysis Via Data-driven Connections",
+"annee": 2021,
+"type": "journal",
+"lieu": "International Journal of Computer Vision",
+"url": "https://doi.org/10.1007/s11263-021-01492-6",
+"doi": "10.1007/s11263-021-01492-6"
+},
+{
+"id": "p9687e67816",
+"titre": "C onsistent Z oom O ut : Efficient Spectral Map Synchronization",
+"annee": 2020,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.14084",
+"doi": "10.1111/cgf.14084"
+},
+{
+"id": "pc1784bf1a9",
+"titre": "Geometric analysis of shape variability of lower jaws of prehistoric humans",
+"annee": 2020,
+"type": "journal",
+"lieu": "L Anthropologie",
+"url": "https://doi.org/10.1016/j.anthro.2020.102808",
+"doi": "10.1016/j.anthro.2020.102808"
+},
+{
+"id": "pf4d2586528",
+"titre": "MapTree",
+"annee": 2020,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://doi.org/10.1145/3414685.3417800",
+"doi": "10.1145/3414685.3417800"
+},
+{
+"id": "pd213144e0f",
+"titre": "Material Coherence from Trajectories via Burau Eigenanalysis of Braids",
+"annee": 2020,
+"type": "journal",
+"lieu": "Chaos: An Interdisciplinary Journal of Nonlinear Science",
+"url": "https://inria.hal.science/hal-02295987v1",
+"doi": "10.1063/1.5128269"
+},
+{
+"id": "pa550bbbd44",
+"titre": "Pair Correlation Functions with Free-Form Boundaries for Distribution Inpainting and Decomposition",
+"annee": 2020,
+"type": "conférence",
+"lieu": "Eurographics 2020 short paper proceedings",
+"url": "https://inria.hal.science/hal-02500803v1"
+},
+{
+"id": "peefbfd050b",
+"titre": "Provably Consistent Distributed Delaunay Triangulation",
+"annee": 2020,
+"type": "conférence",
+"lieu": "International Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences (ISPRS Annals)",
+"url": "https://hal.science/hal-02551509v1",
+"doi": "10.5194/isprs-annals-v-2-2020-195-2020"
+},
+{
+"id": "pe4268952cc",
+"titre": "Sliced Optimal Transport Sampling",
+"annee": 2020,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-02565352v1",
+"doi": "10.1145/3386569.3392395"
+},
+{
+"id": "pfbb9875f0b",
+"titre": "Spectral Mesh Simplification",
+"annee": 2020,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.13932",
+"doi": "10.1111/cgf.13932"
+},
+{
+"id": "p6a7a8769ce",
+"titre": "Wavelet‐based Heat Kernel Derivatives: Towards Informative Localized Shape Analysis",
+"annee": 2020,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.14180",
+"doi": "10.1111/cgf.14180"
+},
+{
+"id": "ped93811908",
+"titre": "Weakly Supervised Deep Functional Map for Shape Matching",
+"annee": 2020,
+"type": "conférence",
+"lieu": "Neurips 2020",
+"url": "https://hal.science/hal-02872053v2"
+},
+{
+"id": "pf289e8d1fe",
+"titre": "Accurate Synthesis of Multi-Class Disk Distributions",
+"annee": 2019,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-02064699v1"
+},
+{
+"id": "p8f048ce99c",
+"titre": "Effective Rotation-invariant Point CNN with Spherical Harmonics kernels",
+"annee": 2019,
+"type": "conférence",
+"lieu": "3DV - International Conference on 3D Vision - 2019",
+"url": "https://inria.hal.science/hal-02167454v2"
+},
+{
+"id": "p13895f7daa",
+"titre": "Image-based Authoring of Herd Animations",
+"annee": 2019,
+"type": "journal",
+"lieu": "Computer Animation and Virtual Worlds",
+"url": "https://inria.hal.science/hal-02127824v1",
+"doi": "10.1002/cav.1903"
+},
+{
+"id": "pf213494e49",
+"titre": "Limit Shapes – A Tool for Understanding Shape Differences and Variability in 3D Model Collections",
+"annee": 2019,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.13799",
+"doi": "10.1111/cgf.13799"
+},
+{
+"id": "p65e5acad1a",
+"titre": "PointCleanNet : Learning to Denoise and Remove Outliers from Dense Point Clouds",
+"annee": 2019,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.13753",
+"doi": "10.1111/cgf.13753"
+},
+{
+"id": "p0adaf5246b",
+"titre": "Spectral coarsening of geometric operators",
+"annee": 2019,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://doi.org/10.1145/3306346.3322953",
+"doi": "10.1145/3306346.3322953"
+},
+{
+"id": "p9c0aa84468",
+"titre": "Structured Regularization of Functional Map Computations",
+"annee": 2019,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.13788",
+"doi": "10.1111/cgf.13788"
+},
+{
+"id": "pfed0342c86",
+"titre": "Tile & Merge: Distributed Delaunay Triangulations for Cloud Computing",
+"annee": 2019,
+"type": "conférence",
+"lieu": "IEEE Big Data 2019",
+"url": "https://hal.science/hal-02535021v1",
+"doi": "10.1109/bigdata47090.2019.9006534"
+},
+{
+"id": "p6c879373af",
+"titre": "ZoomOut",
+"annee": 2019,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://doi.org/10.1145/3355089.3356524",
+"doi": "10.1145/3355089.3356524"
+},
+{
+"id": "p92bc61d144",
+"titre": "A Survey on Data-driven Dictionary-based Methods for 3D Modeling",
+"annee": 2018,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-02953318v1"
+},
+{
+"id": "p945889ed60",
+"titre": "A Survey on Data‐driven Dictionary‐based Methods for 3D Modeling",
+"annee": 2018,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.13384",
+"doi": "10.1111/cgf.13384"
+},
+{
+"id": "p113231cdbb",
+"titre": "Continuous and orientation-preserving correspondences via functional maps",
+"annee": 2018,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://doi.org/10.1145/3272127.3275040",
+"doi": "10.1145/3272127.3275040"
+},
+{
+"id": "pf6e0d9bd78",
+"titre": "Curved Optimal Delaunay Triangulation",
+"annee": 2018,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-01826055v1",
+"doi": "10.1145/3197517.3201358"
+},
+{
+"id": "pbea695791a",
+"titre": "Discrete Time Evolution Process Descriptor for Shape Analysis and Matching",
+"annee": 2018,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://doi.org/10.1145/3144454",
+"doi": "10.1145/3144454"
+},
+{
+"id": "pd11d4a98b2",
+"titre": "Extrapolating curvature lines in rough concept sketches using mixed-integer nonlinear optimization",
+"annee": 2018,
+"type": "journal",
+"lieu": "Optimization and Engineering",
+"url": "https://doi.org/10.1007/s11081-018-9405-6",
+"doi": "10.1007/s11081-018-9405-6"
+},
+{
+"id": "p61de5282a4",
+"titre": "Functional Characterization of Deformation Fields",
+"annee": 2018,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-02953326v1",
+"doi": "10.1145/3292480"
+},
+{
+"id": "pfecc5debd7",
+"titre": "Improved Functional Mappings via Product Preservation",
+"annee": 2018,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.13352",
+"doi": "10.1111/cgf.13352"
+},
+{
+"id": "pde316390fd",
+"titre": "Mean value coordinates for quad cages in 3D",
+"annee": 2018,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-01900869v1"
+},
+{
+"id": "pcfb9b94061",
+"titre": "Multi-directional geodesic neural networks via equivariant convolution",
+"annee": 2018,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://doi.org/10.1145/3272127.3275102",
+"doi": "10.1145/3272127.3275102"
+},
+{
+"id": "p84bf65321a",
+"titre": "PCPN et Learning Local Shape Properties from Raw Point Clouds",
+"annee": 2018,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.13343",
+"doi": "10.1111/cgf.13343"
+},
+{
+"id": "p067104e6ec",
+"titre": "Planar Shape Detection at Structural Scales",
+"annee": 2018,
+"type": "conférence",
+"lieu": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+"url": "https://inria.hal.science/hal-01741650v1"
+},
+{
+"id": "p7019f7c434",
+"titre": "Robust Structure‐Based Shape Correspondence",
+"annee": 2018,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.13389",
+"doi": "10.1111/cgf.13389"
+},
+{
+"id": "pe06f4c1e7f",
+"titre": "Shape Correspondence and Functional Maps",
+"annee": 2018,
+"type": "chapitre",
+"lieu": "Handbook of numerical analysis",
+"url": "https://doi.org/10.1016/bs.hna.2018.08.001",
+"doi": "10.1016/bs.hna.2018.08.001"
+},
+{
+"id": "pf0ef1db8d0",
+"titre": "Topological Function Optimization for Continuous Shape Matching",
+"annee": 2018,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.13487",
+"doi": "10.1111/cgf.13487"
+},
+{
+"id": "p0042f9814e",
+"titre": "Adjoint Map Representation for Shape Analysis and Matching",
+"annee": 2017,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.13253",
+"doi": "10.1111/cgf.13253"
+},
+{
+"id": "p7ab4229f03",
+"titre": "Conformal Factor Persistence for Fast Hierarchical Cone Extraction",
+"annee": 2017,
+"type": "conférence",
+"lieu": "Eurographics 2017",
+"url": "https://hal.science/hal-01508966v1"
+},
+{
+"id": "pb7d44b1a44",
+"titre": "Consistent functional cross field design for mesh quadrangulation",
+"annee": 2017,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://doi.org/10.1145/3072959.3073696",
+"doi": "10.1145/3072959.3073696"
+},
+{
+"id": "p1d8c8d8292",
+"titre": "Functional Characterization of Intrinsic and Extrinsic Geometry",
+"annee": 2017,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://doi.org/10.1145/2999535",
+"doi": "10.1145/2999535"
+},
+{
+"id": "p1c262fa2c3",
+"titre": "Generalized triangulations",
+"annee": 2017,
+"type": "chapitre",
+"lieu": "Generalized Barycentric Coordinates in Computer Graphics and Computational Mechanics",
+"url": "https://hal.science/hal-01901011v1"
+},
+{
+"id": "pa994d41b75",
+"titre": "Informative Descriptor Preservation via Commutativity for Shape Matching",
+"annee": 2017,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.13124",
+"doi": "10.1111/cgf.13124"
+},
+{
+"id": "pe2a52772c6",
+"titre": "Joint Graph Layouts for Visualizing Collections of Segmented Meshes",
+"annee": 2017,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://doi.org/10.1109/tvcg.2017.2751473",
+"doi": "10.1109/tvcg.2017.2751473"
+},
+{
+"id": "p1477d35ce2",
+"titre": "Least Squares Affine Transitions for Global Parameterization",
+"annee": 2017,
+"type": "conférence",
+"lieu": "WSCG 2017 5th International Conference in Central Europe on Computer Graphics, Visualization and Computer Vision 2017",
+"url": "https://hal.science/hal-01547522v1"
+},
+{
+"id": "pea89890d02",
+"titre": "On the Stability of Functional Maps and Shape Difference Operators",
+"annee": 2017,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-01668186v1",
+"doi": "10.1111/cgf.13238"
+},
+{
+"id": "ped9103fcc2",
+"titre": "Variance-Minimizing Transport Plans for Inter-surface Mapping",
+"annee": 2017,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-01519006v1",
+"doi": "10.1145/3072959.3073671"
+},
+{
+"id": "p81a5b23404",
+"titre": "Optimal Voronoi Tessellations with Hessian-based Anisotropy",
+"annee": 2016,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-01376243v1"
+},
+{
+"id": "p208a7492ec",
+"titre": "Stable Region Correspondences Between Non‐Isometric Shapes",
+"annee": 2016,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.12969",
+"doi": "10.1111/cgf.12969"
+},
+{
+"id": "pe10c5e4db6",
+"titre": "Symmetry and Orbit Detection via Lie-Algebra Voting",
+"annee": 2016,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-01344293v1"
+},
+{
+"id": "p55f038fd99",
+"titre": "A semi-analytical approach to molecular dynamics",
+"annee": 2015,
+"type": "journal",
+"lieu": "Journal of Computational Physics",
+"url": "https://doi.org/10.1016/j.jcp.2015.10.009",
+"doi": "10.1016/j.jcp.2015.10.009"
+},
+{
+"id": "p11e4f7fbfb",
+"titre": "Continuous Matching via Vector Field Flow",
+"annee": 2015,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.12702",
+"doi": "10.1111/cgf.12702"
+},
+{
+"id": "pd448a76c99",
+"titre": "CrossLink",
+"annee": 2015,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://doi.org/10.1145/2816795.2818097",
+"doi": "10.1145/2816795.2818097"
+},
+{
+"id": "p11032e8092",
+"titre": "Discrete Derivatives of Vector Fields on Surfaces – An Operator Approach",
+"annee": 2015,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-01249364v1",
+"doi": "10.1145/2723158"
+},
+{
+"id": "p57e8c9cf26",
+"titre": "Model-reduced variational fluid simulation",
+"annee": 2015,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://doi.org/10.1145/2816795.2818130",
+"doi": "10.1145/2816795.2818130"
+},
+{
+"id": "pf2a8696984",
+"titre": "Reconstruction 4D de maillages d’acteurs par suivi pseudo-rigide",
+"annee": 2015,
+"type": "journal",
+"lieu": "Revue Electronique Francophone d'Informatique Graphique",
+"url": "https://univ-reims.hal.science/hal-02307916v1"
+},
+{
+"id": "p91755adac8",
+"titre": "Stable topological signatures for points on 3D shapes",
+"annee": 2015,
+"type": "conférence",
+"lieu": "Symposium on Geometry Processing",
+"url": "https://inria.hal.science/hal-01203716v2"
+},
+{
+"id": "p1b8a39910e",
+"titre": "Time-Varying Surface Reconstruction of an Actor’s Performance",
+"annee": 2015,
+"type": "conférence",
+"lieu": "Advances in Visual Computing. ISVC 2015",
+"url": "https://univ-reims.hal.science/hal-02307892v1",
+"doi": "10.1007/978-3-319-27857-5_9"
+},
+{
+"id": "p1ba02f0eaa",
+"titre": "Discrete 2‐Tensor Fields on Triangulations",
+"annee": 2014,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.12427",
+"doi": "10.1111/cgf.12427"
+},
+{
+"id": "p4bad69dff2",
+"titre": "Fast Tile-Based Adaptive Sampling with User-Specified Fourier Spectra",
+"annee": 2014,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-01080349v1"
+},
+{
+"id": "p440afd5acb",
+"titre": "Functional Fluids on Surfaces",
+"annee": 2014,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.12449",
+"doi": "10.1111/cgf.12449"
+},
+{
+"id": "pfc12ee6114",
+"titre": "Persistence-based Structural Recognition",
+"annee": 2014,
+"type": "conférence",
+"lieu": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2014",
+"url": "https://hal.science/hal-01073075v1"
+},
+{
+"id": "p29d766bed7",
+"titre": "Variational discretization for rotating stratified fluids",
+"annee": 2014,
+"type": "journal",
+"lieu": "Discrete and Continuous Dynamical Systems - Series A",
+"url": "https://hal.science/hal-01088890v1",
+"doi": "10.3934/dcds.2014.34.477"
+},
+{
+"id": "p0f9982f935",
+"titre": "Weighted triangulations for geometry processing",
+"annee": 2014,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://telecom-paris.hal.science/hal-02286599v1"
+},
+{
+"id": "pb740bfc156",
+"titre": "An operator Approach to Tangent Vector Field Processing",
+"annee": 2013,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-00923607v1",
+"doi": "10.1111/cgf.12174"
+},
+{
+"id": "paae3f78587",
+"titre": "Analysis and Visualization of Maps Between Shapes",
+"annee": 2013,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-00923566v1",
+"doi": "10.1111/cgf.12076"
+},
+{
+"id": "pb6508e7d69",
+"titre": "Feature-Preserving Surface Reconstruction and Simplification from Defect-Laden Point Sets",
+"annee": 2013,
+"type": "journal",
+"lieu": "Journal of Mathematical Imaging and Vision",
+"url": "https://inria.hal.science/hal-00827623v1",
+"doi": "10.1007/s10851-013-0414-y"
+},
+{
+"id": "p97a557ebe9",
+"titre": "Geometric Aspects of the Space of Triangulations",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Discrete curvature: theory and applications",
+"url": "https://telecom-paris.hal.science/hal-02287051v1"
+},
+{
+"id": "pe06cbc7011",
+"titre": "Geometric Tomography with Topological Guarantees",
+"annee": 2013,
+"type": "journal",
+"lieu": "Discrete and Computational Geometry",
+"url": "https://hal.science/hal-00921910v1",
+"doi": "10.1007/s00454-013-9531-z"
+},
+{
+"id": "p5f717a96cb",
+"titre": "Map-based exploration of intrinsic shape differences and variability",
+"annee": 2013,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://doi.org/10.1145/2461912.2461959",
+"doi": "10.1145/2461912.2461959"
+},
+{
+"id": "pf6b1278a71",
+"titre": "On the Equilibrium of Simplicial Masonry Structures",
+"annee": 2013,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-00826280v1"
+},
+{
+"id": "p9d90724004",
+"titre": "Shape Matching via Quotient Spaces",
+"annee": 2013,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.12167",
+"doi": "10.1111/cgf.12167"
+},
+{
+"id": "p2704e027ec",
+"titre": "Blue Noise through Optimal Transport",
+"annee": 2012,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-01353135v1",
+"doi": "10.1145/2366145.2366190"
+},
+{
+"id": "pb9c56ea8c1",
+"titre": "Functional maps",
+"annee": 2012,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://doi.org/10.1145/2185520.2185526",
+"doi": "10.1145/2185520.2185526"
+},
+{
+"id": "pe39be35477",
+"titre": "An Optimal Transport Approach to Robust Reconstruction and Simplification of 2D Shapes",
+"annee": 2011,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-00758019v1"
+},
+{
+"id": "paf6c59eb05",
+"titre": "Hodge-optimized triangulations",
+"annee": 2011,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://telecom-paris.hal.science/hal-02286600v1"
+},
+{
+"id": "p7d7e6e3a21",
+"titre": "Parameterization of Generalized Primal-Dual Triangulations",
+"annee": 2011,
+"type": "conférence",
+"lieu": "International Meshing Roundtable",
+"url": "https://telecom-paris.hal.science/hal-02286423v1"
+},
+{
+"id": "pf2e27cf521",
+"titre": "Parametrization of Generalized Primal-Dual Triangulations",
+"annee": 2011,
+"type": "chapitre",
+"lieu": "Springer eBooks",
+"url": "https://doi.org/10.1007/978-3-642-24734-7_13",
+"doi": "10.1007/978-3-642-24734-7_13"
+}
+]
+}

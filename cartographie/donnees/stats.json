@@ -1,0 +1,2182 @@
+{
+ "CRIStAL/MINT": {
+  "permanents_ig": 1,
+  "permanents_partiel": 3,
+  "publications_via_partiel": 66,
+  "permanents_total": 7,
+  "publications": 123,
+  "par_annee": {
+   "2011": 4,
+   "2012": 9,
+   "2013": 5,
+   "2014": 11,
+   "2015": 7,
+   "2016": 8,
+   "2017": 4,
+   "2018": 5,
+   "2019": 6,
+   "2020": 10,
+   "2021": 9,
+   "2022": 8,
+   "2023": 5,
+   "2024": 11,
+   "2025": 13,
+   "2026": 8
+  },
+  "par_type": {
+   "conférence": 82,
+   "journal": 38,
+   "chapitre": 3
+  },
+  "lieux_principaux": [
+   [
+    "New Interfaces for Musical Expression",
+    9
+   ],
+   [
+    "International Conference on New Interfaces for Musical Expression",
+    4
+   ],
+   [
+    "IEEE Transactions on Visualization and Computer Graphics",
+    3
+   ],
+   [
+    "Computer Music Journal",
+    3
+   ],
+   [
+    "Computer Graphics Forum",
+    2
+   ],
+   [
+    "European Journal of Mechanics - A",
+    2
+   ],
+   [
+    "Computers & Graphics",
+    2
+   ],
+   [
+    "Computer Vision and Image Understanding",
+    2
+   ]
+  ]
+ },
+ "ICUBE/IGG": {
+  "permanents_ig": 10,
+  "permanents_partiel": 4,
+  "publications_via_partiel": 21,
+  "permanents_total": 17,
+  "publications": 200,
+  "par_annee": {
+   "2011": 9,
+   "2012": 6,
+   "2013": 9,
+   "2014": 6,
+   "2015": 14,
+   "2016": 19,
+   "2017": 14,
+   "2018": 13,
+   "2019": 18,
+   "2020": 21,
+   "2021": 15,
+   "2022": 16,
+   "2023": 11,
+   "2024": 14,
+   "2025": 11,
+   "2026": 4
+  },
+  "par_type": {
+   "conférence": 98,
+   "journal": 86,
+   "ouvrage": 7,
+   "chapitre": 9
+  },
+  "lieux_principaux": [
+   [
+    "Computer Graphics Forum",
+    22
+   ],
+   [
+    "(lieu inconnu)",
+    7
+   ],
+   [
+    "The Visual Computer",
+    6
+   ],
+   [
+    "Computer-Aided Design",
+    5
+   ],
+   [
+    "ACM Transactions on Graphics",
+    4
+   ],
+   [
+    "VRW - IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops",
+    3
+   ],
+   [
+    "Computers and Graphics",
+    3
+   ],
+   [
+    "Eurographics",
+    3
+   ]
+  ]
+ },
+ "IRISA/EXPRESSION": {
+  "permanents_ig": 2,
+  "permanents_partiel": 0,
+  "publications_via_partiel": 0,
+  "permanents_total": 13,
+  "publications": 61,
+  "par_annee": {
+   "2011": 3,
+   "2012": 5,
+   "2013": 8,
+   "2014": 6,
+   "2015": 6,
+   "2016": 6,
+   "2017": 2,
+   "2018": 5,
+   "2019": 2,
+   "2020": 4,
+   "2021": 2,
+   "2022": 4,
+   "2023": 2,
+   "2024": 3,
+   "2025": 2,
+   "2026": 1
+  },
+  "par_type": {
+   "journal": 21,
+   "conférence": 36,
+   "chapitre": 4
+  },
+  "lieux_principaux": [
+   [
+    "Computer Animation and Virtual Worlds",
+    3
+   ],
+   [
+    "ACM Transactions on Interactive Intelligent Systems",
+    3
+   ],
+   [
+    "Revue Electronique Francophone d'Informatique Graphique",
+    3
+   ],
+   [
+    "The Visual Computer",
+    2
+   ],
+   [
+    "Handicap",
+    2
+   ],
+   [
+    "Language Resources and Evaluation Conference",
+    2
+   ],
+   [
+    "Computers and Graphics",
+    2
+   ],
+   [
+    "Workshop on the Representation and Processing of Sign Languages: Involving the Language Community, LREC",
+    2
+   ]
+  ]
+ },
+ "IRISA/Seamless": {
+  "permanents_ig": 4,
+  "permanents_partiel": 3,
+  "publications_via_partiel": 66,
+  "permanents_total": 7,
+  "publications": 536,
+  "par_annee": {
+   "2011": 20,
+   "2012": 23,
+   "2013": 37,
+   "2014": 30,
+   "2015": 30,
+   "2016": 33,
+   "2017": 35,
+   "2018": 40,
+   "2019": 37,
+   "2020": 46,
+   "2021": 31,
+   "2022": 40,
+   "2023": 33,
+   "2024": 36,
+   "2025": 35,
+   "2026": 30
+  },
+  "par_type": {
+   "journal": 205,
+   "conférence": 299,
+   "chapitre": 29,
+   "ouvrage": 3
+  },
+  "lieux_principaux": [
+   [
+    "IEEE Transactions on Visualization and Computer Graphics",
+    43
+   ],
+   [
+    "Annals of Physical and Rehabilitation Medicine",
+    17
+   ],
+   [
+    "IEEE Transactions on Haptics",
+    15
+   ],
+   [
+    "IEEE Symposium on 3D User Interfaces",
+    11
+   ],
+   [
+    "VR - IEEE Conference on Virtual Reality and 3D User Interfaces",
+    7
+   ],
+   [
+    "EuroHaptics",
+    6
+   ],
+   [
+    "WHC - IEEE World Haptics Conference",
+    6
+   ],
+   [
+    "Frontiers in Virtual Reality",
+    6
+   ]
+  ]
+ },
+ "IRISA/COMBO": {
+  "permanents_ig": 2,
+  "permanents_partiel": 3,
+  "publications_via_partiel": 143,
+  "permanents_total": 15,
+  "publications": 256,
+  "par_annee": {
+   "2011": 21,
+   "2012": 22,
+   "2013": 11,
+   "2014": 8,
+   "2015": 18,
+   "2016": 10,
+   "2017": 17,
+   "2018": 16,
+   "2019": 19,
+   "2020": 14,
+   "2021": 7,
+   "2022": 22,
+   "2023": 17,
+   "2024": 13,
+   "2025": 17,
+   "2026": 24
+  },
+  "par_type": {
+   "journal": 132,
+   "conférence": 112,
+   "ouvrage": 2,
+   "chapitre": 10
+  },
+  "lieux_principaux": [
+   [
+    "Multidisciplinary Biomechanics Journal",
+    6
+   ],
+   [
+    "Virtual Reality",
+    5
+   ],
+   [
+    "Frontiers in Sports and Active Living",
+    5
+   ],
+   [
+    "PLoS ONE",
+    5
+   ],
+   [
+    "European Journal of Sport Science",
+    4
+   ],
+   [
+    "Computers and Graphics",
+    4
+   ],
+   [
+    "Frontiers in Psychology",
+    4
+   ],
+   [
+    "Sensors",
+    4
+   ]
+  ]
+ },
+ "IRISA/Rainbow": {
+  "permanents_ig": 1,
+  "permanents_partiel": 3,
+  "publications_via_partiel": 299,
+  "permanents_total": 10,
+  "publications": 454,
+  "par_annee": {
+   "2011": 21,
+   "2012": 32,
+   "2013": 29,
+   "2014": 20,
+   "2015": 25,
+   "2016": 21,
+   "2017": 24,
+   "2018": 32,
+   "2019": 28,
+   "2020": 32,
+   "2021": 28,
+   "2022": 37,
+   "2023": 29,
+   "2024": 38,
+   "2025": 34,
+   "2026": 24
+  },
+  "par_type": {
+   "journal": 166,
+   "conférence": 271,
+   "chapitre": 17
+  },
+  "lieux_principaux": [
+   [
+    "IEEE Transactions on Haptics",
+    26
+   ],
+   [
+    "IEEE Transactions on Visualization and Computer Graphics",
+    25
+   ],
+   [
+    "IEEE Robotics and Automation Letters",
+    22
+   ],
+   [
+    "IEEE",
+    19
+   ],
+   [
+    "IROS - IEEE",
+    14
+   ],
+   [
+    "ICRA - IEEE International Conference on Robotics and Automation",
+    13
+   ],
+   [
+    "Eurohaptics",
+    9
+   ],
+   [
+    "WHC - IEEE World Haptics Conference",
+    9
+   ]
+  ]
+ },
+ "IRISA/VirtUs": {
+  "permanents_ig": 6,
+  "permanents_partiel": 2,
+  "publications_via_partiel": 46,
+  "permanents_total": 8,
+  "publications": 347,
+  "par_annee": {
+   "2011": 18,
+   "2012": 19,
+   "2013": 30,
+   "2014": 22,
+   "2015": 23,
+   "2016": 13,
+   "2017": 18,
+   "2018": 31,
+   "2019": 27,
+   "2020": 28,
+   "2021": 23,
+   "2022": 26,
+   "2023": 17,
+   "2024": 14,
+   "2025": 20,
+   "2026": 18
+  },
+  "par_type": {
+   "conférence": 163,
+   "journal": 169,
+   "ouvrage": 4,
+   "chapitre": 11
+  },
+  "lieux_principaux": [
+   [
+    "Computer Graphics Forum",
+    31
+   ],
+   [
+    "IEEE Transactions on Visualization and Computer Graphics",
+    21
+   ],
+   [
+    "ACM Transactions on Graphics",
+    14
+   ],
+   [
+    "Computers and Graphics",
+    13
+   ],
+   [
+    "Gait & Posture",
+    8
+   ],
+   [
+    "SAP - ACM Symposium on Applied Perception",
+    7
+   ],
+   [
+    "The Visual Computer",
+    6
+   ],
+   [
+    "CVPR - IEEE",
+    5
+   ]
+  ]
+ },
+ "IRIT/STORM": {
+  "permanents_ig": 6,
+  "permanents_partiel": 0,
+  "publications_via_partiel": 0,
+  "permanents_total": 6,
+  "publications": 159,
+  "par_annee": {
+   "2011": 10,
+   "2012": 7,
+   "2013": 8,
+   "2014": 14,
+   "2015": 11,
+   "2016": 6,
+   "2017": 9,
+   "2018": 11,
+   "2019": 9,
+   "2020": 10,
+   "2021": 11,
+   "2022": 11,
+   "2023": 12,
+   "2024": 15,
+   "2025": 9,
+   "2026": 6
+  },
+  "par_type": {
+   "journal": 96,
+   "conférence": 58,
+   "chapitre": 5
+  },
+  "lieux_principaux": [
+   [
+    "Computer Graphics Forum",
+    24
+   ],
+   [
+    "ACM Transactions on Graphics",
+    24
+   ],
+   [
+    "Computers and Graphics",
+    8
+   ],
+   [
+    "Journées Françaises d’Informatique Graphique",
+    6
+   ],
+   [
+    "Graphical Models",
+    3
+   ],
+   [
+    "The Visual Computer",
+    3
+   ],
+   [
+    "Journal of Mathematical Imaging and Vision",
+    3
+   ],
+   [
+    "IEEE Transactions on Visualization and Computer Graphics",
+    3
+   ]
+  ]
+ },
+ "IRIT/REVA": {
+  "permanents_ig": 5,
+  "permanents_partiel": 4,
+  "publications_via_partiel": 104,
+  "permanents_total": 14,
+  "publications": 374,
+  "par_annee": {
+   "2011": 27,
+   "2012": 20,
+   "2013": 27,
+   "2014": 27,
+   "2015": 26,
+   "2016": 30,
+   "2017": 28,
+   "2018": 25,
+   "2019": 20,
+   "2020": 12,
+   "2021": 20,
+   "2022": 17,
+   "2023": 17,
+   "2024": 19,
+   "2025": 32,
+   "2026": 27
+  },
+  "par_type": {
+   "journal": 88,
+   "conférence": 254,
+   "chapitre": 29,
+   "ouvrage": 3
+  },
+  "lieux_principaux": [
+   [
+    "ORASIS",
+    6
+   ],
+   [
+    "Congrès Reconnaissance des Formes, Image, Apprentissage et Perception",
+    5
+   ],
+   [
+    "Journal of Mathematical Imaging and Vision",
+    5
+   ],
+   [
+    "Studies in computational intelligence",
+    5
+   ],
+   [
+    "ORASIS - Congrès des jeunes chercheurs en vision par ordinateur",
+    5
+   ],
+   [
+    "WSEAS Transactions on Mathematics",
+    3
+   ],
+   [
+    "International Conference on 3D Vision",
+    3
+   ],
+   [
+    "18èmes journées francophones des jeunes chercheurs en vision par ordinateur",
+    3
+   ]
+  ]
+ },
+ "LaSTIG/GEOVIS": {
+  "permanents_ig": 4,
+  "permanents_partiel": 2,
+  "publications_via_partiel": 19,
+  "permanents_total": 10,
+  "publications": 177,
+  "par_annee": {
+   "2011": 13,
+   "2012": 7,
+   "2013": 7,
+   "2014": 9,
+   "2015": 16,
+   "2016": 20,
+   "2017": 15,
+   "2018": 9,
+   "2019": 21,
+   "2020": 16,
+   "2021": 10,
+   "2022": 7,
+   "2023": 4,
+   "2024": 5,
+   "2025": 10,
+   "2026": 8
+  },
+  "par_type": {
+   "conférence": 106,
+   "journal": 66,
+   "chapitre": 5
+  },
+  "lieux_principaux": [
+   [
+    "ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences",
+    10
+   ],
+   [
+    "ISPRS Journal of Photogrammetry and Remote Sensing",
+    7
+   ],
+   [
+    "SAGEO",
+    5
+   ],
+   [
+    "Cartes & géomatique",
+    4
+   ],
+   [
+    "The international archives of the photogrammetry, remote sensing and spatial information sciences",
+    4
+   ],
+   [
+    "Photogrammetric Image Analysis workshop",
+    4
+   ],
+   [
+    "ISPRS International Journal of Geo-Information",
+    3
+   ],
+   [
+    "Revue Française de Photogrammétrie et de Télédétection",
+    3
+   ]
+  ]
+ },
+ "LaSTIG/ACTE": {
+  "permanents_ig": 0,
+  "permanents_partiel": 7,
+  "publications_via_partiel": 184,
+  "permanents_total": 12,
+  "publications": 184,
+  "par_annee": {
+   "2011": 6,
+   "2012": 15,
+   "2013": 22,
+   "2014": 13,
+   "2015": 17,
+   "2016": 11,
+   "2017": 11,
+   "2018": 14,
+   "2019": 9,
+   "2020": 13,
+   "2021": 10,
+   "2022": 10,
+   "2023": 9,
+   "2024": 7,
+   "2025": 9,
+   "2026": 8
+  },
+  "par_type": {
+   "journal": 104,
+   "conférence": 76,
+   "ouvrage": 2,
+   "chapitre": 2
+  },
+  "lieux_principaux": [
+   [
+    "ISPRS annals of the photogrammetry, remote sensing and spatial information sciences",
+    27
+   ],
+   [
+    "ISPRS Journal of Photogrammetry and Remote Sensing",
+    16
+   ],
+   [
+    "The international archives of the photogrammetry, remote sensing and spatial information sciences",
+    9
+   ],
+   [
+    "Revue Française de Photogrammétrie et de Télédétection",
+    7
+   ],
+   [
+    "Revue XYZ",
+    4
+   ],
+   [
+    "ISPRS congress",
+    4
+   ],
+   [
+    "Sensors",
+    4
+   ],
+   [
+    "ISPRS - International Society for Photogrammetry and Remote Sensing",
+    2
+   ]
+  ]
+ },
+ "LIB/MG": {
+  "permanents_ig": 7,
+  "permanents_partiel": 0,
+  "publications_via_partiel": 0,
+  "permanents_total": 8,
+  "publications": 126,
+  "par_annee": {
+   "2011": 11,
+   "2012": 19,
+   "2013": 8,
+   "2014": 7,
+   "2015": 11,
+   "2016": 9,
+   "2017": 4,
+   "2018": 8,
+   "2019": 6,
+   "2020": 3,
+   "2021": 6,
+   "2022": 4,
+   "2023": 5,
+   "2024": 11,
+   "2025": 10,
+   "2026": 4
+  },
+  "par_type": {
+   "conférence": 70,
+   "journal": 49,
+   "chapitre": 6,
+   "ouvrage": 1
+  },
+  "lieux_principaux": [
+   [
+    "Journées du Groupe de Travail en Modélisation Géométrique",
+    11
+   ],
+   [
+    "WSEAS Transactions on Mathematics",
+    6
+   ],
+   [
+    "Computer-Aided Design",
+    6
+   ],
+   [
+    "Journées Françaises d'Informatique Graphique",
+    3
+   ],
+   [
+    "Groupe de Travail en Modélisation Géométrique",
+    3
+   ],
+   [
+    "Revue Electronique Francophone d'Informatique Graphique",
+    3
+   ],
+   [
+    "Computer Aided Geometric Design",
+    2
+   ],
+   [
+    "Encyclopedia of Computer Graphics and Games",
+    2
+   ]
+  ]
+ },
+ "LIASD/PASTIS": {
+  "permanents_ig": 1,
+  "permanents_partiel": 0,
+  "publications_via_partiel": 0,
+  "permanents_total": 11,
+  "publications": 7,
+  "par_annee": {
+   "2012": 1,
+   "2013": 2,
+   "2016": 1,
+   "2017": 1,
+   "2018": 1,
+   "2025": 1
+  },
+  "par_type": {
+   "conférence": 2,
+   "journal": 5
+  },
+  "lieux_principaux": [
+   [
+    "Eurographics - Education Papers",
+    1
+   ],
+   [
+    "CGI",
+    1
+   ],
+   [
+    "The Visual Computer",
+    1
+   ],
+   [
+    "AICCSA",
+    1
+   ],
+   [
+    "Journal of WSCG",
+    1
+   ],
+   [
+    "IEEE International Workshop on Multimedia Technologies for E-Learning - IEEE International Symposium of multimedia",
+    1
+   ],
+   [
+    "SITIS '12 : The 8th International Conference on Signal-Image Technology & Internet Systems",
+    1
+   ]
+  ]
+ },
+ "LIGM/A3SI": {
+  "permanents_ig": 1,
+  "permanents_partiel": 9,
+  "publications_via_partiel": 337,
+  "permanents_total": 22,
+  "publications": 355,
+  "par_annee": {
+   "2011": 17,
+   "2012": 13,
+   "2013": 21,
+   "2014": 21,
+   "2015": 16,
+   "2016": 25,
+   "2017": 28,
+   "2018": 34,
+   "2019": 34,
+   "2020": 24,
+   "2021": 31,
+   "2022": 36,
+   "2023": 19,
+   "2024": 13,
+   "2025": 12,
+   "2026": 11
+  },
+  "par_type": {
+   "journal": 103,
+   "conférence": 236,
+   "chapitre": 13,
+   "ouvrage": 3
+  },
+  "lieux_principaux": [
+   [
+    "Image Processing On Line",
+    14
+   ],
+   [
+    "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    13
+   ],
+   [
+    "IEEE",
+    11
+   ],
+   [
+    "European Conference on Computer Vision",
+    9
+   ],
+   [
+    "Computer Graphics Forum",
+    9
+   ],
+   [
+    "International Journal of Computer Vision",
+    8
+   ],
+   [
+    "International Conference on Computer Vision",
+    8
+   ],
+   [
+    "International Conference on 3D Vision",
+    7
+   ]
+  ]
+ },
+ "LIRIS/ORIGAMI": {
+  "permanents_ig": 21,
+  "permanents_partiel": 2,
+  "publications_via_partiel": 83,
+  "permanents_total": 23,
+  "publications": 550,
+  "par_annee": {
+   "2011": 43,
+   "2012": 47,
+   "2013": 40,
+   "2014": 34,
+   "2015": 32,
+   "2016": 31,
+   "2017": 28,
+   "2018": 24,
+   "2019": 37,
+   "2020": 37,
+   "2021": 21,
+   "2022": 24,
+   "2023": 46,
+   "2024": 39,
+   "2025": 32,
+   "2026": 35
+  },
+  "par_type": {
+   "conférence": 241,
+   "journal": 274,
+   "chapitre": 29,
+   "ouvrage": 6
+  },
+  "lieux_principaux": [
+   [
+    "Computer Graphics Forum",
+    53
+   ],
+   [
+    "ACM Transactions on Graphics",
+    35
+   ],
+   [
+    "Computers and Graphics",
+    24
+   ],
+   [
+    "Journal of Mathematical Imaging and Vision",
+    13
+   ],
+   [
+    "The Visual Computer",
+    12
+   ],
+   [
+    "IEEE Transactions on Visualization and Computer Graphics",
+    11
+   ],
+   [
+    "ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences",
+    9
+   ],
+   [
+    "Eurographics Workshop on 3D Object Retrieval",
+    7
+   ]
+  ]
+ },
+ "LIRIS/SAARA": {
+  "permanents_ig": 3,
+  "permanents_partiel": 1,
+  "publications_via_partiel": 3,
+  "permanents_total": 7,
+  "publications": 81,
+  "par_annee": {
+   "2011": 13,
+   "2012": 21,
+   "2013": 5,
+   "2014": 7,
+   "2015": 3,
+   "2016": 4,
+   "2017": 5,
+   "2018": 1,
+   "2019": 1,
+   "2020": 5,
+   "2021": 6,
+   "2022": 3,
+   "2023": 2,
+   "2024": 2,
+   "2025": 2,
+   "2026": 1
+  },
+  "par_type": {
+   "journal": 28,
+   "conférence": 49,
+   "chapitre": 4
+  },
+  "lieux_principaux": [
+   [
+    "Computer Animation and Virtual Worlds",
+    5
+   ],
+   [
+    "RFIA",
+    5
+   ],
+   [
+    "The Visual Computer",
+    4
+   ],
+   [
+    "Journées Françaises de l'Informatique Graphique",
+    3
+   ],
+   [
+    "CORESA",
+    3
+   ],
+   [
+    "IEEE Access",
+    2
+   ],
+   [
+    "Computer Graphics Forum",
+    2
+   ],
+   [
+    "Pattern Recognition Letters",
+    2
+   ]
+  ]
+ },
+ "LIRMM/ICAR": {
+  "permanents_ig": 2,
+  "permanents_partiel": 3,
+  "publications_via_partiel": 204,
+  "permanents_total": 13,
+  "publications": 223,
+  "par_annee": {
+   "2011": 10,
+   "2012": 6,
+   "2013": 12,
+   "2014": 10,
+   "2015": 14,
+   "2016": 17,
+   "2017": 13,
+   "2018": 17,
+   "2019": 14,
+   "2020": 8,
+   "2021": 16,
+   "2022": 17,
+   "2023": 16,
+   "2024": 20,
+   "2025": 18,
+   "2026": 15
+  },
+  "par_type": {
+   "journal": 113,
+   "conférence": 104,
+   "chapitre": 5,
+   "ouvrage": 1
+  },
+  "lieux_principaux": [
+   [
+    "Morphologie",
+    7
+   ],
+   [
+    "Computer Graphics Forum",
+    4
+   ],
+   [
+    "PLoS ONE",
+    4
+   ],
+   [
+    "Electronic Imaging",
+    4
+   ],
+   [
+    "AAPA: American Association of Physical Anthropologists",
+    4
+   ],
+   [
+    "Clinical Anatomy",
+    3
+   ],
+   [
+    "Surgical and Radiologic Anatomy",
+    3
+   ],
+   [
+    "Frontiers in Bioinformatics",
+    3
+   ]
+  ]
+ },
+ "LIX/VISTA": {
+  "permanents_ig": 4,
+  "permanents_partiel": 0,
+  "publications_via_partiel": 0,
+  "permanents_total": 4,
+  "publications": 170,
+  "par_annee": {
+   "2011": 5,
+   "2012": 4,
+   "2013": 8,
+   "2014": 7,
+   "2015": 13,
+   "2016": 8,
+   "2017": 8,
+   "2018": 7,
+   "2019": 10,
+   "2020": 5,
+   "2021": 10,
+   "2022": 14,
+   "2023": 13,
+   "2024": 22,
+   "2025": 20,
+   "2026": 16
+  },
+  "par_type": {
+   "journal": 104,
+   "conférence": 63,
+   "chapitre": 3
+  },
+  "lieux_principaux": [
+   [
+    "Computer Graphics Forum",
+    35
+   ],
+   [
+    "ACM Transactions on Graphics",
+    21
+   ],
+   [
+    "Computers & Graphics",
+    17
+   ],
+   [
+    "IEEE Transactions on Visualization and Computer Graphics",
+    4
+   ],
+   [
+    "Motion, Interaction and Games",
+    4
+   ],
+   [
+    "IEEE",
+    3
+   ],
+   [
+    "International Journal of Computer Vision",
+    2
+   ],
+   [
+    "Proceedings of VISAPP",
+    2
+   ]
+  ]
+ },
+ "LIX/GeomeriX": {
+  "permanents_ig": 4,
+  "permanents_partiel": 0,
+  "publications_via_partiel": 0,
+  "permanents_total": 5,
+  "publications": 169,
+  "par_annee": {
+   "2011": 4,
+   "2012": 2,
+   "2013": 8,
+   "2014": 6,
+   "2015": 8,
+   "2016": 3,
+   "2017": 10,
+   "2018": 15,
+   "2019": 9,
+   "2020": 10,
+   "2021": 11,
+   "2022": 18,
+   "2023": 14,
+   "2024": 18,
+   "2025": 16,
+   "2026": 17
+  },
+  "par_type": {
+   "journal": 120,
+   "conférence": 46,
+   "chapitre": 3
+  },
+  "lieux_principaux": [
+   [
+    "ACM Transactions on Graphics",
+    53
+   ],
+   [
+    "Computer Graphics Forum",
+    38
+   ],
+   [
+    "CVPR - IEEE",
+    5
+   ],
+   [
+    "IEEE Transactions on Visualization and Computer Graphics",
+    3
+   ],
+   [
+    "ICML - International Conference on Machine Learning",
+    2
+   ],
+   [
+    "ISPRS Journal of Photogrammetry and Remote Sensing",
+    2
+   ],
+   [
+    "3DV - International Conference on 3D Vision",
+    2
+   ],
+   [
+    "ICCV - International Conference on Computer Vision",
+    2
+   ]
+  ]
+ },
+ "LJK/ELAN": {
+  "permanents_ig": 3,
+  "permanents_partiel": 0,
+  "publications_via_partiel": 0,
+  "permanents_total": 3,
+  "publications": 64,
+  "par_annee": {
+   "2011": 3,
+   "2012": 1,
+   "2013": 3,
+   "2014": 3,
+   "2015": 5,
+   "2016": 6,
+   "2018": 6,
+   "2019": 4,
+   "2020": 3,
+   "2021": 2,
+   "2022": 5,
+   "2023": 7,
+   "2024": 7,
+   "2025": 7,
+   "2026": 2
+  },
+  "par_type": {
+   "journal": 29,
+   "conférence": 34,
+   "chapitre": 1
+  },
+  "lieux_principaux": [
+   [
+    "ACM Transactions on Graphics",
+    10
+   ],
+   [
+    "HFSS – International Conference on Highly Flexible Slender Structures",
+    4
+   ],
+   [
+    "ESMC - 12th European Solid Mechanics Conference",
+    3
+   ],
+   [
+    "European Solid Mechanics Conference ESMC",
+    3
+   ],
+   [
+    "Computer Graphics Forum",
+    2
+   ],
+   [
+    "DFD - 78th Annual Meeting of the APS Division of Fluid Dynamics",
+    2
+   ],
+   [
+    "Physical Review Letters",
+    2
+   ],
+   [
+    "16ème Colloque National en Calcul de Structures",
+    2
+   ]
+  ]
+ },
+ "LJK/MAVERICK": {
+  "permanents_ig": 6,
+  "permanents_partiel": 0,
+  "publications_via_partiel": 0,
+  "permanents_total": 6,
+  "publications": 133,
+  "par_annee": {
+   "2011": 12,
+   "2012": 13,
+   "2013": 12,
+   "2014": 3,
+   "2015": 8,
+   "2016": 10,
+   "2017": 11,
+   "2018": 12,
+   "2019": 7,
+   "2020": 11,
+   "2021": 7,
+   "2022": 7,
+   "2023": 4,
+   "2024": 7,
+   "2025": 5,
+   "2026": 4
+  },
+  "par_type": {
+   "conférence": 61,
+   "journal": 70,
+   "chapitre": 2
+  },
+  "lieux_principaux": [
+   [
+    "Computer Graphics Forum",
+    20
+   ],
+   [
+    "ACM Transactions on Graphics",
+    17
+   ],
+   [
+    "IEEE Transactions on Visualization and Computer Graphics",
+    10
+   ],
+   [
+    "Journal of Vision",
+    5
+   ],
+   [
+    "Proceedings of the ACM on Computer Graphics and Interactive Techniques",
+    4
+   ],
+   [
+    "Computational Visual Media",
+    3
+   ],
+   [
+    "Computers and Graphics",
+    2
+   ],
+   [
+    "HPG - High Performance Graphics",
+    2
+   ]
+  ]
+ },
+ "LJK/CRAFT": {
+  "permanents_ig": 5,
+  "permanents_partiel": 0,
+  "publications_via_partiel": 0,
+  "permanents_total": 5,
+  "publications": 107,
+  "par_annee": {
+   "2011": 7,
+   "2012": 5,
+   "2013": 6,
+   "2014": 12,
+   "2015": 8,
+   "2016": 10,
+   "2017": 8,
+   "2018": 5,
+   "2019": 5,
+   "2020": 3,
+   "2021": 8,
+   "2022": 8,
+   "2023": 6,
+   "2024": 5,
+   "2025": 5,
+   "2026": 6
+  },
+  "par_type": {
+   "journal": 50,
+   "conférence": 47,
+   "chapitre": 5,
+   "ouvrage": 5
+  },
+  "lieux_principaux": [
+   [
+    "Computer Graphics Forum",
+    12
+   ],
+   [
+    "ACM Transactions on Graphics",
+    10
+   ],
+   [
+    "Computers and Graphics",
+    9
+   ],
+   [
+    "Computer-Aided Design",
+    7
+   ],
+   [
+    "(lieu inconnu)",
+    5
+   ],
+   [
+    "Graphical Models",
+    3
+   ],
+   [
+    "Journées Françaises d'Informatique Graphique",
+    2
+   ],
+   [
+    "GCH - EUROGRAPHICS Workshop on Graphics and Cultural Heritage",
+    2
+   ]
+  ]
+ },
+ "LJK/Kinetix": {
+  "permanents_ig": 3,
+  "permanents_partiel": 1,
+  "publications_via_partiel": 35,
+  "permanents_total": 4,
+  "publications": 154,
+  "par_annee": {
+   "2011": 11,
+   "2012": 10,
+   "2013": 7,
+   "2014": 10,
+   "2015": 9,
+   "2016": 17,
+   "2017": 10,
+   "2018": 11,
+   "2019": 10,
+   "2020": 13,
+   "2021": 6,
+   "2022": 9,
+   "2023": 10,
+   "2024": 11,
+   "2025": 6,
+   "2026": 4
+  },
+  "par_type": {
+   "conférence": 100,
+   "journal": 46,
+   "chapitre": 7,
+   "ouvrage": 1
+  },
+  "lieux_principaux": [
+   [
+    "3DV - International Conference on 3D Vision",
+    10
+   ],
+   [
+    "CVPR - IEEE Conference on Computer Vision and Pattern Recognition",
+    7
+   ],
+   [
+    "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    7
+   ],
+   [
+    "CVPR - IEEE International Conference on Computer Vision and Pattern Recognition",
+    5
+   ],
+   [
+    "CVPR - IEEE",
+    5
+   ],
+   [
+    "ECCV - European Conference on Computer Vision",
+    5
+   ],
+   [
+    "IEEE Transactions on Visualization and Computer Graphics",
+    4
+   ],
+   [
+    "ACM Transactions on Graphics",
+    4
+   ]
+  ]
+ },
+ "LIS/GMOD": {
+  "permanents_ig": 5,
+  "permanents_partiel": 4,
+  "publications_via_partiel": 44,
+  "permanents_total": 10,
+  "publications": 148,
+  "par_annee": {
+   "2011": 7,
+   "2012": 10,
+   "2013": 18,
+   "2014": 17,
+   "2015": 14,
+   "2016": 9,
+   "2017": 11,
+   "2018": 14,
+   "2019": 14,
+   "2020": 9,
+   "2021": 4,
+   "2022": 5,
+   "2023": 4,
+   "2024": 7,
+   "2025": 3,
+   "2026": 2
+  },
+  "par_type": {
+   "journal": 44,
+   "conférence": 98,
+   "chapitre": 5,
+   "ouvrage": 1
+  },
+  "lieux_principaux": [
+   [
+    "Journées du Groupe de Travail en Modélisation Géométrique, GTMG",
+    6
+   ],
+   [
+    "The Visual Computer",
+    3
+   ],
+   [
+    "Traitement du Signal",
+    3
+   ],
+   [
+    "Computers and Graphics",
+    3
+   ],
+   [
+    "EGU General Assembly",
+    3
+   ],
+   [
+    "Journées du Groupe de Travail en Modélisation géométrique",
+    3
+   ],
+   [
+    "Computer Graphics International",
+    3
+   ],
+   [
+    "Remote Sensing",
+    2
+   ]
+  ]
+ },
+ "LTCI/IMAGES": {
+  "permanents_ig": 2,
+  "permanents_partiel": 2,
+  "publications_via_partiel": 118,
+  "permanents_total": 12,
+  "publications": 153,
+  "par_annee": {
+   "2011": 9,
+   "2012": 8,
+   "2013": 12,
+   "2014": 6,
+   "2015": 6,
+   "2016": 7,
+   "2017": 11,
+   "2018": 12,
+   "2019": 7,
+   "2020": 7,
+   "2021": 8,
+   "2022": 9,
+   "2023": 16,
+   "2024": 10,
+   "2025": 15,
+   "2026": 10
+  },
+  "par_type": {
+   "journal": 67,
+   "conférence": 85,
+   "ouvrage": 1
+  },
+  "lieux_principaux": [
+   [
+    "Computer Graphics Forum",
+    8
+   ],
+   [
+    "GRETSI",
+    8
+   ],
+   [
+    "IEEE Transactions on Geoscience and Remote Sensing",
+    6
+   ],
+   [
+    "Journal of Mathematical Imaging and Vision",
+    6
+   ],
+   [
+    "SIAM Journal on Imaging Sciences",
+    6
+   ],
+   [
+    "IGARSS",
+    5
+   ],
+   [
+    "Computer Vision and Image Understanding",
+    4
+   ],
+   [
+    "IEEE Transactions on Image Processing",
+    4
+   ]
+  ]
+ },
+ "XLIM/IG": {
+  "permanents_ig": 13,
+  "permanents_partiel": 5,
+  "publications_via_partiel": 51,
+  "permanents_total": 20,
+  "publications": 233,
+  "par_annee": {
+   "2011": 21,
+   "2012": 12,
+   "2013": 13,
+   "2014": 17,
+   "2015": 15,
+   "2016": 14,
+   "2017": 16,
+   "2018": 17,
+   "2019": 26,
+   "2020": 9,
+   "2021": 10,
+   "2022": 11,
+   "2023": 15,
+   "2024": 18,
+   "2025": 13,
+   "2026": 6
+  },
+  "par_type": {
+   "journal": 103,
+   "conférence": 117,
+   "chapitre": 11,
+   "ouvrage": 2
+  },
+  "lieux_principaux": [
+   [
+    "Computer Graphics Forum",
+    10
+   ],
+   [
+    "The Visual Computer",
+    6
+   ],
+   [
+    "Computers and Graphics",
+    5
+   ],
+   [
+    "IEEE Transactions on Visualization and Computer Graphics",
+    5
+   ],
+   [
+    "GTMG",
+    5
+   ],
+   [
+    "Lecture Notes in Computer Science",
+    5
+   ],
+   [
+    "Advances in Applied Clifford Algebras",
+    5
+   ],
+   [
+    "ACM Transactions on Graphics",
+    4
+   ]
+  ]
+ },
+ "XLIM/SIR": {
+  "permanents_ig": 5,
+  "permanents_partiel": 3,
+  "publications_via_partiel": 13,
+  "permanents_total": 10,
+  "publications": 107,
+  "par_annee": {
+   "2011": 13,
+   "2012": 10,
+   "2013": 5,
+   "2014": 5,
+   "2015": 9,
+   "2016": 6,
+   "2017": 3,
+   "2018": 8,
+   "2019": 5,
+   "2020": 4,
+   "2021": 9,
+   "2022": 3,
+   "2023": 10,
+   "2024": 5,
+   "2025": 8,
+   "2026": 4
+  },
+  "par_type": {
+   "journal": 55,
+   "conférence": 47,
+   "chapitre": 5
+  },
+  "lieux_principaux": [
+   [
+    "Computer Graphics Forum",
+    8
+   ],
+   [
+    "Computers and Graphics",
+    4
+   ],
+   [
+    "Bioinformatics",
+    3
+   ],
+   [
+    "Tunnelling and Underground Space Technology",
+    3
+   ],
+   [
+    "The Visual Computer",
+    3
+   ],
+   [
+    "Eurographics",
+    3
+   ],
+   [
+    "IEEE Transactions on Visualization and Computer Graphics",
+    2
+   ],
+   [
+    "International Journal of Image and Graphics",
+    2
+   ]
+  ]
+ },
+ "LORIA/MFX": {
+  "permanents_ig": 5,
+  "permanents_partiel": 0,
+  "publications_via_partiel": 0,
+  "permanents_total": 5,
+  "publications": 115,
+  "par_annee": {
+   "2011": 5,
+   "2012": 5,
+   "2013": 7,
+   "2014": 8,
+   "2015": 9,
+   "2016": 7,
+   "2017": 6,
+   "2018": 12,
+   "2019": 11,
+   "2020": 8,
+   "2021": 7,
+   "2022": 5,
+   "2023": 6,
+   "2024": 6,
+   "2025": 4,
+   "2026": 9
+  },
+  "par_type": {
+   "journal": 84,
+   "conférence": 24,
+   "chapitre": 6,
+   "ouvrage": 1
+  },
+  "lieux_principaux": [
+   [
+    "ACM Transactions on Graphics",
+    32
+   ],
+   [
+    "Computer Graphics Forum",
+    22
+   ],
+   [
+    "Computers and Graphics",
+    7
+   ],
+   [
+    "Synthesis lectures on visual computing",
+    5
+   ],
+   [
+    "Eurographics - Short Papers",
+    3
+   ],
+   [
+    "Computer-Aided Design",
+    3
+   ],
+   [
+    "Eurographics",
+    3
+   ],
+   [
+    "IEEE Transactions on Visualization and Computer Graphics",
+    3
+   ]
+  ]
+ },
+ "LORIA/PIXEL": {
+  "permanents_ig": 5,
+  "permanents_partiel": 0,
+  "publications_via_partiel": 0,
+  "permanents_total": 5,
+  "publications": 82,
+  "par_annee": {
+   "2011": 3,
+   "2012": 5,
+   "2013": 3,
+   "2014": 3,
+   "2015": 6,
+   "2016": 4,
+   "2017": 6,
+   "2018": 5,
+   "2019": 4,
+   "2020": 16,
+   "2021": 9,
+   "2022": 5,
+   "2023": 4,
+   "2024": 5,
+   "2025": 2,
+   "2026": 2
+  },
+  "par_type": {
+   "conférence": 30,
+   "journal": 46,
+   "chapitre": 5,
+   "ouvrage": 1
+  },
+  "lieux_principaux": [
+   [
+    "ACM Transactions on Graphics",
+    15
+   ],
+   [
+    "Computer-Aided Design",
+    7
+   ],
+   [
+    "Journées Françaises d'Informatique Graphique",
+    5
+   ],
+   [
+    "Computer Graphics Forum",
+    4
+   ],
+   [
+    "IEEE Access",
+    3
+   ],
+   [
+    "Groupe de Travail en Modélisation Géométrique",
+    3
+   ],
+   [
+    "14th International Symposium \"Intelligent Systems - \"",
+    2
+   ],
+   [
+    "Chaos, Solitons & Fractals",
+    2
+   ]
+  ]
+ },
+ "LaBRI/Manao": {
+  "permanents_ig": 5,
+  "permanents_partiel": 2,
+  "publications_via_partiel": 36,
+  "permanents_total": 7,
+  "publications": 199,
+  "par_annee": {
+   "2011": 7,
+   "2012": 13,
+   "2013": 12,
+   "2014": 9,
+   "2015": 11,
+   "2016": 13,
+   "2017": 13,
+   "2018": 14,
+   "2019": 11,
+   "2020": 8,
+   "2021": 18,
+   "2022": 9,
+   "2023": 20,
+   "2024": 18,
+   "2025": 14,
+   "2026": 9
+  },
+  "par_type": {
+   "conférence": 87,
+   "journal": 94,
+   "ouvrage": 4,
+   "chapitre": 14
+  },
+  "lieux_principaux": [
+   [
+    "Computer Graphics Forum",
+    22
+   ],
+   [
+    "ACM Transactions on Graphics",
+    16
+   ],
+   [
+    "Les couleurs des albâtres anglais. Polychromie, production et perception médiévales",
+    8
+   ],
+   [
+    "Journal of Vision",
+    7
+   ],
+   [
+    "Optics Express",
+    4
+   ],
+   [
+    "Computers and Graphics",
+    4
+   ],
+   [
+    "(lieu inconnu)",
+    4
+   ],
+   [
+    "EGSR - MAM",
+    3
+   ]
+  ]
+ },
+ "LISIC/SEPIA": {
+  "permanents_ig": 4,
+  "permanents_partiel": 1,
+  "publications_via_partiel": 7,
+  "permanents_total": 6,
+  "publications": 101,
+  "par_annee": {
+   "2011": 3,
+   "2012": 4,
+   "2013": 6,
+   "2014": 12,
+   "2015": 9,
+   "2016": 8,
+   "2017": 6,
+   "2018": 15,
+   "2019": 5,
+   "2020": 4,
+   "2021": 7,
+   "2022": 7,
+   "2023": 7,
+   "2024": 2,
+   "2025": 3,
+   "2026": 3
+  },
+  "par_type": {
+   "journal": 43,
+   "conférence": 41,
+   "chapitre": 15,
+   "ouvrage": 2
+  },
+  "lieux_principaux": [
+   [
+    "SpringerBriefs in computer science",
+    7
+   ],
+   [
+    "IEEE Transactions on Visualization and Computer Graphics",
+    4
+   ],
+   [
+    "Computers and Graphics",
+    4
+   ],
+   [
+    "Revue Electronique Francophone d'Informatique Graphique",
+    4
+   ],
+   [
+    "Computer Graphics Forum",
+    3
+   ],
+   [
+    "PLoS ONE",
+    2
+   ],
+   [
+    "Journal of Imaging",
+    2
+   ],
+   [
+    "(lieu inconnu)",
+    2
+   ]
+  ]
+ },
+ "Inria/GraphDeco": {
+  "permanents_ig": 3,
+  "permanents_partiel": 0,
+  "publications_via_partiel": 0,
+  "permanents_total": 3,
+  "publications": 179,
+  "par_annee": {
+   "2011": 10,
+   "2012": 9,
+   "2013": 9,
+   "2014": 7,
+   "2015": 12,
+   "2016": 11,
+   "2017": 7,
+   "2018": 11,
+   "2019": 12,
+   "2020": 11,
+   "2021": 11,
+   "2022": 13,
+   "2023": 9,
+   "2024": 19,
+   "2025": 12,
+   "2026": 16
+  },
+  "par_type": {
+   "journal": 135,
+   "conférence": 43,
+   "chapitre": 1
+  },
+  "lieux_principaux": [
+   [
+    "ACM Transactions on Graphics",
+    51
+   ],
+   [
+    "Computer Graphics Forum",
+    48
+   ],
+   [
+    "Proceedings of the ACM on Computer Graphics and Interactive Techniques",
+    10
+   ],
+   [
+    "Computers and Graphics",
+    5
+   ],
+   [
+    "IEEE Transactions on Visualization and Computer Graphics",
+    5
+   ],
+   [
+    "SCF - ACM Symposium on Computational Fabrication",
+    2
+   ],
+   [
+    "Journal of Glaciology",
+    2
+   ],
+   [
+    "I3D - ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games",
+    2
+   ]
+  ]
+ },
+ "Inria/Titane": {
+  "permanents_ig": 3,
+  "permanents_partiel": 0,
+  "publications_via_partiel": 0,
+  "permanents_total": 3,
+  "publications": 137,
+  "par_annee": {
+   "2011": 6,
+   "2012": 4,
+   "2013": 13,
+   "2014": 8,
+   "2015": 10,
+   "2016": 9,
+   "2017": 13,
+   "2018": 6,
+   "2019": 12,
+   "2020": 10,
+   "2021": 8,
+   "2022": 12,
+   "2023": 8,
+   "2024": 8,
+   "2025": 3,
+   "2026": 7
+  },
+  "par_type": {
+   "journal": 67,
+   "conférence": 65,
+   "ouvrage": 2,
+   "chapitre": 3
+  },
+  "lieux_principaux": [
+   [
+    "Computer Graphics Forum",
+    14
+   ],
+   [
+    "ACM Transactions on Graphics",
+    14
+   ],
+   [
+    "ISPRS Journal of Photogrammetry and Remote Sensing",
+    8
+   ],
+   [
+    "IEEE Transactions on Geoscience and Remote Sensing",
+    5
+   ],
+   [
+    "IEEE Conference on Computer Vision and Pattern Recognition",
+    4
+   ],
+   [
+    "CVPR - IEEE Conference on Computer Vision and Pattern Recognition",
+    3
+   ],
+   [
+    "IGARSS - IEEE International Geoscience and Remote Sensing Symposium",
+    3
+   ],
+   [
+    "Computer Vision and Pattern Recognition",
+    2
+   ]
+  ]
+ },
+ "Inria/AVIZ": {
+  "permanents_ig": 4,
+  "permanents_partiel": 1,
+  "publications_via_partiel": 31,
+  "permanents_total": 5,
+  "publications": 382,
+  "par_annee": {
+   "2011": 29,
+   "2012": 27,
+   "2013": 35,
+   "2014": 17,
+   "2015": 18,
+   "2016": 22,
+   "2017": 25,
+   "2018": 21,
+   "2019": 28,
+   "2020": 18,
+   "2021": 32,
+   "2022": 28,
+   "2023": 13,
+   "2024": 27,
+   "2025": 24,
+   "2026": 18
+  },
+  "par_type": {
+   "journal": 184,
+   "conférence": 160,
+   "chapitre": 26,
+   "ouvrage": 12
+  },
+  "lieux_principaux": [
+   [
+    "IEEE Transactions on Visualization and Computer Graphics",
+    92
+   ],
+   [
+    "Computer Graphics Forum",
+    23
+   ],
+   [
+    "IEEE Computer Graphics and Applications",
+    15
+   ],
+   [
+    "Computers and Graphics",
+    13
+   ],
+   [
+    "(lieu inconnu)",
+    12
+   ],
+   [
+    "Journée Visu",
+    8
+   ],
+   [
+    "Information Visualization",
+    5
+   ],
+   [
+    "Proceedings of the Annual Conference on Human Factors in Computing Systems",
+    5
+   ]
+  ]
+ }
+}

@@ -1,0 +1,717 @@
+{
+"equipe": "LORIA/PIXEL",
+"publications": [
+{
+"id": "pc9d4821992",
+"titre": "Block-structured quadrilateral meshing using colored medial axis",
+"annee": 2026,
+"type": "conférence",
+"lieu": "SIAM International Meshing Roundtable Workshop 2026",
+"url": "https://hal.science/hal-05704857v1",
+"doi": "10.1137/1.9781611979138.23"
+},
+{
+"id": "p836fe618de",
+"titre": "Implicit Minimal Surfaces for Bijective Correspondences",
+"annee": 2026,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-05687209v1",
+"doi": "10.1145/3811368"
+},
+{
+"id": "pd183444be9",
+"titre": "Large-scale semi-discrete optimal transport with distributed Voronoi diagrams",
+"annee": 2025,
+"type": "journal",
+"lieu": "Journal of Computational Physics",
+"url": "https://inria.hal.science/hal-05253830v1",
+"doi": "10.1016/j.jcp.2025.114374"
+},
+{
+"id": "p8288bb4183",
+"titre": "Rectangular Surface Parameterization",
+"annee": 2025,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-05189504v1",
+"doi": "10.1145/3731176"
+},
+{
+"id": "p626f5769e8",
+"titre": "2.5D Hexahedral Meshing for Reservoir Simulations",
+"annee": 2024,
+"type": "journal",
+"lieu": "Mathematical Geosciences",
+"url": "https://hal.science/hal-04540667v1",
+"doi": "10.1007/s11004-023-10106-5"
+},
+{
+"id": "p78782c255a",
+"titre": "Curvature-Driven Conformal Deformations",
+"annee": 2024,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-04655365v1",
+"doi": "10.1145/3658145"
+},
+{
+"id": "p5b2870c560",
+"titre": "Deformation Recovery: Localized Learning for Detail-Preserving Deformations",
+"annee": 2024,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-04802784v1",
+"doi": "10.1145/3687968"
+},
+{
+"id": "pc3a7616119",
+"titre": "High level methods for scene exploration",
+"annee": 2024,
+"type": "journal",
+"lieu": "Journal of Virtual Reality and Broadcasting",
+"url": "https://doi.org/10.20385/1860-2037/3.2006.12",
+"doi": "10.20385/1860-2037/3.2006.12"
+},
+{
+"id": "pbac2a6c7cd",
+"titre": "In the Quest for Scale-optimal Mappings",
+"annee": 2024,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-04395608v1",
+"doi": "10.1145/3627102"
+},
+{
+"id": "p1587f58a01",
+"titre": "Coverage Path Planning Optimization of Heterogeneous UAVs Group for Precision Agriculture",
+"annee": 2023,
+"type": "journal",
+"lieu": "IEEE Access",
+"url": "https://doi.org/10.1109/access.2023.3235207",
+"doi": "10.1109/access.2023.3235207"
+},
+{
+"id": "p54cc71b9fa",
+"titre": "Least squares conformal maps for automatic texture atlas generation",
+"annee": 2023,
+"type": "chapitre",
+"lieu": "ACM eBooks",
+"url": "https://doi.org/10.1145/3596711.3596734",
+"doi": "10.1145/3596711.3596734"
+},
+{
+"id": "p418585d925",
+"titre": "Quad Mesh Quantization Without a T‐Mesh",
+"annee": 2023,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-04395861v1",
+"doi": "10.1111/cgf.14928"
+},
+{
+"id": "pdaba53a034",
+"titre": "The Method of Moving Frames for Surface Global Parametrization",
+"annee": 2023,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-03670525v2",
+"doi": "10.1145/3604282"
+},
+{
+"id": "p85d5963fac",
+"titre": "Complex Functional Maps : a Conformal Link Between Tangent Bundles",
+"annee": 2022,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-03480605v1",
+"doi": "10.1111/cgf.14437"
+},
+{
+"id": "p6317e044b6",
+"titre": "Deep Orientation-Aware Functional Maps: Tackling Symmetry Issues in Shape Matching",
+"annee": 2022,
+"type": "conférence",
+"lieu": "CVPR 2022 - IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+"url": "https://hal.science/hal-03654308v1",
+"doi": "10.48550/arxiv.2204.13453"
+},
+{
+"id": "p4fd3c837ec",
+"titre": "Frame Fields for CAD models",
+"annee": 2022,
+"type": "journal",
+"lieu": "Lecture Notes in Computer Science",
+"url": "https://inria.hal.science/hal-03537852v1",
+"doi": "10.1007/978-3-030-90436-4_34"
+},
+{
+"id": "pb440974e61",
+"titre": "Mesh Untangling for Problems with Topological Singularities",
+"annee": 2022,
+"type": "conférence",
+"lieu": "NUMGRID Conference 2022 - 11th International Conference on Numerical Geometry, Grid Generation and Scientific Computing",
+"url": "https://inria.hal.science/hal-04886999v1",
+"doi": "10.1007/978-3-031-59652-0_5"
+},
+{
+"id": "p67cb211682",
+"titre": "Robust Quantization for Polycube Maps",
+"annee": 2022,
+"type": "journal",
+"lieu": "Computer-Aided Design",
+"url": "https://hal.science/hal-03076711v1",
+"doi": "10.1016/j.cad.2022.103321"
+},
+{
+"id": "pbf18d546ef",
+"titre": "Designing 2D and 3D Non-Orthogonal Frame Fields",
+"annee": 2021,
+"type": "journal",
+"lieu": "Computer-Aided Design",
+"url": "https://inria.hal.science/hal-03287233v1",
+"doi": "10.1016/j.cad.2021.103081"
+},
+{
+"id": "p6d610825b3",
+"titre": "Foldover-free maps in 50 lines of code",
+"annee": 2021,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-03127350v2",
+"doi": "10.1145/3450626.3459847"
+},
+{
+"id": "pccaae1d5b3",
+"titre": "Gyrubot: nonanthropomorphic stabilization for a biped",
+"annee": 2021,
+"type": "conférence",
+"lieu": "ICRA 2021 - IEEE International Conference on Robotics and Automation",
+"url": "https://hal.science/hal-03172031v1"
+},
+{
+"id": "p6c269f5b15",
+"titre": "On Local Invertibility and Quality of Free-boundary Deformations",
+"annee": 2021,
+"type": "conférence",
+"lieu": "IMR 2021 - 29th International Meshing Roundtable",
+"url": "https://hal.science/hal-03341392v1"
+},
+{
+"id": "pcf7f0c7fda",
+"titre": "Parametric Surface Fitting on Airborne Lidar Point Clouds for Building Reconstruction",
+"annee": 2021,
+"type": "journal",
+"lieu": "Computer-Aided Design",
+"url": "https://hal.science/hal-03281816v1",
+"doi": "10.1016/j.cad.2021.103090"
+},
+{
+"id": "p4062b897bb",
+"titre": "Restricted Power Diagrams on the GPU",
+"annee": 2021,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-03169575v1",
+"doi": "10.1111/cgf.142610"
+},
+{
+"id": "p969407e58f",
+"titre": "Robust adaptive stabilization by delay under state parametric uncertainty and measurement bias",
+"annee": 2021,
+"type": "journal",
+"lieu": "IEEE Transactions on Automatic Control",
+"url": "https://inria.hal.science/hal-03059893v1",
+"doi": "10.1109/tac.2020.3045125"
+},
+{
+"id": "pa12d7985b2",
+"titre": "Singular Structured Hexahedral Grid",
+"annee": 2021,
+"type": "conférence",
+"lieu": "RING Meeting 2021",
+"url": "https://hal.science/hal-03375671v1"
+},
+{
+"id": "p70a5a40f7b",
+"titre": "Switched Observer Design For a Class of Locally Unobservable Time-Varying Systems",
+"annee": 2021,
+"type": "journal",
+"lieu": "Automatica",
+"url": "https://hal.science/hal-03273675v1",
+"doi": "10.1016/j.automatica.2021.109715"
+},
+{
+"id": "p39c94cc2ce",
+"titre": "Adaptive stabilization by delay with biased measurements",
+"annee": 2020,
+"type": "conférence",
+"lieu": "IFAC 2020 - 21st IFAC World Congress",
+"url": "https://inria.hal.science/hal-02634582v1"
+},
+{
+"id": "pc5119ce192",
+"titre": "Ajustement de surfaces paramétriques sur nuages de points",
+"annee": 2020,
+"type": "conférence",
+"lieu": "Journées Françaises d'Informatique Graphique (JFIG2020)",
+"url": "https://inria.hal.science/hal-02992607v1"
+},
+{
+"id": "p9006e941ef",
+"titre": "Bias Propagation and Estimation in Homogeneous Differentiators for a Class of Mechanical Systems",
+"annee": 2020,
+"type": "journal",
+"lieu": "IEEE Access",
+"url": "https://centralesupelec.hal.science/hal-02516559v1",
+"doi": "10.1109/access.2020.2968219"
+},
+{
+"id": "pc3efba8fdb",
+"titre": "Champs de repères 2D non orthogonaux",
+"annee": 2020,
+"type": "conférence",
+"lieu": "Journées Françaises d'Informatique Graphique (JFIG2020)",
+"url": "https://inria.hal.science/hal-02992596v1"
+},
+{
+"id": "p1b55301368",
+"titre": "Champs de repères pour les modèles CAO",
+"annee": 2020,
+"type": "conférence",
+"lieu": "Journées Françaises d'Informatique Graphique (JFIG2020)",
+"url": "https://inria.hal.science/hal-02992612v1"
+},
+{
+"id": "p732241f624",
+"titre": "Experimental Comparison of Velocity Observers: A Scissored Pair Control Moment Gyroscope Case Study",
+"annee": 2020,
+"type": "journal",
+"lieu": "IEEE Access",
+"url": "https://centralesupelec.hal.science/hal-02516558v1",
+"doi": "10.1109/access.2020.2968221"
+},
+{
+"id": "p5a77f16ed6",
+"titre": "Experimental comparison of velocity estimators for a control moment gyroscope inverted pendulum",
+"annee": 2020,
+"type": "conférence",
+"lieu": "AMC 2020 - 16th IEEE International Workshop on Advanced Motion Control",
+"url": "https://inria.hal.science/hal-02313600v2"
+},
+{
+"id": "pe330c6e8eb",
+"titre": "Feedback Control with Equilibrium Revision for CMG-Actuated Inverted Pendulum",
+"annee": 2020,
+"type": "chapitre",
+"lieu": "Proceedings of 14th International Conference on Electromechanics and Robotics \"Zavalishin's Readings\"",
+"url": "https://inria.hal.science/hal-02282908v1",
+"doi": "10.1007/978-981-13-9267-2_35"
+},
+{
+"id": "p615f27ebbd",
+"titre": "Global parametrization based on Ginzburg-Landau functional",
+"annee": 2020,
+"type": "conférence",
+"lieu": "NUMGRID 2020 — Numerical Geometry, Grid Generation and Scientific Computing",
+"url": "https://inria.hal.science/hal-02985282v1"
+},
+{
+"id": "pc4865a2700",
+"titre": "Génération de maillage quadrangulaire d'un domaine du plan via les équations de Ginzburg-Landau",
+"annee": 2020,
+"type": "conférence",
+"lieu": "Journées Françaises d'Informatique Graphique (JFIG2020)",
+"url": "https://inria.hal.science/hal-02992599v1"
+},
+{
+"id": "pf07ca8202b",
+"titre": "Modélisation géométrique de formes fractales pour la CAO",
+"annee": 2020,
+"type": "ouvrage",
+"lieu": "",
+"url": "https://ube.hal.science/hal-02462416v1"
+},
+{
+"id": "pce2c9d658c",
+"titre": "Real-time system architecture design practices",
+"annee": 2020,
+"type": "conférence",
+"lieu": "14th International Symposium \"Intelligent Systems - 2020\"",
+"url": "https://inria.hal.science/hal-02984042v2"
+},
+{
+"id": "p28aa5f008b",
+"titre": "Remaillage de surfaces déformables",
+"annee": 2020,
+"type": "conférence",
+"lieu": "Journées Françaises d'Informatique Graphique (JFIG2020)",
+"url": "https://inria.hal.science/hal-02992630v1"
+},
+{
+"id": "p82988d50c1",
+"titre": "Scissored pair control moment gyroscope inverted pendulum",
+"annee": 2020,
+"type": "conférence",
+"lieu": "14th International Symposium \"Intelligent Systems - 2020\"",
+"url": "https://inria.hal.science/hal-02985412v2"
+},
+{
+"id": "p78e47ad23b",
+"titre": "State estimation for a locally unobservable parameter-varying system: one gradient-based and one switched solutions",
+"annee": 2020,
+"type": "conférence",
+"lieu": "IFAC 2020 - 21rst IFAC World Congress",
+"url": "https://inria.hal.science/hal-02634576v1"
+},
+{
+"id": "p660843ccac",
+"titre": "Topological-based roof modeling from 3D point clouds",
+"annee": 2020,
+"type": "journal",
+"lieu": "Journal of WSCG",
+"url": "https://hal.science/hal-02983073v1",
+"doi": "10.24132/jwscg.2020.28.17"
+},
+{
+"id": "p2b00fef2a0",
+"titre": "A Globally Exponentially Stable Speed Observer for a Class of Mechanical Systems: Experimental and Simulation Comparison with High-Gain and Sliding Mode Designs",
+"annee": 2019,
+"type": "journal",
+"lieu": "International Journal of Control",
+"url": "https://inria.hal.science/hal-01658753v1",
+"doi": "10.1080/00207179.2017.1404130"
+},
+{
+"id": "p5b818f69ed",
+"titre": "CurviSlicer",
+"annee": 2019,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://doi.org/10.1145/3306346.3323022",
+"doi": "10.1145/3306346.3323022"
+},
+{
+"id": "p959809e5a1",
+"titre": "Differentiator-based velocity observer with sensor bias estimation: an inverted pendulum case study",
+"annee": 2019,
+"type": "conférence",
+"lieu": "11th IFAC Symposium on Nonlinear Control Systems",
+"url": "https://centralesupelec.hal.science/hal-02383471v1"
+},
+{
+"id": "p56c8fdfd3e",
+"titre": "Observer Design for an Inverted Pendulum with Biased Position Sensors",
+"annee": 2019,
+"type": "journal",
+"lieu": "Izvestia Rossiiskoi Akademii Nauk.Teoriya i Systemy Upravleniya / Journal of Computer and Systems Sciences International",
+"url": "https://inria.hal.science/hal-02282919v1",
+"doi": "10.1134/s1064230719020023"
+},
+{
+"id": "p61de5282a4",
+"titre": "Functional Characterization of Deformation Fields",
+"annee": 2018,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-02953326v1",
+"doi": "10.1145/3292480"
+},
+{
+"id": "pbba10c312c",
+"titre": "Hex-dominant meshing: mind the gap!",
+"annee": 2018,
+"type": "conférence",
+"lieu": "SPM 2018 - International Conference on Solid and Physical Modeling",
+"url": "https://inria.hal.science/hal-01927557v1"
+},
+{
+"id": "p8618af2e02",
+"titre": "Meshless Voronoi on the GPU",
+"annee": 2018,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-01927559v1",
+"doi": "10.1145/3272127.3275092"
+},
+{
+"id": "p469d72144d",
+"titre": "Stabilization of a hopper with three reaction wheels",
+"annee": 2018,
+"type": "conférence",
+"lieu": "ISR 2018 - 50th International Symposium on Robotics",
+"url": "https://inria.hal.science/hal-01927624v1"
+},
+{
+"id": "p975087cd1b",
+"titre": "Stabilization system of a bipedal non-anthropomorphic robot AnyWalker",
+"annee": 2018,
+"type": "journal",
+"lieu": "Journal of Engineering Science and Technology Review",
+"url": "https://inria.hal.science/hal-01927623v1",
+"doi": "10.25103/jestr.115.15"
+},
+{
+"id": "pfdd095cd2b",
+"titre": "Computing and Processing Correspondences with Functional Maps",
+"annee": 2017,
+"type": "conférence",
+"lieu": "ACM SIGGRAPH 2017 Courses",
+"url": "https://inria.hal.science/hal-01664767v1"
+},
+{
+"id": "pb7d44b1a44",
+"titre": "Consistent functional cross field design for mesh quadrangulation",
+"annee": 2017,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-01741938v1",
+"doi": "10.1145/3072959.3073696"
+},
+{
+"id": "p537236cd4d",
+"titre": "Functional Characterization of Intrinsic and Extrinsic Geometry",
+"annee": 2017,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-01741949v1"
+},
+{
+"id": "p399bf294a0",
+"titre": "Improving control engineering education with TRIK cybernetic system",
+"annee": 2017,
+"type": "journal",
+"lieu": "IFAC-PapersOnLine",
+"url": "https://inria.hal.science/hal-01658734v1",
+"doi": "10.1016/j.ifacol.2017.08.2412"
+},
+{
+"id": "pa0d4f180fa",
+"titre": "On OBDD-Based Algorithms and Proof Systems That Dynamically Change Order of Variables",
+"annee": 2017,
+"type": "conférence",
+"lieu": "STACS: Symposium on Theoretical Aspects of Computer Science",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-01487646v1",
+"doi": "10.4230/lipics.stacs.2017.43"
+},
+{
+"id": "p1e8e3c2cba",
+"titre": "Surface reconstruction by computing restricted Voronoi cells in parallel",
+"annee": 2017,
+"type": "journal",
+"lieu": "Computer-Aided Design",
+"url": "https://inria.hal.science/hal-01596553v1",
+"doi": "10.1016/j.cad.2017.05.011"
+},
+{
+"id": "p31f39a30da",
+"titre": "Anti-aliasing for fused filament deposition",
+"annee": 2016,
+"type": "journal",
+"lieu": "Computer-Aided Design",
+"url": "https://inria.hal.science/hal-01400686v2",
+"doi": "10.1016/j.cad.2017.04.001"
+},
+{
+"id": "pc3bc1f118d",
+"titre": "Hexahedral-Dominant Meshing",
+"annee": 2016,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-01397846v1",
+"doi": "10.1145/2930662"
+},
+{
+"id": "pf2141b1276",
+"titre": "Practical 3D frame field generation",
+"annee": 2016,
+"type": "conférence",
+"lieu": "SIGGRAPH ASIA 2016",
+"url": "https://inria.hal.science/hal-01397711v1"
+},
+{
+"id": "pd65654dddc",
+"titre": "Segmentation of tree seedling point clouds into elementary units",
+"annee": 2016,
+"type": "journal",
+"lieu": "International Journal of Remote Sensing",
+"url": "https://inria.hal.science/hal-01285419v1",
+"doi": "10.1080/01431161.2016.1190988"
+},
+{
+"id": "p2b9668bf0d",
+"titre": "Boundary Controlled Iterated Function Systems",
+"annee": 2015,
+"type": "chapitre",
+"lieu": "Curves and Surfaces",
+"url": "https://inria.hal.science/hal-01244612v1",
+"doi": "10.1007/978-3-319-22804-4_29"
+},
+{
+"id": "p11e4f7fbfb",
+"titre": "Continuous Matching via Vector Field Flow",
+"annee": 2015,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.12702",
+"doi": "10.1111/cgf.12702"
+},
+{
+"id": "p6acc36c193",
+"titre": "Dihedral angle-based maps of tetrahedral meshes",
+"annee": 2015,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://doi.org/10.1145/2766900",
+"doi": "10.1145/2766900"
+},
+{
+"id": "pcaa017fe06",
+"titre": "Intuitive modeling of vapourish objects",
+"annee": 2015,
+"type": "journal",
+"lieu": "Chaos, Solitons & Fractals",
+"url": "https://inria.hal.science/hal-01244616v1",
+"doi": "10.1016/j.chaos.2015.08.014"
+},
+{
+"id": "pb6a08c74ff",
+"titre": "Méthodes d’approximation d’opérations géométriques sur des objets fractals",
+"annee": 2015,
+"type": "conférence",
+"lieu": "Groupe de Travail en Modélisation Géométrique",
+"url": "https://ube.hal.science/hal-01137735v1"
+},
+{
+"id": "pb3fe0032df",
+"titre": "Supervised Descriptor Learning for Non-Rigid Shape Matching",
+"annee": 2015,
+"type": "chapitre",
+"lieu": "Computer Vision - ECCV 2014 Workshops Zurich, Switzerland, September 6-7 and 12, 2014, Proceedings, Part IV",
+"url": "https://hal.science/hal-05729814v1",
+"doi": "10.1007/978-3-319-16220-1_20"
+},
+{
+"id": "p17e0ad1a3d",
+"titre": "A Generalized Proximal Point Algorithm and Its Convergence Rate",
+"annee": 2014,
+"type": "journal",
+"lieu": "SIAM Journal on Optimization",
+"url": "https://doi.org/10.1137/130940402",
+"doi": "10.1137/130940402"
+},
+{
+"id": "pf91da2cd52",
+"titre": "Robust polylines tracing for N-symmetry direction field on triangulated surfaces",
+"annee": 2014,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-01092823v1",
+"doi": "10.1145/2602145"
+},
+{
+"id": "p132086537f",
+"titre": "The scaling of genetic diversity in a changing and fragmented world",
+"annee": 2014,
+"type": "chapitre",
+"lieu": "Scaling in Ecology and Biodiversity Conservation",
+"url": "https://hal.science/hal-03924306v1",
+"doi": "10.3897/ab.e1169"
+},
+{
+"id": "p8fd1d70e8d",
+"titre": "A spectral clustering approach of vegetation components for describing plant topology and geometry from terrestrial waveform LiDAR data",
+"annee": 2013,
+"type": "conférence",
+"lieu": "FSPM2013 - 7th International Conference on Functional-Structural Plant Models",
+"url": "https://inria.hal.science/hal-00817508v1"
+},
+{
+"id": "p50a254c49b",
+"titre": "Analysis of Boyer and Moore's MJRTY algorithm",
+"annee": 2013,
+"type": "journal",
+"lieu": "Information Processing Letters",
+"url": "https://inria.hal.science/hal-00926106v1",
+"doi": "10.1016/j.ipl.2013.04.005"
+},
+{
+"id": "pd061d9825d",
+"titre": "Geometry control of the junction between two fractal curves",
+"annee": 2013,
+"type": "journal",
+"lieu": "Computer-Aided Design",
+"url": "https://ube.hal.science/hal-01137726v1",
+"doi": "10.1016/j.cad.2012.10.025"
+},
+{
+"id": "p247ee3b828",
+"titre": "Approximate convex hull of affine iterated function system attractors",
+"annee": 2012,
+"type": "journal",
+"lieu": "Chaos, Solitons & Fractals",
+"url": "https://inria.hal.science/hal-00755842v1",
+"doi": "10.1016/j.chaos.2012.07.015"
+},
+{
+"id": "p8c92499dd6",
+"titre": "Approximation de l'enveloppe convexe de l'attracteur d'un IFS affine",
+"annee": 2012,
+"type": "conférence",
+"lieu": "Groupe de Travail en Modélisation Géométrique (GTMG)",
+"url": "https://hal.science/hal-02457884v1"
+},
+{
+"id": "peaf161b7bb",
+"titre": "Geometry control of the junction between two fractal curves",
+"annee": 2012,
+"type": "conférence",
+"lieu": "Symposium on Solid and Physical Modeling - SPM 2012",
+"url": "https://inria.hal.science/hal-00755851v1"
+},
+{
+"id": "p2e95f83557",
+"titre": "Joining primal/dual subdivision surfaces",
+"annee": 2012,
+"type": "conférence",
+"lieu": "MMCS 2012 - International Conference on Mathematical Methods for Curves and Surfaces",
+"url": "https://ube.hal.science/hal-01137721v1",
+"doi": "10.1007/978-3-642-54382-1_23"
+},
+{
+"id": "p04ee681c70",
+"titre": "Propriétés différentielles du raccord entre deux courbes fractales",
+"annee": 2012,
+"type": "conférence",
+"lieu": "Groupe de Travail en Modélisation Géométrique (GTMG)",
+"url": "https://hal.science/hal-02457888v1"
+},
+{
+"id": "pc5d249d418",
+"titre": "An iterative algorithm for homology computation on simplicial shapes",
+"annee": 2011,
+"type": "journal",
+"lieu": "Computer-Aided Design",
+"url": "https://inria.hal.science/hal-00644410v2",
+"doi": "10.1016/j.cad.2011.08.015"
+},
+{
+"id": "p313374a43e",
+"titre": "Computing 2D Periodic Centroidal Voronoi Tessellation",
+"annee": 2011,
+"type": "conférence",
+"lieu": "ISVD 2011 - 8th International Symposium on Voronoi Diagrams in Science and Engineering - ISVD2011",
+"url": "https://inria.hal.science/inria-00605927v1",
+"doi": "10.1109/isvd.2011.31"
+},
+{
+"id": "pd036621506",
+"titre": "Improved bounds for cops-and-robber pursuit",
+"annee": 2011,
+"type": "journal",
+"lieu": "Computational Geometry",
+"url": "https://inria.hal.science/hal-00756031v1",
+"doi": "10.1016/j.comgeo.2011.03.001"
+}
+]
+}

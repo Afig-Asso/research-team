@@ -1,0 +1,91 @@
+equipe: LIRMM/ICAR
+domaines:
+  principaux:
+  - images
+  - geometrie
+  secondaires:
+  - visu
+  - rendu
+  - modelisation
+themes:
+- id: synthese_textures
+  phrase: Synthèse de textures par pavages apériodiques et bruits procéduraux cyclostationnaires, avec filtrage et déformation
+    contrôlée.
+  preuves:
+  - p3080d9aca8
+  - p1a4d0a08a7
+  - pc47cf595f3
+- id: maillages
+  phrase: Hiérarchies de niveaux de détail pour grands maillages et génération de maillages à partir d'images 3D segmentées.
+  preuves:
+  - pd935a81541
+  - p70b6075a48
+  - p665df077db
+- id: visu_scientifique
+  phrase: Outils interactifs de recalage, de curation et de visualisation d'images 3D médicales et biologiques, jusqu'au navigateur
+    morphologique en ligne d'embryons.
+  preuves:
+  - pb6c82458da
+  - pe46cc16532
+  - p3c8500de19
+- id: visu_immersive
+  phrase: Exploration immersive et interactive de données 3D spatio-temporelles (hypercube espace-temps, frises temporelles)
+    en réalité virtuelle et augmentée pour la biologie cellulaire.
+  preuves:
+  - pdd8df7a356
+  - pcca8342981
+  - pfb74218e72
+- id: contraintes_geometriques
+  phrase: 'Rétro-conception de modèles numérisés : segmentation par courbure et embellissement guidé par la CAO (orientations,
+    symétries, motifs).'
+  preuves:
+  - pe054c3c454
+  - p8397ff4b79
+  - pf28b93ec27
+- id: rendu_expressif
+  phrase: Abstraction structurée et sémantique d'images, jusqu'à la peinture par bras robotique.
+  preuves:
+  - p133bd5af51
+  - p619a816383
+applications:
+- id: sante
+  preuves:
+  - p81c3fefe48
+  - p1d649953e6
+  - p8d68ba88db
+  - pa801ab15aa
+- id: biologie
+  preuves:
+  - pe46cc16532
+  - p3c8500de19
+  - pdd8df7a356
+- id: jeu_video
+  preuves:
+  - pc47cf595f3
+  - p3080d9aca8
+  - p1a4d0a08a7
+- id: industrie_cao
+  preuves:
+  - pe054c3c454
+  - pf28b93ec27
+  - p8397ff4b79
+- id: education
+  preuves:
+  - pd01be68bc5
+  - pa10aa065c6
+- id: patrimoine
+  preuves:
+  - p3617bc47af
+  - p0e646cfee1
+publications_representatives:
+- pd935a81541
+- p133bd5af51
+- p3c8500de19
+- p665df077db
+- p4c806bf0d0
+synthese: Synthèse de textures et rendu stylisé, simplification de modèles 3D, visualisation immersive de données biologiques
+  et médicales.
+pour_etudiants: On y crée des textures et des images stylisées, on simplifie de gros modèles 3D, on explore des données biologiques
+  en réalité virtuelle et on aide les médecins à manipuler des images 3D du corps.
+pour_entreprises: Génération de textures à la volée, affichage multirésolution de très grands maillages, rétro-conception
+  de pièces numérisées, outils 3D interactifs et immersifs pour la chirurgie, l'anatomie et la biologie.

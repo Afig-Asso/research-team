@@ -1,0 +1,68 @@
+equipe: LISIC/SEPIA
+domaines:
+  principaux:
+  - images
+  - rendu
+  secondaires:
+  - ia
+  - rv
+themes:
+- id: imagerie_hdr
+  phrase: Tone mapping et expansion de dynamique pour images HDR, y compris images 360° en casque et transfert de couleur.
+  preuves:
+  - pac53f9e277
+  - p795be0e6fe
+  - p2c3bfaeb91
+- id: rendu_physique
+  phrase: Détection du bruit, suppression des fireflies et critères d'arrêt perceptifs pour le rendu Monte-Carlo ; simulation
+    d'éclairage par tracé de photons et de chemins pour des scènes éclairées par des sources réelles.
+  preuves:
+  - p1e6171e0b4
+  - p203df2a83f
+  - p5c1ebc888c
+  - p9adcd52508
+- id: rendu_temps_reel
+  phrase: Rendu temps réel de la lumière à travers des vitraux anciens et de luminaires complexes pour la restitution historique.
+  preuves:
+  - p831de30909
+  - p8f80c09543
+  - p572527540a
+- id: eclairage_historique
+  phrase: Restitution numérique de lieux et bâtis disparus et simulation d'éclairage pour analyser ombres et lumière dans
+    des tableaux anciens.
+  preuves:
+  - p6e01295bc7
+  - p2750536999
+  - pf0bf7602b3
+- id: perception
+  phrase: Évaluation de la qualité d'images de synthèse et HDR, prédiction du regard et esthétique photographique.
+  preuves:
+  - p3094380bbb
+  - p694f8fb60f
+  - p104d464fd0
+applications:
+- id: patrimoine
+  preuves:
+  - p6e01295bc7
+  - p8f80c09543
+  - p40c5eacc21
+- id: cinema_vfx
+  preuves:
+  - p203df2a83f
+  - p1e6171e0b4
+  - p5c1ebc888c
+- id: biologie
+  preuves:
+  - p477803fccb
+  - p40bfad9a86
+publications_representatives:
+- p831de30909
+- p572527540a
+- p58b67cff53
+- p815975a7a2
+- pafc06f3062
+synthese: Rendu réaliste et imagerie HDR, perception visuelle et qualité d'image, restitution numérique de l'éclairage historique.
+pour_etudiants: On simule la lumière pour produire des images fidèles, on étudie comment notre œil les perçoit et on reconstitue
+  l'éclairage de lieux et d'œuvres anciennes.
+pour_entreprises: Affichage HDR et tone mapping, contrôle qualité perceptif du rendu, simulation d'éclairage pour le patrimoine
+  et l'agronomie.

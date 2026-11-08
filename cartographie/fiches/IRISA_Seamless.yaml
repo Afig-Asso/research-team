@@ -1,0 +1,86 @@
+equipe: IRISA/Seamless
+domaines:
+  principaux:
+  - rv
+  secondaires:
+  - humains
+  - visu
+themes:
+- id: haptique
+  phrase: Retours haptiques, pseudo-haptiques, thermiques et vibrotactiles, et accessoires actionnés pour toucher et saisir
+    en RV.
+  preuves:
+  - p3e6d682bc3
+  - p24a42f17ef
+  - p139225b431
+- id: interfaces_cerveau
+  phrase: 'Interfaces cerveau-ordinateur et neurofeedback EEG/IRMf : entraînement des utilisateurs et rôle du retour visuel,
+    rééducation post-AVC, performance sportive et mesure de la présence ou de la charge mentale.'
+  preuves:
+  - p1304150859
+  - p4268b09742
+  - p6caea9cd1f
+- id: incarnation_presence
+  phrase: Incarnation d'avatars, avatars dissemblables et présence sociale, jusqu'à la synchronisation inter-cerveaux.
+  preuves:
+  - p4f6ed4a182
+  - pe5b5eb9541
+  - p1af517c635
+- id: realite_augmentee
+  phrase: Saisie d'objets réels et virtuels, mains virtuelles déplacées et auto-avatars en réalité augmentée.
+  preuves:
+  - p0032ce0d2a
+  - p209edd8a3f
+  - p635838750b
+- id: interaction_3d
+  phrase: 'Locomotion et manipulation en RV : marche sur place, sensations d''automouvement, gains de rotation et espaces
+    non euclidiens.'
+  preuves:
+  - p7222d61669
+  - pc43fcebf9a
+  - p73a58d4fe8
+- id: confort_rv
+  phrase: 'Cybermalaise et sensations d''automouvement (vection) : détection EEG, questionnaires validés, oscillations du
+    point de vue et retours haptiques induisant le mouvement propre.'
+  preuves:
+  - p1304150859
+  - p23944a5bc1
+  - p4ca3e683a3
+applications:
+- id: sante
+  preuves:
+  - p6caea9cd1f
+  - pdeba123601
+  - pe61e23bcae
+- id: patrimoine
+  preuves:
+  - p2bb2f8739a
+  - p4c6eefac34
+  - p9baf1d49ff
+- id: education
+  preuves:
+  - p47b27dfd34
+  - p0201dfc3cf
+  - pf182c75e00
+- id: art_musique
+  preuves:
+  - p4556636e37
+  - pd3b1a091ac
+  - p76526169a8
+- id: accessibilite
+  preuves:
+  - p6b00c18d69
+  - p834ba9e810
+  - pda127474ec
+publications_representatives:
+- p3e6d682bc3
+- p1304150859
+- p4f6ed4a182
+- p24a42f17ef
+- p0032ce0d2a
+synthese: 'Interaction immersive : haptique, interfaces cerveau-ordinateur, incarnation d''avatars et confort en réalité virtuelle
+  et augmentée.'
+pour_etudiants: On y fait ressentir le toucher en réalité virtuelle, on y pilote des mondes virtuels par l'activité cérébrale
+  et on étudie l'effet d'avoir un avatar.
+pour_entreprises: Conception et évaluation d'expériences XR multisensorielles (haptique, neurofeedback) pour la formation,
+  la santé, le patrimoine et la culture.

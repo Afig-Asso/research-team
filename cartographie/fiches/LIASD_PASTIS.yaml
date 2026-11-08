@@ -1,0 +1,35 @@
+equipe: LIASD/PASTIS
+domaines:
+  principaux:
+  - rendu
+  secondaires:
+  - modelisation
+themes:
+- id: rendu_expressif
+  phrase: Rendu non photoréaliste de scènes 3D, avec des hachures en temps réel et une approche générique de la stylisation.
+  preuves:
+  - p15aa8e4da6
+  - p3c48e45ea5
+- id: rendu_temps_reel
+  phrase: Mise en œuvre sur GPU de techniques graphiques interactives, du rendu stylisé à la génération de terrains.
+  preuves:
+  - p15aa8e4da6
+  - pa3cc65430d
+- id: terrains_nature
+  phrase: Génération fractale de terrains en temps réel, contrôlée par esquisse.
+  preuves:
+  - pa3cc65430d
+applications:
+- id: jeu_video
+  preuves:
+  - p15aa8e4da6
+  - pa3cc65430d
+publications_representatives:
+- pa3cc65430d
+- p15aa8e4da6
+- p3c48e45ea5
+- pe716e8471a
+- p69771577d9
+synthese: Rendu expressif et non photoréaliste en temps réel, génération procédurale de paysages.
+pour_etudiants: On y crée des images 3D qui ressemblent à des dessins et des paysages générés automatiquement.
+pour_entreprises: Rendu stylisé temps réel et génération rapide de terrains pour des applications interactives.

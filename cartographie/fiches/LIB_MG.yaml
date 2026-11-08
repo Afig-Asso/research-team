@@ -1,0 +1,67 @@
+equipe: LIB/MG
+domaines:
+  principaux:
+  - modelisation
+  secondaires:
+  - geometrie
+themes:
+- id: algebre_geometrique
+  phrase: Modélisation de formes fractales pour la CAO par systèmes itérés de fonctions, avec contrôle de la lacunarité et
+    des propriétés différentielles.
+  preuves:
+  - p02eeea80c3
+  - p26ecbd553a
+  - pe0b08ae44c
+- id: rugosite
+  phrase: Caractérisation, contrôle et génération de surfaces rugueuses, par la pseudo-courbure et les propriétés différentielles
+    des courbes et surfaces fractales.
+  preuves:
+  - p53e112a1de
+  - p01ae55e87f
+  - p68650ba447
+- id: surfaces_courbes
+  phrase: Courbes de Bézier rationnelles à points massiques, cyclides de Dupin et espaces de sphères pour les raccords et
+    la subdivision.
+  preuves:
+  - p7cedf25df7
+  - pccc02c2f37
+  - pf22839e987
+- id: correspondances
+  phrase: Appariement et réassemblage de fragments d'objets archéologiques numérisés par analyse géométrique et topologique
+    de surfaces.
+  preuves:
+  - pa74a4c47ab
+  - p4645a41752
+  - pb75d11f905
+- id: squelettes
+  phrase: Squelettes curvilignes pour modéliser des espaces poreux et reconstruire des objets 3D à partir de vues multiples.
+  preuves:
+  - pc1db3b376a
+  - p5d727b807e
+  - pa0c3b1d355
+applications:
+- id: patrimoine
+  preuves:
+  - pa74a4c47ab
+  - paa6a891034
+  - pfc051457e6
+- id: industrie_cao
+  preuves:
+  - p02eeea80c3
+  - p216ae2f2ab
+- id: environnement
+  preuves:
+  - pc1db3b376a
+  - p4ebf9ac427
+publications_representatives:
+- p02eeea80c3
+- pa74a4c47ab
+- p53e112a1de
+- pe0b08ae44c
+- pc1db3b376a
+synthese: 'Modélisation géométrique : courbes et surfaces lisses ou rugueuses, algèbre géométrique et fractales, analyse de
+  formes pour le réassemblage d''objets fragmentés.'
+pour_etudiants: On y invente des façons mathématiques de dessiner des courbes, des surfaces lisses ou rugueuses, et de recoller
+  des objets anciens brisés.
+pour_entreprises: Conception de formes complexes ou rugueuses pour la CAO et les matériaux, et outils 3D pour l'indexation
+  et le réassemblage d'objets patrimoniaux.

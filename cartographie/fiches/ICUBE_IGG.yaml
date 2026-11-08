@@ -1,0 +1,89 @@
+equipe: ICUBE/IGG
+domaines:
+  principaux:
+  - images
+  - rv
+  secondaires:
+  - modelisation
+  - geometrie
+  - rendu
+themes:
+- id: synthese_textures
+  phrase: Textures procédurales et semi-procédurales, bruits multidimensionnels, transitions et correction des distorsions
+    de placage en temps réel.
+  preuves:
+  - pf7c93c6f6a
+  - pe1e75ea59e
+  - pecb5990104
+- id: terrains_nature
+  phrase: Synthèse procédurale d'océans et d'écume à grande échelle et édition de terrains par gradients et motifs contrôlés.
+  preuves:
+  - pe3f339df9d
+  - p2872c316a0
+  - p747bf1a73f
+- id: incarnation_presence
+  phrase: Avatars, incarnation et présence sociale en réalité virtuelle collaborative, et effets de l'agentivité sur l'utilisateur.
+  preuves:
+  - p5769f3efe6
+  - p8ad5eb7a33
+  - p513a8c4cfc
+- id: nuages_points
+  phrase: Segmentation et mesure de plantes et d'arbres à partir de nuages de points issus de lidar ou de vidéo de téléphone.
+  preuves:
+  - p51a33a699d
+  - pb90495e78a
+  - p3eb0f6f164
+- id: maillages_hexa
+  phrase: Génération de maillages hexaédriques guidée par des squelettes, notamment pour des formes tubulaires.
+  preuves:
+  - p66eca5f8e6
+  - p68ad5bdcce
+  - p22e05dee11
+- id: confort_rv
+  phrase: Réduction du cybermalaise par simplification et déformation géométrique de la scène limitant le flux optique, et
+    mesure du malaise en visite virtuelle.
+  preuves:
+  - p4b6cc3c874
+  - p45b55d1c56
+  - p92e141c03a
+applications:
+- id: jeu_video
+  preuves:
+  - pe1e75ea59e
+  - p2872c316a0
+  - pe3f339df9d
+- id: cinema_vfx
+  preuves:
+  - pf7c93c6f6a
+  - pe3f339df9d
+  - p747bf1a73f
+- id: sante
+  preuves:
+  - pa47620591b
+  - p63e7e17493
+  - p3bf114bd1c
+- id: environnement
+  preuves:
+  - p51a33a699d
+  - p10627a7e4e
+  - pc34dfe7a9b
+- id: biologie
+  preuves:
+  - pb90495e78a
+  - pf5bc2ac0f9
+- id: patrimoine
+  preuves:
+  - pca3343bc32
+  - p6d697af868
+publications_representatives:
+- pf7c93c6f6a
+- pe3f339df9d
+- pfa67c567c7
+- pecb5990104
+- p66eca5f8e6
+synthese: Modélisation et synthèse de contenus naturels (textures, terrains, océans, végétation), traitement de nuages de
+  points et étude de l'incarnation en réalité virtuelle.
+pour_etudiants: On y fabrique automatiquement des textures, des océans et des terrains, on mesure des arbres en 3D et on étudie
+  les avatars en réalité virtuelle.
+pour_entreprises: Génération procédurale de textures et d'environnements pour le jeu et l'animation, mesure 3D de végétation
+  et applications de RV (thérapie, collaboration).

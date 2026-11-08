@@ -1,0 +1,80 @@
+equipe: LJK/Kinetix
+domaines:
+  principaux:
+  - capture
+  - humains
+  secondaires:
+  - ia
+  - geometrie
+themes:
+- id: capture_4d
+  phrase: Capture multi-vues de surfaces humaines en mouvement, jusqu'à la précision millimétrique, et jeux de données 4D
+    habillés.
+  preuves:
+  - pe45dc34575
+  - pf81f8b207d
+  - p88555cc729
+- id: reconstruction_surfaces
+  phrase: Reconstruction multi-vues par champs de distance signée, rendu différentiable et tessellations de Voronoï adaptatives.
+  preuves:
+  - pb3a2381aaf
+  - p4a18202017
+  - pa47b35a259
+- id: corps_humain
+  phrase: Modèles statistiques et implicites du corps humain, de la surface jusqu'au squelette et aux tissus internes, pour
+    la complétion de formes et l'anthropométrie 3D.
+  preuves:
+  - pe7e00fd124
+  - p58ff8c5c70
+  - pe82aa01971
+- id: synthese_mouvement
+  phrase: Reciblage de mouvement et transfert de déformations entre morphologies sans correspondances explicites.
+  preuves:
+  - pde663ee5f7
+  - p90ecd252d6
+  - p3746a385ea
+- id: modeles_generatifs
+  phrase: Modèles génératifs latents pour le mouvement humain et la déformation physique des vêtements.
+  preuves:
+  - p9cefc386fd
+  - p168d171bf5
+- id: parametres_physiques_vision
+  phrase: Estimation par vision et apprentissage des coefficients de frottement des tissus, entre tissu et corps et entre
+    couches de tissu.
+  preuves:
+  - p7f9367648a
+  - pd5604078ef
+applications:
+- id: sante
+  preuves:
+  - p79659d3f84
+  - p7bfdf3f948
+  - pb00abc9b1a
+  - p1512a32d24
+  - pf2c1221247
+- id: cinema_vfx
+  preuves:
+  - pe45dc34575
+  - p88555cc729
+  - p0d821668b0
+- id: mode_textile
+  preuves:
+  - p9cefc386fd
+  - pf81f8b207d
+  - p7f9367648a
+  - p0d821668b0
+- id: biologie
+  preuves:
+  - pd90fc20a19
+publications_representatives:
+- p9cefc386fd
+- pd90fc20a19
+- pb3a2381aaf
+- pe45dc34575
+- pe82aa01971
+synthese: Capture 4D multi-vues et reconstruction de la forme et du mouvement humains (corps, vêtements), modèles génératifs
+  de mouvement.
+pour_etudiants: On y filme des personnes avec de nombreuses caméras pour reconstruire en 3D leur corps, leurs vêtements et
+  leurs mouvements.
+pour_entreprises: Numérisation 3D et 4D précise de personnes, mesures corporelles et composition corporelle à partir de scans,
+  estimation du squelette depuis la surface du corps, animation et déformation de vêtements virtuels.

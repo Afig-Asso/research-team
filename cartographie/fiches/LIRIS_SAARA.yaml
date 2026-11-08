@@ -1,0 +1,59 @@
+equipe: LIRIS/SAARA
+domaines:
+  principaux:
+  - humains
+  - animation
+  secondaires:
+  - rv
+themes:
+- id: corps_humain
+  phrase: Simulation prédictive de la marche par modèles musculo-squelettiques, y compris pour des patients post-AVC ou amputés.
+  preuves:
+  - p60ef7dfd35
+  - p47fce4607b
+  - pc8adffd5c1
+- id: animation_personnages
+  phrase: Contrôle physique de personnages virtuels par muscles et édition de poses dans un espace latent appris.
+  preuves:
+  - pe426e1298b
+  - p32dae6234f
+  - p49851ba226
+- id: capture_mouvement
+  phrase: Analyse des expressions émotionnelles du corps et constitution de grandes bases de mouvements capturés en vidéo.
+  preuves:
+  - p963e86be8f
+  - p1c8d461ec1
+  - p0b944d7b62
+- id: simulation_fluides
+  phrase: Simulation SPH de fluides accélérée sur GPU, avec fenêtre dynamique pour les grandes scènes interactives.
+  preuves:
+  - p2beb18a988
+  - p331bc28ed7
+- id: interaction_3d
+  phrase: Interaction à mains nues en réalité virtuelle reposant entièrement sur la simulation physique.
+  preuves:
+  - p58f8cb1034
+  - p556b5622d4
+applications:
+- id: sante
+  preuves:
+  - p47fce4607b
+  - pf14d6dd962
+  - p0a050e5cb7
+- id: jeu_video
+  preuves:
+  - pe426e1298b
+  - p32dae6234f
+  - p590e8f9acd
+publications_representatives:
+- p963e86be8f
+- p2beb18a988
+- p58f8cb1034
+- p1c8d461ec1
+- p47fce4607b
+synthese: Modélisation biomécanique du corps humain, animation de personnages, simulation de fluides et interaction en réalité
+  virtuelle.
+pour_etudiants: On y fait bouger des personnages virtuels de façon réaliste, on simule la marche humaine et les fluides, et
+  on interagit avec les mains en réalité virtuelle.
+pour_entreprises: Simulation biomécanique de la marche pour la rééducation, analyse du mouvement et des émotions, simulation
+  de fluides interactive.

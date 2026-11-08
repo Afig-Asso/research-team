@@ -1,0 +1,1612 @@
+{
+"equipe": "LaSTIG/ACTE",
+"publications": [
+{
+"id": "p6a33a49d10",
+"titre": "A Non-rigid Polygon Registration Framework and its Application to Enhancing Building Footprint Accuracy using Aerial LiDAR",
+"annee": 2026,
+"type": "journal",
+"lieu": "ISPRS annals of the photogrammetry, remote sensing and spatial information sciences",
+"url": "https://doi.org/10.5194/isprs-annals-xi-1-2026-193-2026",
+"doi": "10.5194/isprs-annals-xi-1-2026-193-2026"
+},
+{
+"id": "p6889cc3ccb",
+"titre": "Assessing the sensibility of intervisibility on the quality of 3D geometry",
+"annee": 2026,
+"type": "journal",
+"lieu": "The international archives of the photogrammetry, remote sensing and spatial information sciences/International archives of the photogrammetry, remote sensing and spatial information sciences",
+"url": "https://doi.org/10.5194/isprs-archives-xlix-b2-2026-577-2026",
+"doi": "10.5194/isprs-archives-xlix-b2-2026-577-2026"
+},
+{
+"id": "p0e6d3e611c",
+"titre": "Bridging Open-Source Photogrammetry : Toward Synergies Between Meshroom, MicMac and others",
+"annee": 2026,
+"type": "conférence",
+"lieu": "11th International ISPRS / CIPA Workshop \"3D Virtual Reconstruction and Visualization of Complex Architectures\"",
+"url": "https://shs.hal.science/halshs-05512271v1",
+"doi": "10.5194/isprs-archives-xlviii-2-w12-2026-343-2026"
+},
+{
+"id": "pbde1a683f3",
+"titre": "Epipolar Rectification of a Generic Camera",
+"annee": 2026,
+"type": "journal",
+"lieu": "ISPRS annals of the photogrammetry, remote sensing and spatial information sciences",
+"url": "https://doi.org/10.5194/isprs-annals-xi-2-2026-17-2026",
+"doi": "10.5194/isprs-annals-xi-2-2026-17-2026"
+},
+{
+"id": "pb11733ce50",
+"titre": "Fused-Planes: Why Train a Thousand Tri-Planes When You Can Share?",
+"annee": 2026,
+"type": "conférence",
+"lieu": "The Fourteenth International Conference on Learning Representations",
+"url": "https://hal.science/hal-04761470v3"
+},
+{
+"id": "pc8fa56e5c1",
+"titre": "Image LiDAR based change detection and updating for urban 3D reconstruction",
+"annee": 2026,
+"type": "journal",
+"lieu": "ISPRS annals of the photogrammetry, remote sensing and spatial information sciences",
+"url": "https://doi.org/10.5194/isprs-annals-xi-2-2026-385-2026",
+"doi": "10.5194/isprs-annals-xi-2-2026-385-2026"
+},
+{
+"id": "p69f563edc9",
+"titre": "Neural Radiance Fields with Physically Based Reflectance for Satellite Images",
+"annee": 2026,
+"type": "journal",
+"lieu": "The international archives of the photogrammetry, remote sensing and spatial information sciences/International archives of the photogrammetry, remote sensing and spatial information sciences",
+"url": "https://doi.org/10.5194/isprs-archives-xlix-b2-2026-601-2026",
+"doi": "10.5194/isprs-archives-xlix-b2-2026-601-2026"
+},
+{
+"id": "pba7899516a",
+"titre": "Point2WSS: Reconstructing LoD2 Buildings from Aerial LiDAR Data using Multimodal Learning and Weighted Straight Skeleton",
+"annee": 2026,
+"type": "conférence",
+"lieu": "ISPRS 2026 - International Society for Photogrammetry and Remote Sensing",
+"url": "https://hal.science/hal-05725279v1",
+"doi": "10.5194/isprs-annals-xi-2-2026-331-2026"
+},
+{
+"id": "p9daafc7bdf",
+"titre": "A new benchmark on LoD 2 building reconstruction from aerial lidar and footprints",
+"annee": 2025,
+"type": "journal",
+"lieu": "The international archives of the photogrammetry, remote sensing and spatial information sciences/International archives of the photogrammetry, remote sensing and spatial information sciences",
+"url": "https://doi.org/10.5194/isprs-archives-xlviii-1-w6-2025-83-2025",
+"doi": "10.5194/isprs-archives-xlviii-1-w6-2025-83-2025"
+},
+{
+"id": "p5da079cefe",
+"titre": "BRDF-NeRF: Neural radiance fields with optical satellite images and BRDF modelling",
+"annee": 2025,
+"type": "journal",
+"lieu": "International Journal of Applied Earth Observation and Geoinformation",
+"url": "https://doi.org/10.1016/j.jag.2025.104747",
+"doi": "10.1016/j.jag.2025.104747"
+},
+{
+"id": "p5b35e9437d",
+"titre": "Bringing NeRFs to the Latent Space: Inverse Graphics Autoencoder",
+"annee": 2025,
+"type": "conférence",
+"lieu": "International Conference on Learning Representations (ICLR'25)",
+"url": "https://hal.science/hal-04760484v2"
+},
+{
+"id": "p2a307f537e",
+"titre": "DSI-3D: Differentiable Search Index for Point Cloud Retrieval",
+"annee": 2025,
+"type": "conférence",
+"lieu": "22nd International Conference on Content-Based Multimedia Indexing (CBMI'25)",
+"url": "https://hal.science/hal-05345963v1"
+},
+{
+"id": "pebc71152bd",
+"titre": "Développement photogrammétrique isométrique de plans anciens",
+"annee": 2025,
+"type": "journal",
+"lieu": "Revue Française de Photogrammétrie et de Télédétection",
+"url": "https://hal.science/hal-05104867v1",
+"doi": "10.52638/rfpt.2025.715"
+},
+{
+"id": "p79ed87c3a4",
+"titre": "Exact Computation for Robust 3D polyhedral interactive modeling",
+"annee": 2025,
+"type": "conférence",
+"lieu": "Web3D '25: The 30th International Conference on 3D Web Technology",
+"url": "https://hal.science/hal-05288439v1",
+"doi": "10.1145/3746237.3746298"
+},
+{
+"id": "p43855393e0",
+"titre": "Fast 3D point clouds retrieval for Large-scale 3D Place Recognition",
+"annee": 2025,
+"type": "conférence",
+"lieu": "ORASIS, journées francophones des jeunes chercheurs en vision par ordinateur",
+"url": "https://hal.science/hal-05046766v1",
+"doi": "10.48550/arxiv.2502.21067"
+},
+{
+"id": "pa44c0211db",
+"titre": "Lexique de la photogrammétrie",
+"annee": 2025,
+"type": "ouvrage",
+"lieu": "",
+"url": "https://hal.science/hal-05014014v1",
+"doi": "10.13140/rg.2.2.13181.47849"
+},
+{
+"id": "p6dde384a45",
+"titre": "RefinedFields: Radiance Fields Refinement for Planar Scene Representations",
+"annee": 2025,
+"type": "journal",
+"lieu": "Transactions on Machine Learning Research",
+"url": "https://hal.science/hal-04318414v4"
+},
+{
+"id": "p7a1cd6efaa",
+"titre": "2D/3D data fusion for the comparative analysis of the vaults of Notre-Dame de Paris before and after the fire",
+"annee": 2024,
+"type": "journal",
+"lieu": "Journal of Cultural Heritage",
+"url": "https://u-picardie.hal.science/hal-04152022v1",
+"doi": "10.1016/j.culher.2023.06.012"
+},
+{
+"id": "pfae476a030",
+"titre": "A Survey and Benchmark of Automatic Surface Reconstruction From Point Clouds",
+"annee": 2024,
+"type": "journal",
+"lieu": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+"url": "https://doi.org/10.1109/tpami.2024.3510932",
+"doi": "10.1109/tpami.2024.3510932"
+},
+{
+"id": "pbac6650b7d",
+"titre": "An evaluation of Deep Learning based stereo dense matching dataset shift from aerial images and a large scale stereo dataset",
+"annee": 2024,
+"type": "journal",
+"lieu": "International Journal of Applied Earth Observation and Geoinformation",
+"url": "https://doi.org/10.1016/j.jag.2024.103715",
+"doi": "10.1016/j.jag.2024.103715"
+},
+{
+"id": "pb41d563806",
+"titre": "Editing Watertight Manifold Polyhedra using Face Shifts with Automatic Topological Updates and Edge Flips",
+"annee": 2024,
+"type": "conférence",
+"lieu": "Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci.",
+"url": "https://hal.science/hal-04933073v1",
+"doi": "10.5194/isprs-archives-xlviii-2-w8-2024-169-2024"
+},
+{
+"id": "pe25cc44a94",
+"titre": "Exploring 3D-aware Latent Spaces for Efficiently Learning Numerous Scenes",
+"annee": 2024,
+"type": "conférence",
+"lieu": "Learning 3D with Multi-View Supervision workshop (3DMV) - Computer Vision and Pattern Recognition Conference (CVPR)",
+"url": "https://hal.science/hal-04509207v2",
+"doi": "10.48550/arxiv.2403.11678"
+},
+{
+"id": "p0df47a660d",
+"titre": "Modélisation par photogrammétrie des maquettes historiques du pont de Schaffhausen de Hans Ulrich Grubenmann : problèmes méthodologiques et perspectives",
+"annee": 2024,
+"type": "chapitre",
+"lieu": "Publications de l’Institut de recherches historiques du Septentrion eBooks",
+"url": "https://doi.org/10.4000/133xi",
+"doi": "10.4000/133xi"
+},
+{
+"id": "p1e2970d807",
+"titre": "Semantic Edge Collapse: A Mesh Edge Collapse Algorithm preserving per Face Semantic Information",
+"annee": 2024,
+"type": "journal",
+"lieu": "The international archives of the photogrammetry, remote sensing and spatial information sciences/International archives of the photogrammetry, remote sensing and spatial information sciences",
+"url": "https://doi.org/10.5194/isprs-archives-xlviii-2-w8-2024-185-2024",
+"doi": "10.5194/isprs-archives-xlviii-2-w8-2024-185-2024"
+},
+{
+"id": "p4db6855bfb",
+"titre": "Brief communication: Glacier mapping and change estimation using very high-resolution declassified Hexagon KH-9 panoramic stereo imagery (1971–1984)",
+"annee": 2023,
+"type": "journal",
+"lieu": "The Cryosphere",
+"url": "https://hal.science/hal-04205469v1",
+"doi": "10.5194/tc-17-1299-2023"
+},
+{
+"id": "p1303b788ff",
+"titre": "ChatGPT pour la géomatique, potentiel d’utilisation et limites",
+"annee": 2023,
+"type": "journal",
+"lieu": "Revue XYZ",
+"url": "https://hal.science/hal-04424653v1"
+},
+{
+"id": "pbc71166270",
+"titre": "Estimation initiale de la pose avec un échantillonnage aléatoire mais pondéré de paires de triplets redondants d'images",
+"annee": 2023,
+"type": "conférence",
+"lieu": "ORASIS 2023",
+"url": "https://hal.science/hal-04219524v1"
+},
+{
+"id": "p7689512758",
+"titre": "Evaluating Surface Mesh Reconstruction Using Real Data",
+"annee": 2023,
+"type": "journal",
+"lieu": "Photogrammetric Engineering & Remote Sensing",
+"url": "https://doi.org/10.14358/pers.23-00007r3",
+"doi": "10.14358/pers.23-00007r3"
+},
+{
+"id": "p95a3894575",
+"titre": "Le pont de Schaffhausen renaît de ses cendres dans un jumeau numérique 4D",
+"annee": 2023,
+"type": "conférence",
+"lieu": "Journées de la recherche de l'IGN 2023",
+"url": "https://hal.science/hal-04462043v1"
+},
+{
+"id": "p66bdd27be4",
+"titre": "Modélisation par photogrammétrie de maquettes de ponts historiques : problèmes méthodologiques et perspectives",
+"annee": 2023,
+"type": "conférence",
+"lieu": "Œuvres d’art et numérique : Collaborations, limites, apports mutuels à la connaissance et à la médiation, colloque Projet e-thesaurus",
+"url": "https://hal.science/hal-04462065v1"
+},
+{
+"id": "p67cc586872",
+"titre": "Registration for Urban Modeling Based on Linear and Planar Features",
+"annee": 2023,
+"type": "conférence",
+"lieu": "EUVIP 2023 - 11th European Workshop on Visual Information Processing",
+"url": "https://enpc.hal.science/hal-04217550v1",
+"doi": "10.1109/euvip58404.2023.10323059"
+},
+{
+"id": "p421943e03f",
+"titre": "SEMANTIC 3D RECONSTRUCTION USING SATELLITE IMAGERY",
+"annee": 2023,
+"type": "conférence",
+"lieu": "Big Data from Space 2023 (BiDS)",
+"url": "https://hal.science/hal-04403446v1"
+},
+{
+"id": "pef866bbe37",
+"titre": "SPARSESAT-NERF: DENSE DEPTH SUPERVISED NEURAL RADIANCE FIELDS FOR SPARSE SATELLITE IMAGES",
+"annee": 2023,
+"type": "journal",
+"lieu": "ISPRS annals of the photogrammetry, remote sensing and spatial information sciences",
+"url": "https://doi.org/10.5194/isprs-annals-x-1-w1-2023-895-2023",
+"doi": "10.5194/isprs-annals-x-1-w1-2023-895-2023"
+},
+{
+"id": "p5b60ecfaf1",
+"titre": "A 3D Segments Based Algorithm for Heterogeneous Data Registration",
+"annee": 2022,
+"type": "conférence",
+"lieu": "ISPRS congress 2022",
+"url": "https://enpc.hal.science/hal-03793989v1",
+"doi": "10.5194/isprs-archives-xliii-b1-2022-129-2022"
+},
+{
+"id": "pf6206d1aa4",
+"titre": "A Pipeline for Automated Processing of Declassified Corona KH-4 (1962–1972) Stereo Imagery",
+"annee": 2022,
+"type": "journal",
+"lieu": "IEEE Transactions on Geoscience and Remote Sensing",
+"url": "https://hal.science/hal-04205471v1",
+"doi": "10.1109/tgrs.2022.3200151"
+},
+{
+"id": "p78ea93a3ba",
+"titre": "Couverture compléte",
+"annee": 2022,
+"type": "journal",
+"lieu": "Revue Française de Photogrammétrie et de Télédétection",
+"url": "https://doi.org/10.52638/rfpt.2021.617",
+"doi": "10.52638/rfpt.2021.617"
+},
+{
+"id": "pb464a92e7f",
+"titre": "Deep Surface Reconstruction from Point Clouds with Visibility Information",
+"annee": 2022,
+"type": "conférence",
+"lieu": "26th International Conference on Pattern Recognition (ICPR)",
+"url": "https://hal.science/hal-03575517v1",
+"doi": "10.1109/icpr56361.2022.9956560"
+},
+{
+"id": "p81adeafd0f",
+"titre": "Detecting Openings for Indoor/Outdoor Registration",
+"annee": 2022,
+"type": "conférence",
+"lieu": "ISPRS congress 2022",
+"url": "https://enpc.hal.science/hal-03793990v1",
+"doi": "10.5194/isprs-archives-xliii-b2-2022-177-2022"
+},
+{
+"id": "p8c25143a4b",
+"titre": "LANDSLIDE EVOLUTION PATTERN REVEALED BY MULTI-TEMPORAL DSMS OBTAINED FROM HISTORICAL AERIAL IMAGES",
+"annee": 2022,
+"type": "conférence",
+"lieu": "ISPRS Congress",
+"url": "https://hal.science/hal-04395552v1",
+"doi": "10.5194/isprs-archives-xliii-b2-2022-1085-2022"
+},
+{
+"id": "pa358b95ea7",
+"titre": "Potential and Limitation of PlanetScope Images for 2-D and 3-D Earth Surface Monitoring With Example of Applications to Glaciers and Earthquakes",
+"annee": 2022,
+"type": "journal",
+"lieu": "IEEE Transactions on Geoscience and Remote Sensing",
+"url": "https://doi.org/10.1109/tgrs.2022.3215821",
+"doi": "10.1109/tgrs.2022.3215821"
+},
+{
+"id": "p5de6721ed2",
+"titre": "Relevé 2D & 3D du marégraphe de Marseille",
+"annee": 2022,
+"type": "journal",
+"lieu": "Revue XYZ",
+"url": "https://hal.science/hal-04424613v1"
+},
+{
+"id": "pc6915cf3af",
+"titre": "Semantic Segmentation of Urban Textured Meshes Through Point Sampling",
+"annee": 2022,
+"type": "conférence",
+"lieu": "ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences",
+"url": "https://hal.science/hal-03701607v1",
+"doi": "10.5194/isprs-annals-v-2-2022-177-2022"
+},
+{
+"id": "pfc5d71f864",
+"titre": "Surface Displacement Measurement from Remote Sensing Images",
+"annee": 2022,
+"type": "ouvrage",
+"lieu": "",
+"url": "https://hal.science/hal-04395582v1",
+"doi": "10.1002/9781119986843.ch2"
+},
+{
+"id": "pc2bb62ee63",
+"titre": "A NEW STEREO DENSE MATCHING BENCHMARK DATASET FOR DEEP LEARNING",
+"annee": 2021,
+"type": "journal",
+"lieu": "The international archives of the photogrammetry, remote sensing and spatial information sciences/International archives of the photogrammetry, remote sensing and spatial information sciences",
+"url": "https://doi.org/10.5194/isprs-archives-xliii-b2-2021-405-2021",
+"doi": "10.5194/isprs-archives-xliii-b2-2021-405-2021"
+},
+{
+"id": "p4ae66e9a3c",
+"titre": "AI4GEO: A DATA INTELLIGENCE PLATFORM FOR 3D GEOSPATIAL MAPPING",
+"annee": 2021,
+"type": "journal",
+"lieu": "The international archives of the photogrammetry, remote sensing and spatial information sciences/International archives of the photogrammetry, remote sensing and spatial information sciences",
+"url": "https://doi.org/10.5194/isprs-archives-xliii-b2-2021-817-2021",
+"doi": "10.5194/isprs-archives-xliii-b2-2021-817-2021"
+},
+{
+"id": "pa2301c12a4",
+"titre": "Compensating over- and underexposure in optical target pose determination",
+"annee": 2021,
+"type": "journal",
+"lieu": "Pattern Recognition",
+"url": "https://hal.science/hal-04424558v1",
+"doi": "10.1016/j.patcog.2021.107930"
+},
+{
+"id": "p863bda8a75",
+"titre": "EVALUATING SURFACE MESH RECONSTRUCTION OF OPEN SCENES",
+"annee": 2021,
+"type": "journal",
+"lieu": "The international archives of the photogrammetry, remote sensing and spatial information sciences/International archives of the photogrammetry, remote sensing and spatial information sciences",
+"url": "https://doi.org/10.5194/isprs-archives-xliii-b2-2021-369-2021",
+"doi": "10.5194/isprs-archives-xliii-b2-2021-369-2021"
+},
+{
+"id": "pcda80afc09",
+"titre": "Efficiently Distributed Watertight Surface Reconstruction",
+"annee": 2021,
+"type": "conférence",
+"lieu": "2021 International Conference on 3D Vision (3DV)",
+"url": "https://hal.science/hal-03380593v1"
+},
+{
+"id": "p1ceabdc9f1",
+"titre": "Feature matching for multi-epoch historical aerial images",
+"annee": 2021,
+"type": "journal",
+"lieu": "ISPRS Journal of Photogrammetry and Remote Sensing",
+"url": "https://hal.science/hal-04205371v1",
+"doi": "10.1016/j.isprsjprs.2021.10.008"
+},
+{
+"id": "p0fd993434d",
+"titre": "Preface: the 2021 edition of the XXIVth ISPRS congress",
+"annee": 2021,
+"type": "conférence",
+"lieu": "XXIVth ISPRS Congress, 2021 edition",
+"url": "https://hal.science/hal-03276194v1",
+"doi": "10.5194/isprs-annals-v-1-2021-1-2021"
+},
+{
+"id": "p7715883016",
+"titre": "Scalable Surface Reconstruction with Delaunay-Graph Neural Networks",
+"annee": 2021,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-03312448v1",
+"doi": "10.1111/cgf.14364"
+},
+{
+"id": "pc7e45cce4a",
+"titre": "Towards Efficient Indoor/Outdoor Registration Using Planar Polygons",
+"annee": 2021,
+"type": "conférence",
+"lieu": "XXIV ISPRS Congress",
+"url": "https://enpc.hal.science/hal-03643580v1",
+"doi": "10.5194/isprs-annals-v-2-2021-51-2021"
+},
+{
+"id": "p4632702eb7",
+"titre": "UAV-based canopy height modeling under leaf-on and leaf-off conditions for determining tree height and crown diameter (Case study: Hyrcanian mixed forest)",
+"annee": 2021,
+"type": "journal",
+"lieu": "Canadian Journal of Forest Research",
+"url": "https://hal.science/hal-03178462v1",
+"doi": "10.1139/cjfr-2020-0125"
+},
+{
+"id": "p3cc3a05540",
+"titre": "A two-step approach for the correction of rolling shutter distortion in UAV photogrammetry",
+"annee": 2020,
+"type": "journal",
+"lieu": "ISPRS Journal of Photogrammetry and Remote Sensing",
+"url": "https://hal.science/hal-03488867v1",
+"doi": "10.1016/j.isprsjprs.2019.11.020"
+},
+{
+"id": "p7a4d594228",
+"titre": "CAMERA CALIBRATION MODELS AND METHODS FOR CORRIDOR MAPPING WITH UAVS",
+"annee": 2020,
+"type": "journal",
+"lieu": "ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences",
+"url": "https://hal.science/hal-04424502v1",
+"doi": "10.5194/isprs-annals-v-1-2020-231-2020"
+},
+{
+"id": "p7e6864d821",
+"titre": "Comparative study of photogrammetry software in industrial field",
+"annee": 2020,
+"type": "journal",
+"lieu": "Revue Française de Photogrammétrie et de Télédétection",
+"url": "https://hal.science/hal-04395640v1",
+"doi": "10.52638/rfpt.2019.439"
+},
+{
+"id": "pcae67d0bf8",
+"titre": "Complex deformation at shallow depth during the 30 October 2016 Mw6.5 Norcia earthquake: interference between tectonic and gravity processes?",
+"annee": 2020,
+"type": "journal",
+"lieu": "Tectonics",
+"url": "https://hal.science/hal-02437512v2",
+"doi": "10.1029/2019tc005596"
+},
+{
+"id": "pb8fa25aea3",
+"titre": "Exploiting multi-camera constraints within bundel block adjustment : an experimental comparison",
+"annee": 2020,
+"type": "conférence",
+"lieu": "ISPRS Congress",
+"url": "https://hal.science/hal-04395624v1",
+"doi": "10.5194/isprs-archives-xliii-b2-2021-33-2021"
+},
+{
+"id": "pd0bd84e26f",
+"titre": "FUSION OF PHOTO WITH AIRBORNE LASER SCANNING",
+"annee": 2020,
+"type": "journal",
+"lieu": "ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences",
+"url": "https://hal.science/hal-04424545v1",
+"doi": "10.5194/isprs-annals-v-1-2020-173-2020"
+},
+{
+"id": "peaee9568b6",
+"titre": "GUIDED FEATURE MATCHING FOR MULTI-EPOCH HISTORICAL IMAGE BLOCKS POSE ESTIMATION",
+"annee": 2020,
+"type": "journal",
+"lieu": "ISPRS annals of the photogrammetry, remote sensing and spatial information sciences",
+"url": "https://doi.org/10.5194/isprs-annals-v-2-2020-127-2020",
+"doi": "10.5194/isprs-annals-v-2-2020-127-2020"
+},
+{
+"id": "pe990a3badb",
+"titre": "Mapping quality prediction for RTK/PPK-equipped micro-drones operating in complex natural environment",
+"annee": 2020,
+"type": "journal",
+"lieu": "ISPRS Journal of Photogrammetry and Remote Sensing",
+"url": "https://hal.science/hal-04424524v1",
+"doi": "10.1016/j.isprsjprs.2020.05.015"
+},
+{
+"id": "pce3faf1977",
+"titre": "Moving objects aware sensor mesh fusion for indoor reconstruction from a couple of 2D lidar scans",
+"annee": 2020,
+"type": "conférence",
+"lieu": "XXIV ISPRS Congress 2020, International Society for Photogrammetry and Remote Sensing",
+"url": "https://hal.science/hal-02916258v1",
+"doi": "10.5194/isprs-archives-xliii-b2-2020-507-2020"
+},
+{
+"id": "pbfc256118d",
+"titre": "PLANAR POLYGONS DETECTION IN LIDAR SCANS BASED ON SENSOR TOPOLOGY ENHANCED RANSAC",
+"annee": 2020,
+"type": "journal",
+"lieu": "ISPRS annals of the photogrammetry, remote sensing and spatial information sciences",
+"url": "https://doi.org/10.5194/isprs-annals-v-2-2020-343-2020",
+"doi": "10.5194/isprs-annals-v-2-2020-343-2020"
+},
+{
+"id": "p1f16c27077",
+"titre": "Preface: the 2020 edition of the XXIVth ISPRS congress",
+"annee": 2020,
+"type": "conférence",
+"lieu": "ISPRS 2020 - XXIVth edition of the International Society for Photogrammetry and Remote Sensing",
+"url": "https://inria.hal.science/hal-02948164v1",
+"doi": "10.5194/isprs-annals-v-1-2020-1-2020"
+},
+{
+"id": "peefbfd050b",
+"titre": "Provably Consistent Distributed Delaunay Triangulation",
+"annee": 2020,
+"type": "conférence",
+"lieu": "International Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences (ISPRS Annals)",
+"url": "https://hal.science/hal-02551509v1",
+"doi": "10.5194/isprs-annals-v-2-2020-195-2020"
+},
+{
+"id": "p3a29afffe4",
+"titre": "Towards structureless bundle adjustment with two- and three-view structure approximation",
+"annee": 2020,
+"type": "conférence",
+"lieu": "ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences",
+"url": "https://hal.science/hal-02499312v2",
+"doi": "10.5194/isprs-annals-v-2-2020-71-2020"
+},
+{
+"id": "p7cf22e38b0",
+"titre": "DIDRO, an integrated tool for levees survey by drone",
+"annee": 2019,
+"type": "conférence",
+"lieu": "Digues maritimes et fluviales de protection contre les inondations - 3e colloque - Digues 2019",
+"url": "https://hal.inrae.fr/hal-02609451v1"
+},
+{
+"id": "p011b9720f5",
+"titre": "Improvement of photogrammetric accuracy by modeling and correcting the thermal effect on camera calibration",
+"annee": 2019,
+"type": "journal",
+"lieu": "ISPRS Journal of Photogrammetry and Remote Sensing",
+"url": "https://hal.science/hal-04395664v1",
+"doi": "10.1016/j.isprsjprs.2018.12.012"
+},
+{
+"id": "p62670718fe",
+"titre": "La démarche GéoBIM : de la gestion du territoire à celle d’un bâtiment",
+"annee": 2019,
+"type": "journal",
+"lieu": "Annales des Mines - Responsabilité et environnement",
+"url": "https://doi.org/10.3917/re1.094.0042",
+"doi": "10.3917/re1.094.0042"
+},
+{
+"id": "pca853401df",
+"titre": "PIECEWISE-PLANAR APPROXIMATION OF LARGE 3D DATA AS GRAPH-STRUCTURED OPTIMIZATION",
+"annee": 2019,
+"type": "journal",
+"lieu": "ISPRS annals of the photogrammetry, remote sensing and spatial information sciences",
+"url": "https://doi.org/10.5194/isprs-annals-iv-2-w5-365-2019",
+"doi": "10.5194/isprs-annals-iv-2-w5-365-2019"
+},
+{
+"id": "p5e28a44536",
+"titre": "Piecewise Horizontal 3D Roof Reconstruction from Aerial Lidar",
+"annee": 2019,
+"type": "conférence",
+"lieu": "IGARSS 2019 - 2019 IEEE International Geoscience and Remote Sensing Symposium",
+"url": "https://hal.science/hal-02558496v1",
+"doi": "10.1109/igarss.2019.8898650"
+},
+{
+"id": "p6e6cee5722",
+"titre": "Retrieving soil surface roughness with the Hapke photometric model: Confrontation with the ground truth",
+"annee": 2019,
+"type": "journal",
+"lieu": "Remote Sensing of Environment",
+"url": "https://univ-lyon1.hal.science/hal-02293285v1",
+"doi": "10.1016/j.rse.2019.02.014"
+},
+{
+"id": "p959e3c4295",
+"titre": "Simulation and Analysis of Photogrammetric UAV Image Blocks—Influence of Camera Calibration Error",
+"annee": 2019,
+"type": "journal",
+"lieu": "Remote Sensing",
+"url": "https://hal.science/hal-04395654v1",
+"doi": "10.3390/rs12010022"
+},
+{
+"id": "pf449e341eb",
+"titre": "The Orthographic Projection Model for Pose Calibration of Long Focal Images",
+"annee": 2019,
+"type": "journal",
+"lieu": "Image Processing On Line",
+"url": "https://enpc.hal.science/hal-02284935v1",
+"doi": "10.5201/ipol.2019.248"
+},
+{
+"id": "pfed0342c86",
+"titre": "Tile & Merge: Distributed Delaunay Triangulations for Cloud Computing",
+"annee": 2019,
+"type": "conférence",
+"lieu": "IEEE Big Data 2019",
+"url": "https://hal.science/hal-02535021v1",
+"doi": "10.1109/bigdata47090.2019.9006534"
+},
+{
+"id": "p633218277a",
+"titre": "3D reconstruction from multi-view VHR-satellite images in MicMac",
+"annee": 2018,
+"type": "journal",
+"lieu": "ISPRS Journal of Photogrammetry and Remote Sensing",
+"url": "https://hal.science/hal-02369304v1",
+"doi": "10.1016/j.isprsjprs.2018.03.016"
+},
+{
+"id": "p33e1b5b9e0",
+"titre": "A Stixel Approach for Enhancing Semantic Image Segmentation Using Prior Map Information",
+"annee": 2018,
+"type": "conférence",
+"lieu": "2018 15th International Conference on Control, Automation, Robotics and Vision (ICARCV)",
+"url": "https://hal.science/hal-02552565v1",
+"doi": "10.1109/icarcv.2018.8581150"
+},
+{
+"id": "pb72a60fafc",
+"titre": "EVALUATION OF PHOTOGRAMMETRIC BLOCK ORIENTATION USING QUALITY DESCRIPTORS FROM STATISTICALLY FILTERED TIE POINTS",
+"annee": 2018,
+"type": "journal",
+"lieu": "The international archives of the photogrammetry, remote sensing and spatial information sciences/International archives of the photogrammetry, remote sensing and spatial information sciences",
+"url": "https://doi.org/10.5194/isprs-archives-xlii-2-185-2018",
+"doi": "10.5194/isprs-archives-xlii-2-185-2018"
+},
+{
+"id": "p833b72afa7",
+"titre": "Estimation à la volée du vignettage par ajustement local du gain",
+"annee": 2018,
+"type": "conférence",
+"lieu": "Conférence Annuelle Française de Photogrammétrie et Télédétection (CFPT)",
+"url": "https://hal.science/hal-02551475v1"
+},
+{
+"id": "pa97b8d7dde",
+"titre": "GNSS-Assisted Integrated Sensor Orientation with Sensor Pre-Calibration for Accurate Corridor Mapping",
+"annee": 2018,
+"type": "journal",
+"lieu": "Sensors",
+"url": "https://hal.science/hal-04395671v1",
+"doi": "10.3390/s18092783"
+},
+{
+"id": "p575a0de235",
+"titre": "GNSS-assisted accurate corridor mapping with small UAV",
+"annee": 2018,
+"type": "conférence",
+"lieu": "RFIAP & CFPT 2018",
+"url": "https://hal.science/hal-02050714v1"
+},
+{
+"id": "p4b887cf2a2",
+"titre": "Hemispherical sky radiance measurement using a fish-eye camera",
+"annee": 2018,
+"type": "conférence",
+"lieu": "Conférence Française de Photogrammétrie et de Télédétection (CFPT)",
+"url": "https://hal.science/hal-02555594v1"
+},
+{
+"id": "pf73fea165e",
+"titre": "Large scale textured mesh reconstruction from mobile mapping images and lidar scans",
+"annee": 2018,
+"type": "conférence",
+"lieu": "ISPRS 2018 - International Society for Photogrammetry and Remote Sensing",
+"url": "https://hal.science/hal-01764547v1",
+"doi": "10.5194/isprs-annals-iv-2-49-2018"
+},
+{
+"id": "pfcee7758f8",
+"titre": "Optimisation de fonction pseudo-booléennes",
+"annee": 2018,
+"type": "chapitre",
+"lieu": "Optimisation de formes en sciences de l'ingénieur : Méthodes et applications",
+"url": "https://hal.science/hal-01976512v1"
+},
+{
+"id": "p5fba71cd60",
+"titre": "SENSOR-TOPOLOGY BASED SIMPLICIAL COMPLEX RECONSTRUCTION FROM MOBILE LASER SCANNING",
+"annee": 2018,
+"type": "journal",
+"lieu": "ISPRS annals of the photogrammetry, remote sensing and spatial information sciences",
+"url": "https://doi.org/10.5194/isprs-annals-iv-2-121-2018",
+"doi": "10.5194/isprs-annals-iv-2-121-2018"
+},
+{
+"id": "pc748b59a8c",
+"titre": "Second Iteration of Photogrammetric Processing to Refine Image Orientation with Improved Tie-Points †",
+"annee": 2018,
+"type": "journal",
+"lieu": "Sensors",
+"url": "https://hal.science/hal-04395707v1",
+"doi": "10.3390/s18072150"
+},
+{
+"id": "pdaa1b254cc",
+"titre": "Un algorithme pour battre le record du SwissTrainChallenge :",
+"annee": 2018,
+"type": "journal",
+"lieu": "Revue XYZ",
+"url": "https://hal.science/hal-04424473v1"
+},
+{
+"id": "p4ffb98899f",
+"titre": "Using kites for 3-D mapping of gullies at decimetre-resolution over several square kilometres: a case study on the Kamech catchment, Tunisia",
+"annee": 2018,
+"type": "journal",
+"lieu": "Natural Hazards and Earth System Sciences",
+"url": "https://hal.science/hal-01809743v1",
+"doi": "10.5194/nhess-18-1567-2018"
+},
+{
+"id": "p1ace094a80",
+"titre": "Weighted simplicial complex reconstruction from mobile laser scanning using sensor topology",
+"annee": 2018,
+"type": "conférence",
+"lieu": "RFIAP 2018",
+"url": "https://hal.science/hal-02552578v1"
+},
+{
+"id": "p30c98fae5b",
+"titre": "A structured regularization framework for spatially smoothing semantic labelings of 3D point clouds",
+"annee": 2017,
+"type": "journal",
+"lieu": "ISPRS Journal of Photogrammetry and Remote Sensing",
+"url": "https://hal.science/hal-01505245v2",
+"doi": "10.1016/j.isprsjprs.2017.08.010"
+},
+{
+"id": "p89a851120b",
+"titre": "Couplage GPS et caméra embarqués sur drone pour de la modélisation photogrammétrique industrielle.",
+"annee": 2017,
+"type": "conférence",
+"lieu": "Journées de la Recherche IGN 2017",
+"url": "https://hal.science/hal-01517498v1"
+},
+{
+"id": "pcce7d17376",
+"titre": "Culture 3D Cloud: A Cloud Computing Platform for 3D Scanning, Documentation, Preservation and Dissemination of Cultural Heritage",
+"annee": 2017,
+"type": "journal",
+"lieu": "ERCIM News",
+"url": "https://hal.science/hal-02096629v1"
+},
+{
+"id": "p3471a60229",
+"titre": "Implementation of an IMU Aided Image Stacking Algorithm in a Digital Camera for Unmanned Aerial Vehicles",
+"annee": 2017,
+"type": "journal",
+"lieu": "Sensors",
+"url": "https://hal.science/hal-01559030v1"
+},
+{
+"id": "pc8dcfda935",
+"titre": "Improving FOSS photogrammetric workflows for processing large image datasets",
+"annee": 2017,
+"type": "journal",
+"lieu": "Open Geospatial Data Software and Standards",
+"url": "https://doi.org/10.1186/s40965-017-0024-5",
+"doi": "10.1186/s40965-017-0024-5"
+},
+{
+"id": "p728a716631",
+"titre": "Lightweight UAV with on-board photogrammetry and single-frequency GPS positioning for metrology applications",
+"annee": 2017,
+"type": "journal",
+"lieu": "ISPRS Journal of Photogrammetry and Remote Sensing",
+"url": "https://hal.science/hal-01470959v1",
+"doi": "10.1016/j.isprsjprs.2016.12.007"
+},
+{
+"id": "p37f2270ce8",
+"titre": "Mapping GNSS restricted environments with a drone tandem and indirect position control",
+"annee": 2017,
+"type": "journal",
+"lieu": "ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences",
+"url": "https://hal.science/hal-04424442v1",
+"doi": "10.5194/isprs-annals-iv-2-w3-1-2017"
+},
+{
+"id": "pabc21767f5",
+"titre": "MicMac – a free, open-source solution for photogrammetry",
+"annee": 2017,
+"type": "journal",
+"lieu": "Open Geospatial Data, Software and Standards",
+"url": "https://hal.science/hal-02369310v1",
+"doi": "10.1186/s40965-017-0027-2"
+},
+{
+"id": "p9153de4980",
+"titre": "OCCUPANCY MODELLING FOR MOVING OBJECT DETECTION FROM LIDAR POINT CLOUDS: A COMPARATIVE STUDY",
+"annee": 2017,
+"type": "journal",
+"lieu": "ISPRS annals of the photogrammetry, remote sensing and spatial information sciences",
+"url": "https://doi.org/10.5194/isprs-annals-iv-2-w4-171-2017",
+"doi": "10.5194/isprs-annals-iv-2-w4-171-2017"
+},
+{
+"id": "pa81314a0d2",
+"titre": "Pré-segmentation pour la classification faiblement supervisée de scènes urbaines à partir de nuages de points 3D LIDAR",
+"annee": 2017,
+"type": "conférence",
+"lieu": "ORASIS 2017",
+"url": "https://hal.science/hal-01866620v1"
+},
+{
+"id": "p9abe04124f",
+"titre": "The Hassan mosque at the digital era.",
+"annee": 2017,
+"type": "journal",
+"lieu": "Frontiers in Science and Engineering International Journal",
+"url": "https://hal.science/hal-01850561v1"
+},
+{
+"id": "p7297a9e8c5",
+"titre": "3D watertight mesh generation with uncertainties from ubiquitous data",
+"annee": 2016,
+"type": "conférence",
+"lieu": "Asian Conference on Computer Vision (ACCV)",
+"url": "https://hal.science/hal-01882625v1",
+"doi": "10.1007/978-3-319-54190-7_23"
+},
+{
+"id": "pd569e630b0",
+"titre": "Close-Range Photogrammetric Tools for Epigraphic Surveys",
+"annee": 2016,
+"type": "journal",
+"lieu": "Journal on Computing and Cultural Heritage",
+"url": "https://shs.hal.science/halshs-02954556v1"
+},
+{
+"id": "pa38ee4af6b",
+"titre": "Geological structures control on earthquake ruptures: The M w 7.7, 2013, Balochistan earthquake, Pakistan",
+"annee": 2016,
+"type": "journal",
+"lieu": "Geophysical Research Letters",
+"url": "https://insu.hal.science/insu-01888985v1",
+"doi": "10.1002/2016gl070418"
+},
+{
+"id": "p483ed1cc54",
+"titre": "HYBRID ONLINE MOBILE LASER SCANNER CALIBRATION THROUGH IMAGE ALIGNMENT BY MUTUAL INFORMATION",
+"annee": 2016,
+"type": "journal",
+"lieu": "ISPRS annals of the photogrammetry, remote sensing and spatial information sciences",
+"url": "https://doi.org/10.5194/isprs-annals-iii-1-25-2016",
+"doi": "10.5194/isprs-annals-iii-1-25-2016"
+},
+{
+"id": "p6f0b9dba1c",
+"titre": "Leveling and hybrid gravimetry monitoring applied to geothermal sites of Soultz-sous- Forêts and Rittershoffen, Rhine Graben, France",
+"annee": 2016,
+"type": "conférence",
+"lieu": "3rd Joint International Symposium on Deformation Monitoring (JISDM)",
+"url": "https://hal.science/hal-01852190v1"
+},
+{
+"id": "pa3c4f89112",
+"titre": "Pour réconcilier les topographes avec les nombres complexes",
+"annee": 2016,
+"type": "journal",
+"lieu": "Revue XYZ",
+"url": "https://hal.science/hal-04424382v1"
+},
+{
+"id": "pd9df398841",
+"titre": "REFINED SATELLITE IMAGE ORIENTATION IN THE FREE OPEN-SOURCE PHOTOGRAMMETRIC TOOLS APERO/MICMAC",
+"annee": 2016,
+"type": "journal",
+"lieu": "ISPRS annals of the photogrammetry, remote sensing and spatial information sciences",
+"url": "https://doi.org/10.5194/isprs-annals-iii-1-83-2016",
+"doi": "10.5194/isprs-annals-iii-1-83-2016"
+},
+{
+"id": "paaacbc551d",
+"titre": "STATE-OF-THE-ART OF 3D NATIONAL MAPPING IN 2016",
+"annee": 2016,
+"type": "journal",
+"lieu": "The international archives of the photogrammetry, remote sensing and spatial information sciences/International archives of the photogrammetry, remote sensing and spatial information sciences",
+"url": "https://doi.org/10.5194/isprs-archives-xli-b4-653-2016",
+"doi": "10.5194/isprs-archives-xli-b4-653-2016"
+},
+{
+"id": "p90f1dc5209",
+"titre": "Street-side vehicle detection, classification and change detection using mobile laser scanning data",
+"annee": 2016,
+"type": "journal",
+"lieu": "ISPRS Journal of Photogrammetry and Remote Sensing",
+"url": "https://hal.science/hal-02552625v1",
+"doi": "10.1016/j.isprsjprs.2016.02.007"
+},
+{
+"id": "pebab8c0f3e",
+"titre": "Study of lever-arm effect using embedded photogrammetry and on-board gps receiver on uav for metrological mapping purpose and proposal of a free ground measurements calibration procedure,",
+"annee": 2016,
+"type": "conférence",
+"lieu": "EuroCOW 2016",
+"url": "https://hal.science/hal-01391298v1",
+"doi": "10.5194/isprs-archives-xl-3-w4-65-2016"
+},
+{
+"id": "p4c1544ff20",
+"titre": "Uncertainty propagation for terrestrial mobile laser scanner",
+"annee": 2016,
+"type": "journal",
+"lieu": "ISPRS International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences",
+"url": "https://hal.science/hal-02552550v1",
+"doi": "10.5194/isprs-archives-xli-b3-331-2016"
+},
+{
+"id": "p126922b3b5",
+"titre": "3D octree based watertight mesh generation from ubiquitous data",
+"annee": 2015,
+"type": "conférence",
+"lieu": "ISPRS Geospatial Week 2015, GeoBigData workshop",
+"url": "https://hal.science/hal-01882668v1",
+"doi": "10.5194/isprsarchives-xl-3-w3-613-2015"
+},
+{
+"id": "p2da482742f",
+"titre": "Aerial multi-camera systems: Accuracy and block triangulation issues",
+"annee": 2015,
+"type": "journal",
+"lieu": "ISPRS Journal of Photogrammetry and Remote Sensing",
+"url": "https://hal.science/hal-02369307v1",
+"doi": "10.1016/j.isprsjprs.2014.12.020"
+},
+{
+"id": "pefe7c16de5",
+"titre": "Coastal digital surface model on low contrast images",
+"annee": 2015,
+"type": "journal",
+"lieu": "ISPRS International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences",
+"url": "https://brgm.hal.science/hal-03699675v1",
+"doi": "10.5194/isprsarchives-xl-3-w3-307-2015"
+},
+{
+"id": "pfd037cfbc4",
+"titre": "Distributed dimensonality-based rendering of lidar point clouds",
+"annee": 2015,
+"type": "conférence",
+"lieu": "ISPRS Geospatial Week 2015, GeoBigData workshop",
+"url": "https://hal.science/hal-02332524v1",
+"doi": "10.5194/isprsarchives-xl-3-w3-559-2015"
+},
+{
+"id": "p9a7ca39a0b",
+"titre": "Extending alpha-expansion to a larger set of regularization functions",
+"annee": 2015,
+"type": "conférence",
+"lieu": "IEEE International Conference on Image Processing",
+"url": "https://hal.science/hal-01215838v1"
+},
+{
+"id": "p0b45438532",
+"titre": "Extracting Mobile Objects in Images using a Velodyne Lidar Point Cloud",
+"annee": 2015,
+"type": "conférence",
+"lieu": "Photogrammetric Image Analysis workshop (PIA)",
+"url": "https://hal.science/hal-02551461v1",
+"doi": "10.5194/isprsannals-ii-3-w4-247-2015"
+},
+{
+"id": "p5d59d0903d",
+"titre": "Kite-born photogrammetry for decimetric 3D mapping of several square kilometres areas",
+"annee": 2015,
+"type": "conférence",
+"lieu": "IEEE International Geoscience and Remote Sensing Symposium",
+"url": "https://hal.inrae.fr/hal-02741706v1"
+},
+{
+"id": "p807e3ea716",
+"titre": "Measurement of ground displacement from optical satellite image correlation using the free open-source software MicMac",
+"annee": 2015,
+"type": "journal",
+"lieu": "ISPRS Journal of Photogrammetry and Remote Sensing",
+"url": "https://insu.hal.science/insu-03580019v1",
+"doi": "10.1016/j.isprsjprs.2014.03.002"
+},
+{
+"id": "p0127ae0910",
+"titre": "Multi-method monitoring of Glacier d’Argentière dynamics",
+"annee": 2015,
+"type": "journal",
+"lieu": "Annals of Glaciology",
+"url": "https://hal.science/hal-01154174v1",
+"doi": "10.3189/2015aog70a985"
+},
+{
+"id": "paf78734764",
+"titre": "Photogrammétrie aéroportée et positionnement précis par GPS embarqué sur drone : application au terrassement",
+"annee": 2015,
+"type": "conférence",
+"lieu": "Journée scientifique Photogrammétrie et imagerie 3D du CEREMA",
+"url": "https://hal.science/hal-01236909v1"
+},
+{
+"id": "p01f6738599",
+"titre": "Photogrammétrie aéroportée par drone et positionnement GPS embarqué pour le terrassement.",
+"annee": 2015,
+"type": "conférence",
+"lieu": "Journées de la Recherche à l'IGN",
+"url": "https://hal.science/hal-01164623v1"
+},
+{
+"id": "p4b92d709c1",
+"titre": "ROAD ORTHOPHOTO/DTM GENERATION FROM MOBILE LASER SCANNING",
+"annee": 2015,
+"type": "journal",
+"lieu": "ISPRS annals of the photogrammetry, remote sensing and spatial information sciences",
+"url": "https://doi.org/10.5194/isprsannals-ii-3-w5-377-2015",
+"doi": "10.5194/isprsannals-ii-3-w5-377-2015"
+},
+{
+"id": "paa83899b5c",
+"titre": "Sinusoidal Wave Estimation Using Photogrammetry and Short Video Sequences",
+"annee": 2015,
+"type": "journal",
+"lieu": "Sensors",
+"url": "https://hal.science/hal-02369322v1",
+"doi": "10.3390/s151229828"
+},
+{
+"id": "p7dd8b16058",
+"titre": "Street environment change detection from mobile laser scanning point clouds",
+"annee": 2015,
+"type": "journal",
+"lieu": "ISPRS Journal of Photogrammetry and Remote Sensing",
+"url": "https://hal.science/hal-01882334v1",
+"doi": "10.1016/j.isprsjprs.2015.04.011"
+},
+{
+"id": "pc1e68a2ca7",
+"titre": "TerraMobilita/iQmulus urban point cloud analysis benchmark",
+"annee": 2015,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://hal.science/hal-01167995v1",
+"doi": "10.1016/j.cag.2015.03.004"
+},
+{
+"id": "p0c6ef4e782",
+"titre": "The Guided Bilateral Filter: When the Joint/Cross Bilateral Filter Becomes Robust",
+"annee": 2015,
+"type": "journal",
+"lieu": "IEEE Transactions on Image Processing",
+"url": "https://hal.science/hal-01215837v1",
+"doi": "10.1109/tip.2015.2389617"
+},
+{
+"id": "p28499b43a6",
+"titre": "UAV onboard photogrammetry and GPS positioning for earthworks",
+"annee": 2015,
+"type": "conférence",
+"lieu": "ISPRS Geospatial Week 2015",
+"url": "https://hal.science/hal-01206567v1",
+"doi": "10.5194/isprsarchives-xl-3-w3-293-2015"
+},
+{
+"id": "p65ab01341d",
+"titre": "Automatic Georeferencing of a Heritage of old analog aerial Photographs",
+"annee": 2014,
+"type": "journal",
+"lieu": "ISPRS annals of the photogrammetry, remote sensing and spatial information sciences",
+"url": "https://doi.org/10.5194/isprsannals-ii-3-33-2014",
+"doi": "10.5194/isprsannals-ii-3-33-2014"
+},
+{
+"id": "pe37587902a",
+"titre": "Combinatorial clustering and Its Application to 3D Polygonal Traffic Sign Reconstruction From Multiple Images",
+"annee": 2014,
+"type": "conférence",
+"lieu": "ISPRS Technical Commission III Symposium",
+"url": "https://hal.science/hal-01882713v1",
+"doi": "10.5194/isprsannals-ii-3-165-2014"
+},
+{
+"id": "p01f445233d",
+"titre": "Combining Stereo and Atmospheric Veil Depth Cues for 3D Reconstruction",
+"annee": 2014,
+"type": "journal",
+"lieu": "IPSJ Transactions on Computer Vision and Applications",
+"url": "https://hal.science/hal-01051487v1",
+"doi": "10.2197/ipsjtcva.6.1"
+},
+{
+"id": "pe059b68cf9",
+"titre": "Daytime Fog Detection and Density Estimation with Entropy Minimisation",
+"annee": 2014,
+"type": "conférence",
+"lieu": "ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences",
+"url": "https://hal.science/hal-01068534v1"
+},
+{
+"id": "pbc2040d41a",
+"titre": "Daytime fog detection and density estimation with entropy minimization",
+"annee": 2014,
+"type": "journal",
+"lieu": "ISPRS annals of the photogrammetry, remote sensing and spatial information sciences",
+"url": "https://doi.org/10.5194/isprsannals-ii-3-25-2014",
+"doi": "10.5194/isprsannals-ii-3-25-2014"
+},
+{
+"id": "p712e12eec2",
+"titre": "Detecting blind building façades from highly overlapping wide angle aerial imagery",
+"annee": 2014,
+"type": "journal",
+"lieu": "ISPRS Journal of Photogrammetry and Remote Sensing",
+"url": "https://hal.science/hal-01559518v1",
+"doi": "10.1016/j.isprsjprs.2014.07.011"
+},
+{
+"id": "p4063b966fe",
+"titre": "First 3D thermal mapping of an active volcano using an advanced photogrammetric method",
+"annee": 2014,
+"type": "conférence",
+"lieu": "EGU General Assembly 2014, held 27 April - 2 May, 2014 in Vienna, Austria, id.14597",
+"url": "https://hal.science/hal-03109728v1"
+},
+{
+"id": "p579486ceb0",
+"titre": "Ground-based multi-view photogrammetry for the monitoring of landslide deformation and erosion",
+"annee": 2014,
+"type": "journal",
+"lieu": "Geomorphology",
+"url": "https://hal.science/hal-01107707v1",
+"doi": "10.1016/j.geomorph.2014.10.039"
+},
+{
+"id": "pa13130079e",
+"titre": "L'apport des modélisations 3D pour l'étude de la grotte Blanchard (Saint-Marcel, Indre, France), bilan et perspectives pour l'analyse croisées des données",
+"annee": 2014,
+"type": "journal",
+"lieu": "PALEO : Revue d'Archéologie Préhistorique",
+"url": "https://hal.science/halsde-01023838v1"
+},
+{
+"id": "p3287c1a96f",
+"titre": "La photogrammétrie rapprochée pour la modélisation en 4D d’une structure archéologique",
+"annee": 2014,
+"type": "journal",
+"lieu": "Bulletin - Société Française de Photogrammétrie et de Télédétection",
+"url": "https://shs.hal.science/halshs-01439283v1"
+},
+{
+"id": "p91e2f4ff55",
+"titre": "MONUMENTUM: Digital modelling and data management for the conservation of masonry structures",
+"annee": 2014,
+"type": "conférence",
+"lieu": "ICOMOS International Symposium \"Heritage and Landscape as Human Values\"",
+"url": "https://hal.science/hal-04995057v1"
+},
+{
+"id": "p1e4965d8e8",
+"titre": "Stereopolis II: A multi-purpose and multi-sensor 3D mobile mapping system for street visualisation and 3D metrology",
+"annee": 2014,
+"type": "journal",
+"lieu": "Revue Française de Photogrammétrie et de Télédétection",
+"url": "https://doi.org/10.52638/rfpt.2012.63",
+"doi": "10.52638/rfpt.2012.63"
+},
+{
+"id": "p9c530aeb60",
+"titre": "TerraMobilita/IQmulus Urban Point Cloud Classification Benchmark",
+"annee": 2014,
+"type": "conférence",
+"lieu": "Workshop on Processing Large Geospatial Data",
+"url": "https://hal.science/hal-01101621v1"
+},
+{
+"id": "p51f51be701",
+"titre": "A Synergistic Approach for Recovering Occlusion-Free Textured 3D Maps of Urban Facades from Heterogeneous Cartographic Data",
+"annee": 2013,
+"type": "journal",
+"lieu": "International Journal of Advanced Robotic Systems",
+"url": "https://doi.org/10.5772/56570",
+"doi": "10.5772/56570"
+},
+{
+"id": "p83005a23e9",
+"titre": "An advanced photogrammetric method to measure surface roughness: Application to volcanic terrains in the Piton de la Fournaise, Reunion Island",
+"annee": 2013,
+"type": "journal",
+"lieu": "Remote Sensing of Environment",
+"url": "https://insu.hal.science/insu-03581772v1",
+"doi": "10.1016/j.rse.2013.03.026"
+},
+{
+"id": "pd1e68afd6d",
+"titre": "Assessment of an ancient bridge combining geophysical and advanced photogrammetric methods: Application to the Pont De Coq, France",
+"annee": 2013,
+"type": "journal",
+"lieu": "Journal of Applied Geophysics",
+"url": "https://hal.science/hal-02178060v1",
+"doi": "10.1016/j.jappgeo.2013.08.009"
+},
+{
+"id": "p843053bec9",
+"titre": "Change Detection in 3D Point Clouds Acquired by a Mobile Mapping System",
+"annee": 2013,
+"type": "journal",
+"lieu": "ISPRS annals of the photogrammetry, remote sensing and spatial information sciences",
+"url": "https://doi.org/10.5194/isprsannals-ii-5-w2-331-2013",
+"doi": "10.5194/isprsannals-ii-5-w2-331-2013"
+},
+{
+"id": "pf8d9e81fea",
+"titre": "DSM generation from stereoscopic imagery for damage mapping, application on the tohoku tsunami",
+"annee": 2013,
+"type": "conférence",
+"lieu": "International Geosciences and Remote Sensing Symposium",
+"url": "https://hal.science/hal-00917390v1"
+},
+{
+"id": "p7d8dabd21a",
+"titre": "Detection and 3D reconstruction of traffic signs from multiple view color images",
+"annee": 2013,
+"type": "journal",
+"lieu": "ISPRS Journal of Photogrammetry and Remote Sensing",
+"url": "https://hal.science/hal-02552610v1",
+"doi": "10.1016/j.isprsjprs.2012.11.009"
+},
+{
+"id": "p16aca60a9a",
+"titre": "Extracting polygonal building footprints from digital surface models: A fully-automatic global optimization framework",
+"annee": 2013,
+"type": "journal",
+"lieu": "ISPRS Journal of Photogrammetry and Remote Sensing",
+"url": "https://hal.science/hal-01557735v1",
+"doi": "10.1016/j.isprsjprs.2012.11.007"
+},
+{
+"id": "p129757e0e9",
+"titre": "Facade Reconstruction with Generalized 2.5d Grids",
+"annee": 2013,
+"type": "journal",
+"lieu": "ISPRS annals of the photogrammetry, remote sensing and spatial information sciences",
+"url": "https://doi.org/10.5194/isprsannals-ii-5-w2-67-2013",
+"doi": "10.5194/isprsannals-ii-5-w2-67-2013"
+},
+{
+"id": "pc5e10ece3a",
+"titre": "Generation of an integrated 3D city model with visual landmarks for autonomous navigation in dense urban areas",
+"annee": 2013,
+"type": "conférence",
+"lieu": "2013 IEEE Intelligent Vehicles Symposium (IV)",
+"url": "https://hal.science/hal-02552511v1",
+"doi": "10.1109/ivs.2013.6629486"
+},
+{
+"id": "p37e875771f",
+"titre": "Homological persistence for shape based change detection between Digital Elevation Models",
+"annee": 2013,
+"type": "journal",
+"lieu": "ISPRS annals of the photogrammetry, remote sensing and spatial information sciences",
+"url": "https://doi.org/10.5194/isprsannals-ii-3-w2-49-2013",
+"doi": "10.5194/isprsannals-ii-3-w2-49-2013"
+},
+{
+"id": "p8bf4b19936",
+"titre": "Markov Random Field Model for Single Image Defogging",
+"annee": 2013,
+"type": "conférence",
+"lieu": "IEEE Intelligent Vehicle Symposium",
+"url": "https://hal.science/hal-00852870v1"
+},
+{
+"id": "pc880a50503",
+"titre": "Mise en cohérence de données laser mobile sur un modèle cartographique par recalage non-rigide",
+"annee": 2013,
+"type": "journal",
+"lieu": "Revue Française de Photogrammétrie et de Télédétection",
+"url": "https://hal.science/hal-02552608v1",
+"doi": "10.52638/rfpt.2013.49"
+},
+{
+"id": "pfc0382b692",
+"titre": "Mise en correspondance de points 3D obtenus avec une grande \"base-line",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Orasis, Congrès des jeunes chercheurs en vision par ordinateur",
+"url": "https://hal.science/hal-00829336v1"
+},
+{
+"id": "pe99a8e55bd",
+"titre": "Partial iterates for symmetrizing non-parametric color correction",
+"annee": 2013,
+"type": "journal",
+"lieu": "ISPRS Journal of Photogrammetry and Remote Sensing",
+"url": "https://hal.science/hal-02552598v1",
+"doi": "10.1016/j.isprsjprs.2013.05.005"
+},
+{
+"id": "pdb95f9755b",
+"titre": "Photographer-friendly workflows for image-based modelling of heritage artefacts.",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Remote Sensing and Spatial Information Sciences XXIV International CIPA",
+"url": "https://hal.science/hal-01052974v1"
+},
+{
+"id": "pbb16b2b892",
+"titre": "Photometric based 3D Registration",
+"annee": 2013,
+"type": "conférence",
+"lieu": "IAPR Int. Conf. on Machine Vision Applications, MVA'13",
+"url": "https://hal.science/hal-01198506v1"
+},
+{
+"id": "p0c070c376b",
+"titre": "Protocols and Assisted Tools for Effective Image-Based Modeling of Architectural Elements",
+"annee": 2013,
+"type": "conférence",
+"lieu": "International Conference on Cultural Heritage",
+"url": "https://hal.science/hal-01044471v1"
+},
+{
+"id": "pe07b9bde31",
+"titre": "Registration of terrestrial mobile laser data on 2D or 3D geographic database by use of a non-rigid ICP approach.",
+"annee": 2013,
+"type": "journal",
+"lieu": "ISPRS annals of the photogrammetry, remote sensing and spatial information sciences",
+"url": "https://doi.org/10.5194/isprsannals-ii-5-w2-193-2013",
+"doi": "10.5194/isprsannals-ii-5-w2-193-2013"
+},
+{
+"id": "p07e96354c5",
+"titre": "UAV photogrammetry for archaeological survey: The Theaters area of Pompeii",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Digital Heritage 2013",
+"url": "https://hal.science/hal-01026517v1",
+"doi": "10.1109/digitalheritage.2013.6744818"
+},
+{
+"id": "pacdaf520f2",
+"titre": "UAV photogrammetry for archaeological survey: The Theaters area of Pompeii",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Digital Heritage International Congress DH'13",
+"url": "https://hal.science/hal-01053108v1"
+},
+{
+"id": "pf18cf1bdd1",
+"titre": "Urban material characterization in the sun and shade of built-up structures and trees and their retrieval from airborne image acquisitions over two French cities (UMBRA)",
+"annee": 2013,
+"type": "journal",
+"lieu": "Revue Française de Photogrammétrie et de Télédétection",
+"url": "https://hal.science/hal-02370225v1",
+"doi": "10.52638/rfpt.2013.53"
+},
+{
+"id": "pc1a6e8a1d8",
+"titre": "When script engravings reveal a semantic link between the conceptual and the spatial dimensions of a monument: the case of the Tomb of Emperor Qianlong",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Digital Heritage International Congress DH'13",
+"url": "https://hal.science/hal-01053406v1",
+"doi": "10.1109/digitalheritage.2013.6743790"
+},
+{
+"id": "p466123d7d6",
+"titre": "An Accuracy Assessment of Automated Photogrammetric Techniques for 3D Modeling of Complex Interiors",
+"annee": 2012,
+"type": "conférence",
+"lieu": "XXII ISPRS Congress",
+"url": "https://hal.science/hal-01882993v1",
+"doi": "10.5194/isprsarchives-xxxix-b3-23-2012"
+},
+{
+"id": "p39e74b1739",
+"titre": "An Interactive 3-Dimensional Database Applied to the Conservation of a Painted Chapel",
+"annee": 2012,
+"type": "journal",
+"lieu": "International Journal of Heritage in the Digital Era",
+"url": "https://hal.science/hal-00939222v1",
+"doi": "10.1260/2047-4970.1.2.233"
+},
+{
+"id": "p5ead2fb9ae",
+"titre": "Detecting and Correcting Motion Blur from Images Shot with Channel-dependent Exposure Time",
+"annee": 2012,
+"type": "conférence",
+"lieu": "XXIInd ISPRS Congress",
+"url": "https://hal.science/hal-01882531v1",
+"doi": "10.5194/isprsannals-i-3-341-2012"
+},
+{
+"id": "p60c26cae18",
+"titre": "Détection des changements d'élévation d'une scène par imagerie satellite stéréoscopique",
+"annee": 2012,
+"type": "conférence",
+"lieu": "RFIA 2012 (Reconnaissance des Formes et Intelligence Artificielle)",
+"url": "https://hal.science/hal-00656563v1"
+},
+{
+"id": "pd8ce6aa607",
+"titre": "Filtrage bilatéral guidé des images",
+"annee": 2012,
+"type": "conférence",
+"lieu": "Journée des doctorants SPI-STIC de l'IFSTTAR",
+"url": "https://hal.science/hal-00881503v1"
+},
+{
+"id": "pf5a61c2967",
+"titre": "Generating occlusion-free textures for virtual 3D model of urban facades by fusing image and laser street data",
+"annee": 2012,
+"type": "conférence",
+"lieu": "2012 IEEE Virtual Reality (VR)",
+"url": "https://hal.science/hal-02552464v1",
+"doi": "10.1109/vr.2012.6180927"
+},
+{
+"id": "pbba0e766f7",
+"titre": "OFF-LINE VS. ON-LINE CALIBRATION OF A PANORAMIC-BASED MOBILE MAPPING SYSTEM",
+"annee": 2012,
+"type": "journal",
+"lieu": "ISPRS annals of the photogrammetry, remote sensing and spatial information sciences",
+"url": "https://doi.org/10.5194/isprsannals-i-3-31-2012",
+"doi": "10.5194/isprsannals-i-3-31-2012"
+},
+{
+"id": "p00cee1dd84",
+"titre": "Real Case Protocols and Assisted Tools for Effective Image-Based-Modeling of Architectural Elements.",
+"annee": 2012,
+"type": "conférence",
+"lieu": "Proceedings of Euromed 2012 - International Conference on Cultural Heritage.",
+"url": "https://hal.science/hal-01044480v1"
+},
+{
+"id": "pe1e714917f",
+"titre": "Recovering Occlusion-Free Textured 3D Maps of Urban Facades by a Synergistic Use of Terrestrial Images, 3D Point Clouds and Area-Based Information",
+"annee": 2012,
+"type": "journal",
+"lieu": "Procedia Engineering",
+"url": "https://hal.science/hal-02552471v1",
+"doi": "10.1016/j.proeng.2012.07.271"
+},
+{
+"id": "pa7cf318539",
+"titre": "Recovering quasi-real occlusion-free textures for facade models by exploiting fusion of image and laser street data and image inpainting",
+"annee": 2012,
+"type": "conférence",
+"lieu": "2012 13th International Workshop on Image Analysis for Multimedia Interactive Services (WIAMIS)",
+"url": "https://hal.science/hal-02552477v1",
+"doi": "10.1109/wiamis.2012.6226763"
+},
+{
+"id": "p7f072f1984",
+"titre": "STREAMED VERTICAL RECTANGLE DETECTION IN TERRESTRIAL LASER SCANS FOR FACADE DATABASE PRODUCTION",
+"annee": 2012,
+"type": "journal",
+"lieu": "ISPRS annals of the photogrammetry, remote sensing and spatial information sciences",
+"url": "https://doi.org/10.5194/isprsannals-i-3-99-2012",
+"doi": "10.5194/isprsannals-i-3-99-2012"
+},
+{
+"id": "p84e8139b22",
+"titre": "Stereo Reconstruction and Contrast Restoration in Daytime Fog",
+"annee": 2012,
+"type": "conférence",
+"lieu": "Asian Conference on Computer Vision",
+"url": "https://hal.science/hal-00852835v1"
+},
+{
+"id": "p484cac21c0",
+"titre": "TREES DETECTION FROM LASER POINT CLOUDS ACQUIRED IN DENSE URBAN AREAS BY A MOBILE MAPPING SYSTEM",
+"annee": 2012,
+"type": "journal",
+"lieu": "ISPRS annals of the photogrammetry, remote sensing and spatial information sciences",
+"url": "https://doi.org/10.5194/isprsannals-i-3-245-2012",
+"doi": "10.5194/isprsannals-i-3-245-2012"
+},
+{
+"id": "pfba79a80b9",
+"titre": "Trajectory-based registration of 3D lidar point clouds acquired with a mobile mapping system",
+"annee": 2012,
+"type": "conférence",
+"lieu": "ISPRS Annals of Photogrammetry, Remote Sensing and Spatial Information Sciences",
+"url": "https://hal.science/hal-02384562v1",
+"doi": "10.5194/isprsannals-i-3-117-2012"
+},
+{
+"id": "p4a18fe21b1",
+"titre": "Vision Enhancement in Homogeneous and Heterogeneous Fog",
+"annee": 2012,
+"type": "journal",
+"lieu": "IEEE Intelligent Transportation Systems Magazine",
+"url": "https://inria.hal.science/hal-00707039v1",
+"doi": "10.1109/mits.2012.2189969"
+},
+{
+"id": "p41b9c1583f",
+"titre": "Amélioration d’une base de données d’empreintes de bâtiments pour la reconstruction 3D : une approche par découpe et fusion.",
+"annee": 2011,
+"type": "journal",
+"lieu": "Revue Française de Photogrammétrie et de Télédétection",
+"url": "https://hal.science/hal-02551460v1"
+},
+{
+"id": "p99be579688",
+"titre": "Automated Image-Based Procedures for Accurate Artifacts 3D Modeling and Orthoimage",
+"annee": 2011,
+"type": "journal",
+"lieu": "Journal of Geoinformatics FCE CTU",
+"url": "https://hal.science/hal-00939219v1",
+"doi": "10.14311/gi.6.36"
+},
+{
+"id": "pe0ec274e83",
+"titre": "Building footprint database improvement for 3D reconstruction: A split and merge approach and its evaluation",
+"annee": 2011,
+"type": "journal",
+"lieu": "ISPRS Journal of Photogrammetry and Remote Sensing",
+"url": "https://hal.science/hal-01883029v1",
+"doi": "10.1016/j.isprsjprs.2011.06.005"
+},
+{
+"id": "pde3ae19739",
+"titre": "DIMENSIONALITY BASED SCALE SELECTION IN 3D LIDAR POINT CLOUDS",
+"annee": 2011,
+"type": "conférence",
+"lieu": "Laserscanning",
+"url": "https://hal.science/hal-02384758v1"
+},
+{
+"id": "pece77c441e",
+"titre": "Fast and accurate visibility computation in urban scenes",
+"annee": 2011,
+"type": "conférence",
+"lieu": "PIA11, Photogrammetric Image Analysis 2011 (Volume XXXVIII-3/W22)",
+"url": "https://hal.science/hal-02552445v1",
+"doi": "10.5194/isprsarchives-xxxviii-3-w22-77-2011"
+},
+{
+"id": "p6247edde50",
+"titre": "Multiscale Haar transform for blur estimation from a set of images",
+"annee": 2011,
+"type": "conférence",
+"lieu": "Photogrammetric Image Analysis workshop (PIA)",
+"url": "https://hal.science/hal-01883100v1",
+"doi": "10.5194/isprsarchives-xxxviii-3-w22-65-2011"
+}
+]
+}

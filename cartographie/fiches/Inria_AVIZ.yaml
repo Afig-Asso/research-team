@@ -1,0 +1,86 @@
+equipe: Inria/AVIZ
+domaines:
+  principaux:
+  - visu
+  secondaires:
+  - rv
+  - images
+  - rendu
+themes:
+- id: visu_information
+  phrase: Analytique visuelle progressive de grands jeux de données, modèles d'interaction compositionnels et nouvelles variables
+    visuelles.
+  preuves:
+  - p88b4757283
+  - p7857c5469c
+  - p943c5988d7
+- id: visu_mobile
+  phrase: Visualisations sur montres connectées et téléphones, et visualisations en mouvement incrustées dans des vidéos de
+    natation ou lues en marchant.
+  preuves:
+  - p5027199c61
+  - p52b3b7dc38
+  - p45cc142b77
+- id: perception
+  phrase: Mesure de la lisibilité, de l'esthétique et de la perception des visualisations, y compris pour les grandes plages
+    de valeurs et l'animation.
+  preuves:
+  - pe78ad8952a
+  - p45c685b4c9
+  - p3dafdc54d5
+- id: visu_immersive
+  phrase: Visualisation de données spatiales en réalité augmentée et virtuelle, et transitions entre bureau et environnements
+    immersifs.
+  preuves:
+  - p9b36030fa9
+  - pc116b3d1f0
+  - pb94f66ec81
+- id: visu_scientifique
+  phrase: Visualisation multi-échelle et illustrative de structures moléculaires, de l'ADN au génome entier, et ajustement
+    guidé à la cryo-microscopie.
+  preuves:
+  - pea3ab398ca
+  - p463a24856b
+  - p2bf80c4285
+- id: interaction_3d
+  phrase: Techniques de sélection spatiale 3D en RV et RA, hybrides tactiles et tangibles.
+  preuves:
+  - pf698de7d30
+  - p9c39fddcde
+  - pc2ac6f7823
+applications:
+- id: sciences_donnees
+  preuves:
+  - p88b4757283
+  - p6013ac0dd5
+  - p826ad3b884
+- id: biologie
+  preuves:
+  - pea3ab398ca
+  - pcee249fe4b
+  - p4a8d4cc7fc
+- id: sport
+  preuves:
+  - p5027199c61
+  - pcd44663804
+  - p06294f9c1e
+- id: sante
+  preuves:
+  - p8a02ba4a1d
+  - p782b453203
+- id: environnement
+  preuves:
+  - pedaa7e1773
+  - p0dc634ff28
+publications_representatives:
+- p88b4757283
+- pe78ad8952a
+- pea3ab398ca
+- p9b36030fa9
+- p5027199c61
+synthese: Visualisation d'information et analytique visuelle, sur écrans, dispositifs mobiles et en réalité augmentée ; évaluation
+  perceptive des représentations.
+pour_etudiants: On invente de nouvelles façons de représenter des données en images, sur écran, sur montre ou en réalité augmentée,
+  et on vérifie qu'elles sont bien comprises.
+pour_entreprises: Conception et évaluation de tableaux de bord et visualisations lisibles, analyse visuelle de très grands
+  volumes de données, visualisation immersive de données 3D.

@@ -1,0 +1,3025 @@
+{
+"equipe": "IRISA/VirtUs",
+"publications": [
+{
+"id": "pef4e7cce20",
+"titre": "Assessing Visual Defect Saliency on 3D Meshes through Gaze-Based Metrics",
+"annee": 2026,
+"type": "conférence",
+"lieu": "QoMEX 2026 - 18th International Conference on Quality of Multimedia Experience",
+"url": "https://inria.hal.science/hal-05746429v1",
+"doi": "10.1109/qomex69967.2026.11618369"
+},
+{
+"id": "pa3946ef21c",
+"titre": "CrowdImprint: decomposing context-aware interactions",
+"annee": 2026,
+"type": "journal",
+"lieu": "The Visual Computer",
+"url": "https://doi.org/10.1007/s00371-025-04329-2",
+"doi": "10.1007/s00371-025-04329-2"
+},
+{
+"id": "p3458eb6912",
+"titre": "Effects of Geometric Distortions on Visual Attention and Scanpath Dynamics in 3D Meshes",
+"annee": 2026,
+"type": "conférence",
+"lieu": "SAP 2026 - ACM Symposium on Applied Perception",
+"url": "https://inria.hal.science/hal-05746380v1",
+"doi": "10.1145/3821409.3821450"
+},
+{
+"id": "pf7602bdf38",
+"titre": "Errors in physical bouncing models in virtual racket training: influence on the user's performance",
+"annee": 2026,
+"type": "journal",
+"lieu": "Virtual Reality",
+"url": "https://hal.science/hal-05701507v1"
+},
+{
+"id": "p5b7e2d593e",
+"titre": "Facing Yourself: A Proxemic Approach to Self-Dyadic Interactions in VR",
+"annee": 2026,
+"type": "journal",
+"lieu": "ACM Transactions on Applied Perception",
+"url": "https://hal.science/hal-05725966v1",
+"doi": "10.1145/3841190"
+},
+{
+"id": "pe87996118a",
+"titre": "Fast and Accurate Gaussian Process Modelling of Real-World Materials",
+"annee": 2026,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://doi.org/10.1145/3806194",
+"doi": "10.1145/3806194"
+},
+{
+"id": "p932deaaf96",
+"titre": "GTAvatar: Bridging Gaussian Splatting and Texture Mapping for Relightable and Editable Gaussian Avatars",
+"annee": 2026,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-05605813v1",
+"doi": "10.1111/cgf.70351"
+},
+{
+"id": "p69a4a35418",
+"titre": "Giving particles legs: How balance recovery may drive emergent collective dynamics in ultra-dense crowds",
+"annee": 2026,
+"type": "journal",
+"lieu": "PLOS complex systems.",
+"url": "https://doi.org/10.1371/journal.pcsy.0000110",
+"doi": "10.1371/journal.pcsy.0000110"
+},
+{
+"id": "p6e968d5783",
+"titre": "Grasping Motion Generation Through Latent Diffusion Models",
+"annee": 2026,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.70423",
+"doi": "10.1111/cgf.70423"
+},
+{
+"id": "p46dc6db563",
+"titre": "How Does Motion-to-Photon Latency Influence the Perception-Action Loop",
+"annee": 2026,
+"type": "journal",
+"lieu": "ACM Transactions on Applied Perception",
+"url": "https://hal.science/hal-05699235v1"
+},
+{
+"id": "pe229985b3e",
+"titre": "Learning mid-term human navigation through crowds",
+"annee": 2026,
+"type": "journal",
+"lieu": "Acta Polytechnica CTU Proceedings",
+"url": "https://doi.org/10.14311/app.2026.57.0072",
+"doi": "10.14311/app.2026.57.0072"
+},
+{
+"id": "p76c2874442",
+"titre": "Leveraging technology-based interventions with varying levels of immersion for the assessment of low back pain: a scoping review",
+"annee": 2026,
+"type": "journal",
+"lieu": "Journal of Bodywork and Movement Therapies",
+"url": "https://hal.science/hal-05558035v1",
+"doi": "10.1016/j.jbmt.2026.03.009"
+},
+{
+"id": "p20e966a75c",
+"titre": "Properties of pedestrians walking in line without density constraint",
+"annee": 2026,
+"type": "journal",
+"lieu": "Physical Review E",
+"url": "https://hal.science/hal-04237618v1",
+"doi": "10.1103/bp6w-v6xb"
+},
+{
+"id": "pebf1a1ade4",
+"titre": "Pulp Motion: framing-aware multimodal camera and human motion generation",
+"annee": 2026,
+"type": "conférence",
+"lieu": "ICLR 2026 - International Conference on Learning Representations",
+"url": "https://hal.science/hal-05584176v1"
+},
+{
+"id": "pa50fb1ce86",
+"titre": "Push-and-Step: From RL-Based Balance Recovery to Physical Simulation of Dense Crowds",
+"annee": 2026,
+"type": "conférence",
+"lieu": "CVPR 2026 - IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+"url": "https://inria.hal.science/hal-05637192v1"
+},
+{
+"id": "p118ad78629",
+"titre": "Reaction times in single-file pedestrian flows with fixed or free density",
+"annee": 2026,
+"type": "journal",
+"lieu": "Acta Polytechnica CTU Proceedings",
+"url": "https://doi.org/10.14311/app.2026.57.0009",
+"doi": "10.14311/app.2026.57.0009"
+},
+{
+"id": "peb13219198",
+"titre": "Taxonomy of Interaction Techniques to Mitigate Inappropriate Social Interactions in Social Virtual Reality",
+"annee": 2026,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-05504611v1"
+},
+{
+"id": "pc262b0eccb",
+"titre": "You Walkin' to Me? How Footstep Sound Primes Anticipation in Virtual Pedestrian Collision Avoidance",
+"annee": 2026,
+"type": "conférence",
+"lieu": "IEEE VR 2026 - IEEE International Conference on Virtual Reality and 3D User Interfaces",
+"url": "https://inria.hal.science/hal-05514579v1"
+},
+{
+"id": "pc41dcb9d0d",
+"titre": "AKiRa: Augmentation Kit on Rays for optical video generation",
+"annee": 2025,
+"type": "conférence",
+"lieu": "CVPR 2025 - IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+"url": "https://hal.science/hal-05003836v1"
+},
+{
+"id": "p578bc1c401",
+"titre": "Assessing the effects of manual therapy on pain in patients living with persistent non-specific low back pain (PNSLBP): Which evaluation criteria and measurement tools are used in randomised controlled clinical trials? A systematic review",
+"annee": 2025,
+"type": "journal",
+"lieu": "International Journal of Osteopathic Medicine",
+"url": "https://hal.science/hal-04888248v1",
+"doi": "10.1016/j.ijosm.2024.100741"
+},
+{
+"id": "p83fb0cb431",
+"titre": "Classification of First Recovery Steps After Quiet Standing Following External Perturbation from Different Directions",
+"annee": 2025,
+"type": "journal",
+"lieu": "Journal of Biomechanics",
+"url": "https://inria.hal.science/hal-04993981v1",
+"doi": "10.1016/j.jbiomech.2025.112639"
+},
+{
+"id": "p9b3dd2860c",
+"titre": "Collision avoidance behaviours in chronic non-specific low back pain participants: A prospective cohort study",
+"annee": 2025,
+"type": "journal",
+"lieu": "Human Movement Science",
+"url": "https://hal.science/hal-04982384v1",
+"doi": "10.1016/j.humov.2025.103335"
+},
+{
+"id": "p0f3fe00bf2",
+"titre": "Daily and seasonal spatial behaviour of waved whelk Buccinum undatum: implications for fishery management and restoration",
+"annee": 2025,
+"type": "journal",
+"lieu": "Canadian Journal of Zoology",
+"url": "https://hal.science/hal-04956958v1",
+"doi": "10.1139/cjz-2024-0056"
+},
+{
+"id": "pb31608ccad",
+"titre": "De l'immersion au cinéma",
+"annee": 2025,
+"type": "ouvrage",
+"lieu": "",
+"url": "https://univ-rennes2.hal.science/hal-05355998v1"
+},
+{
+"id": "p8720093d48",
+"titre": "DepthLight: a Single Image Lighting Pipeline for Seamless Integration of Virtual Objects into Real Scenes",
+"annee": 2025,
+"type": "conférence",
+"lieu": "Expressive+WICED 2025",
+"url": "https://hal.science/hal-05091478v1",
+"doi": "10.2312/exw.20251060"
+},
+{
+"id": "p7c8aa65ea6",
+"titre": "Effects of situational and social factors on locomotor behavior in chronic non-specific low back pain patients walking through apertures",
+"annee": 2025,
+"type": "journal",
+"lieu": "Scientific Reports",
+"url": "https://hal.science/hal-05397896v1",
+"doi": "10.1038/s41598-025-25011-6"
+},
+{
+"id": "pc231d20a14",
+"titre": "Eliminating Bias in Pedestrian Density Estimation: A Voronoi Cell Perspective",
+"annee": 2025,
+"type": "journal",
+"lieu": "Physica A: Statistical Mechanics and its Applications",
+"url": "https://hal.science/hal-04669293v1",
+"doi": "10.1016/j.physa.2024.130251"
+},
+{
+"id": "pad5ac01c47",
+"titre": "Evaluation of Body Parts Representations in Motion Reconstruction",
+"annee": 2025,
+"type": "conférence",
+"lieu": "GRAPP 2025 - International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications",
+"url": "https://inria.hal.science/hal-05052074v1",
+"doi": "10.5220/0013138200003912"
+},
+{
+"id": "pdb1709b47b",
+"titre": "Herds From Video: Learning a Microscopic Herd Model From Macroscopic Motion Data",
+"annee": 2025,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://ip-paris.hal.science/hal-05243580v1",
+"doi": "10.1111/cgf.70225"
+},
+{
+"id": "pbbd8c765ec",
+"titre": "How do people perceive changes in physical bounce model for virtual racket interactions?",
+"annee": 2025,
+"type": "conférence",
+"lieu": "SAP 2025 - ACM Symposium on Applied Perception",
+"url": "https://inria.hal.science/hal-05225594v2",
+"doi": "10.1145/3736702.3744355"
+},
+{
+"id": "p78f9f848de",
+"titre": "Learning Extremely High Density Crowds as Active Matters",
+"annee": 2025,
+"type": "conférence",
+"lieu": "CVPR 2025 - IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+"url": "https://inria.hal.science/hal-05244322v1",
+"doi": "10.1109/cvpr52734.2025.00059"
+},
+{
+"id": "p6ac9b619f7",
+"titre": "L’extrapolation du mouvement visuel dans un contexte de mobilité douce : percevons-nous les usagers urbains de la même manière ?",
+"annee": 2025,
+"type": "conférence",
+"lieu": "ACAPS 2025 - 21ème congrès international de l'Association des Chercheurs en Activités Physiques et Sportives",
+"url": "https://inria.hal.science/hal-05478748v1"
+},
+{
+"id": "p512f68a8d9",
+"titre": "MVAE : Motion-conditioned Variational Auto-Encoder for tailoring character animations",
+"annee": 2025,
+"type": "conférence",
+"lieu": "Expressive-WICED",
+"url": "https://inria.hal.science/hal-05239274v1",
+"doi": "10.2312/exw.20251059"
+},
+{
+"id": "p65c70bbc12",
+"titre": "Navigating Public Spaces: Control Variables of Locomotor Trajectories, Methodological Challenges, and Opportunities Offered by Virtual Reality",
+"annee": 2025,
+"type": "conférence",
+"lieu": "TMD 2025 - 3rd Internaltional Workshop on Team and Multi-agent Dynamics in Digital and Physical Realities",
+"url": "https://inria.hal.science/hal-05478710v1"
+},
+{
+"id": "pd1c47911aa",
+"titre": "Quality assessment of 3D human animation: Subjective and objective evaluation",
+"annee": 2025,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://hal.science/hal-05116550v1",
+"doi": "10.1109/tvcg.2025.3631385"
+},
+{
+"id": "pfca6003407",
+"titre": "Réduction de la complexité des ajustements locomoteurs lors du franchissement d'une ouverture chez des participants présentant une lombalgie chronique non spécifique",
+"annee": 2025,
+"type": "conférence",
+"lieu": "ACAPS 2025 - 21ème congrès international de l'Association des Chercheurs en Activités Physiques et Sportives",
+"url": "https://hal.science/hal-05481991v1"
+},
+{
+"id": "p7818a66e92",
+"titre": "Rôles relatifs de la sémantique et du mouvement biologique dans l’estimation du Time-To-Collision",
+"annee": 2025,
+"type": "conférence",
+"lieu": "XR 2025 - colloque \"XR en mouvement\"",
+"url": "https://inria.hal.science/hal-05478792v1"
+},
+{
+"id": "pd4233113f6",
+"titre": "Une bibliothèque d’animations de mouvement piéton en libre accès pour la XR",
+"annee": 2025,
+"type": "conférence",
+"lieu": "XR 2025 - Colloque \"XR en Mouvement\"",
+"url": "https://inria.hal.science/hal-05478807v1"
+},
+{
+"id": "p9fe723567a",
+"titre": "A Survey on Realistic Virtual Human Animations: Definitions, Features and Evaluations",
+"annee": 2024,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-04553021v1",
+"doi": "10.1111/cgf.15064"
+},
+{
+"id": "pf4049d9293",
+"titre": "Cinematographic Camera Diffusion Model",
+"annee": 2024,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-04826479v1",
+"doi": "10.1111/cgf.15055"
+},
+{
+"id": "pc8d965c952",
+"titre": "Collaborative services for Crowd Safety systems across the Edge-Cloud Computing Continuum",
+"annee": 2024,
+"type": "conférence",
+"lieu": "CCGridW 2024: IEEE 24th International Symposium on Cluster, Cloud and Internet Computing Workshops",
+"url": "https://hal.science/hal-04775145v1",
+"doi": "10.1109/ccgridw63211.2024.00017"
+},
+{
+"id": "pd88f2c81d3",
+"titre": "Collision avoidance behaviours of young adult walkers: Influence of a virtual pedestrian's age-related appearance and gait profile",
+"annee": 2024,
+"type": "conférence",
+"lieu": "SAP 2024 - ACM Symposium on Applied Perception",
+"url": "https://inria.hal.science/hal-04681163v1",
+"doi": "10.1145/3675231.3675233"
+},
+{
+"id": "pde663ee5f7",
+"titre": "Correspondence-free online human motion retargeting",
+"annee": 2024,
+"type": "conférence",
+"lieu": "International Conference on 3D Vision (3DV)",
+"url": "https://inria.hal.science/hal-03970689v2",
+"doi": "10.1109/3dv62453.2024.00032"
+},
+{
+"id": "p0ce5b51ee2",
+"titre": "Entropy and Speed: Effects of Obstacle Motion Properties on Avoidance Behavior in Virtual Environment",
+"annee": 2024,
+"type": "conférence",
+"lieu": "SAP 2024 - ACM Symposium on Applied Perception",
+"url": "https://inria.hal.science/hal-04681152v1",
+"doi": "10.1145/3675231.3675236"
+},
+{
+"id": "pb7f8cbf3fb",
+"titre": "Exploring Human Perception Using Virtual Reality",
+"annee": 2024,
+"type": "conférence",
+"lieu": "Cognitive Science 2024",
+"url": "https://inria.hal.science/hal-04871624v1",
+"doi": "10.70314/is.2024.cog.12"
+},
+{
+"id": "p2929a7747a",
+"titre": "Resolving Collisions in Dense 3D Crowd Animations",
+"annee": 2024,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-04681138v1",
+"doi": "10.1145/3687266"
+},
+{
+"id": "p4266306dbd",
+"titre": "SPARK: Self-supervised Personalized Real-time Monocular Face Capture",
+"annee": 2024,
+"type": "journal",
+"lieu": "Association for Computing Machinery New Zealand Bulletin",
+"url": "https://inria.hal.science/hal-05239329v1",
+"doi": "10.1145/3680528.3687704"
+},
+{
+"id": "p65a01103ed",
+"titre": "Standing Balance Recovery Strategies of Young Adults in a Densely Populated Environment Following External Perturbations",
+"annee": 2024,
+"type": "journal",
+"lieu": "Safety Science",
+"url": "https://inria.hal.science/hal-04620504v1"
+},
+{
+"id": "pf6d7944c9a",
+"titre": "Temporal segmentation of motion propagation in response to an external impulse",
+"annee": 2024,
+"type": "journal",
+"lieu": "Safety Science",
+"url": "https://hal.science/hal-04576066v1",
+"doi": "10.1016/j.ssci.2024.106512"
+},
+{
+"id": "pb48003a061",
+"titre": "Virtual Crowds Rheology: Evaluating the Effect of Character Representation on User Locomotion in Crowds",
+"annee": 2024,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-04692861v1",
+"doi": "10.1109/tvcg.2024.3456183"
+},
+{
+"id": "pe35d5b4bd8",
+"titre": "Wheelchair Proxemics: interpersonal behaviour between pedestrians and power wheelchair drivers in real and virtual environments",
+"annee": 2024,
+"type": "conférence",
+"lieu": "VRST 2024 - 30th ACM Symposium on Virtual Reality Software and Technology",
+"url": "https://inria.hal.science/hal-04710947v1",
+"doi": "10.1145/3641825.3687709"
+},
+{
+"id": "p174cf0f95b",
+"titre": "With or Without You: Effect of Contextual and Responsive Crowds on VR-based Crowd Motion Capture",
+"annee": 2024,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-04511956v1",
+"doi": "10.1109/tvcg.2024.3372038"
+},
+{
+"id": "p4449b495fa",
+"titre": "Avoiding virtual humans in a constrained environment: Exploration of novel behavioural measures",
+"annee": 2023,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://inria.hal.science/hal-03967572v2",
+"doi": "10.1016/j.cag.2023.01.001"
+},
+{
+"id": "pb1da1c314b",
+"titre": "Contact-conditioned hand-held object reconstruction from single-view images",
+"annee": 2023,
+"type": "journal",
+"lieu": "Computers & Graphics",
+"url": "https://doi.org/10.1016/j.cag.2023.05.022",
+"doi": "10.1016/j.cag.2023.05.022"
+},
+{
+"id": "p2212181667",
+"titre": "Exploring the Perception of Center of Mass changes for VR Avatars",
+"annee": 2023,
+"type": "conférence",
+"lieu": "ICAT-EGVE 2023 - International Conference on Artificial Reality and Telexistence & Eurographics Symposium on Virtual Environments",
+"url": "https://inria.hal.science/hal-04384410v1",
+"doi": "10.2312/egve.20231316"
+},
+{
+"id": "p5d2a877f2b",
+"titre": "GREIL-Crowds: Crowd Simulation with Deep Reinforcement Learning and Examples",
+"annee": 2023,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-04238301v1",
+"doi": "10.1145/3592459"
+},
+{
+"id": "pac53f9e277",
+"titre": "HDR-LFNet: Inverse tone mapping using fusion network",
+"annee": 2023,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://hal.science/hal-04150900v1",
+"doi": "10.1016/j.cag.2023.05.007"
+},
+{
+"id": "p424052749a",
+"titre": "High-level cinematic knowledge to predict inter-observer visual congruency",
+"annee": 2023,
+"type": "conférence",
+"lieu": "WICED x Cinemotions 2023 - Workshop on Intelligent Cinematography and Editing, and Emotions in Movies",
+"url": "https://hal.science/hal-04139622v1",
+"doi": "10.1145/3604321.3604331"
+},
+{
+"id": "p9c6626ebae",
+"titre": "JAWS: Just A Wild Shot for Cinematic Transfer in Neural Radiance Fields",
+"annee": 2023,
+"type": "conférence",
+"lieu": "CVPR 2023 - IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+"url": "https://inria.hal.science/hal-04046701v1",
+"doi": "10.1109/icra48891.2023.10160963"
+},
+{
+"id": "p8d460bad67",
+"titre": "Locomotion behavior of chronic Non-Specific Low Back Pain (cNSLBP) participants while walking through apertures",
+"annee": 2023,
+"type": "journal",
+"lieu": "Gait & Posture",
+"url": "https://inria.hal.science/hal-04169296v1",
+"doi": "10.1016/j.gaitpost.2023.06.015"
+},
+{
+"id": "pfa8179a733",
+"titre": "Marcher à travers des ouvertures horizontales : Quelles stratégies motrices pour les patients souffrant de lombalgie chronique non spécifique ?",
+"annee": 2023,
+"type": "conférence",
+"lieu": "Journées francophones de Kinésithérapie 2023",
+"url": "https://hal.science/hal-04357506v1",
+"doi": "10.1016/j.kine.2022.12.010"
+},
+{
+"id": "p684b71260d",
+"titre": "Physical Simulation of Balance Recovery after a Push",
+"annee": 2023,
+"type": "conférence",
+"lieu": "MIG 2023 - 15th Annual ACM SIGGRAPH Conference on Motion, Interaction and Games",
+"url": "https://inria.hal.science/hal-04228033v1",
+"doi": "10.1145/3623264.3624448"
+},
+{
+"id": "p4ce682609e",
+"titre": "Real-time Computational Cinematographic Editing for Broadcasting of Volumetric-captured events: an Application to Ultimate Fighting",
+"annee": 2023,
+"type": "conférence",
+"lieu": "16th ACM SIGGRAPH Conference on Motion, Interaction and Games (MIG '23)",
+"url": "https://hal.science/hal-04394781v1",
+"doi": "10.1145/3623264.3624468"
+},
+{
+"id": "p08621bd193",
+"titre": "Real-time Multi-map Saliency-driven Gaze Behavior for Non-conversational Characters",
+"annee": 2023,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://hal.science/hal-03796523v3",
+"doi": "10.1109/tvcg.2023.3244679"
+},
+{
+"id": "p1c1a153f52",
+"titre": "Reward Function Design for Crowd Simulation via Reinforcement Learning",
+"annee": 2023,
+"type": "conférence",
+"lieu": "MIG 2023 - 16th ACM SIGGRAPH Conference on Motion, Interaction and Games",
+"url": "https://inria.hal.science/hal-04377287v1",
+"doi": "10.1145/3623264.3624452"
+},
+{
+"id": "pe4193c3fce",
+"titre": "Stepping Strategies of Young Adults Undergoing Sudden External Perturbation From Different Directions",
+"annee": 2023,
+"type": "journal",
+"lieu": "Journal of Biomechanics",
+"url": "https://inria.hal.science/hal-04142469v3",
+"doi": "10.1016/j.jbiomech.2023.111703"
+},
+{
+"id": "pd67ee73a34",
+"titre": "The Stare-in-the-Crowd Effect When Navigating a Crowd in Virtual Reality",
+"annee": 2023,
+"type": "conférence",
+"lieu": "SAP 2023 - ACM Symposium on Applied Perception",
+"url": "https://inria.hal.science/hal-04150082v1",
+"doi": "10.1145/3605495.3605796"
+},
+{
+"id": "pc43fcebf9a",
+"titre": "To Stick or Not to Stick? Studying the Impact of Offset Recovery Techniques During Mid-Air Interactions",
+"annee": 2023,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-04214485v2",
+"doi": "10.1109/tvcg.2023.3295209"
+},
+{
+"id": "pe9acac8e88",
+"titre": "Warping character animations using visual motion features",
+"annee": 2023,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://inria.hal.science/hal-03877972v2",
+"doi": "10.1016/j.cag.2022.11.008"
+},
+{
+"id": "p948057b9f9",
+"titre": "A Survey on Deep Learning for Skeleton‐Based Human Animation",
+"annee": 2022,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-03468599v1",
+"doi": "10.1111/cgf.14426"
+},
+{
+"id": "p1b5b5f114a",
+"titre": "A Survey on Reinforcement Learning Methods in Character Animation",
+"annee": 2022,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-03600947v1",
+"doi": "10.1111/cgf.14504"
+},
+{
+"id": "pa622fe9ceb",
+"titre": "A new framework for the evaluation of locomotive motion datasets through motion matching techniques",
+"annee": 2022,
+"type": "conférence",
+"lieu": "MIG 2022 - ACM SIGGRAPH Conference on Motion, Interaction and Games",
+"url": "https://inria.hal.science/hal-03865727v1",
+"doi": "10.1145/3561975.3562951"
+},
+{
+"id": "p33edbf2fe1",
+"titre": "Analysis of emergent patterns in crossing flows of pedestrians reveals an invariant of 'stripe' formation in human data",
+"annee": 2022,
+"type": "journal",
+"lieu": "PLoS Computational Biology",
+"url": "https://hal.science/hal-03454440v1",
+"doi": "10.1371/journal.pcbi.1010210"
+},
+{
+"id": "p497a388268",
+"titre": "Authoring Virtual Crowds: A Survey",
+"annee": 2022,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.14506",
+"doi": "10.1111/cgf.14506"
+},
+{
+"id": "pf72f57abc8",
+"titre": "Binary Graph Descriptor for Robust Relocalization on Heterogeneous Data",
+"annee": 2022,
+"type": "journal",
+"lieu": "IEEE Robotics and Automation Letters",
+"url": "https://inria.hal.science/hal-03506034v1",
+"doi": "10.1109/lra.2022.3142854"
+},
+{
+"id": "p4fd653ef52",
+"titre": "Collision avoidance strategies between two athlete walkers: Understanding impaired avoidance behaviours in athletes with a previous concussion",
+"annee": 2022,
+"type": "journal",
+"lieu": "Gait & Posture",
+"url": "https://hal.science/hal-03477399v1",
+"doi": "10.1016/j.gaitpost.2021.11.003"
+},
+{
+"id": "p104d464fd0",
+"titre": "Deep learning for assessing the aesthetics of professional photographs",
+"annee": 2022,
+"type": "journal",
+"lieu": "Computer Animation and Virtual Worlds",
+"url": "https://hal.science/hal-03900933v1",
+"doi": "10.1002/cav.2105"
+},
+{
+"id": "p6a90cdc859",
+"titre": "Do You Need Another Hand? Investigating Dual Body Representations During Anisomorphic 3D Manipulation",
+"annee": 2022,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-03584138v2",
+"doi": "10.1109/tvcg.2022.3150501"
+},
+{
+"id": "p0b8e5528a5",
+"titre": "Dynamic Combination of Crowd Steering Policies Based on Context",
+"annee": 2022,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-03789212v1",
+"doi": "10.1111/cgf.14469"
+},
+{
+"id": "p4bb7bbf0d1",
+"titre": "Evaluation de la confiance en soi lors de la visite d’un musée grâce à un module d’assistance à la conduite de fauteuil roulant électrique : Etude observationnelle prospective dans les musées de la ville de Rennes",
+"annee": 2022,
+"type": "conférence",
+"lieu": "SOFPEL 2022 - 28ème congrès de la Société Francophone Posture Équilibre et Locomotion",
+"url": "https://inria.hal.science/hal-03921378v1"
+},
+{
+"id": "p03004e64c4",
+"titre": "From HRI to CRI: Crowd Robot Interaction—Understanding the Effect of Robots on Crowd Motion",
+"annee": 2022,
+"type": "journal",
+"lieu": "International Journal of Social Robotics",
+"url": "https://inria.hal.science/hal-03431745v1",
+"doi": "10.1007/s12369-021-00812-7"
+},
+{
+"id": "pc1f5c07e41",
+"titre": "Gaussian Process for Radiance Functions on the Sphere",
+"annee": 2022,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.14501",
+"doi": "10.1111/cgf.14501"
+},
+{
+"id": "p2dab7b1f3c",
+"titre": "Impact of Self-Contacts on Perceived Pose Equivalences",
+"annee": 2022,
+"type": "conférence",
+"lieu": "MIG 2022 - ACM SIGGRAPH Conference on Motion, Interaction and Games",
+"url": "https://inria.hal.science/hal-03817534v1",
+"doi": "10.1145/3561975.3562946"
+},
+{
+"id": "p78d3712743",
+"titre": "Interaction Fields: Intuitive Sketch-based Steering Behaviors for Crowd Simulation",
+"annee": 2022,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-03642462v1",
+"doi": "10.1111/cgf.14491"
+},
+{
+"id": "pf6b78f8172",
+"titre": "Methods of density estimation for pedestrians moving in small groups without a spatial boundary",
+"annee": 2022,
+"type": "conférence",
+"lieu": "TGF 2022 - International Conference on Traffic and Granular Flow '22",
+"url": "https://hal.science/hal-03876053v1",
+"doi": "10.1007/978-981-99-7976-9_6"
+},
+{
+"id": "p2bc6d802b1",
+"titre": "Navigation dans les musées de la ville de Rennes : approche écologique pour l’évaluation d’un module d’assistance à la conduite lors des interactions des usagers de fauteuil roulant électrique dans un environnement complexe.",
+"annee": 2022,
+"type": "conférence",
+"lieu": "SOFPEL 2022 - 28ème congrès de la Société Francophone Posture Équilibre et Locomotion",
+"url": "https://inria.hal.science/hal-03921410v1"
+},
+{
+"id": "pe15a098609",
+"titre": "Proactive control to navigate our daily environments",
+"annee": 2022,
+"type": "journal",
+"lieu": "Brazilian Journal of Motor Behavior",
+"url": "https://doi.org/10.20338/bjmb.v16i5.319",
+"doi": "10.20338/bjmb.v16i5.319"
+},
+{
+"id": "pb083ff16d6",
+"titre": "Smart Motion Trails for Animating in VR",
+"annee": 2022,
+"type": "conférence",
+"lieu": "AIVR 2022 - 5th IEEE International Conference on Artificial Intelligence and Virtual Reality",
+"url": "https://inria.hal.science/hal-03935067v1"
+},
+{
+"id": "pef1b046d8a",
+"titre": "Study on Automatic 3D Facial Caricaturization: From Rules to Deep Learning",
+"annee": 2022,
+"type": "journal",
+"lieu": "Frontiers in Virtual Reality",
+"url": "https://inria.hal.science/hal-03763591v1",
+"doi": "10.3389/frvir.2021.785104"
+},
+{
+"id": "p0c0c3b1860",
+"titre": "Sympathy for the digital: Influence of synthetic voice on affinity, social presence and empathy for photorealistic virtual humans",
+"annee": 2022,
+"type": "journal",
+"lieu": "Computers & Graphics",
+"url": "https://doi.org/10.1016/j.cag.2022.03.009",
+"doi": "10.1016/j.cag.2022.03.009"
+},
+{
+"id": "pfc693ac31f",
+"titre": "The One-Man-Crowd: Single User Generation of Crowd Motions Using Virtual Reality",
+"annee": 2022,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-03584189v2",
+"doi": "10.1109/tvcg.2022.3150507"
+},
+{
+"id": "p93c0178c3d",
+"titre": "The Stare-in-the-Crowd Effect in Virtual Reality",
+"annee": 2022,
+"type": "conférence",
+"lieu": "VR 2022 - IEEE Conference on Virtual Reality and 3D User Interfaces",
+"url": "https://hal.science/hal-03581916v2",
+"doi": "10.1109/vr51125.2022.00047"
+},
+{
+"id": "pdb11638f51",
+"titre": "UnderPressure: Deep Learning for Foot Contact Detection, Ground Reaction Force Estimation and Footskate Cleanup",
+"annee": 2022,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-03865772v1",
+"doi": "10.1111/cgf.14635"
+},
+{
+"id": "p21c37ff6ff",
+"titre": "Understanding reinforcement learned crowds",
+"annee": 2022,
+"type": "journal",
+"lieu": "Computers & Graphics",
+"url": "https://doi.org/10.1016/j.cag.2022.11.007",
+"doi": "10.1016/j.cag.2022.11.007"
+},
+{
+"id": "pfa6f04360a",
+"titre": "Where to look at the movies : Analyzing visual attention to understand movie editing",
+"annee": 2022,
+"type": "journal",
+"lieu": "Behavior Research Methods",
+"url": "https://inria.hal.science/hal-03153606v1",
+"doi": "10.3758/s13428-022-01949-7"
+},
+{
+"id": "pb7e4a0d76b",
+"titre": "A Perceptually-Validated Metric for Crowd Trajectory Quality Evaluation",
+"annee": 2021,
+"type": "journal",
+"lieu": "Proceedings of the ACM on Computer Graphics and Interactive Techniques",
+"url": "https://inria.hal.science/hal-03468540v1",
+"doi": "10.1145/3480136"
+},
+{
+"id": "p5005b067ec",
+"titre": "Algorithms for Microscopic Crowd Simulation: Advancements in the 2010s",
+"annee": 2021,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-03197198v1",
+"doi": "10.1111/cgf.142664"
+},
+{
+"id": "p42edde52c9",
+"titre": "Camera keyframing with style and control",
+"annee": 2021,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://doi.org/10.1145/3478513.3480533",
+"doi": "10.1145/3478513.3480533"
+},
+{
+"id": "p4ab22f1390",
+"titre": "Collision avoidance behaviours between older adult and young adult walkers",
+"annee": 2021,
+"type": "journal",
+"lieu": "Gait & Posture",
+"url": "https://hal.science/hal-03368055v1",
+"doi": "10.1016/j.gaitpost.2021.05.033"
+},
+{
+"id": "pe607ec3b3a",
+"titre": "Crowd against the machine: A simulation-based benchmark tool to evaluate and compare robot capabilities to navigate a human crowd",
+"annee": 2021,
+"type": "conférence",
+"lieu": "ICRA 2021 - IEEE International Conference on Robotics and Automation",
+"url": "https://hal.science/hal-03206221v1"
+},
+{
+"id": "p2e6acd8a94",
+"titre": "Does virtual threat harm VR experience?: Impact of threat occurrence and repeatability on virtual embodiment and threat response",
+"annee": 2021,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://inria.hal.science/hal-03468505v1",
+"doi": "10.1016/j.cag.2021.07.017"
+},
+{
+"id": "p7edc445842",
+"titre": "Etude du comportement piéton en réalité virtuelle",
+"annee": 2021,
+"type": "journal",
+"lieu": "Interstices",
+"url": "https://inria.hal.science/hal-03310780v1"
+},
+{
+"id": "pc08b356ba1",
+"titre": "Example‐Based Colour Transfer for 3D Point Clouds",
+"annee": 2021,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-03396448v1",
+"doi": "10.1111/cgf.14388"
+},
+{
+"id": "p6a66f3b5c0",
+"titre": "Exploring behaviour towards avatars and agents in immersive virtual environments with mixed-agency interactions",
+"annee": 2021,
+"type": "conférence",
+"lieu": "VR 2021 - 28th IEEE Conference on Virtual Reality and 3D User Interfaces",
+"url": "https://hal.science/hal-03368050v1",
+"doi": "10.1109/vrw52623.2021.00033"
+},
+{
+"id": "pf1c08512a6",
+"titre": "Influence of path curvature on collision avoidance behaviour between two walkers",
+"annee": 2021,
+"type": "journal",
+"lieu": "Experimental Brain Research",
+"url": "https://inria.hal.science/hal-03009022v1",
+"doi": "10.1007/s00221-020-05980-y"
+},
+{
+"id": "pde206d169e",
+"titre": "Model for predicting perception of facial action unit activation using virtual humans",
+"annee": 2021,
+"type": "journal",
+"lieu": "Computers & Graphics",
+"url": "https://doi.org/10.1016/j.cag.2021.07.022",
+"doi": "10.1016/j.cag.2021.07.022"
+},
+{
+"id": "p863af7911b",
+"titre": "Modeling physical interactions in human crowds: a pilot study of individual response to controlled external pushes",
+"annee": 2021,
+"type": "conférence",
+"lieu": "46ème congrès de la société de biomécanique",
+"url": "https://inria.hal.science/hal-03273814v1"
+},
+{
+"id": "p971a17313e",
+"titre": "Perception of Motion Variations in Large-Scale Virtual Human Crowds",
+"annee": 2021,
+"type": "conférence",
+"lieu": "MIG 2021 - 14th Annual ACM SIGGRAPH Conference on Motion, Interaction and Games",
+"url": "https://inria.hal.science/hal-03468589v1",
+"doi": "10.1145/3487983.3488288"
+},
+{
+"id": "p3b3dc1be46",
+"titre": "Psychology in Virtual Reality: Toward a Validated Measure of Social Presence",
+"annee": 2021,
+"type": "journal",
+"lieu": "Frontiers in Psychology",
+"url": "https://doi.org/10.3389/fpsyg.2021.705448",
+"doi": "10.3389/fpsyg.2021.705448"
+},
+{
+"id": "pe7d981a202",
+"titre": "Reactive Virtual Agents: A Viewpoint-Driven Approach for Bodily Nonverbal Communication",
+"annee": 2021,
+"type": "conférence",
+"lieu": "IVA 2021: ACM International Conference on Intelligent Virtual Agents",
+"url": "https://hal.science/hal-03349919v1",
+"doi": "10.1145/3472306.3478351"
+},
+{
+"id": "pd7c8cb1f25",
+"titre": "SPH crowds: Agent-based crowd simulation up to extreme densities using fluid dynamics",
+"annee": 2021,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://inria.hal.science/hal-03270915v1",
+"doi": "10.1016/j.cag.2021.06.005"
+},
+{
+"id": "p7e7e96f95f",
+"titre": "Structures in Tropes Networks: Toward a Formal Story Grammar",
+"annee": 2021,
+"type": "conférence",
+"lieu": "Proceedings of the Twelfth International Conference on Computational Creativity",
+"url": "https://inria.hal.science/hal-03777738v1"
+},
+{
+"id": "pa9acb8b11e",
+"titre": "Studying the Influence of Translational and Rotational Motion on the Perception of Rotation Gains in Virtual Environments",
+"annee": 2021,
+"type": "conférence",
+"lieu": "SUI 2021 - Symposium on Spatial User Interaction",
+"url": "https://inria.hal.science/hal-03468947v1",
+"doi": "10.1145/3485279.3485282"
+},
+{
+"id": "pb3333ab77d",
+"titre": "Towards “Avatar-Friendly” 3D Manipulation Techniques: Bridging the Gap Between Sense of Embodiment and Interaction in Virtual Reality",
+"annee": 2021,
+"type": "conférence",
+"lieu": "CHI 2021 - Conference on Human Factors in Computing Systems",
+"url": "https://inria.hal.science/hal-03468547v1",
+"doi": "10.1145/3411764.3445379"
+},
+{
+"id": "pbb78726415",
+"titre": "Tracking Pedestrian Heads in Dense Crowd",
+"annee": 2021,
+"type": "conférence",
+"lieu": "CVPR 2021 - IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+"url": "https://inria.hal.science/hal-03184673v1"
+},
+{
+"id": "pf9f139d3d8",
+"titre": "Understanding, Modeling and Simulating Unintended Positional Drift during Repetitive Steering Navigation Tasks in Virtual Reality",
+"annee": 2021,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-03468929v1",
+"doi": "10.1109/tvcg.2021.3106504"
+},
+{
+"id": "p4ba65a1a8c",
+"titre": "Walking speed and trunk sway: Influence of an approaching person's gait pattern on collision avoidance",
+"annee": 2021,
+"type": "journal",
+"lieu": "Journal of Vision",
+"url": "https://inria.hal.science/hal-03468567v1",
+"doi": "10.1167/jov.21.9.2023"
+},
+{
+"id": "p88d1b50840",
+"titre": "Young and older adult pedestrians' behavior when crossing a street in front of conventional and self-driving cars",
+"annee": 2021,
+"type": "journal",
+"lieu": "Accident Analysis & Prevention",
+"url": "https://hal.science/hal-03368099v1",
+"doi": "10.1016/j.aap.2021.106256"
+},
+{
+"id": "p29dd97f774",
+"titre": "A reconstruction of life on a East India Company ship in the 18th century",
+"annee": 2020,
+"type": "journal",
+"lieu": "In Situ : Revue des patrimoines",
+"url": "https://univ-rennes.hal.science/hal-02879075v1",
+"doi": "10.4000/insitu.27496"
+},
+{
+"id": "p567471a228",
+"titre": "An application-based characterization of dynamical distance geometry problems",
+"annee": 2020,
+"type": "journal",
+"lieu": "Optimization Letters",
+"url": "https://inria.hal.science/hal-01846265v1",
+"doi": "10.1007/s11590-018-1302-6"
+},
+{
+"id": "pde80d33443",
+"titre": "Avatar and Sense of Embodiment: Studying the Relative Preference Between Appearance, Control and Point of View",
+"annee": 2020,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-02868067v1",
+"doi": "10.1109/tvcg.2020.2973077"
+},
+{
+"id": "pc8c66961f2",
+"titre": "Clinical evaluation of plantar exteroceptive inefficiency: normalisation of Plantar quotient",
+"annee": 2020,
+"type": "conférence",
+"lieu": "ENPODHE 2020 - European Network of Podiatry in Higher Education",
+"url": "https://inria.hal.science/hal-03137069v1"
+},
+{
+"id": "pe1c8e9daaf",
+"titre": "Comparing navigation meshes: Theoretical analysis and practical metrics",
+"annee": 2020,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://inria.hal.science/hal-02964377v1",
+"doi": "10.1016/j.cag.2020.06.006"
+},
+{
+"id": "p5db05398c2",
+"titre": "Crowd Navigation in VR: exploring haptic rendering of collisions",
+"annee": 2020,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-03038344v1",
+"doi": "10.1109/tvcg.2020.3041341"
+},
+{
+"id": "pee337469eb",
+"titre": "Deep saliency models : The quest for the loss function",
+"annee": 2020,
+"type": "journal",
+"lieu": "Neurocomputing",
+"url": "https://doi.org/10.1016/j.neucom.2020.06.131",
+"doi": "10.1016/j.neucom.2020.06.131"
+},
+{
+"id": "pbec3df5621",
+"titre": "Does the Control Law Matter? Characterization and Evaluation of Control Laws for Virtual Steering Navigation",
+"annee": 2020,
+"type": "conférence",
+"lieu": "ICAT-EGVE 2020 - International Conference on Artificial Reality and Telexistence & Eurographics Symposium on Virtual Environments",
+"url": "https://hal.science/hal-03008936v1"
+},
+{
+"id": "p3942884c09",
+"titre": "Example-driven virtual cinematography by learning camera behaviors",
+"annee": 2020,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://doi.org/10.1145/3386569.3392427",
+"doi": "10.1145/3386569.3392427"
+},
+{
+"id": "p09d31bb0bd",
+"titre": "Experimental Study of Collective Pedestrian Dynamics",
+"annee": 2020,
+"type": "journal",
+"lieu": "Collective Dynamics",
+"url": "https://hal.science/hal-02992406v1",
+"doi": "10.17815/cd.2020.109"
+},
+{
+"id": "pe582285880",
+"titre": "Extreme-Density Crowd Simulation: Combining Agents with Smoothed Particle Hydrodynamics",
+"annee": 2020,
+"type": "conférence",
+"lieu": "MIG 2020 - 13th ACM SIGGRAPH Conference on Motion, Interaction and Games",
+"url": "https://inria.hal.science/hal-02964064v1",
+"doi": "10.1145/3424636.3426896"
+},
+{
+"id": "pc303a0473e",
+"titre": "Eye-Gaze Activity in Crowds: Impact of Virtual Reality and Density",
+"annee": 2020,
+"type": "conférence",
+"lieu": "VR 2020 - 27th IEEE Conference on Virtual Reality and 3D User Interfaces",
+"url": "https://hal.science/hal-02544516v1"
+},
+{
+"id": "p943a1bfc4f",
+"titre": "Generalized Microscropic Crowd Simulation using Costs in Velocity Space",
+"annee": 2020,
+"type": "conférence",
+"lieu": "i3D 2020 - ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games",
+"url": "https://inria.hal.science/hal-02497176v1",
+"doi": "10.1145/3384382.3384532"
+},
+{
+"id": "p6719d3ae24",
+"titre": "Influence of Dynamic Field of View Restrictions on Rotation Gain Perception in Virtual Environments",
+"annee": 2020,
+"type": "conférence",
+"lieu": "EuroVR 2020 - 17th EuroVR International Conference",
+"url": "https://inria.hal.science/hal-03007512v1",
+"doi": "10.1007/978-3-030-62655-6_2"
+},
+{
+"id": "pe14158e649",
+"titre": "Influence of Threat Occurrence and Repeatability on the Sense of Embodiment and Threat Response in VR",
+"annee": 2020,
+"type": "conférence",
+"lieu": "ICAT-EGVE 2020 - International Conference on Artificial Reality and Telexistence & Eurographics Symposium on Virtual Environments",
+"url": "https://hal.science/hal-03009015v1"
+},
+{
+"id": "p4d94f7b804",
+"titre": "OpenTraj: Assessing Prediction Complexity in Human Trajectories Datasets",
+"annee": 2020,
+"type": "conférence",
+"lieu": "ACCV 2020 - 15th Asian Conference on Computer Vision",
+"url": "https://inria.hal.science/hal-03156511v1"
+},
+{
+"id": "p1328d3f630",
+"titre": "Real‐time Anticipation of Occlusions for Automated Camera Control in Toric Space",
+"annee": 2020,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.13949",
+"doi": "10.1111/cgf.13949"
+},
+{
+"id": "p0ec70b93da",
+"titre": "Relative Pose Estimation and Planar Reconstruction via Superpixel-Driven Multiple Homographies",
+"annee": 2020,
+"type": "conférence",
+"lieu": "IROS 2020 - IEEE/RSJ International Conference on Intelligent Robots and Systems",
+"url": "https://inria.hal.science/hal-02915045v1"
+},
+{
+"id": "p4194eecbcb",
+"titre": "Shells of the bivalve Astarte moerchi give new evidence of a strong pelagic-benthic coupling shift occurring since the late 1970s in the North Water polynya",
+"annee": 2020,
+"type": "journal",
+"lieu": "Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences",
+"url": "https://hal.science/hal-02958917v1",
+"doi": "10.1098/rsta.2019.0353"
+},
+{
+"id": "pebfcb0f2a6",
+"titre": "Studying the Inter-Relation Between Locomotion Techniques and Embodiment in Virtual Reality",
+"annee": 2020,
+"type": "conférence",
+"lieu": "IEEE International Symposium on Mixed and Augmented Reality (ISMAR)",
+"url": "https://hal.science/hal-03008902v1"
+},
+{
+"id": "pc9c785c399",
+"titre": "Synchronizing navigation algorithms for crowd simulation via topological strategies",
+"annee": 2020,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://inria.hal.science/hal-02964393v2",
+"doi": "10.1016/j.cag.2020.04.003"
+},
+{
+"id": "p41d038e391",
+"titre": "The effect of gender and attractiveness of motion on proximity in virtual reality",
+"annee": 2020,
+"type": "journal",
+"lieu": "ACM Transactions on Applied Perception",
+"url": "https://inria.hal.science/hal-02951875v1",
+"doi": "10.1145/3419985"
+},
+{
+"id": "p86e9654254",
+"titre": "The impact of stylization on face recognition",
+"annee": 2020,
+"type": "conférence",
+"lieu": "SAP 2020 - ACM Symposium on Applied Perception",
+"url": "https://inria.hal.science/hal-02951833v1",
+"doi": "10.1145/3385955.3407930"
+},
+{
+"id": "p824b36b67a",
+"titre": "Topology-aware Camera Control for Real-time Applications",
+"annee": 2020,
+"type": "conférence",
+"lieu": "MIG 2020 - Motion, Interaction and Games",
+"url": "https://inria.hal.science/hal-02969056v1",
+"doi": "10.1145/3424636.3426892"
+},
+{
+"id": "p245b51b8d3",
+"titre": "Toward Virtual Reality-based Evaluation of Robot Navigation among People",
+"annee": 2020,
+"type": "conférence",
+"lieu": "VR 2020 - 27th IEEE Conference on Virtual Reality and 3D User Interfaces",
+"url": "https://hal.science/hal-02473081v1"
+},
+{
+"id": "p03f9c1eebb",
+"titre": "Virtual Co-Embodiment: Evaluation of the Sense of Agency while Sharing the Control of a Virtual Body among Two Individuals",
+"annee": 2020,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-02951915v1",
+"doi": "10.1109/tvcg.2020.2999197"
+},
+{
+"id": "p93437aad10",
+"titre": "Walk Ratio: Perception of an Invariant Parameter of Human Walk on Virtual Characters",
+"annee": 2020,
+"type": "conférence",
+"lieu": "SAP 2020 - ACM Symposium on Applied Perception",
+"url": "https://inria.hal.science/hal-03009041v1",
+"doi": "10.1145/3385955.3407926"
+},
+{
+"id": "p8fc2ac221f",
+"titre": "Walk this way: Evaluating the effect of perceived gender and attractiveness of motion on proximity in virtual reality",
+"annee": 2020,
+"type": "conférence",
+"lieu": "VR 2020 - 27th IEEE Conference on Virtual Reality and 3D User Interfaces",
+"url": "https://hal.science/hal-02998469v1",
+"doi": "10.1109/vrw50115.2020.00036"
+},
+{
+"id": "p2089eba132",
+"titre": "Analyse des réactions corporelles à la transgression des normes de proxémie en contexte de spectacle sportif : expérimentations en situations réelles et virtuelles",
+"annee": 2019,
+"type": "conférence",
+"lieu": "ACAPS 2019 - 18ème congrès de l'Association des Chercheurs en Activités Physiques et Sportives",
+"url": "https://inria.hal.science/hal-02393360v1"
+},
+{
+"id": "p92955e3e0d",
+"titre": "Attracted by light: vision-based steering virtual characters among dark and light obstacles",
+"annee": 2019,
+"type": "conférence",
+"lieu": "MIG 2019 - ACM SIGGRAPH Conference Motion Interaction and Games",
+"url": "https://inria.hal.science/hal-02299397v1",
+"doi": "10.1145/3359566.3360085"
+},
+{
+"id": "p957c627a8c",
+"titre": "Character navigation in dynamic environments based on optical flow",
+"annee": 2019,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-02052554v1",
+"doi": "10.1111/cgf.13629"
+},
+{
+"id": "p4155defe08",
+"titre": "Collision avoidance between a walker and a person on an electric powered wheelchair",
+"annee": 2019,
+"type": "conférence",
+"lieu": "ISPGR 2019 - Conference of the International Society for Posture & Gait Research",
+"url": "https://inria.hal.science/hal-02058342v1"
+},
+{
+"id": "p80e8ffa66e",
+"titre": "Collision avoidance between walkers with a twist: strategies for curvilinear and rectilinear paths.",
+"annee": 2019,
+"type": "conférence",
+"lieu": "ISPGR 2019 - Conference of the International Society for Posture & Gait Research",
+"url": "https://inria.hal.science/hal-02058340v1"
+},
+{
+"id": "pd4ace0b716",
+"titre": "Collision avoidance strategies in older adults",
+"annee": 2019,
+"type": "journal",
+"lieu": "Neurophysiologie Clinique",
+"url": "https://doi.org/10.1016/j.neucli.2019.10.138",
+"doi": "10.1016/j.neucli.2019.10.138"
+},
+{
+"id": "p9bc51e2e0c",
+"titre": "Connecting Global and Local Agent Navigation via Topology",
+"annee": 2019,
+"type": "conférence",
+"lieu": "MIG 2019 - ACM SIGGRAPH Conference Motion Interaction and Games",
+"url": "https://inria.hal.science/hal-02308297v1",
+"doi": "10.1145/3359566.3360084"
+},
+{
+"id": "p9537795ff4",
+"titre": "Context in Photo Albums",
+"annee": 2019,
+"type": "journal",
+"lieu": "ACM Transactions on Applied Perception",
+"url": "https://doi.org/10.1145/3333612",
+"doi": "10.1145/3333612"
+},
+{
+"id": "pf97b5e7a75",
+"titre": "Data-Driven Crowd Simulation with Generative Adversarial Networks",
+"annee": 2019,
+"type": "conférence",
+"lieu": "CASA '19 - International Conference on Computer Animation and Social Agents",
+"url": "https://inria.hal.science/hal-02134282v1",
+"doi": "10.1145/3328756.3328769"
+},
+{
+"id": "pa4ae90fd83",
+"titre": "Detection of deceptive motions in rugby from visual motion cues",
+"annee": 2019,
+"type": "journal",
+"lieu": "PLoS ONE",
+"url": "https://univ-rennes.hal.science/hal-02308029v1",
+"doi": "10.1371/journal.pone.0220878"
+},
+{
+"id": "p8da6ff7a8c",
+"titre": "DiCE: Dichoptic Contrast Enhancement for VR and Stereo Displays",
+"annee": 2019,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-02281073v1",
+"doi": "10.1145/3355089.3356552"
+},
+{
+"id": "p062d7c6766",
+"titre": "Effective Human-Robot Collaboration in near symmetry collision scenarios",
+"annee": 2019,
+"type": "conférence",
+"lieu": "RO-MAN 2019 - 28th IEEE International Conference on Robot & Human Interactive Communication",
+"url": "https://inria.hal.science/hal-02267705v1"
+},
+{
+"id": "p4baa27d941",
+"titre": "Evitement de collision entre deux piétons sur un trottoir étroit",
+"annee": 2019,
+"type": "conférence",
+"lieu": "SOFPEL 2019 - 26ème congrès de la Société Francophone Posture, Équilibre et Locomotion",
+"url": "https://inria.hal.science/hal-02373619v1"
+},
+{
+"id": "p7c2465c31d",
+"titre": "Evitement de collision entre un piéton et une personne sur un fauteuil roulant motorisé",
+"annee": 2019,
+"type": "conférence",
+"lieu": "SOFPEL 2019 - 26ème congrès de la Société Francophone Posture, Équilibre et Locomotion",
+"url": "https://inria.hal.science/hal-02373525v1"
+},
+{
+"id": "p4a9442009b",
+"titre": "Extensible Spherical Fibonacci Grids",
+"annee": 2019,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://doi.org/10.1109/tvcg.2019.2952131",
+"doi": "10.1109/tvcg.2019.2952131"
+},
+{
+"id": "p2520f67491",
+"titre": "Global motion visualisation for detection of deceptive motion in rugby",
+"annee": 2019,
+"type": "conférence",
+"lieu": "24th Annual Congress of the European College of Sport Science ECSS",
+"url": "https://inria.hal.science/hal-02421389v1"
+},
+{
+"id": "p13895f7daa",
+"titre": "Image-based Authoring of Herd Animations",
+"annee": 2019,
+"type": "journal",
+"lieu": "Computer Animation and Virtual Worlds",
+"url": "https://inria.hal.science/hal-02127824v1",
+"doi": "10.1002/cav.1903"
+},
+{
+"id": "p714ceb9d93",
+"titre": "Impact of a thin plantar orthopaedic insert on posture and locomotion",
+"annee": 2019,
+"type": "conférence",
+"lieu": "ENPODHE 2019 - Conference European Network of Podiatry in Higher Education",
+"url": "https://inria.hal.science/hal-02396515v1"
+},
+{
+"id": "pc84ad82c35",
+"titre": "Influence of Motion Speed on the Perception of Latency in Avatar Control",
+"annee": 2019,
+"type": "conférence",
+"lieu": "AIVR 2019 - 2nd IEEE International Conference on Artificial Intelligence & Virtual Reality",
+"url": "https://inria.hal.science/hal-02335326v1"
+},
+{
+"id": "p949c624f65",
+"titre": "Influence of Personality Traits and Body Awareness on the Sense of Embodiment in Virtual Reality",
+"annee": 2019,
+"type": "conférence",
+"lieu": "ISMAR 2019 - 18th IEEE International Symposium on Mixed and Augmented Reality",
+"url": "https://inria.hal.science/hal-02385783v1"
+},
+{
+"id": "pd021b810b6",
+"titre": "Minimum predicted distance Applying a common metric to collision avoidance strategies between children and adult walkers",
+"annee": 2019,
+"type": "journal",
+"lieu": "Gait & Posture",
+"url": "https://univ-rennes.hal.science/hal-02160399v1",
+"doi": "10.1016/j.gaitpost.2019.05.016"
+},
+{
+"id": "p932f52419a",
+"titre": "Pedestrian collision avoidance on narrow sidewalk:a meeting between psychology and virtual reality",
+"annee": 2019,
+"type": "conférence",
+"lieu": "TRB 2019 - Annual Meeting on Transportation Research Board",
+"url": "https://univ-rennes.hal.science/hal-02396553v1"
+},
+{
+"id": "p825d610f17",
+"titre": "Social Ways: Learning Multi-Modal Distributions of Pedestrian Trajectories with GANs",
+"annee": 2019,
+"type": "conférence",
+"lieu": "CVPR 2019 Workshop - IEEE Conference on Computer Vision and Pattern Recognition Workshop",
+"url": "https://inria.hal.science/hal-02108756v1"
+},
+{
+"id": "pf78646e4c1",
+"titre": "Spectral Analysis of Quadrature Rules and Fourier Truncation-Based Methods Applied to Shading Integrals",
+"annee": 2019,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://doi.org/10.1109/tvcg.2019.2913418",
+"doi": "10.1109/tvcg.2019.2913418"
+},
+{
+"id": "p0bee8c26fe",
+"titre": "Studying Gaze Behaviour During Collision Avoidance With a Virtual Walker: Influence of the Virtual Reality Setup",
+"annee": 2019,
+"type": "conférence",
+"lieu": "VR 2019 - 26th IEEE Conference on Virtual Reality and 3D User Interfaces",
+"url": "https://inria.hal.science/hal-02058360v1",
+"doi": "10.1109/vr.2019.8798204"
+},
+{
+"id": "p842d28b336",
+"titre": "Virtual vs. Physical Navigation in VR: Study of Gaze and Body Segments Temporal Reorientation Behaviour",
+"annee": 2019,
+"type": "conférence",
+"lieu": "VR 2019 - 26th IEEE Conference on Virtual Reality and 3D User Interfaces",
+"url": "https://inria.hal.science/hal-02058365v1",
+"doi": "10.1109/vr.2019.8797721"
+},
+{
+"id": "p975137a19d",
+"titre": "Évitement de collision entre un piéton et une personne sur un fauteuil roulant électrique",
+"annee": 2019,
+"type": "journal",
+"lieu": "Neurophysiologie Clinique",
+"url": "https://doi.org/10.1016/j.neucli.2019.10.032",
+"doi": "10.1016/j.neucli.2019.10.032"
+},
+{
+"id": "pf4d2fce978",
+"titre": "2PAC: Two Point Attractors for Center of Mass Trajectories in Multi Contact Scenarios",
+"annee": 2018,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-01609055v2",
+"doi": "10.1145/3213773"
+},
+{
+"id": "p8e2952fbea",
+"titre": "A Preliminary Investigation into the Impact of Training for Example-Based Facial Blendshape Creation",
+"annee": 2018,
+"type": "conférence",
+"lieu": "EG 2018 - Eurographics",
+"url": "https://hal.science/hal-01808846v1",
+"doi": "10.2312/egs.20181042"
+},
+{
+"id": "pb05a719500",
+"titre": "An efficient acyclic contact planner for multiped robots",
+"annee": 2018,
+"type": "journal",
+"lieu": "IEEE Transactions on Robotics",
+"url": "https://hal.science/hal-01267345v3",
+"doi": "10.1109/tro.2018.2819658"
+},
+{
+"id": "pf9f5c75c3c",
+"titre": "Automated Staging for Virtual Cinematography",
+"annee": 2018,
+"type": "conférence",
+"lieu": "MIG 2018 - 11th annual conference on Motion, Interaction and Games",
+"url": "https://inria.hal.science/hal-01883808v1",
+"doi": "10.1145/3274247.3274500"
+},
+{
+"id": "p0c29c2518f",
+"titre": "Collision Avoidance With Multiple Walkers: Sequential or Simultaneous Interactions?",
+"annee": 2018,
+"type": "journal",
+"lieu": "Frontiers in Psychology",
+"url": "https://inria.hal.science/hal-01940111v1",
+"doi": "10.3389/fpsyg.2018.02354"
+},
+{
+"id": "p92dc8cc5af",
+"titre": "Collision avoidance behavior between walkers: global and local motion cues",
+"annee": 2018,
+"type": "conférence",
+"lieu": "IEEE VR 2018 - 25th IEEE Conference on Virtual Reality",
+"url": "https://hal.science/hal-01809757v1"
+},
+{
+"id": "p6e784ba94a",
+"titre": "Collision avoidance behavior between walkers: global and local motion cues",
+"annee": 2018,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-01557763v1",
+"doi": "10.1109/tvcg.2017.2718514"
+},
+{
+"id": "p1d78d84186",
+"titre": "Complexity and Scientific Challenges",
+"annee": 2018,
+"type": "chapitre",
+"lieu": "Virtual Reality and Augmented Reality - Myths and Realities",
+"url": "https://hal.science/hal-01944915v1",
+"doi": "10.1002/9781119341031.ch3"
+},
+{
+"id": "p4150448b6c",
+"titre": "Creating and chaining camera moves for quadrotor videography",
+"annee": 2018,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://doi.org/10.1145/3197517.3201284",
+"doi": "10.1145/3197517.3201284"
+},
+{
+"id": "p21c9dbc961",
+"titre": "Design and Evaluation of Multiple Role-Playing in a Virtual Film Set",
+"annee": 2018,
+"type": "conférence",
+"lieu": "VRCAI 2018 - 16th ACM SIGGRAPH International Conference on Virtual-Reality Continuum and its Applications in Industry",
+"url": "https://inria.hal.science/hal-01949576v1"
+},
+{
+"id": "pbdffea8c11",
+"titre": "Directing Cinematographic Drones",
+"annee": 2018,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://doi.org/10.1145/3181975",
+"doi": "10.1145/3181975"
+},
+{
+"id": "pafc06f3062",
+"titre": "Directing the Photography: Combining Cinematic Rules, Indirect Light Controls and Lighting‐by‐Example",
+"annee": 2018,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.13546",
+"doi": "10.1111/cgf.13546"
+},
+{
+"id": "p21cae1a00f",
+"titre": "Effect of Virtual Human Gaze Behaviour During an Orthogonal Collision Avoidance Walking Task",
+"annee": 2018,
+"type": "conférence",
+"lieu": "IEEE VR 2018 - 25th IEEE Conference on Virtual Reality",
+"url": "https://hal.science/hal-01808850v1",
+"doi": "10.1109/vr.2018.8446180"
+},
+{
+"id": "p099f1c5d38",
+"titre": "Etude du piéton en réalité virtuelle: état de l'art, enjeux et perspectives",
+"annee": 2018,
+"type": "conférence",
+"lieu": "International Conference Olympic Games, State of the Art",
+"url": "https://inria.hal.science/hal-01820093v1"
+},
+{
+"id": "pcc140d7f26",
+"titre": "Experimental Study of Collective Pedestrian Dynamics",
+"annee": 2018,
+"type": "conférence",
+"lieu": "PED 2018 - 9th International conference on Pedestrian and Evacuation Dynamics",
+"url": "https://inria.hal.science/hal-01830494v1"
+},
+{
+"id": "pc7f7a2b1f7",
+"titre": "Feature Selection in Time-Series Motion Databases",
+"annee": 2018,
+"type": "conférence",
+"lieu": "FedCSIS 2018 - Federated Conference on Computer Science and Information Systems",
+"url": "https://inria.hal.science/hal-01826230v1",
+"doi": "10.15439/2018f29"
+},
+{
+"id": "p8aa1455fa2",
+"titre": "Gaze Behaviour During Collision Avoidance Between Walkers: A Preliminary Study to Design an Experimental Platform",
+"annee": 2018,
+"type": "conférence",
+"lieu": "VHCIE@IEEEVR 2018 - IEEE Virtual Humans and Crowds for Immersive Environments, 25th IEEE Conference on Virtual Reality",
+"url": "https://inria.hal.science/hal-01820147v1"
+},
+{
+"id": "pd59ed718b2",
+"titre": "Guided by gaze: Prioritization strategy when navigating through a virtual crowd can be assessed through gaze activity",
+"annee": 2018,
+"type": "journal",
+"lieu": "Acta Psychologica",
+"url": "https://inria.hal.science/hal-01876148v1",
+"doi": "10.1016/j.actpsy.2018.07.009"
+},
+{
+"id": "pc972e6b08f",
+"titre": "How do walkers behave when crossing the way of a mobile robot that replicates human interaction rules?",
+"annee": 2018,
+"type": "journal",
+"lieu": "Gait & Posture",
+"url": "https://univ-rennes.hal.science/hal-01717722v1",
+"doi": "10.1016/j.gaitpost.2017.12.002"
+},
+{
+"id": "p38b9c0ee89",
+"titre": "Human inspired effort distribution during collision avoidance in human-robot motion",
+"annee": 2018,
+"type": "conférence",
+"lieu": "RO-MAN 2018 - 27th IEEE International Symposium on Robot and Human Interactive Communication",
+"url": "https://inria.hal.science/hal-01831757v1",
+"doi": "10.1109/roman.2018.8525623"
+},
+{
+"id": "p9448cd324e",
+"titre": "Image Selection in Photo Albums",
+"annee": 2018,
+"type": "conférence",
+"lieu": "ICMR '18 - International Conference on Multimedia Retrieval",
+"url": "https://inria.hal.science/hal-01934286v1",
+"doi": "10.1145/3206025.3206077"
+},
+{
+"id": "p3751002470",
+"titre": "Modeling crowd dynamics through coarse-grained data analysis",
+"annee": 2018,
+"type": "journal",
+"lieu": "Mathematical Biosciences and Engineering",
+"url": "https://hal.science/hal-01945905v1",
+"doi": "10.3934/mbe.2018059"
+},
+{
+"id": "pff62b96cd8",
+"titre": "Multi-purpose bi-local CAT-based guidance filter",
+"annee": 2018,
+"type": "journal",
+"lieu": "Signal Processing Image Communication",
+"url": "https://doi.org/10.1016/j.image.2018.03.010",
+"doi": "10.1016/j.image.2018.03.010"
+},
+{
+"id": "pafdcbee880",
+"titre": "Multiple layers of contrasted images for robust feature-based visual tracking",
+"annee": 2018,
+"type": "conférence",
+"lieu": "ICIP’18 - 25th IEEE International Conference on Image Processing",
+"url": "https://inria.hal.science/hal-01822789v1",
+"doi": "10.1109/icip.2018.8451810"
+},
+{
+"id": "p9ee5626299",
+"titre": "Optimal Sample Weights for Hemispherical Integral Quadratures",
+"annee": 2018,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.13392",
+"doi": "10.1111/cgf.13392"
+},
+{
+"id": "p43c41d48fb",
+"titre": "Optimized Contrast Enhancements to Improve Robustness of Visual Tracking in a SLAM Relocalisation Context",
+"annee": 2018,
+"type": "conférence",
+"lieu": "IROS'18 - IEEE/RSJ International Conference on Intelligent Robots and Systems",
+"url": "https://inria.hal.science/hal-01852003v1"
+},
+{
+"id": "p50c3851efa",
+"titre": "Studying the Sense of Embodiment in VR Shared Experiences",
+"annee": 2018,
+"type": "conférence",
+"lieu": "VR 2018 - 25th IEEE Conference on Virtual Reality and 3D User Interfaces",
+"url": "https://inria.hal.science/hal-01804949v1",
+"doi": "10.1109/vr.2018.8448293"
+},
+{
+"id": "pba2cbb1d53",
+"titre": "Surface based motion retargeting by preserving spatial relationship",
+"annee": 2018,
+"type": "conférence",
+"lieu": "MIG '18 - 11th Annual International Conference on Motion, Interaction, and Games",
+"url": "https://inria.hal.science/hal-01919065v1",
+"doi": "10.1145/3274247.3274507"
+},
+{
+"id": "p0d065f0622",
+"titre": "Thinking Like a Director: Film Editing Patterns for Virtual Cinematographic Storytelling",
+"annee": 2018,
+"type": "journal",
+"lieu": "ACM Transactions on Multimedia Computing, Communications and Applications",
+"url": "https://inria.hal.science/hal-01950718v1",
+"doi": "10.1145/3241057"
+},
+{
+"id": "p06d76f89fd",
+"titre": "Virtualisation de Joutes Urbaines : modélisation réaliste des évitements sur trottoir étroit",
+"annee": 2018,
+"type": "conférence",
+"lieu": "JRV 2018 - Journées de la Réalité Virtuelle",
+"url": "https://inria.hal.science/hal-01936877v1"
+},
+{
+"id": "p9afb60b896",
+"titre": "Walking with virtual people: Evaluation of locomotion interfaces in dynamic environments",
+"annee": 2018,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-01557761v1",
+"doi": "10.1109/tvcg.2017.2714665"
+},
+{
+"id": "p7bdf2edcf2",
+"titre": "A Distance-Based Approach for Human Posture Simulations",
+"annee": 2017,
+"type": "conférence",
+"lieu": "FedCSIS 2017 - Federated Conference on Computer Science and Information Systems",
+"url": "https://inria.hal.science/hal-01632860v1",
+"doi": "10.15439/2017f98"
+},
+{
+"id": "p9adcd52508",
+"titre": "A Spatial Target Function for Metropolis Photon Tracing",
+"annee": 2017,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-01505646v1",
+"doi": "10.1145/2963097"
+},
+{
+"id": "pbeff3e842e",
+"titre": "Analyzing Elements of Style in Annotated Film Clips",
+"annee": 2017,
+"type": "conférence",
+"lieu": "WICED 2017 - Eurographics Workshop on Intelligent Cinematography and Editing",
+"url": "https://inria.hal.science/hal-01492523v1",
+"doi": "10.2312/wiced.20171068"
+},
+{
+"id": "p53166cf982",
+"titre": "Context-aware clustering and assessment of photo collections",
+"annee": 2017,
+"type": "conférence",
+"lieu": "Expressive '17 The symposium on Computational Aesthetics",
+"url": "https://hal.science/hal-01934281v1",
+"doi": "10.1145/3092912.3092916"
+},
+{
+"id": "p0754fe899d",
+"titre": "EACS: Effective Avoidance Combination Strategy",
+"annee": 2017,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-01392248v1",
+"doi": "10.1111/cgf.13066"
+},
+{
+"id": "p6679223536",
+"titre": "Effect of mutual gaze on collision avoidance behavior during human walking",
+"annee": 2017,
+"type": "conférence",
+"lieu": "AFRV",
+"url": "https://hal.science/hal-01645801v1"
+},
+{
+"id": "p2b6531dfe6",
+"titre": "Efficient inverse transform methods for VPL selection in global illumination",
+"annee": 2017,
+"type": "journal",
+"lieu": "Multimedia Tools and Applications",
+"url": "https://doi.org/10.1007/s11042-017-4976-3",
+"doi": "10.1007/s11042-017-4976-3"
+},
+{
+"id": "p316c0012cc",
+"titre": "Gradient-based steering for vision-based crowd simulation algorithms",
+"annee": 2017,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-01653590v1",
+"doi": "10.1111/cgf.13130"
+},
+{
+"id": "pecea3aa9ee",
+"titre": "Group Modeling: A Unified Velocity-Based Approach",
+"annee": 2017,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-01372766v1",
+"doi": "10.1111/cgf.12993"
+},
+{
+"id": "pa573e30bd1",
+"titre": "High-dynamic-range image recovery from flash and non-flash image pairs",
+"annee": 2017,
+"type": "journal",
+"lieu": "The Visual Computer",
+"url": "https://doi.org/10.1007/s00371-017-1399-0",
+"doi": "10.1007/s00371-017-1399-0"
+},
+{
+"id": "p5b0284d43f",
+"titre": "How do walkers avoid a mobile robot crossing their way?",
+"annee": 2017,
+"type": "journal",
+"lieu": "Gait & Posture",
+"url": "https://hal.science/hal-01371202v1",
+"doi": "10.1016/j.gaitpost.2016.09.022"
+},
+{
+"id": "pe2c3be3cdd",
+"titre": "La simulation de foule au service du divertissement",
+"annee": 2017,
+"type": "journal",
+"lieu": "Interstices",
+"url": "https://inria.hal.science/hal-01533687v1"
+},
+{
+"id": "p2e5a1bb6a4",
+"titre": "Normalized Euclidean Distance Matrices for Human Motion Retargeting",
+"annee": 2017,
+"type": "conférence",
+"lieu": "MIG 2017 - Motion in Games",
+"url": "https://inria.hal.science/hal-01632850v1",
+"doi": "10.1145/3136457.3136466"
+},
+{
+"id": "pbafb5dc003",
+"titre": "Realtime Pedestrian Tracking and Prediction in Dense Crowds",
+"annee": 2017,
+"type": "chapitre",
+"lieu": "Group and Crowd Behavior for Computer Vision",
+"url": "https://inria.hal.science/hal-01653602v1"
+},
+{
+"id": "p8ac1711d72",
+"titre": "Simultaneous and sequential affordances of collision avoidance between multiple pedestrians",
+"annee": 2017,
+"type": "conférence",
+"lieu": "ICPA 2017 - 19th biannual International Conference on Perception and Action",
+"url": "https://inria.hal.science/hal-01646507v1"
+},
+{
+"id": "p4f29967b84",
+"titre": "Transformation of the Multivariate Generalized Gaussian Distribution for Image Editing",
+"annee": 2017,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://doi.org/10.1109/tvcg.2017.2769050",
+"doi": "10.1109/tvcg.2017.2769050"
+},
+{
+"id": "pd26c416a83",
+"titre": "Using ECPs for Interactive Applications in Virtual Cinematography",
+"annee": 2017,
+"type": "conférence",
+"lieu": "Eurographics Workshop on Intelligent Cinematography and Editing",
+"url": "https://hal.science/hal-01571418v1"
+},
+{
+"id": "p8a482ffbf0",
+"titre": "Walking with virtual people: Evaluation of locomotion interfaces in dynamic environments",
+"annee": 2017,
+"type": "conférence",
+"lieu": "IEEE VR 2017 - IEEE Virtual Reality",
+"url": "https://inria.hal.science/hal-01661211v1"
+},
+{
+"id": "p78bab840e5",
+"titre": "A comparative study of navigation meshes",
+"annee": 2016,
+"type": "conférence",
+"lieu": "MIG '16 - 9th International Conference on Motion in Games",
+"url": "https://inria.hal.science/hal-01392267v1",
+"doi": "10.1145/2994258.2994262"
+},
+{
+"id": "p44513ff3d8",
+"titre": "A radiance cache method for highly glossy surfaces",
+"annee": 2016,
+"type": "journal",
+"lieu": "The Visual Computer",
+"url": "https://inria.hal.science/hal-01219775v1",
+"doi": "10.1007/s00371-015-1159-y"
+},
+{
+"id": "p0fa4cdfc06",
+"titre": "CAVE Size Matters: Effects of Screen Distance and Parallax on Distance Estimation in Large Immersive Display Setups",
+"annee": 2016,
+"type": "journal",
+"lieu": "Presence: Teleoperators and Virtual Environments",
+"url": "https://inria.hal.science/hal-01388499v1",
+"doi": "10.1162/pres_a_00241"
+},
+{
+"id": "p2172af7ef5",
+"titre": "Character contact re-positioning under large environment deformation",
+"annee": 2016,
+"type": "conférence",
+"lieu": "Eurographics",
+"url": "https://hal.science/hal-01207688v1"
+},
+{
+"id": "p32dba6761c",
+"titre": "Computer Vision, Imaging and Computer Graphics Theory and Applications, 10th International Joint Conference, VISIGRAPP 2015, Berlin, Germany, March 11-14, 2015, Revised Selected Papers",
+"annee": 2016,
+"type": "ouvrage",
+"lieu": "",
+"url": "https://univ-angers.hal.science/hal-02528713v1",
+"doi": "10.1007/978-3-319-29971-6"
+},
+{
+"id": "pce89d24d64",
+"titre": "Dynamically balanced and plausible trajectory planning for human-like characters",
+"annee": 2016,
+"type": "conférence",
+"lieu": "20th ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games",
+"url": "https://inria.hal.science/hal-01290368v1",
+"doi": "10.1145/2856400.2856405"
+},
+{
+"id": "p984b75622b",
+"titre": "Global Motion Provides Sufficient Information for Successful Collision Avoidance During a Locomotor Task Within Virtual Reality",
+"annee": 2016,
+"type": "conférence",
+"lieu": "AFRV",
+"url": "https://hal.science/hal-01645697v1"
+},
+{
+"id": "pa6ef8ba8b0",
+"titre": "Perceptual Effect of Shoulder Motions on Crowd Animations",
+"annee": 2016,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-01357713v1",
+"doi": "10.1145/2897824.2925931"
+},
+{
+"id": "p833260e51d",
+"titre": "The role of interaction in virtual embodiment: Effects of the virtual hand representation",
+"annee": 2016,
+"type": "conférence",
+"lieu": "IEEE Virtual Reality",
+"url": "https://inria.hal.science/hal-01346229v1",
+"doi": "10.1109/vr.2016.7504682"
+},
+{
+"id": "p24e55ee506",
+"titre": "Trip Synopsis: 60km in 60sec",
+"annee": 2016,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.13008",
+"doi": "10.1111/cgf.13008"
+},
+{
+"id": "p184bc815a5",
+"titre": "Video Tone Mapping",
+"annee": 2016,
+"type": "chapitre",
+"lieu": "Elsevier eBooks",
+"url": "https://doi.org/10.1016/b978-0-08-100412-8.00006-1",
+"doi": "10.1016/b978-0-08-100412-8.00006-1"
+},
+{
+"id": "pbea6c34936",
+"titre": "WarpDriver: Context-Aware Probabilistic Motion Prediction for Crowd Simulation",
+"annee": 2016,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-01411087v1",
+"doi": "10.1145/2980179.2982442"
+},
+{
+"id": "p751b7c3dea",
+"titre": "Wow! I Have Six Fingers!\": Would You Accept Structural Changes of Your Hand in VR?",
+"annee": 2016,
+"type": "journal",
+"lieu": "Frontiers in Robotics and AI",
+"url": "https://inria.hal.science/hal-01334359v1",
+"doi": "10.3389/frobt.2016.00027"
+},
+{
+"id": "p3faa99dbbe",
+"titre": "A Reachability-based planner for sequences of acyclic contacts in cluttered environments",
+"annee": 2015,
+"type": "conférence",
+"lieu": "International Symposium on Robotics Research (ISSR 2015)",
+"url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-01149666v1"
+},
+{
+"id": "p2710c9fbe9",
+"titre": "A Virtual Director Using Hidden Markov Models",
+"annee": 2015,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.12775",
+"doi": "10.1111/cgf.12775"
+},
+{
+"id": "pd18a99dc43",
+"titre": "Bayesian Monte Carlo for Global Illumination",
+"annee": 2015,
+"type": "chapitre",
+"lieu": "Synthesis lectures on computer graphics and animation",
+"url": "https://doi.org/10.1007/978-3-031-79567-1_3",
+"doi": "10.1007/978-3-031-79567-1_3"
+},
+{
+"id": "p7b32ebcd11",
+"titre": "Biologically‐Inspired Visual Simulation of Insect Swarms",
+"annee": 2015,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.12572",
+"doi": "10.1111/cgf.12572"
+},
+{
+"id": "peb352e538f",
+"titre": "Camera-on-rails: Automated Computation of Constrained Camera Paths",
+"annee": 2015,
+"type": "conférence",
+"lieu": "ACM SIGGRAPH Conference on Motion in Games",
+"url": "https://inria.hal.science/hal-01220119v1",
+"doi": "10.1145/2822013.2822025"
+},
+{
+"id": "p60da70a7e0",
+"titre": "Color transfer between high-dynamic-range images",
+"annee": 2015,
+"type": "conférence",
+"lieu": "SPIE 9599, Applications of Digital Image Processing XXXVIII",
+"url": "https://inria.hal.science/hal-01219780v1"
+},
+{
+"id": "p456743411b",
+"titre": "Comparing film-editing",
+"annee": 2015,
+"type": "conférence",
+"lieu": "Eurographics Workshop on Intelligent Cinematography and Editing, WICED '15",
+"url": "https://inria.hal.science/hal-01160593v2",
+"doi": "10.2312/wiced.20151072"
+},
+{
+"id": "padb29ccdf2",
+"titre": "Computer Generation of Filmic Discourse from a Cognitive/Affective Perspective",
+"annee": 2015,
+"type": "conférence",
+"lieu": "Eurographics Workshop on Intelligent Cinematography and Editing",
+"url": "https://inria.hal.science/hal-01160592v1"
+},
+{
+"id": "pe6f82b4fe8",
+"titre": "Crowd Art: Density and Flow Based Crowd Motion Design",
+"annee": 2015,
+"type": "conférence",
+"lieu": "8th ACM SIGGRAPH Conference on Motion in Games, MIG '15",
+"url": "https://inria.hal.science/hal-01213887v1",
+"doi": "10.1145/2822013.2822023"
+},
+{
+"id": "peb946d2da9",
+"titre": "Distance Estimation in Large Immersive Projection Systems, Revisited",
+"annee": 2015,
+"type": "conférence",
+"lieu": "Proceedings of IEEE Virtual Reality Conference",
+"url": "https://inria.hal.science/hal-01149964v1"
+},
+{
+"id": "pf61ba3b370",
+"titre": "Efficient Quadrature Rules for Illumination Integrals",
+"annee": 2015,
+"type": "ouvrage",
+"lieu": "Synthesis lectures on computer graphics and animation",
+"url": "https://doi.org/10.1007/978-3-031-79567-1",
+"doi": "10.1007/978-3-031-79567-1"
+},
+{
+"id": "pb0d3c1a60a",
+"titre": "Fast Grasp Planning Using Cord Geometry",
+"annee": 2015,
+"type": "journal",
+"lieu": "IEEE Transactions on Robotics",
+"url": "https://inria.hal.science/hal-01250418v1",
+"doi": "10.1109/tro.2015.2492863"
+},
+{
+"id": "p49c936a191",
+"titre": "Going Through, Going Around: A Study on Individual Avoidance of Groups",
+"annee": 2015,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-01149960v1",
+"doi": "10.1109/tvcg.2015.2391862"
+},
+{
+"id": "p989b2f952e",
+"titre": "Introduction",
+"annee": 2015,
+"type": "chapitre",
+"lieu": "Synthesis lectures on computer graphics and animation",
+"url": "https://doi.org/10.1007/978-3-031-79567-1_1",
+"doi": "10.1007/978-3-031-79567-1_1"
+},
+{
+"id": "p362cf583ee",
+"titre": "Intuitive and efficient camera control with the toric space",
+"annee": 2015,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://doi.org/10.1145/2766965",
+"doi": "10.1145/2766965"
+},
+{
+"id": "p618ee3d1d0",
+"titre": "Logic Control for Story Graphs in 3D Game Narratives",
+"annee": 2015,
+"type": "conférence",
+"lieu": "2015 International Symposium on Smart Graphics",
+"url": "https://hal.science/hal-01193141v1"
+},
+{
+"id": "p8808abe8f8",
+"titre": "Proceedings of the 10th International Conference on Computer Graphics Theory and Applications (GRAPP'15)",
+"annee": 2015,
+"type": "ouvrage",
+"lieu": "",
+"url": "https://univ-angers.hal.science/hal-02528478v1"
+},
+{
+"id": "pcf69bae172",
+"titre": "Spherical Fibonacci Point Sets for QMC Estimates of Illumination Integrals",
+"annee": 2015,
+"type": "chapitre",
+"lieu": "Synthesis lectures on computer graphics and animation",
+"url": "https://doi.org/10.1007/978-3-031-79567-1_2",
+"doi": "10.1007/978-3-031-79567-1_2"
+},
+{
+"id": "pb6b4060e0f",
+"titre": "Style-aware robust color transfer",
+"annee": 2015,
+"type": "conférence",
+"lieu": "Computational Aesthetics in Graphics, Visualization, and Imaging",
+"url": "https://inria.hal.science/hal-01219789v1"
+},
+{
+"id": "p57e7be9d1c",
+"titre": "Stylistic Patterns for Generating Cinematographic Sequences",
+"annee": 2015,
+"type": "conférence",
+"lieu": "4th Workshop on Intelligent Cinematography and Editing Co-Located w/ Eurographics 2015",
+"url": "https://inria.hal.science/hal-01150905v1",
+"doi": "10.2312/wiced.20151077"
+},
+{
+"id": "p3f6ef8db36",
+"titre": "Time-delayed Follow-the-Leader model for pedestrians walking in line",
+"annee": 2015,
+"type": "journal",
+"lieu": "Networks and Heterogeneous Media",
+"url": "https://hal.science/hal-01097882v1",
+"doi": "10.3934/nhm.2015.10.579"
+},
+{
+"id": "pc2ba56d98e",
+"titre": "Virtual Proxemics: Locomotion in the Presence of Obstacles in Large Immersive Projection Environments",
+"annee": 2015,
+"type": "conférence",
+"lieu": "Proceedings of IEEE Virtual Reality Conference",
+"url": "https://inria.hal.science/hal-01149962v1"
+},
+{
+"id": "p08504d6ba3",
+"titre": "Visual Perspective and Feedback Guidance for VR Free-Throw Training",
+"annee": 2015,
+"type": "journal",
+"lieu": "IEEE Computer Graphics and Applications",
+"url": "https://inria.hal.science/hal-01205681v1",
+"doi": "10.1109/mcg.2015.95"
+},
+{
+"id": "p90e1162a2f",
+"titre": "A Kinesthetic Washout Filter for Force-Feedback Rendering",
+"annee": 2014,
+"type": "journal",
+"lieu": "IEEE Transactions on Haptics",
+"url": "https://doi.org/10.1109/toh.2014.2381652",
+"doi": "10.1109/toh.2014.2381652"
+},
+{
+"id": "p1b2b1ffdb2",
+"titre": "A Pattern-based Tool for Creating Virtual Cinematography in Interactive Storytelling",
+"annee": 2014,
+"type": "conférence",
+"lieu": "SG 2014 : 12th International Symposium on Smart Graphics",
+"url": "https://inria.hal.science/hal-01113549v1",
+"doi": "10.1007/978-3-319-11650-1_11"
+},
+{
+"id": "pe226f45a0b",
+"titre": "A Virtual Reality Platform to Study Crowd Behaviors",
+"annee": 2014,
+"type": "journal",
+"lieu": "Transportation Research Procedia",
+"url": "https://inria.hal.science/hal-01091180v1",
+"doi": "10.1016/j.trpro.2014.09.015"
+},
+{
+"id": "pbaed21e896",
+"titre": "Automatic Aesthetics-based Lighting Design with Global Illumination",
+"annee": 2014,
+"type": "conférence",
+"lieu": "Pacific Graphics",
+"url": "https://inria.hal.science/hal-01141848v1",
+"doi": "10.2312/pgs.20141256"
+},
+{
+"id": "p46b2323e9e",
+"titre": "Computation of polarized subsurface BRDF for rendering",
+"annee": 2014,
+"type": "conférence",
+"lieu": "Graphics Interface",
+"url": "https://inria.hal.science/hal-01143408v1"
+},
+{
+"id": "pb2850a05f4",
+"titre": "Crowd Sculpting: A space-time sculpting method for populating virtual environments",
+"annee": 2014,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-00945905v2",
+"doi": "10.1111/cgf.12316"
+},
+{
+"id": "pedd16a7f1b",
+"titre": "Discrete ordinate method for polarized light transport solution and subsurface BRDF computation",
+"annee": 2014,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://inria.hal.science/hal-01143399v1",
+"doi": "10.1016/j.cag.2014.09.002"
+},
+{
+"id": "p114b84972b",
+"titre": "Following Behaviors: A Model for Computing Following Distances",
+"annee": 2014,
+"type": "journal",
+"lieu": "Transportation Research Procedia",
+"url": "https://inria.hal.science/hal-01091181v1",
+"doi": "10.1016/j.trpro.2014.09.049"
+},
+{
+"id": "pc5432d3887",
+"titre": "Following behaviors: a model for computing following distances based on prediction",
+"annee": 2014,
+"type": "conférence",
+"lieu": "ACM SIGGRAPH Conference on Motion in Games 2014",
+"url": "https://inria.hal.science/hal-01091170v1",
+"doi": "10.1145/2668064.2668085"
+},
+{
+"id": "p852c72c25f",
+"titre": "Motion-guided quantization for video tone mapping",
+"annee": 2014,
+"type": "conférence",
+"lieu": "Multimedia and Expo (ICME), 2014 IEEE International Conference on",
+"url": "https://inria.hal.science/hal-01141849v1",
+"doi": "10.1109/icme.2014.6890191"
+},
+{
+"id": "p06bbe155f4",
+"titre": "New generation crowd simulation algorithms",
+"annee": 2014,
+"type": "conférence",
+"lieu": "ACM SIGGRAPH 2014 Courses",
+"url": "https://inria.hal.science/hal-01059438v1",
+"doi": "10.1145/2614028.2615446"
+},
+{
+"id": "p92503764b2",
+"titre": "Optimization-based Pedestrian Model Calibration for Evaluation",
+"annee": 2014,
+"type": "journal",
+"lieu": "Transportation Research Procedia",
+"url": "https://inria.hal.science/hal-01091182v1",
+"doi": "10.1016/j.trpro.2014.09.041"
+},
+{
+"id": "pf30dd3887e",
+"titre": "Optimization-based computation of locomotion trajectories for crowd patches",
+"annee": 2014,
+"type": "conférence",
+"lieu": "ACM SIGGRAPH Conference on Motion in Games 2014",
+"url": "https://inria.hal.science/hal-01091176v1",
+"doi": "10.1145/2668064.2668094"
+},
+{
+"id": "p60e6682618",
+"titre": "Parameter estimation and comparative evaluation of crowd simulations",
+"annee": 2014,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-01059493v1",
+"doi": "10.1111/cgf.12328"
+},
+{
+"id": "pc3fe74367f",
+"titre": "Survey of Temporal Brightness Artifacts in Video Tone Mapping",
+"annee": 2014,
+"type": "conférence",
+"lieu": "HDRi2014 - Second International Conference and SME Workshop on HDR imaging",
+"url": "https://inria.hal.science/hal-01142294v1"
+},
+{
+"id": "p73a77c6968",
+"titre": "Task efficient contact configurations for arbitrary virtual creatures",
+"annee": 2014,
+"type": "conférence",
+"lieu": "Graphics Interface'2014",
+"url": "https://inria.hal.science/hal-00988328v1"
+},
+{
+"id": "p1aa353f287",
+"titre": "Third Person View And Guidance For More Natural Motor Behaviour In Immersive Basketball Playing",
+"annee": 2014,
+"type": "conférence",
+"lieu": "ACM Symposium on Virtual Reality Software and Technology VRST",
+"url": "https://inria.hal.science/hal-01080074v1",
+"doi": "10.1145/2671015.2671023"
+},
+{
+"id": "p39c5ebe6b6",
+"titre": "Toward \"Pseudo-Haptic Avatars\": Modifying the Visual Animation of Self-Avatar Can Simulate the Perception of Weight Lifting",
+"annee": 2014,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-00990280v1",
+"doi": "10.1109/tvcg.2014.45"
+},
+{
+"id": "p6ba0531099",
+"titre": "Toward Haptic Cinematography: Enhancing Movie Experience with Haptic Effects based on Cinematographic Camera Motions",
+"annee": 2014,
+"type": "journal",
+"lieu": "IEEE MultiMedia",
+"url": "https://inria.hal.science/hal-00918074v1"
+},
+{
+"id": "p9adbbbdfef",
+"titre": "Toward Haptic Cinematography: Enhancing Movie Experiences with Camera-Based Haptic Effects",
+"annee": 2014,
+"type": "journal",
+"lieu": "IEEE Multimedia",
+"url": "https://doi.org/10.1109/mmul.2013.64",
+"doi": "10.1109/mmul.2013.64"
+},
+{
+"id": "pc4f7cc2eeb",
+"titre": "Using task efficient contact configurations to animate creatures in arbitrary environments",
+"annee": 2014,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://inria.hal.science/hal-01076395v1",
+"doi": "10.1016/j.cag.2014.08.005"
+},
+{
+"id": "pd01fd2b07d",
+"titre": "Zonal brightness coherency for video tone mapping",
+"annee": 2014,
+"type": "journal",
+"lieu": "Signal Processing: Image Communication",
+"url": "https://inria.hal.science/hal-01141841v1",
+"doi": "10.1016/j.image.2013.10.001"
+},
+{
+"id": "peacf0e5fef",
+"titre": "A Spherical Gaussian Framework for Bayesian Monte Carlo Rendering of Glossy Surfaces",
+"annee": 2013,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-01143351v1",
+"doi": "10.1109/tvcg.2013.79"
+},
+{
+"id": "pfcc7f68a18",
+"titre": "A hierarchy of heuristic-based models of crowd dynamics",
+"annee": 2013,
+"type": "journal",
+"lieu": "Kinetic and Related Models",
+"url": "https://hal.science/hal-00808691v1",
+"doi": "10.1007/s10955-013-0805-x"
+},
+{
+"id": "pd3e997c2ae",
+"titre": "Analyse de la marche en double tâche chez des patients atteints de marche instable et leucoaraiose",
+"annee": 2013,
+"type": "journal",
+"lieu": "Annals of Physical and Rehabilitation Medicine",
+"url": "https://doi.org/10.1016/j.rehab.2013.07.602",
+"doi": "10.1016/j.rehab.2013.07.602"
+},
+{
+"id": "p98e9d169a7",
+"titre": "Biomechanics of Walking in Real World: Naturalness we Wish to Reach in Virtual Reality",
+"annee": 2013,
+"type": "chapitre",
+"lieu": "Human Walking in Virtual Environments: perception, technology and applications",
+"url": "https://inria.hal.science/hal-00840153v1"
+},
+{
+"id": "pffbbd5cfa8",
+"titre": "Collision avoidance between two walkers: Role-dependent strategies",
+"annee": 2013,
+"type": "journal",
+"lieu": "Gait & Posture",
+"url": "https://inria.hal.science/hal-00821854v1",
+"doi": "10.1016/j.gaitpost.2013.03.017"
+},
+{
+"id": "pd4dae49aaf",
+"titre": "Dual task gait test and gait rehabilitation in the elderly",
+"annee": 2013,
+"type": "conférence",
+"lieu": "28. Congrès de Médecine Physique et de Réadaptation (SOFMER 2013)",
+"url": "https://hal.inrae.fr/hal-02750377v1",
+"doi": "10.1016/j.rehab.2013.07.612"
+},
+{
+"id": "pc6c6e74aab",
+"titre": "Enhancing audiovisual experience with haptic feedback: a survey on HAV",
+"annee": 2013,
+"type": "journal",
+"lieu": "IEEE Transactions on Haptics (ToH)",
+"url": "https://inria.hal.science/hal-00766259v1"
+},
+{
+"id": "p153f32aac6",
+"titre": "Fast Grasp Planning by Using Cord Geometry to Find Grasping Points",
+"annee": 2013,
+"type": "conférence",
+"lieu": "IEEE International Conference on Robotics and Automation ICRA",
+"url": "https://inria.hal.science/hal-00956631v1",
+"doi": "10.1109/icra.2013.6631032"
+},
+{
+"id": "p6645c045e1",
+"titre": "Forward and Inverse Optimal Control of Bipedal Running",
+"annee": 2013,
+"type": "chapitre",
+"lieu": "Modeling, Simulation and Optimization of Bipedal Walking",
+"url": "https://univ-rennes.hal.science/hal-01159369v1",
+"doi": "10.1007/978-3-642-36368-9_13"
+},
+{
+"id": "p5de9e67494",
+"titre": "Gait instability measured by dual task gait test and leukoaraiosis.",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Annals of Physical and Rehabilitation Medicine",
+"url": "https://univ-rennes.hal.science/hal-01159380v1",
+"doi": "10.1016/j.rehab.2013.07.608"
+},
+{
+"id": "pb558179868",
+"titre": "Green's function solution to subsurface light transport for BRDF computation",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Spring Conference on Computer Graphics",
+"url": "https://inria.hal.science/hal-01143414v1"
+},
+{
+"id": "p10027dcae5",
+"titre": "Human Walking in Virtual Environments: perception, technology and applications",
+"annee": 2013,
+"type": "chapitre",
+"lieu": "Human Walking in Virtual Environments: perception, technology and applications",
+"url": "https://univ-rennes.hal.science/hal-01159388v1"
+},
+{
+"id": "p54cfc8ae31",
+"titre": "Impact of temporal coherence-based Tone Mapping on video compression",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Signal Processing Conference (EUSIPCO), 2013 Proceedings of the 21st European",
+"url": "https://inria.hal.science/hal-01142291v1"
+},
+{
+"id": "p6439cf8a83",
+"titre": "Inserting virtual pedestrians into pedestrian groups video with behavior consistency",
+"annee": 2013,
+"type": "journal",
+"lieu": "The Visual Computer",
+"url": "https://inria.hal.science/hal-01059502v1",
+"doi": "10.1007/s00371-013-0853-x"
+},
+{
+"id": "pbde2283b90",
+"titre": "Interactive techniques for populating large virtual cities",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Eurographics Workshop on Urban Data Modelling and Visualisation",
+"url": "https://inria.hal.science/hal-00815691v1",
+"doi": "10.2312/udmv/udmv13/041-042"
+},
+{
+"id": "p21e8ed06f5",
+"titre": "Kinematic Evaluation of Virtual Walking Trajectories",
+"annee": 2013,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-00840160v1",
+"doi": "10.1109/tvcg.2013.34"
+},
+{
+"id": "p66e7063188",
+"titre": "Locomotion Synthesis for Digital Actors",
+"annee": 2013,
+"type": "chapitre",
+"lieu": "Modeling, Simulation and Optimization of Bipedal Walking",
+"url": "https://inria.hal.science/hal-01059507v1",
+"doi": "10.1007/978-3-642-36368-9_15"
+},
+{
+"id": "pe56e92c67e",
+"titre": "Natural Preparation Behaviour Synthesis",
+"annee": 2013,
+"type": "journal",
+"lieu": "Computer Animation and Virtual Worlds",
+"url": "https://inria.hal.science/hal-00844767v1",
+"doi": "10.1002/cav.1546"
+},
+{
+"id": "pda3d2ae4a0",
+"titre": "Rendu Progressif basé Metropolis-Hasting dans des scènes à contextes topologiques multiples",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Journées AFIG 2013",
+"url": "https://unilim.hal.science/hal-00933148v1"
+},
+{
+"id": "p2033fe36fb",
+"titre": "Shaping Interactive Stories in 3D Environments",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Motion in Games",
+"url": "https://inria.hal.science/hal-00925428v1"
+},
+{
+"id": "p056a9428dd",
+"titre": "Simulation of Past Life: Controlling Agent Behaviors from the Interactions between Ethnic Groups",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Digital Heritage International Congress 2013",
+"url": "https://inria.hal.science/hal-00864223v1"
+},
+{
+"id": "pf0abca64cf",
+"titre": "Spherical Fibonacci Point Sets for Illumination Integrals",
+"annee": 2013,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-01143347v1",
+"doi": "10.1111/cgf.12190"
+},
+{
+"id": "p97aa29805c",
+"titre": "Steering Behaviors for Autonomous Cameras",
+"annee": 2013,
+"type": "conférence",
+"lieu": "MIG 2013 - ACM SIGGRAPH conference on Motion in Games",
+"url": "https://inria.hal.science/hal-00862713v1",
+"doi": "10.1145/2522628.2522899"
+},
+{
+"id": "p2d75b3a294",
+"titre": "Stories Animated: A Framework for Personalized Interactive Narratives using Filtering of Story Characteristics",
+"annee": 2013,
+"type": "conférence",
+"lieu": "CASA - Computer Animation and Social Agents",
+"url": "https://inria.hal.science/hal-00854390v1"
+},
+{
+"id": "p4b116e0789",
+"titre": "Temporal Coherency in Video Tone Mapping, A Survey",
+"annee": 2013,
+"type": "conférence",
+"lieu": "HDRi2013 - First International Conference and SME Workshop on HDR imaging",
+"url": "https://inria.hal.science/hal-01142308v1"
+},
+{
+"id": "p6084f39641",
+"titre": "Verification of Bidirectional Reflectance DistributionFunction Implementations for Physical Plausibility",
+"annee": 2013,
+"type": "conférence",
+"lieu": "South African Institute for Computer Scientists and Information Technologists (SAICSIT)",
+"url": "https://inria.hal.science/hal-01143416v1"
+},
+{
+"id": "pe59b35778c",
+"titre": "Visibility-driven progressive volume photon tracing",
+"annee": 2013,
+"type": "journal",
+"lieu": "The Visual Computer",
+"url": "https://inria.hal.science/hal-01141843v1",
+"doi": "10.1007/s00371-013-0845-x"
+},
+{
+"id": "pb0cf092519",
+"titre": "Visibility-driven progressive volume photon tracing",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Computer Graphics International",
+"url": "https://inria.hal.science/hal-01143410v1"
+},
+{
+"id": "p202d66cf0d",
+"titre": "Vision-based macroscopic pedestrian models",
+"annee": 2013,
+"type": "journal",
+"lieu": "Kinetic and Related Models",
+"url": "https://hal.science/hal-00842083v1",
+"doi": "10.3934/krm.2013.6.809"
+},
+{
+"id": "p288fee86e6",
+"titre": "Walk with me: interactions in emotional walking situations, a pilot study",
+"annee": 2013,
+"type": "conférence",
+"lieu": "ACM Symposium on Applied Perception - 2013",
+"url": "https://inria.hal.science/hal-00864270v1"
+},
+{
+"id": "p02658e13c9",
+"titre": "A Framework for Enhancing Video Viewing Experience with Haptic Effects of Motion",
+"annee": 2012,
+"type": "conférence",
+"lieu": "Haptic Symposium - 2012",
+"url": "https://inria.hal.science/hal-00766257v1"
+},
+{
+"id": "pe4ed4a192e",
+"titre": "Cloning Crowd Motion",
+"annee": 2012,
+"type": "conférence",
+"lieu": "ACM SIGGRAPH / Eurographics Symposium on Computer Animation",
+"url": "https://inria.hal.science/hal-00766794v1"
+},
+{
+"id": "pba76432692",
+"titre": "Cognition and biomechanics of walking",
+"annee": 2012,
+"type": "chapitre",
+"lieu": "Human Walking in Virtual Environments: perception, technology and applications",
+"url": "https://inria.hal.science/hal-00640204v1"
+},
+{
+"id": "p66d457a188",
+"titre": "Efficient Composition for Virtual Camera Control",
+"annee": 2012,
+"type": "conférence",
+"lieu": "ACM Siggraph / Eurographics Symposium on Computer Animation",
+"url": "https://inria.hal.science/hal-00790107v1"
+},
+{
+"id": "p1e12383281",
+"titre": "Emotional influences on the kinematics of interactions between two walkers: preliminary results on angriness",
+"annee": 2012,
+"type": "conférence",
+"lieu": "International Society for Posture and Gait Research",
+"url": "https://inria.hal.science/hal-00759896v1"
+},
+{
+"id": "p6a56c076e0",
+"titre": "Experimental study of the following dynamics of pedestrians",
+"annee": 2012,
+"type": "conférence",
+"lieu": "Pedestrian and Evacuation Dynamics 2012",
+"url": "https://inria.hal.science/hal-00762937v1",
+"doi": "10.1007/978-3-319-02447-9_25"
+},
+{
+"id": "p5f37eca8c8",
+"titre": "HapSeat: Producing Motion Sensation with Multiple Force-feedback Devices Embedded in a Seat",
+"annee": 2012,
+"type": "conférence",
+"lieu": "VRST - Virtual Reality Software and Technology - 2012",
+"url": "https://inria.hal.science/hal-00766258v2"
+},
+{
+"id": "pfd6b087473",
+"titre": "Interactive Urban Planning with Local Search Techniques: the SUSTAINS Project",
+"annee": 2012,
+"type": "conférence",
+"lieu": "CompSust'12 - 3rd International Conference on Computational Sustainability",
+"url": "https://hal.science/hal-00872981v1"
+},
+{
+"id": "p791f7b5ac2",
+"titre": "Light Propagation Maps on Parallel Graphics Architectures",
+"annee": 2012,
+"type": "conférence",
+"lieu": "Eurographics Symposium on Parallel Graphics and Visualization",
+"url": "https://inria.hal.science/hal-01142316v1"
+},
+{
+"id": "p648d0218b1",
+"titre": "Minimal predicted distance: A common metric for collision avoidance during pairwise interactions between walkers",
+"annee": 2012,
+"type": "journal",
+"lieu": "Gait & Posture",
+"url": "https://inria.hal.science/hal-00759480v1",
+"doi": "10.1016/j.gaitpost.2012.03.021"
+},
+{
+"id": "p9c7f22c472",
+"titre": "Minimal predicted distance: a kinematic cue to investigate collision avoidance between walkers",
+"annee": 2012,
+"type": "conférence",
+"lieu": "Société de Biomécanique",
+"url": "https://inria.hal.science/hal-00759908v1",
+"doi": "10.1080/10255842.2012.7136"
+},
+{
+"id": "p4140b0fb5f",
+"titre": "Occlusion-free Camera Control for Multiple Targets",
+"annee": 2012,
+"type": "conférence",
+"lieu": "ACM SIGGRAPH / Eurographics Symposium on Computer Animation",
+"url": "https://inria.hal.science/hal-00766255v1"
+},
+{
+"id": "p64bd34417d",
+"titre": "Properties of pedestrians walking in line. II. Stepping behavior",
+"annee": 2012,
+"type": "journal",
+"lieu": "Physical Review E",
+"url": "https://doi.org/10.1103/physreve.86.046111",
+"doi": "10.1103/physreve.86.046111"
+},
+{
+"id": "pee25d37917",
+"titre": "Properties of pedestrians walking in line: Stepping behavior",
+"annee": 2012,
+"type": "journal",
+"lieu": "Physical Review E : Statistical, Nonlinear, and Soft Matter Physics [2001-2015]",
+"url": "https://hal.science/hal-00714721v1"
+},
+{
+"id": "pccb417f920",
+"titre": "Realistic following behaviors for crowd simulation",
+"annee": 2012,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-00817688v1",
+"doi": "10.1111/j.1467-8659.2012.03028.x"
+},
+{
+"id": "pc227630a94",
+"titre": "Temporal coherency for video tone mapping",
+"annee": 2012,
+"type": "conférence",
+"lieu": "SPIE: Applications of Digital Image Processing XXXV",
+"url": "https://inria.hal.science/hal-01142313v1",
+"doi": "10.1117/12.929600"
+},
+{
+"id": "p9bd4032206",
+"titre": "Toward automatic GIS-video initial registration",
+"annee": 2012,
+"type": "journal",
+"lieu": "Annals of Telecommunications - annales des télécommunications",
+"url": "https://hal.science/hal-00628167v1",
+"doi": "10.1007/s12243-011-0249-8"
+},
+{
+"id": "p415f68b9f7",
+"titre": "Traffic Instabilities in Self-Organized Pedestrian Crowds",
+"annee": 2012,
+"type": "journal",
+"lieu": "PLoS Computational Biology",
+"url": "https://hal.science/hal-00716032v1",
+"doi": "10.1371/journal.pcbi.1002442"
+},
+{
+"id": "pef86229c2c",
+"titre": "Velocity-based models for crowd simulation",
+"annee": 2012,
+"type": "conférence",
+"lieu": "MIG12 - The 5th international conference on Motion in Games - 2012",
+"url": "https://inria.hal.science/hal-00759981v1"
+},
+{
+"id": "p3329974c1b",
+"titre": "A Computer-aided System for Narrative Creation",
+"annee": 2011,
+"type": "conférence",
+"lieu": "TERA International Conference on Education (TICE 2011)",
+"url": "https://inria.hal.science/hal-00646895v1"
+},
+{
+"id": "pcf685d87c8",
+"titre": "A step‐by‐step modeling, analysis and annotation of locomotion",
+"annee": 2011,
+"type": "journal",
+"lieu": "Computer Animation and Virtual Worlds",
+"url": "https://hal.science/hal-01410960v1",
+"doi": "10.1002/cav.377"
+},
+{
+"id": "p481cb4289f",
+"titre": "Adaptive Records for Irradiance Caching",
+"annee": 2011,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-01143360v1",
+"doi": "10.1111/j.1467-8659.2010.01846.x"
+},
+{
+"id": "pdd3c2b3860",
+"titre": "Adaptive records for volume irradiance caching",
+"annee": 2011,
+"type": "journal",
+"lieu": "The Visual Computer",
+"url": "https://inria.hal.science/hal-01143357v1"
+},
+{
+"id": "p4ae32241d6",
+"titre": "Comparison of models of dynamic balance in biological motions",
+"annee": 2011,
+"type": "journal",
+"lieu": "Computer Methods in Biomechanics and Biomedical Engineering",
+"url": "https://inria.hal.science/hal-00640201v1",
+"doi": "10.1080/10255842.2011.594713"
+},
+{
+"id": "pded23e6b4b",
+"titre": "Effets des émotions sur l'interaction physique entre humains dans des tâches de locomotion",
+"annee": 2011,
+"type": "conférence",
+"lieu": "AFIG 2011",
+"url": "https://inria.hal.science/hal-00647011v1"
+},
+{
+"id": "p5ca63112e5",
+"titre": "Extending Backward Polygon Beam Tracing to Glossy Scattering Surfaces",
+"annee": 2011,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-01143377v1",
+"doi": "10.1111/j.1467-8659.2011.01903.x"
+},
+{
+"id": "pee68410220",
+"titre": "Imperceptible Relaxation of Collision Avoidance Constraints in Virtual Crowds",
+"annee": 2011,
+"type": "conférence",
+"lieu": "SIGGRAPH ASIA",
+"url": "https://inria.hal.science/hal-00642607v1"
+},
+{
+"id": "p98a9a79b5e",
+"titre": "Imperceptible relaxation of collision avoidance constraints in virtual crowds",
+"annee": 2011,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-01059441v1",
+"doi": "10.1145/2024156.2024172"
+},
+{
+"id": "peaaa2dd024",
+"titre": "Improving Performance and Accuracy of Local PCA",
+"annee": 2011,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-00658792v1",
+"doi": "10.1111/j.1467-8659.2011.02047.x"
+},
+{
+"id": "pf881f1a7c2",
+"titre": "Joyman: a Human-Scale Joystick for Navigating in Virtual Worlds",
+"annee": 2011,
+"type": "conférence",
+"lieu": "IEEE Symposium on 3D User Interfaces 2011 (3DUI)",
+"url": "https://inria.hal.science/inria-00567437v1"
+},
+{
+"id": "p7a1e1688c9",
+"titre": "Joyman: an Immersive and Entertaining Interface for Virtual Locomotion",
+"annee": 2011,
+"type": "conférence",
+"lieu": "ACM SIGGRAPH Asia Emerging Technologies",
+"url": "https://inria.hal.science/hal-00644256v1"
+},
+{
+"id": "p6e8a1636c2",
+"titre": "Mixed Reality Crowds: Online Inserting Virtual Characters into Dynamic Video Scenes",
+"annee": 2011,
+"type": "conférence",
+"lieu": "CASA 2011",
+"url": "https://inria.hal.science/hal-00645210v1"
+},
+{
+"id": "p22583e3d6a",
+"titre": "Online inserting virtual characters into dynamic video scenes",
+"annee": 2011,
+"type": "journal",
+"lieu": "Computer Animation and Virtual Worlds",
+"url": "https://doi.org/10.1002/cav.427",
+"doi": "10.1002/cav.427"
+},
+{
+"id": "p7d641b5a1b",
+"titre": "Properties of pedestrians walking in line -- Fundamental diagrams",
+"annee": 2011,
+"type": "journal",
+"lieu": "Physical Review E : Statistical, Nonlinear, and Soft Matter Physics [2001-2015]",
+"url": "https://hal.science/hal-00646304v1",
+"doi": "10.1103/physreve.85.036111"
+},
+{
+"id": "p252075ec0d",
+"titre": "Reconstructing motion capture data for human crowd study.",
+"annee": 2011,
+"type": "conférence",
+"lieu": "Motion in Games",
+"url": "https://inria.hal.science/hal-00645213v1"
+},
+{
+"id": "p77ebc7f2ff",
+"titre": "The Director's Lens: An Intelligent Assistant for Virtual Cinematography",
+"annee": 2011,
+"type": "conférence",
+"lieu": "ACM Multimedia",
+"url": "https://inria.hal.science/hal-00646398v1"
+},
+{
+"id": "pe272172958",
+"titre": "Un modèle de suivi réaliste pour la simulation de foules",
+"annee": 2011,
+"type": "journal",
+"lieu": "Revue Electronique Francophone d'Informatique Graphique",
+"url": "https://hal.science/hal-00817675v1"
+}
+]
+}

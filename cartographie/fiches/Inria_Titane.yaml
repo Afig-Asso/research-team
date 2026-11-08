@@ -1,0 +1,74 @@
+equipe: Inria/Titane
+domaines:
+  principaux:
+  - capture
+  - geometrie
+  secondaires:
+  - ia
+  - modelisation
+themes:
+- id: reconstruction_surfaces
+  phrase: Reconstruction de surfaces étanches et compactes à partir de nuages de points bruts ou de champs de distance épars.
+  preuves:
+  - pc7a9bd5bdf
+  - p09f697a1f7
+  - p711920aa4f
+- id: modeles_urbains
+  phrase: Reconstruction et vectorisation de bâtiments, toits et réseaux routiers à partir de lidar aérien et d'images satellitaires.
+  preuves:
+  - p958dc965cc
+  - p057d38824f
+  - pe90ecf7881
+- id: maillages
+  phrase: 'Génération robuste de maillages : enveloppes avec décalage, maillages offset à arêtes vives et représentations
+    par QEM.'
+  preuves:
+  - p9d399fc102
+  - p625a574f0b
+  - pfa236a714d
+- id: apprentissage_geometrique
+  phrase: Apprentissage de maillages étanches par diagrammes de Voronoï, segmentation en primitives et variations 3D par diffusion.
+  preuves:
+  - pd58293ac23
+  - p443a90cba2
+  - p67d9d46052
+- id: nuages_points
+  phrase: Ajustement de NURBS et de primitives planaires, consolidation d'arêtes vives et segmentation sémantique de nuages
+    de points.
+  preuves:
+  - pd709af2f15
+  - p1b5465a200
+  - p89cb0739a3
+- id: compression_geometrie
+  phrase: Compression progressive de maillages texturés et de nuages de points.
+  preuves:
+  - p583dc737d5
+  - p6714fe9c99
+  - p47b5a4d1be
+applications:
+- id: architecture_urbain
+  preuves:
+  - p958dc965cc
+  - pb826fbc1ff
+  - p1d4db1646b
+- id: geographie
+  preuves:
+  - p694c8b5580
+  - p057d38824f
+  - pa03fe1c60b
+- id: industrie_cao
+  preuves:
+  - p8dee5d23fe
+  - pd709af2f15
+publications_representatives:
+- pc7a9bd5bdf
+- p9d399fc102
+- p958dc965cc
+- p711920aa4f
+- pe90ecf7881
+synthese: Reconstruction de modèles 3D compacts (bâtiments, villes, objets) à partir de mesures laser et photographiques ;
+  génération et simplification de maillages.
+pour_etudiants: On transforme des mesures du monde réel (scans laser, photos aériennes) en modèles 3D propres et légers de
+  bâtiments, de villes et d'objets.
+pour_entreprises: Reconstruction 3D de villes et de bâtiments à partir de lidar ou d'images, réparation et simplification
+  de maillages, compression de données 3D.

@@ -1,0 +1,76 @@
+equipe: XLIM/SIR
+domaines:
+  principaux:
+  - visu
+  - rendu
+  secondaires:
+  - geometrie
+  - rv
+themes:
+- id: visu_scientifique
+  phrase: Visualisation interactive haute performance de grands systèmes moléculaires et choix automatique de points de vue.
+  preuves:
+  - p1e7a1e8233
+  - p02ca67518d
+  - p423d1e30d6
+- id: gpu_volumes
+  phrase: 'Calcul GPU de structures géométriques massives : surfaces moléculaires, diagrammes d''Apollonius 3D, recherche
+    de voisins par cœurs RT.'
+  preuves:
+  - pb8e0b2ce43
+  - p1afadc2bff
+  - pbaf8d97dfe
+- id: geometrie_algorithmique
+  phrase: Construction de diagrammes d'Apollonius 3D et maintien de triangulations de Delaunay de points mobiles sur GPU.
+  preuves:
+  - pb8e0b2ce43
+  - pe9c11e7670
+  - p97880672fb
+- id: rendu_temps_reel
+  phrase: Ombres temps réel à grande échelle et simulation d'ensoleillement dans des villes complexes.
+  preuves:
+  - pb7ec59b94e
+  - pdca7d245a2
+  - pae47c1110e
+- id: materiaux_brdf
+  phrase: Modèles de BRDF à microfacettes pour le rendu de reflets scintillants et de cartes de normales haute définition.
+  preuves:
+  - peb9dd84cff
+  - pc878a0b665
+- id: terrains_nature
+  phrase: Vieillissement et pollution des scènes urbaines, et simulation contrôlée de vagues déferlantes.
+  preuves:
+  - p172698c88b
+  - p175a2688ff
+  - p26b2e523df
+applications:
+- id: biologie
+  preuves:
+  - p1e7a1e8233
+  - p433bf02b44
+  - p02ca67518d
+- id: education
+  preuves:
+  - p0393be5a60
+  - pee6e017a1a
+- id: architecture_urbain
+  preuves:
+  - p172698c88b
+  - pae47c1110e
+- id: jeu_video
+  preuves:
+  - pb7ec59b94e
+  - pdca7d245a2
+  - peb9dd84cff
+publications_representatives:
+- pb7ec59b94e
+- peb9dd84cff
+- pef33ad8735
+- pae47c1110e
+- p172698c88b
+synthese: Rendu temps réel sur GPU et visualisation de très grands volumes de données (molécules, scènes urbaines), géométrie
+  algorithmique.
+pour_etudiants: On programme des cartes graphiques pour afficher et explorer en temps réel des molécules géantes ou des villes
+  entières.
+pour_entreprises: Logiciels de visualisation moléculaire haute performance, calculs géométriques accélérés sur GPU, simulation
+  d'ensoleillement urbain.

@@ -1,0 +1,1025 @@
+{
+"equipe": "LORIA/MFX",
+"publications": [
+{
+"id": "pad75a3c502",
+"titre": "AtomSlicer: Constant-Thickness Field-Aligned Non-Planar Slicing and Continuous Toolpaths for FFF",
+"annee": 2026,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-05710585v1",
+"doi": "10.1145/3811363"
+},
+{
+"id": "p57b9d40e47",
+"titre": "FEDNet: A Feature-Enhanced Diffusion Network for Efficient and Universal Texture Synthesis",
+"annee": 2026,
+"type": "journal",
+"lieu": "Computational Visual Media",
+"url": "https://doi.org/10.26599/cvm.2025.9450529",
+"doi": "10.26599/cvm.2025.9450529"
+},
+{
+"id": "p9c4912b618",
+"titre": "Field‐Aligned Surface‐Filling Curve via Implicit Stitching",
+"annee": 2026,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-05579571v1",
+"doi": "10.1111/cgf.70361"
+},
+{
+"id": "p739f41e564",
+"titre": "Hardware Stencil Accelerator with Periodic Boundary Conditions",
+"annee": 2026,
+"type": "conférence",
+"lieu": "FCCM 2026 - 34th IEEE Annual International Symposium on Field-Programmable Custom Computing Machines",
+"url": "https://hal.science/hal-05665519v1",
+"doi": "10.1109/fccm68464.2026.00039"
+},
+{
+"id": "pdbc240fc98",
+"titre": "Improving Spatial Domain Repetition of Implicit Surfaces",
+"annee": 2026,
+"type": "journal",
+"lieu": "Proceedings of the ACM on Computer Graphics and Interactive Techniques",
+"url": "https://hal.science/hal-05644394v1",
+"doi": "10.1145/3804498"
+},
+{
+"id": "p37fee934a0",
+"titre": "Mechanical Cloaking of Halftoned Imagery",
+"annee": 2026,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-05669445v1",
+"doi": "10.1145/3811394"
+},
+{
+"id": "pe66234d625",
+"titre": "Structural optimization of a stack of elastic rings under gravity",
+"annee": 2026,
+"type": "journal",
+"lieu": "Computer Methods in Applied Mechanics and Engineering",
+"url": "https://hal.science/hal-05525618v1",
+"doi": "10.1016/j.cma.2025.118698"
+},
+{
+"id": "pb3c570a935",
+"titre": "TimeKlip: firmware-based print time estimation and its applications",
+"annee": 2026,
+"type": "journal",
+"lieu": "The International Journal of Advanced Manufacturing Technology",
+"url": "https://doi.org/10.1007/s00170-026-18038-0",
+"doi": "10.1007/s00170-026-18038-0"
+},
+{
+"id": "p1b49127d1a",
+"titre": "Wave‐Guided Field‐Aligned Volume‐Filling Curves",
+"annee": 2026,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-05716769v1",
+"doi": "10.1111/cgf.70512"
+},
+{
+"id": "p6320853d44",
+"titre": "Atomizer: Beyond Non‐Planar Slicing for Fused Filament Fabrication",
+"annee": 2025,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-05237693v1",
+"doi": "10.1111/cgf.70189"
+},
+{
+"id": "p9147235640",
+"titre": "Customization of 3D printed sensing devices in the layered fabrication space",
+"annee": 2025,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://hal.science/hal-05358243v1",
+"doi": "10.1016/j.cag.2025.104459"
+},
+{
+"id": "pacc12da3a0",
+"titre": "Improving Curl Noise",
+"annee": 2025,
+"type": "conférence",
+"lieu": "SIGGRAPH Asia 2025 Conference Papers - 18th ACM Conference and Exhibition on Computer Graphics and Interactive Techniques in Asia",
+"url": "https://hal.science/hal-05308063v1",
+"doi": "10.1145/3757377.3763980"
+},
+{
+"id": "p61bf791a64",
+"titre": "Towards Accessible Non-Planar FFF Using Triple Z-Axis Kinematics",
+"annee": 2025,
+"type": "conférence",
+"lieu": "SCF '25 - ACM Symposium on Computational Fabrication",
+"url": "https://inria.hal.science/hal-05366062v1",
+"doi": "10.1145/3745778.3766652"
+},
+{
+"id": "p99689f34e2",
+"titre": "Anisotropic Specular Image‐Based Lighting Based on BRDF Major Axis Sampling",
+"annee": 2024,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-04766640v1",
+"doi": "10.1111/cgf.15233"
+},
+{
+"id": "pfc2b47a208",
+"titre": "Mesh Simplification for Unfolding*",
+"annee": 2024,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.15269",
+"doi": "10.1111/cgf.15269"
+},
+{
+"id": "pac4f874c37",
+"titre": "Multi-Material Torque Sensor Embedding One-Shot 3D-Printed Deformable Capacitive Structures",
+"annee": 2024,
+"type": "journal",
+"lieu": "IEEE Sensors Letters",
+"url": "https://doi.org/10.1109/lsens.2024.3440195",
+"doi": "10.1109/lsens.2024.3440195"
+},
+{
+"id": "p51189d4397",
+"titre": "Parametric Foam-Like Capacitive Sensors for 3-D Printing of Deformable Parts With Sensing Capabilities",
+"annee": 2024,
+"type": "journal",
+"lieu": "IEEE Sensors Journal",
+"url": "https://doi.org/10.1109/jsen.2024.3510138",
+"doi": "10.1109/jsen.2024.3510138"
+},
+{
+"id": "p29ca7b398d",
+"titre": "StarDEM: Efficient Discrete Element Method for Star-shaped Particles",
+"annee": 2024,
+"type": "conférence",
+"lieu": "EG 2024 EUROGRAPHICS Conference",
+"url": "https://hal.science/hal-04595893v1",
+"doi": "10.2312/egs.20241021"
+},
+{
+"id": "p20523ebef3",
+"titre": "Synchronized tracing of primitive-based implicit volumes",
+"annee": 2024,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-04765895v1",
+"doi": "10.1145/3702227"
+},
+{
+"id": "pe6069c8ffe",
+"titre": "Curl Noise Jittering",
+"annee": 2023,
+"type": "conférence",
+"lieu": "16th ACM Conference and Exhibition on Computer Graphics and Interactive Techniques (SIGGRAPH Asia 2023)",
+"url": "https://hal.science/hal-04227903v1",
+"doi": "10.1145/3610548.3618163"
+},
+{
+"id": "p3a36eac5a1",
+"titre": "Forward inclusion functions for ray-tracing implicit surfaces",
+"annee": 2023,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://inria.hal.science/hal-04129922v2",
+"doi": "10.1016/j.cag.2023.05.026"
+},
+{
+"id": "p74a883e831",
+"titre": "Inverse-designed growth-based cellular metamaterials",
+"annee": 2023,
+"type": "journal",
+"lieu": "Mechanics of Materials",
+"url": "https://inria.hal.science/hal-04091373v1",
+"doi": "10.1016/j.mechmat.2023.104668"
+},
+{
+"id": "p55e9fada82",
+"titre": "Orientable Dense Cyclic Infill for Anisotropic Appearance Fabrication",
+"annee": 2023,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-04129173v1",
+"doi": "10.1145/3592412"
+},
+{
+"id": "p94282d4047",
+"titre": "PCBend: Light Up Your 3D Shapes With Foldable Circuit Boards",
+"annee": 2023,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-04129354v2",
+"doi": "10.1145/3592411"
+},
+{
+"id": "pba637650cf",
+"titre": "Shrink & Morph: 3D-Printed Self-Shaping Shells Actuated by a Shape Memory Effect",
+"annee": 2023,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://doi.org/10.1145/3618386",
+"doi": "10.1145/3618386"
+},
+{
+"id": "p28a7623e75",
+"titre": "Closed space-filling curves with controlled orientation for 3D printing",
+"annee": 2022,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-03185200v2",
+"doi": "10.1111/cgf.14488"
+},
+{
+"id": "p53642b74aa",
+"titre": "Coupling 3D Liquid Simulation with 2D Wave Propagation for Large Scale Water Surface Animation Using the Equivalent Sources Method",
+"annee": 2022,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-03641349v1",
+"doi": "10.1111/cgf.14478"
+},
+{
+"id": "pb23d7892ec",
+"titre": "Procedural bridges-and-pillars support generation",
+"annee": 2022,
+"type": "conférence",
+"lieu": "Eurographics 2022 - 43rd annual conference of the european association for computer graphics",
+"url": "https://inria.hal.science/hal-03700018v1",
+"doi": "10.2312/egs.20221025"
+},
+{
+"id": "p6959cd1260",
+"titre": "S3-Slicer: A General Slicing Framework for Multi-Axis 3D Printing",
+"annee": 2022,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-03971065v1",
+"doi": "10.1145/3550454.3555516"
+},
+{
+"id": "p8659916d7e",
+"titre": "Transparent rendering and slicing of integral surfaces using per-primitive interval arithmetic",
+"annee": 2022,
+"type": "conférence",
+"lieu": "Eurographics 2022 - Short Papers",
+"url": "https://inria.hal.science/hal-03689606v1"
+},
+{
+"id": "pe84652f9b5",
+"titre": "3D periodic cellular materials with tailored symmetry and implicit grading",
+"annee": 2021,
+"type": "journal",
+"lieu": "Computer-Aided Design",
+"url": "https://inria.hal.science/hal-03290606v1",
+"doi": "10.1016/j.cad.2021.103086"
+},
+{
+"id": "p29d537e983",
+"titre": "A brick in the wall: Staggered orientable infills for additive manufacturing",
+"annee": 2021,
+"type": "conférence",
+"lieu": "SCF 2021 - ACM Symposium on Computational Fabrication",
+"url": "https://inria.hal.science/hal-03352656v1",
+"doi": "10.1145/3485114.3485117"
+},
+{
+"id": "p59138babff",
+"titre": "Fast ray tracing of scale-invariant integral surfaces",
+"annee": 2021,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-03169283v1",
+"doi": "10.1111/cgf.14208"
+},
+{
+"id": "pa5472157f8",
+"titre": "Importance Sampling of Glittering BSDFs based on Finite Mixture Distributions",
+"annee": 2021,
+"type": "conférence",
+"lieu": "Eurographics Symposium on Rendering",
+"url": "https://hal.science/hal-03402859v1",
+"doi": "10.2312/sr.20211289"
+},
+{
+"id": "p572a4978ab",
+"titre": "Random Auxetic Porous Materials from Parametric Growth Processes",
+"annee": 2021,
+"type": "journal",
+"lieu": "Computer-Aided Design",
+"url": "https://inria.hal.science/hal-02911788v3",
+"doi": "10.1016/j.cad.2021.103069"
+},
+{
+"id": "pff02cb97ea",
+"titre": "Real-Time Geometric Glint Anti-Aliasing with Normal Map Filtering",
+"annee": 2021,
+"type": "conférence",
+"lieu": "ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games, 20-22 avril 2021",
+"url": "https://hal.science/hal-03243968v1",
+"doi": "10.1145/3451257"
+},
+{
+"id": "p4062b897bb",
+"titre": "Restricted Power Diagrams on the GPU",
+"annee": 2021,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-03169575v1",
+"doi": "10.1111/cgf.142610"
+},
+{
+"id": "pdffd1fb71b",
+"titre": "3D Geological Image Synthesis From 2D Examples Using Generative Adversarial Networks",
+"annee": 2020,
+"type": "journal",
+"lieu": "Frontiers in Water",
+"url": "https://inria.hal.science/hal-02992194v1",
+"doi": "10.3389/frwa.2020.560598"
+},
+{
+"id": "p9198c7fcc2",
+"titre": "Anisotropic soft robots based on 3D printed meso-structured materials: design, modeling by homogenization and simulation",
+"annee": 2020,
+"type": "journal",
+"lieu": "IEEE Robotics and Automation Letters",
+"url": "https://inria.hal.science/hal-02475589v1",
+"doi": "10.1109/lra.2020.2969926"
+},
+{
+"id": "p337a3138e2",
+"titre": "DHFSlicer: Double Height-Field Slicing for Milling Fixed-Height Materials",
+"annee": 2020,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-02992003v1",
+"doi": "10.1145/3414685.3417810"
+},
+{
+"id": "pdf9240ef83",
+"titre": "Freely orientable microstructures for designing deformable 3D prints",
+"annee": 2020,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-02524371v3",
+"doi": "10.1145/3414685.3417790"
+},
+{
+"id": "pf28461dee0",
+"titre": "Planning Jerk-Optimized Trajectory With Discrete Time Constraints for Redundant Robots",
+"annee": 2020,
+"type": "journal",
+"lieu": "IEEE Transactions on Automation Science and Engineering",
+"url": "https://doi.org/10.1109/tase.2020.2974771",
+"doi": "10.1109/tase.2020.2974771"
+},
+{
+"id": "p7a97e8bc7c",
+"titre": "Procedural Physically-based BRDF for Real-Time Rendering of Glints",
+"annee": 2020,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-03235727v1",
+"doi": "10.1111/cgf.14141"
+},
+{
+"id": "pbfffccb87c",
+"titre": "Procedural band patterns",
+"annee": 2020,
+"type": "conférence",
+"lieu": "i3D",
+"url": "https://hal.science/hal-02457161v1",
+"doi": "10.1145/3384382.3384522"
+},
+{
+"id": "pcf8a8b16ed",
+"titre": "Variable-width contouring for additive manufacturing",
+"annee": 2020,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-02568677v2",
+"doi": "10.1145/3386569.3392448"
+},
+{
+"id": "pc878a0b665",
+"titre": "A microfacet-based BRDF for the accurate and efficient rendering of high-definition specular normal maps",
+"annee": 2019,
+"type": "journal",
+"lieu": "The Visual Computer",
+"url": "https://hal.science/hal-02157630v1",
+"doi": "10.1007/s00371-018-1606-7"
+},
+{
+"id": "p39e2da85af",
+"titre": "Anisotropic convolution surfaces",
+"annee": 2019,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://inria.hal.science/hal-02137325v1",
+"doi": "10.1016/j.cag.2019.05.018"
+},
+{
+"id": "p987a51ed93",
+"titre": "Colored fused filament fabrication",
+"annee": 2019,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-01660621v1",
+"doi": "10.1145/3183793"
+},
+{
+"id": "p5b818f69ed",
+"titre": "CurviSlicer: Slightly curved slicing for 3-axis printers",
+"annee": 2019,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-02120033v1",
+"doi": "10.1145/3306346.3323022"
+},
+{
+"id": "p3b3e9f5535",
+"titre": "Extrusion-Based Ceramics Printing with Strictly-Continuous Deposition",
+"annee": 2019,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-02363424v1",
+"doi": "10.1145/3355089.3356509"
+},
+{
+"id": "peb9dd84cff",
+"titre": "Glint Rendering based on a Multiple‐Scattering Patch BRDF",
+"annee": 2019,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-02364885v1",
+"doi": "10.1111/cgf.13767"
+},
+{
+"id": "p7505f01496",
+"titre": "Procedural Phasor Noise",
+"annee": 2019,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-02118508v1",
+"doi": "10.1145/3306346.3322990"
+},
+{
+"id": "p67fc30a14c",
+"titre": "Rethinking Texture Mapping",
+"annee": 2019,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.13656",
+"doi": "10.1111/cgf.13656"
+},
+{
+"id": "pc95c3801b7",
+"titre": "Ribbed support vaults for 3D printing of hollowed objects",
+"annee": 2019,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://hal.science/hal-02155929v1",
+"doi": "10.1111/cgf.13750"
+},
+{
+"id": "p663e859888",
+"titre": "Star-Shaped Metrics for Mechanical Metamaterial Design",
+"annee": 2019,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-02118846v1",
+"doi": "10.1145/3306346.3322989"
+},
+{
+"id": "p240e13235d",
+"titre": "Technical perspective: From virtual worlds to digital fabrication",
+"annee": 2019,
+"type": "journal",
+"lieu": "Communications of the ACM",
+"url": "https://doi.org/10.1145/3344806",
+"doi": "10.1145/3344806"
+},
+{
+"id": "p36ceab88d0",
+"titre": "Design for Additive Manufacturing",
+"annee": 2018,
+"type": "chapitre",
+"lieu": "Synthesis lectures on visual computing",
+"url": "https://doi.org/10.1007/978-3-031-02596-9_3",
+"doi": "10.1007/978-3-031-02596-9_3"
+},
+{
+"id": "p98a65a5743",
+"titre": "Design, Representations, and Processing for Additive Manufacturing",
+"annee": 2018,
+"type": "ouvrage",
+"lieu": "",
+"url": "https://inria.hal.science/hal-01836525v1"
+},
+{
+"id": "p17f9ebab18",
+"titre": "HCSG: Hashing for real-time CSG modeling",
+"annee": 2018,
+"type": "conférence",
+"lieu": "Proceedings of the ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games",
+"url": "https://inria.hal.science/hal-01792866v1",
+"doi": "10.1145/3203198"
+},
+{
+"id": "p2a96ab3231",
+"titre": "Introduction",
+"annee": 2018,
+"type": "chapitre",
+"lieu": "Synthesis lectures on visual computing",
+"url": "https://doi.org/10.1007/978-3-031-02596-9_1",
+"doi": "10.1007/978-3-031-02596-9_1"
+},
+{
+"id": "pee5f4dcb1c",
+"titre": "Iterative carving for self-supporting 3D printed cavities",
+"annee": 2018,
+"type": "conférence",
+"lieu": "Eurographics 2018 - Short Papers",
+"url": "https://inria.hal.science/hal-01764291v1"
+},
+{
+"id": "p8618af2e02",
+"titre": "Meshless Voronoi on the GPU",
+"annee": 2018,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-01927559v1",
+"doi": "10.1145/3272127.3275092"
+},
+{
+"id": "p6b74a3bd67",
+"titre": "Open Challenges",
+"annee": 2018,
+"type": "chapitre",
+"lieu": "Synthesis lectures on visual computing",
+"url": "https://doi.org/10.1007/978-3-031-02596-9_5",
+"doi": "10.1007/978-3-031-02596-9_5"
+},
+{
+"id": "p98001d1ee7",
+"titre": "Polyhedral Voronoi diagrams for additive manufacturing",
+"annee": 2018,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-01697103v2",
+"doi": "10.1145/3197517.3201343"
+},
+{
+"id": "p22322a5c7c",
+"titre": "Practices and Considerations for Additive Manufacturing",
+"annee": 2018,
+"type": "chapitre",
+"lieu": "Synthesis lectures on visual computing",
+"url": "https://doi.org/10.1007/978-3-031-02596-9_2",
+"doi": "10.1007/978-3-031-02596-9_2"
+},
+{
+"id": "p9615a9449d",
+"titre": "Process Planning",
+"annee": 2018,
+"type": "chapitre",
+"lieu": "Synthesis lectures on visual computing",
+"url": "https://doi.org/10.1007/978-3-031-02596-9_4",
+"doi": "10.1007/978-3-031-02596-9_4"
+},
+{
+"id": "p6b8ddb3a56",
+"titre": "Support-free volume printing by multi-axis motion",
+"annee": 2018,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-01887571v1",
+"doi": "10.1145/3197517.3201342"
+},
+{
+"id": "pfe0b04867e",
+"titre": "Tile-based Pattern Design with Topology Control",
+"annee": 2018,
+"type": "journal",
+"lieu": "Proceedings of the ACM on Computer Graphics and Interactive Techniques",
+"url": "https://inria.hal.science/hal-01811874v1",
+"doi": "10.1145/3203204"
+},
+{
+"id": "p49c36c3106",
+"titre": "Fabricable Tile Decors",
+"annee": 2017,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-01592098v1",
+"doi": "10.1145/3130800.3130817"
+},
+{
+"id": "p7f771c1ad8",
+"titre": "From 3D models to 3D prints: an overview of the processing pipeline",
+"annee": 2017,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-01518469v1",
+"doi": "10.1111/cgf.13147"
+},
+{
+"id": "p2396e37122",
+"titre": "Interactive paper tearing",
+"annee": 2017,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-01647113v1",
+"doi": "10.1111/cgf.13110"
+},
+{
+"id": "p231003b7dc",
+"titre": "Optimal discrete slicing",
+"annee": 2017,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-01660773v1",
+"doi": "10.1145/2999536"
+},
+{
+"id": "p2ddb3285c1",
+"titre": "Orthotropic k-nearest foams for additive manufacturing",
+"annee": 2017,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-01577859v1",
+"doi": "10.1145/3072959.3073638"
+},
+{
+"id": "p58f5292ff1",
+"titre": "VISUALIZING AND SLICING COMPLEX STRUCTURES FOR ADDITIVE MANUFACTURING",
+"annee": 2017,
+"type": "journal",
+"lieu": "Scientific Visualization",
+"url": "https://doi.org/10.26583/sv.9.5.06",
+"doi": "10.26583/sv.9.5.06"
+},
+{
+"id": "p31f39a30da",
+"titre": "Anti-aliasing for fused filament deposition",
+"annee": 2016,
+"type": "journal",
+"lieu": "Computer-Aided Design",
+"url": "https://inria.hal.science/hal-01400686v2",
+"doi": "10.1016/j.cad.2017.04.001"
+},
+{
+"id": "p899574ebe4",
+"titre": "Improved Surface Quality in 3D Printing by Optimizing the Printing Direction",
+"annee": 2016,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-01997599v1"
+},
+{
+"id": "pfaf7127f8f",
+"titre": "Interactive Modeling of Support-free Shapes for Fabrication",
+"annee": 2016,
+"type": "conférence",
+"lieu": "EUROGRAPHICS",
+"url": "https://inria.hal.science/hal-01401470v1"
+},
+{
+"id": "p541ea31982",
+"titre": "Procedural Voronoi Foams for Additive Manufacturing",
+"annee": 2016,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-01393741v1",
+"doi": "10.1145/2897824.2925922"
+},
+{
+"id": "p49dc941143",
+"titre": "Synthesis of Filigrees for Digital Fabrication",
+"annee": 2016,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-01401520v1",
+"doi": "10.1145/2897824.2925911"
+},
+{
+"id": "p23094740d8",
+"titre": "Tight printable enclosures and support structures for additive manufacturing",
+"annee": 2016,
+"type": "conférence",
+"lieu": "Eurographics Workshop on Graphics for Digital Fabrication",
+"url": "https://inria.hal.science/hal-01399931v1"
+},
+{
+"id": "p3eda964083",
+"titre": "Towards Zero-Waste Furniture Design",
+"annee": 2016,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://doi.org/10.1109/tvcg.2016.2633519",
+"doi": "10.1109/tvcg.2016.2633519"
+},
+{
+"id": "p2ba2ac694c",
+"titre": "3D Fabrication of 2D Mechanisms",
+"annee": 2015,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-01240344v1",
+"doi": "10.1111/cgf.12555"
+},
+{
+"id": "p25b5891245",
+"titre": "Animation interactive de papier froissé",
+"annee": 2015,
+"type": "conférence",
+"lieu": "Journées du Groupe de Travail de Modélisation Géométrique",
+"url": "https://hal.science/hal-01146948v1"
+},
+{
+"id": "p7dcb43e55d",
+"titre": "By-example synthesis of structurally sound patterns",
+"annee": 2015,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-01240392v1",
+"doi": "10.1145/2766984"
+},
+{
+"id": "pc666706782",
+"titre": "Chained segment offsetting for ray-based solid representations",
+"annee": 2015,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://inria.hal.science/hal-01080614v1",
+"doi": "10.1016/j.cag.2014.09.017"
+},
+{
+"id": "pe865ff1d5a",
+"titre": "Interactive procedural simulation of paper tearing with sound",
+"annee": 2015,
+"type": "conférence",
+"lieu": "8th ACM SIGGRAPH Conference on Motion in Games, MIG '15",
+"url": "https://inria.hal.science/hal-01206764v1",
+"doi": "10.1145/2822013.2822029"
+},
+{
+"id": "p933f93376f",
+"titre": "Interactively animating crumpling paper",
+"annee": 2015,
+"type": "conférence",
+"lieu": "womEncourage 2015",
+"url": "https://inria.hal.science/hal-01146700v1"
+},
+{
+"id": "p9e330583a7",
+"titre": "N-ary implicit blends with topology control",
+"annee": 2015,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://inria.hal.science/hal-01073088v1",
+"doi": "10.1016/j.cag.2014.09.012"
+},
+{
+"id": "p8a1c0cb21e",
+"titre": "Non-smooth developable geometry for interactively animating paper crumpling",
+"annee": 2015,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-01202571v1",
+"doi": "10.1145/2829948"
+},
+{
+"id": "pca8f7bdcdf",
+"titre": "Structure and appearance optimization for controllable shape design",
+"annee": 2015,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-01240642v1",
+"doi": "10.1145/2816795.2818101"
+},
+{
+"id": "p11f6be1246",
+"titre": "Bridges between multiple-point geostatistics and texture synthesis: Review and guidelines for future research",
+"annee": 2014,
+"type": "journal",
+"lieu": "Computers & Geosciences",
+"url": "https://doi.org/10.1016/j.cageo.2014.01.001",
+"doi": "10.1016/j.cageo.2014.01.001"
+},
+{
+"id": "p496cd091df",
+"titre": "Bridging the gap",
+"annee": 2014,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://doi.org/10.1145/2601097.2601153",
+"doi": "10.1145/2601097.2601153"
+},
+{
+"id": "p2abe8cf555",
+"titre": "Clean Colors",
+"annee": 2014,
+"type": "conférence",
+"lieu": "Eurographics 2014",
+"url": "https://inria.hal.science/hal-00927291v1"
+},
+{
+"id": "pefa1a792f5",
+"titre": "Clean color: Improving multi‐filament 3D prints",
+"annee": 2014,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.12318",
+"doi": "10.1111/cgf.12318"
+},
+{
+"id": "p69fa658968",
+"titre": "Des logiciels pour l’impression 3D",
+"annee": 2014,
+"type": "journal",
+"lieu": "Interstices",
+"url": "https://inria.hal.science/hal-01350215v1"
+},
+{
+"id": "p6fcf0dc54d",
+"titre": "Game Level Layout from Design Specification",
+"annee": 2014,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-00927311v1",
+"doi": "10.1111/cgf.12314"
+},
+{
+"id": "p7f97b66fe4",
+"titre": "Per-Pixel Lists for Single Pass A-Buffer",
+"annee": 2014,
+"type": "chapitre",
+"lieu": "GPU Pro 5: Advanced Rendering Techniques",
+"url": "https://inria.hal.science/hal-01093158v1"
+},
+{
+"id": "p108f2b57d1",
+"titre": "Topology-constrained Synthesis of Vector Patterns",
+"annee": 2014,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-01277569v1",
+"doi": "10.1145/2661229.2661238"
+},
+{
+"id": "pcbdfc63f1e",
+"titre": "By–example synthesis of curvilinear structured patterns",
+"annee": 2013,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://doi.org/10.1111/cgf.12055",
+"doi": "10.1111/cgf.12055"
+},
+{
+"id": "pfdea2a348c",
+"titre": "Dynamic Element Textures",
+"annee": 2013,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-00926846v1",
+"doi": "10.1145/2461912.2461921"
+},
+{
+"id": "p8abc66486d",
+"titre": "IceSL: A GPU Accelerated CSG Modeler and Slicer",
+"annee": 2013,
+"type": "conférence",
+"lieu": "AEFA'13, 18th European Forum on Additive Manufacturing",
+"url": "https://inria.hal.science/hal-00926861v1"
+},
+{
+"id": "p44d1c76eba",
+"titre": "Make It Stand: Balancing Shapes for 3D Fabrication",
+"annee": 2013,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/hal-00926855v1",
+"doi": "10.1145/2461912.2461957"
+},
+{
+"id": "pc79ace6f72",
+"titre": "Parallel Patch-based Texture Synthesis",
+"annee": 2013,
+"type": "conférence",
+"lieu": "Eurographics/ ACM SIGGRAPH Symposium on High Performance Graphics",
+"url": "https://inria.hal.science/hal-00748535v1",
+"doi": "10.2312/eggh/hpg12/115-124"
+},
+{
+"id": "p4adac46595",
+"titre": "SCALe-invariant Integral Surfaces",
+"annee": 2013,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-00863523v2",
+"doi": "10.1111/cgf.12199"
+},
+{
+"id": "p28f324f052",
+"titre": "Surfaces Implicites Homothétiques",
+"annee": 2013,
+"type": "journal",
+"lieu": "Revue Electronique Francophone d'Informatique Graphique",
+"url": "https://inria.hal.science/hal-00766335v1"
+},
+{
+"id": "pfe0817bb83",
+"titre": "A Runtime Cache for Interactive Procedural Modeling",
+"annee": 2012,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://inria.hal.science/hal-00748542v1",
+"doi": "10.1016/j.cag.2012.03.031"
+},
+{
+"id": "p5010604127",
+"titre": "Gabor Noise by Example",
+"annee": 2012,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://hal.science/hal-00695670v1",
+"doi": "10.1145/2185520.2185569"
+},
+{
+"id": "p91605656b5",
+"titre": "Geometric Details on Skeleton-based Implicit Surfaces",
+"annee": 2012,
+"type": "conférence",
+"lieu": "Eurographics 2012 - 33rd Annual Conference of the European Association for Computer Graphics",
+"url": "https://inria.hal.science/hal-00694504v1",
+"doi": "10.2312/conf/eg2012/short/049-052"
+},
+{
+"id": "p59d611b20f",
+"titre": "Procedural texture preview",
+"annee": 2012,
+"type": "journal",
+"lieu": "Computer Graphics Forum",
+"url": "https://inria.hal.science/hal-00748521v1",
+"doi": "10.1111/j.1467-8659.2012.03020.x"
+},
+{
+"id": "p125b7c0f9a",
+"titre": "Scented Sliders for Procedural Textures",
+"annee": 2012,
+"type": "conférence",
+"lieu": "EUROGRAPHICS short papers",
+"url": "https://inria.hal.science/hal-00748188v1"
+},
+{
+"id": "p06db7edd7d",
+"titre": "Assisted Texture Assignment",
+"annee": 2011,
+"type": "conférence",
+"lieu": "ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games - I3D 2011",
+"url": "https://inria.hal.science/inria-00547769v1"
+},
+{
+"id": "p87cb55c5f6",
+"titre": "Coherent Parallel Hashing",
+"annee": 2011,
+"type": "journal",
+"lieu": "ACM Transactions on Graphics",
+"url": "https://inria.hal.science/inria-00624777v1",
+"doi": "10.1145/2070781.2024195"
+},
+{
+"id": "p85ce8b3bb2",
+"titre": "Improving Gabor Noise",
+"annee": 2011,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/hal-01062522v1",
+"doi": "10.1109/tvcg.2010.238"
+},
+{
+"id": "pf22ce86c21",
+"titre": "Relighting Photographs of Tree Canopies",
+"annee": 2011,
+"type": "journal",
+"lieu": "IEEE Transactions on Visualization and Computer Graphics",
+"url": "https://inria.hal.science/inria-00607042v1",
+"doi": "10.1109/tvcg.2010.236"
+},
+{
+"id": "p135e4ea19f",
+"titre": "Warp-based Helical Implicit Primitives",
+"annee": 2011,
+"type": "journal",
+"lieu": "Computers and Graphics",
+"url": "https://inria.hal.science/inria-00605339v1",
+"doi": "10.1016/j.cag.2011.03.027"
+}
+]
+}

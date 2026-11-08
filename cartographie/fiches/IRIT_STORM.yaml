@@ -1,0 +1,80 @@
+equipe: IRIT/STORM
+domaines:
+  principaux:
+  - rendu
+  - geometrie
+  secondaires:
+  - modelisation
+  - animation
+themes:
+- id: echantillonnage
+  phrase: Séquences à faible discrépance (Sobol', brouillage d'Owen différentiable) et échantillonnage optimisé pour l'intégration
+    quasi-Monte-Carlo.
+  preuves:
+  - p849f91c022
+  - pd453cf03c7
+  - pbe2eea2c1f
+- id: transport_optimal
+  phrase: Algorithmes rapides de transport optimal (plans creux, flots rectifiés, transport tranché) pour le graphique et
+    la vision.
+  preuves:
+  - pac95b69b08
+  - p91aee3535d
+  - p53594e16e7
+- id: rendu_physique
+  phrase: Méthodes de Monte-Carlo en espace des chemins couplant lumière et transferts thermiques, et rendu inverse différentiable.
+  preuves:
+  - pf2674de03f
+  - pbd637e5729
+  - p2a9937d329
+- id: nuages_points
+  phrase: Estimateurs différentiels et détection d'arêtes rapides et robustes sur nuages de points.
+  preuves:
+  - p9379a0e2b4
+  - p5ba43c3592
+  - p7cedafa1cb
+- id: surfaces_implicites
+  phrase: Champs de distance signés à base de primitives, simplification hiérarchique et champs implicites pour le skinning
+    et les liquides.
+  preuves:
+  - pdbc6146fa5
+  - p8cc06c3eeb
+  - p32d4d743f6
+- id: animation_expressive
+  phrase: Intervalles automatiques pour l'animation picturale à base de traits et stylisation d'animations de liquides.
+  preuves:
+  - p8ee80c4dcf
+  - p7412ffc717
+  - p81b1ea8c08
+applications:
+- id: cinema_vfx
+  preuves:
+  - pd453cf03c7
+  - p8ee80c4dcf
+  - p8cc06c3eeb
+- id: environnement
+  preuves:
+  - p3a52eaf503
+  - p2a9937d329
+  - pfbcf03c069
+- id: sante
+  preuves:
+  - p7cd3a915eb
+  - p48b4e19d54
+  - paed16ac029
+- id: patrimoine
+  preuves:
+  - pd29523f97b
+  - p5112bfbb69
+  - p67240bba33
+publications_representatives:
+- pdbc6146fa5
+- pf2674de03f
+- p8ee80c4dcf
+- p53594e16e7
+- p199073ac27
+synthese: Rendu physiquement réaliste et échantillonnage, transport optimal, analyse de nuages de points et de surfaces implicites,
+  outils d'animation stylisée.
+pour_etudiants: On y calcule des images réalistes, on analyse des formes 3D et on invente des outils pour l'animation stylisée.
+pour_entreprises: Rendu et simulation Monte-Carlo (lumière, chaleur, climat), traitement de nuages de points lidar et outils
+  d'animation 2D/3D.

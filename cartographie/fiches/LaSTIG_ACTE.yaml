@@ -1,0 +1,81 @@
+equipe: LaSTIG/ACTE
+domaines:
+  principaux:
+  - capture
+  - geometrie
+  secondaires:
+  - rendu
+  - ia
+themes:
+- id: photogrammetrie_lidar
+  phrase: Chaînes de photogrammétrie ouvertes (images aériennes, satellitaires, de drone et historiques) et traitement de
+    lidar aérien et mobile pour la cartographie 3D à grande échelle.
+  preuves:
+  - p0e6d3e611c
+  - p633218277a
+  - p1ceabdc9f1
+- id: reconstruction_surfaces
+  phrase: Reconstruction de surfaces étanches à partir de nuages de points massifs, distribuée ou par réseaux de neurones
+    sur graphes de Delaunay, et évaluation sur données réelles.
+  preuves:
+  - pfae476a030
+  - p7715883016
+  - pcda80afc09
+- id: modeles_urbains
+  phrase: Reconstruction de bâtiments en LoD2 à partir de lidar aérien et d'emprises, mise à jour des maquettes urbaines par
+    détection de changements.
+  preuves:
+  - pba7899516a
+  - p9daafc7bdf
+  - pc8fa56e5c1
+- id: rendu_neuronal
+  phrase: Champs de radiance neuronaux pour images satellitaires (réflectance BRDF, vues éparses) et apprentissage efficace
+    de nombreuses scènes en espace latent.
+  preuves:
+  - p5da079cefe
+  - pef866bbe37
+  - p5b35e9437d
+- id: nuages_points
+  phrase: Recherche et reconnaissance de lieux dans de grands nuages de points et régularisation de leur étiquetage sémantique.
+  preuves:
+  - p2a307f537e
+  - p43855393e0
+  - p30c98fae5b
+- id: maillages
+  phrase: Simplification de maillages préservant la sémantique, édition robuste de polyèdres et triangulations de Delaunay
+    distribuées.
+  preuves:
+  - p1e2970d807
+  - pb41d563806
+  - peefbfd050b
+applications:
+- id: geographie
+  preuves:
+  - paaacbc551d
+  - p4ae66e9a3c
+  - pc8fa56e5c1
+- id: architecture_urbain
+  preuves:
+  - pba7899516a
+  - p62670718fe
+  - p81adeafd0f
+- id: patrimoine
+  preuves:
+  - p7a1cd6efaa
+  - p95a3894575
+  - pd569e630b0
+- id: environnement
+  preuves:
+  - p4db6855bfb
+  - p8c25143a4b
+  - pa358b95ea7
+publications_representatives:
+- p5b35e9437d
+- pba7899516a
+- p7a1cd6efaa
+- p1ceabdc9f1
+- p7d8dabd21a
+synthese: Photogrammétrie et lidar pour la reconstruction de modèles 3D de villes, de paysages et de monuments.
+pour_etudiants: On y transforme des photos et des relevés laser en modèles 3D de villes, de paysages et de monuments.
+pour_entreprises: Photogrammétrie et lidar à grande échelle, reconstruction 3D de bâtiments et de surfaces, mise à jour de
+  maquettes urbaines et relevés patrimoniaux.

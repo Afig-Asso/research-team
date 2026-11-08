@@ -1,0 +1,79 @@
+equipe: LIX/GeomeriX
+domaines:
+  principaux:
+  - geometrie
+  - animation
+  secondaires:
+  - ia
+  - capture
+themes:
+- id: correspondances
+  phrase: Cartes fonctionnelles et méthodes spectrales pour la mise en correspondance non rigide de formes, y compris à grande
+    échelle.
+  preuves:
+  - p9585ed9cb9
+  - p74186696f0
+  - p85d5963fac
+- id: simulation_fluides
+  phrase: Simulation cinétique (Boltzmann sur réseau) d'écoulements turbulents, multiphasiques et couplés aux solides ou au
+    sable.
+  preuves:
+  - p3f04b4b1c1
+  - p4e95045cc2
+  - p5430c9d610
+- id: deformation_formes
+  phrase: Déformation de formes par cages et coordonnées généralisées (biharmoniques, de Somigliana issues de l'élasticité),
+    et déformations préservant les détails.
+  preuves:
+  - p05af8f5095
+  - pc577761acb
+  - p5b7c93f739
+- id: apprentissage_geometrique
+  phrase: Apprentissage sur surfaces indépendant de la discrétisation, champs neuronaux sur surfaces et représentations de
+    maillages apprises.
+  preuves:
+  - pf0662f418b
+  - p3ba29f3c88
+  - pfa236a714d
+- id: reconstruction_surfaces
+  phrase: Reconstruction de surfaces par boules de Voronoï, Gaussian splatting couplé au maillage et super-résolution de champs
+    de distance.
+  preuves:
+  - p9a910fb9d2
+  - p13fbb18f58
+  - p711920aa4f
+- id: geometrie_discrete
+  phrase: 'Opérateurs discrets et solveurs rapides : torsion de connexions, coordonnées barycentriques et biharmoniques, méthodes
+    d''éléments de frontière.'
+  preuves:
+  - p7383b4323c
+  - pc577761acb
+  - pea8e8ebc30
+applications:
+- id: biologie
+  preuves:
+  - p46248ca5cc
+  - p595d88e856
+  - pba035884a3
+- id: sante
+  preuves:
+  - p8634c9984f
+  - pd0daa0be36
+  - pfb45d9620b
+- id: cinema_vfx
+  preuves:
+  - p800fca680f
+  - pc06a3979b1
+  - pbd112acf48
+publications_representatives:
+- p9a910fb9d2
+- p3f04b4b1c1
+- p7383b4323c
+- p9585ed9cb9
+- pf0662f418b
+synthese: Analyse et correspondance de formes 3D, déformation et reconstruction, apprentissage géométrique et simulation de
+  fluides.
+pour_etudiants: On y invente des outils mathématiques pour comparer, reconstruire et déformer des formes 3D, et pour simuler
+  fumée, eau et tornades.
+pour_entreprises: Mise en correspondance et reconstruction de formes 3D, simulation rapide de fluides turbulents et multiphasiques,
+  apprentissage sur données 3D (protéines, cerveau).

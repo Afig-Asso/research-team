@@ -1,0 +1,76 @@
+equipe: LaBRI/Manao
+domaines:
+  principaux:
+  - rendu
+  - images
+  secondaires:
+  - capture
+  - animation
+themes:
+- id: materiaux_brdf
+  phrase: Modèles de réflectance à micrograins, hybrides neuronaux et iridescents, jusqu'à l'apparence de métasurfaces nanostructurées.
+  preuves:
+  - pafcfce4f57
+  - p76893d1f78
+  - pcca11d7a4d
+- id: optique_numerique
+  phrase: Apparence visuelle des métasurfaces désordonnées et couleurs structurelles (miroirs de Bragg, nanostructures plasmoniques),
+    entre optique et rendu.
+  preuves:
+  - p867bf23625
+  - p67bc043e2d
+  - pf4f54c96db
+- id: acquisition_apparence
+  phrase: Conception d'instruments de mesure de SVBRDF et BSSRDF, du gonio-scatteromètre spectral au dispositif portable pour
+    objets non plans.
+  preuves:
+  - p2c001eb56d
+  - pd6720ca8c2
+  - p6e4fdbac85
+- id: rendu_expressif
+  phrase: Extraction exacte de contours occultants et stylisation de scènes 3D à l'étape de composition.
+  preuves:
+  - pc5d9c5a19a
+  - p6e4780293f
+  - pedf53bce13
+- id: animation_expressive
+  phrase: Exagération stylisée du mouvement (smears) et interpolation de dessins d'animation 2D approximatifs.
+  preuves:
+  - pe3514169d0
+  - p368276e8d5
+  - p4b0ddfa4e0
+- id: rendu_physique
+  phrase: Rendu spectral et rendu de matériaux fluorescents dans des moteurs non spectraux.
+  preuves:
+  - p038cddec8a
+  - p2941e26f8a
+  - pfc60fb566e
+applications:
+- id: cinema_vfx
+  preuves:
+  - pe3514169d0
+  - p368276e8d5
+  - pddd047c950
+- id: patrimoine
+  preuves:
+  - pf6c97ce5fa
+  - p34eda0f216
+  - pf1b5af06bf
+  - pecbb858ceb
+- id: jeu_video
+  preuves:
+  - p76893d1f78
+  - pdec2e0ea05
+  - p6e4780293f
+publications_representatives:
+- p038cddec8a
+- pced90647ad
+- pc5d9c5a19a
+- pe3514169d0
+- p2c001eb56d
+synthese: 'Apparence des matériaux : interaction lumière-matière, optique numérique, mesure et rendu de l''apparence, rendu
+  et animation stylisés, perception.'
+pour_etudiants: On étudie comment la lumière interagit avec la matière pour mesurer, simuler et styliser l'apparence des objets,
+  et comment notre cerveau la perçoit.
+pour_entreprises: Mesure et modélisation de l'apparence de matériaux, rendu spectral fidèle, outils de stylisation pour l'animation
+  3D et 2D.

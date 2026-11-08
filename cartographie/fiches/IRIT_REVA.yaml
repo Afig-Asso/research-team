@@ -1,0 +1,82 @@
+equipe: IRIT/REVA
+domaines:
+  principaux:
+  - capture
+  secondaires:
+  - rendu
+  - rv
+  - geometrie
+themes:
+- id: reconstruction_surfaces
+  phrase: Reconstruction 3D fine par stéréophotométrie, intégration de normales et stéréo multi-vues, y compris en milieu
+    réfractant ou sous éclairage proche.
+  preuves:
+  - pdea0fbd791
+  - p99292bca58
+  - p2eef3b6cea
+- id: photogrammetrie_lidar
+  phrase: Chaîne de photogrammétrie libre AliceVision Meshroom et numérisation 3D de sites et d'objets du patrimoine (grotte
+    Chauvet, statuaire).
+  preuves:
+  - pdfe3df0511
+  - p625c1a5468
+  - paa35dfd6c9
+- id: acquisition_apparence
+  phrase: Estimation variationnelle de la réflectance à partir d'images multi-vues, apprentissage de la BRDF de surfaces lunaires.
+  preuves:
+  - pe0aadd3cd9
+  - pe189baf65b
+  - p9cf7188c3a
+- id: rendu_neuronal
+  phrase: Gaussian splatting et NeRF à qualité locale adaptée aux objets d'intérêt, diffusion progressive et inspection en
+    réalité étendue.
+  preuves:
+  - pe666b1a175
+  - pe8b74ecda0
+  - pc351dd558a
+- id: formation_rv
+  phrase: Environnements immersifs de formation (gestion de crise, bloc opératoire, ingénierie mécanique) et scénarisation
+    depuis l'environnement virtuel.
+  preuves:
+  - p217b2d95fb
+  - pc547eb5498
+  - p3837b7c4ca
+- id: squelettes
+  phrase: Squelettisation robuste, objets volumiques paramétriques tubulaires et mesures de saillance pour la décomposition
+    de formes 3D.
+  preuves:
+  - pa36d964cca
+  - p218cdf4ba8
+  - p5153e1ff8c
+- id: capture_4d
+  phrase: 'Vidéo volumétrique : acquisition, compression par représentations neuronales et diffusion adaptative.'
+  preuves:
+  - pe53079ef80
+  - p60ee3f0bf7
+applications:
+- id: patrimoine
+  preuves:
+  - pa1dd12e476
+  - pf93c30d308
+  - p625c1a5468
+- id: education
+  preuves:
+  - pc547eb5498
+  - p40d8d21b36
+  - p3837b7c4ca
+- id: sante
+  preuves:
+  - p304380fa12
+  - pf172253665
+publications_representatives:
+- pdea0fbd791
+- p99292bca58
+- pdfe3df0511
+- p625c1a5468
+- pc547eb5498
+synthese: Reconstruction 3D photométrique et multi-vues, numérisation du patrimoine, rendu neuronal et vidéo volumétrique,
+  environnements immersifs de formation.
+pour_etudiants: On y reconstruit des objets et des sites en 3D à partir de photos (grottes ornées, statues, surface de la
+  Lune) et on crée des simulateurs de formation en réalité virtuelle.
+pour_entreprises: Numérisation 3D fine et logiciel libre de photogrammétrie, reconstruction et rendu d'objets d'intérêt, simulateurs
+  immersifs de formation (gestion de crise, ingénierie).
