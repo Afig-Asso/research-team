@@ -4,7 +4,11 @@
   - Envoyez un email à contact[at]asso-afig.fr avec vos informations
   - Ou faites un push-request sur le dépot.
 
-Cartographie « qui fait quoi » : https://afig-asso.github.io/research-team/ (voir CARTOGRAPHIE.md)
+Page « Qui fait quoi en informatique graphique ? » : https://afig-asso.github.io/research-team/ (voir CARTOGRAPHIE.md)
+
+Voir aussi :
+  - Entreprises en informatique graphique : https://afig-asso.github.io/entreprises/ (dépôt [Afig-Asso/entreprises](https://github.com/Afig-Asso/entreprises))
+  - Carte de France des équipes et des entreprises : https://afig-asso.github.io/cartographie/ (dépôt [Afig-Asso/cartographie](https://github.com/Afig-Asso/cartographie))
 
 Rem. Le fichier README.md est généré automatiquement à partir du fichier data.yaml. Ne pas modifier directement le fichier README.md.
 

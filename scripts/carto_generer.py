@@ -286,6 +286,11 @@ header{max-width:none;background:var(--hdr);color:var(--hdr-ink);padding:20px ma
 header h1 b{color:var(--brand);font-weight:inherit}
 header .sub{color:var(--hdr-muted)}
 header .nav a{color:var(--brand)}header .nav a:hover{text-decoration:underline}
+/* barre commune aux pages AFIG (équipes, entreprises, carte) */
+.sites{display:flex;flex-wrap:wrap;align-items:center;gap:4px 16px;font-size:13px;margin:0 0 12px}
+.sites a{color:var(--hdr-muted);text-decoration:none}.sites a:hover{color:var(--hdr-ink);text-decoration:underline}
+.sites a[aria-current]{color:var(--hdr-ink);font-weight:600}
+.sites .afig{font-weight:800;color:var(--brand)}.sites .gh{margin-left:auto}
 h1{font-size:24px;margin:0 0 4px} h2{font-size:19px;margin:28px 0 6px} h3{font-size:16px;margin:0 0 4px}
 .sub{color:var(--muted);margin:0 0 12px}
 .banner{background:var(--warn-bg);color:var(--warn);border-radius:8px;padding:8px 12px;font-size:13px;margin:8px 0 4px}
@@ -519,6 +524,7 @@ header .banner{background:color-mix(in srgb,var(--brand) 12%,transparent);color:
 </head>
 <body>
 <header>
+ <nav class="sites" aria-label="Pages de l'AFIG"><a class="afig" href="https://www.asso-afig.fr/" target="_blank" rel="noopener">AFIG</a><a href="https://afig-asso.github.io/research-team/" aria-current="page">Équipes de recherche</a><a href="https://afig-asso.github.io/entreprises/">Entreprises</a><a href="https://afig-asso.github.io/cartographie/">Carte de France</a><a class="gh" href="https://github.com/Afig-Asso/research-team">GitHub</a></nav>
  <h1>Qui fait quoi en <b>informatique graphique</b> ?</h1>
  <p class="sub">Équipes de recherche françaises en informatique graphique : thèmes de recherche et secteurs d'application.</p>
  <nav class="nav"><a href="#annuaire">Équipes</a><a href="#carte-s">Carte</a><a href="#themes">Thèmes</a><a href="#secteurs">Secteurs d'application</a></nav>
@@ -554,7 +560,8 @@ header .banner{background:color-mix(in srgb,var(--brand) 12%,transparent);color:
  </section>
 </main>
 <dialog id="dlg"><div class="dlg" id="dlg-c"></div></dialog>
-<footer>AFIG — Association Française d'Informatique Graphique. Données : annuaire des équipes, HAL, OpenAlex. Fiches générées automatiquement.</footer>
+<footer>AFIG — Association Française d'Informatique Graphique. Données : annuaire des équipes, HAL, OpenAlex. Fiches générées automatiquement.
+ Voir aussi : <a href="https://afig-asso.github.io/entreprises/">entreprises en informatique graphique</a> · <a href="https://afig-asso.github.io/cartographie/">carte de France des équipes et des entreprises</a> · dépôts GitHub <a href="https://github.com/Afig-Asso/research-team">research-team</a>, <a href="https://github.com/Afig-Asso/entreprises">entreprises</a>, <a href="https://github.com/Afig-Asso/cartographie">cartographie</a>.</footer>
 <script>
 const VOC=__VOC__, EQ=__EQ__;
 const D=Object.fromEntries(VOC.domaines.map(x=>[x.id,x])), T=Object.fromEntries(VOC.themes.map(x=>[x.id,x])), A=Object.fromEntries(VOC.applications.map(x=>[x.id,x]));

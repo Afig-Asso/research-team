@@ -2,6 +2,10 @@
 
 Page : https://afig-asso.github.io/research-team/
 
+Voir aussi : [entreprises en informatique graphique](https://afig-asso.github.io/entreprises/)
+([dépôt](https://github.com/Afig-Asso/entreprises)) et [carte de France des équipes et des entreprises](https://afig-asso.github.io/cartographie/)
+([dépôt](https://github.com/Afig-Asso/cartographie)).
+
 La page présente les équipes de recherche françaises en informatique graphique : un annuaire (repris de
 `data.yaml`), puis deux tableaux croisés thèmes × équipes et secteurs d'application × équipes, et une fiche par équipe.
 Elle est régénérée automatiquement à chaque modification du dépôt (`.github/workflows/cartographie.yml`).
