@@ -327,31 +327,6 @@ Inria:
       Ville: Saclay
       Coordonnées: [48.7124, 2.1671]
       Thèmes: Visualisation d'information, analyse progressive de données, physicalisation, perception et décision, méthodologie de la visualisation.
-LICIIS:
-  Nom: Laboratoire d'informatique en Calcul Intensif et Image pour la Simulation.
-  Ville: Reims
-  Coordonnées: [49.2427, 4.0654]
-  URL: https://www.univ-reims.fr/universite/laboratoire-d-informatique-en-calcul-intensif-et-image-pour-la-simulation-liciis-ur-3690-lrc-digit,7741,18258.html
-  Correspondant: Stéphanie Prévost
-  Thèmes: Reconstruction 3D/4D, visualisation scientifique, rendu, imagerie multi-vues, interaction, réalité virtuelle
-LISN:
-  Nom: Laboratoire Interdisciplinaire des Sciences du Numérique
-  Ville: Orsay
-  Coordonnées: [48.7064, 2.1767]
-  URL: https://www.lisn.upsaclay.fr/
-  UMR: 9015
-  Equipes:
-    VENISE:
-      Nom: Virtual & Augmented ENvironments for Simulation & Experiments
-      URL: https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/interaction-avec-lhumain/virtual-augmented-environments-for-simulation-experiments-venise/
-      Thèmes: Réalité virtuelle et augmentée, interaction 3D, immersion collaborative, réalité mixte pour le patrimoine, XR pour la modélisation moléculaire
-    ILDA:
-      Nom: Interacting with Large DAta
-      URL: https://ilda.saclay.inria.fr/
-      Ville: Gif-sur-Yvette
-      Coordonnées: [48.7124, 2.1671]
-      Thèmes: Visualisation de grandes données, murs d'écrans, réalité mixte (RA à RV), interaction gestuelle et tangible, données spatio-temporelles
-      Inria: null
 IBISC:
   Nom: Informatique, Bio-informatique et Systèmes Complexes
   Ville: Évry-Courcouronnes
@@ -362,12 +337,6 @@ IBISC:
       Nom: Interaction, Réalité virtuelle & Augmentée, Robotique Ambiante
       URL: https://www.ibisc.univ-evry.fr/equipe/ira2/
       Thèmes: Réalité virtuelle et augmentée, interaction 3D multimodale, suivi 3D, téléopération, simulateurs immersifs (santé, industrie)
-CAOR:
-  Nom: Centre de Robotique, Mines Paris – PSL
-  Ville: Paris
-  Coordonnées: [48.8456, 2.3397]
-  URL: https://www.caor.minesparis.psl.eu/
-  Thèmes: Nuages de points 3D et modélisation (cartographie mobile Lidar, segmentation sémantique de scènes 3D, reconstruction), réalité virtuelle et augmentée
 Lab-STICC:
   Nom: Laboratoire des Sciences et Techniques de l'Information, de la Communication et de la Connaissance
   Ville: Brest
@@ -379,12 +348,6 @@ Lab-STICC:
       Nom: Immersive Natural User Interaction Team
       URL: https://labsticc.fr/fr/equipes/inuit/
       Thèmes: Réalité virtuelle et augmentée, interaction 3D et tangible, collaboration en réalité mixte, visualisation immersive
-LISPEN:
-  Nom: Laboratoire d'Ingénierie des Systèmes Physiques Et Numériques (Arts et Métiers, site de Chalon-sur-Saône)
-  Ville: Chalon-sur-Saône
-  Coordonnées: [46.7762, 4.846]
-  URL: https://lispen.artsetmetiers.fr/index.php/node/19
-  Thèmes: Réalité virtuelle et augmentée, interaction immersive collaborative, environnements virtuels, avatars, ingénierie numérique
 LAMPA:
   Nom: Laboratoire Angevin de Mécanique, Procédés et innovAtion (Arts et Métiers, EA 1427)
   Ville: Laval
@@ -410,16 +373,6 @@ LS2N:
       Nom: Perception, Action, Cognition pour la Conception et l'Ergonomie
       URL: https://www.ls2n.fr/equipes/pacce-perception-action-cognition-pour-la-conception-et-lergonomie/
       Thèmes: Réalité virtuelle et augmentée, avatars et incarnation, ergonomie cognitive, collaboration en environnement virtuel
-b<>com:
-  Nom: Institut de Recherche Technologique b<>com
-  Ville: Cesson-Sévigné
-  Coordonnées: [48.1362, -1.6233]
-  URL: https://b-com.com/
-  Equipes:
-    Images & vision:
-      Nom: Axe de R&I Images & vision (image, vision et interaction)
-      URL: https://b-com.com/nous-connaitre/nos-axes-r-i/images-et-vision
-      Thèmes: Holographie numérique temps réel, vidéo volumétrique et Gaussian splatting, réalité augmentée et mixte industrielle, qualité perçue des contenus immersifs
 LAMA:
   Nom: Laboratoire de Mathématiques de l'Université Savoie Mont Blanc
   Ville: Le Bourget-du-Lac

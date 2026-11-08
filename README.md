@@ -15,25 +15,21 @@ Rem. Le fichier README.md est généré automatiquement à partir du fichier dat
 
 ## Résumé 
 
-- [**CAOR**](https://www.caor.minesparis.psl.eu/) (Paris) 
 - [**CRIStAL**](https://cristal.univ-lille.fr/) : [MINT](https://mint.univ-lille.fr/) (Lille) 
 - [**IBISC**](https://www.ibisc.univ-evry.fr/) : [IRA2](https://www.ibisc.univ-evry.fr/equipe/ira2/) (Évry-Courcouronnes) 
 - [**ICUBE**](https://icube.unistra.fr/) : [IGG](https://igg.icube.unistra.fr/index.php?title=Accueil), [MIMESIS](https://team.inria.fr/mimesis/) (Strasbourg) 
 - [**IRISA**](https://www.irisa.fr/) : [COMBO](https://team.inria.fr/combo/), [EXPRESSION](https://www-expression.irisa.fr/presentation/), [Rainbow](https://team.inria.fr/rainbow/), [Seamless](https://team.inria.fr/seamless/), [VirtUs](https://team.inria.fr/virtus/) (Rennes) 
 - [**IRIT**](https://www.irit.fr/) : [REVA](https://www.irit.fr/departement/calcul-intensif-simulation-optimisation/reva/), [STORM](https://www.irit.fr/STORM/site/) (Toulouse) 
-- [**Inria**](https://www.inria.fr/fr) : [AVIZ](https://aviz.saclay.inria.fr/), [GraphDeco](https://team.inria.fr/graphdeco/), [Titane](https://team.inria.fr/titane/), [MIMESIS](https://team.inria.fr/mimesis/), [Seamless](https://team.inria.fr/seamless/), [COMBO](https://team.inria.fr/combo/), [Rainbow](https://team.inria.fr/rainbow/), [VirtUs](https://team.inria.fr/virtus/), [ILDA](https://ilda.saclay.inria.fr/), [GeomeriX](https://team.inria.fr/geomerix/), [ELAN](https://team.inria.fr/elan/), [MAVERICK](https://team.inria.fr/maverick/), [CRAFT](https://team.inria.fr/craft/), [Kinetix](https://team.inria.fr/kinetix/), [MFX](https://mfx.loria.fr/), [PIXEL](https://pixel.inria.fr/), [Manao](https://manao.inria.fr/) 
+- [**Inria**](https://www.inria.fr/fr) : [AVIZ](https://aviz.saclay.inria.fr/), [GraphDeco](https://team.inria.fr/graphdeco/), [Titane](https://team.inria.fr/titane/), [MIMESIS](https://team.inria.fr/mimesis/), [Seamless](https://team.inria.fr/seamless/), [COMBO](https://team.inria.fr/combo/), [Rainbow](https://team.inria.fr/rainbow/), [VirtUs](https://team.inria.fr/virtus/), [GeomeriX](https://team.inria.fr/geomerix/), [ELAN](https://team.inria.fr/elan/), [MAVERICK](https://team.inria.fr/maverick/), [CRAFT](https://team.inria.fr/craft/), [Kinetix](https://team.inria.fr/kinetix/), [MFX](https://mfx.loria.fr/), [PIXEL](https://pixel.inria.fr/), [Manao](https://manao.inria.fr/) 
 - [**LAMA**](https://www.lama.univ-smb.fr/) : [LIMD](https://www.lama.univ-smb.fr/members/limd) (Le Bourget-du-Lac) 
 - [**LAMPA**](https://lampa.artsetmetiers.fr/) : [Réalités étendues](https://lampa.artsetmetiers.fr/interactions-humain-machine-et-cognition-dans-les-realites-etendues) (Laval) 
 - [**LIASD**](https://www.univ-paris8.fr/UR-Laboratoire-d-Intelligence-Artificielle-et-Semantique-des-Donnees-LIASD) : [PASTIS](https://informatique.up8.edu/pastis/) (Saint-Denis) 
 - [**LIB**](https://lib.ube.fr/) : [MG](https://lib.ube.fr/equipes/modelisation-geometrique/) (Dijon) 
-- [**LICIIS**](https://www.univ-reims.fr/universite/laboratoire-d-informatique-en-calcul-intensif-et-image-pour-la-simulation-liciis-ur-3690-lrc-digit,7741,18258.html) (Reims) 
 - [**LIGM**](https://ligm.univ-eiffel.fr/) : [A3SI](https://ligm.univ-eiffel.fr/equipe/a3si/) (Marne-la-Vallée) 
 - [**LIRIS**](https://liris.cnrs.fr/) : [ORIGAMI](https://origami.projet.liris.cnrs.fr/), [SAARA](https://saara.projet.liris.cnrs.fr/) (Lyon) 
 - [**LIRMM**](https://www.lirmm.fr/) : [ICAR](https://www.lirmm.fr/icar/) (Montpellier) 
 - [**LIS**](https://www.lis-lab.fr/) : [GMOD](https://www.lis-lab.fr/gmod/) (Marseille) 
 - [**LISIC**](https://lisic-prod.univ-littoral.fr/) : [SEPIA](https://lisic-prod.univ-littoral.fr/equipe/sepia/) (Calais) 
-- [**LISN**](https://www.lisn.upsaclay.fr/) : [ILDA](https://ilda.saclay.inria.fr/), [VENISE](https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/interaction-avec-lhumain/virtual-augmented-environments-for-simulation-experiments-venise/) (Orsay) 
-- [**LISPEN**](https://lispen.artsetmetiers.fr/index.php/node/19) (Chalon-sur-Saône) 
 - [**LIX**](https://www.lix.polytechnique.fr/) : [GeomeriX](https://team.inria.fr/geomerix/), [VISTA](https://www.lix.polytechnique.fr/vista/) (Palaiseau) 
 - [**LJK**](https://www-ljk.imag.fr/) : [CRAFT](https://team.inria.fr/craft/), [ELAN](https://team.inria.fr/elan/), [Kinetix](https://team.inria.fr/kinetix/), [MAVERICK](https://team.inria.fr/maverick/) (Grenoble) 
 - [**LORIA**](https://www.loria.fr/fr) : [MFX](https://mfx.loria.fr/), [PIXEL](https://pixel.inria.fr/) (Nancy) 
@@ -43,7 +39,6 @@ Rem. Le fichier README.md est généré automatiquement à partir du fichier dat
 - [**LaSTIG**](https://www.umr-lastig.fr/) : [ACTE](https://www.umr-lastig.fr/acte/), [GEOVIS](https://www.umr-lastig.fr/geovis/) (Saint Mandé, Marne-la-Vallée) 
 - [**Lab-STICC**](https://labsticc.fr/) : [INUIT](https://labsticc.fr/fr/equipes/inuit/) (Brest) 
 - [**XLIM**](https://www.xlim.fr/) : [IG](https://www.xlim.fr/ig/), [SIR](https://www.xlim.fr/sir/) (Limoges, Poitiers) 
-- [**b<>com**](https://b-com.com/) : [Images & vision](https://b-com.com/nous-connaitre/nos-axes-r-i/images-et-vision) (Cesson-Sévigné) 
 
 
 ## Listing détaillé 
@@ -73,19 +68,6 @@ Rem. Le fichier README.md est généré automatiquement à partir du fichier dat
   * **[SEPIA](https://lisic-prod.univ-littoral.fr/equipe/sepia/)** - Simulation d'Éclairage, Perception, Images et Applications 
     * Correspondant: Christophe Renaud 
     * Thèmes: _Simulation d'éclairage, rendu réaliste, HDR, perception._ 
-
-
-### Cesson-Sévigné 
-
-* **[b<>com](https://b-com.com/)** - Institut de Recherche Technologique b<>com 
-  * **[Images & vision](https://b-com.com/nous-connaitre/nos-axes-r-i/images-et-vision)** - Axe de R&I Images & vision (image, vision et interaction) 
-    * Thèmes: _Holographie numérique temps réel, vidéo volumétrique et Gaussian splatting, réalité augmentée et mixte industrielle, qualité perçue des contenus immersifs_ 
-
-
-### Chalon-sur-Saône 
-
-* **[LISPEN](https://lispen.artsetmetiers.fr/index.php/node/19)** - Laboratoire d'Ingénierie des Systèmes Physiques Et Numériques (Arts et Métiers, site de Chalon-sur-Saône) 
-  * Thèmes: _Réalité virtuelle et augmentée, interaction immersive collaborative, environnements virtuels, avatars, ingénierie numérique_ 
 
 
 ### Dijon 
@@ -221,18 +203,6 @@ Rem. Le fichier README.md est généré automatiquement à partir du fichier dat
     * Thèmes: _Réalité virtuelle et augmentée, avatars et incarnation, ergonomie cognitive, collaboration en environnement virtuel_ 
 
 
-### Orsay 
-
-* **[LISN](https://www.lisn.upsaclay.fr/)** - Laboratoire Interdisciplinaire des Sciences du Numérique 
-  * CNRS UMR-9015 
-  * **[ILDA](https://ilda.saclay.inria.fr/)** - Interacting with Large DAta 
-    * Thèmes: _Visualisation de grandes données, murs d'écrans, réalité mixte (RA à RV), interaction gestuelle et tangible, données spatio-temporelles_ 
-    * Ville: Gif-sur-Yvette 
-    * _Equipe commune Inria_ 
-  * **[VENISE](https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/interaction-avec-lhumain/virtual-augmented-environments-for-simulation-experiments-venise/)** - Virtual & Augmented ENvironments for Simulation & Experiments 
-    * Thèmes: _Réalité virtuelle et augmentée, interaction 3D, immersion collaborative, réalité mixte pour le patrimoine, XR pour la modélisation moléculaire_ 
-
-
 ### Palaiseau 
 
 * **[LIX](https://www.lix.polytechnique.fr/)** - Laboratoire d'Informatique de l'Ecole Polytechnique 
@@ -249,19 +219,6 @@ Rem. Le fichier README.md est généré automatiquement à partir du fichier dat
   * **[IMAGES](https://www.telecom-paris.fr/fr/recherche/labos/traitement-information-ltci/equipes/images)** - Image, Modélisation, Analyse, GEométrie, Synthèse 
     * Correspondant: Amal Dev Parakkat 
     * Thèmes: _Modeling, Interaction, Fluid simulation._ 
-
-
-### Paris 
-
-* **[CAOR](https://www.caor.minesparis.psl.eu/)** - Centre de Robotique, Mines Paris – PSL 
-  * Thèmes: _Nuages de points 3D et modélisation (cartographie mobile Lidar, segmentation sémantique de scènes 3D, reconstruction), réalité virtuelle et augmentée_ 
-
-
-### Reims 
-
-* **[LICIIS](https://www.univ-reims.fr/universite/laboratoire-d-informatique-en-calcul-intensif-et-image-pour-la-simulation-liciis-ur-3690-lrc-digit,7741,18258.html)** - Laboratoire d'informatique en Calcul Intensif et Image pour la Simulation. 
-  * Correspondant: Stéphanie Prévost 
-  * Thèmes: _Reconstruction 3D/4D, visualisation scientifique, rendu, imagerie multi-vues, interaction, réalité virtuelle_ 
 
 
 ### Rennes 
@@ -357,7 +314,6 @@ Rem. Le fichier README.md est généré automatiquement à partir du fichier dat
   * **[COMBO](https://team.inria.fr/combo/)** - _Equipe commune avec IRISA_ 
   * **[Rainbow](https://team.inria.fr/rainbow/)** - _Equipe commune avec IRISA_ 
   * **[VirtUs](https://team.inria.fr/virtus/)** - _Equipe commune avec IRISA_ 
-  * **[ILDA](https://ilda.saclay.inria.fr/)** - _Equipe commune avec LISN_ 
   * **[GeomeriX](https://team.inria.fr/geomerix/)** - _Equipe commune avec LIX_ 
   * **[ELAN](https://team.inria.fr/elan/)** - _Equipe commune avec LJK_ 
   * **[MAVERICK](https://team.inria.fr/maverick/)** - _Equipe commune avec LJK_ 
