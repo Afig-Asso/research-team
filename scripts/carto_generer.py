@@ -26,7 +26,8 @@ FORMATIONS = ROOT.parent / 'example-formations-graphique' / 'data.yaml'
 PUBLIC = '--public' in sys.argv
 if PUBLIC:
     CHEMINS = {'data': ROOT / 'data.yaml', 'scores': CARTO / 'donnees' / 'scores.json', 'stats': CARTO / 'donnees' / 'stats.json',
-               'corpus': CARTO / 'donnees' / 'publications', 'theses': CARTO / 'donnees' / 'theses.json', 'permanents': None, 'sortie': ROOT / '_site' / 'index.html'}
+               'corpus': CARTO / 'donnees' / 'publications', 'theses': CARTO / 'donnees' / 'theses.json', 'permanents': None,
+               'permanents_public': CARTO / 'donnees' / 'permanents.json', 'sortie': ROOT / '_site' / 'index.html'}
 else:
     CHEMINS = {'data': ROOT / 'data_propose.yaml', 'scores': CARTO / 'scores.json', 'stats': CARTO / 'stats.json',
                'corpus': CARTO / 'corpus', 'theses': CARTO / 'theses_equipes.json', 'permanents': ROOT / 'permanents' / 'permanents.yaml', 'sortie': CARTO / 'cartographie.html'}
@@ -219,6 +220,11 @@ def charger():
     scores = json.loads(CHEMINS['scores'].read_text())
     perms = yaml.safe_load(open(CHEMINS['permanents'], encoding='utf-8')) if CHEMINS['permanents'] else None
     sites = sites_perso() if perms is not None else {}
+    # version publique : noms, statuts et sites des permanents, sans annotation IG (carto_exporter_public.py)
+    pp = CHEMINS.get('permanents_public')
+    perms_pub = json.loads(pp.read_text()) if perms is None and pp and pp.exists() else None
+    if perms_pub:
+        sites = {(eq, m['nom']): m['site'] for eq, v in perms_pub.items() for m in v['liste'] if m.get('site')}
     stats = json.loads(CHEMINS['stats'].read_text())
     theses = json.loads(CHEMINS['theses'].read_text()) if CHEMINS['theses'].exists() else {}
     data = yaml.safe_load(open(CHEMINS['data'], encoding='utf-8'))
@@ -246,7 +252,7 @@ def charger():
         sc = scores.get(fichier.stem, {'themes': {}, 'applications': {}})
         equipes.append({
             'st': couche_scores(sc['themes'], corpus, exemples), 'sa': couche_scores(sc['applications'], corpus, exemples),
-            'exemples': exemples, 'membres': membres(perms.get(fi['equipe']) or {}, fi['equipe'], sites) if perms is not None else None,
+            'exemples': exemples, 'membres': membres(perms.get(fi['equipe']) or {}, fi['equipe'], sites) if perms is not None else (perms_pub.get(fi['equipe']) if perms_pub else None),
             'id': fichier.stem, 'sigle': sigle, 'labo': labo, 'nom': eq.get('Nom', ''), 'labo_nom': lab.get('Nom', ''),
             'ville': ville, 'region': REGION.get(ville, 'Autre'), 'coord': coordonnees(lab, eq, ville), 'url': eq.get('URL'), 'labo_url': lab.get('URL'),
             'inria': 'Inria' in eq or labo == 'Inria', 'correspondant': eq.get('Correspondant'), 'correspondant_site': {n: u for (_, n), u in sites.items()}.get(eq.get('Correspondant')),
@@ -606,8 +612,8 @@ const LIB_IG={oui:'IG',partiel:'IG en partie',non:'hors IG',inconnu:'IG ?'};
 function tableMembres(e){const m=e.membres;if(!m.liste.length)return '<p class="meta">Liste non disponible.</p>';
  return `<table class="membres">${m.liste.map(p=>`<tr><td>${p.site?`<a href="${esc(p.site)}" target="_blank" rel="noopener">${esc(p.nom)}</a>`:esc(p.nom)}${p.nom===e.correspondant?' <span class="meta">(correspondant)</span>':''}</td>
   <td class="meta">${esc([p.emerite?'émérite':p.statut,p.employeur].filter(Boolean).join(', '))}</td>
-  <td><span class="ig ig-${p.ig}">${LIB_IG[p.ig]||p.ig}</span></td><td class="meta">${esc(p.domaines)}</td></tr>`).join('')}</table>
- <p class="meta">« IG » : annotation automatique d'après les publications, à vérifier.</p>`}
+  ${p.ig?`<td><span class="ig ig-${p.ig}">${LIB_IG[p.ig]||p.ig}</span></td><td class="meta">${esc(p.domaines)}</td>`:''}</tr>`).join('')}</table>
+ ${m.liste.some(p=>p.ig)?`<p class="meta">« IG » : annotation automatique d'après les publications, à vérifier.</p>`:(m.source?`<p class="meta">Source : <a href="${esc(m.source)}" target="_blank" rel="noopener">page de l'équipe</a>.</p>`:'')}`}
 function listeTheses(l){const li=t=>`<li><span class="meta">${t.annee}</span> <a href="https://theses.fr/${encodeURIComponent(t.id)}" target="_blank" rel="noopener"${t.titre_en&&t.titre_en!==t.titre?` title="${esc(t.titre_en)}"`:''}>${esc(t.titre)}</a> <span class="meta">— ${esc(t.etablissement)}</span></li>`;
  if(!l.length)return '<p class="meta">Aucune thèse en IG trouvée sur la période.</p>';
  return `<ul class="theses">${l.slice(0,6).map(li).join('')}</ul>${l.length>6?`<details class="theses-plus"><summary class="meta">${l.length-6} autres thèses</summary><ul class="theses">${l.slice(6).map(li).join('')}</ul></details>`:''}`}

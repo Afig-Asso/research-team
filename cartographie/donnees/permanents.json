@@ -1,0 +1,3049 @@
+{
+"CRIStAL/MINT": {
+"liste": [
+{
+"nom": "Fabrice Aubert",
+"site": null,
+"statut": "",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Florent Berthaut",
+"site": "https://hitmuri.net/",
+"statut": "",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Laurent Grisoni",
+"site": null,
+"statut": "",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Patricia Plénacoste",
+"site": null,
+"statut": "",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Yosra Rekik",
+"site": "https://sites.google.com/site/yosrarekikresearch/",
+"statut": "",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Jean-Claude Tarby",
+"site": "https://www.cristal.univ-lille.fr/~jctarby/",
+"statut": "",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Hazem Wannous",
+"site": null,
+"statut": "",
+"employeur": "",
+"emerite": false
+}
+],
+"source": "https://mint.univ-lille.fr/pages/team.html"
+},
+"ICUBE/IGG": {
+"liste": [
+{
+"nom": "Rémi Allègre",
+"site": "https://igg.icube.unistra.fr/index.php?title=R%C3%A9mi_All%C3%A8gre",
+"statut": "MCF",
+"employeur": "Université de Strasbourg (IUT Haguenau)",
+"emerite": false
+},
+{
+"nom": "Dominique Bechmann",
+"site": "https://igg.icube.unistra.fr/index.php?title=Dominique_Bechmann",
+"statut": "PR",
+"employeur": "Université de Strasbourg (UFR MI)",
+"emerite": false
+},
+{
+"nom": "Pierre Boutry",
+"site": "https://pierre-boutry.fr/",
+"statut": "MCF",
+"employeur": "Université de Strasbourg (UFR MI)",
+"emerite": false
+},
+{
+"nom": "Antonio Capobianco",
+"site": null,
+"statut": "PR",
+"employeur": "Université de Strasbourg (IUT Haguenau)",
+"emerite": false
+},
+{
+"nom": "David Cazier",
+"site": "https://igg.icube.unistra.fr/index.php?title=David_Cazier",
+"statut": "PR",
+"employeur": "Université de Strasbourg (IUT Haguenau)",
+"emerite": false
+},
+{
+"nom": "Jean-Michel Dischler",
+"site": "https://igg.icube.unistra.fr/index.php?title=Jean-Michel_Dischler",
+"statut": "PR",
+"employeur": "Université de Strasbourg (UFR MI)",
+"emerite": false
+},
+{
+"nom": "Jérome Grosjean",
+"site": "https://dpt-info.u-strasbg.fr/~grosjean/",
+"statut": "MCF",
+"employeur": "Université de Strasbourg (UFR MI)",
+"emerite": false
+},
+{
+"nom": "Arash Habibi",
+"site": "https://igg.icube.unistra.fr/index.php?title=Arash_Habibi",
+"statut": "MCF",
+"employeur": "Université de Strasbourg (UFR MI)",
+"emerite": false
+},
+{
+"nom": "Franck Hétroy-Wheeler",
+"site": "https://igg.icube.unistra.fr/index.php?title=Franck_H%C3%A9troy-Wheeler",
+"statut": "PR",
+"employeur": "Université de Strasbourg (UFR MI)",
+"emerite": false
+},
+{
+"nom": "Pierre Kraemer",
+"site": "https://igg.icube.unistra.fr/index.php?title=Pierre_Kraemer",
+"statut": "MCF",
+"employeur": "Université de Strasbourg (IUT Robert Schuman)",
+"emerite": false
+},
+{
+"nom": "Flavien Lecuyer",
+"site": "https://igg.icube.unistra.fr/index.php?title=Flavien_Lecuyer",
+"statut": "MCF",
+"employeur": "Université de Strasbourg (IUT Haguenau)",
+"emerite": false
+},
+{
+"nom": "Nicolas Magaud",
+"site": "https://dpt-info.u-strasbg.fr/~magaud/",
+"statut": "PR",
+"employeur": "Université de Strasbourg (UFR MI)",
+"emerite": false
+},
+{
+"nom": "Pascal Mathis",
+"site": "https://dpt-info.u-strasbg.fr/~mathis/",
+"statut": "MCF HDR",
+"employeur": "Université de Strasbourg (UFR MI)",
+"emerite": false
+},
+{
+"nom": "Loïc Pujet",
+"site": "https://pujet.fr/",
+"statut": "MCF",
+"employeur": "Université de Strasbourg (UFR MI)",
+"emerite": false
+},
+{
+"nom": "Jonathan Sarton",
+"site": "https://igg.icube.unistra.fr/index.php?title=Jonathan_Sarton",
+"statut": "MCF",
+"employeur": "Université de Strasbourg (UFR MI)",
+"emerite": false
+},
+{
+"nom": "Basile Sauvage",
+"site": "https://igg.icube.unistra.fr/index.php?title=Basile_Sauvage",
+"statut": "PR",
+"employeur": "Université de Strasbourg (UFR MI)",
+"emerite": false
+},
+{
+"nom": "Sylvain Thery",
+"site": "https://igg.icube.unistra.fr/index.php?title=Sylvain_Thery",
+"statut": "IR",
+"employeur": "Université de Strasbourg",
+"emerite": false
+}
+],
+"source": "https://igg.icube.unistra.fr/index.php?title=Personnel"
+},
+"IRISA/EXPRESSION": {
+"liste": [
+{
+"nom": "Nelly Barbot",
+"site": null,
+"statut": "MCF",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Vincent Barreaud",
+"site": null,
+"statut": "MCF",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Giuseppe Berio",
+"site": null,
+"statut": "PR",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Nicolas Béchet",
+"site": null,
+"statut": "MCF",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Jonathan Chevelu",
+"site": null,
+"statut": "MCF",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Arnaud Delhay",
+"site": "https://people.irisa.fr/Arnaud.Delhay/",
+"statut": "MCF",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Sylvie Gibet",
+"site": null,
+"statut": "PR",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Caroline Larboulette",
+"site": "https://people.irisa.fr/Caroline.Larboulette/",
+"statut": "MCF",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Damien Lolive",
+"site": "https://people.irisa.fr/Damien.Lolive/",
+"statut": "PR",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Pierre-François Marteau",
+"site": "https://people.irisa.fr/Pierre-Francois.Marteau/",
+"statut": "PR",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Gildas Ménier",
+"site": null,
+"statut": "MCF",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Vincent Segonne",
+"site": null,
+"statut": "MCF",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Jeanne Villaneau",
+"site": null,
+"statut": "MCF",
+"employeur": "",
+"emerite": false
+}
+],
+"source": "https://www-expression.irisa.fr/team-members/"
+},
+"IRISA/Seamless": {
+"liste": [
+{
+"nom": "Ferran Argelaguet",
+"site": "https://people.irisa.fr/ferran.argelaguet/",
+"statut": "Researcher, HDR",
+"employeur": "Inria",
+"emerite": false
+},
+{
+"nom": "Mélanie Cogné",
+"site": null,
+"statut": "Associate Professor, HDR",
+"employeur": "Université de Rennes",
+"emerite": false
+},
+{
+"nom": "Valérie Gouranton",
+"site": "https://cv.hal.science/valerie-gouranton",
+"statut": "Professor",
+"employeur": "INSA Rennes",
+"emerite": false
+},
+{
+"nom": "Anatole Lécuyer",
+"site": "https://people.rennes.inria.fr/Anatole.Lecuyer/",
+"statut": "Senior Researcher",
+"employeur": "Inria",
+"emerite": false
+},
+{
+"nom": "Marc Macé",
+"site": "https://people.irisa.fr/Marc.Mace/",
+"statut": "Researcher, HDR",
+"employeur": "CNRS",
+"emerite": false
+},
+{
+"nom": "Léa Pillette",
+"site": null,
+"statut": "Researcher",
+"employeur": "CNRS",
+"emerite": false
+},
+{
+"nom": "Justine Saint-Aubert",
+"site": null,
+"statut": "Researcher",
+"employeur": "CNRS",
+"emerite": false
+},
+{
+"nom": "Bruno Arnaldi",
+"site": null,
+"statut": "Emeritus",
+"employeur": "INSA Rennes",
+"emerite": true
+}
+],
+"source": "https://radar.inria.fr/report/2025/seamless/"
+},
+"IRISA/COMBO": {
+"liste": [
+{
+"nom": "Nicolas Bideau",
+"site": null,
+"statut": "Associate Professor",
+"employeur": "Université Rennes 2",
+"emerite": false
+},
+{
+"nom": "Benoit Bideau",
+"site": null,
+"statut": "Professor",
+"employeur": "Université Rennes 2",
+"emerite": false
+},
+{
+"nom": "Armel Cretual",
+"site": "https://perso.univ-rennes2.fr/armel.cretual",
+"statut": "Associate Professor, HDR",
+"employeur": "Université Rennes 2",
+"emerite": false
+},
+{
+"nom": "Georges Dumont",
+"site": "https://people.irisa.fr/Georges.Dumont/",
+"statut": "Professor",
+"employeur": "ENS Rennes",
+"emerite": false
+},
+{
+"nom": "Nolwenn Fougeron",
+"site": null,
+"statut": "Researcher",
+"employeur": "Inria",
+"emerite": false
+},
+{
+"nom": "Diane Haering",
+"site": "https://perso.univ-rennes2.fr/diane.haering",
+"statut": "Associate Professor",
+"employeur": "Université Rennes 2",
+"emerite": false
+},
+{
+"nom": "Pierre Hellier",
+"site": "https://people.irisa.fr/Pierre.Hellier/",
+"statut": "Professor",
+"employeur": "Université de Rennes",
+"emerite": false
+},
+{
+"nom": "Hugo Kerhervé",
+"site": "https://perso.univ-rennes2.fr/hugo.kerherve",
+"statut": "Associate Professor",
+"employeur": "Université Rennes 2",
+"emerite": false
+},
+{
+"nom": "Richard Kulpa",
+"site": "https://perso.univ-rennes2.fr/richard.kulpa",
+"statut": "Associate Professor, HDR",
+"employeur": "Université Rennes 2",
+"emerite": false
+},
+{
+"nom": "Fabrice Lamarche",
+"site": "https://people.irisa.fr/Fabrice.Lamarche/",
+"statut": "Associate Professor",
+"employeur": "Université de Rennes",
+"emerite": false
+},
+{
+"nom": "Caroline Martin",
+"site": "https://www.caromartin-tennis.com/",
+"statut": "Associate Professor",
+"employeur": "Université Rennes 2",
+"emerite": false
+},
+{
+"nom": "Franck Multon",
+"site": "https://perso.univ-rennes2.fr/franck.multon",
+"statut": "Senior Researcher",
+"employeur": "Inria",
+"emerite": false
+},
+{
+"nom": "Guillaume Nicolas",
+"site": null,
+"statut": "Associate Professor",
+"employeur": "Université Rennes 2",
+"emerite": false
+},
+{
+"nom": "Charles Pontonnier",
+"site": "https://sites.google.com/site/charlespontonnier/",
+"statut": "Associate Professor, HDR",
+"employeur": "ENS Rennes",
+"emerite": false
+},
+{
+"nom": "Nicolas Vignais",
+"site": "https://sites.google.com/site/nicolasvignaishomepage",
+"statut": "Professor",
+"employeur": "Université Rennes 2",
+"emerite": false
+}
+],
+"source": "https://radar.inria.fr/report/2025/combo/"
+},
+"IRISA/Rainbow": {
+"liste": [
+{
+"nom": "Marie Babel",
+"site": "https://team.inria.fr/rainbow/team/marie-babel/",
+"statut": "Professor",
+"employeur": "INSA Rennes",
+"emerite": false
+},
+{
+"nom": "François Chaumette",
+"site": "https://team.inria.fr/rainbow/team/francois-chaumette/",
+"statut": "Senior Researcher",
+"employeur": "Inria",
+"emerite": false
+},
+{
+"nom": "Vincent Drevelle",
+"site": "https://team.inria.fr/rainbow/team/vincent-drevelle/",
+"statut": "Associate Professor",
+"employeur": "Université de Rennes",
+"emerite": false
+},
+{
+"nom": "Paolo Robuffo Giordano",
+"site": "https://team.inria.fr/rainbow/team/prg/",
+"statut": "Senior Researcher",
+"employeur": "CNRS",
+"emerite": false
+},
+{
+"nom": "Alexandre Krupa",
+"site": "https://team.inria.fr/rainbow/team/alexandre-krupa/",
+"statut": "Senior Researcher",
+"employeur": "Inria",
+"emerite": false
+},
+{
+"nom": "Maud Marchal",
+"site": "https://people.rennes.inria.fr/Maud.Marchal/",
+"statut": "Professor",
+"employeur": "INSA Rennes",
+"emerite": false
+},
+{
+"nom": "Éric Marchand",
+"site": "https://team.inria.fr/rainbow/team/eric-marchand/",
+"statut": "Professor",
+"employeur": "Université de Rennes",
+"emerite": false
+},
+{
+"nom": "Claudio Pacchierotti",
+"site": "https://team.inria.fr/rainbow/team/claudio-pacchierotti/",
+"statut": "Researcher, HDR",
+"employeur": "CNRS",
+"emerite": false
+},
+{
+"nom": "Esteban Restrepo",
+"site": "https://erestrep.github.io/",
+"statut": "Researcher",
+"employeur": "CNRS",
+"emerite": false
+},
+{
+"nom": "Marco Tognon",
+"site": "https://team.inria.fr/rainbow/team/marco-tognon/",
+"statut": "ISFP, HDR",
+"employeur": "Inria",
+"emerite": false
+}
+],
+"source": "https://radar.inria.fr/report/2025/rainbow/"
+},
+"IRISA/VirtUs": {
+"liste": [
+{
+"nom": "Samuel Boivin",
+"site": null,
+"statut": "Researcher",
+"employeur": "Inria",
+"emerite": false
+},
+{
+"nom": "Mathieu Chambe",
+"site": null,
+"statut": "",
+"employeur": "Université de Rennes",
+"emerite": false
+},
+{
+"nom": "Marc Christie",
+"site": null,
+"statut": "Associate Professor",
+"employeur": "Université de Rennes",
+"emerite": false
+},
+{
+"nom": "Stéphane Donikian",
+"site": null,
+"statut": "Senior Researcher",
+"employeur": "Inria",
+"emerite": false
+},
+{
+"nom": "Ludovic Hoyet",
+"site": "https://people.rennes.inria.fr/Ludovic.Hoyet/",
+"statut": "Researcher, HDR",
+"employeur": "Inria",
+"emerite": false
+},
+{
+"nom": "Anne-Hélène Olivier",
+"site": "https://sites.google.com/site/anneheleneolivier/home",
+"statut": "Associate Professor, HDR",
+"employeur": "Université Rennes 2",
+"emerite": false
+},
+{
+"nom": "Julien Pettré",
+"site": "https://people.rennes.inria.fr/Julien.Pettre/",
+"statut": "Senior Researcher",
+"employeur": "Inria",
+"emerite": false
+},
+{
+"nom": "Katja Zibrek",
+"site": "https://people.rennes.inria.fr/Katja.Zibrek/",
+"statut": "ISFP",
+"employeur": "Inria",
+"emerite": false
+},
+{
+"nom": "Kadi Bouatouch",
+"site": null,
+"statut": "émérite",
+"employeur": "Université de Rennes",
+"emerite": true
+}
+],
+"source": "https://radar.inria.fr/report/2025/virtus/"
+},
+"IRIT/STORM": {
+"liste": [
+{
+"nom": "Loïc Barthe",
+"site": "https://www.irit.fr/~Loic.Barthe/",
+"statut": "PR (Full Professor)",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Mégane Bati",
+"site": "https://www.irit.fr/recherches/STORM/MeganeBati/",
+"statut": "CR (Researcher)",
+"employeur": "CNRS",
+"emerite": false
+},
+{
+"nom": "Nicolas Bonneel",
+"site": "https://www.irit.fr/recherches/STORM/NicolasBonneel/index.html",
+"statut": "DR (Research Director)",
+"employeur": "CNRS",
+"emerite": false
+},
+{
+"nom": "Nicolas Mellado",
+"site": "https://www.irit.fr/~Nicolas.Mellado/",
+"statut": "CR (Researcher)",
+"employeur": "CNRS",
+"emerite": false
+},
+{
+"nom": "Mathias Paulin",
+"site": "https://www.irit.fr/~Mathias.Paulin/",
+"statut": "PR (Full Professor)",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "David Vanderhaeghe",
+"site": "https://www.dlyr.fr/",
+"statut": "MCF (Associate Professor)",
+"employeur": "",
+"emerite": false
+}
+],
+"source": "https://www.irit.fr/STORM/site/team/"
+},
+"IRIT/REVA": {
+"liste": [
+{
+"nom": "Meghna Parameswaran Ayyar",
+"site": null,
+"statut": "MCF",
+"employeur": "Toulouse INP",
+"emerite": false
+},
+{
+"nom": "Alain Berro",
+"site": null,
+"statut": "MCF",
+"employeur": "Université Toulouse Capitole",
+"emerite": false
+},
+{
+"nom": "Sylvie Chambon",
+"site": "https://www.irit.fr/~Sylvie.Chambon/",
+"statut": "PR",
+"employeur": "Toulouse INP",
+"emerite": false
+},
+{
+"nom": "Sylvain Cussat-Blanc",
+"site": "https://www.irit.fr/~Sylvain.Cussat-Blanc/",
+"statut": "PR",
+"employeur": "Université Toulouse Capitole",
+"emerite": false
+},
+{
+"nom": "Jean-Denis Durou",
+"site": "https://www.irit.fr/~Jean-Denis.Durou/",
+"statut": "MCF HDR",
+"employeur": "Toulouse INP",
+"emerite": false
+},
+{
+"nom": "Simone Gasparini",
+"site": "https://www.irit.fr/~Simone.Gasparini/",
+"statut": "MCF",
+"employeur": "Toulouse INP",
+"emerite": false
+},
+{
+"nom": "Jean-Pierre Jessel",
+"site": "https://www.irit.fr/~Jean-Pierre.Jessel/",
+"statut": "PR",
+"employeur": "Université de Toulouse",
+"emerite": false
+},
+{
+"nom": "Yuri Cossich Lavinas",
+"site": "https://yurilavinas.github.io/",
+"statut": "MCF",
+"employeur": "Université Toulouse Capitole",
+"emerite": false
+},
+{
+"nom": "Hervé Luga",
+"site": "https://www.irit.fr/~Herve.Luga/",
+"statut": "PR",
+"employeur": "Université Toulouse Jean Jaurès",
+"emerite": false
+},
+{
+"nom": "Géraldine Morin",
+"site": null,
+"statut": "PR",
+"employeur": "Toulouse INP",
+"emerite": false
+},
+{
+"nom": "David Panzoli",
+"site": "https://www.irit.fr/~David.Panzoli/",
+"statut": "PR",
+"employeur": "INU Champollion",
+"emerite": false
+},
+{
+"nom": "Stéphane Sanchez",
+"site": null,
+"statut": "MCF",
+"employeur": "Université Toulouse Capitole",
+"emerite": false
+},
+{
+"nom": "Cédric Sanza",
+"site": "https://www.irit.fr/~Cedric.Sanza/",
+"statut": "MCF",
+"employeur": "Université de Toulouse",
+"emerite": false
+},
+{
+"nom": "David Simoncini",
+"site": null,
+"statut": "MCF",
+"employeur": "Université Toulouse Capitole",
+"emerite": false
+},
+{
+"nom": "Yves Duthen",
+"site": null,
+"statut": "émérite",
+"employeur": "Université Toulouse Capitole",
+"emerite": true
+}
+],
+"source": "https://www.irit.fr/departement/calcul-intensif-simulation-optimisation/reva/"
+},
+"LaSTIG/GEOVIS": {
+"liste": [
+{
+"nom": "Mathieu Brédif",
+"site": "https://www.umr-lastig.fr/mathieu-bredif/",
+"statut": "CR IGN",
+"employeur": "IGN",
+"emerite": false
+},
+{
+"nom": "Gérald Choqueux",
+"site": "https://www.umr-lastig.fr/gchoqueux/",
+"statut": "Ingénieur (Research engineer)",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Sidonie Christophe",
+"site": "https://sites.google.com/site/sidoniechristophe/home",
+"statut": "DR2 MTE",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Jacques Gautier",
+"site": "https://www.umr-lastig.fr/jacques-gautier/",
+"statut": "Enseignant-Chercheur",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Lionel Houssou",
+"site": "https://lionelhoussou.github.io/",
+"statut": "Enseignant-Chercheur",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Florence Jacquinod",
+"site": "https://www.umr-lastig.fr/florence-jacquinod/",
+"statut": "Enseignant-Chercheur",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Lâmân Lelégard",
+"site": "https://www.umr-lastig.fr/laman-lelegard/",
+"statut": "Ingénieur (Research engineer)",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Maria-Jesus Lobo",
+"site": "https://www.umr-lastig.fr/maria-jesus-lobo/",
+"statut": "CR MTE",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Maxim Spur",
+"site": "https://www.umr-lastig.fr/maxim-spur/",
+"statut": "Enseignant-Chercheur",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Laura Wenclik",
+"site": "https://www.umr-lastig.fr/laura-wenclik/",
+"statut": "Ingénieure",
+"employeur": "",
+"emerite": false
+}
+],
+"source": "https://www.umr-lastig.fr/lastig_data/people.csv"
+},
+"LaSTIG/ACTE": {
+"liste": [
+{
+"nom": "Laurent Caraffa",
+"site": "https://www.umr-lastig.fr/laurent-caraffa/",
+"statut": "CR MTE",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Emmanuel Clédat",
+"site": "https://emmanuelcledat.github.io/Emmanuel-Cledat/",
+"statut": "Enseignant-Chercheur",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Mehdi Daakir",
+"site": null,
+"statut": "CR MTE",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Pierre-Louis Frison",
+"site": "https://www.umr-lastig.fr/plf_homepage/",
+"statut": "MCF HDR",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Bénédicte Fruneau",
+"site": "https://www.umr-lastig.fr/benedicte-fruneau/",
+"statut": "MCF HDR",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Manchun Lei",
+"site": "https://www.umr-lastig.fr/manchun-lei/",
+"statut": "CR MTE",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Christophe Meynard",
+"site": null,
+"statut": "IR",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Jean-Pierre Papelard",
+"site": null,
+"statut": "Enseignant",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Marc Pierrot-Deseilligny",
+"site": "https://micmac.ensg.eu/index.php/Marc_Pierrot-Deseilligny",
+"statut": "DR0 MTE",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Ewelina Rupnik",
+"site": "https://erupnik.github.io/",
+"statut": "CR MTE",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Bruno Vallet",
+"site": "https://www.umr-lastig.fr/bruno-vallet/",
+"statut": "CR IGN (Senior researcher)",
+"employeur": "IGN",
+"emerite": false
+},
+{
+"nom": "Teng Wu",
+"site": "https://whuwuteng.github.io/",
+"statut": "Chercheur",
+"employeur": "",
+"emerite": false
+}
+],
+"source": "https://www.umr-lastig.fr/lastig_data/people.csv"
+},
+"LIB/MG": {
+"liste": [
+{
+"nom": "Lucie Druoton",
+"site": "https://lib.ube.fr/membres/druoton-lucie/",
+"statut": "MCF",
+"employeur": "Université Bourgogne Europe",
+"emerite": false
+},
+{
+"nom": "Irène Foucherot",
+"site": "https://lib.ube.fr/membres/foucherot-irene/",
+"statut": "MCF",
+"employeur": "Université Bourgogne Europe",
+"emerite": false
+},
+{
+"nom": "Lionel Garnier",
+"site": "https://lib.ube.fr/membres/garnier-lionel/",
+"statut": "MCF",
+"employeur": "Université Bourgogne Europe",
+"emerite": false
+},
+{
+"nom": "Christian Gentil",
+"site": "https://lib.ube.fr/membres/gentil-christian/",
+"statut": "PR",
+"employeur": "Université Bourgogne Europe",
+"emerite": false
+},
+{
+"nom": "Sandrine Lanquetin",
+"site": "https://lib.ube.fr/membres/lanquetin-sandrine/",
+"statut": "MCF",
+"employeur": "Université Bourgogne Europe",
+"emerite": false
+},
+{
+"nom": "Romain Raffin",
+"site": "https://lib.ube.fr/membres/raffin-romain/",
+"statut": "PR",
+"employeur": "Université Bourgogne Europe",
+"emerite": false
+},
+{
+"nom": "Céline Roudet",
+"site": "https://lib.ube.fr/membres/roudet-celine/",
+"statut": "MCF HDR",
+"employeur": "Université Bourgogne Europe",
+"emerite": false
+},
+{
+"nom": "Michaël Roy",
+"site": "https://lib.ube.fr/membres/roy-michael/",
+"statut": "MCF",
+"employeur": "Université Bourgogne Europe",
+"emerite": false
+}
+],
+"source": "https://lib.ube.fr/membres/?member-group=modelisation-geometrique"
+},
+"LIASD/PASTIS": {
+"liste": [
+{
+"nom": "Françoise Balmas",
+"site": null,
+"statut": "MCF HDR",
+"employeur": "Université Paris 8",
+"emerite": false
+},
+{
+"nom": "Farès Belhadj",
+"site": "https://expreg.org/amsi/C/",
+"statut": "MCF",
+"employeur": "Université Paris 8",
+"emerite": false
+},
+{
+"nom": "Adrien Revault d'Allonnes",
+"site": "https://www.lip6.fr/actualite/personnes-fiche.php?ident=A51",
+"statut": "MCF",
+"employeur": "Université Paris 8",
+"emerite": false
+},
+{
+"nom": "Louis Falissard",
+"site": "https://loufalissard.perso.page/",
+"statut": "MCF",
+"employeur": "Université Paris 8",
+"emerite": false
+},
+{
+"nom": "Nicolas Jouandeau",
+"site": "https://n.up8.site/",
+"statut": "PR",
+"employeur": "Université Paris 8",
+"emerite": false
+},
+{
+"nom": "Revekka Kyriakoglou",
+"site": "https://kyriakoglou.up8.site/",
+"statut": "MCF",
+"employeur": "Université Paris 8",
+"emerite": false
+},
+{
+"nom": "Alice Millour",
+"site": "https://alicemillour.github.io/",
+"statut": "MCF",
+"employeur": "Université Paris 8",
+"emerite": false
+},
+{
+"nom": "Anna Pappa",
+"site": "https://ap.up8.site/",
+"statut": "MCF HDR",
+"employeur": "Université Paris 8",
+"emerite": false
+},
+{
+"nom": "Pablo Rauzy",
+"site": "https://pablorauzy.fr/",
+"statut": "MCF",
+"employeur": "Université Paris 8",
+"emerite": false
+},
+{
+"nom": "Alexandros Singh",
+"site": "https://wintershammer.github.io/",
+"statut": "MCF",
+"employeur": "Université Paris 8",
+"emerite": false
+},
+{
+"nom": "Jean-Noël Vittaut",
+"site": "https://jnv.up8.site/",
+"statut": "MCF",
+"employeur": "Université Paris 8",
+"emerite": false
+}
+],
+"source": "https://informatique.up8.edu/pastis/"
+},
+"LIGM/A3SI": {
+"liste": [
+{
+"nom": "Raphaël Achddou",
+"site": "https://rachddou.github.io/",
+"statut": "MCF",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Mathieu Aubry",
+"site": "https://mathieuaubry.github.io/",
+"statut": "CR",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Venceslas Biri",
+"site": null,
+"statut": "PR",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Lilian Buzer",
+"site": "https://perso.esiee.fr/~buzerl/",
+"statut": "Professeur associé",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Giovanni Chierchia",
+"site": "https://perso.esiee.fr/~chierchg/",
+"statut": "Professeur associé",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Jean Cousty",
+"site": "https://perso.esiee.fr/~coustyj/",
+"statut": "PR",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Eva Dokladalova",
+"site": null,
+"statut": "PR",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Thierry Grandpierre",
+"site": "https://perso.esiee.fr/~grandpit/",
+"statut": "PR",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Rostom Kachouri",
+"site": "https://perso.esiee.fr/~kachourr/",
+"statut": "PR",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Loïc Landrieu",
+"site": "https://loiclandrieu.com/",
+"statut": "CR",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Vincent Lepetit",
+"site": "https://vincentlepetit.github.io/",
+"statut": "DR",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Renaud Marlet",
+"site": "https://imagine.enpc.fr/~marletr/",
+"statut": "DR",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Pascal Monasse",
+"site": "https://imagine.enpc.fr/~monasse/",
+"statut": "DR",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Laurent Najman",
+"site": "https://www.laurentnajman.org/",
+"statut": "PR",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Romain Negrel",
+"site": "https://sites.google.com/esiee.fr/romain-negrel",
+"statut": "MCF",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Bertrand Neveu",
+"site": "https://imagine.enpc.fr/~neveub/",
+"statut": "PR",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Vincent Nozick",
+"site": "http://www-igm.univ-mlv.fr/~vnozick/",
+"statut": "MCF",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Benjamin Perret",
+"site": "https://perso.esiee.fr/~perretb/",
+"statut": "PR",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "David Picard",
+"site": "https://davidpicard.github.io/",
+"statut": "DR",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Kacper Pluta",
+"site": null,
+"statut": "Professeur associé",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Gül Varol",
+"site": "https://gulvarol.github.io/",
+"statut": "DR",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Chaohui Wang",
+"site": "http://www-igm.univ-mlv.fr/~cwang/index.php",
+"statut": "MCF",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Mohamed Akil",
+"site": null,
+"statut": "PR émérite",
+"employeur": "",
+"emerite": true
+},
+{
+"nom": "Gilles Bertrand",
+"site": null,
+"statut": "PR émérite",
+"employeur": "",
+"emerite": true
+}
+],
+"source": "https://ligm.univ-eiffel.fr/equipe/a3si/"
+},
+"LIRIS/ORIGAMI": {
+"liste": [
+{
+"nom": "Sylvain Brandel",
+"site": "https://perso.liris.cnrs.fr/sylvain.brandel/",
+"statut": "MCF",
+"employeur": "Université Claude Bernard Lyon 1",
+"emerite": false
+},
+{
+"nom": "Raphaëlle Chaine",
+"site": "https://perso.liris.cnrs.fr/raphaelle.chaine/",
+"statut": "PR",
+"employeur": "Université Claude Bernard Lyon 1",
+"emerite": false
+},
+{
+"nom": "David Coeurjolly",
+"site": "https://perso.liris.cnrs.fr/david.coeurjolly/",
+"statut": "DR",
+"employeur": "CNRS",
+"emerite": false
+},
+{
+"nom": "Guillaume Damiand",
+"site": "https://perso.liris.cnrs.fr/guillaume.damiand/",
+"statut": "DR",
+"employeur": "CNRS",
+"emerite": false
+},
+{
+"nom": "Johanna Delanoy",
+"site": "https://perso.liris.cnrs.fr/johanna.delanoy/",
+"statut": "MCF",
+"employeur": "INSA Lyon",
+"emerite": false
+},
+{
+"nom": "Julie Digne",
+"site": "https://perso.liris.cnrs.fr/julie.digne/",
+"statut": "DR",
+"employeur": "CNRS",
+"emerite": false
+},
+{
+"nom": "Florent Dupont",
+"site": "https://perso.liris.cnrs.fr/florent.dupont/",
+"statut": "PR",
+"employeur": "Université Claude Bernard Lyon 1",
+"emerite": false
+},
+{
+"nom": "Jean-Philippe Farrugia",
+"site": "https://liris.cnrs.fr/page-membre/jean-philippe-farrugia",
+"statut": "MCF",
+"employeur": "Université Claude Bernard Lyon 1",
+"emerite": false
+},
+{
+"nom": "Eric Galin",
+"site": "https://perso.liris.cnrs.fr/eric.galin/",
+"statut": "PR",
+"employeur": "Université Claude Bernard Lyon 1",
+"emerite": false
+},
+{
+"nom": "Gilles Gesquière",
+"site": "https://liris.cnrs.fr/page-membre/gilles-gesquiere",
+"statut": "PR",
+"employeur": "Université Lumière Lyon 2",
+"emerite": false
+},
+{
+"nom": "Eric Guérin",
+"site": "https://perso.liris.cnrs.fr/eguerin/new/",
+"statut": "PR",
+"employeur": "INSA Lyon",
+"emerite": false
+},
+{
+"nom": "Jean-Claude Iehl",
+"site": "https://perso.liris.cnrs.fr/jean-claude.iehl/public_html/",
+"statut": "MCF",
+"employeur": "Université Claude Bernard Lyon 1",
+"emerite": false
+},
+{
+"nom": "Fabrice Jaillet",
+"site": "https://perso.liris.cnrs.fr/fabrice.jaillet/",
+"statut": "PR",
+"employeur": "Université Claude Bernard Lyon 1",
+"emerite": false
+},
+{
+"nom": "Guillaume Lavoué",
+"site": "https://perso.liris.cnrs.fr/guillaume.lavoue/",
+"statut": "PR",
+"employeur": "École Centrale de Lyon",
+"emerite": false
+},
+{
+"nom": "Vincent Nivoliers",
+"site": "https://perso.liris.cnrs.fr/vincent.nivoliers/",
+"statut": "MCF",
+"employeur": "Université Claude Bernard Lyon 1",
+"emerite": false
+},
+{
+"nom": "Victor Ostromoukhov",
+"site": "https://perso.liris.cnrs.fr/victor.ostromoukhov/",
+"statut": "PR",
+"employeur": "Université Claude Bernard Lyon 1",
+"emerite": false
+},
+{
+"nom": "Adrien Peytavie",
+"site": "https://perso.liris.cnrs.fr/apeytavi/website/",
+"statut": "MCF",
+"employeur": "Université Claude Bernard Lyon 1",
+"emerite": false
+},
+{
+"nom": "Pierre Raimbaud",
+"site": "https://liris.cnrs.fr/page-membre/pierre-raimbaud",
+"statut": "MCF",
+"employeur": "École Centrale de Lyon",
+"emerite": false
+},
+{
+"nom": "Tristan Roussillon",
+"site": "https://perso.liris.cnrs.fr/tristan.roussillon/",
+"statut": "MCF",
+"employeur": "INSA Lyon",
+"emerite": false
+},
+{
+"nom": "Corentin Salaün",
+"site": "https://liris.cnrs.fr/page-membre/corentin-salaun",
+"statut": "MCF",
+"employeur": "Université Claude Bernard Lyon 1",
+"emerite": false
+},
+{
+"nom": "Vincent Vidal",
+"site": "https://perso.liris.cnrs.fr/vincent.vidal/",
+"statut": "MCF",
+"employeur": "Université Claude Bernard Lyon 1",
+"emerite": false
+},
+{
+"nom": "Sophie Villenave",
+"site": "https://liris.cnrs.fr/page-membre/sophie-villenave",
+"statut": "MCF",
+"employeur": "Centrale Innovation",
+"emerite": false
+},
+{
+"nom": "Florence Zara",
+"site": "https://perso.liris.cnrs.fr/fzara/Web/",
+"statut": "MCF",
+"employeur": "Université Claude Bernard Lyon 1",
+"emerite": false
+}
+],
+"source": "https://origami.projet.liris.cnrs.fr/members/"
+},
+"LIRIS/SAARA": {
+"liste": [
+{
+"nom": "Saida Bouakaz",
+"site": "https://liris.cnrs.fr/page-membre/saida-bouakaz",
+"statut": "PR",
+"employeur": "Université Claude Bernard Lyon 1",
+"emerite": false
+},
+{
+"nom": "Elodie Desserée",
+"site": "https://liris.cnrs.fr/page-membre/elodie-desseree",
+"statut": "MCF",
+"employeur": "Université Claude Bernard Lyon 1",
+"emerite": false
+},
+{
+"nom": "Erwan Guillou",
+"site": "https://liris.cnrs.fr/page-membre/erwan-guillou",
+"statut": "MCF",
+"employeur": "Université Claude Bernard Lyon 1",
+"emerite": false
+},
+{
+"nom": "Hamid Ladjal",
+"site": "https://liris.cnrs.fr/page-membre/hamid-ladjal",
+"statut": "MCF",
+"employeur": "Université Claude Bernard Lyon 1",
+"emerite": false
+},
+{
+"nom": "Alexandre Meyer",
+"site": "http://alexandre.meyer.pages.univ-lyon1.fr/www/",
+"statut": "PR",
+"employeur": "Université Claude Bernard Lyon 1",
+"emerite": false
+},
+{
+"nom": "Nicolas Pronost",
+"site": "https://perso.liris.cnrs.fr/nicolas.pronost/",
+"statut": "MCF",
+"employeur": "Université Claude Bernard Lyon 1",
+"emerite": false
+},
+{
+"nom": "Behzad Shariat",
+"site": "https://liris.cnrs.fr/page-membre/behzad-shariat",
+"statut": "PR",
+"employeur": "Université Claude Bernard Lyon 1",
+"emerite": false
+}
+],
+"source": "https://saara.projet.liris.cnrs.fr/members/"
+},
+"LIRMM/ICAR": {
+"liste": [
+{
+"nom": "Guillaume Captier",
+"site": null,
+"statut": "PU-PH",
+"employeur": "CHU Montpellier / Université de Montpellier",
+"emerite": false
+},
+{
+"nom": "Frédéric Comby",
+"site": null,
+"statut": "MCF",
+"employeur": "Université de Montpellier",
+"emerite": false
+},
+{
+"nom": "Martha Duraes",
+"site": null,
+"statut": "MCU-PH",
+"employeur": "CHU Montpellier / Université de Montpellier",
+"emerite": false
+},
+{
+"nom": "Noura Faraj",
+"site": "https://www.lirmm.fr/~nfaraj/",
+"statut": "MCF",
+"employeur": "Université de Montpellier",
+"emerite": false
+},
+{
+"nom": "Emmanuel Faure",
+"site": "https://www.lirmm.fr/~efaure/",
+"statut": "CRCN HDR",
+"employeur": "CNRS",
+"emerite": false
+},
+{
+"nom": "Valentin Favier",
+"site": null,
+"statut": "PU-PH",
+"employeur": "CHU Montpellier / Université de Montpellier",
+"emerite": false
+},
+{
+"nom": "Christophe Fiorio",
+"site": null,
+"statut": "PR",
+"employeur": "Université de Montpellier",
+"emerite": false
+},
+{
+"nom": "Guillaume Gay",
+"site": null,
+"statut": "IR",
+"employeur": "Université de Montpellier",
+"emerite": false
+},
+{
+"nom": "Nicolas Lutz",
+"site": null,
+"statut": "MCF",
+"employeur": "Université de Montpellier",
+"emerite": false
+},
+{
+"nom": "William Puech",
+"site": "https://www.lirmm.fr/~wpuech/",
+"statut": "PR",
+"employeur": "Université de Montpellier",
+"emerite": false
+},
+{
+"nom": "Pauline Puteaux",
+"site": "https://paulineputeaux.github.io/",
+"statut": "CRCN",
+"employeur": "CNRS",
+"emerite": false
+},
+{
+"nom": "Olivier Strauss",
+"site": "https://www.lirmm.fr/~strauss/",
+"statut": "PR",
+"employeur": "Université de Montpellier",
+"emerite": false
+},
+{
+"nom": "Gérard Subsol",
+"site": "https://www.lirmm.fr/~subsol/",
+"statut": "CRHC",
+"employeur": "CNRS",
+"emerite": false
+}
+],
+"source": "https://www.lirmm.fr/icar/permanent.html"
+},
+"LIX/VISTA": {
+"liste": [
+{
+"nom": "Marie-Paule Cani",
+"site": "https://www.lix.polytechnique.fr/vista/vista-member/marie-paule_cani/index.html",
+"statut": "PR",
+"employeur": "École polytechnique",
+"emerite": false
+},
+{
+"nom": "Vicky Kalogeiton",
+"site": "https://vicky.kalogeiton.info/",
+"statut": "PR",
+"employeur": "École polytechnique",
+"emerite": false
+},
+{
+"nom": "Damien Rohmer",
+"site": "https://damienrohmer.fr/",
+"statut": "PR",
+"employeur": "École polytechnique",
+"emerite": false
+},
+{
+"nom": "Xi Wang",
+"site": "https://triocrossing.github.io/",
+"statut": "Assistant Professor (tenure-track)",
+"employeur": "École polytechnique",
+"emerite": false
+}
+],
+"source": "https://www.lix.polytechnique.fr/vista/members/index.html"
+},
+"LIX/GeomeriX": {
+"liste": [
+{
+"nom": "Jiong Chen",
+"site": "https://jiongchen.github.io/",
+"statut": "Researcher",
+"employeur": "Inria",
+"emerite": false
+},
+{
+"nom": "Mathieu Desbrun",
+"site": "https://pages.saclay.inria.fr/mathieu.desbrun/",
+"statut": "Senior Researcher",
+"employeur": "Inria",
+"emerite": false
+},
+{
+"nom": "Pooran Memari",
+"site": "https://www.lix.polytechnique.fr/~memari/",
+"statut": "Researcher HDR",
+"employeur": "CNRS",
+"emerite": false
+},
+{
+"nom": "Steve Oudot",
+"site": "https://geometrica.saclay.inria.fr/Steve.Oudot/",
+"statut": "Senior Researcher",
+"employeur": "Inria",
+"emerite": false
+},
+{
+"nom": "Maks Ovsjanikov",
+"site": "https://www.lix.polytechnique.fr/~maks/",
+"statut": "Senior Researcher",
+"employeur": "LIX",
+"emerite": false
+}
+],
+"source": "https://radar.inria.fr/report/2025/geomerix/"
+},
+"LJK/ELAN": {
+"liste": [
+{
+"nom": "Florence Bertails-Descoubes",
+"site": "https://elan.inrialpes.fr/people/bertails/",
+"statut": "Senior Researcher",
+"employeur": "Inria",
+"emerite": false
+},
+{
+"nom": "Victor Romero Gramegna",
+"site": "https://elan.inrialpes.fr/people/vromerog/",
+"statut": "ISFP",
+"employeur": "Inria",
+"emerite": false
+},
+{
+"nom": "Thibaut Metivet",
+"site": "https://tmetivet.gitlab.io/webpage/",
+"statut": "Researcher",
+"employeur": "Inria",
+"emerite": false
+}
+],
+"source": "https://radar.inria.fr/report/2025/elan/"
+},
+"LJK/MAVERICK": {
+"liste": [
+{
+"nom": "Nicolas Holzschuch",
+"site": "https://maverick.inria.fr/~Nicolas.Holzschuch/",
+"statut": "Senior Researcher",
+"employeur": "Inria",
+"emerite": false
+},
+{
+"nom": "Fabrice Neyret",
+"site": "https://www-evasion.imag.fr/Membres/Fabrice.Neyret/",
+"statut": "Senior Researcher",
+"employeur": "CNRS",
+"emerite": false
+},
+{
+"nom": "Cyril Soler",
+"site": "https://maverick.inria.fr/~Cyril.Soler/",
+"statut": "Researcher HDR",
+"employeur": "Inria",
+"emerite": false
+},
+{
+"nom": "Joëlle Thollot",
+"site": "https://maverick.inria.fr/~Joelle.Thollot/",
+"statut": "Professor",
+"employeur": "Grenoble INP",
+"emerite": false
+},
+{
+"nom": "Thibault Tricard",
+"site": "http://thibaulttricard.fr/",
+"statut": "Associate Professor",
+"employeur": "Grenoble INP",
+"emerite": false
+},
+{
+"nom": "Romain Vergne",
+"site": "https://maverick.inria.fr/~Romain.Vergne/",
+"statut": "Associate Professor",
+"employeur": "UGA",
+"emerite": false
+}
+],
+"source": "https://radar.inria.fr/report/2025/maverick/"
+},
+"LJK/CRAFT": {
+"liste": [
+{
+"nom": "Georges-Pierre Bonneau",
+"site": "https://team.inria.fr/craft/georges-pierre-bonneau/",
+"statut": "Professor",
+"employeur": "UGA",
+"emerite": false
+},
+{
+"nom": "Guillaume Coiffier",
+"site": "https://gcoiffier.github.io/",
+"statut": "Researcher",
+"employeur": "Inria",
+"emerite": false
+},
+{
+"nom": "Marco Freire",
+"site": "https://mfremer.github.io/",
+"statut": "Associate Professor",
+"employeur": "Grenoble INP",
+"emerite": false
+},
+{
+"nom": "Stefanie Hahmann",
+"site": "https://team.inria.fr/craft/stefanie-hahmann/",
+"statut": "Professor",
+"employeur": "Grenoble INP",
+"emerite": false
+},
+{
+"nom": "Mélina Skouras",
+"site": "https://imagine.inrialpes.fr/people/mskouras/index.htm",
+"statut": "Researcher",
+"employeur": "Inria",
+"emerite": false
+}
+],
+"source": "https://radar.inria.fr/report/2025/craft/"
+},
+"LJK/Kinetix": {
+"liste": [
+{
+"nom": "Edmond Boyer",
+"site": null,
+"statut": "Senior Researcher",
+"employeur": "Inria",
+"emerite": false
+},
+{
+"nom": "Jean-Sébastien Franco",
+"site": "https://morpheo.inrialpes.fr/~franco/",
+"statut": "Senior Researcher",
+"employeur": "Inria",
+"emerite": false
+},
+{
+"nom": "Sergi Pujades",
+"site": null,
+"statut": "Associate Professor HDR",
+"employeur": "UGA",
+"emerite": false
+},
+{
+"nom": "Stefanie Wuhrer",
+"site": "https://swuhrer.gitlabpages.inria.fr/website/",
+"statut": "Researcher HDR",
+"employeur": "Inria",
+"emerite": false
+}
+],
+"source": "https://team.inria.fr/kinetix/team/"
+},
+"LIS/GMOD": {
+"liste": [
+{
+"nom": "Alexandra Bac",
+"site": "https://pageperso.lis-lab.fr/alexandra.bac/",
+"statut": "MCF HDR",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Clémence Chomicki",
+"site": null,
+"statut": "",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Brett Desbenoit",
+"site": "https://g-mod.lis-lab.fr/membres/brett-desbenoit/",
+"statut": "MCF",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Aldo Gonzalez-Lorenzo",
+"site": "https://pageperso.lis-lab.fr/aldo.gonzalez-lorenzo/",
+"statut": "MCF",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Ricardo Uribe Lobello",
+"site": "https://g-mod.lis-lab.fr/membres/ricardo-uribe-lobello/",
+"statut": "MCF",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Jean-Luc Mari",
+"site": "https://g-mod.lis-lab.fr/membres/jean-luc-mari/",
+"statut": "PR",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Sébastien Mavromatis",
+"site": "https://g-mod.lis-lab.fr/membres/sebastien-mavromatis/",
+"statut": "PR",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Yvàn Rasskin",
+"site": null,
+"statut": "MCF",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Éric Remy",
+"site": "https://g-mod.lis-lab.fr/membres/eric-remy/",
+"statut": "MCF",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Sébastien Thon",
+"site": "https://g-mod.lis-lab.fr/membres/sebastien-thon/",
+"statut": "MCF",
+"employeur": "",
+"emerite": false
+}
+],
+"source": "https://www.lis-lab.fr/gmod/"
+},
+"LTCI/IMAGES": {
+"liste": [
+{
+"nom": "Elsa Angelini",
+"site": "https://perso.telecom-paristech.fr/angelini/",
+"statut": "Professor",
+"employeur": "Télécom Paris",
+"emerite": false
+},
+{
+"nom": "Quentin Bammey",
+"site": "https://bammey.com/",
+"statut": "Associate Professor",
+"employeur": "Télécom Paris",
+"emerite": false
+},
+{
+"nom": "Maxime Di Folco",
+"site": "https://www.telecom-paris.fr/maxime-di-folco",
+"statut": "Assistant Professor",
+"employeur": "Télécom Paris",
+"emerite": false
+},
+{
+"nom": "Loïc Le Folgoc",
+"site": "https://perso.telecom-paristech.fr/lefolgoc/",
+"statut": "Associate Professor",
+"employeur": "Télécom Paris",
+"emerite": false
+},
+{
+"nom": "Pietro Gori",
+"site": "https://pietrogori.github.io/",
+"statut": "Professor",
+"employeur": "Télécom Paris",
+"emerite": false
+},
+{
+"nom": "Yann Gousseau",
+"site": "https://gousseau.wp.imt.fr/",
+"statut": "Professor",
+"employeur": "Télécom Paris",
+"emerite": false
+},
+{
+"nom": "Christophe Kervazo",
+"site": "https://sites.google.com/view/christophekervazo/",
+"statut": "Associate Professor",
+"employeur": "Télécom Paris",
+"emerite": false
+},
+{
+"nom": "Said Ladjal",
+"site": "https://perso.telecom-paristech.fr/ladjal/",
+"statut": "Professor",
+"employeur": "Télécom Paris",
+"emerite": false
+},
+{
+"nom": "Arthur Leclaire",
+"site": "https://perso.telecom-paristech.fr/aleclaire/",
+"statut": "Professor",
+"employeur": "Télécom Paris",
+"emerite": false
+},
+{
+"nom": "Amal Dev Parakkat",
+"site": "https://perso.telecom-paristech.fr/parakkat/",
+"statut": "Associate Professor",
+"employeur": "Télécom Paris",
+"emerite": false
+},
+{
+"nom": "Florence Tupin",
+"site": "https://perso.telecom-paristech.fr/tupin/",
+"statut": "Professor",
+"employeur": "Télécom Paris",
+"emerite": false
+},
+{
+"nom": "Kiwon Um",
+"site": "https://perso.telecom-paristech.fr/kum/",
+"statut": "Associate Professor",
+"employeur": "Télécom Paris",
+"emerite": false
+},
+{
+"nom": "Henri Maître",
+"site": "https://perso.telecom-paristech.fr/maitre/",
+"statut": "Professor Emeritus",
+"employeur": "Télécom Paris",
+"emerite": true
+}
+],
+"source": "https://www.telecom-paris.fr/en/research/labs/information-processing-ltci/teams/image-modeling-analysis-geometry-synthesis"
+},
+"XLIM/IG": {
+"liste": [
+{
+"nom": "Sylvie Alayrangues",
+"site": null,
+"statut": "MCF",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Eric Andres",
+"site": null,
+"statut": "PR",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Agnès Arnould",
+"site": null,
+"statut": "MCF",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Yves Bertrand",
+"site": null,
+"statut": "PR",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Nicolas Courilleau",
+"site": null,
+"statut": "MCF de l'enseignement supérieur agricole",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Hakim Ferrier-Belhaouari",
+"site": null,
+"statut": "MCF",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Laurent Fuchs",
+"site": null,
+"statut": "PR",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Sébastien Horna",
+"site": null,
+"statut": "PR",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Gaëlle Largeteau-Skapin",
+"site": null,
+"statut": "MCF",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Pascal Lienhardt",
+"site": null,
+"statut": "PR",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Maxime Maria",
+"site": null,
+"statut": "MCF",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Daniel Meneveaux",
+"site": "https://d-meneveaux.blogspot.com/",
+"statut": "PR",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Philippe Meseure",
+"site": null,
+"statut": "PR",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Marc Parenthoën",
+"site": null,
+"statut": "MCF",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Samuel Peltier",
+"site": null,
+"statut": "PR",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Wassim Rharbaoui",
+"site": null,
+"statut": "MCF",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Mickaël Ribardière",
+"site": null,
+"statut": "MCF",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Xavier Skapin",
+"site": null,
+"statut": "MCF",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Gilles Subrenat",
+"site": null,
+"statut": "MCF",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Rita Zrour",
+"site": null,
+"statut": "MCF",
+"employeur": "",
+"emerite": false
+}
+],
+"source": "https://www.xlim.fr/annuaire/?axe=ASALI&equipe=IG"
+},
+"XLIM/SIR": {
+"liste": [
+{
+"nom": "Frédéric Claux",
+"site": "https://www.unilim.fr/pages_perso/frederic.claux/",
+"statut": "MCF",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Benoît Crespin",
+"site": "https://www.unilim.fr/pages_perso/benoit.crespin/",
+"statut": "PR",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Mohamed Hamroun",
+"site": null,
+"statut": "Enseignant-chercheur",
+"employeur": "3IL",
+"emerite": false
+},
+{
+"nom": "Vincent Jolivet",
+"site": null,
+"statut": "MCF",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Georges Miaoulis",
+"site": null,
+"statut": "PR",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Frédéric Mora",
+"site": "https://www.unilim.fr/pages_perso/frederic.mora/",
+"statut": "MCF",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Nicolas Mérillou",
+"site": null,
+"statut": "MCF",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Stéphane Mérillou",
+"site": "https://www.unilim.fr/pages_perso/stephane.merillou/",
+"statut": "PR",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Nathan Sanchiz-Viel",
+"site": null,
+"statut": "MCF",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Olivier Terraz",
+"site": null,
+"statut": "PR",
+"employeur": "",
+"emerite": false
+}
+],
+"source": "https://www.xlim.fr/annuaire/?equipe=SIR"
+},
+"LORIA/MFX": {
+"liste": [
+{
+"nom": "Xavier Chermain",
+"site": "https://xavierchermain.github.io/",
+"statut": "ISFP",
+"employeur": "Inria",
+"emerite": false
+},
+{
+"nom": "Sylvain Lefebvre",
+"site": "https://www.antexel.com/sylefeb-research/",
+"statut": "Senior Researcher (DR)",
+"employeur": "Inria",
+"emerite": false
+},
+{
+"nom": "Jonàs Martínez",
+"site": "https://sites.google.com/site/jonasmartinezbayona/",
+"statut": "Researcher (CR)",
+"employeur": "Inria",
+"emerite": false
+},
+{
+"nom": "Camille Schreck",
+"site": "https://schreckc.github.io/",
+"statut": "ISFP",
+"employeur": "Inria",
+"emerite": false
+},
+{
+"nom": "Cédric Zanni",
+"site": "https://members.loria.fr/CZanni/",
+"statut": "Associate Professor (MCF)",
+"employeur": "Université de Lorraine",
+"emerite": false
+}
+],
+"source": "https://radar.inria.fr/report/2025/mfx/"
+},
+"LORIA/PIXEL": {
+"liste": [
+{
+"nom": "Laurent Alonso",
+"site": "https://members.loria.fr/LAlonso/",
+"statut": "Researcher",
+"employeur": "Inria",
+"emerite": false
+},
+{
+"nom": "Dobrina Boltcheva",
+"site": "https://members.loria.fr/DBoltcheva/",
+"statut": "Associate Professor",
+"employeur": "Université de Lorraine",
+"emerite": false
+},
+{
+"nom": "Étienne Corman",
+"site": "https://members.loria.fr/ECorman/",
+"statut": "Researcher",
+"employeur": "CNRS",
+"emerite": false
+},
+{
+"nom": "Nicolas Ray",
+"site": "https://members.loria.fr/NRay/",
+"statut": "Researcher",
+"employeur": "Inria",
+"emerite": false
+},
+{
+"nom": "Dmitry Sokolov",
+"site": "https://haqr.eu/",
+"statut": "Professor",
+"employeur": "Université de Lorraine",
+"emerite": false
+}
+],
+"source": "https://radar.inria.fr/report/2025/pixel/"
+},
+"LaBRI/Manao": {
+"liste": [
+{
+"nom": "Pascal Barla",
+"site": "https://www.labri.fr/perso/barla/",
+"statut": "Researcher, HDR",
+"employeur": "Inria",
+"emerite": false
+},
+{
+"nom": "Jean Basset",
+"site": "https://jbasset.github.io/",
+"statut": "Associate Professor",
+"employeur": "Université de Bordeaux",
+"emerite": false
+},
+{
+"nom": "Pierre Bénard",
+"site": "https://www.labri.fr/perso/pbenard/",
+"statut": "Associate Professor",
+"employeur": "Université de Bordeaux",
+"emerite": false
+},
+{
+"nom": "Morgane Gerardin",
+"site": "https://morganegerardin.github.io/",
+"statut": "Researcher",
+"employeur": "Inria",
+"emerite": false
+},
+{
+"nom": "Gaël Guennebaud",
+"site": "https://www.labri.fr/perso/guenneba/",
+"statut": "Researcher",
+"employeur": "Inria",
+"emerite": false
+},
+{
+"nom": "Romain Pacanowski",
+"site": "https://people.bordeaux.inria.fr/romain.pacanowski/",
+"statut": "Researcher, HDR",
+"employeur": "Inria",
+"emerite": false
+},
+{
+"nom": "Patrick Reuter",
+"site": "https://www.labri.fr/perso/preuter/",
+"statut": "Associate Professor, HDR",
+"employeur": "Université de Bordeaux",
+"emerite": false
+}
+],
+"source": "https://radar.inria.fr/report/2025/manao/"
+},
+"LISIC/SEPIA": {
+"liste": [
+{
+"nom": "Rémi Cozot",
+"site": "http://cozot.free.fr/",
+"statut": "PR",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Julien Dehos",
+"site": "https://juliendehos.gitlab.io/",
+"statut": "MCF",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Samuel Delepoulle",
+"site": "https://delepoulle.github.io/",
+"statut": "MCF HDR",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Christophe Renaud",
+"site": "https://lisic-prod.univ-littoral.fr/author/christopherenaud/",
+"statut": "PR",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "François Rousselle",
+"site": "https://lisic-prod.univ-littoral.fr/author/francoisrousselle/",
+"statut": "MCF",
+"employeur": "",
+"emerite": false
+},
+{
+"nom": "Rémi Synave",
+"site": "https://lisic-prod.univ-littoral.fr/author/synave/",
+"statut": "MCF",
+"employeur": "",
+"emerite": false
+}
+],
+"source": "https://lisic-prod.univ-littoral.fr/equipe/sepia/"
+},
+"Inria/GraphDeco": {
+"liste": [
+{
+"nom": "Adrien Bousseau",
+"site": "http://www-sop.inria.fr/members/Adrien.Bousseau/",
+"statut": "Senior Researcher",
+"employeur": "Inria",
+"emerite": false
+},
+{
+"nom": "Guillaume Cordonnier",
+"site": "http://www-sop.inria.fr/members/Guillaume.Cordonnier/",
+"statut": "Researcher",
+"employeur": "Inria",
+"emerite": false
+},
+{
+"nom": "George Drettakis",
+"site": "http://www-sop.inria.fr/members/George.Drettakis/",
+"statut": "Senior Researcher",
+"employeur": "Inria",
+"emerite": false
+}
+],
+"source": "https://radar.inria.fr/report/2025/graphdeco/"
+},
+"Inria/Titane": {
+"liste": [
+{
+"nom": "Pierre Alliez",
+"site": "https://team.inria.fr/titane/pierre-alliez/",
+"statut": "Senior Researcher",
+"employeur": "Inria",
+"emerite": false
+},
+{
+"nom": "Florent Lafarge",
+"site": "https://www-sop.inria.fr/members/Florent.Lafarge/",
+"statut": "Senior Researcher",
+"employeur": "Inria",
+"emerite": false
+},
+{
+"nom": "François Protais",
+"site": "https://fprotais.github.io/",
+"statut": "Researcher",
+"employeur": "Inria",
+"emerite": false
+}
+],
+"source": "https://radar.inria.fr/report/2025/titane/"
+},
+"Inria/AVIZ": {
+"liste": [
+{
+"nom": "Florent Cabric",
+"site": "https://florentcabric.com/",
+"statut": "Associate Professor",
+"employeur": "Université Paris-Saclay",
+"emerite": false
+},
+{
+"nom": "Jean-Daniel Fekete",
+"site": "http://www.aviz.fr/~fekete/",
+"statut": "Senior Researcher (DR)",
+"employeur": "Inria",
+"emerite": false
+},
+{
+"nom": "Petra Isenberg",
+"site": "http://petra.isenberg.cc/",
+"statut": "Senior Researcher (DR)",
+"employeur": "Inria",
+"emerite": false
+},
+{
+"nom": "Tobias Isenberg",
+"site": "http://tobias.isenberg.cc/",
+"statut": "Senior Researcher (DR)",
+"employeur": "Inria",
+"emerite": false
+},
+{
+"nom": "Frédéric Vernier",
+"site": "http://vernier.frederic.free.fr/?Content=Infovis",
+"statut": "Associate Professor",
+"employeur": "Université Paris-Saclay",
+"emerite": false
+}
+],
+"source": "https://radar.inria.fr/report/2025/aviz/"
+},
+"ICUBE/MIMESIS": {
+"liste": [
+{
+"nom": "Pablo Alvarez",
+"site": null,
+"statut": "CR",
+"employeur": "Inria",
+"emerite": false
+},
+{
+"nom": "Stéphane Cotin",
+"site": "https://team.inria.fr/mimesis/members/stephane-cotin/",
+"statut": "DR",
+"employeur": "Inria",
+"emerite": false
+},
+{
+"nom": "Hadrien Courtecuisse",
+"site": "https://hadrien.courtecuisse.cnrs.fr",
+"statut": "CR",
+"employeur": "CNRS",
+"emerite": false
+},
+{
+"nom": "Michel Duprez",
+"site": "https://michelduprez.fr",
+"statut": "CR",
+"employeur": "Inria",
+"emerite": false
+},
+{
+"nom": "Axel Hutt",
+"site": null,
+"statut": "DR",
+"employeur": "Inria",
+"emerite": false
+}
+],
+"source": "https://team.inria.fr/mimesis/members/"
+},
+"IBISC/IRA2": {
+"liste": [
+{
+"nom": "Samer Alfayad",
+"site": "https://www.ibisc.univ-evry.fr/membre?user=238",
+"statut": "PR",
+"employeur": "Université d'Évry Paris-Saclay",
+"emerite": false
+},
+{
+"nom": "Hichem Arioui",
+"site": "https://www.ibisc.univ-evry.fr/~harioui/",
+"statut": "PR",
+"employeur": "Université d'Évry Paris-Saclay",
+"emerite": false
+},
+{
+"nom": "Laredj Benchikh",
+"site": "https://www.ibisc.univ-evry.fr/membre?user=27",
+"statut": "MCF",
+"employeur": "Université d'Évry Paris-Saclay",
+"emerite": false
+},
+{
+"nom": "Guillaume Bouyer",
+"site": "https://www.ibisc.univ-evry.fr/~gbouyer/",
+"statut": "MCF",
+"employeur": "Université d'Évry Paris-Saclay",
+"emerite": false
+},
+{
+"nom": "Aylen Ricca Cambón",
+"site": "https://www.ibisc.univ-evry.fr/membre?user=151",
+"statut": "MCF",
+"employeur": "Université d'Évry Paris-Saclay",
+"emerite": false
+},
+{
+"nom": "Rémi Chalard",
+"site": "https://www.ibisc.univ-evry.fr/membre?user=339",
+"statut": "MCF",
+"employeur": "Université d'Évry Paris-Saclay",
+"emerite": false
+},
+{
+"nom": "Amine Chellali",
+"site": "https://amine-chellali.name/",
+"statut": "MCF HDR",
+"employeur": "Université d'Évry Paris-Saclay",
+"emerite": false
+},
+{
+"nom": "Frédéric Davesne",
+"site": "https://www.ibisc.univ-evry.fr/~fdavesne",
+"statut": "IR",
+"employeur": "Université d'Évry Paris-Saclay",
+"emerite": false
+},
+{
+"nom": "Jean-Yves Didier",
+"site": "https://www.ibisc.univ-evry.fr/~jydidier",
+"statut": "PR",
+"employeur": "Université d'Évry Paris-Saclay",
+"emerite": false
+},
+{
+"nom": "Khalifa Djemal",
+"site": "http://lsc.univ-evry.fr/~djemal/",
+"statut": "PR",
+"employeur": "Université d'Évry Paris-Saclay",
+"emerite": false
+},
+{
+"nom": "Hicham Hadj-Abdelkader",
+"site": "https://www.ibisc.univ-evry.fr/~hhadjabdelkader/",
+"statut": "MCF",
+"employeur": "Université d'Évry Paris-Saclay",
+"emerite": false
+},
+{
+"nom": "Guillaume Loup",
+"site": "https://www.ibisc.univ-evry.fr/~gloup",
+"statut": "MCF",
+"employeur": "Université d'Évry Paris-Saclay",
+"emerite": false
+},
+{
+"nom": "Malik Mallem",
+"site": "http://lsc.univ-evry.fr/~mallem/doku/doku.php?id=start",
+"statut": "PR",
+"employeur": "Université d'Évry Paris-Saclay",
+"emerite": false
+},
+{
+"nom": "Christophe Montagne",
+"site": "https://www.ibisc.univ-evry.fr/membre?user=55",
+"statut": "MCF",
+"employeur": "Université d'Évry Paris-Saclay",
+"emerite": false
+},
+{
+"nom": "Najett Neji",
+"site": "https://www.ibisc.univ-evry.fr/membre?user=57",
+"statut": "MCF",
+"employeur": "Université d'Évry Paris-Saclay",
+"emerite": false
+},
+{
+"nom": "Samir Otmane",
+"site": "https://www.ibisc.univ-evry.fr/~sotmane/",
+"statut": "PR",
+"employeur": "Université d'Évry Paris-Saclay",
+"emerite": false
+},
+{
+"nom": "David Roussel",
+"site": "https://www.ibisc.univ-evry.fr/membre?user=63",
+"statut": "MCF",
+"employeur": "Université d'Évry Paris-Saclay",
+"emerite": false
+},
+{
+"nom": "Désiré Sidibé",
+"site": "https://www.ibisc.univ-evry.fr/membre?user=237",
+"statut": "PR",
+"employeur": "Université d'Évry Paris-Saclay",
+"emerite": false
+},
+{
+"nom": "Hang Su",
+"site": "https://www.ibisc.univ-evry.fr/membre?user=368",
+"statut": "PR",
+"employeur": "Université d'Évry Paris-Saclay",
+"emerite": false
+},
+{
+"nom": "Nicolas Séguy",
+"site": "https://www.ibisc.univ-evry.fr/membre?user=64",
+"statut": "MCF",
+"employeur": "Université d'Évry Paris-Saclay",
+"emerite": false
+},
+{
+"nom": "Hédi Tabia",
+"site": "https://www.ibisc.univ-evry.fr/~htabia/",
+"statut": "PR",
+"employeur": "Université d'Évry Paris-Saclay",
+"emerite": false
+},
+{
+"nom": "Étienne Colle",
+"site": "https://www.ibisc.univ-evry.fr/membre?user=33",
+"statut": "émérite",
+"employeur": "Université d'Évry Paris-Saclay",
+"emerite": true
+},
+{
+"nom": "Sylvie Lelandais-Bonadé",
+"site": "https://www.ibisc.univ-evry.fr/membre?user=49",
+"statut": "émérite",
+"employeur": "Université d'Évry Paris-Saclay",
+"emerite": true
+}
+],
+"source": "https://www.ibisc.univ-evry.fr/membre/membre-ira2/"
+},
+"Lab-STICC/INUIT": {
+"liste": [
+{
+"nom": "Élodie Bouzekri",
+"site": "https://labsticc.fr/fr/lab-sticc/annuaire/bouzekri-elodie",
+"statut": "MCF",
+"employeur": "Université de Bretagne Occidentale",
+"emerite": false
+},
+{
+"nom": "Gilles Coppin",
+"site": "https://labsticc.fr/fr/lab-sticc/annuaire/coppin-gilles",
+"statut": "PR",
+"employeur": "IMT Atlantique",
+"emerite": false
+},
+{
+"nom": "Frédéric Devillers",
+"site": "https://labsticc.fr/fr/lab-sticc/annuaire/devillers-frederic",
+"statut": "IR",
+"employeur": "ENIB",
+"emerite": false
+},
+{
+"nom": "Thierry Duval",
+"site": "https://sites.google.com/site/thierryduvalwebsite/",
+"statut": "PR",
+"employeur": "IMT Atlantique",
+"emerite": false
+},
+{
+"nom": "Cédric Fleury",
+"site": "https://www.cedricfleury.fr/",
+"statut": "MCF",
+"employeur": "IMT Atlantique",
+"emerite": false
+},
+{
+"nom": "Yann Glémarec",
+"site": "https://labsticc.fr/fr/lab-sticc/annuaire/glemarec-yann",
+"statut": "MCF",
+"employeur": "Université de Bretagne Occidentale",
+"emerite": false
+},
+{
+"nom": "Sébastien Kubicki",
+"site": "https://labsticc.fr/fr/lab-sticc/annuaire/kubicki-sebastien",
+"statut": "MCF",
+"employeur": "ENIB",
+"emerite": false
+},
+{
+"nom": "Guillaume Moreau",
+"site": "https://guillaumemoreau.github.io",
+"statut": "PR",
+"employeur": "IMT Atlantique",
+"emerite": false
+},
+{
+"nom": "Alexis Nédélec",
+"site": "https://labsticc.fr/fr/lab-sticc/annuaire/nedelec-alexis",
+"statut": "MCF",
+"employeur": "ENIB",
+"emerite": false
+},
+{
+"nom": "Étienne Peillard",
+"site": "https://www.etiennepeillard.com/",
+"statut": "MCF",
+"employeur": "IMT Atlantique",
+"emerite": false
+},
+{
+"nom": "Ronan Querrec",
+"site": "https://labsticc.fr/fr/lab-sticc/annuaire/querrec-ronan",
+"statut": "PR",
+"employeur": "ENIB",
+"emerite": false
+},
+{
+"nom": "Jérémy Rivière",
+"site": "https://labsticc.fr/fr/lab-sticc/annuaire/riviere-jeremy",
+"statut": "MCF",
+"employeur": "Université de Bretagne Occidentale",
+"emerite": false
+},
+{
+"nom": "Vincent Rodin",
+"site": "https://labsticc.fr/fr/lab-sticc/annuaire/rodin-vincent",
+"statut": "PR",
+"employeur": "Université de Bretagne Occidentale",
+"emerite": false
+}
+],
+"source": "https://labsticc.fr/fr/equipes/inuit/"
+},
+"LAMA/LIMD": {
+"liste": [
+{
+"nom": "Stéphane Breuils",
+"site": "https://sbreuils.github.io/",
+"statut": "MCF",
+"employeur": "Université Savoie Mont Blanc",
+"emerite": false
+},
+{
+"nom": "Valentin Gledel",
+"site": "https://vgledel.github.io/",
+"statut": "MCF",
+"employeur": "Université Savoie Mont Blanc",
+"emerite": false
+},
+{
+"nom": "Tom Hirschowitz",
+"site": "https://hirschowitz.pages.math.cnrs.fr/",
+"statut": "DR",
+"employeur": "CNRS",
+"emerite": false
+},
+{
+"nom": "Pierre Hyvernat",
+"site": "https://pierre-hyvernat.apps.math.cnrs.fr/",
+"statut": "MCF",
+"employeur": "Université Savoie Mont Blanc",
+"emerite": false
+},
+{
+"nom": "Jacques-Olivier Lachaud",
+"site": "https://jacquesolivierlachaud.github.io/",
+"statut": "PR",
+"employeur": "Université Savoie Mont Blanc",
+"emerite": false
+},
+{
+"nom": "Karim Nour",
+"site": "http://karim.perso.math.cnrs.fr",
+"statut": "MCF",
+"employeur": "Université Savoie Mont Blanc",
+"emerite": false
+},
+{
+"nom": "Sébastien Tavenas",
+"site": "https://tavenas.perso.math.cnrs.fr",
+"statut": "CR",
+"employeur": "CNRS",
+"emerite": false
+},
+{
+"nom": "Laurent Vuillon",
+"site": "https://laurentvuillon.github.io/",
+"statut": "PR",
+"employeur": "Université Savoie Mont Blanc",
+"emerite": false
+},
+{
+"nom": "Krzysztof Worytkiewicz",
+"site": "https://www.lama.univ-smb.fr/members/default/worytkiewiczk",
+"statut": "PR",
+"employeur": "Université Savoie Mont Blanc",
+"emerite": false
+}
+],
+"source": "https://www.lama.univ-smb.fr/members/limd"
+},
+"LAMPA/Réalités étendues": {
+"liste": [
+{
+"nom": "Olivier Christmann",
+"site": "https://lampa.artsetmetiers.fr/profile/4",
+"statut": "MCF HDR",
+"employeur": "Arts et Métiers (Institut de Laval)",
+"emerite": false
+},
+{
+"nom": "Sylvain Fleury",
+"site": "https://lampa.artsetmetiers.fr/profile/15",
+"statut": "enseignant-chercheur (CPJ)",
+"employeur": "Arts et Métiers (Institut de Laval)",
+"emerite": false
+},
+{
+"nom": "Geoffrey Gorisse",
+"site": "https://lampa.artsetmetiers.fr/profile/42",
+"statut": "MCF",
+"employeur": "Arts et Métiers (Institut de Laval)",
+"emerite": false
+},
+{
+"nom": "Abdelmajid Kadri",
+"site": "https://lampa.artsetmetiers.fr/profile/47",
+"statut": "IR",
+"employeur": "Arts et Métiers (Institut de Laval)",
+"emerite": false
+},
+{
+"nom": "Simon Richir",
+"site": "https://simonrichir.fr/",
+"statut": "PR",
+"employeur": "Arts et Métiers (Institut de Laval)",
+"emerite": false
+}
+],
+"source": "https://lampa.artsetmetiers.fr/les-personnels?field_equipe_target_id=24"
+},
+"LS2N/IPI": {
+"liste": [
+{
+"nom": "Islam Barchouch",
+"site": "https://www.ls2n.fr/membres/barchouch-i",
+"statut": "MCF",
+"employeur": "Nantes Université",
+"emerite": false
+},
+{
+"nom": "Alexandre Bruckert",
+"site": "https://www.ls2n.fr/membres/bruckert-a",
+"statut": "MCF",
+"employeur": "Nantes Université",
+"emerite": false
+},
+{
+"nom": "Patrick Le Callet",
+"site": "https://www.ls2n.fr/membres/lecallet-p",
+"statut": "PR",
+"employeur": "Nantes Université",
+"emerite": false
+},
+{
+"nom": "Minh Quan Dao",
+"site": "https://www.ls2n.fr/membres/dao-m",
+"statut": "MCF",
+"employeur": "Nantes Université",
+"emerite": false
+},
+{
+"nom": "Pierre Lebranchu",
+"site": "https://www.ls2n.fr/membres/lebranchu-p",
+"statut": "PU-PH",
+"employeur": "CHU de Nantes",
+"emerite": false
+},
+{
+"nom": "Thomas Leduc",
+"site": "https://www.ls2n.fr/membres/leduc-t-2",
+"statut": "IR HDR",
+"employeur": "Centrale Nantes",
+"emerite": false
+},
+{
+"nom": "Sébastien Levilly",
+"site": "https://www.ls2n.fr/membres/levilly-s",
+"statut": "MCF",
+"employeur": "Nantes Université",
+"emerite": false
+},
+{
+"nom": "Jean-Yves Martin",
+"site": "https://www.ls2n.fr/membres/martin-jy",
+"statut": "MCF",
+"employeur": "Centrale Nantes",
+"emerite": false
+},
+{
+"nom": "Harold Mouchère",
+"site": "https://www.ls2n.fr/membres/mouchere-h",
+"statut": "PR",
+"employeur": "Nantes Université",
+"emerite": false
+},
+{
+"nom": "Nicolas Normand",
+"site": "https://www.ls2n.fr/membres/normand-n",
+"statut": "PR",
+"employeur": "Nantes Université",
+"emerite": false
+},
+{
+"nom": "Vincent Ricordel",
+"site": "https://www.ls2n.fr/membres/ricordel-v",
+"statut": "MCF HDR",
+"employeur": "Nantes Université",
+"emerite": false
+},
+{
+"nom": "Myriam Servières",
+"site": "https://www.ls2n.fr/membres/servieres-m-2",
+"statut": "PR",
+"employeur": "Centrale Nantes",
+"emerite": false
+},
+{
+"nom": "Matthieu Perreira Da Silva",
+"site": "https://www.ls2n.fr/membres/perreiradasilva-m",
+"statut": "MCF",
+"employeur": "Nantes Université",
+"emerite": false
+},
+{
+"nom": "Vincent Tourre",
+"site": "https://www.ls2n.fr/membres/tourre-v-1",
+"statut": "MCF",
+"employeur": "Centrale Nantes",
+"emerite": false
+},
+{
+"nom": "Toinon Vigier",
+"site": "https://www.ls2n.fr/membres/vigier-t2",
+"statut": "MCF",
+"employeur": "Nantes Université",
+"emerite": false
+}
+],
+"source": "https://www.ls2n.fr/recherche/equipes/membres/ipi"
+},
+"LS2N/PACCE": {
+"liste": [
+{
+"nom": "Olivier Augereau",
+"site": "https://www.ls2n.fr/membres/augereau-o",
+"statut": "MCF",
+"employeur": "Centrale Nantes",
+"emerite": false
+},
+{
+"nom": "Camilo Charron",
+"site": "https://www.ls2n.fr/membres/charron-c",
+"statut": "PR",
+"employeur": "Université Rennes 2",
+"emerite": false
+},
+{
+"nom": "Mathieu Chollet",
+"site": "https://www.gla.ac.uk/schools/computing/staff/mathieuchollet/",
+"statut": "MA (lecturer)",
+"employeur": "University of Glasgow",
+"emerite": false
+},
+{
+"nom": "Cédric Dumas",
+"site": "https://www.ls2n.fr/membres/dumas-c-2",
+"statut": "MA",
+"employeur": "IMT Atlantique",
+"emerite": false
+},
+{
+"nom": "Rebecca Fribourg",
+"site": "https://rebeccafribourg.com/",
+"statut": "MCF",
+"employeur": "Centrale Nantes",
+"emerite": false
+},
+{
+"nom": "Franck Mars",
+"site": "https://www.ls2n.fr/membres/mars-f",
+"statut": "DR",
+"employeur": "CNRS",
+"emerite": false
+},
+{
+"nom": "Isabelle Milleville-Pennel",
+"site": "https://www.ls2n.fr/membres/milleville-i",
+"statut": "CR HDR",
+"employeur": "CNRS",
+"emerite": false
+},
+{
+"nom": "Jean-Marie Normand",
+"site": "https://www.ls2n.fr/membres/normand-jm-2",
+"statut": "PR",
+"employeur": "Centrale Nantes",
+"emerite": false
+},
+{
+"nom": "Étienne Peillard",
+"site": "http://www.etiennepeillard.com/",
+"statut": "MA",
+"employeur": "IMT Atlantique",
+"emerite": false
+},
+{
+"nom": "Jean-François Petiot",
+"site": "https://www.ls2n.fr/membres/petiot-jf",
+"statut": "PR",
+"employeur": "Centrale Nantes",
+"emerite": false
+},
+{
+"nom": "Émilie Poirson",
+"site": "https://www.ls2n.fr/membres/poirson-e",
+"statut": "PR",
+"employeur": "Centrale Nantes",
+"emerite": false
+},
+{
+"nom": "Yannick Prié",
+"site": "https://yannickprie.net/",
+"statut": "PR",
+"employeur": "Nantes Université",
+"emerite": false
+},
+{
+"nom": "Jean-Philippe Rivière",
+"site": "https://www.ls2n.fr/membres/riviere-jp",
+"statut": "MCF",
+"employeur": "Nantes Université",
+"emerite": false
+},
+{
+"nom": "Loïck Simon",
+"site": "https://www.ls2n.fr/membres/simon-l-6",
+"statut": "MCF",
+"employeur": "Centrale Nantes",
+"emerite": false
+}
+],
+"source": "https://www.ls2n.fr/recherche/equipes/membres/pacce"
+}
+}
