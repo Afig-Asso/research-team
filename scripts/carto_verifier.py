@@ -7,7 +7,9 @@ Vérifie, pour chaque cartographie/fiches/*.yaml :
   - 1-2 domaines principaux, 3-8 thèmes principaux, chaque thème avec une phrase et 1-3 preuves ;
   - chaque preuve et publication représentative = id existant du corpus de l'équipe ;
   - pas de nom de permanent dans les phrases (granularité équipe) ;
-  - couverture : toutes les équipes ayant un corpus non vide ont une fiche.
+  - couverture : toutes les équipes ayant un corpus non vide ont une fiche ;
+  - chaque fiche correspond à une équipe de data.yaml (labo/sigle) ;
+  - les clés de scores.json (thèmes, secteurs) existent dans vocabulaire.json.
 Signale aussi les équipes à faible corpus (< 10 publications) à relire en priorité.
 Code de sortie 1 s'il y a des erreurs.
 Mode public (--public, dépôt GitHub) : corpus = cartographie/donnees/publications, pas de contrôle des noms
@@ -31,6 +33,10 @@ perms = {} if PUBLIC else yaml.safe_load(open(ROOT / 'permanents' / 'permanents.
 noms = {p['nom'] for v in perms.values() for p in (v.get('permanents') or []) + [e for e in (v.get('emerites') or []) if isinstance(e, dict)]}
 noms_famille = {n.split()[-1] for n in noms if len(n.split()[-1]) >= 4}
 
+DATA = yaml.safe_load(open(ROOT / ('data.yaml' if PUBLIC else 'data_propose.yaml'), encoding='utf-8'))
+EQUIPES_DATA = {f'{l}/{s}' for l, v in DATA.items() if isinstance(v, dict) for s in (v.get('Equipes') or {})}
+SCORES = json.loads((CARTO / 'donnees' / 'scores.json' if PUBLIC else CARTO / 'scores.json').read_text())
+
 erreurs, avertissements = [], []
 corpus_ids = {}
 for f in CORPUS.glob('*.json'):
@@ -50,6 +56,8 @@ for f in sorted((CARTO / 'fiches').glob('*.yaml')):
     vues.add(f.stem)
     if fi.get('equipe') != equipe:
         e(f"clé equipe {fi.get('equipe')!r} ≠ {equipe!r}")
+    if fi.get('equipe') not in EQUIPES_DATA:
+        e(f"équipe {fi.get('equipe')!r} absente de data.yaml (renommée ou retirée ? renommer ou supprimer la fiche)")
     d = fi.get('domaines') or {}
     pr, se = d.get('principaux') or [], d.get('secondaires') or []
     if not 1 <= len(pr) <= 2:
@@ -104,6 +112,12 @@ for f in sorted((CARTO / 'fiches').glob('*.yaml')):
 for stem, (equipe, ids) in corpus_ids.items():
     if ids and stem not in vues:
         erreurs.append(f'{stem}: fiche manquante')
+
+for stem, sc in SCORES.items():
+    for couche, connus in (('themes', THE), ('applications', APP)):
+        for k in (sc.get(couche) or {}):
+            if k not in connus:
+                erreurs.append(f'{stem}: scores.json, clé {couche} {k!r} absente de vocabulaire.json (recalculer les scores)')
 
 print(f'{len(vues)} fiches contrôlées, {len(erreurs)} erreurs, {len(avertissements)} avertissements')
 for m in erreurs:

@@ -262,8 +262,11 @@ def charger():
             corpus['these:' + x['id']] = {'titre': x['titre'], 'annee': x['annee'], 'url': 'https://theses.fr/' + x['id'],
                                           'lieu': 'Thèse, ' + x['etablissement'], 'type': 'these'}
         labo, sigle = fi['equipe'].split('/', 1)
-        lab = data[labo]
-        eq = lab['Equipes'][sigle]
+        lab = data.get(labo) or {}
+        eq = (lab.get('Equipes') or {}).get(sigle)
+        if eq is None:  # équipe renommée ou retirée de data.yaml : on ignore la fiche plutôt que de planter
+            print(f"ATTENTION {fichier.name} : équipe {fi['equipe']} absente de data.yaml, fiche ignorée", file=sys.stderr)
+            continue
         ville = ville_equipe(lab, eq)
         region = REGION_FORMATION.get(ville, ville)
         pub = lambda i: {k: corpus[i][k] for k in ('titre', 'annee', 'lieu', 'url', 'type')} if i in corpus else None
@@ -362,7 +365,7 @@ h1{font-size:24px;margin:0 0 4px} h2{font-size:19px;margin:28px 0 6px} h3{font-s
 .btn{font:inherit;font-size:13px;border:1px solid var(--line);background:var(--panel);color:var(--ink);border-radius:6px;padding:2px 10px;cursor:pointer}
 .h0{background:var(--heat0)}.h1{background:var(--heat1)}.h2{background:var(--heat2)}.h3{background:var(--heat3)}.h4{background:var(--heat4)}
 .dom-row th{background:var(--accent-soft)!important;color:var(--accent);font-weight:700}
-.legend{display:flex;gap:6px;align-items:center;font-size:12px;color:var(--muted)}.legend i{width:120px;height:12px;display:inline-block;border-radius:2px;background:linear-gradient(90deg,color-mix(in srgb,var(--heat4) 8%,var(--heat0)),var(--heat4))}
+.legend{display:flex;gap:6px;align-items:center;font-size:12px;color:var(--muted)}.legend i{width:120px;height:12px;display:inline-block;border-radius:2px;background:linear-gradient(90deg,var(--heat1),var(--heat4));background:linear-gradient(90deg,color-mix(in srgb,var(--heat4) 8%,var(--heat0)),var(--heat4))}
 .membres{width:100%;border-collapse:collapse;font-size:13px}.membres td{padding:3px 6px;border-top:1px solid var(--line);vertical-align:top}
 .membres td:first-child{white-space:nowrap;font-weight:500}.ig{display:inline-block;font-size:11px;border-radius:4px;padding:0 5px;white-space:nowrap}
 .ig-oui{background:var(--heat4);color:var(--panel)}.ig-partiel{background:var(--heat1);color:var(--ink)}.ig-non,.ig-inconnu{background:var(--chip);color:var(--muted)}
@@ -562,7 +565,7 @@ header .banner{background:color-mix(in srgb,var(--brand) 12%,transparent);color:
   <h2>Équipes de recherche</h2>
   <p class="meta" id="ann-resume"></p>
   <div class="ann-outils"><div class="ann-champ"><input type="search" id="ann-q" placeholder="Mot-clé : jeu vidéo, santé, Gaussian splatting, Lyon…" aria-label="Rechercher une équipe par mot-clé" role="combobox" aria-autocomplete="list" aria-expanded="false" aria-controls="ann-sugg" autocomplete="off"><ul class="ann-sugg" id="ann-sugg" role="listbox" aria-label="Suggestions" hidden></ul></div><div class="ann-filtres" id="ann-filtres"></div><div class="ann-villes" id="ann-villes"></div></div>
-  <div id="ann-liste"></div>
+  <div id="ann-liste"><p class="meta">Chargement…</p></div>
   <p class="meta">Compléter ou modifier : <a href="mailto:contact@asso-afig.fr">contact@asso-afig.fr</a> ou une demande de fusion sur le <a href="https://github.com/Afig-Asso/research-team" target="_blank" rel="noopener">dépôt GitHub</a>.</p>
  </section>
   <section id="carte-s">
@@ -609,6 +612,8 @@ dlg.addEventListener('close',retirerAncre);dlg.addEventListener('cancel',retirer
 const ficheDepuisAncre=()=>{const e=EQ.find(x=>'#'+ancreEq(x.labo,x.sigle)===location.hash);if(e){if(!(dlg.open&&dlg.dataset.eq===e.id))fiche(e.id);return}
  const n=location.hash.length>1&&document.getElementById(decodeURIComponent(location.hash.slice(1)));if(n)n.scrollIntoView()};
 window.addEventListener('hashchange',ficheDepuisAncre);
+// chaque section est rendue à part : une erreur dans l'une n'empêche pas les autres (ni l'ouverture de la fiche visée)
+function section(sels,f){try{f()}catch(err){console.error(err);sels.forEach(sel=>{const c=document.querySelector(sel);if(c)c.innerHTML='<p class="banner">Erreur d’affichage de cette section. Les autres parties de la page restent utilisables.</p>'})}}
 function bind(root){root.querySelectorAll('[data-eq]').forEach(n=>n.onclick=()=>fiche(n.dataset.eq));
  root.querySelectorAll('[data-site]').forEach(n=>n.onclick=()=>{const e=EQ.find(x=>x.id===n.dataset.site);const u=e.url||e.labo_url;if(u)window.open(u,'_blank','noopener');else fiche(e.id)});
  root.querySelectorAll('[data-cell]').forEach(n=>n.onclick=()=>{const [id,c,k]=n.dataset.cell.split('|');cellule(id,c,k)})}
@@ -627,7 +632,7 @@ function cellule(id,c,k){const e=EQ.find(x=>x.id===id),x=e[c][k],V=c==='st'?T:A;
   <div>${p.url?`<a href="${esc(p.url)}" target="_blank" rel="noopener">${esc(p.titre)}</a>`:esc(p.titre)} <span class="meta">— ${esc(p.lieu)}, ${p.annee}${p.partiel?' · membre IG en partie':''}</span>
   <div class="kw"><span class="piste" style="width:40px"><i style="width:${Math.round(100*w/mx)}%"></i></span>mots-clés : <b>${esc(kw)}</b></div></div></div>`}).join('')}`;
  dlg.dataset.eq="";dlg.showModal();dlg.scrollTop=0}
-function liste(e,sc,V){const c=sc===e.st?'st':'sa';return Object.entries(sc).sort((a,b)=>b[1].p-a[1].p).map(([k,x])=>{const ex=x.ex.map(i=>e.exemples[i]).filter(Boolean).map(p=>`• ${p.titre} (${p.annee})`).join('\n');
+function liste(e,sc,V){const c=sc===e.st?'st':'sa';return Object.entries(sc).filter(([k])=>V[k]).sort((a,b)=>b[1].p-a[1].p).map(([k,x])=>{const ex=x.ex.map(i=>e.exemples[i]).filter(Boolean).map(p=>`• ${p.titre} (${p.annee})`).join('\n');
  return `<div title="${esc(detail(x))}${ex?'\n'+esc(ex):''}"><span class="piste"><i style="width:${Math.round(100*intensite(x,c))}%"></i></span>${esc(V[k].fr)}</div>`}).join('')}
 const LIB_IG={oui:'IG',partiel:'IG en partie',non:'hors IG',inconnu:'IG ?'};
 function tableMembres(e){const m=e.membres;if(!m.liste.length)return '<p class="meta">Liste non disponible.</p>';
@@ -694,7 +699,7 @@ function tableau(cible, selEl, etat, groupes, libelle, score, info){
  groupes.forEach(([titre,ids])=>{const lignes=ids.filter(id=>cols.some(e=>score(e,id)));if(!lignes.length)return;
   h+=`<tr class="dom-row"><th colspan="${cols.length+1}">${esc(titre)}</th></tr>`;
   lignes.forEach(id=>{const n=cols.filter(e=>score(e,id)).length;const lib=libelle(id);
-   h+=`<tr><th class="${etat.ligne===id?'actif':''}" title="${esc(lib.en)}"><span class="lien" data-ligne="${id}">${esc(lib.fr)}</span> <span class="meta">(${n})</span></th>${cols.map(e=>{const s=score(e,id);return `<td class="${s?'':'h0'}${sep(e)}" ${s?`style="background:${couleur(s)}" data-cell="${e.id}|${etat.couche}|${id}" title="${esc(nomEq(e))} — ${esc(info(e,id))}"`:''}></td>`}).join('')}</tr>`})});
+   h+=`<tr><th class="${etat.ligne===id?'actif':''}" title="${esc(lib.en)}"><span class="lien" data-ligne="${id}">${esc(lib.fr)}</span> <span class="meta">(${n})</span></th>${cols.map(e=>{const s=score(e,id);return `<td class="${s?'h'+Math.max(1,Math.ceil(4*s)):'h0'}${sep(e)}" ${s?`style="background:${couleur(s)}" data-cell="${e.id}|${etat.couche}|${id}" title="${esc(nomEq(e))} — ${esc(info(e,id))}"`:''}></td>`}).join('')}</tr>`})});
  cible.innerHTML=h+'</tbody></table>';bind(cible);
  // en-têtes figés : chaque ligne d'en-tête se colle exactement sous la précédente (hauteurs mesurées, pas de trou)
  figer(cible);
@@ -721,13 +726,13 @@ const rangees=new Set(FAMILLES.flatMap(f=>f[1])); const autres=VOC.applications.
 const etatA={dom:null,ligne:null,couche:'sa'};
 etatA.rendre=()=>tableau($('#matrice-app'),$('#sel-app'),etatA,FAMILLES.map(([f,ids])=>[f,ids.filter(id=>A[id])]),id=>A[id],scoreA,(e,id)=>detail(e.sa[id]));
 filtresDomaines($('#filtre-dom-app'),etatA);
-legende();etatT.rendre();etatA.rendre();
+section(['#matrice','#matrice-app'],()=>{legende();etatT.rendre();etatA.rendre()});
 // annuaire : villes -> laboratoires -> équipes, filtré par la recherche
 const ANN=__ANN__;
 const corr=(nom,url)=>url?`<a class="corr" href="${esc(url)}" target="_blank" rel="noopener" title="Page web de ${esc(nom)}">${esc(nom)}</a>`:esc(nom);
 const sansAccent=s=>String(s??'').normalize('NFD').replace(/[̀-ͯ]/g,'').toLowerCase();
 const lien=(u,t,cls='')=>u?`<a class="${cls}" href="${esc(u)}" target="_blank" rel="noopener">${esc(t)}</a>`:`<b class="${cls}">${esc(t)}</b>`;
-const ancre=v=>'v-'+sansAccent(v).replace(/[^a-z0-9]+/g,'-');
+const ancre=v=>'v-'+sansAccent(String(v??'').split(',')[0]).replace(/[^a-z0-9]+/g,'-').replace(/^-+|-+$/g,'');  // même règle que city_id() de cartographie/site/carte.js
 const tuile=(e,v,l)=>{const f=EQ.find(x=>x.id===e.fiche),st=f?f.stats:{};
  const nIG=st.permanents_ig??'?',nP=st.permanents_partiel||0;
  const sig=e.fiche?`<button class="sig lien-sig" data-eq="${e.fiche}" title="Ouvrir la fiche">${esc(e.sigle)}</button>`:lien(e.url,e.sigle,'sig');
@@ -810,7 +815,8 @@ function annuaireRendre(){const q=sansAccent($('#ann-q').value.trim());let nE=0;
  $('#ann-liste').innerHTML=html||'<p class="meta">Aucune équipe ne correspond.</p>';bind($('#ann-liste'));
  $('#ann-villes').innerHTML=vis.map(v=>`<a href="#${ancre(v)}">${esc(v)}</a>`).join('');
  $('#ann-resume').textContent=(q||FILTRES.length)?`${nE} équipe${nE>1?'s':''} sur ${ANN.reduce((s,v)=>s+v.labos.reduce((t,l)=>t+l.equipes.length,0),0)} correspondent, dans ${nL.size} laboratoire${nL.size>1?'s':''} et ${vis.length} ville${vis.length>1?'s':''}.`:`${nE} équipes, ${nL.size} laboratoires, ${vis.length} villes. Clic sur le sigle : fiche de l'équipe.`}
-annuaireRendre();
+section(['#ann-liste'],annuaireRendre);
+section([],ficheDepuisAncre);
 // carte des domaines : chaque équipe est placée selon la répartition de ses publications entre les domaines
 // (part de ses publications par thème, ramenée aux domaines du thème : premier domaine 1, second 0,5),
 // à l'intérieur d'un cercle de domaines ordonné pour rapprocher ceux que les mêmes équipes partagent.
@@ -919,8 +925,7 @@ function carteRendre(){const {W,H,cx,cy,R,ids,ordre,P,ancre,nd,TAILLES}=CARTE,el
  $('#carte-liste').innerHTML=`<dl>${ordre.map(d=>{const eqs=eqsDe(d);return `<dt>${esc(D[d].fr)}</dt><dd>${eqs.length?eqs.map(n=>`${esc(n.e.sigle)} ${pct(P[n.e.id][d])}`).join(', '):'aucune équipe au-dessus de 15 %'}</dd>`}).join('')}</dl>`;
  repos();
  if(el.scrollWidth>el.clientWidth&&!el.dataset.centre){el.scrollLeft=(el.scrollWidth-el.clientWidth)/2;el.dataset.centre=1}}
-carteRendre();
-ficheDepuisAncre();
+section(['#carte'],carteRendre);
 </script>
 </body>
 </html>
