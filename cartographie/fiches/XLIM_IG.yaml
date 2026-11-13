@@ -70,11 +70,11 @@ applications:
   - p24810d953f
   - pccf91467e5
 publications_representatives:
+- pb8e0b2ce43
+- p1afadc2bff
 - p60d5294579
 - p2dbafdbb1a
-- p1dbd0c40cb
 - pcf990db045
-- p811600e44e
 synthese: Modélisation géométrique et topologique (cartes combinatoires, géométrie discrète, courbes et surfaces), modèles
   de réflectance et visualisation scientifique.
 pour_etudiants: On décrit mathématiquement les formes, y compris sur des grilles de pixels et de voxels, et la manière dont

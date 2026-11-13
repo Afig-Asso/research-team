@@ -63,11 +63,11 @@ applications:
   - pdca7d245a2
   - peb9dd84cff
 publications_representatives:
+- pb8e0b2ce43
+- p1afadc2bff
+- p1e7a1e8233
 - pb7ec59b94e
 - peb9dd84cff
-- pef33ad8735
-- pae47c1110e
-- p172698c88b
 synthese: Rendu temps réel sur GPU et visualisation de très grands volumes de données (molécules, scènes urbaines), géométrie
   algorithmique.
 pour_etudiants: On programme des cartes graphiques pour afficher et explorer en temps réel des molécules géantes ou des villes
