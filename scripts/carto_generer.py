@@ -237,7 +237,12 @@ def annuaire(data, ids_fiches, sites_noms={}):
     for reg in sorted(regions, key=lambda x: (x == 'Autre', sans_accent(x))):
         labos = sorted(regions[reg]['labos'].values(), key=lambda l: (l['ville_aff'] == '', sans_accent(l['ville_aff']), l['sigle'].lower()))
         for l in labos:
+            # labo sans ville dans la région (ex. Inria) : la ville de ses équipes quand elles sont toutes au même endroit
+            villes_eq = {e['ville'].split(',')[0].strip() for e in l['equipes']}
+            if not l['ville_aff'] and len(villes_eq) == 1:
+                l['ville_aff'] = villes_eq.pop()
             l['equipes'].sort(key=lambda e: (sans_accent(e['ville'].split(',')[0]), e['sigle'].lower()))
+        labos.sort(key=lambda l: (l['ville_aff'] == '', sans_accent(l['ville_aff']), l['sigle'].lower()))
         res.append({'ville': reg, 'villes': sorted(regions[reg]['villes'], key=sans_accent), 'labos': labos})
     return res
 

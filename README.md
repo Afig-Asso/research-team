@@ -20,7 +20,7 @@ Rem. Le fichier README.md est généré automatiquement à partir du fichier dat
 - [**ICUBE**](https://icube.unistra.fr/) : [IGG](https://igg.icube.unistra.fr/index.php?title=Accueil), [MIMESIS](https://team.inria.fr/mimesis/) (Strasbourg) 
 - [**IRISA**](https://www.irisa.fr/) : [COMBO](https://team.inria.fr/combo/), [EXPRESSION](https://www-expression.irisa.fr/presentation/), [Rainbow](https://team.inria.fr/rainbow/), [Seamless](https://team.inria.fr/seamless/), [VirtUs](https://team.inria.fr/virtus/) (Rennes) 
 - [**IRIT**](https://www.irit.fr/) : [REVA](https://www.irit.fr/departement/calcul-intensif-simulation-optimisation/reva/), [STORM](https://www.irit.fr/STORM/site/) (Toulouse) 
-- [**Inria**](https://www.inria.fr/fr) : [AVIZ](https://aviz.saclay.inria.fr/), [GraphDeco](https://team.inria.fr/graphdeco/), [Titane](https://team.inria.fr/titane/), [MIMESIS](https://team.inria.fr/mimesis/), [Seamless](https://team.inria.fr/seamless/), [COMBO](https://team.inria.fr/combo/), [Rainbow](https://team.inria.fr/rainbow/), [VirtUs](https://team.inria.fr/virtus/), [GeomeriX](https://team.inria.fr/geomerix/), [ELAN](https://team.inria.fr/elan/), [MAVERICK](https://team.inria.fr/maverick/), [CRAFT](https://team.inria.fr/craft/), [Kinetix](https://team.inria.fr/kinetix/), [MFX](https://mfx.loria.fr/), [PIXEL](https://pixel.inria.fr/), [Manao](https://manao.inria.fr/) 
+- [**Inria**](https://www.inria.fr/fr) : [GraphDeco](https://team.inria.fr/graphdeco/), [Titane](https://team.inria.fr/titane/), [MIMESIS](https://team.inria.fr/mimesis/), [Seamless](https://team.inria.fr/seamless/), [COMBO](https://team.inria.fr/combo/), [Rainbow](https://team.inria.fr/rainbow/), [VirtUs](https://team.inria.fr/virtus/), [AVIZ](https://aviz.saclay.inria.fr/), [GeomeriX](https://team.inria.fr/geomerix/), [ELAN](https://team.inria.fr/elan/), [MAVERICK](https://team.inria.fr/maverick/), [CRAFT](https://team.inria.fr/craft/), [Kinetix](https://team.inria.fr/kinetix/), [MFX](https://mfx.loria.fr/), [PIXEL](https://pixel.inria.fr/), [Manao](https://manao.inria.fr/) 
 - [**LAMA**](https://www.lama.univ-smb.fr/) : [LIMD](https://www.lama.univ-smb.fr/members/limd) (Le Bourget-du-Lac) 
 - [**LAMPA**](https://lampa.artsetmetiers.fr/) : [Réalités étendues](https://lampa.artsetmetiers.fr/interactions-humain-machine-et-cognition-dans-les-realites-etendues) (Laval) 
 - [**LIASD**](https://www.univ-paris8.fr/UR-Laboratoire-d-Intelligence-Artificielle-et-Semantique-des-Donnees-LIASD) : [PASTIS](https://informatique.up8.edu/pastis/) (Saint-Denis) 
@@ -30,6 +30,7 @@ Rem. Le fichier README.md est généré automatiquement à partir du fichier dat
 - [**LIRMM**](https://www.lirmm.fr/) : [ICAR](https://www.lirmm.fr/icar/) (Montpellier) 
 - [**LIS**](https://www.lis-lab.fr/) : [GMOD](https://www.lis-lab.fr/gmod/) (Marseille) 
 - [**LISIC**](https://lisic-prod.univ-littoral.fr/) : [SEPIA](https://lisic-prod.univ-littoral.fr/equipe/sepia/) (Calais) 
+- [**LISN**](https://www.lisn.upsaclay.fr/) : [AVIZ](https://aviz.saclay.inria.fr/) (Gif-sur-Yvette) 
 - [**LIX**](https://www.lix.polytechnique.fr/) : [GeomeriX](https://team.inria.fr/geomerix/), [VISTA](https://www.lix.polytechnique.fr/vista/) (Palaiseau) 
 - [**LJK**](https://www-ljk.imag.fr/) : [CRAFT](https://team.inria.fr/craft/), [ELAN](https://team.inria.fr/elan/), [Kinetix](https://team.inria.fr/kinetix/), [MAVERICK](https://team.inria.fr/maverick/) (Grenoble) 
 - [**LORIA**](https://www.loria.fr/fr) : [MFX](https://mfx.loria.fr/), [PIXEL](https://pixel.inria.fr/) (Nancy) 
@@ -76,6 +77,15 @@ Rem. Le fichier README.md est généré automatiquement à partir du fichier dat
   * **[MG](https://lib.ube.fr/equipes/modelisation-geometrique/)** - Modélisation Géométrique 
     * Correspondant: Christian Gentil 
     * Thèmes: _Modélisation (géométrique, itérative et par contraintes)_ 
+
+
+### Gif-sur-Yvette 
+
+* **[LISN](https://www.lisn.upsaclay.fr/)** - Laboratoire Interdisciplinaire des Sciences du Numérique 
+  * CNRS UMR-9015 
+  * **[AVIZ](https://aviz.saclay.inria.fr/)** - Analysis and VIsualiZation 
+    * Thèmes: _Visualisation d'information, analyse progressive de données, physicalisation, perception et décision, méthodologie de la visualisation._ 
+    * _Equipe commune Inria_ 
 
 
 ### Grenoble 
@@ -299,9 +309,6 @@ Rem. Le fichier README.md est généré automatiquement à partir du fichier dat
 ### Autre 
 
 * **[Inria](https://www.inria.fr/fr)** - Institut national de recherche en sciences et technologies du numérique 
-  * **[AVIZ](https://aviz.saclay.inria.fr/)** - Analysis and VIsualiZation 
-    * Thèmes: _Visualisation d'information, analyse progressive de données, physicalisation, perception et décision, méthodologie de la visualisation._ 
-    * Ville: Saclay 
   * **[GraphDeco](https://team.inria.fr/graphdeco/)** - Graphics and Design with heterogeneous content 
     * Correspondant: George Drettakis 
     * Thèmes: _Design and artistic guided visual content, Unified representation of computer graphics models and algorithms._ 
@@ -315,6 +322,7 @@ Rem. Le fichier README.md est généré automatiquement à partir du fichier dat
   * **[COMBO](https://team.inria.fr/combo/)** - _Equipe commune avec IRISA_ 
   * **[Rainbow](https://team.inria.fr/rainbow/)** - _Equipe commune avec IRISA_ 
   * **[VirtUs](https://team.inria.fr/virtus/)** - _Equipe commune avec IRISA_ 
+  * **[AVIZ](https://aviz.saclay.inria.fr/)** - _Equipe commune avec LISN_ 
   * **[GeomeriX](https://team.inria.fr/geomerix/)** - _Equipe commune avec LIX_ 
   * **[ELAN](https://team.inria.fr/elan/)** - _Equipe commune avec LJK_ 
   * **[MAVERICK](https://team.inria.fr/maverick/)** - _Equipe commune avec LJK_ 

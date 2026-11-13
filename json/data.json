@@ -471,16 +471,24 @@
                 ],
                 "Correspondant": "Pierre Alliez",
                 "Thèmes": "Computerized geometric modeling of complex scenes from physical measurements."
-            },
+            }
+        }
+    },
+    "LISN": {
+        "Nom": "Laboratoire Interdisciplinaire des Sciences du Numérique",
+        "Ville": "Gif-sur-Yvette",
+        "Coordonnées": [
+            48.7124,
+            2.1671
+        ],
+        "URL": "https://www.lisn.upsaclay.fr/",
+        "UMR": 9015,
+        "Equipes": {
             "AVIZ": {
                 "Nom": "Analysis and VIsualiZation",
                 "URL": "https://aviz.saclay.inria.fr/",
-                "Ville": "Saclay",
-                "Coordonnées": [
-                    48.7124,
-                    2.1671
-                ],
-                "Thèmes": "Visualisation d'information, analyse progressive de données, physicalisation, perception et décision, méthodologie de la visualisation."
+                "Thèmes": "Visualisation d'information, analyse progressive de données, physicalisation, perception et décision, méthodologie de la visualisation.",
+                "Inria": null
             }
         }
     },
