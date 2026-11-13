@@ -189,6 +189,11 @@ def membres(p, equipe='', sites={}):
     return {'liste': res, 'source': p.get('source'), 'date': p.get('date_source')}
 
 
+# Laboratoires présentés en un bloc par site quand leurs équipes sont dans deux villes d'une même région
+# (demande de Damien, 2026-11-13 : « XLIM Poitiers » et « XLIM Limoges » plutôt qu'un seul bloc XLIM).
+SITES_SEPARES = {'XLIM'}
+
+
 def annuaire(data, ids_fiches, sites_noms={}):
     """Annuaire classique (même contenu que le README du dépôt GitHub, généré depuis data.yaml) : villes ->
     laboratoires -> équipes. Une équipe est rangée dans sa propre ville (champ Ville de l'équipe, sinon du labo)."""
@@ -221,11 +226,13 @@ def annuaire(data, ids_fiches, sites_noms={}):
         bloc_r = regions.setdefault(reg, {'villes': set(), 'labos': {}})
         bloc_r['villes'].add(v)
         for labo, l in villes[v].items():
-            if labo in bloc_r['labos']:
-                bloc_r['labos'][labo]['equipes'] += l.get('equipes', [])
+            site = (REGION_FORMATION.get(v) or v) if labo in SITES_SEPARES else ''  # un bloc par site
+            cle = (labo, site)
+            if cle in bloc_r['labos']:
+                bloc_r['labos'][cle]['equipes'] += l.get('equipes', [])
                 continue
-            vl = (l.get('ville') or '').split(',')[0].strip()
-            bloc_r['labos'][labo] = dict(l, equipes=list(l.get('equipes', [])), ville_aff=vl if REGION.get(vl) == reg else '')
+            vl = site or (l.get('ville') or '').split(',')[0].strip()
+            bloc_r['labos'][cle] = dict(l, equipes=list(l.get('equipes', [])), site=site, ville_aff=vl if REGION.get(vl) == reg else '')
     res = []
     for reg in sorted(regions, key=lambda x: (x == 'Autre', sans_accent(x))):
         labos = sorted(regions[reg]['labos'].values(), key=lambda l: (l['ville_aff'] == '', sans_accent(l['ville_aff']), l['sigle'].lower()))
@@ -384,7 +391,7 @@ footer{padding:16px;color:var(--muted);font-size:12px}
 .ann-outils input{font:inherit;font-size:14px;padding:6px 10px;border:1px solid var(--line);border-radius:8px;background:var(--panel);color:var(--ink);width:min(320px,100%)}
 .ann-villes{display:flex;flex-wrap:wrap;gap:4px}.ann-villes a{font-size:12px;text-decoration:none;background:var(--chip);border-radius:999px;padding:2px 9px;color:var(--ink)}
 .ann-villes a:hover{background:var(--accent-soft);color:var(--accent)}
-.labo-ville{font-size:12px;color:var(--muted);font-weight:600;margin:4px 0 0;text-transform:uppercase;letter-spacing:.04em}.ville{position:relative}.ancre-ville{position:absolute;top:0;left:0;width:0;height:0;scroll-margin-top:12px}  /* hors de la grille de .ville */
+.labo-site{font-weight:800;color:var(--accent)}.labo-ville{font-size:12px;color:var(--muted);font-weight:600;margin:4px 0 0;text-transform:uppercase;letter-spacing:.04em}.ville{position:relative}.ancre-ville{position:absolute;top:0;left:0;width:0;height:0;scroll-margin-top:12px}  /* hors de la grille de .ville */
 .ville{margin:18px 0 0}.ville h3{font-size:15px;margin:0 0 8px;color:var(--muted);text-transform:uppercase;letter-spacing:.06em;font-weight:600;
  display:flex;align-items:center;gap:10px}.ville h3::after{content:"";flex:1;height:1px;background:var(--line)}
 .labos{display:grid;grid-template-columns:repeat(auto-fill,minmax(330px,1fr));gap:12px}
@@ -806,8 +813,8 @@ function annuaireRendre(){const q=sansAccent($('#ann-q').value.trim());let nE=0;
    if((q||FILTRES.length)&&!eqs.length&&!(l.equipes.length===0&&!FILTRES.length&&txtL.includes(q)))return '';
    nL.add(l.sigle);nE+=eqs.length;
    return `<article class="labo">
-    <header class="labo-t"><div class="labo-id">${lien(l.url,l.sigle)}${l.umr?`<span class="badge badge-umr">UMR ${esc(l.umr)}</span>`:''}</div>
-     <p class="labo-n">${esc(l.nom)}</p>${l.ville_aff?`<p class="labo-ville">${esc(l.ville_aff)}</p>`:''}</header>
+    <header class="labo-t"><div class="labo-id">${lien(l.url,l.sigle)}${l.site?`<span class="labo-site">${esc(l.site)}</span>`:''}${l.umr?`<span class="badge badge-umr">UMR ${esc(l.umr)}</span>`:''}</div>
+     <p class="labo-n">${esc(l.nom)}</p>${l.ville_aff&&!l.site?`<p class="labo-ville">${esc(l.ville_aff)}</p>`:''}</header>
     ${l.equipes.length?`<ul class="equipes">${eqs.map(e=>tuile(e,v,l)).join('')}</ul>`:(l.correspondant?`<p class="labo-vide">Correspondant : ${corr(l.correspondant,l.correspondant_site)}</p>`:'')}
    </article>`}).join('');
   if(!labos)return '';vis.push(v.ville);
